@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { marked } from 'marked';
 
-const API = import.meta.env.VITE_RAG_ENDPOINT || 'http://localhost:8080/search';
+// ⬇️  NEW DEFAULT:  falls back to “/api/rag” in production/PWA
+const API = import.meta.env.VITE_RAG_ENDPOINT || '/api/rag';
 
 export default function RagAssistant() {
   const [q, setQ] = useState('');

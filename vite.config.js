@@ -9,6 +9,21 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      workbox: {
+        runtimeCaching: [
+          {
+            urlPattern: /^\/api\/(chat|gemini|rag).*$/,
+            method: 'POST',
+            handler: 'NetworkOnly',
+            options: {
+              backgroundSync: {
+                name: 'apiQueue',
+                maxRetentionTime: 60,   // minutes
+              },
+            },
+          },
+        ],
+      },
       manifest: {
         name: 'Misophonia Companion',
         short_name: 'Companion',
