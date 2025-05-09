@@ -15,7 +15,7 @@
 # Redirect all requests to index.html for SPA routing
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/:splat"
+  to = "/.netlify/functions/:splat" 
   status = 200
 
 [[redirects]]
