@@ -20,12 +20,12 @@
 
 [[redirects]]
   from = "/api/gemini"
-  to = "/.netlify/functions/research-assistant"
+  to = "/.netlify/functions/research"
   status = 200
 
 [[redirects]]
   from = "/api/rag"
-  to = "/.netlify/functions/rag-search"
+  to = "/.netlify/functions/rag"
   status = 200
 
 [[redirects]]
