@@ -14,12 +14,6 @@ export default defineConfig({
           {
             urlPattern: /^\/api\/(chat|gemini|rag).*$/,
             handler: 'NetworkOnly',
-            options: {
-              backgroundSync: {
-                name: 'apiQueue',
-                maxRetentionTime: 60,   // minutes
-              },
-            },
           },
         ],
       },
