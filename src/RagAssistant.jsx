@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { marked } from 'marked';
 
-// ⬇️  NEW DEFAULT:  falls back to “/api/rag” in production/PWA
+// ⬇️  NEW DEFAULT:  falls back to " /api/rag" in production/PWA
 const API = import.meta.env.VITE_RAG_ENDPOINT || '/api/rag';
 
 export default function RagAssistant() {
@@ -15,16 +15,22 @@ export default function RagAssistant() {
     if (!q.trim()) return;
     setLoading(true);
 
-    const r = await fetch(API, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ query: q, limit: 8 })
-    });
-
-    const d = await r.json();
-    setAnswer(d.answer ? marked.parse(d.answer) : 'No answer.');
-    setResults(d.results || []);
-    setLoading(false);
+    try {
+      const r = await fetch(API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query: q, limit: 8 })
+      });
+      if (!r.ok) throw new Error(`Server responded ${r.status}`);
+      const d = await r.json();
+      setAnswer(d.answer ? marked.parse(d.answer) : 'No answer.');
+      setResults(d.results || []);
+    } catch (err) {
+      setAnswer(`<p style="color:red;">${err.message}</p>`);
+      setResults([]);
+    } finally {
+      setLoading(false);    // always clear spinner
+    }
   };
 
   return (
