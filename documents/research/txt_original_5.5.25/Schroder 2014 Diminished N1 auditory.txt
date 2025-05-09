@@ -1,0 +1,579 @@
+BEHAVIORAL NEUROSCIENCEORIGINAL RESEARCH ARTICLE
+published: 09 April 2014
+doi: 10.3389/fnbeh.2014.00123
+Diminished N1 auditory evoked potentials to oddball
+stimuli in misophonia patients
+Arjan Schröder1*†, Rosanne van Diepen1†, Ali Mazaheri1*‡, Diamantis Petropoulos-Petalas1,
+Vicente Soto de Amesti1, Nienke Vulink1and Damiaan Denys1,2*‡
+1Department of Psychiatry, Academic Medical Center, University of Amsterdam, Amsterdam, Netherlands
+2Netherlands Institute for Neuroscience, an Institute of the Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands
+Edited by:
+Paul E. M. Phillips, University of
+Washington, USA
+Reviewed by:
+René Hurlemann, University of Bonn,
+Germany
+Adrian K. C. Lee, University of
+Washington, USA
+*Correspondence:
+Arjan Schröder, Ali Mazaheri and
+Damiaan Denys, Department of
+Psychiatry, Academic Medical Center,
+University of Amsterdam,
+Meibergdreef 5, 1105 AZ Amsterdam,
+Netherlands
+e-mail: a.e.schroder@amc.nl;
+ali.mazah@gmail.com; ddenys@
+gmail.com
+†Arjan Schröder and Rosanne van
+Diepen have contributed equally to
+this work.
+‡Senior co-authors.Misophonia (hatred of sound) is a newly deﬁned psychiatric condition in which ordinary
+human sounds, such as breathing and eating, trigger impulsive aggression. In the current
+study, we investigated if a dysfunction in the brain’s early auditory processing system could
+be present in misophonia. We screened 20 patients with misophonia with the diagnostic
+criteria for misophonia, and 14 matched healthy controls without misophonia, and investi-
+gated any potential deﬁcits in auditory processing of misophonia patients using auditory
+event-related potentials (ERPs) during an oddball task. Subjects watched a neutral silent
+movie while being presented a regular frequency of beep sounds in which oddball tones
+of 250 and 4000 Hz were randomly embedded in a stream of repeated 1000 Hz standard
+tones. We examined the P1, N1, and P2 components locked to the onset of the tones.
+For misophonia patients, the N1 peak evoked by the oddball tones had smaller mean peak
+amplitude than the control group. However, no signiﬁcant differences were found in P1
+and P2 components evoked by the oddball tones. There were no signiﬁcant differences
+between the misophonia patients and their controls in any of the ERP components to
+the standard tones.The diminished N1 component to oddball tones in misophonia patients
+suggests an underlying neurobiological deﬁcit in misophonia patients.This reduction might
+reﬂect a basic impairment in auditory processing in misophonia patients.
+Keywords: impulsivity, aggression, sound, misophonia, mismatch negativity, biological markers, auditory event-
+related potentials
+INTRODUCTION
+Misophonia is a newly deﬁned psychiatric condition, which is
+characterized by the hatred of ordinary human sounds (Hadji-
+pavlou et al., 2008; Schwartz et al., 2011; Edelstein et al., 2013;
+Ferreira and Harrison, 2013; Neal and Cavanna, 2013; Schröder
+et al. , 2013). The central hallmark of misophonia is an aggres-
+sive impulse automatically triggered by sounds, such as breathing,
+chewing, and eating. T o date, there has been no neurophysiological
+marker linked with this disorder. Such a marker could potentially
+beneﬁt the recognition of misophonia patients and give directions
+to further neurophysiological research in this domain.
+The underlying causes of misophonia are unknown. Patients
+usually report normal hearing and standard hearing tests do not
+reveal any audiological deﬁcits (Edelstein et al., 2013 ;Schröder
+et al., 2013). Therefore, our aim was to explore if the pathophysi-
+ology of this disorder manifested itself in some dysfunction of the
+auditory processing system. This was carried out by examining
+differences in speciﬁc components of the auditory event-related
+potentials (ERPs) between misophonia patients and controls,
+elicited by pure tones in an oddball paradigm.
+Early sensory components evoked by auditory stimulation
+include a positive peak around 50 ms (P50 or P1), a negative peak
+around 100 ms (N100 or N1), and a positive peak around 200 ms
+(P200 or P2). T o date, there have been a number of studies examin-
+ing anomalies in these components in various psychiatric disorderssuch as schizophrenia, bipolar disorder, and posttraumatic stress-
+disorder (PTSD) (O’Donnell et al., 1994; Javitt et al., 2000; Kayser
+et al., 2001; Salisbury et al., 2010; Javanbakht et al., 2011).
+The P1 is associated with pre-attentive orienting toward new
+sounds and is not yet affected by attention (Picton and Hill-
+yard, 1974; Pratt et al., 2008). Sensory gating (the suppression of
+responding to irrelevant stimuli) can be assessed by examining
+P1 suppression during repetitive presentation of an auditory-
+stimulus ( Luck and Kappenman, 2012 ). Its amplitude is found
+to be altered in various disorders such as autism, Alzheimer’s dis-
+ease, and attention-deﬁcit/hyperactivity disorder (Buchwald et al.,
+1989 , 1992; Kemner et al., 1996).
+The N1 peak is linked to early attention (Näätänen, 1992; Rinne
+et al., 2006). It has been suggested to signal the detection of abrupt
+changes in sensory input, which enables us to focus on events
+that are potentially informative ( Friston, 2005; Winkler, 2007;
+T odd et al., 2012). The N1 is commonly assessed in an “oddball”
+paradigm (Näätänen and Picton, 1987). In such paradigm, partici-
+pants are presented repetitive sounds (“standard”) with randomly
+occurring rare deviant sounds (“oddballs”), often while watching a
+silent movie. Attenuated N1 responses have been found in various
+studies of schizophrenia, a disorder in which notable audiological
+symptoms, i.e., acoustic hallucinations and delusions, are present.
+In these studies, N1 peaks were reduced in chronic schizophrenics,
+ﬁrst-hospitalized patients, and twins of schizophrenics ( Salisbury
+Frontiers in Behavioral Neuroscience www.frontiersin.org April 2014 | Volume 8 | Article 123 | 1
+
+Schröder et al. Diminished N1 potentials in misophonia
+et al., 2010). N1 ﬁndings in PTSD are inconsistent with some
+studies reporting increased N1 amplitude and others decreased
+amplitude. Peak latency increments were also found but not in all
+studies (Javanbakht et al., 2011). Interestingly, in antisocial person-
+ality disorder, an impaired N1 was related to increased impulsivity
+(Lijfﬁjt et al., 2012). Decreased N1 function was also found in
+cocaine abuse and bipolar disorder (Boutros et al., 2006; Lijfﬁjt
+et al., 2009).
+The P2 peak is an endogenous evoked component and appears
+to be involved in early allocation of attention and initial con-
+scious awareness (Näätänen, 1992). Less research has been focused
+on the P2 peak. Reduced P2 has been found in chronic and in
+ﬁrst-hospitalized schizophrenic patients (O’Donnell et al., 1994;
+Salisbury et al., 2010). In PTSD studies, the results are ambiguous
+with both increased and decreased P2 amplitudes being reported
+(Javanbakht et al., 2011).
+In our present study, we investigated early processing of audi-
+tory information using a non-attending oddball paradigm. We
+focused our analysis on any differences in the P1, N1, and P2
+components of the evoked potentials between patients diagnosed
+with misophonia, and matched healthy controls. While the exoge-
+nously generated P1 component could provide information about
+sensory gating, a P2 difference would point more toward attention-
+related malfunctioning. Because the N1 is considered the most
+stable ERP component, this could be a reliable marker of pathol-
+ogy. We believe that any difference between the auditory evoked
+responses of misophonia patients and controls could reﬂect an
+anomaly in the way that these patients ﬁlter novel information in
+the auditory environment.
+MATERIALS AND METHODS
+PARTICIPANTS
+Twenty patients with misophonia (males D11, femalesD9, aged
+20–55 years, MD35.9 years, SDD10.6 years) were screened with
+the diagnostic criteria for misophonia and severity was assessed
+with the Amsterdam Misophonia Scale (AMisoS) (Schröder et al.,
+2013). All patients were tested for auditory impairments (McArdle
+and Hnath-Chisolm, 2009; Schlauch and Nelson, 2009). Psychi-
+atric status was evaluated using the Symptom Checklist (SCL-
+90) (Derogatis et al., 1973), Hamilton Depression Rating Scale
+(HAM-D) (Hamilton, 1960), and Hamilton Anxiety Rating Scale
+(HAM-A) (Hamilton, 1959).
+Fourteen healthy controls (males D11, femalesD3), matched
+for demographical characteristics, were recruited on the absence
+of any misophonic symptoms or psychiatric comorbidity and
+tested. The age ranged between 23 and 55 years ( MD32.4 years,
+SDD9.0 years).
+Subjects were tested for hearing deﬁcits using standard hearing
+tests (tone and speech audiogram and loudness discomfort lev-
+els) and no deﬁcits were found. Complementarily, both groups
+ﬁlled out the Proﬁle of Mood States (POMS) – short form,
+which assessed arousal level and mood on ﬁve subscales (T ension–
+Anxiety, Depression–Dejection, Anger–Hostility, Fatigue–Inertia,
+and Vigor–Activity). The overall assessment of the current emo-
+tional state – the total mood disturbance (TMD) score – was
+calculated by adding up the ﬁrst four negative subscale scores
+and subtracting the Vigor–Activity score (McNair et al., 1992;T able 1 | Clinical and demographic characteristics of the study sample .
+Misophonia patients
+(ND20)Controls
+(ND14)
+Age (years)a35.9 (10.6) 32.4 (9.0)
+Gender (male/female)b11/9 11/3
+Comorbidity Remitted depressive
+disorder 1–
+Remitted GAD 1
+ADHD 1
+Age of onset 12.0 (4.9) –
+Medication use Antidepressants 5dAnxiolytics 1e
+Anxiolytics 1e
+Stimulants 1f
+QUESTIONNAIRES
+POMSc1 .0 (10.3)  7 .1 (4.7)
+HAM-A 11 .5 (9.3) –
+HAM-D 8.6 (7 .7) –
+SCL90 150.6 (44.0) –
+AMisoS 14.3 (3.6) –
+aMann–Whitney test: p D0.323.
+b$2test, groups are not signiﬁcantly different in male/female ratio, p D0.157 .
+cMann–Whitney test, p D0.004. Baseline emotional state between groups is
+signiﬁcantly different.
+POMS, Proﬁle of Mood Scale [Total Mood Disturbance (TMD) scores];
+HAM-ADHamilton Anxiety Scale; HAM-D DHamilton Depression Rating Scale;
+SCL90D90 items Symptom Checklist; AMisoS DAmsterdam Misophonia Scale
+(concept scale for symptom severity; 0–4 subclinical misophonic symptoms, 5–9
+mild, 10–14 moderate, 15–19 severe, 20–24 extreme).
+dAntidepressants: 2 patients – venlafaxine, 1 patient – sertraline, 1 patient – citalo-
+pram, 1 patient – ﬂuoxetine.
+eAnxiolytics: oxazepam.
+fStimulants: methylphenidate.
+Curran et al., 1995). A higher TMD score denotes a more negative
+affective state.
+The characteristics of both groups are provided in T able 1 . All
+participants gave written informed consent and received ﬁnancial
+compensation for their travel expenses, but no further compen-
+sation was offered for participating in the study. The study was
+carried out in accordance with the Declaration of Helsinki and was
+approved by the local medical ethics committee of the Academic
+Medical Center of Amsterdam.
+AUDITORY PARADIGM
+The participants were presented with a pseudorandomized
+sequence of 840 tone stimuli (Presentation 11.3, Neurobehav-
+ioral Systems Inc., Albany, CA, USA) administered through Philips
+SHS3201/28 headphones. The standard tones (80%) had a fre-
+quency of 1000 Hz. A deviant tone that was lower than the
+standard tone (250 Hz) and a tone that was higher than the
+standard (4000 Hz) were added to the sequence. Both deviants
+were presented in 10% of trials and were never presented
+successively.
+The auditory stimuli had a duration of 200 ms (including 10 ms
+rise and fall times shaped by a Blackman window), while the
+Frontiers in Behavioral Neuroscience www.frontiersin.org April 2014 | Volume 8 | Article 123 | 2
+
+Schröder et al. Diminished N1 potentials in misophonia
+inter-stimulus interval was 650 ms. During the presentation of
+the tones, the participants watched a neutral silent movie with
+subtitles. They were instructed to ignore the tones.
+DATA ACQUISITION
+EEG data were acquired using a WaveGuard 10–5 cap system
+developed by ANT, with 64-Ag/AgCl electrodes, spanning from
+frontal, temporal, central, and occipital scalp sites. The EEG was
+sampled at 512 Hz with an online average reference and then
+subsequently imported into MATLAB for all further off-line analy-
+ses. The electrooculogram (EOG) was recorded between supra-
+and infra-orbital sites around the left eye for vertical movement
+(blinks), and outer acanthi of the left and right eyes for possible
+side-eye movements.
+EEG PREPROCESSING
+Data analysis was completed using EEGLAB1and Fieldtrip soft-
+ware packages2along with in-house scripts. Data were high-pass
+ﬁltered at 0.5 Hz using a non-causal FIR ﬁlter (“ﬁr1” in EEGLAB).
+Trials containing artifacts (e.g., eye movements, blinks, mus-
+cle potentials) were removed from the EEG using the default
+automatic-reject routines in EEGLAB. Independent component
+analysis was used to remove any eye movements not rejected by
+the semiautomatic routines (Jung et al., 2001).
+ERP ANALYSIS
+The auditory-stimulus locked ERP data were low-pass ﬁltered at
+30 Hz using a two-pass Butterworth IIR ﬁlter (default option Field-
+trip) and averaged with the sweep beginning 200 ms before the
+stimuli and lasting until 450 ms after stimulus onset. The ERPs
+were baseline corrected using the mean time 150 ms prior to
+stimulus onset.
+The average peak amplitude and peak latency of the P1, N1, and
+P2 were computed per subject and compared between the miso-
+phonia patient group and healthy controls. The time interval for
+determining the mean peak amplitude and latency were chosen
+based on looking at the grand-averaged data.
+The difference in the P1, N1, and P2 response between miso-
+phonia patients and controls was assessed separately for the stan-
+dard and deviant tones. This was due to the assumption that
+different processes likely take place after presentation of a fre-
+quent and infrequent tone, which could be affected differently in
+patients. Moreover, separating analyses for standard and deviant
+tones could also circumvent the potential problem of comparing
+conditions with a difference in signal-to-noise ratio, arising from
+the difference in amount of trials between the standard and deviant
+condition (Salisbury et al., 2010).
+For the deviant tones, peak latency of the P1 was deﬁned as
+the most positive deﬂection occurring between 50 and 100 ms
+post-stimulus onset in electrodes Fz and FCz. N1 peak latency
+was deﬁned as the most negative deﬂection in Fz and FCz occur-
+ring between 100 and 200 ms, and the P2 was deﬁned as the most
+positive deﬂection in Cz and FCz between 200 and 300 ms.
+1http://sccn.ucsd.edu/eeglab/
+2http://www.ru.nl/fcdonders/ﬁeldtrip/For the standard tones, evoked responses were different in tim-
+ing and therefore different time-windows were used for the N1
+(120–160 ms) and P2 (160–220 ms). Channel selection was based
+on maximal amplitude of the grand average.
+The mean amplitudes for the P1, N1, and P2/3 were obtained
+by averaging values of abovementioned channels within the
+predeﬁned intervals.
+An independent t-test was performed to test for a difference
+in responses elicited by the standard tones. Two-way repeated-
+measures analysis of variance (rANOV A) was used to test for a
+difference in response after presentation of deviant tones, with
+tone (low deviant, high deviant) as within-subject variable and
+group (control, patient) as between-subject variable. Statistics
+were performed using SPSS, attaining a threshold of p0.05.
+For clarity reasons, only signiﬁcant effects will be reported in the
+Section “Results.” Results of insigniﬁcant effects are presented in
+T able 3 .
+RESULTS
+STUDY PARTICIPANTS
+Clinical characteristics are presented in T able 1 . There was no sig-
+niﬁcant difference in age between the patient group and the control
+group ( pD=0.323). Also, the male/female ratio was not signif-
+icantly different [ X2(1,ND34)D2.004, pD0.157]. Compared
+to controls, misophonia patients reported a signiﬁcantly higher
+baseline emotional state [ t(28.39)D3.11, pD=0.004], measured
+by the TMD score on the POMS.
+EVENT-RELATED POTENTIALS
+Figures 1 and 2show the grand-average ERP evoked by standard
+(Figure 1 ) and deviant tones ( Figure 2 ) in the same electrodes
+used for the statistical analyses. The shaded areas represent time
+intervals of interest.
+DEVIANT TONES ELICITED A DIMINISHED N1 IN MISOPHONIA
+PATIENTS
+The deviant tones evoked a smaller N1 component in the miso-
+phonia patients than in the control group [  0.711 vs. 1.277mV ,
+F(1,32)D5.608, pD0.024]. However, the peak latency of the
+deviant evoked N1 was not different between the misophonia and
+the healthy control group. We found no differences in the P1, P2
+average amplitude or peak latencies between patients and con-
+trols (see T ables 2 and 3). Also no interactions between group and
+deviant tones were found.
+A main effect of tone was present for the P1, N1, and P2 average
+amplitudes. The low deviant tone elicited a larger P1 than the high
+deviant tone [0.332 vs. 0.096 mV ,F(1,32)D4.840, pD0.035]. In
+contrast, the lower deviant tone evoked a smaller N1 than the high
+tone deviant [ 0.662 vs. 1.226mV ,F(1,32)D5.537, pD0.001].
+The P2 was larger after presentation of the lower deviant than the
+high deviant tone [0.768 vs. 0.323 mV ,F(1,32)D8.457, pD0.007].
+Finally, the peak latency of the N1 response was different for
+the two deviant tones, such that the high tone showed an earlier
+peak compared to the low tone [136 vs. 151 ms, F(1,32)D20.097,
+pD0.0001].
+Frontiers in Behavioral Neuroscience www.frontiersin.org April 2014 | Volume 8 | Article 123 | 3
+
+Schröder et al. Diminished N1 potentials in misophonia
+FIGURE 1 |The grand-average ERP waveforms of controls ( nD14) and misophonia patients ( nD20) for standard tones . Standard tones elicited
+equal responses for patients and controls when compared for average amplitude and peak latency of the P1, N1, and P2. Shaded areas represent time
+intervals of interest.
+FIGURE 2 |The grand-average ERP waveforms of controls ( nD14) and
+misophonia patients ( nD20) for deviant tones (lower and higher than
+standard tone) . Shaded areas represent time intervals of interest. Devianttones elicited a diminished N1 response in misophonia patients compared
+to controls. Topographies of the N1 are shown for the low and high deviant
+tone.
+STANDARD TONES ELICITED A SIMILAR AUDITORY EVOKED RESPONSE
+FOR PATIENTS AND CONTROLS
+We found no differences in the average amplitude and peak latency
+of the P1, N1, or P2 responses elicited by the standard stimuli
+between the misophonia and control group.DISCUSSION
+We found that the mean amplitude of the auditory N1 was
+signiﬁcantly diminished in misophonia patients compared to
+healthy controls. This attenuation suggests a deﬁcit in auditory
+information processing at a low-level in misophonia patients.
+Frontiers in Behavioral Neuroscience www.frontiersin.org April 2014 | Volume 8 | Article 123 | 4
+
+Schröder et al. Diminished N1 potentials in misophonia
+T able 2 | Group averages of mean amplitudes (in bicronvolt) and peak
+latencies (in milliseconds) for the different tones (standard, low
+deviant, high deviant) and components (P1, N1, and P2) .
+P1 N1 P2
+Control Patient Control Patient Control Patient
+AVERAGE AMPLITUDE
+Standard 0.281 0.463 0.290 0.031 0.552 0.635
+Low deviant 0.324 0.337  0.941 0.468 0.705 0.812
+High deviant 0.080 0.219  1 .614 0.95 0.357 0.299
+PEAK LATENCY
+Standard 77 84 135 135 187 197
+Low deviant 68 73 150 152 242 240
+High deviant 65 75 133 139 246 232
+T able 3 | p-Values for rANOVA and t-tests on average amplitude and
+peak latencies .
+P1 N1 P2
+AVERAGE AMPLITUDE
+Deviants (ANOVA)
+Main effect tone 0.035 0.001 0.007
+Main effect group 0.245 0.024 0.916
+Interaction 0.236 0.539 0.583
+Standard ( t-test)
+0.072 0.274 0.710
+PEAK LATENCIES
+Deviants (ANOVA)
+Main effect tone 0.938 0.0001 0.761
+Main effect group 0.122 0.418 0.210
+Interaction 0.398 0.550 0.336
+Standard ( t-test)
+0.148 0.884 0.096
+Signiﬁcant values are printed in bold.
+One possible explanation of the smaller N1 peak in misopho-
+nia patients in our study might be the difference in the clinical
+characteristics of the two groups. The most notable difference was
+the TMD scores on the POMS ( T able 1 ). Misophonia patients
+had a signiﬁcantly higher TMD than the controls. An increased
+TMD could reﬂect a state of general hyperarousal in misophonia
+patients. Due to this hyperarousal or general irritability, misopho-
+nia patients might not have attended to the sounds as much as the
+controls. The link between general hyperarousal and misophonia
+has also been discussed by Edelstein et al. (2013) who found a
+signiﬁcantly higher skin conductance response in the misophonia
+group triggered by various visual and auditory aversive stimuli.
+Both misophonia patients and controls found similar stimuli to
+be aversive and non-aversive but on a different level. They there-
+fore raised the possibility that misophonia patients are merely at
+the tail end of the distribution.
+Another explanation could be that difference in N1 peak ampli-
+tude between the misophonia group and the control group isdue to some other psychiatric comorbidity or the use of psy-
+chotropic medication. However, we believe that it is very unlikely
+that these differences can be explained by comorbidity because in
+the misophonia group only one patient had a current psychiatric
+comorbidity, which was attention-deﬁcit hyperactivity disorder
+(ADHD). Nevertheless, the confounding effect of psychotropics,
+especially antidepressants,on N1 responses in misophonia patients
+cannot completely be ruled out. However, previous research inves-
+tigating medication effects on the N1 indicate that this is unlikely
+(Salisbury et al., 2010).
+We concede that our current ﬁndings cannot easily be linked to
+two fundamental issues underlying misophonia symptomology:
+ﬁrst, why do human sounds – and not inanimate, i.e., environ-
+mental sounds – evoke misophonic symptoms? And second, why
+do these sounds trigger aggression (Schröder et al., 2013)?
+We conjecture that the ﬁrst issue could be related to the exis-
+tence of two separate neural systems for processing human and
+non-human sounds (Pizzamiglio et al., 2005; Engel et al., 2009).
+Possibly, in misophonia it is only the human sound-processing
+network that is affected. This, however, does not fully explain the
+arousal described by a few misophonia patients caused by inani-
+mate – environmental – sounds (Edelstein et al., 2013), or why we
+observed a lower N1.
+The second question might be understood through literature
+on obsessive–compulsive personality disorder (OCPD). OCPD
+has a very high comorbidity rate in patients with misophonia of
+52.4% (Schröder et al., 2013). Core symptoms of OCPD include
+cognitive inﬂexibility and high levels of moralism, which can
+result in criticism of other people’s behavior (American Psychiatric
+Association, 2000). Violation of social norms – both intentional
+and unintentional – have been associated with left orbitofrontal
+cortex (OFC) activation (Berthoz et al., 2002). Therefore, OFC
+involvement in the emergence of misophonia symptoms could
+exist. This could then also partly explain the differences, described
+by some misophonia patients, between their aggressive reactions
+to sounds made by, e.g., babies or elderly demented, which usu-
+ally do not trigger much aggression, and to those of other adults,
+which do. The difference might lie in the level that the misophonia
+patients assess the accountability and deliberateness of the sound
+source.
+CONCLUSION
+This is the ﬁrst study investigating the underlying neurobiologi-
+cal mechanisms of misophonia. We found that it was possible to
+distinguish misophonia patients from healthy controls by using
+a simple auditory oddball paradigm. We conclude that a lower
+than normal N1 response could be a neurophysiological marker
+for misophonia. However, it still remains to be investigated if
+this diminished N1 is a characteristic of general psychiatric psy-
+chopathology or a distinctive characteristic for misophonia. More-
+over, it is unclear whether the underlying deﬁcit in misophonia is
+due to altered auditory perception, an inadequate processing of
+auditory stimuli, or a higher order dysfunction of cortical control
+related to impulsivity. Thus, we believe further research should
+therefore aim at delineating misophonia from other psychiatric
+disorders and elucidate the neural interactions directly correlating
+with the symptomology of misophonia.
+Frontiers in Behavioral Neuroscience www.frontiersin.org April 2014 | Volume 8 | Article 123 | 5
+
+Schröder et al. Diminished N1 potentials in misophonia
+ACKNOWLEDGMENTS
+Ali Mazaheri is supported from a Veni grant from the Netherlands
+Organization for Scientiﬁc Research (NWO).
+REFERENCES
+American Psychiatric Association. (2000). Diagnostic and Statistical Manual of Men-
+tal Disorders, Fourth Edition, Text Revision (DSM-IV-TR) . Washington, DC:
+American Psychiatric Association.
+Berthoz, S., Armony, J. L., Blair, R. J. R., and Dolan, R. J. (2002). An fMRI study of
+intentional and unintentional (embarrassing) violations of social norms. Brain
+125(Pt 8), 1696–1708. doi:10.1093/brain/awf190
+Boutros, N. N., Gooding, D., Sundaresan, K., Burroughs, S., and Johanson, C.
+(2006). Cocaine-dependence and cocaine-induced paranoia and mid-latency
+auditory evoked responses and sensory gating. Psychiatry Res. 145, 147–154.
+doi:10.1016/j.psychres.2006.02.005
+Buchwald, J. S., Erwin, R., Read, S., Van Lancker, D., and Cummings, J. L.
+(1989). Midlatency auditory evoked-responses – differential abnormality of
+P1 in Alzheimer’s disease. Electroencephalogr. Clin. Neurophysiol. 74, 378–384.
+doi:10.1016/0168-5597(89)90005-1
+Buchwald, J. S., Erwin, R., Van Lancker, D., Guthrie, D., Schwafel, J., and Tan-
+guay, P . (1992). Midlatency auditory evoked-responses – P1 abnormalities
+in adult autistic subjects. Electroencephalogr. Clin. Neurophysiol. 84, 164–171.
+doi:10.1016/0168-5597(92)90021-3
+Curran, S. L., Andrykowski, M. A., and Studts, J. L. (1995). Short form of the Proﬁle
+of Mood States (POMS-SF): psychometric information. Psychol. Assess. 7, 80–83.
+doi:10.1037/1040-3590.7.1.80
+Derogatis, L. R., Lipman, R. S., and Covi, L. (1973). The SCL-90: an outpatient
+psychiatric rating scale – preliminary report. Psychopharmacol. Bull. 9, 13–28.
+Edelstein, M., Brang, D., Rouw, R., and Ramachandran, V . S. (2013). Misophonia:
+physiological investigations and case descriptions. Front. Hum. Neurosci. 7:296.
+doi:10.3389/fnhum.2013.00296
+Engel, L. R., Frum, C., Puce, A., Walker, N. A., and Lewis, J. W. (2009). Different cate-
+gories of living and non-living sound-sources activate distinct cortical networks.
+Neuroimage 47, 1778–1791. doi:10.1016/j.neuroimage.2009.05.041
+Ferreira, G. M., and Harrison, B. J. (2013). Hatred of sounds: misophonic disor-
+der or just an underreported psychiatric symptom? Ann. Clin. Psychiatry 25,
+271–274.
+Friston, K. (2005). A theory of cortical responses. Philos. Trans. R. Soc. Lond. B Biol.
+Sci.360, 815–836. doi:10.1098/rstb.2005.1622
+Hadjipavlou, G., Baer, S., Lau, A., and Howard, A. (2008). Selective sound intoler-
+ance and emotional distress: what every clinician should hear. Psychosom. Med.
+70, 739–740. doi:10.1097/PSY.0b013e318180edc2
+Hamilton, M. (1959). The assessment of anxiety states by rating. Br. J. Med. Psychol.
+32, 50–55. doi:10.1111/j.2044-8341.1959.tb00467.x
+Hamilton, M. (1960). A rating scale for depression. J. Neurol. Neurosurg. Psychiatr.
+23, 56–62. doi:10.1136/jnnp.23.1.56
+Javanbakht, A., Liberzon, I., Amirsadri, A., Gjini, K., and Boutros, N. N. (2011).
+Event-related potential studies of post-traumatic stress disorder: a critical review
+and synthesis. Biol. Mood Anxiety Disord. 1, 5. doi:10.1186/2045-5380-1-5
+Javitt, D. C., Jayachandra, M., Lindsley, R. W., Specht, C. M., and Schroeder, C. E.
+(2000). Schizophrenia-like deﬁcits in auditory N1 and P1 refractoriness induced
+by the psychotomimetic agent phencyclidine. Clin. Neurophysiol. 111, 833–836.
+doi:10.1016/S1388-2457(99)00313-2
+Jung, T.-P ., Makeig, S., McKeown, M. J., Bell, A. J., Lee, T.-W., and Sejnowski, T. J.
+(2001). Imaging brain dynamics using independent component analysis. Proc.
+IEEE Inst. Electr. Electron. Eng. 89, 1107–1122. doi:10.1109/5.939827
+Kayser, J., Bruder, G. E., T enke, C. E., Stuart, B. K.,Amador, X. F., and Gormanm, J. M.
+(2001). Event-related potentials (ERps) in schizophrenia for tonal and phonetic
+oddball tasks. Biol. Psychiatry 49, 832–847. doi:10.1016/S0006-3223(00)01090-8
+Kemner, C., Verbaten, M. N., Koelega, H. S., Buitelaar, J. K., van der Gaag, R. J.,
+Camfferman, G., et al. (1996). Event-related brain potentials in children with
+attention-deﬁcit and hyperactivity disorder: effects of stimulus deviancy and
+task relevance in the visual and auditory modality. Biol. Psychiatry 40, 522–534.
+doi:10.1016/0006-3223(95)00429-7
+Lijfﬁjt, M., Cox, B., Acas, M. D., Lane, S. D., Moeller, F. G., and Alan, C. (2012).
+Differential relationships of impulsivity or antisocial symptoms on P50, N100,
+or P200 auditory sensory gating in controls and antisocial personality disorder.
+J. Psychiatr. Res. 46, 743–750. doi:10.1016/j.jpsychires.2012.03.001Lijfﬁjt, M., Moeller, F. G., Boutros, N. N., Steinberg, J. L., Meier, S. L., Lane, S. D.,
+et al. (2009). Diminished P50, N100 and P200 auditory sensory gating in bipolar
+I disorder. Psychiatry Res. 167, 191–201. doi:10.1016/j.psychres.2008.04.001
+Luck, S. J., and Kappenman, E. S. (2012). The Oxford Handbook of Event-Related
+Potential Components . Oxford: Oxford University Press.
+McArdle, R., and Hnath-Chisolm, T. (2009). “Speech audiometry,” in Handbook of
+Clinical Audiology , ed. J. Katz (Philadelphia: Lippincott Williams & Wilkins),
+64–79.
+McNair, D. M., Lorr, M., and Droppleman, L. F. (1992). The Proﬁle of Mood States .
+San Diego: Educational and Industrial T esting Service.
+Näätänen, R. (1992). Attention and Brain Function . Hillsdale, NJ: Erlbaum.
+Näätänen, R., and Picton, T. W. (1987). The N1 wave of the human electric and mag-
+netic response to sound: a review and an analysis of the component structure.
+Psychophysiology 24, 375–425. doi:10.1111/j.1469-8986.1987.tb00311.x
+Neal, M., and Cavanna, A. E. (2013). Selective sound sensitivity syndrome (miso-
+phonia) in a patient with T ourette syndrome. J. Neuropsychiatry Clin. Neurosci.
+25, E01. doi:10.1176/appi.neuropsych.11100235
+O’Donnell, B. F., Hokama, H., McCarley, R. W., Smith, R. S., Salisbury, D. F.,
+Mondrow, E., et al. (1994). Auditory ERPs to non-target stimuli in schizophrenia:
+relationship to probability, task-demands, and target ERPs. Int. J. Psychophysiol.
+17, 219–231. doi:10.1016/0167-8760(94)90065-5
+Picton, T. W., and Hillyard, S. A. (1974). Human auditory evoked potentials.
+II: effects of attention. Electroencephalogr. Clin. Neurophysiol. 36, 191–200.
+doi:10.1016/0013-4694(74)90156-4
+Pizzamiglio, L., Aprile, T., Spitoni, G., Pitzalis, S., Bates, E., D’Amico, S., et al. (2005).
+Separate neural systems for processing action- or non-action-related sounds.
+Neuroimage 24, 852–861. doi:10.1016/j.neuroimage.2004.09.025
+Pratt, H., Starr, A., Michalewski, H. J., Bleich, N., and Mittelman, N. (2008). The
+auditory P50 component to onset and offset of sound. Clin. Neurophysiol. 119,
+376–387. doi:10.1016/j.clinph.2007.10.016
+Rinne, T., Särkkä, A., Degerman, A., Schröger, E., and Alho, K. (2006). Two sepa-
+rate mechanisms underlie auditory change detection and involuntary control of
+attention. Brain Res. 1077, 135–143. doi:10.1016/j.brainres.2006.01.043
+Salisbury, D. F., Collins, K. C., and McCarley, R. W. (2010). Reductions in the N1
+and P2 auditory event-related potentials in ﬁrst-hospitalized and chronic schiz-
+ophrenia. Schizophr. Bull. 36, 991–1000. doi:10.1093/schbul/sbp003
+Schlauch, R. S., and Nelson, P . (2009).“Puretone evaluation,”in Handbook of Clinical
+Audiology , ed. J. Katz (Philadelphia: Lippincott Williams & Wilkins), 30–49.
+Schröder, A., Vulink, N., and Denys, D. (2013). Misophonia: diagnostic criteria
+for a new psychiatric disorder. PLoS ONE 8:e54706. doi:10.1371/journal.pone.
+0054706
+Schwartz, B. P ., Leyendecker, J., and Conlon, M. (2011). Hyperacusis and misopho-
+nia, the lesser-known siblings of tinnitus. Minn. Med. 94, 42–43.
+T odd, J., Michie, P . T., Schall, U., Ward, P . B., and Catts, S. V . (2012). Mis-
+match negativity (MMN) reduction in schizophrenia-impaired prediction –
+error generation, estimation or salience? Int. J. Psychophysiol. 83, 222–231.
+doi:10.1016/j.ijpsycho.2011.10.003
+Winkler, I. (2007). Interpreting the mismatch negativity. J. Psychophysiol. 21,
+147–163. doi:10.1027/0269-8803.21.34.147
+Conﬂict of Interest Statement: The authors declare that the research was conducted
+in the absence of any commercial or ﬁnancial relationships that could be construed
+as a potential conﬂict of interest.
+Received: 29 September 2013; accepted: 24 March 2014; published online: 09 April
+2014.
+Citation: Schröder A, van Diepen R, Mazaheri A, Petropoulos-Petalas D, Soto de
+Amesti V, Vulink N and Denys D (2014) Diminished N1 auditory evoked poten-
+tials to oddball stimuli in misophonia patients. Front. Behav. Neurosci. 8:123. doi:
+10.3389/fnbeh.2014.00123
+This article was submitted to the journal Frontiers in Behavioral Neuroscience.
+Copyright © 2014 Schröder, van Diepen, Mazaheri, Petropoulos-Petalas, Soto de
+Amesti, Vulink and Denys. This is an open-access article distributed under the terms
+of the Creative Commons Attribution License (CC BY). The use, distribution or repro-
+duction in other forums is permitted, provided the original author(s) or licensor are
+credited and that the original publication in this journal is cited, in accordance with
+accepted academic practice. No use, distribution or reproduction is permitted which
+does not comply with these terms.
+Frontiers in Behavioral Neuroscience www.frontiersin.org April 2014 | Volume 8 | Article 123 | 6

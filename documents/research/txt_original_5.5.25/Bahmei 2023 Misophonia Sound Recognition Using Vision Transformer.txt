@@ -1,0 +1,390 @@
+Abstract — Misophonia is a condition characterized by an 
+abnormal emotional response to specific sounds, suc h as eating, 
+breathing, and clock ticking noises. Sound classifi cation for 
+misophonia is an important area of research since i t can benefit 
+in the development of interventions and therapies f or individuals 
+affected by the condition. In the area of sound cla ssification, 
+deep learning algorithms such as Convolutional Neur al 
+Networks (CNNs) have achieved a high accuracy perfo rmance 
+and proved their ability in feature extraction and modeling. 
+Recently, transformer models have surpassed CNNs as  the 
+dominant technology in the field of audio classific ation. In this 
+paper, a transformer-based deep learning algorithm is proposed 
+to automatically identify trigger sounds and the ch aracterization 
+of these sounds using acoustic features. The experi mental results 
+demonstrate that the proposed algorithm can classif y trigger 
+sounds with high accuracy and specificity. These fi ndings 
+provide a foundation for future research on the dev elopment of 
+interventions and therapies for misophonia. 
+ 
+Keywords—Misophonia, Sound Classification, 
+Transformer Models, Deep Learning 
+I.  INTRODUCTION  
+Misophonia is a relatively new and understudied con dition 
+characterized by an abnormal emotional response to specific 
+sounds that are often repetitive and human-produced  (e.g., 
+chewing, snoring, tapping, sniffing, etc.), eliciti ng excessive 
+and inappropriate negative reactions even at low am plitudes 
+[1], [2]. People who suffer from misophonia experie nce 
+increased sympathetic nervous system arousal, accom panied 
+by emotional distress in response to these sounds, which are 
+known as trigger sounds. The condition can have a s ignificant 
+impact on an individual's daily life, leading to di fficulties in 
+social and professional settings [2]. 
+Most of the studies on misophonia have been case st udies 
+aiming to uncover the nature of the trigger sounds,  and 
+physical responses to those sounds [3]–[5]. However , there 
+are few publications and studies to evaluate treatm ents for 
+misophonia [6]–[8]. In the absence of these studies , it is very 
+challenging for families and clinicians to provide appropriate 
+care to individuals who are suffering from misophon ia. 
+Identifying and categorizing sounds associated with  
+misophonia can assist in creating treatments and th erapies for 
+people who have the condition [9]. Upon detecting t he trigger 
+sounds, further considerations can be evaluated to ameliorate 
+the condition such as notifying of sound's presence , filtering 
+out the sound, masking the sound, and so on. 
+ 
+B. Bahmei (bbahmei@sfu.ca), School of Mechatronics System Engineering, 
+Simon Fraser University, Surrey, BC, Canada 
+E. Birmingham (elina_birmingham@sfu.ca), Faculty of  Education, Simon 
+Fraser University, Burnaby, BC, Canada 
+S. Arzanpour (arzanpour@sfu.ca), School of Mechatro nics System 
+Engineering, Simon Fraser University, Surrey, BC, C anada  In recent years, there has been an increasing inte rest in 
+using machine learning algorithms to automatically classify 
+environmental sounds such as Support Vector Machine  
+(SVM) [10], and hidden Markov models (HMM) [11]. 
+Recently, deep learning techniques have been introd uced to 
+enhance the recognition performance of environmenta l 
+sounds [12], [13]. Deep neural networks can automat ically 
+learn and extract features from the raw data, which  reduces 
+the need for manual feature engineering, and allows  the model 
+to capture more complex patterns and dependencies i n the 
+data  [12]. Deep learning algorithms such as Convol utional 
+Neural Networks (CNNs) [13], [14], Recurrent Neural  
+Networks (RNNs) [15], [16], and their combination [ 17] have 
+been shown to be highly effective in accurately ide ntifying 
+environmental sounds, with high sensitivity and spe cificity. 
+Although CNNs have been used to classify sounds, th ey are 
+less successful at processing long sequences of aud io data.  
+Lately, there has been a growing trend of utilizing  attention 
+mechanisms to concentrate on the essential aspects of the 
+sound being analyzed are designed to handle long se quences 
+of data. Attention-based models [18], particularly those using 
+Transformers, have been gaining popularity in recen t years. 
+Transformers are a type of neural network that reli es solely 
+on attention mechanisms. This makes them well-suite d for 
+parallel computations and the incorporation of glob al context, 
+leading to more accurate results. As a result, they  have 
+become a popular choice in various fields such as N atural 
+Language Processing (NLP), computer vision, and mor e 
+recently, areas related to sound. 
+In the field of audio classification, there have be en a 
+number of transformer models proposed [19]. Some of  the 
+proposed models have investigated the benefits of u sing 
+Bidirectional Encoder Representations from Transfor mers 
+(BERT) models [20]. The BERT models take a given to ken 
+and the position embeddings as input, to address th e problem 
+of sound classification at the edge. Similarly, an Audio 
+Spectrogram Transformer (AST) is proposed in [21] t hat is 
+completely based on attention-based models. In anot her 
+study, the use of AST is explored with a Many-to-Ma ny 
+Audio Spectrogram Transformer (M2M-AST), which can 
+output sequences with different resolutions for mul ti-channel 
+audio inputs [22]. To simplify the training process , the drop 
+token technique is introduced in combination with a  Video–
+Audio–Text Transformer (VATT) model, which achieved  
+competitive results [23]. All these studies achieve d significant 
+performance in the task of audio classification. 
+This paper proposed a sound classifier for misophon ia to 
+recognize trigger sounds in the environment. The pu rpose of 
+this study is to propose a trigger sound recognitio n system for 
+the sufferer of misophonia which can provide a foun dation for 
+future research on the development of interventions  and Misophonia Sound Recognition Using Vision Transform er 
+B. Bahmei, E. Birmingham, and S. Arzanpour
+
+therapies. In this paper, a standard transformer mo del which 
+initially is applied to images, named Vision Transf ormer 
+(ViT) is considered and modified for the misophonia  sound 
+classification [24]. The model is trained and evalu ated on 
+selected sounds from the ESC-50 dataset [25] which are 
+commonly reported as trigger sounds in misophonia. The 
+experimental results indicate that the proposed mod el has the 
+capability to accurately identify the target trigge r sounds in 
+the environment. To summarize, the main contributio ns of 
+this paper are as follows: 
+1) A ViT model is considered and modified to achiev e a 
+very high-level of classification accuracy in sound  
+recognition. 
+ 2) The classification model is applied on selected  trigger 
+sounds for misophonia to introduce the first misoph onia 
+sound recognition system. 
+The composition of the paper is as the following: I n Section 
+II, the methods including the ViT, and dataset are discussed. 
+Section III provides details about the experimental  results. 
+Finally, the conclusions are presented in Section I V. 
+ 
+II.  METHODS 
+In this section, the methods for ViT, and the datas et are 
+explained. 
+A. Vision Transformer (ViT) 
+The transformer model, first introduced in 2017, us es an 
+attention mechanism to generate representations of its inputs 
+and outputs [18]. The transformer model has two mai n 
+components, an encoder, and a decoder. The encoder converts 
+an input sequence of symbol representations into a sequence 
+of continuous representations, and the decoder gene rates an 
+output sequence of symbols one at a time. Additiona lly, the 
+model is autoregressive, meaning that it uses previ ously 
+generated symbols as input when generating the next  one at 
+each step. 
+The architecture used here is based on the ViT mode l 
+proposed in [24]. This model breaks down an image i nto 
+fixed-size patches, accurately embeds each one, and  
+incorporates positional embedding as input to the t ransformer 
+encoder. The transformer encoder embeds information  
+globally across the entire image, and during traini ng, the 
+model learns to encode the relative location of the  image 
+patches to rebuild the image's structure. Furthermo re, a 
+classification token is added to learn the informat ion extracted 
+by the transformer encoder for the classification t ask.  
+A schematic view of the designed model in this pape r is 
+depicted in Figure 1. The input to the model is a 2 D 
+spectrogram. A spectrogram is a logarithmic frequen cy scale 
+and is considered one of the most common and effect ive 
+features for audio recognition [13]. In order to ex tract patches 
+that are required for a transformer, the raw audio signal will 
+be framed into 18 frames with a length of 32 millis econds. 
+The frames have a 50% overlap to avoid missing 
+information at the edges. Afterward, the spectrogra ms of each 
+frame are extracted, stacked together as the input patches, and 
+fed to the transformer encoder as the input.  The o utput of the 
+transformer encoder known as encoded patches is fla ttened 
+and fed to the fully connected layers for the class ification task.   
+Figure 1 Transformer model schematic view 
+ 
+Figure 2 Transformer encoder block 
+ 
+The output of the model is the one-hot representati on of 
+sound classes. 
+The transformer encoder block is presented in Figur e 2. 
+The transformer encoder includes: 
+• The Multi-Head Self Attention (MSA) Layer, or also 
+known as Multi-Head Attention (MHA) is a key 
+component of the transformer encoder. It allows the  
+model to attend to different positions of the input  
+sequence simultaneously, by performing multiple 
+self-attention operations with different weight 
+matrices, also known as heads. These attention head s 
+help to train both local and global dependencies in  the 
+input. This allows the model to learn and capture 
+more complex patterns in the input data and improve  
+its performance. 
+• The Multi-Layer Perceptron (MLP) Layer, also 
+known as the Position-wise Fully Connected Feed-
+
+Forward Network, is another key component of the 
+transformer encoder. It is a simple feed-forward 
+neural network that is applied to each position of the 
+input sequence independently and in parallel. The 
+role of this layer is to learn and capture more com plex 
+patterns in the input data that the self-attention layer 
+might have missed. 
+• Layer Normalization (LN), also known as Layer 
+Norm, is a technique used to normalize the 
+activations of the neurons in a neural network laye r. 
+It is typically applied before each block, such as the 
+MHA and MLP layers, as it does not introduce any 
+new dependencies between the training images. This 
+helps to improve the training time and overall 
+performance of the model.  
+The classification head in Figure 1 is implemented using 
+MLP with four fully connected layers. In the classi fication 
+head, the ReLU activation function is used after ea ch layer 
+except the last one. For the last layer, the SoftMa x activation 
+function is applied. There is batch normalization a fter each 
+layer. The ADAM optimizer [26] is used in order to update 
+network weights.  
+B. Dataset 
+The ESC-50 dataset is a popular dataset for sound 
+classification which includes 50 classes consisting  of animal, 
+human, natural, and urban sounds. Seven sounds are selected 
+from this dataset as the commonly reported trigger sounds for 
+misophonia including breathing, snoring, drinking, keyboard 
+typing, clock ticking, mouse-clicking, and coughing . For each 
+class, there are 40 audio recordings, each lasting 4 seconds in 
+duration. In this paper, as chewing sounds are comm only 
+reported in the literature as a trigger sound for m isophonia, 40 
+samples of chewing sounds were collected from frees ound.org 
+and added to the dataset. In total, the dataset inc ludes eight 
+trigger sounds as the target output sounds. 
+ 
+III.  RESULTS  AND  DISCUSSION 
+In this section, the simulation results of the prop osed 
+technique are presented. Considering that there is no specific 
+publication about misophonia sound recognition, it is not 
+possible to directly compare our work with others i n this 
+specific area. However, several experiments are con ducted to 
+evaluate the performance and accuracy of the propos ed 
+method.   
+The model is trained over 100 epochs using a batch size of 
+32. Since there are few misophonia sounds in the da taset, 
+applying k-fold cross-validation would provide even  fewer 
+training and validation sets, which might result in  overfitting 
+and reduced generalization performance. Therefore, the 
+dataset is split into 80% for training, 15% for val idation, and 
+5% for testing. The data samples are shuffled befor e feeding 
+to the model. Figure 3 shows the overall accuracy a nd loss of 
+the training and validation set of the model on eac h training 
+iteration. 
+For this study, the categorical cross-entropy loss is 
+considered. This figure shows that the validation a ccuracy and 
+loss of the model reach 92.29% and 0.1956, respecti vely which  
+ 
+Figure 3 . Overall accuracy and loss 
+ 
+ 
+Figure 4 Confusion Matrix. The diagonal elements re present the 
+percentage of instances for which the predicted lab el is equal to the 
+true label (TP and TN), while off-diagonal elements  are those that 
+are mislabeled by the classifier (FP an FN). 
+ 
+shows the performance of the model to recognize tri gger 
+sounds. It also indicates that the learning process  is quite 
+consistent and there is no bias or variance during the training. 
+In addition, a confusion matrix is also used to eva luate the 
+performance of the classifier presented in Figure 4 . It shows 
+the percentage of true positive (TP), false positiv e (FP), false
+
+negative (FN), and true negative (TN) predictions m ade by a 
+model. It can be seen from Figure 4 that the most d ifficult 
+classes to classify were drinking, breathing, and m ouse-
+clicking. They have been misclassified as coughing in some 
+samples. However, it is noteworthy that the coughin g, chewing 
+and clock ticking sounds are almost not misclassifi ed. From 
+the confusion matrix, some performance metrics incl uding 
+precision, recall and F1 score are computed and sho wn in 
+Table 1 to evaluate the classification results. 
+ 
+Table 1 Performance metrics for the model, showing precision, 
+recall, and F1 score for each class 
+ Precision Recall F1 score 
+Breathing 1 0.97 0.98 
+Coughing 0.92 1 0.95 
+Snoring 1 0.98 0.99 
+Drinking 1 0.96 0.98 
+Mouse Click 1 0.97 0.98 
+Keyboard Typing 1 0.98 0.99 
+Clock tick 1 1 1 
+ 
+IV.  CONCLUSION 
+In this paper, a vision transformer-based deep lear ning 
+model is evaluated for misophonia sound classificat ion. The 
+accuracy of the model indicates that the system can  recognize 
+the trigger sounds accurately in the environment. I t is a 
+foundation and starting point for designing interve ntion 
+techniques and therapies for the sufferer of misoph onia. This 
+is the first study conducted for detecting trigger sounds for 
+misophonia using artificial intelligence techniques . Further 
+investigation can be conducted to use these results .  
+ETHICS STATEMENT  
+This paper does not include any experimental proced ures 
+involving human subjects or animals. 
+ACKNOWLEDGMENT  
+This project is supported by funding from the Kids Brain 
+Health Network (KBHN). 
+REFERENCES  
+[1] N. E. Scheerer, T. Q. Boucher, B. Bahmei, G. Ia rocci, S. Arzanpour, 
+and E. Birmingham, “Family Experiences of Decreased  Sound 
+Tolerance in ASD,” J. Autism Dev. Disord. , 2021, doi: 
+10.1007/S10803-021-05282-4. 
+[2] J. J. Brout et al. , “Investigating Misophonia: A Review of the 
+Empirical Literature, Clinical Implications, and a Research Agenda,” 
+Front. Neurosci. , vol. 0, no. FEB, p. 36, Feb. 2018, doi: 
+10.3389/FNINS.2018.00036. 
+[3] M. Edelstein, D. Brang, R. Rouw, and V. S. Rama chandran, 
+“Misophonia: Physiological investigations and case descriptions,” 
+Front. Hum. Neurosci. , vol. 7, no. JUN, p. 296, Jun. 2013, doi: 
+10.3389/FNHUM.2013.00296/BIBTEX. 
+[4] H. Tinnitus, M. G. Editors, D. F. Duddy, . D Au , and L. A. Flowers, 
+“Treatments for Decreased Sound Tolerance (Hyperacu sis and 
+Misophonia),” Au.D. Semin Hear , vol. 35, pp. 105–120, 2014, doi: 
+10.1055/s-0034-1372527. 
+[5] E. Boucher, T. Q., Scheerer, N. E., Iarocci, G. , Bahmei, B., Arzanpour, 
+S., & Birmingham, “Misophonia, hyperacusis, and the  relationship 
+with quality of life in autistic and non-autistic a dults,” 2021. 
+[6] R. L. Schneider and J. J. Arch, “Case study: A novel application of 
+mindfulness- and acceptance-based components to tre at misophonia,” J. Context. Behav. Sci. , vol. 6, no. 2, pp. 221–225, Apr. 2017, doi: 
+10.1016/J.JCBS.2017.04.003. 
+[7] A. E. Schröder, N. C. Vulink, A. J. van Loon, a nd D. A. Denys, 
+“Cognitive behavioral therapy is effective in misop honia: An open 
+trial,” J. Affect. Disord., vol. 217, pp. 289–294, Aug. 2017, doi: 
+10.1016/J.JAD.2017.04.017. 
+[8] A. Schröder, N. Vulink, and D. Denys, “Misophon ia: Diagnostic 
+Criteria for a New Psychiatric Disorder,” PLoS One,  vol. 8, no. 1, Jan. 
+2013, doi: 10.1371/JOURNAL.PONE.0054706. 
+[9] B. Birmingham, E., Arzanpour, S., Bahmei, “Syst em and Method for 
+Ambient Noise Detection, Identification and Managem ent,” 
+WO/2021/119806, 2021. 
+[10] S. Sameh and Z. Lachiri, “Multiclass support v ector machines for 
+environmental sounds classification in visual domai n based on log-
+Gabor filters,” undefined, vol. 16, no. 2, pp. 203– 213, Jun. 2013, doi: 
+10.1007/S10772-012-9174-0. 
+[11] Y. T. Peng, C. Y. Lin, M. T. Sun, and K. C. Ts ai, “Healthcare audio 
+event classification using hidden Markov models and  hierarchical 
+hidden Markov models,” Proc. - 2009 IEEE Int. Conf.  Multimed. 
+Expo, ICME 2009, pp. 1218–1221, 2009, doi: 
+10.1109/ICME.2009.5202720. 
+[12] K. J. Piczak, “Environmental sound classificat ion with convolutional 
+neural networks,” IEEE Int. Work. Mach. Learn. Sign al Process. 
+MLSP, vol. 2015-November, Nov. 2015, doi: 
+10.1109/MLSP.2015.7324337. 
+[13] J. Salamon and J. P. Bello, “Deep Convolutiona l Neural Networks and 
+Data Augmentation for Environmental Sound Classific ation,” IEEE 
+Signal Process. Lett., vol. 24, no. 3, pp. 279–283,  Mar. 2017, doi: 
+10.1109/LSP.2017.2657381. 
+[14] S. Adapa, “Urban Sound Tagging using Convoluti onal Neural 
+Networks,” pp. 5–9, Sep. 2019, doi: 10.33682/8axe-9 243. 
+[15] Y. Aytar, C. Vondrick, and A. Torralba, “Sound Net: Learning Sound 
+Representations from Unlabeled Video,” Adv. Neural Inf. Process. 
+Syst., pp. 892–900, Oct. 2016, Accessed: Jan. 11, 2 022. [Online]. 
+Available: https://arxiv.org/abs/1610.09001v1. 
+[16] T. H. Vu and J.-C. Wang, “Acoustic Scene and E vent Recognition 
+Using Recurrent Neural Networks,” 2016. 
+[17] B. Bahmei, E. Birmingham, and S. Arzanpour, “C NN-RNN and Data 
+Augmentation Using Deep Convolutional Generative Ad versarial 
+Network For Environmental Sound Classification,” IE EE Signal 
+Process. Lett., 2022, doi: 10.1109/LSP.2022.3150258 . 
+[18] A. Vaswani et al., “Attention is All you Need, ” Adv. Neural Inf. 
+Process. Syst., vol. 30, 2017. 
+[19] P. Remagnino et al., “Transformers for Urban S ound Classification—
+A Comprehensive Performance Evaluation,” mdpi.com, 2022, doi: 
+10.3390/s22228874. 
+[20] J. Devlin, M. W. Chang, K. Lee, and K. Toutano va, “BERT: Pre-
+training of Deep Bidirectional Transformers for Lan guage 
+Understanding,” NAACL HLT 2019 - 2019 Conf. North A m. Chapter 
+Assoc. Comput. Linguist. Hum. Lang. Technol. - Proc . Conf., vol. 1, 
+pp. 4171–4186, Oct. 2018, doi: 10.48550/arxiv.1810. 04805. 
+[21] Y. Gong, Y. A. Chung, and J. Glass, “AST: Audi o Spectrogram 
+Transformer,” Proc. Annu. Conf. Int. Speech Commun.  Assoc. 
+INTERSPEECH, vol. 1, pp. 56–60, Apr. 2021, doi: 
+10.48550/arxiv.2104.01778. 
+[22] S. Park, Y. Jeong, T. L.- DCASE, and  undefine d 2021, “Many-to-
+Many Audio Spectrogram Tansformer: Transformer for Sound Event 
+Localization and Detection.,” dcase.community, Acce ssed: Jan. 20, 
+2023. doi: 
+https://dcase.community/documents/workshop2021/proc eedings/DC 
+ASE2021Workshop_Park_39.pdf 
+[23] K. Koutini, J. Schlüter, H. Eghbal-Zadeh, and G. Widmer, “Efficient 
+Training of Audio Transformers with Patchout,” Proc . Annu. Conf. 
+Int. Speech Commun. Assoc. INTERSPEECH, vol. 2022-S eptember, 
+pp. 2753–2757, 2021, doi: 10.21437/INTERSPEECH.2022 -227. 
+[24] A. Dosovitskiy et al., “An Image is Worth 16x1 6 Words: Transformers 
+for Image Recognition at Scale,” Oct. 2020, doi: 
+10.48550/arxiv.2010.11929. 
+[25] K. J. Piczak, “ESC: Dataset for environmental sound classification,” 
+in MM 2015 - Proceedings of the 2015 ACM Multimedia  Conference, 
+Oct. 2015, pp. 1015–1018, doi: 10.1145/2733373.2806 390. 
+[26] D. P. Kingma and J. L. Ba, “Adam: A Method for  Stochastic 
+Optimization,” 3rd Int. Conf. Learn. Represent. ICL R 2015 - Conf. 
+Track Proc., Dec. 2014, doi:  https://arxiv.org/abs /1412.6980v9.

@@ -1,0 +1,628 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Thesensesandsociety.
+ArticleTitle: CharlieHaden’searplugs
+ArticleAuthor: Fishkin
+Description: 1onlineresource(volumes) :illustrations
+Pages:1-13
+OCLC-79476260; ISSN-17458927; LCN-2020204552;
+Publisher: 2023-09-25
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rfss20
+The Senses and Society
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rfss20
+Charlie Haden ’s earplugs
+Daniel Fishkin
+To cite this article:  Daniel Fishkin () Charlie Haden ’s earplugs, The Senses and Society, ahead-
+of-print:ahead-of-print, 1-13, DOI: 10.1080/17458927.2023.2258617
+To link to this article:  https://doi.org/10.1080/17458927.2023.2258617
+Published online: 25 Sep 2023.
+Submit your article to this journal 
+Article views: 2
+View related articles 
+View Crossmark data
+
+Charlie Haden’s earplugs
+Daniel Fishkin
+Composition and Computer Technologies, Department of Music, University of Virginia, Charlottesville, 
+VA, USA
+ABSTRACT
+“Charlie Haden’s Earplugs” explores how tinnitus, hyperacusis and 
+misophonia have shaped the musicality and sonic production of the 
+jazz bassist and composer. While Haden maintained a negative 
+attitude toward his hearing damage over the course of his long 
+musical career, viewing it as a limitation and a source of difficulty, 
+this paper brings together evidence to suggest that Haden’s con-
+dition also provided him a productive means to exert control over 
+his sonic reality. In this way, these maligned conditions are part and 
+parcel of Haden’s personal engagement with the world, and there -
+fore, part of his creative process and distinct aesthetic. This analysis 
+is accomplished by a forensic account of Haden’s listening particu -
+larities through his interviews, as well an analysis of his approach as 
+an improvising partner. This paper also draws from extant models 
+of disability studies to explore the concept of “deaf-gain” and how it 
+may be transposed to the disorders from which Haden suffered. 
+There are to-date many well-established accounts of the deaf 
+experience in disability studies and in music scholarship. This 
+paper offers insight to another cluster of hearing dysfunction, 
+which not only suggests a new paradigm for imagining disability 
+in music, but also revises the very concept of hearing as it is 
+commonly understood.KEYWORDS 
+Tinnitus; misophonia; 
+hyperacusis; jazz; bass; 
+disability studies
+Bass
+This essay begins with a mental picture of Charlie Haden.1
+Haden, the heart of the rhythm section, yet far away from the drummer, weathered 
+with age, on his platform riser higher than all other musicians, his body reflected by his 
+iconic thick Plexiglas baffles, standing inside his earplugs and his bass, improvising with 
+his eyes closed. Haden joked that he played with his eyes closed because he was always 
+surrounded by bass elders like Mingus and Paul Chambers.2 Haden was born with perfect 
+pitch – did shutting his eyes aid him in tuning into his internal pitch barometer? He 
+enfolds himself around his bass, crouching his head all the way down by the bridge, as if 
+to get to the very source of his sound. I am not merely watching him play, but watching 
+him listen.
+There is another way to analyze this image-one that constitutes a wholly different kind 
+of hearing. Haden suffers from hyperacusis and tinnitus. Look again at the earplugs and 
+Plexiglas baffles that Haden uses, doubly, to protect from the loud sound of his 
+CONTACT Daniel Fishkin 
+ daniel.fiction@gmail.comTHE SENSES AND SOCIETY                               
+https://doi.org/10.1080/17458927.2023.2258617
+© 2023 Informa UK Limited, trading as Taylor & Francis Group
+
+collaborators and to accentuate the sound of his bass, its hollow, wooden frame resonat -
+ing against and with his body. In the light of this remediation, we can reconsider his 
+closed eyes. Haden is doubling his concentration in order to hear the world of sound 
+outside over the ringing inside , and vice versa, the inside over outside —to assert his 
+musical choices over the vexing too-loud sound of his band-mates, and to differentiate 
+those musical choices from the other non-cochlear sounds at play in his auris: the 
+unhearable tinnitus that drones beyond each stroke of his fingers on the strings.
+The sound-taming baffles are a recurring metaphor in Haden’s visual iconography.3 In 
+his late career, Haden stood behind these baffles, sometimes all the way across the stage, 
+to create distance from potentially loud sound. Yet, comprehensive analysis or even 
+speculation about his hearing damage is not as easily found; when mentioned, it is 
+often noted in passing. A short interview with Haden by Michael Jarrett (1998 ) highlights 
+his frustration around his condition, which might speak to this paucity of literature:
+Tinnitus is a ringing in the ears that develops in people genetically. Mine developed standing 
+next to cymbals, and having very sensitive ears.4 I developed the condition at a very young 
+age, and it got worse as I kept playing and didn’t protect my ears. Then I started wearing 
+earplugs. All along I had another condition which I didn’t know but found out about ten years 
+ago, called hyperacusis, which is extreme sensitivity to loud sound. It’s like the volume is 
+turned up in my head. A lot of people—when they have tinnitus—they lose their hearing. 
+With me, my hearing has become more and more acute. Every time I take a hearing test, I go 
+off the scale. I hear too much.
+Is that a mixed blessing or just a curse ?
+It’s a curse. Right now, as I’m talking to you, I’ve got an earplug in my left ear. . . . When I play 
+a concert, I have Plexiglas around the drums. I actually have to play on a big stage to distance 
+myself from the drums. It’s a real strain on me emotionally, physically, and creatively. 
+Sometimes, even though I can hear everything, it’s at a delay because I’m so far away from 
+everything.
+You’re an exceptionally melodic bass player. I wonder if your condition actually con -
+tributed to that?
+No. If I had a wish in my life it would be that I didn’t have these conditions. If you heard the 
+ringing that I have in my head, you’d run down the street screaming. I’ve gotten accustomed 
+to it now. I just accept it as a part of my being. But if I stop and think about it, it can really drive 
+me nuts (Jarrett 1998 , 47).
+I hear too much . Is Haden complaining, or boasting?5 Clearly, his hearing damage is not an 
+asset, but a persistent detriment with which he has learned to cope. In this essay, I want to 
+earnestly reconsider the suggestion of the interviewer. Without necessarily concluding 
+that Haden’s conditions have helped his innate melodic sense, this pessimistic dialogue 
+indicates very succinctly that Haden’s music has been indisputably shaped by his inner 
+soundworld.6 It doesn’t matter if Haden mourns his hearing damage, or finds it interesting 
+on some level. This passage lays bare a very simple truth – Haden’s hearing is indisputably 
+one of his chief musical influences. Psychoanalyst Monroe Street, in his prescient essay 
+“Tinnitus, Speaking,” suggests that the symptoms of disordered hearing might be 
+a palpable way through which a sufferer can exert control over their life: “Tinnitus appears 
+to be a way of achieving some semblance of ‘autonomy’ – that is, of being the one who 
+decides how sound will be made and what sounds will be heard” (Street 2022 ).2
+ D. FISHKIN
+
+Jazz is improvised music, and as such the real “work” of a jazz legend might be found 
+equally at the concert hall rather than recorded in textbooks. An anecdote shared by 
+T. J. Borden (personal communication n.d.) helps fill in the silences around Haden’s 
+hearing: “I saw him play once . . . he was playing duo with a local piano player and he 
+kept telling him to play quieter to the point where it was getting absurd, at which point he 
+told him to stop playing altogether.” Haden quite actively conducts his amateur forte -
+piano partner throughout a progressive range of piano and pianissimo , concluding al 
+niente before taking control with a bass solo. Haden’s hearing, then, might be a kind of 
+unwritten musical score.
+In a revealing interview with AllAboutJazz, Haden discusses his frustration with the 
+“dysfunctional mediocrity” of the pop radio hits that he hears played over loudspeakers as 
+background music (my emphasis added):
+It’s very tragic, because it’s everywhere you go. If you have a supermarket nearby and you go 
+to get some milk or whatever, you’re going to hear it. If you go to the Gap, or you go to 
+Bloomingdale’s or any type of clothing store, you’re going to hear it. Chances are, you’re 
+going to hear it very loud. I have to put earplugs in when I go shopping . It’s so sad. But I don’t 
+want to expose my insides to this ugliness. It’s wasteful. I don’t think people realize it. (Deluke  
+2004 )
+Haden is not merely annoyed – he must exert acoustic control on his surroundings just to 
+go shopping. While he does not use the term, these responses could constitute the 
+condition now known as misophonia, or, hatred of sound. Misophonia, along with tinnitus 
+and hyperacusis, is the final note in a dark triad of hearing conditions that stem from the 
+problem of sonic excess. The Top 40 hits surrounding him are tragic and ugly and wasteful — 
+and notably, not merely loud in the acoustic world, but in the emotional domain. Haden 
+goes on, bemoaning the degradation of creativity in society, which he describes as sonic 
+violence:
+It’s insulting. Disrespecting. . . It’s like: everybody calls this [in Iraq] a war. It’s not a war, it’s an 
+invasion. It’s an attack. It’s an occupation. That’s what’s happening with [sterile, uncreative, 
+even hostile music]. It’s like being violated. It forces something on you that you really don’t 
+want. When I get on an airplane, I say “please turn that stuff off.” Sometimes they do, and if 
+they don’t, I put in earplugs.
+Haden’s comparison of bad music with the US invasion of Iraq surprises me every time 
+I read it. Haden was a political person, and his politics were intertwined – perhaps 
+inextricably – with his creative expression. For example, in 1971, Haden was jailed in 
+Portugal for speaking out against the fascist Caetano Regime prior to performing his 
+“Song for Che,” which he dedicated to the Black liberation movements of Mozambique 
+and Angola (Goodman and Haden 2006 ). Haden’s comment on the Iraq war is thus not 
+frivolous – for Haden, striving for beautiful music is on par with fighting for democracy – 
+they are each different aspects of the fight for freedom.
+This stark statement, thus, clarifies that music is almost a matter of life and death for 
+Charlie Haden.7 Yet I can’t help but feel a little sorry for Haden, who maybe received the 
+wrong message from bad audiologists about guarding his hearing, therefore inheriting 
+the wrong tools for sonic warfare. Pawel Jastreboff,8 one of the leading medical research -
+ers on tinnitus, speaking to media scholar Mack Hagood, suggests “The auditory system 
+needs sound like the body needs food;” Hagood (2019 ) subsequently suggests that THE SENSES AND SOCIETY
+ 3
+
+tinnitus actually gets stronger when the auditory cortex is deprived of sound, whether by 
+hearing loss or earplugs, “a phenomenon comparable to a sound engineer turning up the 
+volume on a weak signal and thus amplifying the amplifier’s inherent noise – the afore -
+mentioned random firing of synapses.” (46)
+Hagood, responding to Jastreboff’s analysis of tinnitus and its reinforcement via the 
+limbic system, goes on to articulate another critical point – if you worry about your 
+tinnitus, if you are told that tinnitus is incurable, perhaps, by a doctor with poor bedside 
+manner, it will get worse . “In the case of the tinnitus sufferer, a negative association 
+attaches to tinnital sound, networking with the limbic system, creating a sense of fear 
+or annoyance and reflexively activating a ‘fight-or-flight’ response in the autonomic 
+nervous system . . . . Once made, these neural connections have a tendency to strengthen 
+in a vicious circle, further increasing the perceived presence and volume of tinnitus. This 
+feedback loop of suffering is a conditioned reflex” (Hagood 2019 , 59). In other words, 
+having tinnitus is not just hearing your ears ringing, but fearing your ears ringing.
+But Haden’s tinnitus isn’t the problem here— other sounds are. It is crucial to realize that 
+Haden is not speaking about merely the loudness surrounding him, but bad music. The 
+aforementioned feedback loop9 is not a cycle of pain, but generative. It is autopoiesis in 
+action. From Haden’s displeasure springs forth the intention to put beauty and peace into 
+society. His earplugs are key: through his listening practices, Haden delineates his aes-
+thetic convictions in the acoustic world.
+These convictions come into focus on the bandstand. Let us turn to a fellow sideman – 
+Marc Ribot explores the meaning of volume and tinnitus, in his essay Earplugs : “As soon as 
+I started to play in public, I began to experience the struggle between the ‘power’ of my 
+amp and the social and economic power of band leaders, club owners, paying members 
+of the audience, etc.—the ones Sartre was talking about when he said, ‘Hell is other 
+people.’ . . . The relation between amp wattage and social power can be even stickier 
+within bands . . . you turn up, so I turn up, so you turn up, etc. . . . the only possible end 
+point is the limit of human endurance” (Zorn 2000 , 236).
+Ribot suggests that the “shamans are cheating” by using earplugs – that musicians need 
+to encounter the physicality of their loud sound undiluted. But Haden has used those 
+earplugs to compose a different sonic outcome. Any jazz bass player can relate to the 
+frustrating acoustical hierarchy of the rhythm section – the piano is always brilliantly loud, 
+and the bass, muffled and not suited for sound projection, is sequestered under all the 
+other instruments. Yet, Haden transcended this pecking order with his recurring interest in 
+the duo format – a more delicate musical encounter grounded in a more sensuous 
+relationship to silence – and also one is unmistakably, private, and intimate. Tinnitus, 
+hyperacusis, and misophonia are subjective phenomena – no one else can share his 
+experiences directly. Thus, these personal hearings of sound drive Haden to make an 
+intimate music. Haden’s earplugs are not a crutch as Ribot is suggesting, but rather they 
+are synecdoche for his entire way of listening to the world, and thereafter responding to it. 
+These earplugs are not a passive dilution of acoustic force, but a vehicle for sonic selectivity.
+Dark listening
+Here, I’d like to invoke a term to encompass the particular cluster of hearing problems, 
+including tinnitus, hyperacusis and misophonia, that represent a fraught surplus: Dark 4
+ D. FISHKIN
+
+Listening (Fishkin and Hagood 2022 ). In doing so I seek to forge a connection between 
+these perceptual phenomena not solely as medical conditions (ie, diseases you can get), 
+but as a way of hearing not entirely different in praxis from other forms of embodied 
+listening in the avant-garde, (such as Oliveros’ Deep Listening, Michel Chion’s three 
+Modes of Listening), though entirely different in emotional tenor. I contend that to listen 
+darkly is not merely to gain access to both a heightened sonic awareness and fraught 
+emotional relationship to sound, but also to develop an embodied method for controlling 
+one’s sonic world through a diverse means of technological and aesthetic practices.
+Let me offer a colloquial analogy to explain what I mean. Dark Listening is succinctly 
+demonstrated every day at tinnitus support groups. Already a worldwide phenomenon 
+long before social media, there are countless versions of these networks for Tinnitus 
+sufferers now on Facebook, which I frequent every day. There is even a “Tinnitus Success 
+Stories” group (https://www.facebook.com/groups/TinnitusSuccess/ ), which, in a twist of 
+dark humor, hosts weekly posts by new members daunted by the lack of success there – 
+they had hoped to find hope, but instead find countless armchair experts of tinnital 
+suffering. These listeners are hyper-attuned to their individuated hearing: they know what 
+their triggers are, they know what medicines help, and they know what makes it worse. 
+They are already listening darkly.
+Dark Listening is, of course, a tongue-in-cheek reference to the ubiquitous philosophy 
+of the experimental composer, Pauline Oliveros. While her early career contributions to 
+American electronic music are vast, Oliveros broke artistic ground with her landmark Sonic 
+Meditations , a collection of text scores meant to be performed by anyone , regardless of 
+musical pedigree. These pieces collapse the boundaries between performer/audience – 
+they take place in the listening ear of the performer, who then hears the piece herself. 
+Take, for example, her piece, Native , whose entire score reads, “Take a walk at night. Walk 
+so silently that the bottoms of your feet become ears” (Oliveros 1974 ). Sonic Mediations led 
+Oliveros to formalize the practice of Deep Listening :
+I began with myself. I started to sing and play long tones, and to listen and observe how these 
+tones affected me mentally and physically. I noticed that I could change my emotional state 
+by concentrating my attention on a tone. I noticed that I could feel my body responding with 
+relaxation or tension. Prolonged practice brought about a heightened state of awareness that 
+gave me a sense of well-being. (Oliveros 2005 )
+For Oliveros, the direction of her attention is critical to extend the passive process of 
+hearing into its active form. However, the restorative sonic healing praxis offered by Deep 
+Listening might not be attainable for all ears. Curiously, if a person with tinnitus, hyper -
+acusis, or misophonia attempts to do the work of deep listening, the meditative sonic 
+spotlight resultant from active listening might simply amplify their symptom, as well as 
+the anxiety and frustration attached to it.10 This observation underscores the previously- 
+discussed conclusions of Jastreboff and Hagood – simply by deep listening to tinnitus, 
+you become better at hearing it, thus making it louder. In this regard, it’s perhaps no 
+surprise that Oliveros (2022 ) would note, “Deep Listening is a birthright for all healthy 
+humans” – the emphasis is my own.
+Oliveros’ approach is just one of countless sonic manifestos of the avant-garde. The 
+tradition of experimental music pushes listening to the center of the practice of music, and 
+as such, we can look to nearly any significant personality in the history of experimentalism THE SENSES AND SOCIETY
+ 5
+
+for a personalized formulation of listening. Yet many of these formulations share similar 
+insufficiencies. Elsewhere I have discussed at length John Cage’s famous discovery in the 
+anechoic chamber – where he first realized that silence does not exist (Fishkin 2016 ). 
+Tinnitus complicates Cage’s revelation. Simply put: if a person with tinnitus listens to 4’33” , 
+rather than hearing the unintended sounds of their environment outside , they will simply 
+hear their own ears ringing inside . While that experience may retain the lack of intention -
+ality that Cage intended, surely it contains none of Cage’s sonic curiosity. Tinnitus may 
+destroy one’s opportunity to hear Cage’s piece or inscribe itself as a permanent soloist in 
+each performance of it.
+Thus, the different forms of hearing damage challenge seminal pedagogies of listening 
+in the avant-garde, possibly rendering them useless in practical terms, or worse, assault -
+ing them conceptually. Combined with the sheer ubiquity of noise-induced hearing loss 
+and tinnitus, this suggests we might need a new school of sound to figure out how to 
+listen, when listening itself goes off the rails.
+Tinnitus, hyperacusis, and misophonia remain poorly understood in musical discourse 
+as well as Western medicine. As articulated by Jastreboff (1990 ), “While it is the most 
+common of auditory disorders, affecting some forty million people in the United States 
+alone, tinnitus is also the most enigmatic and elusive” (221). Jastreboff notes that a recent 
+body of scientific literature has arisen to classify medically the neurological and clinical 
+links between these interrelated disorders, only in 1990s was hyperacusis named as a real 
+condition by auditory neuroscientists, and prior to 2014, few clinical studies about 
+misophonia had been undertaken.11 Furthermore, these disorders might in fact be 
+symptoms of other problems, including noise-induced hearing loss, but also other con-
+ditions that impact the vestibular system or brain. Rather than a discrete list of disorders, 
+Dark Listening constitutes nodes within a particular listener’s relationship to sound – 
+a listener who has heard or is hearing too much: too much noise, too much volume, or 
+too much emotion.
+It is, perhaps, already contentious to call these conditions disorders. A long thread in 
+disability scholarship focuses on the distinctions about what constitutes disability itself. 
+Tom (2014 ) notes: “The social model is distinguished from the medical or individual 
+model. Whereas the former defines disability as a social creation – a relationship between 
+people with impairment and a disabling society – the latter defines disability in terms of 
+individual deficit” (216). This contrast can set in sharp relief the politics and thought 
+processes underlying the search for a cure, and simply living well. In terms of hearing loss, 
+the forces that might derive a profit from the medical model of disability might invest or 
+venture a tremendous amount of capital toward researching the still poorly understood 
+mechanisms of hearing, so that deafness might be cured. Whereas the social model might 
+posit the unique richness of D/deaf12 culture in order to reconfigure loss into surplus. In 
+their pioneering essay, “‘Deaf-Gain’ and the Future of Human Diversity,” Bauman and 
+Murray (2014 ) broadly detail the “extrinsic” assets to humanity at large offered by the Deaf 
+experience: from a creative diversity and cultural surplus to scientific scholarship, offering 
+scientists new understandings of neuroplasticity, as they study the brain’s language 
+processes happening outside the auditory cortex (241). Bauman and Murray (2014 ) 
+reframe deafness “from sensory lack to a form of sensory and cognitive diversity that 
+offers vital contributions to human diversity” (246). This analysis might help us reframe 
+our descriptions of disabilities as ways of experience, as well as disorders.6
+ D. FISHKIN
+
+If Deafness, then, is not a disability but way of experiencing the world, what would it be 
+like to hear deafly ? Jeannette DiBernardo Jones explores this provocation in her essay 
+about Deaf music making. Sound is vibration, which can be deciphered through the 
+process of the sounds vibrating the tympanum, stimulating hair cells, which are translated 
+to signals for the brain via the auditory nerve. Sound, however, is also felt by the body, in 
+our hands and organs, and anywhere we can touch. Therefore, for a Deaf listener, “the 
+whole body becomes the membrane. Both Deaf and hearing people can feel sound 
+vibrations, but hearing people tend to focus only on the auditory perception of these 
+sound vibrations. Without that distraction, deaf people tend to use their whole body to 
+perceive sound vibrations” (Jones 2015 , 58). There are limits to this generalization. It 
+assumes deafness is marked by middle-ear dysfunction, when in fact deafness might also 
+involve hair cell loss or dysfunction with the auditory nerve – the “membrane” of the body 
+does indeed resonate to vibration, we cannot conclude it is parsed in an analogous 
+manner. In a broader sense, Deaf musicality collides with language, as Deaf people hear 
+through their hands and gestures. Thus, American Sign Language plays a distinct role in 
+Deaf musical aesthetics. Deaf musicality seems to happen somewhere in between the 
+visual AND auditory cortex – punctuated by the visual rhythmic/semiotic patterns of ASL, 
+the primacy of Deaf Community and the sensation of loud sounds shaking the body.
+From this slightly rosy-lensed account of Deaf musicality, we return to Dark Listening, 
+and thus confront a seemingly unending tide of support groups online, the proliferation 
+of snake oil remedies in the absence of a cure, perpetual news of tinnitus suicides,13 etc. 
+Whereas Deaf culture is informed by collectivity – formed by the creation and use of 
+a shared language system, ie, signing – tinnital culture is defined negatively, shaped by 
+the isolation of loss and the drama of damage. Listeners suffering from hyperacusis may 
+shun the concert hall, fearful of unpredictable volume swells. Those with misophonia may 
+be alienated from the chewing sounds of their loved ones. What does it mean when 
+sound, when it is too much , takes on a wholly different meaning – drive you crazy, or 
+worse? We discussed different forms of listening before; The “dark” in Dark Listening 
+refers, then, to dark energies, trauma, and damage. For a dark listener, a once-liberatory 
+experience of sound has been charged by negative affects, perhaps with no recourse. 
+A tinnital listener may not hear deafly, but deathly.
+Michael Davidson, a Deaf poet and scholar who acquired his hearing loss quite late in 
+life, suggests that the notion of loss might be under-explored by a disability-forward 
+praxis. The problem with the phrase Deaf Gain is that: 
+. . . The phrase restricts the affective realm surrounding deafness to a forward looking, positive 
+agenda. Somewhat lost in this vision is the embodied experience of populations for whom 
+loss of hearing poses a challenge, even trauma, to the lived reality of community, work, 
+family, and solidarity. (Davidson 2016 )
+Davidson is asking us not to sanitize descriptions of loss. However, there are fundamental 
+differences in the meaning of sound by the hearing world and the Deaf World. For the 
+Deaf listener, sound is about communication : “being deaf has less to do with silence than 
+with negotiations with hearing people’s expectations of what sounds are supposed to do” 
+(Padden and Humphries 1990 , 91.) Yet, for a Hearing listener, sound is about sound —how 
+it sounds, how that feels , how sounds combine and what that means. For a listener with 
+hearing loss, the experience of hearing has been dramatically charged with meaning.THE SENSES AND SOCIETY
+ 7
+
+Taking recourse to the deaf/hearing binary may not fully explain the reciprocal tension 
+behind Loss and Gain. Jessica Holmes (2016 ) posits that “Ultimately, deafness can engen -
+der new and unexpected types of singing within a disability aesthetics that questions the 
+very sonic basis for music” (542). At the same time, within a century of experimentalism, 
+an entire movement of music has emerged that, in its own way, questions the sonic basic 
+of music as well, from Cage to Oliveros, and beyond. Yet, for Davidson, loss itself is 
+a potent affective register with centuries of aesthetic inquiry. This line of thinking is 
+concurrent within larger discussions in the field of Disability Aesthetics: “Disability has 
+emerged as a central aesthetic concept not only because it symbolizes human variation 
+but also because it represents the fragility of human beings and their susceptibility to 
+dramatic physical and mental change . . . disability aesthetics embraces beauty that seems 
+by traditional standards to be broken, and yet it is not less beautiful, but more so, as 
+a result” (Howe et al. 2016 , 531). The reality and drama of hearing loss suggests a wholly 
+different taxonomy from the aesthetics of deaf gain.14 For someone who loves or needs or 
+depends on sound, losing sound , and losing the predictability of the way one experiences 
+sound – is a tragic rupture.
+All of this brings us back to Charlie Haden: “If I had a wish in my life it would be that 
+I didn’t have these conditions. If you heard the ringing that I have in my head, you’d run 
+down the street screaming.” Though Haden rationalizes his conditions as noise-induced 
+hearing loss, he has certainly gained a very different set of parameters through which to 
+hear the world – a volume gain, as well as new sounds, and the acquisition of a new set of 
+emotions to accompany sound experience. While a disability-forward reading might 
+critique Haden’s pessimism about his hearing as problematically entrenched in the 
+medical model of disability, this perspective would miss the forest for the trees. Recall 
+that Haden is fighting a righteous war – against injustice and ugliness – through his 
+music-making. Thus, consider Haden’s dialogue is direct Intel from the front lines of 
+a sensitive artist describing what he needs to make the music happen, how he wants to 
+hear the world, and the great burden that this process entails for him. What has been 
+gained is not merely the world of tinnitus, but an embodied practice for controlling it!
+Haden is listening darkly to his tinnitus and hyperacusis – it is what he wishes his 
+hearing was not. There are two definitions of darkness at play here. On one level, Haden’s 
+experience of his hearing conditions is charged with bleak pessimism and angst. It is the 
+opposite of his desire. On another level, darkness is negative space – it is an absence that 
+denotes presence, a classical pairing of light and dark. To consider the structure of noise- 
+induced hearing loss, this metaphor might make sense – if tinnitus occurs because the 
+auditory cortex has been deprived of sound, as Jastreboff has suggested above, then the 
+sound of the ringing it is a kind of inverse-material – a negative reflection of stereocilia 
+that no longer resonate in response to acoustic stimulus. The ringing sound of tinnitus is 
+the presence stimulated by the absence of hearing at particular frequencies.
+Of course, not all who listen darkly are great jazz musicians. It takes a special kind of 
+creator to listen to the darkness and come back inspired. In this regard, the notion of 
+darkness we are discussing goes beyond Davidson’s formulation of ruptured hearing: to 
+listen darkly is not merely to retrieve damage as an exploitable aesthetic parameter, but to 
+engage in a dialogue between opposites, or to use darkness to recover the light. This way 
+of hearing is connected to many listeners and thinkers in past centuries of aesthetic 
+inquiry. John Keats wrote famously and briefly of this ability in a letter to his brothers, 8
+ D. FISHKIN
+
+coining the phrase “Negative Capability” to describe the capability of great writers to 
+explore aesthetic beauty even as it leads them into areas of ethical or philosophical 
+ambiguities. This Negative Capability is defined as “when a man is capable of being in 
+uncertainties, mysteries, doubts, without any irritable reaching after fact and reason. This 
+pursued through volumes would perhaps take us no further than this, that with a great 
+poet the sense of Beauty overcomes every other consideration, or rather obliterates all 
+consideration” (Keats 1899 , 277). My intention in invoking Keats is not to historically locate 
+negativity in any particular milieu – the attitude we are discussing is not culturally 
+contingent, but rather part of a larger aesthetic inquiry that spans many historical move -
+ments & traditions. Rather, this term indexes succinctly that Haden – like many artists 
+throughout time – possess a particular constitution that can weather the storm. Haden is 
+able to listen to the “ugliness” of the world without himself succumbing to it – He is able 
+to venture to the nether world and emerge unscathed.
+This is not to say that Haden’s hearing is detached from emotion. Nor is Haden alone – 
+anyone committed to music who develops any of these conditions is liable to be seriously 
+disturbed, and subsequently must relearn to listen in order to recover their experience of 
+sound. Beethoven detailed the extent of his hearing loss and its emotional impact in 
+a document now called the Heiligenstadt Testament :
+If at times I decided just to ignore my infirmity, alas! How cruelly was I then driven back by the 
+intensified sad experience of my poor hearing. Yet I could not bring myself to say to people: 
+“Speak up, shout, for I am deaf.” Alas! How could I possibly refer to the impairing of one sense 
+which in me should be more perfectly developed than in other people . . . (Mai 2007 , 47)
+In other words, someone who is supposed to be “good at hearing things” might not only 
+struggle with social isolation as a result of hearing trouble, but also mourn the loss itself — 
+for a musician or sound lover, losing control of your gift – your calling – may itself be an 
+artistic crisis. And for Charlie Haden, as a master of the duo art form, who is supposed to 
+respond in real time to the sounds which his partner produces – is he not supposed to 
+urgently be able to hear his partner? Or, perhaps the tinnitus is his first duet partner – that 
+Mephistopheles on his shoulder, the stimulus from which his diligent listening emerges. 
+Consider this interview with Zabor (1984 ):
+Haden: I could do duets for the next twenty years. When I think of all the great musicians 
+I haven’t played with, I could play duets for the rest of my life . . . when just two people are 
+playing you can listen so much more clearly.
+Zabor: Have you ever found yourself getting in the way because the music’s going 
+especially badly or especially well?
+Haden: When I have trouble with that, it means I’m not involved in my work. I want to be 
+able to rise above myself more and more, to be able to give to others and rise above that 
+ego, and I hope other people will be able to do that too. (Zabor 1984 , 44)
+Haden’s Dark Listening is not only the ear-plugged delineation of his aesthetic convic -
+tions – but the inverse template for the reverent humility that is the fundamental requisite 
+for any improvising partner. An artist like Haden, spends his entire life practicing how to 
+not hear himself in order to be a better improviser.THE SENSES AND SOCIETY
+ 9
+
+Surviving tinnitus is the practice of not hearing yourself.
+In his essay on Charlie Haden’s country roots, music scholar ken tianyuan Ge details the 
+extended quotations of folk tunes during Haden’s collaboration with Pat Metheny, on 
+their live album 80/81 :
+Consider the transition at 10:00, in which Jack DeJohnette’s intensely physical drum -
+ming elevates the tempo (a march-like 120 BPM) of Metheny’s “first” folk song to 
+a heightened level of energy. Metheny’s guitar and Haden’s bass gradually fade in at 
+12:20, establishing an open, thirdless tonal center in D. The understated attack and 
+volume of Haden’s bass, especially in his lowest string (again, detuned to D), seems to 
+invite an empathetic adjustment of volume from DeJohnette. This mutual adjustment of 
+texture is completed at 13:20 when Haden begins playing “Joe Clark” in a lyrical rubato. 
+His melody does not immediately assume the forefront of the musical texture: it 
+emerges , the ambiguous new tempo flooding and overtaking the perceptual ground 
+upon which we stand. He invokes an inverse virtuosity: if jazz’s trumpeters and sax-
+ophonists “took the music up” to new heights by exploiting the upper tessituras and 
+altissimos of their instruments, then Haden’s insistent, premeditated low D effectively 
+widens the dynamic range of the song, encouraging us to build our listening from the 
+bottom up. (Ge, 2020 )
+Ge’s description of Inverse Virtuosity is compelling. Haden’s absence becomes 
+a presence, slowing down the time of the improvisation, which, for a brief time, 
+seems to contain two distinct tempi. Rather than a technical (outward) virtuosity, 
+perhaps this virtuosity of listening is about inward pyrotechnics – how to hear 
+musical possibilities rather than wield them. That detuned D-string, too, has been 
+ringing in Haden’s musical ecosystem since at least 1959—since Ornette Coleman 
+changed music history with his stirring composition Lonely Woman , built also 
+around Haden’s open fifths around D and A, including the low D pedal tone. By 
+now, we realize that Haden is not merely listening to Metheny and Jarrett, but also 
+straining to hear them through his earplugs and Plexiglas baffles, through his 
+tinnitus and hyperacusis, and indeed, through the everyday sonic banalities 
+which suffuse his (and our) existences.
+As his hearing loss vexes him, Haden’s actions in response create real ripples in the 
+acoustic realm – many silences, with disparate affects. While there is no cure, there are 
+ways to get used to tinnitus: one such way is to use it, heeding its call to engender 
+a new sonic reality for all who are listening. His tinnitus doubtlessly roaring in his ears, 
+yet never heard by his partners or his audiences – the loudness of every sound 
+surrounding him and the perilous feelings thereafter – the earplugs, the baffles: 
+these are unique filters which frame his sonic waking life. These symptoms and 
+technologies are real agents – part and parcel of a troubled hearing that relentlessly 
+determines its sonic consequences for all to experience. We hear these sonic con-
+sequences in every pluck, in his preference of the intimate duo setting, in the reverent 
+contemplation of Haden’s sonic affect – and we know their opposites – their inverse 
+impressions: from the loud bandstand, to the raucous supermarket loudspeaker blar -
+ing facile pop hits, even to the insensitive collaborator who can’t hear what Haden 
+hears. This is the paradoxical tension of Dark Listening —it is both generative and 
+prohibitive, creating new ways of listening and sounding at the same time it tears 
+others asunder.10
+ D. FISHKIN
+
+Notes
+1. Please begin by listening to Charlie Haden’s bass solo on Ornette Coleman’s “Law Years” from 
+the Complete Science Fiction Sessions.
+2.This story has been repeated many times throughout Haden’s life, but is recalled in con-
+versation with fellow bassist, Flea (Leigh 2006 ).
+3. In several of his obituaries, he stands aside his own reflection in his Plexiglas (The Telegraph  
+2014 ).
+4. A diligent reader will note that Haden’s etiology of tinnitus et al is non-canonical, and 
+represents his own understanding of his condition, rather than a comprehensive medical 
+definition. Though Haden conjectures his tinnitus may have emerged from playing near loud 
+drummers for so many years, noise-induced hearing loss is just one possible cause for the 
+symptom of tinnitus. I use the term hearing damage, however, to preserve the emotional 
+impact of my subject’s experience of these conditions, without intending to further stigma -
+tize disease.
+5. Elsewhere, Haden lectures his students, “We’ve been given special ears. It doesn’t make you 
+better than anybody else, but you’re able to hear things other people don’t” (Smith 1997 ).
+6. Haden is not alone. Indeed, many musicians who describe their tinnitus simultaneously 
+describe themselves — eg, their own way of hearing and their way of engaging with sound. 
+I found Barbara Streisand discussing her tinnitus with a daytime show host “Q: What do you 
+hear that I don’t hear? A: I hear high frequency noise. When I went to have my hearing tested, 
+I had supersonic hearing. I hear more. [. . .] And this is one of the reasons I always felt different 
+when I was a kid (Streisand 2018 , 0:24–0:41).
+7. In another interview, he admonishes his students, “you must risk your life for every note” 
+(Gravity 1994 ).
+8. Pawel Jastreboff distinguished himself in the field by coming up with the first metric to test for 
+tinnitus in the brains of rats – and later invented Tinnitus Retraining Therapy , a psychodynamic 
+response system for learning to cope with tinnitus in lieu of a chemical or surgical cure 
+(Jastreboff and Hazell 2008 ).
+9. Consider, too, microphone feedback – regardless its colloquial association as an “annoying” 
+sound.
+10. And indeed, through focused listened onto one’s own troubled relationship to sound, that 
+iterative process of attention-directing might yield a sound that cannot be unheard. In 
+other words, Passive hearing, amplified by active listening, gives way to a new level of 
+hearing.
+11. Edelstein et al. (2013 ) authored one of the first papers to take a stab at creating diagnostic 
+criteria for Misophonia through interviewing people who experience it. Edelstein et al. (2013 ) 
+also connect the data of misophonic sufferers to normal music listeners, creating data for the 
+psychological experience of this puzzling condition.
+12. Whereas the lowercase spelling of deaf indicates the absence of hearing, capital-D Deaf 
+indicates Deaf Culture – positing Deafness as a community rather than a condition.
+13. One of Jastreboff and Hazell’s 2008 most radical suggestions is to suggest a suicide help line 
+specifically for tinnitus sufferers, to spare them from the affective drama of going to a doctor 
+who will shrug and say “there’s nothing you can do.”
+14. It also suggests an aesthetics of hearing too much that refuses generalization. Since these 
+conditions are all subjective, phenomenologically, there is something untranslatable about 
+these disorders – something hyper-personal, which will, by virtue of their specificity, will 
+never translate to a real cultural identity, such as Deafness has.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).THE SENSES AND SOCIETY
+ 11
+
+References
+Bauman, H-Dirksen L., and Joseph J. Murray. 2014 . “Deaf Studies in the 21st Century: “Deaf-Gain” 
+and the Future of Human Diversity.” In The Disability Studies Reader , edited by Lennard Davis. 
+New York: Routledge.
+Davidson, Michael. 2016 . “Cleavings: Critical Losses in the Politics of Gain.” Disability Studies 
+Quarterly 36 (2). https://doi.org/10.18061/dsq.v36i2.4287 .
+Deluke, R. J. 2004 . “Charlie Haden: Making Beautiful Music.” All About Jazz, Last modified December 
+2, 2004. https://www.allaboutjazz.com/charlie-haden-making-beautiful-music-charlie-haden-by- 
+rj-deluke.php .
+Edelstein, Miren, David Brang, Romke Rouw, and Vilayanur S. Ramachandran. 2013 . “Misophonia: 
+Physiological Investigations and Case Descriptions.” Frontiers in Human Neuroscience 7 (296): 
+1–11. June. https://doi.org/10.3389/fnhum.2013.00296 .
+Fishkin, Daniel. 2016 . “Composing the Tinnitus Suites: 2008 Through 2016 (Until Death).” Society of 
+American Music Bulletin 42 (3): 5–8. https://cdn.ymaws.com/www.american-music.org/resource/ 
+resmgr/docs/bulletin/vol423.pdf .
+Fishkin, Daniel, and Mack. Hagood. 2022 . “Dark Listening.” Sounding Out. (forthcoming 2022).
+Ge, ken tianyuan “Rambling Boy: Images, Quotation, and the Thisness of Place in Charlie Haden’s 
+America.” Unpublished Manuscript.
+Goodman, Amy, and Charlie Haden. 2006 . “Jazz Legend Charlie Haden on His Life, His Music and His 
+Politics.” Democracy Now, Last modified September 1, 2006. https://www.democracynow.org/ 
+2006/9/1/jazz_legend_charlie_haden_on_his .
+Gravity. 1994 . “Charlie Haden: ‘Risk Your Life for Every Note’.” Last modified October 25, 1994. http:// 
+www.newsavanna.com/meanderings/me107/me10707.html .
+Hagood, Mack. 2019 . Hush: Media and Sonic Self-Control . Durham: Duke University Press.
+Holmes, Jessica A. 2016 . “Singing Beyond Hearing.” Journal of the American Musicological Society 
+69 (2): 542–547. https://scholar.google.ca/citations?view_op=view_citation&hl=en&user= 
+YxZVkMkAAAAJ&citation_for_view=YxZVkMkAAAAJ:IjCSPb-OGe4C .
+Howe, Blake, Stephanie Jensen-Moulton, Joseph N. Straus, Jennifer Iverson, Jessica A. Holmes, 
+Michael B. Bakan, Andrew Dell’antonio, and Elizabeth J. Grace. 2016 . “On the Disability 
+Aesthetics of Music.” Journal of the American Musicological Society 69 (2) Summer: 525–563.  
+https://doi.org/10.1525/jams.2016.69.2.525 .
+Jarrett, Michael. 1998 . Sound Tracks: A Musical ABC . Vol. 1-3. Philadelphia: Temple University Press.
+Jastreboff, Pawel J. 1990 . “Phantom Auditory Perception (Tinnitus): Mechanisms of Generation and 
+Perception.” Neuroscience Research 8 (4): 221–254. August. https://doi.org/10.1016/0168-0102(90) 
+90031-9 .
+Jastreboff, Pawel J., and Jonathan W. P. Hazell. 2008 . Tinnitus Retraining Therapy: Implementing the 
+Neurophysiological Model . Cambridge: Cambridge University Press.
+Jones, Jeannette DiBernardo. 2015 . “Imagined Hearing: Music-Making in Deaf Culture.” In The Oxford 
+Handbook of Music and Disability Studies , edited by Blake Howe, Stephanie Jensen-Moulton, 
+Neil Lerner, and Joseph Straus. Oxford: Oxford University Press. https://doi.org/10.1093/ 
+oxfordhb/9780199331444.013.3 .
+Keats, John. 1899 . The Complete Poetical Works and Letters of John Keats . New York: Thomas 
+Y. Crowell Company.
+Leigh, Bill. 2006 . “Flea & Charlie Haden.” Bass Player . 17 (6): 30–44. June. http://thechilisource.com/ 
+bass-player-june-2006/ .
+Mai, Francois. 2007 . Diagnosing Genius . Montreal: McGill-Queen’s University Press. https://doi.org/ 
+10.1515/9780773576063 .
+Metheny, Pat, Charlie Haden, Dewey Redman, Jack DeJohnette, and Michael Brecker. 1991. 80/81 . 
+ECM Records 1180/81, compact disc.
+Oliveros, Pauline. 1974 . Sonic Meditations . Sharon: Smith Publications.
+Oliveros, Pauline. 2005 . Deep Listening: A Composer’s Sound Practice . New York: iUniverse, Inc.
+Oliveros, Pauline. 2022 . Quantum Listening . Ignota Books.12
+ D. FISHKIN
+
+Padden, Carol, and Tom Humphries. 1990 . Deaf in America: Voices from a Culture . Cambridge: 
+Harvard University Press.
+Smith, R. J. 1997 . “All That L.A. Jazz.” Los Angeles Times, Last modified January 19, 1997. https:// 
+www.latimes.com/archives/la-xpm-1997-01-19-tm-19975-story.html .
+Street, Monroe, 2022 . “Tinnitus, Speaking.” unpublished draft.
+Streisand, Barbara. 2018 . “Barbara Streisand Speaks About Her Tinnitus.” YouTube. March 27. Video, 
+1:27. https://www.youtube.com/watch?v=VyYzMKxHkEA .
+The Telegraph. 2014 . “Charlie Haden – Obituary.” Last modified July 14, 2014. https://www.tele 
+graph.co.uk/news/obituaries/10966434/Charlie-Haden-obituary.html .
+Tom, Shakespeare. 2014 . “The Social Model of Disability.” In Disability Studies Reader , edited by 
+Lennard J. Davis, 266–273. New York: Routledge.
+Zabor, Rafi. 1984 . “Charlie Haden, Liberation and Revelation: The Probing Essence of the Bass.” 
+Musician 66 (April): 42–52.
+Zorn, John. 2000 . Arcana: Musicians on Music . New York: Granary Books.THE SENSES AND SOCIETY
+ 13

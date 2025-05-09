@@ -1,0 +1,355 @@
+## International Journal of Audiology
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/iija20
+
+## Evaluation of the psychometric properties of the English MisoQueﬆ and its relationship with audiological and psychological factors
+
+Fatma Betul Kula, Mark Cropley &amp; Hashir Aazh
+
+To cite this article: Fatma Betul Kula, Mark Cropley &amp; Hashir Aazh (25 Jan 2025): Evaluation of the psychometric properties of the English MisoQuest and its relationship with audiological and psychological factors, International Journal of Audiology, DOI: 10.1080/14992027.2025.2456015
+
+To link to this article: https://doi.org/10.1080/14992027.2025.2456015
+
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group on behalf of British Society of Audiology, International Society of Audiology, and Nordic Audiological Society.
+
+View supplementary material
+
+Published online: 25 Jan 2025.
+
+Submit your article to this journal
+
+Article views: 84
+
+View related articles
+
+View Crossmark data
+
+ORIGINAL ARTICLE
+
+## Evaluation of the psychometric properties of the English MisoQuest and its relationship with audiological and psychological factors
+
+Fatma Betul Kula a,b ,  Mark  Cropley a and Hashir Aazh b a Department of Psychology,  University  of  Surrey,  Guildford,  UK; b Hashir  International  Specialist  Clinics  &amp;  Research  Institute  for  Misophonia, Tinnitus  and  Hyperacusis,  London  and  Guildford,  UK
+
+## ABSTRACT
+
+## ARTICLE HISTORY
+
+Objective: The  aim  was  to  establish  the  validity  and  reliability  of  the  English  version  of  MisoQuest,  a 14-item misophonia questionnaire initially validated in the Polish language.
+
+Design: Reliability  was  examined through internal consistency, measurement error, and test-retest reliability. Validity was  evaluated with confirmatory factor analysis, convergent, and discriminant validity. Participants completed the English MisoQuest at two-time points and participated in follow-up interviews. Study Sample: The study included 451 adult participants, with an average age of 36.4 years (SD ¼ 12.8). Results: The  English  MisoQuest  showed  very  good  internal  consistency  ( a and x ¼ 0.93)  and  high  testretest  reliability  (ICC ¼ 0.89).  While  CFA  indicated  adequate  overall  model  fit,  it  did  not  fully  support  a one-factor structure, as some  items  shared  variance  even  when  controlled  for  the latent variable. Convergent  validity  was  demonstrated  by  moderate  to  strong  correlations  with  established  misophonia questionnaires. Weak correlations with non-misophonia measures supported discriminant validity. Unexpectedly, moderate correlations were found with Hyperacusis Impact Questionnaire ( r ¼ 0.34; p &lt; 0.01)  and  Three-dimensional Fatigue Inventory ( r ¼ 0.31; p &lt; 0.01).
+
+Conclusion: The study found that the English version of MisoQuest is a reliable and valid tool for measuring misophonia within the English-speaking adult population.
+
+## 1.  Introduction
+
+Misophonia is characterised by profound emotional, physiological and behavioural reactions towards specific sounds or visual stimuli, as defined by Swedo et al. (2022). Common triggers for misophonia  involve  sounds  produced  by  others,  particularly  those linked  to  oral  functions  (e.g.  chewing,  eating),  nasal  sounds  (e.g. breathing  and  sniffing)  and  repetitive  sounds  such  as  tapping  or clicking.  When  individuals  with  misophonia  are  exposed  to  the trigger  sounds,  they  often  experience  emotional  reactions  (e.g. anger  and  irritation),  bodily  sensations  (e.g.  increased  heart  rate and tense muscles), and behavioural responses (e.g. avoidance and aggressive  behaviours,  asking  people  to  stop  making  the  noise) (Dibb,  Golding,  and  Dozier  2021;  Edelstein  et  al.  2013;  Jager, Vulink,  et  al.  2020).  The  prevalence  of  clinical  misophonia  (i.e. people for whom symptoms of misophonia cause a significant burden) has been reported in 18.4% of a representative sample of the UK adult population (Vitoratou et al. 2023). However, in the US, a recent  study  by  Dixon  et  al.  (2024)  found  that  4.6%  of  the  adult population experience clinical levels of misophonia.
+
+anxiety  disorders,  with  nearly  57%  of  sampled  participants  meeting the criteria for at least one anxiety-related disorder (Rosenthal et  al.  2022).  It  is  estimated  that  12%  of  misophonia  patients  also experience  tinnitus,  with  4%  of  them  also  presenting  hyperacusis (Rouw and Erfanian 2018). Some studies have suggested that individuals with misophonia also report hearing loss (Aazh et al. 2022; Enzler et al. 2021; Siepsiak et al. 2022). Dibb and Golding (2022) reported  that  individuals  with  misophonia  have  difficulties  in emotional  well-being  and  social  functioning.  They  reported  that compared to  quality  of  life,  individuals  with  misophonia  showed increased levels of fatigue as measured by the Misophonia Response scale (Dibb and Golding 2022).
+
+Research  indicates  that  misophonia  is  frequently  associated with conditions such as obsessive-compulsive disorder and trauma-related disorders (Schroder, Vulink, and Denys 2013; Wu € et  al.  2014).  Approximately  28%  of  individuals  diagnosed  with misophonia also exhibit one or more psychiatric disorders (Jager, Vulink, et al. 2020). Misophonia co-occurs with a diverse range of
+
+A valid and reliable measurement tool is essential for accurately assessing misophonia  severity  and  ensuring  consistent  results across studies, which enhances the credibility and comparability of research.  The  MisoQuest  questionnaire,  consisting  of  14  items, was  initially  validated  in  a  Polish  sample  (Siepsiak  et  al.  2022). However, a recent systematic  review  by  Kula,  Cropley,  and  Aazh (2022) emphasised the need for further evaluation of MisoQuest's psychometric  properties,  especially  within  an  English-speaking population, using the COSMIN framework (Mokkink et al. 2018).
+
+This study aims to validate the English version of the MisoQuest  by  evaluating  its  structural  validity,  reliability,  measurement  error,  and  convergent  and  discriminant  validity  according to COSMIN  standards  (Mokkink  et  al.  2018).  Our  data collection  involved  a  three-stage  approach.  Initially,  participants
+
+CONTACT
+
+Fatma Betul  Kula f.kula@surrey.ac.uk University  of  Surrey,  Stag  Hill,  University  Campus,  Guildford  GU2  7XH,  UK
+
+Supplemental data for  this  article  can  be  accessed  online  at  https://doi.org/10.1080/14992027.2025.2456015.
+
+� 2025  The  Author(s).  Published  by  Informa  UK  Limited,  trading  as  Taylor  &amp;  Francis  Group  on  behalf  of  British  Society  of  Audiology,  International  Society  of  Audiology,  and  Nordic Audiological  Society.
+
+This  is  an  Open  Access  article  distributed  under  the  terms  of  the  Creative  Commons  Attribution  License  (http://creativecommons.org/licenses/by/4.0/),  which  permits  unrestricted  use, distribution,  and  reproduction  in  any  medium,  provided  the  original  work  is  properly  cited.  The  terms  on  which  this  article  has  been  published  allow  the  posting  of  the  Accepted Manuscript  in  a  repository  by  the  author(s)  or  with  their  consent.
+
+Received  2  February  2024 Revised  30  December  2024 Accepted  10  January  2025
+
+## KEYWORDS
+
+Misophonia;  Validity; Reliability;  English MisoQuest
+
+engaged  in  an  online  survey,  completing  the  measurements  at two separate points two weeks apart. A subsample of participants who  completed  both  stages  of  the  survey  were  invited  to  the third stage, which was an interview to complete the same survey, using identical measures, but this time administered by the researcher. More details are provided in the methods section.
+
+Based  on  existing  research,  we  hypothesised  the  following  for the  validation  of  the  English  MisoQuest.  While  Siepsiak  et  al. (2020a) performed a confirmatory analysis using Graded Response Model  to  confirm  the  factor  structure  of  the  MisoQuest,  they  did not  use  Confirmatory  Factor  Analysis  (CFA).  Although  measurement  error  was  addressed  in  the  original  study,  our  study  focuses on  analysing  the  standard  error  of  measurement.  Furthermore, both  convergent  and  discriminant  validity  are  examined,  aspects not fully explored in the initial validation. We  expected the English  version  to  demonstrate  internal  consistency  (Cronbach's a and  McDonald's x &gt; 0.70),  strong  test-retest  reliability  similarly reliability  levels  as  reported  in  the  original  scale's  development, and  low  measurement  error.  For  convergent  validity,  we  anticipated moderate to strong correlations between the English MisoQuest  and  other  misophonia-related  measures  (e.g.  AMISOR, MIQ,  SS4),  and  for  discriminant  validity,  weak  correlations with  constructs  unrelated  to  misophonia,  such  as  hearing  loss, hyperacusis, mental health, sleep and stress.
+
+## 2.  Materials and methods
+
+## 2.1.  Ethics  approval  and  consent  to  participate
+
+Ethics  approval  for  the  study  was  obtained  from  the  University of  Surrey  Research  Integrity  and  Governance  Office  (Reference: FHMS-21 22 083 EGA). All participants provided online consent after being  informed  about  the  study's  objectives,  procedures, and their right to withdraw at any time.
+
+## 2.2.  Participants
+
+The  sample  size  was  determined  based  on  a  25:1  participant-toitem  ratio  for  the  MisoQuest  questionnaire,  resulting  in  a  minimum  target  of  350  participants  (Hair  et  al.  2019).  Although some scholars recommend a minimum ratio of 5:1 (Comrey and Lee  2013),  a  larger  sample  size  can  improve  factor  stability  and result  generalisability.  For  test-retest  reliability,  a  minimum  of 100  participants  were  required  to  minimise  statistical  error  and improve reliability estimates (COSMIN guidelines; Mokkink et al.  (2018).
+
+The  survey  link  was  distributed  via  university email  lists, social media (Instagram, X), and the Hashir International Specialist  Clinics'  online  newsletter.  Additionally,  it  was  shared within  Facebook  support  groups  and  through  non-profit  organisations  (e.g.  SoQuiet).  From  475  initial  respondents,  only  those who  passed  an  attention  check  and  met  standard  response  time criteria  were  included  in  the  analysis,  yielding  a  final  sample  of 451.  This  quality  control  process  aligns  with  recommendations to  exclude  careless  responses  (Arias  et  al.  2020;  Chandler,  Sisso, and  Shapiro  2020),  and  we  additionally  excluded  outliers  with response  times  more  than  three  standard  deviations  from  the mean  (Leys  et  al.  2013).  Initially,  475  individuals  were  recruited for  the  study.  After  applying  the  attention  check  and  processing time  criteria,  a  final  sample  of  451  respondents  was  included  in the  analysis.  In  the  study's  second  phase  for  test-retest  reliability, 154 participants took part.
+
+The inclusion criteria for participants included being at least  18 years  old  and  having  a  good  understanding  of  English (self-reported).  Exclusion  criteria  were  if  they  had  a  significant cognitive impairment or severe visual impairment (this was communicated  with  them  in  the  study  invitation  and  information sheet).
+
+## 2.3.  The  translation  process
+
+According  our  agreement  with  the  developer  of  MisoQuest,  we used  the  English  version  of  MisoQuest  that  was  translated  from the  original  Polish  version  and  published  as  a  supplement  to their  original  paper  (Siepsiak  et  al.  2022).  For  this  translation, two  Polish  researchers  translated  the  questionnaire  from  Polish to  English.  Following this,  a  third  person,  a  native  speaker  familiar with misophonia, corrected the translation for linguistic accuracy.  They  also  approved  that  there  was  a  back-translation of MisoQuest during the process.
+
+## 2.4.  Procedures
+
+The study, conducted between May and July 2023, invited participants  to  complete  an  online  survey  on  sound  sensitivity,  hosted on Qualtrics (Provo, USA, https://www.qualtrics.com). After consenting  and  receiving  study  information,  participants  provided demographic  details  (age,  gender,  education,  ethnicity,  religion, employment and completed questionnaires assessing misophonia, hyperacusis,  tinnitus,  mental  health,  hearing,  stress,  sleep,  and fatigue (see Section 2.5 for details). Supplementary Figure 1 illustrates  the  stages  of  participant  involvement.  Although  follow-up interviews  were  planned  after  the  test-retest  phase,  only  14  participants agreed to participate.
+
+## 2.4.1.  Test-retest  reliability
+
+To  assess  test-retest  reliability,  participants  completed  the  survey twice  over  a  two-week  interval,  as  recommended  by  Franzen et  al.  (1987).  A  total  of  154  participants  engaged  in  this  phase, providing data on the stability of responses over time.
+
+## 2.4.2.  Assessing  the  effect  of  administration  mode (self-administered  vs  interview-based)
+
+Following  the  test-retest  phase,  participants  were  invited  to  an optional  online  interview  to  compare  self-administered  responses with those gathered in a researcher-administered setting. Fourteen participants took part in this third phase, which occurred  immediately  following  the  second  phase.  This  allowed for a comparison  between  self-administration  and  researcheradministration of MisoQuest.
+
+## 2.4.3.  Screening  questions  for  tinnitus  and  hearing
+
+Participants  completed  screening  questions  for  tinnitus.  Those with tinnitus were asked to complete the Tinnitus Impact Questionnaire (TIQ; Aazh et al. (2022a). All participants answered  a  hearing  status  question,  and  those  indicating  hearing loss  completed  the  Hearing  Handicap  Inventory  (HHI;  Cassarly et  al.  (2020).
+
+## 2.5.  Measures
+
+The  primary  measure  in  this  study  was  MisoQuest.  Additional measures  were  administered  to  evaluate  MisoQuest's  convergent and discriminant validity:
+
+MisoQuest (Siepsiak  et  al.  2020a):  This  14-item  questionnaire uses  a  five-point  Likert  scale  (1 ¼ 'strongly  disagree'  to  5 ¼ "strongly  agree")  to  evaluate  sensitivity  to  bothersome  sounds. Originally  developed  in  Polish,  it  demonstrated  a  Cronbach's a of 0.96 and  ICC  of  0.84  in  reliability tests. The  authors  of MisoQuest  (Siepsiak  et  al.  2020a)  acknowledged  that  they  translated the questionnaire into English, and we employed  this English  version  in  our  study.  A  cut-off  value  of  61  has  been established to identify individuals who  may  be  experiencing misophonia by Siepsiak et al. (2020).
+
+The  Amsterdam  Misophonia  Scale-  Revised (Jager,  Vulink, et  al.  2020):  A  10-item  scale  with  a  0-4  rating  for  misophonia severity,  where  scores  of  0-10  indicate  subclinical,  11-20  mild, 21-30  moderate,  and  31-40  severe  symptoms.  The  English  version  of  AMISO-R  demonstrated  a  Cronbach's a of  0.81  (Naylor et  al.  2021)  and  was  included  to  assess  the  convergent  validity  of MisoQuest.
+
+Misophonia Impact Questionnaire (Aazh, Najjari, et al. 2024):  An  8-item  scale  measuring  the  impact  of  misophonia, with  items  0-3  (0 ¼ 0-1 day,  1 ¼ 2-6 days,  2 ¼ 7-10 days,  3 ¼ 1114 days),  with  a  total  score  range  of  0-24.  Scores � 12  indicate significant  impact  (Erfanian  and  Aazh  2023).  The  MIQ  demonstrated  strong  reliability,  with  a  Cronbach's a of 0.94  (Aazh, Najjari,  et  al.  2024).  This  measure  was  used  to  assess  convergent validity.
+
+Sound  Sensitivity Symptoms  Questionnaire (Aazh et al. 2022b): 5 item explores several sound  sensitivity symptoms, including  loudness  hyperacusis,  pain  or  discomfort  hyperacusis, annoyance  hyperacusis/misophonia,  and  fear  hyperacusis,  over two  weeks.  For  each  item,  a  score  of  0,  1,  2,  or  3  is  assigned  to the  response  categories  of  0  to  1 day,  2  to  6 days,  7  to  10 days, and 11 to 14 days,  respectively.  A  score  of  five  or  more  indicates a  clinically  significant  sound  intolerance  problem.  In  a  clinical sample, the SSSQ demonstrated a reliability coefficient of Cronbach's a ¼ 0.87  (Aazh  et  al.  2022b).  SS4  (item  4  in  SSSQ) specifically  evaluates  the  severity  of  misophonia  symptoms  by assessing how  often  participants felt angry  or anxious  when exposed  to  specific sounds  associated  with  eating noises, lip smacking,  sniffling,  breathing,  clicking  sounds,  and  tapping  over the  past  two  weeks.  Consequently,  we  employed  SS4  to  measure convergent  validity.  The  sum  of  items  1,  2,  3,  and  5  quantifies hyperacusis  symptoms,  and  this  part  was  used  to  assess  discriminant validity.
+
+Hyperacusis  Impact  Questionnaire (Aazh  et  al.  2022b):  An 8-item tool assessing the hyperacusis impact with items scored 03 based  on  frequency  (0 ¼ 0-1 day,  1 ¼ 2-6 days,  2 ¼ 7-10 days, 3 ¼ 11-14 days),  giving  a  total  score  range  of  0-24.  Scores  of  12 or higher indicate a clinically significant impact. The HIQ showed  high  reliability,  with  a  Cronbach's a of  0.93  (Aazh  et  al. 2022b). This instrument was applied to assess discriminant validity.
+
+Tinnitus Impact Questionnaire (Aazh et al. 2022a): A 7-item measure  assessing  tinnitus  impact  daily  activities, mood,  and sleep.  Each  item  is  rated  0-3  to  indicate  frequency  (0 ¼ 0-1 day, 1 ¼ 2-6 days,  2 ¼ 7-10 days,  3 ¼ 11-14 days),  yielding  a  total  score range  of 0-21. Internal consistency  is high, with Cronbach's a ¼ 0.89  (Aazh  et  al.  2022a).  Scores  below  5  indicate  no  impact, 5-6  mild  impact,  7-8  moderate  impact,  and  9  or  higher  severe impact. TIQ was used to assess discriminant validity.
+
+Screening for Anxiety &amp; Depression in Tinnitus (Aazh et al. 2023b):  The SAD-T contains four items that match those for the physical  health  questionnaire  (PHQ-4;  Kroenke  et  al.  2009).  Two items  relate  to  the  experience  of  anxiety,  and  two  relate  to  the experience  of  depression.  Each  item  is  scored  0-3,  corresponding to  0-1 day,  2-6 days,  7-10 days,  and  11-14 days.  The  total  score ranges  from  0  to  12,  with  scores  of  4  or  more  indicating  symptoms of  anxiety  and/or  depression.  The  SAD-T  has  high  reliability  (Cronbach's a ¼ 0.91;  Aazh  et  al.  (2023b)  and  was  used  to assess discriminant validity.
+
+Hearing  Handicap  Inventory (Cassarly  et  al.  2020):  A  10item  measure  assessing  the  social  and  emotional  impact  of  hearing  loss.  Responses  are  scored  as  'yes'  (4),  'sometimes'  (2),  or 'no' (0),  with total  scores  ranging  from  0  to  40.  Score  ranges:  08  (no  handicap),  10-24  (mild-moderate),  26-40  (severe).  Higher scores  indicate  greater  perceived  handicap.  The  HHI  shows  high internal  consistency  (Cronbach's a ¼ 0.95;  Cassarly  et  al.  (2020) and was used to assess discriminant validity.
+
+A  single-item  measure  of  stress  symptoms (Elo,  Leppanen, € and  Jahkola  2003):  A  one-item  questionnaire  assesses  the  stress symptoms.  The  scores  range  from  1-5.  Higher  scores  showed greater  stress  levels.  The  single-item  measure  has  been  found valid in terms of content and criterion validity by Elo, Leppanen, € and  Jahkola  (2003).  We  used  this  questionnaire  to  examine  the discriminant validity because it assesses stress symptoms.
+
+Single  Item  Sleep  Quality  Scale (Snyder  et  al.  2018):  One item measure that evaluates sleep quality. The scores '0': Terrible,  '1-3':  Poor,  '4-6':  Fair,  '7-9  ':  Good,  '10':  Excellent. The test-retest reliability  of  this  measure  was  found  to  be  0.74  in stable  patients  with  depression  and  0.62  in  insomnia  patients during  a  4-week  period,  and  it  demonstrated  good  convergent and  discriminant  validity.  We  used  this  item  to  assess  the  discriminant validity due to its focus on measuring sleep quality.
+
+Three-Dimensional  Fatigue  Inventory (Frone  and  Tidwell 2015):  The  3D-WFI  is  an  18-item  tool  assessing  fatigue  across three dimensions:  physical,  mental,  and  emotional  (six  items each).  Responses  are  on  a  five-point  Likert  scale  (1 ¼ every  day to  5 ¼ never).  Internal  consistency  for  each  dimension  is  high, with reliability estimates exceeding 0.90 (Frone, Reis, and Ottenstein  2018).  The  3D-WFI  was  used  to  assess  the  discriminant validity of the English version of MisoQuest.
+
+## 2.6.  Data  analysis
+
+Descriptive statistics and normality tests, including the Kolmogorov-Smirnov  test,  were  calculated  for  all  administered measures.  Normality  was  assessed  visually  through  histograms and  quantitatively  to  ensure  data  met  parametric  assumptions. All  analyses,  except  CFA,  were  conducted  in  IBM  SPSS  version 28.0. The structural validity of the English MisoQuest was assessed  by  CFA  using  IBM  SPSS  Amos  version  28,  following initial  analysis  in  AMOS,  a  re-assessment  was  conducted  in  R using  'lavaan'  package  with  the  Weighted  Least  Squares  Mean and  Variance  adjusted  (WLSMV)  estimator  to  account  for  the ordinal  nature  of  the  data.  Model  fit  was  evaluated  using  Root Means  Square  of  Approximation  (RMSEA),  Standardised  Root Mean Square Residual (SRMR), Tucker Lewis Index (TLI), Comparative  Fit  Index  (CFI),  Goodness  of  fit  indexes  (GFI), CMIN (Chi-square/df). Following Schermelleh-Engel, Moosbrugger,  and  Muller  (2003),  a  good  model  fit  was  defined € by  SRMR � 0.05;  RMSEA � 0.05,  TLI � 0.97,  CFI � 0.97,  GFI � 0.95 and v 2 /df � 2.
+
+Reliability  analyses  included  internal  consistency  (Cronbach's a and  McDonald's x ), test-retest  reliability,  and  measurement error.  Internal  consistency  was  considered  acceptable  with a or x values &gt; 0.7  (Hayes  and  Coutts  2020).  Cronbach's a and McDonald's x have  a  value  between  0  and  1,  where  a  value greater than 0.7 is considered acceptable (Raykov and Marcoulides  2011).  Confidence  intervals  (CIs)  for  Cronbach's a were determined  using bias-corrected and accelerated (BCA) bootstrap  with  1,000  bootstrap  samples.  To  provide  a  comprehensive understanding of MisoQuest's reliability, we also reported model-based measurement error, such as item reliability within  the  measurement  model,  which offers  additional  information beyond what is provided by Cronbach's a and McDonald's x .
+
+Test-retest reliability  over  a  two-week  interval was  assessed by intra-class  correlation  coefficient  (ICC),  using  a  two-way  mixed model  with  absolute  agreement,  with  ICC &gt; 0.75 indicating good  reliability  (Fapta  and  Ms  2015).  Measurement  error  was further analysed using the standard error of measurement (SEM),  the minimal  detectable  change  (MDC95),  and  BlandAltman analyses. The SEM assesses the variability within subjects when measuring them repeatedly as a group (Haley and FragalaPinkham  2006).  The  MDC95 represents  the  smallest  detectable change  exceeding  measurement  error,  indicating  a  significant change  with  95%  confidence  (Schuck  and  Zwingmann  2003). Bland-Altman  analyses  were  used  to identify systematic bias between  repeated  measurements.  The  Bland-Altman  plot  shows agreement  between  two  test  occasions  and  highlights  potential outliers.  If  the  95%  confidence  interval  (CI)  of  the  mean  difference includes  zero,  it  suggests  no  significant  systematic  bias.  The 95% limit of agreement (LOA) was used to examine natural variation,  with  narrower  LOA  indicating  greater  stability  (Bland  and Altman 1986).
+
+Convergent validity of the English MisoQuest was assessed by Pearson  correlation  coefficients  between  MisoQuest  scores  and other misophonia measures (AMISOS-R, MIQ, SS4). Discriminate  validity  was  examined  by  correlating  MisoQuest scores with measures unrelated to misophonia (HIQ, SSSQ excluding  item  4,  SAD-T,  TIQ,  sleep  and  stress  measures,  3DWFI, HHI). Correlation strength was categorised as strong ( &gt; 0.5),  moderate  (0.30-0.49),  or  weak  (0.10-0.29)  (Cohen  1992). Moderate  to  strong  positive  correlations  supported  convergent validity, while weak correlations supported discriminant validity.
+
+Finally,  a  paired  t-test  was  used  to  compare  MisoQuest  scores between self- and researcher-administered conditions in the third stage, assessing the effect of administration mode.
+
+## 3.  Results
+
+## 3.1.  Participants'  characteristics  and  descriptive  statistics
+
+Demographic  data  of  the  451  respondents  who  completed  the survey  are  provided  in  the  Supplementary  Table  1.  Most  participants identified as female ( N ¼ 272, 60.3%), white ( N ¼ 346, 76.7), married  ( N ¼ 243,  53.9%),  employed  full-time  ( N ¼ 235, 52.1%), not having any religion ( N ¼ 184, 40.8%), having a bachelor's  degree  ( N ¼ 165,  36.6%).  The  average  age  of  the  sample was 36.46 years ( SD ¼ 12.81).
+
+Participants  were  recruited  from  the  general  population,  student groups, and support communities for hyperacusis, misophonia,  and  tinnitus.  For  detailed  descriptive  statistics  and  findings for  each  questionnaire  and  item  in  the  English  version  of  the MisoQuest, please refer to Table 1 and 2.
+
+The  study  included  451  participants  across  various  groups: 'General' (205), 'Student' (109), 'SoQuiet (misophonia charity)' (61),  and  'Other  Support  Groups'  (76,  including  social  media, tinnitus patients, and a tinnitus charity).
+
+## 3.2.  Prevalence  of  misophonia,  tinnitus,  hyperacusis,  hearing loss,  sleep  disturbance,  and  mental  health  symptoms  among all  respondents
+
+Approximately  21.7%  of  respondents  (98/451)  were  identified  as having misophonia based on the MisoQuest, with a higher prevalence  in  females  (60/98).  A  Chi-Square  test  showed  a  significant difference in misophonia  prevalence  between  females and  males  ( v 2 (1) ¼ 16.52, p &lt; .001).  Among  those  with  misophonia,  32.1%  reported  tinnitus,  and  16.7%  reported  hearing loss.  Misophonia  prevalence  also  varied  by  employment  status: 10% among students,  18%  among  employed  individuals,  and  5% among  retired  individuals,  with  a  significant  association  found ( v 2 (2) ¼ 19.48, p &lt; .005).  Regarding  tinnitus,  39%  of  participants  reported  experiencing  it,  with  varying  levels  of  impact (9.3%  mild,  12.1%  moderate,  42.2%  severe).  Hyperacusis  had  a clinically  significant  impact  on  35.5%  of  participants,  while  20% reported  hearing  loss,  with  44%  experiencing  bilateral  loss.  Sleep disturbance  varied,  with  18%  reporting  poor  sleep  and  34.1% reporting  good  sleep  quality.  This  sleep-specific  questionnaire  is separate  from  the  tinnitus  measure  and  assesses  sleep  quality  in general,  regardless  of  tinnitus.  Additionally,  61%  of  participants showed  possible  symptoms  of  anxiety  and/or  depression  based on  SAD-T.  Misophonia  prevalence  varied  by  the  questionnaire used:  21.7%  with  MisoQuest,  36.6%  with  MIQ,  and  80%  with AMISOS-R,  which  also  categorised  symptoms  as  34.1%  mild, 35.5% moderate, and 10.2% severe to extreme.
+
+## 3.3.  Structural  validity
+
+The  initial  CFA  model,  based  on  Siepsiak  et  al.  (2020a),  was tested  on  the  present  dataset  to  confirm  the  one-factor  structure of  14  items.  Model  fit  was  poor: v 2 ¼ 295.73, v 2 /df ¼ 3.84 (above the recommended threshold of 2), RMSEA ¼ 0.07 (exceeding  the  0.05  limit),  CFI ¼ 0.94,  and  TLI ¼ 0.93  (both below  the  0.97  cut-off),  though  SRMR  was  acceptable  at  0.04. Modification indices were then used to address misspecifications, resulting  in  improved  fit  indices: v 2 ¼ 180.53,  df ¼ 72, v 2 /df ¼ 2.50,  RMSEA ¼ 0.05,  SRMR ¼ 0.03,  CFI ¼ 0.97,  and  TLI ¼ 0.96  (Please  see  Supplementary  Figure  2).  In  a  subsequent  analysis,  the  model  fit  was  reassessed  using  the  WLSMV  estimator to better align with  the  ordinal  nature  of  the  data,  yielding slightly  better  fit  indices  compared  to  the  modified  model: v 2 /df ¼ 2.41, SRMR ¼ 0.04, RMSEA ¼ 0.05, CFI ¼ 0.97, TLI ¼ 0.97.
+
+## 3.4.  Reliability  and  measurement  error
+
+Cronbach's a and  McDonald's x for  the  English  version  of  the MisoQuest  were  both  robust,  each  with  a  value  of  0.93  in  this sample.  Factor  loadings  for  each  item  were  analysed  to  assess their relationship  with  the  underlying  latent  construct.  These loadings,  along  with  the  corresponding  item  reliability  (R )  val2 ues,  are  presented  in  Table  2.  The  factor  loadings,  ranging  from 0.62  to  0.76,  are  considered  moderate  to  very  good,  indicating that  the  items  effectively  represent  the  intended  construct.  The R 2 values,  which  range  from  0.38  to  0.58,  suggest  moderate  to good  reliability, confirming  that a significant portion of the
+
+Table  1. Descriptive  statistics  and  reliability  of  administered  questionnaires.
+
+| Questionnaires   |   N | Mean (SD)     |   Min |   Max | Skewness   | Kurtosis   |   K-S Statistics | K-S p-value   | Reliability (95% CI)   |
+|------------------|-----|---------------|-------|-------|------------|------------|------------------|---------------|------------------------|
+| MisoQuest        | 451 | 48.90 (12.30) |    14 |    70 | - 0.40     | - 0.03     |             0.07 | .08           | 0.93 (0.92-0.94)       |
+| HIQ              | 451 | 9.60 (6.12)   |     0 |    24 | 0.37       | 0.11       |             0.09 | .20           | 0.90 (0.89-0.91)       |
+| MIQ              | 451 | 9.30 (6.82)   |     0 |    24 | 0.39       | - 0.67     |             0.11 | .05           | 0.93 (0.92-0.94)       |
+| TIQ              | 173 | 7.73 (6.03)   |     0 |    21 | 0.44       | - 0.79     |             0.12 | < .05         | 0.92 (0.91-0.94)       |
+| SAD-T            | 451 | 4.85 (3.38)   |     0 |    12 | 0.48       | - 0.61     |             0.12 | < .05         | 0.87 (0.85-0.89)       |
+| SSSQ             | 451 | 6.60 (4.26)   |     0 |    18 | 0.46       | - 0.31     |             0.14 | 0.06          | 0.80 (0.77-0.83)       |
+| AMISO-R          | 451 | 18.81 (9.20)  |     0 |    40 | - 0.15     | - 0.52     |             0.14 | < .05         | 0.92 (0.91-0.93)       |
+| HHI              |  87 | 21.17 (9.40)  |     0 |    40 | - 0.24     | - 0.39     |             0.09 | 0.20          | 0.84 (0.78-0.88)       |
+| Stress           | 451 | 3.60 (1.09)   |     1 |     5 | - 0.67     | - 0.48     |             0.15 | < .01         | Not applicable         |
+| Sleep            | 451 | 5.45 (2.10)   |     0 |    10 | - 0.47     | - 0.73     |             0.32 | < .01         | Not applicable         |
+| 3D-WFI           | 451 | 66.25 (15.27) |    18 |    90 | - 0.48     | - 0.13     |             0.09 | .20           | 0.95 (0.95-0.96)       |
+
+Notes:  HIQ,  Hyperacusis  Impact  Questionnaire;  MIQ,  Misophonia  Impact  Questionnaire;  TIQ,  Tinnitus  Impact  Questionnaire;  SAD-T,  Screening  for  Anxiety  and Depression  in  Tinnitus;  SSSQ,  Sound  Sensitivity  Symptoms  Questionnaire;  AMISO-R,  The  Amsterdam  Misophonia  Scale-  Revised;  HHI,  Hearing  Handicap  Inventory; Stress:  A  single  item  measure  of  stress  symptoms;  Sleep,  Single  Item  Sleep  Quality  Scale;  3D-WFI,  Three-  Dimensional  Fatigue  Inventory;  N ¼ Number of participants; K-S:  Kolmogorov  Smirnov.
+
+Table  2. Descriptive  statistics,  factor  loadings  and  item  reliability  for  MisoQuest  items.
+
+| Item              | Mean (SD)   |   Min |   Max | Skewness   | Kurtosis   |   Factor Loadings ( k ) |   R 2 (Item Reliability) |
+|-------------------|-------------|-------|-------|------------|------------|-------------------------|--------------------------|
+| MisoQuest Item 1  | 3.72 (1.10) |     1 |     5 | - 0.63     | - 0.33     |                    0.76 |                     0.58 |
+| MisoQuest Item 2  | 3.78 (1.08) |     1 |     5 | - 0.72     | - 0.15     |                    0.69 |                     0.48 |
+| MisoQuest Item 3  | 3.41 (1.17) |     1 |     5 | - 0.42     | - 0.78     |                    0.71 |                     0.51 |
+| MisoQuest Item 4  | 3.52 (1.19) |     1 |     5 | - 0.42     | - 0.79     |                    0.73 |                     0.53 |
+| MisoQuest Item 5  | 3.55 (1.19) |     1 |     5 | - 0.46     | - 0.80     |                    0.72 |                     0.53 |
+| MisoQuest Item 6  | 3.25 (1.21) |     1 |     5 | - 0.23     | - 0.93     |                    0.62 |                     0.38 |
+| MisoQuest Item 7  | 3.50 (1.22) |     1 |     5 | - 0.53     | - 0.48     |                    0.72 |                     0.5  |
+| MisoQuest Item 8  | 3.24 (1.22) |     1 |     5 | - 0.31     | - 0.95     |                    0.64 |                     0.41 |
+| MisoQuest Item 9  | 3.42 (1.23) |     1 |     5 | - 0.31     | - 0.97     |                    0.68 |                     0.47 |
+| MisoQuest Item 10 | 3.74 (1.16) |     1 |     5 | - 0.70     | - 0.38     |                    0.76 |                     0.58 |
+| MisoQuest Item 11 | 3.59 (1.22) |     1 |     5 | - 0.56     | - 0.71     |                    0.74 |                     0.55 |
+| MisoQuest Item 12 | 3.62 (1.26) |     1 |     5 | - 0.56     | - 0.82     |                    0.75 |                     0.57 |
+| MisoQuest Item 13 | 3.11 (1.28) |     1 |     5 | - 0.01     | - 1.15     |                    0.66 |                     0.47 |
+| MisoQuest Item 14 | 3.44 (1.19) |     1 |     5 | - 0.47     | - 0.75     |                    0.72 |                     0.53 |
+
+Note:  N  (number  of  participants) ¼ 451
+
+Table  3. Discriminant  validity:  correlations  coefficients.
+
+|           | HIQ      | SS1235   | SAD-T    | TIQ        | Sleep Quality   | Stress   | HHI        | 3D-WFI    |
+|-----------|----------|----------|----------|------------|-----------------|----------|------------|-----------|
+| MisoQuest | r ¼ 0.34 | r ¼ 0.25 | r ¼ 0.23 | r ¼ - 0.11 | r ¼ - 0.14      | r ¼ 0.25 | r ¼ - 0.06 | r ¼ 0.312 |
+| MisoQuest | p < 0.01 | p < 0.01 | p < 0.01 | p ¼ 0.931  | p ¼ 0.04        | p < 0.01 | p ¼ 0.57   | p < 0.01  |
+| MisoQuest | N ¼ 451  | N ¼ 451  | N ¼ 451  | N ¼ 176    | N ¼ 451         | N ¼ 451  | N ¼ 94     | N ¼ 451   |
+
+HIQ,  Hyperacusis  Impact  Questionnaire;  SS1235,  items  1,2,3,  and  5  on  Sound  Sensitivity  Symptoms  Questionnaire;  SAD-T,  stress  and  depression;  TIQ,  Tinnitus  Impact Questionnaire;  HHI,  Hearing  Handicap  Inventory;  HHI,  Hearing  Handicap  Inventory.  The  number  of  participants  is  indicated  by  N.
+
+variance  in  each  item  is  explained  by  the  latent  factor,  thus  supporting the overall reliability and validity of the MisoQuest scale.
+
+The  ICC  analysis  showed  good  test-retest  reliability  for  the English  MisoQuest  (ICC ¼ 0.89,  95%  CI  [0.85,  0.92])  using  a two-way  mixed  effects  model  for  absolute  agreement.  The  SEM was  3.19,  indicating  the  standard  deviation  of  an  observed  score around  the  true  score,  and  the  MDC95 was  8.81,  reflecting  the minimum  detectable  change.  Bland-Altman  analysis  revealed  no significant systematic  bias,  with  the  mean  difference  close  to zero. Eight  outliers fell outside  the  95%  limits  of  agreement (LOA),  which  were  narrow,  indicating  minimal  variability  and high  stability  of  the  MisoQuest  scores.  This  narrow  range  suggests small,  consistent  differences  between  repeated  measures, supporting  the  instrument's  reliability  (Please  see  Supplementary Figure 3). The assumption of normality for the mean differences  in  the  Bland-Altman  analysis  was  also  met,  validating the results.
+
+## 3.5.  Convergent  validity
+
+The convergent validity  of  the  English  version  of  MisoQuest  was evaluated  by  calculating  Pearson  correlation  coefficients  between the  AMISOS-R,  MIQ  and  SS4.  The  convergent  validity  of  the English  MisoQuest  was  supported  by  strong  positive  correlations with  the  AMISOS-R  (r ¼ 0.65,  t  (449) ¼ 18.11, p &lt; 0.01),  and moderate positive  correlations  with  the  MIQ  (r ¼ 0.66,  t  (449) ¼ 11.29, p &lt; 0.01) and SS4 (r ¼ 0.659, t (449) ¼ 10.84, p &lt; 0.01).
+
+## 3.6.  Discriminant  validity
+
+Table  3 reveals  a  weak  positive  correlation  between  the  English version  of  MisoQuest  and  SS1235,  SAD-T,  stress  and  sleep  quality  measures and very weak, non-significant negative correlations with  TIQ  and  HHI,  supporting  the  discriminant  validity  of  the English version of MisoQuest.  Contrary  to  our  expectations, there  were  positive  moderate  correlations  between  MisoQuest and HIQ and 3D-WFI.
+
+## 3.7.  Mode  of  administration  of  the  MisoQuest  results
+
+The participant-administered and researcher-administered MisoQuest were compared using a paired t-test. The mean score for participant-administered was 53.31 ( SD ¼ 11.16), and for
+
+researcher-administrated  was  53.88  ( SD ¼ 13.0).  The  paired  t-test analysis  indicated  no  statistically  significant  difference  between the  two  methods,  as  the  mean  difference  was -2.43  (95%  CI [-5.3,  0.49]),  t  (12) ¼ -1.7, p ¼ 0.97.  The  effect  size,  Cohen's  d, was estimated at -0.44, with a 95% confidence interval ranging  from -0.95  to  0.08.  In  addition,  a  correlation  analysis revealed  a  strong  positive  correlation  between  the  scores  of  participant-administered and researcher-administered MisoQuest, with  a  correlation  coefficient  of  0.91  ( p &lt; 0.01).  This  suggests  a high  degree  of  agreement  between  the  two  methods  of  delivery. These results indicate that when participants completed the questionnaire  alone,  it  did  not  significantly  impact  the  scores,  and the two methods demonstrated a strong correlation.
+
+## 4.  Discussion
+
+The  study  aimed  to  assess  the  psychometric  properties  of  the English MisoQuest following COSMIN  guidelines (Mokkink et  al.  2018)  for  translated  questionnaire.  CFA  initially  indicated  a one-factor structure consistent with the model proposed by Siepsiak  et  al.  (2020a).  However,  the  initial  model  fit  was  poor, so modifications were made to improve model fit. These changes addressed  shared  variance  among  items  with  similar  emotional and  behavioural  responses  to  trigger  sounds,  improved  the  overall model  fit.  Nonetheless,  since  these  adjustments  were  datadriven  rather  than  theory-based,  they  might  suggest  potential multidimensionality within the measure. Subsequent  reassessment  using the WLSMV  estimator,  which  accounts  for the ordinal  nature  of  the  data,  yielded  improved  yet  still  adequate  fit compared to the modified ML model, with persistent evidence of multidimensionality.  Persistent  evidence  of  multidimensionality suggests  that  future  studies  should  further  refine  the  model  to align it more closely with theoretical frameworks.
+
+The  internal  consistency  of  the  English  version  of  MisoQuest with Cronbach's a and McDonald's x of  0.93,  closely  aligns  with the  original  scale  developer's  reported  Cronbach's a of  0.96  by Siepsiak  et  al.  (2020a),  highlighting  the  robustness  of  the  questionnaire's  reliability  across  different  sample  characteristics.  Our study  found  a  test-retest  reliability  ICC  value  of  0.89  for  the English  version  of  MisoQuest,  slightly  higher  than  the  original developer's  reported  value  of  0.84,  indicating  strong  consistency in responses over a two-week period.
+
+While  Siepsiak  et  al.  (2020a)  addressed  measurement  error  in the original Polish  version  of  MisoQuest,  and  Raymond  and Butler  (2024)  have  previously  examined  convergent  and  discriminant  validity  in  the  English  version,  our  study  provides  a  comprehensive  psychometric  analysis  following  COSMIN  standards. This approach offers a robust evaluation of the English MisoQuest,  supporting  its  suitability  for  clinical  and  research applications.
+
+Our  examination  of  convergent  validity  showed  moderate  to strong  correlations  between  MisoQuest  scores  and  those  from AMISOS-R,  MIQ,  and  SS4,  indicating  that  these  instruments assess  related  constructs.  However,  discrepancies  were  observed in the proportion  of  participants  diagnosed  with  misophonia across  these  tools,  which  relates  to  diagnostic  or  differential  validity rather than convergent  validity. Specifically, AMISOS-R identified  a  higher  prevalence  than  both  MisoQuest  and  MIQ, likely  due  to  differences  in  design  and  conceptual  frameworks. Each tool approaches misophonia measurement uniquely: AMISOS-R  focuses  on  experiences  triggered  in  the  past  three days,  MisoQuest  has  no  specified  timeframe,  and  MIQ  assesses the  impact  of  misophonia  on  patients'  lives  over  a  two-week period. Therefore, these differences reflect the diverse approaches used in each questionnaire. Future studies should explore whether a distinction between misophonia as a trait or a disorder can  be  made  using  MisoQuest  and  AMISOS-R  and  how  these might  be  related  to  the  impact  of  misophonia  on  the  patient's life  measured via MIQ.
+
+The  English  version  of  MisoQuest  demonstrates  reasonably good  discriminant  validity,  as  evidenced  by  its  weak  correlations with  tinnitus  impact,  hearing  loss,  sleep,  stress,  depression,  and anxiety. However,  there  was  a  moderate  correlation  between MisoQuest  and  HIQ  that  assesses  hyperacusis.  This  means  that MisoQuest may be influenced by hyperacusis symptoms. Hyperacusis  is  different  to  misophonia  and  is  characterised  by the perception  of  certain  everyday  sounds,  such  as  domestic noise  or  noise  in  public  places,  as  too  loud  or  painful  (Aazh et  al.  2014).  One  explanation  is  that  HIQ  may  be  influenced  by misophonia  in  addition  to  hyperacusis.  However,  this  is  unlikely as  Aazh,  Najjari,  et  al.  (2024)  reported  that  the  mean  of  HIQ score  among  patients  with  misophonia  was  8.8  (SD ¼ 8.2)  compared  with  18.5  (SD ¼ 6.9)  among  patients  with  hyperacusis. This  indicates  that  HIQ  is  reasonably  specific  in  differentiating the impact of hyperacusis from misophonia. Another explanation for  the  moderate  relationship  observed  between  MisoQuest  and HIQ  is  a  possible  overlap  between  misophonia  and  one  form  of hyperacusis (i.e. annoyance  hyperacusis). According to Tyler et  al.  (2014)  hyperacusis  has  four  subtypes:  loudness  hyperacusis, pain  hyperacusis,  annoyance  hyperacusis,  and  fear  hyperacusis. Previous studies also suggest possible relationship or comorbidity between  hyperacusis  and  misophonia  (Aazh  et  al.  2022;  Aazh, Najjari, et al. 2024).
+
+The English version of MisoQuest indicated a moderated correlation  with  fatigue  measure  (3D-WFI).  This  result  is  consistent with  findings  from  Dibb  and  Golding  (2022),  who  also  reported a  moderate correlation between misophonia and fatigue. There is a need  for  future  studies  to  further  explore  the  relationships between misophonia, hyperacusis and fatigue.
+
+No  significant  correlation  was  found  between  hearing  loss and  misophonia,  consistent  with  previous  studies  (Aazh  et  al. 2022; Siepsiak et al. 2022). In terms of mental health, we observed  a  weak  correlation  between  misophonia  and  anxietydepression,  differing  from  the  moderate  correlation  reported  by Wu et  al.  (2014),  likely  due  to  sample  differences,  as  their  study focused  on  students  while  ours  involved  a  more  diverse  population.  Similarly,  we  found  a  weak  correlation  between  misophonia and stress, which contrasts with the moderate correlation reported by McKay et al. (2018). This discrepancy may be due to differences  in  participant  demographics  and  the  use  of  different questionnaires,  as  their  study  focused  on  U.S.  participants  and used the Misophonia Questionnaire (Wu et al. 2014) and Depression  Anxiety  Stress  Scale  (Lovibond  and  Lovibond  1995). These  findings  underscore  the  need  for  future  studies  to  further investigate the relationship between misophonia and mental health and stress, particularly using validated tools such as MisoQuest.
+
+Additionally,  we  found  a  weak  but  significant  negative  correlation  between  MisoQuest  scores  and  sleep  quality,  indicating that higher  misophonia  symptoms  are  associated  with  poorer sleep.  Although  no  prior  studies  have  explored  this  relationship, research  on  hyperacusis  has  shown  a  connection  between  sound sensitivity and sleep problems, with 30% of participants reporting sleep issues (Fioretti, Fusetti, and Eibenstein 2013). Further research should explore the impact of misophonia on sleep quality  to  expand our understanding of this relationship.
+
+Some  limitations  should  be  considered  when  interpreting  the outcomes  of  this  study.  First,  female  and  male  participant  numbers in our study were unequal. This imbalance, however, is consistent findings  from  other  online  misophonia  studies  (Dibb, Golding, and Dozier 2021), which also observed a higher proportion  of  female  participants.  In  addition,  Siepsiak  et  al.  (2020a) who  investigated  the  invariance  based  on  gender,  found  that women demonstrated higher misophonia symptoms compared to men. However, it is important to note that in studies with representative  samples  of  the  population,  there  is  no  clear  evidence that females score higher than  males. Therefore, conclusions from convenience samples like ours should not be generalised to the whole population.
+
+Single-item measures offer simplicity but also come with limitations. While  test-retest reliability can  be  evaluated,  internal consistency  cannot  be  measured,  as  there  is  only  one  item.  This limitation  is  especially  important  in  cross-sectional  studies  like ours,  where  comprehensive  reliability  assessment  is  critical.  For single-item  measures,  certain  reliability  aspects  remain  uncertain, so  the  findings  should  be  interpreted  with  caution.  Furthermore, single-item  measures  may  be  effective  for  straightforward  constructs  (e.g.  sleep  quality),  but  as  noted  by  Elo,  Leppanen,  and € Jahkola  (2003),  may  not  fully  capture  more  complex,  multidimensional constructs such as stress.
+
+Lastly, we  did not measure  responsiveness  to change  for MisoQuest, which refers to ability to detect changes over time in the  construct  (Mokkink  et  al.  2018).  Therefore,  further  research is  needed  to  measure  changes  in  MisoQuest  scores  before  and after any intervention.
+
+## 5.  Conclusions
+
+The  English  MisoQuest  is  a  reliable  and  valid  tool  for  assessing misophonia  in  English-speaking  populations  for  both  research and  clinical  use.  High  reliability  was  indicated  by  Cronbach's a and  McDonald's x values  of  0.93.  CFA  results  demonstrated adequate  overall  model  fit  but  did  not  fully  support  a  one-factor structure, as some items shared variance beyond what was explained by the latent variable, suggesting potential multidimensionality  within  the  measure.  Test-retest  reliability  was  strong, with  an  ICC  of  0.89,  factor  loadings  between  0.62  and  0.76,  and item reliability  (R 2 )  values  from  0.38  to  0.58.  Convergent  validity was  shown  through  moderate  to  strong  correlations  with  related measures  (AMISOS-R,  MIQ),  while  discriminant  validity  was supported  by  weak  correlations  with  distinct  constructs  (TIQ, HHI,  sleep,  stress,  and  SAD-T).  One  limitation  is  the  moderate correlation  with  HIQ,  a  hyperacusis  measure,  suggesting  a  need for  future  studies  to  further  explore  the  relationship  between misophonia and hyperacusis and to refine psychometric tools for their differentiation.
+
+## Acknowledgements
+
+This project was part of the first author's PhD thesis at University of Surrey which is funded by the Ministry of National Education of the Republic  of  Turkey  for  supporting  her  graduate  education.  HA  was supported  by  an  R&amp;D  fund  from  Hashir  International  Specialist Clinics &amp; Research Institute for Misophonia, Tinnitus and Hyperacusis Ltd.
+
+## Disclosure statement
+
+No potential conflict of interest was reported by the author(s).
+
+## References
+
+- Aazh,  H.,  A.  Najjari,  and  B.  C.  J.  Moore.  2024.  'A  Preliminary  Analysis  of the  Clinical  Effectiveness  of  Audiologist-Delivered  Cognitive  Behavioral Therapy  Delivered via Video  Calls for Rehabilitation of Misophonia, Hyperacusis,  and  Tinnitus.' American  Journal  of  Audiology 33  (2):559574. https://doi.org/10.1044/2024_aja-23-00254.
+- Aazh,  H.,  B.  C.  Moore,  T.  Scaglione,  and  N.  Remmert.  2024.  'Psychometric Evaluation of the Misophonia Impact Questionnaire (MIQ)  Using a Clinical  Population  of  Patients  Seeking  Help  for  Tinnitus,  Hyperacusis and/or  Misophonia.' Journal  of  the  American  Academy  of  Audiology 35 (1-02):1-12. https://doi.org/10.1055/a-2192-5668.
+- Aazh,  H.,  C.  Hayes,  B.  C.  J.  Moore,  and  S.  Vitoratou.  2022a.  'Psychometric Evaluation of the Tinnitus Impact Questionnaire Using a Clinical Population  of  Adult  Patients  with  Tinnitus  Alone  or  Combined  with Hyperacusis.' International  Journal  of  Audiology 62  (9):835-844.  https:// doi.org/10.1080/14992027.2022.2101027.
+- Aazh,  H.,  C.  Hayes,  B.  C.  Moore,  A.  A.  Danesh,  and  S.  Vitoratou.  2022b. 'Psychometric Evaluation of the Hyperacusis Impact Questionnaire (HIQ) and  Sound  Sensitivity  Symptoms  Questionnaire  (SSSQ)  Using  a  Clinical Population  of  Adult  Patients  with  Tinnitus  Alone  or  Combined  with Hyperacusis.' Journal  of  the  American  Academy  of  Audiology 33  (5):248258. https://doi.org/10.1055/a-1780-4002.
+- Aazh,  H.,  C.  Hayes,  M.  Erfanian,  B.  C.  J.  Moore,  and  S.  Vitoratou.  2023b. 'Confirmatory  Factor  Analysis  of  the  Hyperacusis  Impact  Questionnaire (HIQ),  Sound  Sensitivity  Symptoms  Questionnaire  (SSSQ),  and  Screening for Anxiety and Depression in Tinnitus (SAD-T), Including the Preliminary Analysis of  The  Parent-Versions  of  the  Three  Scales  for  Use  in  Children.' Journal  of  American  Academy  of  Audiology 35  (03/04):81-92.  https://doi. org/10.1055/a-2255-7643.
+- Aazh,  H.,  D.  McFerran,  R.  Salvi,  D.  Prasher,  M.  Jastreboff,  and  P.  Jastreboff. 2014.  'Insights  from  the  First  International  Conference  on  Hyperacusis: Causes,  Evaluation,  Diagnosis  and  Treatment.' Noise  &amp;  Health 16  (69): 123-126. https://doi.org/10.4103/1463-1741.132100.
+- Aazh,  H.,  M.  Erfanian,  A.  A.  Danesh,  and  B.  C.  Moore.  2022.  'Audiological and  Other  Factors  Predicting the Presence  of Misophonia  Symptoms among a Clinical Population Seeking Help for Tinnitus and/or Hyperacusis.' Frontiers  in  Neuroscience 16:900065.  https://doi.org/10.3389/ fnins.2022.900065.
+- Arias,  V.  B.,  L.  Garrido,  C.  Jenaro,  A.  Martınez-Molina,  and  B.  Arias.  2020. � 'A  Little Garbage  in,  Lots  of  Garbage  Out:  Assessing  the  Impact  of Careless Responding in Personality Survey Data.' Behavior Research Methods 52 (6):2489-2505. https://doi.org/10.3758/s13428-020-01401-8.
+- Bland,  J.  M.,  and  D.  G.  Altman.  1986.  'Statistical  Methods  for  Assessing Agreement  between  Two  Methods  of  Clinical  Measurement.' The  Lancet 327 (8476):307-310. https://doi.org/10.1016/S0140-6736(86)90837-8.
+- Cassarly,  C.,  L.  J.  Matthews,  A.  N.  Simpson,  and  J.  R.  Dubno.  2020.  'The Revised Hearing Handicap Inventory and Screening Tool Based on Psychometric  Reevaluation  of  the  Hearing  Handicap  Inventories  for  the Elderly  and  Adults.' Ear  and  Hearing 41  (1):95-105.  https://doi.org/10. 1097/AUD.0000000000000746.
+- Chandler,  J.,  I.  Sisso,  and  D.  Shapiro.  2020.  'Participant  Carelessness  and Fraud: Consequences for Clinical Research and Potential Solutions.' Journal  of Abnormal  Psychology 129  (1):49-55.  https://doi.org/10.1037/ abn0000479.
+- Cohen, J. 1992. 'Statistical Power Analysis.' Current Directions in Psychological Science 1 (3):98-101. https://doi.org/10.1111/1467-8721. ep10768783.
+- Comrey,  A.  L.,  and  H.  B.  Lee.  2013. A  First  Course  in  Factor  Analysis . New York, NY: Psychology Press.
+- Dibb, B., and S.  E. Golding.  2022. 'A longitudinal Investigation  of Quality of Life  and  Negative  Emotions  in  Misophonia.' Frontiers  in  Neuroscience 16: 900474. https://doi.org/10.3389/fnins.2022.900474.
+- Dibb, B.,  S.  Golding,  and  T.  Dozier.  2021.  'The  Development  and  Validation of  the  Misophonia  Response  Scale.' Journal  of  Psychosomatic  Research 149:110587. https://doi.org/10.1016/j.jpsychores.2021.110587.
+- Dixon,  L.  J.,  M.  J.  Schadegg,  H.  L.  Clark,  C.  J.  Sevier,  and  S.  M.  Witcraft. 2024. 'Prevalence, Phenomenology, and Impact of Misophonia in a Nationally Representative Sample of US Adults.' Journal of Psychopathology  and  Clinical  Science 133  (5):403-412.  https://doi.org/10. 1037/abn0000904.
+
+- Edelstein, M., D. Brang, R. Rouw, and V. S. Ramachandran. 2013. 'Misophonia: Physiological Investigations and Case Descriptions.' Frontiers in Human  Neuroscience 7:296. https://doi.org/10.3389/fnhum. 2013.00296.
+- Elo,  A.  L.,  A.  Leppanen,  and  A.  Jahkola.  2003.  'Validity  of  a  Single-Item € Measure of Stress Symptoms.' Scandinavian Journal of Work, Environment &amp; Health 29 (6):444-451. https://doi.org/10.5271/sjweh.752.
+- Enzler,  F.,  C.  Loriot,  P.  Fournier,  and  A.  J.  Norena.  2021.  'A  Psychoacoustic ~ Test  for  Misophonia  Assessment.' Scientific  Reports 11  (1):11044.  https:// doi.org/10.1038/s41598-021-90355-8.
+- Erfanian, M., and  H. Aazh. 2023. Comparing  Tinnitus and  Misophonia Patients  Profiles:  Audiological  Characterictics  and  their  Impact [Conference presentation]. Misophonia Convention Albuquerque, New Mexio, USA.
+- Fapta,  L.  G.  P.  D.  P.,  and  M.  P.  W.  D.  Ms.  2015. Foundations  of  Clinical Research: Applications to Practice .  Philadelphia, PA: F.A. Davis Company.
+- Fioretti,  A.  B.,  M.  Fusetti,  and  A.  Eibenstein.  2013.  'Association  between Sleep Disorders, Hyperacusis and Tinnitus: Evaluation with Tinnitus Questionnaires.' Noise  &amp;  Health 15  (63):91-95.  https://doi.org/10.4103/ 1463-1741.110287.
+- Franzen,  M.  D.,  A.  C.  Tishelman,  B.  H.  Sharp,  and  A.  G.  Friedman.  1987. 'An  Investigation  of  the  Test-Retest  Reliability  of  the  Stroop  Colorword Test across Two  Intervals.' Archives of Clinical Neuropsychology:  The Official  Journal  of  the  National  Academy  of  Neuropsychologists 2  (3):265272. https://doi.org/10.1093/arclin/2.3.265.
+- Frone,  M.  R.,  and  M.-C.  O.  Tidwell.  2015.  'The  Meaning  and  Measurement of  Work  Fatigue:  Development  and  Evaluation  of  the  Three-Dimensional Work  Fatigue Inventory (3D-WFI).' Journal of Occupational Health Psychology 20 (3):273-288. https://doi.org/10.1037/a0038700.
+- Frone,  M.  R.,  D.  Reis,  and  C.  Ottenstein.  2018.  'A  German  version  of  the Three-Dimensional  Work  Fatigue  Inventory  (3  D-WFI):  Factor  Structure, Internal  Consistency,  and  Correlates.' Stress  and  Health:  journal  of  the International  Society  for  the  Investigation  of  Stress 34  (5):674-680.  https:// doi.org/10.1002/smi.2828.
+- Hair,  J.  F.,  Jr,  M.  L.d.s.  Gabriel,  D.  da  Silva,  and  S.  Braga  Junior.  2019. 'Development and Validation of Attitudes Measurement Scales: Fundamental  and  Practical  Aspects.' RAUSP Management  Journal 54  (4): 490-507. https://doi.org/10.1108/RAUSP-05-2019-0098.
+- Haley,  S.  M.,  and  M.  A.  Fragala-Pinkham.  2006.  'Interpreting  Change  Scores of  Tests  and Measures used in Physical Therapy.' Physical Therapy 86 (5): 735-743. https://doi.org/10.1093/ptj/86.5.735.
+- Hayes,  A.  F.,  and  J.  J.  Coutts.  2020.  'Use  Omega  rather  than  Cronbach's Alpha  for  Estimating  Reliability.  But … .' Communication  Methods  and Measures 14 (1):1-24. https://doi.org/10.1080/19312458.2020.1718629.
+- Jager,  I.  J.,  N.  C.  Vulink,  I.  O.  Bergfeld,  A.  J.  van  Loon,  and  D.  A.  Denys. 2020. 'Cognitive Behavioral Therapy  for Misophonia:  A  Randomized Clinical  Trial.' Depression  and  Anxiety 38  (7):708-718.  https://doi.org/10. 1002/da.23127.
+- Jager, I.,  P.  de  Koning, T. Bost, D. Denys, and N. Vulink. 2020. 'Misophonia: Phenomenology,  Comorbidity  and  Demographics  in  a  Large  Sample.' PloS One 15 (4):e0231390. https://doi.org/10.1371/journal.pone.0231390.
+- Kroenke,  K.,  R.  L.  Spitzer,  J.  B.  W.  Williams,  and  B.  Lowe.  2009.  'An  Ultra-€ brief Screening Scale for Anxiety and Depression: The PHQ-4.' Psychosomatics 50 (6):613-621. https://doi.org/10.1176/appi.psy.50.6.613.
+- Kula, F. B., M. Cropley, and H. Aazh. 2022. 'Hyperacusis and Misophonia: A Systematic  Review  of  Psychometric  Measures.' Journal  of  the  American Academy  of  Audiology 33  (7-08):417-428.  https://doi.org/10.1055/a-18965032.
+- Leys, C., C. Ley, O.  Klein, P. Bernard,  and  L.  Licata. 2013.  'Detecting Outliers:  Do  not  Use  Standard Deviation Around the Mean, Use Absolute Deviation  Around  the  Median.' Journal  of  Experimental  Social  Psychology 49 (4):764-766. https://doi.org/10.1016/j.jesp.2013.03.013.
+- Lovibond,  P.  F.,  and  S.  H. Lovibond.  1995.  'The  Structure  of  Negative Emotional  States:  Comparison  of  the  Depression  Anxiety  Stress  Scales (DASS)  with  the  Beck  Depression  and  Anxiety  Inventories.' Behaviour Research and Therapy 33 (3):335-343. https://doi.org/10.1016/00057967(94)00075-u.
+- McKay,  D.,  S.-K.  Kim,  L.  Mancusi,  E.  A.  Storch,  and  C.  Spankovich.  2018. 'Profile  Analysis  of  Psychological  Symptoms  Associated  with  Misophonia: A  Community Sample.' Behavior  Therapy 49  (2):286-294.  https://doi.org/ 10.1016/j.beth.2017.07.002.
+- Mokkink,  L.  B.,  H.  C.  De  Vet,  C.  A.  Prinsen,  D.  L.  Patrick,  J.  Alonso,  L.  M. Bouter,  and  C.  B.  Terwee.  2018.  'Cosmin  Risk  of  Bias  Checklist  for
+- Systematic  Reviews  of  Patient-reported  Outcome  Measures.' Quality  of Life Research: An  International Journal of Quality of Life Aspects of Treatment,  Care  and  Rehabilitation 27  (5):1171-1179.  https://doi.org/10. 1007/s11136-017-1765-4.
+- Naylor,  J.,  C.  Caimino,  P.  Scutt,  D.  J.  Hoare,  and  D.  M.  Baguley.  2021.  'The Prevalence  and  Severity  of  Misophonia  in  a  UK  Undergraduate  Medical Student  Population  and  Validation  of  the  Amsterdam  Misophonia  Scale.' The  Psychiatric  Quarterly 92  (2):609-619.  https://doi.org/10.1007/s11126020-09825-3.
+- Raykov, T., and G. A. Marcoulides. 2011. Introduction to Psychometric Theory .  New York, NY: Routledge.
+- Raymond,  K.,  and  B.  Butler.  2024.  'Evidence  of  Validity  for  the  Englishtranslated MisoQuest.' Journal of Hearing Science 14 (3):82.
+- Rosenthal,  M.  Z.,  K.  McMahon,  A.  S.  Greenleaf,  C.  Cassiello-Robbins,  R. Guetta,  J.  Trumbull,  D.  Anand,  E.  S.  Frazer-Abel,  and  L.  Kelley.  2022. 'Phenotyping Misophonia: Psychiatric Disorders and Medical Health Correlates.' Frontiers in Psychology 13:941898. https://doi.org/10.3389/ fpsyg.2022.941898.
+- Rouw,  R.,  and  M.  Erfanian.  2018.  'A  Large-scale  Study  of  Misophonia.' Journal  of  Clinical  Psychology 74  (3):453-479.  https://doi.org/10.1002/jclp. 22500.
+- Schermelleh-Engel, K., H. Moosbrugger, and H. Muller. 2003. 'Evaluating the € Fit  of  Structural  Equation  Models:  Tests  of  Significance  and  Descriptive Goodness-of-fit  Measures.' Methods  of  Psychological  Research  Online 8 (2):23-74.
+- Schroder, € A., N. Vulink, and  D. Denys. 2013. 'Misophonia:  Diagnostic Criteria  for  a  New  Psychiatric  Disorder.' PloS  One 8  (1):e54706.  https:// doi.org/10.1371/journal.pone.0054706.
+- Schuck,  P.,  and  C.  Zwingmann.  2003.  'The  'Smallest  Real  Difference'  as  a Measure  of Sensitivity to Change: A  Critical Analysis.' International Journal  of  Rehabilitation  Research 26  (2):85-91.  https://journals.lww.com/ intjrehabilres/Fulltext/2003/06000/The__smallest_real_difference__as_a_ measure_of.2.aspx. https://doi.org/10.1097/01.mrr.0000070759.63544.65.
+- Siepsiak, M., A. M.  Sobczak, B. Bohaterewicz, Ł. Cichocki, and  W.  Ł. Dragan.  2020.  'Prevalence  of  Misophonia  and  Correlates  of  its  Symptoms among Inpatients with Depression.' International Journal of Environmental Research and Public Health 17 (15):5464. https://doi.org/10. 3390/ijerph17155464.
+- Siepsiak,  M.,  A.  Sliwerski,  and  W.  Łukasz  Dragan.  2020a.  'Development  and � Psychometric  Properties  of  Misoquest-A  New  Self-report  Questionnaire for Misophonia.' International  Journal  of  Environmental  Research  and Public Health 17 (5):1797. https://doi.org/10.3390/ijerph17051797.
+- Siepsiak, M., M. Rosenthal, D. Raj-Koziak, and W. Dragan. 2022. 'Psychiatric and  Audiologic  Features  of  Misophonia:  Use  of  a  Clinical  Control  Group with  Auditory  Over-responsivity.' Journal  of  Psychosomatic  Research 156: 110777. https://doi.org/10.1016/j.jpsychores.2022.110777.
+- Snyder,  E.,  B.  Cai,  C.  DeMuro,  M.  F.  Morrison,  and  W.  Ball.  2018.  'A  New Single-Item  Sleep  Quality  Scale:  Results  of  Psychometric  Evaluation  in Patients with  Chronic  Primary  Insomnia  and  Depression.' Journal  of Clinical Sleep Medicine: JCSM: official Publication of the American Academy  of  Sleep  Medicine 14 (11):1849-1857.  https://doi.org/10.5664/ jcsm.7478.
+- Swedo,  S.,  D.  M.  Baguley,  D.  Denys,  L.  J.  Dixon,  M.  Erfanian,  A.  Fioretti, P. J. Jastreboff, S. Kumar,  M.  Z. Rosenthal, R. Rouw,  et al. 2022. 'Consensus Definition of Misophonia: a delphi study.' Front.  Neurosci 16: 841816. https://doi.org/10.1101/2021.04.05.21254951.
+- Tyler,  R.  S.,  M.  Pienkowski,  E.  R.  Roncancio,  H.  J.  Jun,  T.  Brozoski,  N. Dauman,  N.  Dauman,  G.  Andersson,  A.  J.  Keiner,  A.  T.  Cacace,  et  al. 2014. 'A Review of Hyperacusis and Future Directions: Part I. Definitions and Manifestations.' American Journal of Audiology 23 (4):402-419. https://doi.org/10.1044/2014_AJA-14-0010.
+- Vitoratou,  S.,  C.  Hayes,  N.  Uglik-Marucha,  O.  Pearson,  T.  Graham,  and  J. Gregory.  2023.  'Misophonia  in  the  UK:  Prevalence  and  Norms  from  the S-Five in a UK Representative Sample.' PloS One 18 (3):e0282777. https:// doi.org/10.1371/journal.pone.0282777.
+- Wu, M. S., A. B. Lewin, T. K. Murphy, and E. A. Storch. 2014. 'Misophonia: Incidence,  Phenomenology,  and  Clinical  Correlates  in  an  Undergraduate Student  Sample.' Journal  of  Clinical  Psychology 70  (10):994-1007.  https:// doi.org/10.1002/jclp.22098.
+
+## MisoQuest - a questionnaire for assessing decreased sound tolerance
+
+authors: Siepsiak, M., Sliwerski, A., Dragan, W. Ł �
+
+Some people  are  less  sensitive  to  certain  sounds,  while  other  people  are  more  sensitive  to  certain  sounds.  Are  there  any  sounds  which  you find particularly burdensome? Please indicate how much you agree or disagree with the following statements using the following scale:
+
+- 1 - I definitely do not agree
+- 2 - I do not agree
+- 3 - Hard to say
+- 4 - I agree
+- 5 - I definitely agree
+
+|   1 | Some sounds bother me so much that I have difficulty controlling my emotions.                                                 |   1 |   2 |   3 |   4 |   5 |
+|-----|-------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|
+|   2 | Unpleasant sounds make me feel overwhelmed.                                                                                   |   1 |   2 |   3 |   4 |   5 |
+|   3 | I become anxious at the mere thought of an unpleasant sound.                                                                  |   1 |   2 |   3 |   4 |   5 |
+|   4 | I believe that my reactions to sounds are exaggerated, but I can't get rid of them.                                           |   1 |   2 |   3 |   4 |   5 |
+|   5 | When I hear unpleasant sounds, I start sensing emotions in my body (e.g. I sweat, feel pain, feel pressure, my muscles tens). |   1 |   2 |   3 |   4 |   5 |
+|   6 | I start feeling anger the moment I see a thing/animal/person that might make an unpleasant sound at any time.                 |   1 |   2 |   3 |   4 |   5 |
+|   7 | I put a lot of effort into controlling emotions when I hear an unpleasant sound.                                              |   1 |   2 |   3 |   4 |   5 |
+|   8 | If I can, I avoid meeting with certain people because of the sounds they make.                                                |   1 |   2 |   3 |   4 |   5 |
+|   9 | I find some sounds made by the human body unbearable.                                                                         |   1 |   2 |   3 |   4 |   5 |
+|  10 | I feel that my mental state worsens if I cannot leave a place where there's an unpleasant sound.                              |   1 |   2 |   3 |   4 |   5 |
+|  11 | I often think about how to drown out unpleasant sounds.                                                                       |   1 |   2 |   3 |   4 |   5 |
+|  12 | Some unpleasant sounds make me instantly angry.                                                                               |   1 |   2 |   3 |   4 |   5 |
+|  13 | I am scared that unpleasant sounds may impact my future.                                                                      |   1 |   2 |   3 |   4 |   5 |
+|  14 | When meeting with other people, I am sometimes irritated because of unpleasant sounds that are present.                       |   1 |   2 |   3 |   4 |   5 |

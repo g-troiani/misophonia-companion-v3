@@ -1,0 +1,1557 @@
+REVIEW
+published: 22 May 2019
+doi: 10.3389/fnbeh.2019.00082
+Edited by:
+Chrystalina A. Antoniades,
+University of Oxford, United Kingdom
+Reviewed by:
+Lazaros C. Triarhou,
+University of Macedonia, Greece
+Joshua C. Brumberg,
+Queens College (CUNY),
+United States
+*Correspondence:
+Richard E. Brown
+rebrown@dal.ca
+orcid.org/0000-0002-4762-8175
+Received: 28 November 2018
+Accepted: 05 April 2019
+Published: 22 May 2019
+Citation:
+Brown RE (2019) Why Study the
+History of Neuroscience?
+Front. Behav. Neurosci. 13:82.
+doi: 10.3389/fnbeh.2019.00082Why Study the History of
+Neuroscience?
+Richard E. Brown*
+Department of Psychology and Neuroscience, Dalhousie University, Halifax, NS, Canada
+The history of neuroscience is the memory of the discipline and this memory depends
+on the study of the present traces of the past; the things left behind: artifacts,
+equipment, written documents, data books, photographs, memoirs, etc. History, in all
+of its deﬁnitions, is an integral part of neuroscience and I have used examples from the
+literature and my personal experience to illustrate the importance of the different aspects
+of history in neuroscience. Each time we talk about the brain, do an experiment, or write
+a research article, we are involved in history. Each published experiment becomes a
+historical document; it relies on past research (the “Introduction” section), procedures
+developed in the past (“Methods” section) and as soon as new data are published, they
+become history and become embedded into the history of the discipline (“Discussion”
+section). In order to be transparent and able to be replicated, each experiment requires
+its own historical archive. Studying history means researching books, documents and
+objects in libraries, archives, and museums. It means looking at data books, letters and
+memos, talking to scientists, and reading biographies and autobiographies. History can
+be made relevant by integrating historical documents into classes and by using historical
+websites. Finally, conducting historical research can be interesting, entertaining, and can
+lead to travel to out-of-the-way and exotic places and meeting interesting people.
+Keywords: history, research, archives, libraries, museums
+INTRODUCTION
+I know of very few neuroscience programs that focus on the history of neuroscience. However,
+all research involves the study of history, even if it is only the history of a single research
+topic. For example, a research project on ‘‘The genetic basis of Long-Term Potentiation
+(LTP)’’ would involve some history of the discovery and relevant research on LTP. Likewise,
+a study on ‘‘The role of oxytocin in maternal behavior of Peromyscus ’’ would involve a
+history of studies of the effects of oxytocin on behavior. In other cases, researchers testing
+a particular theory such as ‘‘The amyloid beta theory of Alzheimer’s disease’’ must discuss
+the history of this theory before they can make a new contribution to it. Researchers who
+use a particular research method, such as ‘‘single cell recording from the hippocampus’’
+must know the history of the technique if they are going to improve upon it. Thus, all
+researchers are involved in studying the history of their particular research project and will
+summarize this history in the ‘‘Introduction’’ and ‘‘Discussion’’ sections of their research
+articles. Making space in a neuroscience program for a course on the history of neuroscience
+can be a hard sell, but neuroscientists with a strong historical understanding are more equipped
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 1 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+to understand the context of their own work and its impact
+than those with no historical background. As noted by Shepherd
+(2010, p. 4):
+‘‘A historical perspective provides an education in how scientists are
+able to push past the limits of current concepts in order to fashion a
+new and more comprehensive understanding of the laws of nature.’’
+In 2008, Zoltán Molnár and I rediscovered a box of Charles
+Sherrington’s histological slides at Oxford University that had
+been neglected for over 70 years (Molnár and Brown, 2010).
+Sherrington is one of the most influential neurophysiologists in
+the history of neuroscience, winning the 1932 Nobel Prize in
+Physiology or Medicine (Eccles and Gibson, 1979). Considering
+this, it is incredible that these important historical scientific
+artifacts were unknown and inaccessible for such a long period of
+time. For every Sherrington’s box that is rediscovered and made
+accessible to scientific researchers and the public, many more
+historical objects are lost.
+WHAT IS HISTORY?
+‘‘Everything but tomorrow is history’’
+Grainger (1956; p. 81).
+The definition of history and the methods used to conduct
+historical research are fraught with criticism and debate. Elton
+(1967) argued that historical research is the search for the
+objective truth about the past. Carr (1961), on the other
+hand, argued that history is a product of its own time; it is
+the interpretation of events and facts from the past through
+the specific lens of the historian’s own ideas and ideologies.
+Later, Samuel (1992) argued that history is not a record of
+the past, more or less faithful to the facts, but an invention
+or fiction of historians themselves. Edelman (2006) discusses
+the concept of scientific history from the point of view of
+scientists and historians. Indeed, there are so many aspects of
+the history of science that in some areas, such as physics, one
+can write a history of the history of science (Južniˇ c, 2016).
+Thus, the term ‘‘history’’ has multiple meanings. History is
+the study of the past and includes the study of past events,
+the events connected with a particular person or discovery, a
+chronological record of an experiment, a historical document,
+or events that are no longer relevant to the present. History
+is a discipline, a method, and a personal memoir. Within
+neuroscience, all of these definitions apply and this article
+will discuss the relevance of different aspects of history to
+neuroscientists today.
+History as Memory
+An approach to history that might appeal to neuroscientists
+is to treat history as memory, with all of its faults and
+flaws; its errors and omissions (Wachtel, 1986; Cubitt, 2007).
+The conception of history as a collective memory is a useful
+perspective for the study of neuroscience. Collective memory
+is a ‘‘form of memory associated with social groups, e.g.,
+nations, families, etc’’; it is a socially constructed history of
+the past (Poole, 2008). The recollections from one’s memoryare fallible; a memory is constructed from a series of incidents
+connected in time and reconstructed from many components. It
+is not imprinted like a photograph. Memories are fragmented
+and very seldom do two people remember an event in the
+same way. Forgetting and false memories occur; emotions
+and opinions can distort memories and a recalled memory
+may become reconsolidated with erroneous information (Lee
+et al., 2017). Therefore, a ‘‘perfect’’ memory may include
+errors, omissions, distortions and false recollections (Loftus and
+Palmer, 1974; Schacter, 1996; Loftus, 2003). For example, in
+Dawkins’s (2013) memoir, An Appetite for Wonder , there is
+a group photograph that is captioned ‘‘The Animal Behavior
+Research Group after the move from Bevington Road.’’ That
+move occurred in 1971, but I am in that photograph, and I
+was only in the ABRG in 1976 and 1977. So, when was that
+photo taken? What was the event? My own memory of the
+event is vague. A third person featured in the photograph,
+Marian Dawkins, recalled that it was taken at a group picnic
+in November 1977. Clearly, even our own memories of
+events that we were involved in are subject to personal and
+unique distortions.
+In considering the perspective of history as memory, the
+definition of history may shift towards the subjective perspective
+of Carr (1961) or Samuel (1992), and away from the objective
+perspective of Elton (1967). Overall, a memory can be seen
+as the raw material of history; whether it is a written or an
+oral recollection, it is the source from which historians draw
+information. History is thus a collection of individual and
+collective memories (Jimerson, 2003), which are the facts as we
+remember them. When the holders of these memories are gone,
+history becomes a cultural memory, which is the interpretation
+of these facts by someone who was not present at the event.
+Like any memory, history consists of a number of fragments
+linked together in time, with inevitable errors, confabulations,
+omissions, and errors of reconsolidation. Despite this, it is
+all we have. The definition of history as a collective memory
+can help to clarify the purpose of its study, as summarized
+by McNeill (1985):
+‘‘Historical knowledge is no more and no less than carefully and
+critically constructed collective memory. As such it can both make
+us wiser in our public choices and more richly human in our private
+lives.’’
+HISTORY IS THE STUDY OF WHAT
+REMAINS
+History is the study of the present traces of the past. If
+objects no longer exist, it is as though they had never
+existed. The essential element for historical study is the
+remaining evidence of materials from the past; those that no
+longer exist, cannot be studied (Elton, 1967). History involves
+analyzing and interpreting the present traces of the past and
+integrating information from different sources to develop a
+‘‘historical memory’’ of events as they occurred. An example
+of this is the study of trepanation in ancient Greco-Roman
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 2 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+medicine. To understand trepanation, Tullo (2010) examined
+the osteoarcheological evidence, the material culture and the
+written texts from the Roman Empire. The osteoarcheological
+evidence consisted of skulls, such as the skull of Chios,
+which showed evidence of trepanation ( Figure 1 ). The material
+culture consisted of the tools used for trepanation, which
+were sophisticated surgical instruments for boring holes in
+the skull. The written texts described the procedures for
+trepanation. For this, Tullo (2010) consulted Hippocrates, On
+Head Wounds , written in 400 BC (Panourias et al., 2005).
+Each of these present traces of the past, however, had to be
+interpreted in the present as no physician now exists from
+ancient Rome to describe the process of trepanation, why
+and how it was done, how patients were treated and how
+many survived the treatment. Many other historical artifacts
+no longer survive. Bandages, ligatures, steel tools and otherobjects deteriorate with time and provide no present traces. Thus,
+the study of history involves the quest for the present traces
+of the past.
+Archeological evidence and material culture are kept in
+museums and ancient manuscripts are kept in libraries and
+archives. These are the sites that select, classify and maintain
+the present traces of the past; the basic materials that comprise
+‘‘archival memory’’ (Steedman, 1980; Jimerson, 2003; Rivera-
+Orraca, 2009). Like individual and collective memory, archives,
+museums and libraries are selective in what they collect and
+maintain; many objects are never saved, while others are lost,
+deteriorate or are discarded. Thus, ‘‘archival memory’’ is selective
+and subject to errors, omissions, and interpretations. Museum
+displays and archival documents reflect the perspectives of those
+who decide what to save (remember) and what to discard
+(forget), and how to classify, maintain and display their holdings
+FIGURE 1 | The three elements that are necessary to understand the signiﬁcance of historical objects. In this case, the trephined skull (A)is the material object; the
+tools used for trephining (B)show how the holes might have been made, and the text from Hippocrates (C)gives a textual description of the instructions for using
+the tools to trephine the skull. (A)The trepanned skull of Chios. The arrow points to the healed linear fracture associated with the bur hole. Used with permission of
+the copyright holder: Copyright Hellenic Ministry of Culture and Sports, Ephorate Antiquities of Chios, Archeological Museum of Chios. Published with permission.
+(B)The raspatory (left), the serrated trepan or trephine (center), and the trepan (right) were used for scraping, sawing, and drilling, respectively. Used with permission
+from Tsermoulas et al. (2014). Panel (C)is adapted from Hanson (1999).
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 3 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+(memories; Jimerson, 2003). Like individual and collective
+memory, archival and historical memories are reconstructions
+of the past from the present traces, as organized by historians at
+a particular time (defined as ‘‘the present’’) and in a particular
+place. However, many historical artifacts are lost or destroyed.
+For the history of neuroscience, these losses are serious. If history
+is a collective memory of the past, the loss of the historical objects
+and documents of neuroscience is equivalent to ‘‘scientific
+Alzheimer’s disease.’’ Treating this disciplinary ailment is more
+than a matter of preserving and cataloging laboratory notes,
+specimens, equipment, drawings and documents. This material
+needs to be incorporated into the teaching and practice of
+neuroscience today.
+History is not static but is updated by new discoveries. As
+with neuroscience itself, new discoveries enable us to update
+our knowledge of the history of neuroscience. New discoveries
+of lost manuscripts, letters or memoirs; new biographies
+and autobiographies of scientists and the discovery of new
+experimental phenomena allow us to reconsider the course
+of history. For example, new discoveries resulted in the
+re-evaluation of the function of Golgi cells and Golgi’s theories
+of cellular connections (Kruger and Otis, 2007; Galliano et al.,
+2010). Likewise, modern discoveries in epigenetics have led
+to the up-dating of Darwin’s theory of evolution (Skinner,
+2015) and our understanding of environmental influences on
+brain and behavior development and evolution (Keverne, 2014;
+Keverne et al., 2015). Likewise, the discovery of letters from
+Sigmund Freud to his school friend, Eduard Silberstein, not
+published until 1990 (Boehlich, 1990) give new insight into
+Freud as a student.
+Saving the Vanishing History of
+Neuroscience
+The present traces of the past are being lost. These include
+books, diaries, published articles, unpublished manuscripts,
+photographs, original data, laboratory books, equipment and
+instruction manuals on how to use this equipment. As the
+people, both scientists and technicians, who did the work
+retire and then die, the experimental protocols, technical skills,
+expertise and oral history is lost with them. This matters
+because the crucial element for studying history is the present
+evidence of the past; with no evidence, there is no history.
+To understand the history of neuroscience, we must save
+the traces of neuroscience of the past and present. But how
+should this be done? Books should be donated to and saved
+by libraries. Articles, manuscripts, diaries, lab notebooks and
+data should be sent to archives. Equipment and the instruction
+manuals for its use should be sent to museums. Why not
+develop a ‘‘History of Neuroscience Museum?’’ Lorusso et al.
+(2018) have proposed a ‘‘neuroscience without borders’’ program
+to preserve the history of neuroscience in Europe. IBRO,
+FENS and the Society for Neuroscience all have sections on
+their websites on the history of neuroscience and history
+poster sessions at their annual meetings. Autobiographical
+accounts of neuroscientists provide important information
+on how the history of neuroscience was done by those
+who did it (Squire, 1996–2018). More neuroscientists shouldbe encouraged to write their memoirs and send their lab
+notes and other research materials to libraries, archives
+and museums.
+The Virtual History of Neuroscience?
+The internet is an important resource for saving the history of
+neuroscience. Many historical neuroscience books and journals
+are now available online as are some archives. FENS, IBRO and
+the SfN have history websites, but what else can be done? Why
+not develop a virtual museum of neuroscience? This was our
+thinking when we developed the Oxford History of Medicine
+website, which focuses on the history of neuroscience1. On
+this website, we have digitized the slides from the collections
+of Sir Charles Sherrington and Sir Wilfrid Le Gros Clark. A
+variety of historical instruments, teaching models and other
+objects have been captured using 3-D photography and can
+be viewed on this website. There is also a collection of
+clinical neurological cases with case histories, stories about the
+objects, art works, and videos of Oxford lectures on the history
+of neuroscience.
+We have also developed the European Brain Museum Tour
+project (Lorusso et al., 2018), which is a virtual tour of museums
+with specialized collections on the brain and the history of
+neuroscience in each country of Europe2. Using this virtual tour,
+neuroscience enthusiasts can find exhibits of interest and use
+the links on this website to view each museum’s own website.
+This project, which is now sponsored by the FENS History
+of Neuroscience Committee, started as part of the ‘‘History of
+Neuroscience’’ course that I taught at Dalhousie University and
+we hope that it will be useful to researchers as well as students
+in neuroscience. There are numerous other websites about the
+history of neuroscience, such as the milestones in neuroscience
+research3. These can be found using an internet search.
+WHY STUDY THE HISTORY OF
+NEUROSCIENCE?
+Neuroscience is a recent area of science, emerging as an explicit
+discipline in the late 20th century (Shepherd, 2010), but the
+history of neuroscience goes back to the ancient Egyptians
+(Breasted, 1930; Finger, 1994). Most students enter neuroscience
+to perform cutting-edge research with innovative technologies,
+to understand the complex workings of the brain and discover
+how to repair them when mechanisms fail. Seldom do students
+enter neuroscience in order to study its history. As with other
+scientific disciplines, neuroscientists focus on new discoveries
+and contemporary theories. However, even the disproved and
+rejected theories of the past, such as phrenology, which have
+been relegated to cautionary anecdotes and the introductory
+sections of textbooks, may be re-evaluated in light of more recent
+discoveries (Jerison, 1977; Jones et al., 2018).
+Many neuroscientists are interested in the history of their
+discipline, but not everyone agrees that the knowledge of the
+history of neuroscience is helpful or important for doing modern
+1https://history.medsci.ox.ac.uk/
+2https://www.fens.org/Outreach/History/EBM/
+3https://faculty.washington.edu/chudler/hist.html
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 4 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+neuroscience research (Falk and Falk, 2007). Neuroscientists
+tend to work pragmatically; using models that work and
+are consistent with the data without worrying about the
+philosophical or historical issues involved. However, theoretical
+models break down, and at some point, they cease to be able
+to explain observed phenomena or to produce new testable
+theories (Maienschein et al., 2008). At this point, a history
+of science perspective can be useful to analyze a theory
+historically, investigate the circumstances under which it was
+created, learn about its creators, examine the phenomena and
+the original data incorporated into it, critique the underlying
+assumptions, and examine rival theories that were previously
+rejected (Maienschein et al., 2008). This approach offers a wealth
+of material to research scientists, who can look to these historical
+findings to examine how theories are constructed. With a history
+of science approach, the end of a model’s productive life does not
+mean that it cannot still furnish important lessons to researchers.
+For example, there are numerous theories of the causes of
+Alzheimer’s disease (Armstrong, 2013; Cubinkova et al., 2018;
+Table 1 ), and new research attempts to integrate behavioral,
+genetic and environmental risk factors into an over-arching
+theory of AD (Nehls, 2016). Once the causes of AD are known,
+one should be able to follow the historical threads of each of
+these theories.
+A history of science approach can also be an aid to
+understanding the interdisciplinary nature of neuroscience.
+Neuroscience, or more accurately, the neurosciences,
+involve anatomy, physiology, pharmacology, neurology,
+psychiatry, molecular biology, biochemistry, physics, cell
+biology, developmental biology, evolution, physics, chemistry,
+engineering, computer science, ethology, psychology and
+economics (Shepherd, 2010). Each of these fields has its own
+theories, methodologies, and data, but through collaborative
+research projects, these influence each other. For example,
+during the time that Star (1983) observed researchers in a
+TABLE 1 | What causes Alzheimer’s disease?
+The amyloid cascade hypothesis (APP , PSEN 1, PSEN2)
+The tau hypothesis (Tau)
+The APOE4 allele hypothesis
+The protein folding hypothesis
+The alpha-synuclein hypothesis
+The prion-like hypothesis
+The synaptic pathology hypothesis
+The abnormal neurotransmitter activity hypothesis (cholinergic, glutamatergic)
+The neurotrophic hypothesis (BDNF)
+The neuro-vascular hypothesis.
+The impaired insulin, IGF-I signaling hypothesis
+The cholesterol hypothesis
+The neuro-inﬂammation hypothesis (astrocytes, microglia)
+The autoimmune hypothesis
+The slow acting infection hypothesis (HSV)
+The mitochondrial cascade theory (rate of mitochondrial decline)
+The oxidative stress hypothesis
+The cell cycle hypothesis
+The altered blood-brain barrier hypothesis
+The trace metal hypothesis (copper, zinc, aluminum)
+There are many hypotheses about the causes of Alzheimer’s disease, but no deﬁnitive
+support for any of them. How will history treat the study for the causes of AD? (from:
+Armstrong, 2013; Cubinkova et al., 2018; Makin, 2018).psychophysiology laboratory, she saw that they collaborated
+with neurologists and imported neurological procedures into
+their research. In doing so, the psychophysiologists adopted
+the assumptions about the localization of brain function made
+by the neurologists. Although this interdisciplinarity is both
+necessary and fruitful in neuroscience (Shepherd, 2010), it
+comes with the risks of mixing disciplinary assumptions about
+neural processes without a strong grounding in the bases for
+these assumptions. A critical historical approach can help
+neuroscientists engaged in interdisciplinary research to navigate
+these issues (Falk and Falk, 2007).
+The Importance of the History of Science
+in General
+To understand the importance of studying the history of
+neuroscience, it is useful to review the importance of historical
+research in science in general. To appreciate the role of science
+and its influence on society involves understanding its history
+(Nutton, 2004; Lindberg, 2007), philosophy (Godfrey-Smith,
+2003) and sociology (Merton, 1962; Bloor et al., 1996). The
+history of science describes the discoveries in science, their
+evolution and how they were transmitted and received (Grainger,
+1956). A textbook of neuroscience, for example, documents the
+history and progress of each area of neuroscience (Finger, 1994).
+Discoveries do not appear out of the blue; they have long periods
+of incubation and their importance may not be recognized for
+many years. New scientific knowledge is transmitted through
+books and journal articles, which have their own history (Gross
+et al., 2002). Only when they are published can new discoveries
+be distributed and critically evaluated.
+Many new discoveries have been rejected as ‘‘nonsense’’ when
+first published only to be confirmed later (Gross, 2009), resulting
+in paradigm shifts in science (Kuhn, 1962). The discovery of
+a new fact is exciting, but if it is too revolutionary it will
+be rejected by established scientists; it must be proved to be
+correct and doubters must be convinced by hard data. The
+discovery of a truth is one thing, but equally necessary is
+its transmission to other scientists and their acceptance of
+it (Grainger, 1956, p. 80). New discoveries and new theories
+result in controversies. Of such controversies are scientific
+histories made. For example, Vesalius’s (1543) book on human
+anatomy was rejected when first published and stimulated heated
+controversy that lasted decades (Montagu, 1955). The debate
+on whether neural communication was electrical or chemical
+(the soups vs. the sparks debate) also continued for decades
+(Valenstein, 2002). The theory of animal electricity incited
+debates between Galvani and Volta (Piccolino, 1998) and the
+neuron doctrine resulted in debates between Golgi and Cajal
+(Guillery, 2005). The history of neuroscience is important for
+investigating how advances in neuroscience occur. For example,
+while some would argue that new tools and techniques are
+fundamental for new discoveries in neuroscience (Bickle, 2016),
+others would argue that conceptual change is what drives
+advances in neuroscience (Parker, 2018).
+The formal academic study of the history of science dates
+from the founding of the journal ISIS by George Sarton in
+1913 (Sarton, 1918; Barnes, 1920; Hellman, 1958) and showed
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 5 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+a significant increase in the 1950s (Albrecht-Carrie, 1951;
+Grainger, 1956). By the 1970s, Brush (1974) made the suggestion
+that the history of science might be subversive and should be
+X-rated. He suggested, with tongue-in-cheek, that the study of
+the history of science might pervert young minds by telling
+them the truth about how science is done as opposed to the
+idealized methods of science presented in textbooks. By this
+time, the traditional objective view of the history of science as
+presented by Elton (1967) was giving way to the more subjective
+interpretational view of history given by Carr (1961) and
+represented by the view of history as a flawed memory process
+(Cubitt, 2007). It is interesting to compare Grainger’s (1956)
+reasons for studying the history of science ( Table 2 ), which focus
+on discovering objective truths, to the more subjective reasons of
+Maienschein (2000). On the other hand, although Maienschein
+(2000) states that even if the history of science is subjective and
+riddled with errors of memory, there are still many good reasons
+for studying it ( Table 2 ).
+Grainger (1956) painted an idealized view of the historian
+of science as someone who must have a sound knowledge of
+science, philosophical wisdom and a historical sense, and be able
+to embrace the whole picture of the role of science in society.
+According to Grainger (1956), the historian of science must
+also be aware that the education of science students focuses
+on teaching ‘‘facts’’ and technological expertise. Many scientists
+are so specialized and narrow in their outlook that they reject
+the history of science as ‘‘irrelevant’’ and a waste of time. The
+enlightened scientist, however, judges modern findings in the
+light of history in order to understand the relationships between
+seemingly disparate studies and to use knowledge from one
+area of science to facilitate discoveries in another. Finally, the
+history of science, like any history, is an exercise in detective
+work. In some ways understanding the history of a scientific
+discovery is almost as exciting as making the discovery itself
+(Goodfield, 1981).
+Falk and Falk (2007, p. 44) suggest that there are a number
+of benefits of scientists becoming historians. These include
+the analysis of the social and cultural background of scientific
+discoveries; the context of scientific research; and the implicit
+assumptions that underlie the ‘‘dominant scientific Zeitgeist’’
+under which scientific research is conducted. They argue
+that scientists ‘‘adopt unawares those doctrines (and implicit
+assumptions) that are established by the dominant scientific
+Zeitgeist,’’ and suggest that studying the history of science
+provides a way that scientists can recognize and overcome their
+culturally-determined biases about their research. In the past,
+historians of science emphasized that scientists had an almost
+moral duty to learn the history of science so that they could
+situate their pursuit of knowledge in relation to the social,
+cultural and political events of their time (Grainger, 1956). This is
+still an important reason to study the history of science. In many
+cases, scientists investigating the brain are unaware of the cultural
+biases that influence their work (Cooter, 2014). Historians of
+science should make, and neuroscientists should read, engaging,
+critical, rigorous histories of the study of the brain and the
+nervous system to overcome these biases. Another benefit of
+studying the history of science is to credit researchers whoseTABLE 2 | Why study the history of science?
+Grainger (1956).
+1. To understand scientiﬁc achievements in relation to society and culture.
+2. To indicate the directions and progress of science itself.
+3. To illustrate the creative imagination involved in basic science.
+4. To view the needs and problems of science in relation to society and
+education.
+5. To show the long periods of innovation and development underlying new
+discoveries.
+6. To show the struggles of new discoveries to be accepted by other scientists
+and society.
+7. To show that what is considered “true” in science is continually being revised
+in light of new discoveries.
+8. To describe the changes in the way that new scientiﬁc discoveries change
+our beliefs about the world.
+9. To show how scientiﬁc discoveries underlie advances in engineering,
+technology and medicine.
+10. To humanize science, integrating the history of science with the humanities.
+11. To put current discoveries into historical perspective.
+12. To evaluate the beneﬁts and shortcomings of each side of a scientiﬁc
+controversy, correcting errors and pointing out contradictions equally.
+13. To illuminate how a discovery in one area of science relies on knowledge
+from other areas.
+14. To illuminate the sense, purpose and reasoning of science for education.
+15. To focus a critical eye on new discoveries, evaluating them in light of past
+research.
+Maienschein (2000).
+1. To show students and the general public how science works and how to
+improve it.
+2. To show the greatness and the weakness, the fallibility and the humanity of
+scientists; reassuring students that scientists are, after all, only human.
+3. To show the excitement of science.
+4. To illuminate why some science ’works’ better than other science.
+5. To show that science is not a static method unchanging over time, but
+incorporates new innovations and responds to changing environments.
+6. To increase the public understanding of science and promote
+scientiﬁc literacy.
+7. To demonstrate past failures as well as past successes in order to avoid the
+former and build on the latter.
+8. To make us better scientists; stressing creativity and humanness. To keep
+scientists from being too arrogant about successes and too despondent
+about failures
+9. To reveal the mistakes of the past and make us more efﬁcient; recognizing
+mistakes prevents us from making the same mistakes again.
+10. To provide the larger perspective and allow scientists to make better
+judgements of their own work and that of others.
+11. To stimulate the imagination. Many new ideas and inventions are simply
+adaptations, modiﬁcations or new uses for old ideas or inventions.
+12. To show how science is really done by real people who are fallible and make
+mistakes as well as clever discoveries, and how many discoveries are the result
+of errors and good luck in addition to careful observation.
+13. To increase the public understanding of science. It makes science more
+accessible and interesting, showing the excitement of science and promotes
+scientiﬁc literacy.
+discoveries were premature and thus unheeded, or published in
+older or foreign-language (non-English) journals (Gross, 2009).
+Scientists who become historians also bridge the ‘‘two
+cultures’’ of the arts and social sciences and scientific research
+and are more able to see the influence of the arts on the sciences,
+and vice-versa (Edwards, 2010; Frazzetto, 2011; Garcia-Lopez,
+2012). Scientists who take a historical perspective are able to
+have a more comprehensive perception of their scientific work
+and may see things that others miss (Root-Bernstein, 1988).
+Finally, because there is a great amount of ‘‘implicit knowledge’’
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 6 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+in science that cannot be learned from textbooks, but only from
+hands-on research experience, the scientist-cum-historian can
+explain the implicit rules of scientific work which are never
+included in published articles. Indeed, one of the most significant
+contributions of scientists to the history of science may be
+their personal reminiscences, stories and anecdotes about how
+their research was really done. These only come to light in
+autobiographical works such as those of Watson (1968) on the
+double helix and Cajal (1937/1989) on his life in neurobiology.
+The personal accounts of many neuroscientists (e.g., Hebb, 1980)
+have been given in the many volumes of The history of psychology
+in autobiography that began as far back as the 1930s and in the
+series of The history of neuroscience in autobiography edited by
+Larry Squire since 1996.
+Finally, scientific theories influence broader societal ideas
+about the way the world works. The rise of the neurosciences has
+produced a ‘‘neuroculture,’’ a distinct sociocultural phenomenon
+that looks to neuroscience to explain all aspects of human
+behavior (Rolls, 2012; Mora, 2015). Neuroculture has taken
+hold in literature, film, television and the visual arts, as well
+as education and even economics (Frazzetto and Anker, 2009).
+Indeed, neuroculture seems to have taken hold of all aspects
+of modern life, but it is not without its critics (Casper, 2014;
+Cooter, 2014).
+In summary, the answer to the question, ‘‘why study the
+history of neuroscience?’’ falls into five categories: (1) self-
+improvement, illuminating the theories and methods of
+neuroscience and improving upon them; (2) efficiency,
+avoiding past mistakes and learning from them; (3) perspective,
+providing judgment and clarity and thus enlarging the scope
+of neuroscience; (4) imagination, offering a wide repertoire
+of ideas; and (5) education, improving scientific literacy and
+the public understanding of neuroscience (Maienschein et al.,
+2008). Shepherd (2010) points out that studying the history of
+neuroscience helps us to understand the interdisciplinary nature
+of neuroscience, and shows how neuroscientific research extends
+across all species, systems and levels of neural organization.
+A historical approach examines the factors that produce
+discoveries: the methods and techniques used, the personalities
+of the scientist themselves and the social, cultural, political and
+ethical issues underlying neuroscience research.
+HOW DOES HISTORY AFFECT YOU?
+The average neuroscientist or student of neuroscience may
+not feel that they are affected by the history of neuroscience.
+However, the history of neuroscience is not just an academic
+discipline; history is personal and your own research history is
+important in three ways. The terminology you use, the scientific
+articles you write, and the integrity of your research publications
+all depend on history.
+Naming the Brain
+Simply talking about the brain is an exercise in history.
+The term ‘‘brain’’ was first used by the ancient Egyptians in
+about 1700 BC (Breasted, 1930); the distinction between the
+‘‘cerebrum’’ (enkephalon) and ‘‘cerebellum’’ (parenkephalis) wasfirst made by Aristotle around 300 BC, and the ‘‘entorhinal area’’
+was defined by Brodmann in 1909 (see Swanson, 2015 for the
+history of neuroanatomical terminology). Likewise, the terms
+‘‘neuron,’’ ‘‘synapse,’’ and ‘‘neurotransmitter’’ all have a history
+(López-Muñoz and Alamo, 2009). Histological techniques, such
+as the Golgi stain have a history (Shepherd et al., 2011), the
+‘‘neurone doctrine’’ (Shepherd, 1991/2015), the ‘‘amyloid cascade
+hypothesis’’ of Alzheimer’s disease (Hardy, 2017) and the theory
+of the developmental origins of health and disease (DOHaD;
+Hoffman et al., 2017; Suzuki, 2018) all have a history. So to talk
+about any aspect of neuroscience is to talk about history.
+Writing a Scientiﬁc Paper
+The completion of your research articles relies on the history
+of the problem of interest, and, when your research article is
+published, it becomes a part of history. There are many guides
+on how to write research articles (for example: Neill, 2007;
+Plaxco, 2010; Adams, 2011; Kallestinova, 2011; Saper, 2015).
+Each section of a research article involves some form of history,
+thus all scientists study history when completing a research
+project and writing a scientific article. The ‘‘Introduction’’
+summarizes the history of the problem that you are investigating
+and introduces the hypotheses you plan to test. It summarizes
+the main discoveries in the area and who made them. When
+you are testing a theory, the ‘‘Introduction’’ describes who
+developed the theory, what previous data supports or refutes
+it, and describes any controversies, which you hope that your
+research will resolve. It provides the scientific context for your
+research problem with reference to theoretical and empirical
+developments in the field. Your ‘‘Methods’’ section describes the
+apparatus and procedures used, often discussing who developed
+the equipment and techniques, their reliability and validity. Your
+experimental methods, both those explicitly referenced in the
+article and those tacitly passed on, all have a history. In some
+cases, older methods may be used to solve research problems
+in the present (Schwerdtfeger, 2018; Schwerdtfeger and Tobet,
+2018). The core of your research article is the presentation of
+new results. Once the experiment is completed, your ‘‘Results’’
+section is written and adds new data to the field of study.
+These results are new today, but as soon as they are published,
+they are history. The ‘‘Discussion’’ section describes how your
+findings fit into the history of the problem and whether or
+not they support the theory being tested. The ‘‘Discussion’’
+section summarizes how your research is relevant to previous
+research and summarizes the advances that you have made.
+The ‘‘Reference’’ section describes the history of the problem
+by listing the publications that you relied on to complete your
+study. It is a bibliographic resumé of the history of your research
+topic. When writing a scientific article, you become a selective
+historian. Your introduction does not cite every article on your
+topic; it is selective, focusing on the articles most relevant to your
+study. Likewise, you select the apparatus, methods and procedure
+from the many options available. You may even select which
+results to publish and which to omit. Your ‘‘Discussion’’ is also
+selective, focusing on one or more of the possible theories to
+explain your results. Finally, your reference list is also selective;
+you do not cite every single article on your topic.
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 7 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+Once published, your article can become part of the history of
+someone else’s research project. If you write a review article, it is
+a history project. Your grant proposals are also history projects:
+they must demonstrate how the proposed research fits into the
+history of the field. Grant reviewers and journal referees must
+evaluate whether your research adds enough to the great chain
+of knowledge to be funded or published. This means that the
+reviewers of grants and manuscripts must know the past and
+current history of the research being evaluated. Thus, everything
+that you do in neuroscience involves history. Often without
+realizing it, neuroscientists study history simply by conducting
+their research, writing review articles, grant applications and
+reviewing manuscripts.
+Keeping Your Own Historical Archives
+A scientific publication involves two types of history: the history
+of the problem being researched (the literature cited) and the
+history of the experimental project itself. If someone wants
+to replicate your experiment, they will need to know all of
+the details of the methods and procedure: the subjects, the
+protocols followed, equipment used, laboratory conditions and
+methodological issues not included in the article and they may
+want to see your laboratory notebooks, apparatus and methods,
+raw data, statistical analyses, etc. (Gorgolewski and Poldrack,
+2016; Gilmore et al., 2017; Zwaan et al., 2018 and the ensuing
+commentaries). But what happens if other researchers cannot
+replicate your findings? What if you are accused of fraud or
+research misconduct? Your raw data, statistical analyses, letters,
+notebooks, diaries and e-mails will be open to scrutiny. Thus, for
+each published article, a personal archive is critical in order to
+provide a comprehensive documentation of your experimental
+procedures and results and to establish that there was no
+scientific misconduct, fudging of results, manipulation of data
+or photo-shopping of figures. Open and transparent research
+relies on a careful historical account of each research project
+(Iqbal et al., 2016). To improve reproducibility of published
+findings, many journals, such as Nature, require authors to
+submit research report forms that provide information on
+the research subjects, materials used, experimental design and
+statistical analyses (see Nature Publishing Group, 2017).
+What do you do when others cannot replicate your results?
+This happened to me when other authors (Birke and Sadler,
+1984) could not replicate the results of my study on olfaction
+and scent marking in rats (Brown, 1978). By carefully examining
+the differences in methods between the two studies, I was able
+to show that using the methods of my study, I replicated my
+results and using the methods of Birke and Sadler (1984), I
+replicated their results (Brown, 1991). Thus, by replicating the
+different methods used in both studies, I was able to show that
+the differences in social and sexual experience of the rats in
+each study produced the different behavioral results. There are
+many such methodological issues in behavioral neuroscience
+(Schellinck et al., 2010). Thus, it is important to keep a research
+archive for each publication.
+When developing a personal research archive, many questions
+must be answered. What should be kept? Where should it be
+kept and for how long? How can other scientists access yourarchive? Your research archive is a historical document and
+may become subject to inspection and scrutiny. Many journals,
+universities, and governmental institutions now provide archives
+for the documentation of each research project and the storage of
+raw data. For example, Cambridge University has a website with
+a guide to research data management4, and there are a number of
+other guidelines to how to manage research data (see for example,
+Ingram, 2016).
+The development of data archives enables the creation of large
+neuroscience databases for data sharing (Cheung et al., 2009;
+Freeman, 2015; Wiener et al., 2016). Researchers must, therefore,
+ensure that the data archived in these large scale databases are
+reliable and valid. Once such databases are created, those who
+wish to use them must learn new techniques for data-mining
+and neuroinformatics (Grisham et al., 2010, 2016; Akil et al.,
+2011; Gregory et al., 2018) and for statistical analysis (Bzdok
+and Yeo, 2017). Formal data archives have been developed in
+structural biology (Kleywegt et al., 2018) and neuroimaging
+(Gorgolewski et al., 2016; Borghi and Van Gulick, 2018). The
+Jackson Laboratory Mouse Phenome Database5is a collaborative
+archive where data collected on laboratory mouse strains and
+populations have been collected from multiple sources. We used
+such public databases (The Allen Brain Atlas, STRING, GoMiner
+and Mouse Genome Informatics databases) for an in-silico
+analysis of grooming behavior (Roth et al., 2013). New resources
+have been published for making large databases available to
+neuroscientists (Vogelstein et al., 2018) and for searching these
+databases for designing and planning research projects (Matiasz
+et al., 2018). Thus, if your data is included in a public database,
+you must ensure that it is replicable.
+What happens if your results cannot be replicated and you are
+accused of scientific fraud (Gunsalus and Robinson, 2018)? Other
+researchers, university administrators and granting agencies may
+want to inspect your personal archives for each experiment. If
+scientific misconduct is found (if your experimental data does
+not support the published results) your articles may be retracted
+and your reputation as a scientist tarnished. The Retraction
+Watch website6keeps track of retracted articles. If you cannot
+replicate your own experiments, the published articles may also
+need to be retracted. For example, LoLordo and Ross (1990)
+retracted their own articles because the rescoring of videotapes
+on which the published data were based did not confirm the
+original findings. Zhang et al. (2012) had their article in the
+‘‘Neurobiology of Aging’’ retracted at the request of the Editor-
+in-chief and the authors ‘‘due to inappropriate duplication of
+photomicrographs and errors in the description of the material’’
+with the result that ‘‘the quantitative results reported in the article
+cannot be considered reliable’’ (Zhang et al., 2016). If you are
+falsely accused of scientific misconduct, you will need to use
+your scientific archive to demonstrate your research integrity
+(see Goldenring, 2010). On the other hand, some authors have
+argued that most published research is not replicable (Ioannidis,
+2005), while others argue that failure to replicate is an inherent
+4https://www.data.cam.ac.uk/data-management-guide/organising-your-data
+5https://phenome.jax.org
+6http://retractionwatch.com
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 8 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+property of scientific research (Redish et al., 2018). Ioannidis
+(2014) has presented 12 steps for improving the reliability and
+validity of published research.
+Even if you are certain that none of your own research articles
+will be retracted, you need to beware of referring to retracted
+articles in your research articles, reviews and grant proposals. For
+example, in one of our articles (O’Leary et al., 2018), we referred
+to Zhang et al. (2012), but when we were doing the revisions
+to our article, we found that this article had been retracted
+(Zhang et al., 2016), and so we had to find a new reference and
+make substantial revisions to our article. When writing review
+articles one must also beware of retracted articles. Uher and
+Weaver (2014a) wrote a commentary on a article by Perroud et al.
+(2014) that was subsequently retracted because one of the authors
+had fabricated data (Aubry et al., 2014). As a result, Uher and
+Weaver (2014b) had to retract their commentary on this article.
+In this case, the embarrassment of having to retract an article had
+nothing to do with the reviewers, who were innocent victims of
+a third party. Thus, the Retraction Watch website and database
+(Brainard, 2018) is becoming an essential resource for preventing
+neuroscientists from becoming victims of scientific malpractice
+by others.
+In summary, history is a personal issue in neuroscience. Each
+of your research projects relies on previous studies, methodology
+and theories. Once your article is published, it becomes a part of
+history. Establishing a personal archive for each research project
+is critical to ensure that future researchers can gain access to your
+data and that your research documents are available for historical
+analysis. Such an archive is also essential for other researchers
+who wish to replicate your experiments and to defend yourself
+against claims of scientific misconduct and the danger of having
+your articles retracted. Finally, you must be wary of citing articles
+that have been retracted.
+HOW TO MAKE THE HISTORY OF
+NEUROSCIENCE RELEVANT TODAY
+History is more than a matter of cataloging and preserving
+laboratory notes, specimens, equipment, drawings and
+photographs. This material needs to be incorporated into
+the teaching and practice of neuroscience research. To make
+history relevant to students of neuroscience, faculty could
+integrate historical topics into their neuroscience teaching and
+research using websites, artifacts and historical publications.
+Through the study of history, students can be introduced
+to the historical context of their research and learn how it
+is integrated with other disciplines and society in general.
+The history of neuroscience can be approached through
+textbooks (Finger, 1994, 2000; Glickstein, 2014), or books on
+special topics (Shepherd, 1991/2015). There are biographies
+of many neuroscienctists, including Galen (Mattern, 2013),
+Helmholtz (Meulders, 2010), Golgi (Mazzarello, 2010), and
+Pavlov (Todes, 2014). Neurobiographies (Söderqvist, 2002,
+2007) and autobiographies (Squire, 1996–2018) provide personal
+histories, describing how individual neuroscientists did their
+research, and bridging the gap between neuroscience and
+the humanities.The most common way that neuroscientists do historical
+research is to identify past studies on the topic of interest using
+reference citations, PUBMED, Web of Science or Google Scholar
+as a guide. However, this often does not encompass the many
+texts located on library shelves or in library special collections of
+rare books that must be accessed separately from the main library
+catalog. Archives keep letters, diaries, photographs, memos and
+other documents donated by scientists or their families. They
+may include drafts of articles, unpublished manuscripts, lab data
+books, and other valuable information. Newspaper clippings,
+awards, medals, and honorary degrees also find their way into
+archives. For example, the McGill University archives have many
+boxes of articles of Donald O. Hebb (Brown and Milner, 2003)
+and the Oxford University archives have the articles of Sir
+Charles Sherrington, but so do the archives at the University
+of Liverpool, the University of British Columbia and the Royal
+Society of London (Molnár and Brown, 2010). The National
+Archives of each country also contain materials on the history
+of individual neuroscientists.
+Historical objects may be kept in museums, and there are
+many museums with brain collections that provide essential
+resources for studying comparative neurobiology and the history
+of neuroscience (Iwaniuk, 2010, 2011; Fobbs and Johnson, 2011;
+Manger, 2011 and other articles in this volume). The importance
+of saving anatomical specimens in museum collections is that
+they can be re-analyzed using modern methods to gain new
+insights into neural disorders. Such is the case of the brains
+of Broca’s famous patients, Leborgne and Lelong, held in the
+Museum Dupytren in Paris, which have been reanalyzed by
+modern researchers using PET and fMRI scans to reveal the
+damage that was unseen by Broca (Dronkers et al., 2007).
+In addition, the old equipment used in scientific laboratories,
+including machinery and lab notes, become critical historical
+objects (Ceccarelli, 2002; Arnold and Söderqvist, 2011) and
+it is important to preserve these in museum collections
+(Lorusso et al., 2018).
+Beyond these physical locations, information on the history of
+the neurosciences is readily accessible through the internet. The
+internet is an incredibly powerful tool for the study of the history
+of neuroscience and for engaging students in historical research.
+Even the most ancient texts can be accessed online. There are
+also virtual archives and virtual museums. The European Brain
+Museum Tour website7allows anyone to locate museums with
+brain collections at the click of a button. Developing a virtual
+museum of neuroscience was the reasoning behind the creation
+of the Oxford History of Medical Sciences Project8where
+students and researchers can access slides, objects, art, stories,
+case histories and seminars that are relevant to conducting
+historical research. There is also the ability to analyze historical
+equipment using this website.
+Historical research also involves personal interactions:
+contacting the colleagues, students, friends and families of
+neuroscientists to locate hidden information about their lives
+and work. Former students and colleagues of neuroscientists
+7https://www.fens.org/Outreach/History/EBM/
+8http://history.medsci.ox.ac.uk
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 9 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+may have letters, manuscripts and photographs stored away
+in filing cabinets. There may be old materials in university
+store-rooms that have never been sent to the archives. Still,
+other historical artifacts have been stored in back rooms of
+university departments, or in display cases in corridors. Other
+documents reside in the basements and attics of the friends and
+families of neuroscientists. Interviews with colleagues, students,
+spouses, children and grandchildren of neuroscientists may turn
+up unseen documents, as well as valuable information that has
+never been published. For example, in this way I obtained some
+letters and other documents from the families of Sir Wilfred Le
+Gros Clark and Donald Hebb. Such family documents are not
+publically available and are on the verge of being lost if someone
+is not there to salvage them. Once all such information has
+been collected, one must sort and arrange it and decide how to
+preserve it. Too often there are large gaps, missing information
+and one-sided conversations. One may find the letters from A to
+B, but none of the letters from B to A, and so inferences must
+be made about the information they might contain. Additionally,
+if the topic that you are researching is controversial, you may
+find yourself the center of a war of words, as I found with my
+investigation of Donald Hebb’s research on sensory deprivation
+(Brown, 2007a).
+History is the study of the present traces of the past or the
+memories of the past. Thus libraries, archives, and museums are
+all repositories of the memories of the history of neuroscience.
+However, we are now facing a number of problems in preserving
+the history of neuroscience (Lorusso et al., 2018). Many of these
+repositories have selective memories; some select only certain
+items to keep and others have political and personal preferences
+for what is collected. Some archives have online indexes and
+others do not. Some archives no longer have archivists. Some
+archives and museums have been closed and the materials are no
+longer accessible. In addition, libraries, archives and museums
+‘‘get rid of’’ or de-access items they no longer deem interesting.
+Old books, just the kind of thing a historian looks for, which
+have not been taken out of the library for years, get discarded,
+so are no longer available to anyone. Archival materials sit in
+boxes without being indexed and museums reject donations of
+old equipment as they have no space for it. Most museums
+exhibit only a small fraction of their holdings; the rest is in
+storage and may become lost. And, worst of all, documents
+and equipment may have been destroyed or thrown out by
+over-zealous administrators who just want to ‘‘get rid of all of
+this old junk.’’ Finally, many neuroscientists do not leave their
+records to any library, archive or museum and these records
+get destroyed or languish unknown in attics and basements.
+My aim in this article is to encourage the preservation of these
+historical documents.
+THE EXCITEMENT OF HISTORICAL
+RESEARCH
+Historical research is interesting, illuminating and enlightening.
+To be able to conceptualize the perspectives of older
+neuroscientists gives us an ability to understand their discoveries
+more deeply and make sense of our own research, theories,and methodology. In addition, historical research allows one
+to hear exciting stories and meet interesting people. If these
+are not appealing as reasons to study history, some may find
+consolation in the fact that doing historical research often
+involves travel to incredible places. Some examples from my
+own research illustrate how the search for historical documents
+can be interesting and exciting: academic detective work. These
+include finding ancient Greco-Roman surgical tools in Greece,
+searching for Leonardo da Vinci in Italy, finding Sir Charles
+Sherrington’s box of slides in Oxford, the search for traces of
+Donald O. Hebb in Montreal, Boston, and Chicago and the
+opportunity to visit Pavlov’s laboratories and home in Russia.
+Ancient Greco-Roman Surgical Tools
+During a FENS meeting in Thessaloniki, Greece, in October
+2015, I visited the Archeological Museum, which had exhibits on
+FIGURE 2 | Surgical tools from the 3rd century AD. These tools are replicas
+of those on exhibit at the National Archelogical Museum of Greece and were
+purchased at the museum in Thessaloniki, Greece. On the far left is a
+copper-alloy spoon for preparing and taking medicines and applying them to
+wounds. Next to it is a copper-alloy knife handle that is decorated with a
+small animal, possibly a mouse, which links the instrument with Asklepios.
+The mouse was seen as a daemonic being with prophetic powers and was
+associated with Apollo Smintheus, who protected people against evil and
+epidemics. The blade is missing. Because blades were made of iron, they
+often rusted away. The item at the top of the six items shown horizontally is a
+copper-alloy double hook which is decorated with silver bands at the head
+and in the middle. It was used during surgical operations on blood vessels
+(aneurysms), on membranes in the eye, and on tonsils, and to clasp pieces of
+tissue and the edges of wounds during surgery. The second horizontal item is
+a copper-alloy knife used to make incisions in the ﬂesh during operations. It
+has an engraved depiction of a snake on the blade and a snake’s head at the
+end. The third item is a copper-alloy spoon-shaped probe that was used to
+prepare and apply medicines. The fourth is a copper-alloy needle used to sew
+bandages applied to wounds. The ﬁfth is a copper-alloy spatula probe used
+to mix and apply medicines in deep surgical incisions, to diagnose and
+measure the depth of injuries, and more rarely to clean internal wounds to the
+nose and other, larger wounds. The bottom item is also a copper-alloy
+spatula probe. On the far right is a copper-alloy clasp with serrated ends. This
+was used to clasp or cut away ﬂesh and tumors during surgical operations.
+Next to this is another copper-alloy spatula used to clean wounds and
+incisions, scrape away ﬁstulae, and remove foreign bodies and broken bones
+from the ear and nose. In eye operations, it was used to remove cysts. It was
+also used to prepare and apply medicines, particularly to the eyes. These
+tools are described by Bliquez (1982).
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 10 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+trepanning and on ancient surgical tools. Sets of exact replicas
+of these tools were for sale in the gift shop and I bought
+one to use for teaching ( Figure 2 ). These tools include hooks,
+knives, probes, needles, spatulas, spoons, and knife handles. A
+copper-alloy knife, used to make incisions during operations,
+has an engraved depiction of a snake on the blade and a
+snake’s head at the end, which link the instrument to Asklepios,
+the god of medicine. A scalpel handle carved in the shape
+of a mouse is also linked to Asklepios (see Figure 2 ). When
+I lecture on the writings of Hippocrates or Galen, I open
+the box of ancient surgical instruments and the students are
+struck by how ‘‘modern’’ they look. This increases their interest
+in history.
+The Search for Leonardo
+In order to complete a presentation on Leonardo da Vinci for
+a history poster (Brown, 2014), I obtained security clearance
+to view the original pages from Leonardo’s notebooks, which
+are held in the print room at Windsor Castle in England.
+When I left I ordered my own copies of the prints to
+use for teaching. During the FENS Milan meeting, Lorenzo
+Lorusso organized tours of libraries and archives such as the
+Biblioteca Nazionale Braidense, which displayed Leonardo’s
+drawings. On this tour, we visited the town of Vinci ( Figure 3 ),
+the Leonardo museum and the house where Leonardo was
+born. In Florence, we visited other Leonardo da Vinci
+museums, libraries, and exhibits where we purchased books on
+Leonardo and prints of his drawings. In researching Leonardo
+da Vinci as a neuroscientist, a tour of Italy is interesting
+and exciting.Sherrington’s Box of Wonders
+In 2008, Zoltán Molnár discovered a box of histological slides
+used by Sherrington from 1888 to 1935 ( Figure 4 ). This
+box contains 21 drawers of slides from Sherrington’s years
+at St. Thomas Hospital (1888–1895), Liverpool University
+(1896–1914) and Oxford University (1914–1935). It also
+contains slides presented to him by other leading contemporary
+neuroscientists. Much of the histological data behind these
+incredible discoveries are available for research at the University
+of Oxford. This material provided information for our
+publication on the work of Sherrington (Molnár and Brown,
+2010) and the impetus to develop our History of Neuroscience
+Website9. This website allows the viewer to use a program
+called ‘‘Zoomify’’ to magnify each image as if it were
+under a microscope. The materials in this website can
+now be used for teaching classes anywhere in the world
+(Chang and Molnár, 2015).
+The Man Behind the Hebb Synapse
+Donald O. Hebb’s influential book, The Organization of Behavior
+(Hebb, 1949/2002), established the concepts of synaptic change
+and cell assemblies. This was the basis for the prominent
+Hebbian theory, which has been summarized as ‘‘cells that
+fire together wire together.’’ Hebb’s research was diverse and
+involved a wide range of ideas (Brown, 2007b) and his research
+on intelligence A and B was used by Cattell to develop his theories
+of fluid and crystallized intelligence (Brown, 2016). Hebb was
+Professor Emeritus at Dalhousie University from 1977 to 1985
+(Figure 5 ) and, after he died, a Hebb Memorial Lecture was
+9https://history.medsci.ox.ac.uk/
+FIGURE 3 | The house in Vinci, Italy, where Leonardo Da Vinci was born [Photo by Richard Brown].
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 11 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+FIGURE 4 | I am examining Sherrington’s box of slides at Oxford University [Photo by Zoltán Molnár].
+FIGURE 5 | At the Hebb “cottage” in Chester Basin, Nova Scotia. Hebb’s 80th birthday 1984. Left to right: Richard Brown, Donald Hebb, Raymond Klein and his
+daughter [Photo taken by John Fentress].
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 12 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+established. I began to write the introductions to these lectures
+and this resulted in having Hebb’s book republished (Hebb,
+1949/2002) and writing articles on his life and work (Brown
+and Milner, 2003; Brown, 2007b). To research the life of Donald
+Hebb took me to the archives at Dalhousie University, McGill
+University, the University of Chicago, Harvard University and
+the archives of the History of Psychology in Akron Ohio, as
+well as to many small archives and museums. Hebb’s family
+provided me with materials and I met his brother, Andrew (aged
+98) who told me about their childhood and schooling. I scoured
+the National Archives of Canada in Ottawa for information
+about Hebb and met with his former students and colleagues
+and I am not finished yet; indeed, I have my own ‘‘Quest for
+Corvo’’ (Symons, 1934/1966) in trying to write a biography of
+Donald Hebb.
+Pavlov’s Physiology Labs
+In May 2017, the FENS History committee participated in the
+100th anniversary of the Russian Physiological Society in Saint
+Petersburg Russia. During our visit, we not only presented
+lectures but also visited the laboratories used by Pavlov. The
+highlights of the trip were our visits to the lab at Koltushi and
+to Pavlov’s apartment, where we had tea in Pavlov’s dining room
+(Brown et al., 2017).
+These examples illustrate some of the excitement of the
+search for the history of neuroscience. It is interesting because
+you discover things that you would never have expected. It is
+illuminating as it shows the ideas and methods used to make
+some of the basic discoveries in neuroscience. Finally, it is
+enlightening to view the lives of famous neuroscientists through
+their writings, letters and photographs and through the eyes
+of their students and families. In the search for the history of
+neuroscience, you have the opportunities to meet interesting
+people, hear fascinating stories and to travel to far away places.
+Finally, the study of the history of science helps you to make sense
+of your own research.
+SUMMARY AND CONCLUSIONS
+The history of neuroscience can be important for students and
+researchers who can use insights from the history of science
+to illuminate their work. By methodologically investigatinghistorical data, models, hypotheses and experiments, alternatives
+to contemporary theories can be contemplated. Lessons from
+the history of neuroscience also reveal the cultural context and
+social responsibility of those investigating the brain. Popular
+ideas about the brain influence the direction that neuroscientists
+take in their research. Especially in the past half-century, new
+discoveries in neuroscience have had a widespread popular
+appeal. Nerves and brain function have become a powerful
+analogy in spheres of thought far removed from neuroscience.
+In order to avoid repeating prejudices, neuroscientists can take a
+history of science approach to their discipline.
+Because history points out the flaws and problems with
+past research, it has been suggested that it be ‘‘X-rated,’’ as
+the focus has moved away from the search for the ‘‘objective
+truths’’ in history to the more subjective ‘‘memory’’ approach
+to history, with all its errors, omissions and flaws. Since all
+research relies on history, and each research project has its
+own history, neuroscientists rely on their historical records to
+demonstrate their research integrity. Without history, whether
+in the form of actual physical objects, written documents,
+or personal reminiscences, neuroscientists have little context
+for their contemporary work. Historical approaches can be
+integrated into research and teaching in neuroscience and many
+neuroscientists will find interest and pleasure in the study of the
+history of neuroscience.
+AUTHOR CONTRIBUTIONS
+RB wrote the manuscript.
+FUNDING
+Publication of this article was supported, in part, by grant A7441
+from the Natural Sciences and Engineering Research Council
+(NSERC) of Canada.
+ACKNOWLEDGMENTS
+I would like to thank my students, Brianna Aird and Jessica Pelley
+for their assistance in the preparation of previous drafts of this
+article, and Aimee Wong for her help in editing the article.
+REFERENCES
+Adams, J. (2011). ‘‘Writing in neurosceicne’’: a course designed for
+neuroscience undergraduate students. J. Undergrad. Neurosci. Educ. 10,
+A50–A57.
+Akil, H., Martone, M. E., and Van Essen, D. C. (2011). Challenges
+and opportunities in mining neuroscience data. Science 331, 708–712.
+doi: 10.1126/science.1199305
+Albrecht-Carrie, R. (1951). Of science, its history and the teaching thereof. Sci.
+Mon. 73, 16–24.
+Armstrong, R. A. (2013). What causes Alzheimer’s disease? Folia Neuropathol. 51,
+169–188. doi: 10.5114/fn.2013.37702
+Arnold, K., and Söderqvist, T. (2011). Medical instruments in museums:
+immediate impressions and historical meanings. Isis 102, 718–729.
+doi: 10.1086/663613Aubry, J. M., Dayer, A., Perroud, N., Piguet, C., Nallet, A., and Favre, S. (2014).
+Retraction of ‘‘Childhood maltreatment and methylation of the glucocorticoid
+receptor gene NR3C1 in bipolar disorder’’. Br. J. Psychiatry 205, 164.
+doi: 10.1192/bjp.205.2.164a
+Barnes, H. E. (1920). The historian and the history of science. Sci. Mon. 11,
+112–126.
+Bickle, J. (2016). Revolutions in neuroscience: tool development. Front. Syst.
+Neurosci. 10:24. doi: 10.3389/fnsys.2016.00024
+Birke, L. I. A., and Sadler, D. (1984). Scent-marking behaviour in response to
+conspecific odours by the rat, Rattus norvegicus .Anim. Behav. 32, 493–500.
+doi: 10.1016/s0003-3472(84)80286-9
+Bloor, D., Barnes, B., and Henry, J. (1996). Scientific Knowledge: A Sociological
+Analysis . Chicago, IL: University of Chicago Press.
+Bliquez, L. J. (1982). The Tools of Asclepius: the surgical gear of the Greeks and
+Romans. Vet. Surg. 11, 150–156. doi: 10.1111/j.1532-950x.1982.tb00692.x
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 13 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+Boehlich, W. (Eds). (1990). The Letters of Sigmund Freud to Eduard Silberstein,
+1871–1881. Translated by Jeffrey M. Masson. Cambridge, MA: Harvard
+University Press.
+Borghi, J. A., and Van Gulick, A. E. (2018). Data management and sharing
+in neuroimaging: practices and perceptions of MRI researchers. PLoS One
+13:e0200562. doi: 10.1371/journal.pone.0200562
+Brainard, J. (2018). Rethinking retractions. Science 362, 390–393.
+doi: 10.1126/science.362.6413.390
+Breasted, J. H. (1930). The Edwin Smith Surgical Papyrus. Chicago, IL: University
+of Chicago Press.
+Brown, R. E., Molnár, Z., Filaretova, L., Ostrovskiy, M. A., Piccolino, M., and
+Lorusso, L. (2017). The 100th anniversary of the Russian Pavlov Physiological
+Society. Physiology 32, 402–407. doi: 10.1152/physiol.00023.2017
+Brown, R. E. (1978). Hormonal control of odor preferences and urine-marking
+in male and female rats. Physiol. Behav. 20, 21–24. doi: 10.1016/0031-
+9384(78)90197-x
+Brown, R. E. (1991). Effects of rearing condition, gender, and sexual experience on
+odor preferences and urine-marking in Long-Evans rats. Anim. Learn. Behav.
+19, 18–28. doi: 10.3758/bf03197856
+Brown, R. E. (2007a). Alfred McCoy, Hebb, the CIA and torture. J. Hist. Behav. Sci.
+43, 205–213. doi: 10.1002/jhbs.20225
+Brown, R. E. (2007b). The life and work of Donald Olding Hebb, Canada’s
+greatest psychologist. Proc. N. S. Inst. Sci. 44, 1–25. doi: 10.15273/pnsis.v44
+i1.3880
+Brown, R. E. (2014). ‘‘Leonardo Da Vinci and the search for the anatomical basis of
+the soul,’’ in Program No. 21.04SA/UU24. 2014 Neuroscience Meeting Planner
+(Washington DC: Society for Neuroscience).
+Brown, R. E. (2016). Hebb and Cattell: the genesis of the theory of fluid and
+crystallized intelligence. Front. Hum. Neurosci. 10:606. doi: 10.3389/fnhum.
+2016.00606
+Brown, R. E., and Milner, P. M. (2003). The legacy of Donald O. Hebb: more
+than the Hebb synapse. Nat. Rev. Neurosci. 4, 1013–1019. doi: 10.1038/
+nrn1257
+Brush, S. G. (1974). Should the history of neuroscience be rated X?: the
+way scientists behave (according to historians) might not be a good
+model for students. Science 183, 1164–1172. doi: 10.1126/science.183.
+4130.1164
+Bzdok, D., and Yeo, B. T. T. (2017). Inference in the age of big data: future
+perspectives on neuroscience. Neuroimage 155, 549–564. doi: 10.1016/j.
+neuroimage.2017.04.061
+Cajal, S. R. (1937/1989). Recollections of My Life. Cambridge, MA: MIT Press.
+Carr, E. H. (1961). What is History? Cambridge: University of Cambridge Press.
+Casper, S. T. (2014). History and neuroscience: an integrative legacy. Isis105,
+123–132. doi: 10.1086/675554
+Ceccarelli, L. (2002). A scientific rhetoric [Review of Communicating Science
+by Alan G. Gross, Joseph E. Harmon and Michael Reidy]. Science 298:757.
+doi: 10.1126/science.1076841
+Chang, B., and Molnár, Z. (2015). Practical neuroanatomy teaching in the 21st
+century. Ann. Neurol. 77, 911–916. doi: 10.1002/ana.24405
+Cheung, K. H., Lim, E., Samwald, M., Chen, H., Marenco, L., Holford, M. E.,
+et al. (2009). Approaches to neuroscience data integration. Brief. Bioinform. 10,
+345–353. doi: 10.1093/bib/bbp029
+Cooter, R. (2014). Neural veils and the will to historical critique: why
+historians of science need to take the Neuro-turn seriously. Isis105, 145–154.
+doi: 10.1086/675556
+Cubinkova, V., Valachova, B., Uhrinova, I., Brezovakova, V., Smolek, T.,
+Jadhav, S., et al. (2018). Alternative hypotheses related to Alzheimer’s disease.
+Bratisl. Lek. Listy 119, 210–216. doi: 10.4149/BLL_2018_039
+Cubitt, G. (2007). History and Memory. Manchester: Manchester University Press.
+Dawkins, R. (2013). An Appetite for Wonder: The Making of A Scientist. A Memoir.
+London: Bantam.
+Dronkers, N. F., Plaisant, O., Iba-Zizen, M. T., and Cabanis, E. A. (2007). Paul
+Broca’s historic cases: high resolution MR imaging of the brains of Leborgne
+and Lelong. Brain 130, 1432–1441. doi: 10.1093/brain/awm042
+Eccles, J. C., and Gibson, W. C. (1979). Sherrington: His Life and Thought. Berlin:
+Springer-Verlag.
+Edelman, G. M. (2006). Second Nature: Brain Science and Human Knowledge. New
+Haven, CT: Yale University Press.Edwards, D. (2010). The Lab: Creativity and Culture. Cambridge, MA: Harvard
+University Press.
+Elton, G. R. (1967). The Practice of History. New York, NY: Thomas Y. Crowell.
+Falk, R., and Falk, R. (2007). ‘‘Why should scientists become historians?,’’ in
+Positioning the History of Science , eds K. Gavroglu and J. Rean (New York, NY:
+Springer), 43–48.
+Finger, S. (1994). The Origins of Neuroscience: A History of Explorations Into Brain
+Function. New York, NY: Oxford University Press.
+Finger, S. (2000). Minds Behind the Brain: A History of the Pioneers and Their
+Discoveries. New York, NY: Oxford University Press.
+Fobbs, A. J. Jr., and Johnson, J. I. (2011). Brain collections at the national museum
+of health and medicine. Ann. N Y Acad. Sci. 1225, E20–E29. doi: 10.1111/j.1749-
+6632.2011.06036.x
+Frazzetto, G. (2011). How to bridge neuroscience, society, and culture. PLoS Biol.
+9:e1001178. doi: 10.1371/journal.pbio.1001178
+Frazzetto, G., and Anker, S. (2009). Neuroculture. Nat. Rev. Neurosci. 10, 815–821.
+doi: 10.1038/nrn2736
+Freeman, J. (2015). Open source tools for large-scale neuroscience. Curr. Opin.
+Neurobiol. 32, 156–163. doi: 10.1016/j.conb.2015.04.002
+Galliano, E., Mazzarello, P., and D’Angelo, E. (2010). Discovery and rediscoveries
+of Golgi cells. J. Physiol. 588, 3639–3655. doi: 10.1113/jphysiol.2010.
+189605
+Garcia-Lopez, P. (2012). Sculpting the brain. Front. Hum. Neurosci. 6:5.
+doi: 10.3389/fnhum.2012.00005
+Gilmore, R. O., Diaz, M. T., Wyble, B. A., and Yarkoni, T. (2017). Progress toward
+openness, transparency, and reproducibility in cognitive neuroscience. Ann. N
+Y Acad. Sci. 1396, 5–18. doi: 10.1111/nyas.13325
+Glickstein, M. (2014). Neuroscience: A Historical Introduction. Cambridge, MA:
+MIT Press.
+Godfrey-Smith, P. (2003). Theory and Reality: An Introduction to the Philosophy of
+Science. Chicago: University of Chicago Press.
+Goldenring, J. R. (2010). Innocence and due diligence: managing unfounded
+allegations of scientific misconduct. Acad. Med. 85, 527–530. doi: 10.1097/acm.
+0b013e3181cd4c7a
+Goodfield, J. (1981). An Imagined World: A Story of Scientific Discovery. London:
+Penguin Books.
+Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Das, S., Duff, E. P.,
+et al. (2016). The brain imaging data structure, a format for organizing
+and describing outputs of neuroimaging experiments. Sci. Data 3:160044.
+doi: 10.1038/sdata.2016.44
+Gorgolewski, K. J., and Poldrack, R. A. (2016). A practical guide for improving
+transparency and reproducibility in neuroimaging research. PLoS Biol.
+14:e1002506. doi: 10.1371/journal.pbio.1002506
+Grainger, T. H. (1956). Why study the history of science? Improv. Coll. Univ.
+Teach. 4, 79–82. doi: 10.1080/00193089.1956.10533944
+Gregory, K., Khalsa, S. J., Michener, W. K., Psomopoulos, F. E., de Waard, A., and
+Wu, M. (2018). Eleven quick tips for finding research data. PLoS Comput Biol.
+14:e1006038. doi: 10.1371/journal.pcbi.1006038
+Grisham, W., Lom, B., Lanyon, L., and Ramos, R. L. (2016). Proposed training to
+meet challenges of large- scale data in neuroscience. Front. Neuroinform. 10:28.
+doi: 10.3389/fninf.2016.00028
+Grisham, W., Schottler, N. A., Valli-Marill, J., Beck, L., and Beatty, J. (2010).
+Teaching bioinformatics and neuroinformatics by using free web-based tools.
+CBE Life Sci. Educ. 9, 98–107. doi: 10.1187/cbe.09-11-0079
+Gross, C. G. (2009). Three before their time: neuroscientists whose ideas
+were ignored by their contemporaries. Exp. Brain Res. 192, 321–334.
+doi: 10.1007/s00221-008-1481-y
+Gross, A. G., Harmon, J. E., and Reidy, M. (2002). Communicating Science.
+The Scientific Article From the 17th Century to the Present. Oxford: Oxford
+University Press.
+Guillery, R. W. (2005). Observations of synaptic strutures: origins of the neuron
+doctrine and its current status. Philos. Trans. R. Soc. Lond. B Biol. Sci. 360,
+1281–1307. doi: 10.1098/rstb.2003.1459
+Gunsalus, C. K., and Robinson, A. D. (2018). Nine pitfalls of research misconduct.
+Nature 557, 297–299. doi: 10.1038/d41586-018-05145-6
+Hardy, J. (2017). The discovery of Alzheimer-causing mutations in the APP
+gene and the formulation of the ‘‘amyloid cascade hypothesis’’. FEBS J. 284,
+1040–1044. doi: 10.1111/febs.14004
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 14 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+Hanson, M. (1999). Hippocrates: On Head Wounds. Translation and Commentary
+by Maury Hanson CMG I 4,1. Berlin: Corpvs Medicorvm Graecorvm.
+Hebb, D. O. (1949/2002). The Organization of Behaviour: A Neuropsychological
+Theory. New York, NY: Wiley. [Reprinted 2002 by Lawrence Erlbaum
+Associates, Mahwah, New Jersey]
+Hebb, D. O. (1980). ‘‘D. O. Hebb,’’ in A History of Psychology in Autobiography,
+Vol VII , ed. G. Lindzey (San Francisco: WH Freeman), 273–309.
+Hellman, C. D. (1958). George Sarton, historian of science and new humanist.
+Science 128, 641–644. doi: 10.1126/science.128.3325.641
+Hoffman, D. J., Reynolds, R. M., and Hardy, D. B. (2017). Developmental origins
+of health and disease: current knowledge and potential mechanisms. Nutr. Rev.
+75, 951–970. doi: 10.1093/nutrit/nux053
+Ingram, C. (2016). How and why you should manage your research data: a guide
+for researchers: an introduction to engaging with research data management
+processes. Available online at: https://www.jisc.ac.uk/guides/how-and-why-
+you-should-manage- your-research-data# [Accessed March 15, 2019].
+Ioannidis, J. P. (2005). Why most published research findings are false. PLoS Med.
+2:e124. doi: 10.1371/journal.pmed.0020124
+Ioannidis, J. P. (2014). How to make more published research true. PLoS Med.
+11:e1001747. doi: 10.1371/journal.pmed.1001747
+Iqbal, S. A., Wallach, J. D., Khoury, M. J., Schully, S. D., and Ioannidis, J. P.
+(2016). Reproducible research practices and transparency across the
+biomedical literature. PLoS Biol. 14:e1002333. doi: 10.1371/journal.pbio.10
+02333
+Iwaniuk, A. N. (2010). Comparative brain collections are an indispensable
+resource for evolutionary neurobiology. Brain Behav. Evol. 76, 87–88.
+doi: 10.1159/000320214
+Iwaniuk, A. N. (2011). The importance of scientific collecting and natural history
+museums for comparative neuroanatomy. Ann. N Y Acad. Sci. 1225, E1–E19.
+doi: 10.1111/j.1749-6632.2011.05977.x
+Jerison, H. J. (1977). Should phrenology be rediscovered? Curr. Anthropol. 18,
+744–746. doi: 10.1086/201981
+Jones, O. P., Alfaro-Almagro, F., and Jbabdi, S. (2018). An empirical, 21st century
+evaluation of phrenology. bioRxiv [Preprint]. doi: 10.1101/243089
+Jimerson, R. C. (2003). Archives and memory. OCLC Syst. Serv. 19, 89–95.
+doi: 10.1108/10650750310490289
+Južniˇ c, S. (2016). History of history of physics. Acta Balt. Hist. Philos. Sci. 4, 5–26.
+doi: 10.11590/abhps.2016.2.01
+Kallestinova, E. D. (2011). How to write your first research paper. Yale J. Biol. Med.
+84, 181–190.
+Keverne, E. B., Pfaff, D. W., and Tabansky, I. (2015). Epigenetic changes in
+the developing brain: effects on behavior. Proc. Natl. Acad. Sci. U S A 112,
+6789–6795. doi: 10.1073/pnas.1501482112
+Keverne, E. B. (2014). Significance of epigenetics for understanding brain
+development, brain evolution and behaviour. Neuroscience 264, 207–217.
+doi: 10.1016/j.neuroscience.2012.11.030
+Kleywegt, G. J., Velankar, S., and Patwardhan, A. (2018). Structural biology data
+archiving—where we are and what lies ahead. FEBS Lett. 592, 2153–2167.
+doi: 10.1002/1873-3468.13086
+Kruger, L., and Otis, T. S. (2007). Whither withered Golgi? A retrospective
+evaluation of reticularist and synaptic constructs. Brain Res. Bull. 72, 201–207.
+doi: 10.1016/j.brainresbull.2006.11.016
+Kuhn, T. (1962). On the Structure of Scientific Revolutions. Chicago, IL: University
+of Chicago Press.
+Lee, J. L. C., Nader, K., and Schiller, D. (2017). An update on memory
+reconsolidation updating. Trends Cogn. Sci. 21, 531–545. doi: 10.1016/j.tics.
+2017.04.006
+Lindberg, D. C. (2007). The Beginnings of Western Science. The European Scientific
+Tradition in Philosophical, Religious and Institutional Context, Prehistory to
+A.D. 1450. Chicago: University of Chicago Press.
+Loftus, E. (2003). Our changeable memories: legal and practical implications. Nat.
+Rev. Neurosci. 4, 231–234. doi: 10.1038/nrn1054
+Loftus, E. F., and Palmer, J. C. (1974). Reconstruction of auto-mobile destruction:
+an example of the interaction between language and memory. J. Verbal Learn.
+Verbal Behav. 13, 585–589. doi: 10.1016/s0022-5371(74)80011-3
+LoLordo, V. M., and Ross, R. T. (1990). Retraction of Ross and LoLordo findings
+concerning blocking in serial feature-positive discriminations. J. Exp. Psychol.
+Anim. Behav. Process. 16, 402–406. doi: 10.1037/0097-7403.16.4.402López-Muñoz, F., and Alamo, C. (2009). Historical evolution of
+the neurotransmission concept. J. Neural Transm. 116, 515–533.
+doi: 10.1007/s00702-009-0213-1
+Lorusso, L., Brown, R. E., Motta, S., Gasparello, A., Barbara, J.-G., Molnár, Z., et al.
+(2018). Neuroscience without borders: preserving the history of neuroscience.
+Eur. J. Neurosci. 48, 2099–2109. doi: 10.1111/ejn.14101
+Maienschein, J. (2000). Why study history for science? Biol. Philos. 15, 339–348.
+doi: 10.1023/a:1006733114136
+Maienschein, J., Laubichler, M., and Loettgers, A. (2008). How can history of
+science matter to scientists? Isis99, 341–349. doi: 10.1086/588692
+Manger, P. R. (2011). Collectibles and collections for comparative and
+evolutionary neurobiological research in Africa. Ann. N Y Acad. Sci. 1225,
+E85–E93. doi: 10.1111/j.1749-6632.2010.05948.x
+Makin, S. (2018). The amyloid hypothesis on trial. Nature 559, S4–S7. doi: 10.
+1038/d41586-018-05719-4
+Matiasz, N. J., Wood, J., Doshi, P., Speier, W., Beckemeyer, B., Wang, W., et al.
+(2018). ResearchMaps.org for integrating and planning research. PLoS One
+13:e0195271. doi: 10.1371/journal.pone.0195271
+Mattern, S. P. (2013). The Prince of Medicine. Galen and the Roman Empire. New
+York, NY: Oxford University Press.
+Mazzarello, P. (2010). Golgi. A Biography of the Founder of Modern Neuroscience.
+Oxford: Oxford University Press. [Translated by Aldo Badiani and Henry A.
+Buchtel]
+McNeill, W. (1985). Why study history? American historical association. Available
+online at: https://www.historians.org/about-aha-and-membership/aha-
+history-and-archives/historical-archives/why-study-history [Accessed March
+15, 2019].
+Merton, R. (1962). The Sociology of Science: Theoretical and Empirical
+Investigations. Chicago, IL: University of Chicago Press.
+Meulders, M. (2010). Helmholtz. From Enlightenment to Neurosceince. Cambridge,
+MA: The MIT Press. [Translated and edited by Laurence Garey]
+Moln Kar, Z., and Brown, R. E. (2010). Insights into the life of Sir Charles
+Sherrington. Nat. Rev. Neurosci. 11, 429–436. doi: 10.1038/nrn2835
+Montagu, M. F. A. (1955). Vesalius and the Galenists. Sci. Mon. 80, 230–239.
+Mora, F. (2015). ‘‘Neuroculture: a new cultural revolution?’’ in Art, Aesthetics and
+the Brain , eds J. P. Huston, M. Nadal, F. Mora, L. F. Agnati and C. J. C. Conde
+(Oxford: Oxford University Press), 3–18.
+Nature Publishing Group. (2017). Announcement: toward greater reproducibility
+for life-sciences research in Nature. Nature 546:8. doi: 10.1038/546008a
+Nehls, M. (2016). Unified theory of Alzheimer’s disease (UTAD): implications for
+prevention and curative therapy. J. Mol. Psychiatry 4:3. doi: 10.1186/s40303-
+016-0018-8
+Neill, U. S. (2007). How to write a scientific masterpiece. J. Clin. Invest. 117,
+3599–3602. doi: 10.1172/jci34288
+Nutton, V. (2004). Ancient Medicine. London: Routledge.
+O’Leary, T. P., Hussin, A. T., Gunn, R. K., and Brown, R. E. (2018). Locomotor
+activity, emotionality, sensori-motor gating, learning and memory in the
+APPswe/PS1dE9 mouse model of Alzheimer’s disease. Brain Res. Bull. 140,
+347–354. doi: 10.1016/j.brainresbull.2018.05.021
+Panourias, I. G., Skiadas, P. K., Sakas, D. E., and Marketos, S. G. (2005).
+Hippocrates: a pioneer in the treatment of head injuries. Neurosurgery 57,
+181–189. doi: 10.1227/01.neu.0000163416.66374.48
+Parker, D. (2018). Kuhnian revolutions in neuroscience: the role of tool
+development. Biol. Philos. 33:17. doi: 10.1007/s10539-018-9628-0
+Perroud, N., Dayer, A., Piguet, C., Nallet, A., Favre, S., Malafosse, A., et al. (2014).
+Childhood maltreatment and methylation of the glucocorticoid receptor gene
+NR3C1 in bipolar disorder. Br. J. Psychiatry 204, 30–35. [Retracted in Br.
+J. Psychiatry 2014, 205 (2): 164]. doi: 10.1192/bjp.bp.112.120055
+Piccolino, M. (1998). Animal electricity and the birth of electrophysiology: the
+legacy of Luigi Galvani. Brain Res. Bull. 46, 381–407. doi: 10.1016/s0361-
+9230(98)00026-4
+Plaxco, K. W. (2010). The art of writing science. Protein Sci. 19, 2261–2266.
+doi: 10.1002/pro.514
+Poole, R. (2008). Memory, history and the claims of the past. Mem. Stud. 1,
+149–166. doi: 10.1177/1750698007088383
+Redish, A. D., Kummerfeld, E., Morris, R. L., and Love, A. C. (2018).
+Reproducibility failures are essential to scientific enquiry. Proc. Natl. Acad. Sci.
+U S A 115, 5042–5046. doi: 10.1073/pnas.1806370115
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 15 May 2019 | Volume 13 | Article 82
+
+Brown Why Study the History of Neuroscience?
+Rivera-Orraca, L. (2009). Are museums sites of memory? New School Psychol. Bull.
+6, 32–37.
+Rolls, E. T. (2012). Neuroculture: On the Implications of Brain Science. New York,
+NY: Oxford University Press.
+Root-Bernstein, R. S. (1988). Setting the stage for discovery. Breakthroughs depend
+on more than luck. Sciences , 28, 26–34.
+Roth, A., Kyzar, E., Cachat, J., Stewart, A. M., Green, J., Gaikwad, S., et al.
+(2013). Potential translational targets revealed by linking mouse grooming
+behavioral phenotypes to gene expression using public databases. Prog.
+Neuropsychopharmacol. Biol. Psychiatry 40, 312–325. doi: 10.1016/j.pnpbp.
+2012.10.015
+Samuel, R. (1992). Reading the signs: II. Fact-grubbers and mind-readers. Hist.
+Workshop J. 33, 220–251. doi: 10.1093/hwj/33.1.220
+Saper, C. B. (2015). Academic publishing, part III: how to write a research paper
+(so that it will be accepted) in a high-quality journal. Ann. Neurol. 77, 8–12.
+doi: 10.1002/ana.24317
+Sarton, G. (1918). The teaching of the history of science. Sci. Mon. 7,
+193–211.
+Schacter, D. L. (1996). Searching for Memory. The Brain, The Mind, and The Past.
+New York, NY: Basic Books.
+Schellinck, H. M., Cyr, D. P. and Brown, R.E. (2010). How many ways can mouse
+behavioral experiments go wrong? Confounding variables in mouse models of
+neurodegenerative diseases and how to control them. Adv. Study Behav. 41,
+255–366. doi: 10.1016/s0065-3454(10)41007-4
+Schwerdtfeger, L. A. (2018). Spirals of science. Science 362:1318.
+doi: 10.1126/science.362.6420.1318
+Schwerdtfeger, L. A., and Tobet, S. A. (2018). From organotypic culture to body-
+on-a-chip: a neuroendocrine perspective. J. Neuroendocrinol. 2018:e12650.
+doi: 10.1111/jne.12650
+Shepherd, G. M. (1991/2015). Foundations of the Neuron Doctrine. New York, NY:
+Oxford University Press.
+Shepherd, G. M. (2010). Creating Modern Neuroscience: The Revolutionary 1950s.
+New York, NY: Oxford University Press.
+Shepherd, G. M., Greer, C. A., Mazzarello, P., and Sassoè-Pognettoc, M. (2011).
+The first images of nerve cells: Golgi on the olfactory bulb 1875. Brain Res. Rev.
+66, 92–105. doi: 10.1016/j.brainresrev.2010.09.009
+Skinner, M. K. (2015). Environmental epigenetics and a unified theory
+of the molecular aspects of evolution: a neo-Lamarckian concept that
+facilitates neo-Darwinian evolution. Genome Biol. Evol. 7, 1296–1302.
+doi: 10.1093/gbe/evv073
+Söderqvist, T. (2002). Neurobiographies: writing lives in the history of neurology
+and the neurosciences. J. Hist. Neurosci. 11, 38–48. doi: 10.1076/jhin.11.1.38.
+9099
+Söderqvist, T. (2007). ‘‘A new look at the genre of scientific biography,’’ in
+The History and Poetics of Scientific Biography , ed. T. Söderqvist (Cornwall:
+Ashgate), 1–15.
+Squire, L. S. (Eds). (1996–2018). The History of Neuroscience in Autobiography,
+10 Volumes. Washington, DC: Society for Neuroscience.
+Star, S. L. (1983). Simplification in Scientific Work: an example from
+neuroscience research. Soc. Stud. Sci. 13, 205–228. doi: 10.1177/0306312830130
+02002
+Steedman, C. (1980). The space of memory: in an archive. Hist. Hum. Sci. 11,
+65–83. doi: 10.1177/095269519801100405
+Suzuki, K. (2018). The developing world of DOHaD. J. Dev. Orig. Health Dis. 9,
+266–269. doi: 10.1017/s2040174417000691Swanson, L. (2015). Neuroanatomical Terminology: A Lexicon of Classical Origins
+and Historical Foundations. Oxford: Oxford University Press.
+Symons, A. J. A. (1934/1966). The Quest for Corvo. London: Penguin books.
+Todes, D. P. (2014). Ivan Pavlov. A Russian Life in Science. New York, NY: Oxford
+University Press.
+Tsermoulas, G., Aidonis, A., and Flint, G. (2014). The skull of Chios: trepanation
+in Hippocratic medicine. J. Neurosurg. 121, 328–332. doi: 10.3171/2014.4.
+jns131886
+Tullo, E. (2010). Trepanation and Roman medicine: a comparison of
+osteoarchaeological remains, material culture and written texts. J. R. Coll.
+Physicians Edinb. 40, 165–171. doi: 10.4997/jrcpe.2010.215
+Uher, R., and Weaver, I. C. (2014a). Epigenetic traces of childhood maltreatment
+in peripheral blood: a new strategy to explore gene-environment interactions.
+Br. J. Psychiatry 204, 3–5. doi: 10.1192/bjp.bp.113.127209
+Uher, R., and Weaver, I. C. (2014b). Retraction. Br. J. Psychiatry 205:249.
+doi: 10.1192/bjp.205.3.249
+Valenstein, E. S. (2002). The discovery of chemical neurotransmitters. Brain Cogn.
+49, 73–95. doi: 10.1006/brcg.2001.1487
+Vesalius, A. (1543). De Humani Corporis Fabrica Libri Septum. Basil: Karger.
+[Translated and Annotated by D. H. Garrison and M. H. Hast. 2014. The Fabric
+of the Human Body]
+Vogelstein, J. T., Perlman, E., Falk, B., Baden, A., Gray Roncal, W.,
+Chandrashekhar, V., et al. (2018). A community-developed open-source
+computational system for big neuro data. Nat. Methods 15, 846–847.
+doi: 10.1038/s41592-018-0181-1
+Wachtel, N. (1986). Memory and history. Hist. Anthropol. 2, 207–224.
+doi: 10.1080/02757206.1986.9960766
+Watson, J. (1968). The Double Helix: A Personal Account of the Discovery of the
+Structure of DNA. New York, NY: Atheneum Press.
+Wiener, M., Sommer, F. T., Ives, Z. G., Poldrack, R. A., and Litt, B. (2016).
+Enabling an open data ecosystem for the neurosciences. Neuron 92, 617–621.
+doi: 10.1016/j.neuron.2016.10.037
+Zhang, W., Bai, M., Xi, Y., Hao, J., Zhang, Z., Su, C., et al. (2012). Multiple
+inflammatory pathways are involved in the development and progression of
+cognitive deficits in APPswe/PS1dE9 mice. Neurobiol. Aging 33, 2661–2677.
+doi: 10.1016/j.neurobiolaging.2011.12.023
+Zhang, W., Bai, M., Xi, Y., Hao, J., Zhang, Z., Su, C., et al. (2016). Retraction notice
+to ‘‘Multiple inflammatory pathways are involved in the development and
+progression of cognitive deficits in APPswe/PS1dE9 mice’’ [Neurobiol. Aging
+33 (2012) 2661-2677]. Neurobiol. Aging 38:219. doi: 10.1016/j.neurobiolaging.
+2016.01.005
+Zwaan, R. A., Etz, A., Lucas, R. E., and Donnellan, B. (2018). Making replication
+mainstream. Behav. Brain Sci. doi: 10.1017/S0140525X17001972 [Epub ahead
+of print].
+Conﬂict of Interest Statement : The author declares that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest.
+Copyright © 2019 Brown. This is an open-access article distributed under the terms
+of the Creative Commons Attribution License (CC BY). The use, distribution or
+reproduction in other forums is permitted, provided the original author(s) and the
+copyright owner(s) are credited and that the original publication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms .
+Frontiers in Behavioral Neuroscience | www.frontiersin.org 16 May 2019 | Volume 13 | Article 82

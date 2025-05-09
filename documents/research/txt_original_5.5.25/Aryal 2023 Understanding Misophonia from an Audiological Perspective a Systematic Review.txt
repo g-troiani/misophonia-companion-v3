@@ -1,0 +1,402 @@
+Processed by Minitex on: 4/6/2023 10:02:28 AM
+
+This material comes to you from the University of Minnesota collection or another participating library of the Minitex Library Information Network.
+
+Patrons: please contact your library for help accessing this document.
+
+Library staff: for issues or assistance with this document, please email: mtx-edel@umn.edu and provide the following information:
+
+-  Article ID : MIH 01MNPALSIHC0010197
+-  Patron email address
+
+____________________________________________________________________________________
+
+Title: European archives of oto-rhino-laryngology.
+
+ArticleTitle: Understanding misophonia from an audiological perspective: a systematic review ArticleAuthor: Aryal
+
+Vol: 280
+
+No: 4
+
+Date: 2022-12-09 Pages: 1529-1545
+
+OCLC - 42807337; ISSN - 09374477; LCN - 2008233033;
+
+Publisher: 2022-12-09
+
+Source: LibKeyNomad
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+## REVIEW ARTICLE
+
+## Understanding misophonia from an audiological perspective: a systematic review
+
+Sajana Aryal 1 · Prashanth Prabhu
+
+1
+
+Received: 5 September 2022 / Accepted: 1 December 2022 / Published online: 9 December 2022
+
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+
+## Abstract
+
+Purpose Misophonia is a neurophysiological disorder in which certain sounds trigger an intensely emotional or physiological response caused by an increased autonomic nervous system reaction to the triggers. Misophonia is a relatively new condition, and the neurophysiological mechanism behind this condition is not known yet. The assessment and management of misophonia need a team approach. Audiologists are vital members of the team. However, their roles in this condition are not well-understood. The study aims to review the neurophysiological mechanism of misophonia, highlighting the mechanism involved in the audiological pathway and directing the discussion toward applications of findings in the assessment and management of misophonia from the audiological perspective.
+
+Methods We reviewed 12 articles from different databases to understand the neurophysiological mechanisms of misophonia. Most of the studies selected were experimental designs involving individuals with misophonia.
+
+Results The result of the review revealed abnormal activation and connection among the different higher cortical structures in participants with misophonia. By signifying various neurophysiological and neuroradiological findings, the review confirms that misophonia is a neurophysiological disorder that may border between audiology, neurology, and psychiatry. Assessment of study quality reported an overall low risk of bias.
+
+Conclusions This review highlights the need to include an audiologist as a team member in the evaluation and management of misophonia.
+
+Keywords Misophonia · Neurophysiology · Audiologist · Systematic review · Assessment and management
+
+## Introduction
+
+Misophonia or sound selectivity syndrome is a sound tolerance disorder in which certain sounds trigger an intensely emotional or physiological response caused by increased autonomic nervous system reaction to specific triggers [1]. Triggers are the sound that causes emotional outbursts in a patient with misophonia. When exposed to specific auditory triggers, people with misophonia exhibit various physiological and emotional responses, including an accelerated heart rate, sweating, anxiety, rage, irritability, and disgust [1]. Since triggers are very much common in misophonic individuals, they can lead to social isolation and psychological problems. The types of aversive triggers vary from individual to individual and depend on various factors, such as experience, social context, and the psychological profile of the person [1]. The sounds created by the human mouth or nose, such as chewing, breathing sounds, and sniffing, are the most unpleasant of the many triggers that have been found.
+
+* Sajana Aryal sajanaaryal5566@gmail.com
+
+1 Department of Audiology, All India Institute of Speech and Hearing, Mysore 570006, India
+
+Misophonia can occur on its own as a distinct disorder or in conjunction with other psychiatric disorders, such as obsessive-compulsive disorders (OCD), attention deficit hyperactivity disorder (ADHD), and mood disorders. In addition, misophonia often coexists with other similar conditions, such as tinnitus, hyperacusis, and phonophobia, which is necessary to differentiate [1]. The onset of the problem in misophonia patients has been reported variably across the literature. Few studies have mentioned that the onset is during adolescence [2], few authors have mentioned during adulthood [3], and few have mentioned that there are no age criteria for the occurrence of misophonia as it can happen at any age [4]. Determining the prevalence of misophonia has
+
+been difficult due to a lack of diagnostic standards; however, estimates in the audiology literature suggest that the prevalence of decreased sound tolerance in the general population is roughly 3.5% [5]. Similarly, Naylor et al. reported clinically significant misophonia in 49.1% of the study sample population among the U.K. undergraduate medical student population [6]
+
+Misophonia is an adverse reaction to sounds driven by enhanced limbic and autonomic responses without excessive auditory system amplification [7]. Due to the interaction between the limbic system and the classical and nonclassical pathways, a breakdown in this process may increase the emotional and autonomic response to auditory inputs [7]. According to Jastreboff (1990) and Jastreboff and Jastreboff (2002)'s neurophysiological model, misophonia is a dislike or hatred of sound that is caused by abnormally strong reactions of the autonomic and limbic systems as a result of enhanced connections between the auditory, limbic, and autonomic systems or enhanced reactivity of the limbic and autonomic system to sound [8, 9]
+
+The neuroimaging studies employing functional magnetic resonance imaging (fMRI) showed hyperactivation of the right insula, right anterior cingulate cortex, and right superior temporal cortex with misophonic video clips compared to neutral video clips [10, 11]. In misophonic patients, trigger sounds also increased heart rate (H.R.) and galvanic skin response (GSR), which were mediated by anterior insular cortex (AIC) activity [11]. Similarly, Schröder et al. revealed that the misophonic group's mean N1 peak amplitude was lower than the control group, suggesting that misophonic people may have low-level auditory information processing deficits [12]. The right superior temporal cortex, right anterior insular cortex, and right anterior cingulate showed greater activity in the misophonic group than in the control group [10]. Similarly, Giorgi et al. found hyperactivation of the bilateral auditory cortex and left amygdala when exposed to the misophonic triggers compared to the control group [13].
+
+## Rationale and justification of the study
+
+Although misophonia has undergone substantial advancement, neither the Diagnostic nor Statistical Manual of Mental Disorders, Fifth Edition (DSM-V) nor the International Classification of Diseases, Eleventh Edition recognize misophonia as a distinct illness (ICD-11). However, misophonia is now recognized by Schröder et al. as a specific psychiatric condition rather than a symptom of other disorders, and they have provided diagnostic criteria to support this claim [14]. Few questionnaires were developed to assess misophonia [15, 16]. Amsterdam misophonia scale (A-MISO-S) is the checklist developed by Schröder et al. for assessing the severity of symptoms along the dimensions of the proposed
+
+criteria for misophonia and has also been used widely across the literature [14].
+
+Even though few questionnaires were developed to determine the severity of misophonia symptoms, this scale's psychometric properties are unknown. To conduct a full assessment of misophonia, administering these questionnaires is insufficient. We have to rule out the other diagnostic condition that may account for sound sensitivity by administering primary diagnostic tools that may be necessary. As misophonia borders audiology and psychiatry, audiological assessment is mandatory for misophonia patients. Brout et al. had mentioned in their paper that there can be a central auditory processing disorder in individuals with misophonia, and there is a need for research from audiological perspectives [17]. The audiological evaluation of misophonia is challenging, and there is no established technique. As a result, there is a huge demand for research on misophonia from an audiological standpoint.
+
+The complex nature of misophonia has made it a stressful disorder for sufferers and family members. However, little research is about underlying pathophysiological mechanisms, assessment, and management. To date, no specific protocols have been developed for misophonia assessment and management. Proper assessment and management of misophonia are impossible without understanding its core mechanism. Misophonia is still in its infancy and is not readily accepted in the scientific community as a valid disorder. Therefore, it can be hypothesized that highlighting more on the neurophysiological mechanism will help recognize misophonia as a separate and genuine disorder and provide a path for assessment and management using a team approach. Hence, this review aims to highlight the Neuroaudiological pathophysiology of misophonia and its implications in the assessment and management of misophonia from an audiological perspective.
+
+## Methods
+
+The study was conducted after registration in the PROSPERO (Regd ID: CRD42021279965). The review was carried out using Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines in various databases for literature search [18]. These databases included African Journal Online (AJOL), Google Scholar, PubMed (National Centre for Biotechnology Information), MEDLINE (U.S. National Library of Medicine), Web of Science, Elsevier, Schematic Scholar, Cochrane library, and Comdisdome. The search was done with appropriate keywords to find articles related to this topic. These keywords included were 'Misophonia'; 'Selective sound sensitivity syndrome'; 'Sound rage'; 'Neuroaudiology'; 'Neurophysiology'; 'Pathophysiology'; and 'Mechanism and the
+
+derivatives of these words with the usage of appropriate Boolean operators.
+
+The inclusion criteria for the study were the article published in peer-reviewed journals till 2021 and articles published in English, including human participants. Duplicates were found and removed from the primary sample. Articles on the Neuroaudiological pathophysiology of tinnitus, hyperacusis, and phonophobia, articles based on animal models, and articles with insufficient data were excluded. Similarly, reviews, single case reports, histopathological studies, studies with duplicated data, studies with a heterogeneous data group, and articles published in a language other than English were also excluded from this study. The articles were selected based on the title and abstract screening using exclusion and inclusion criteria. All eligible articles' full texts were reviewed to assess eligibility as per the criteria. Disagreements at the screening stage between the reviewers were restored through discussion. A pre-piloted form was used to extract data from the included studies. The extracted information included the authors' names, type of research design, type of study population and the sample size, methodology, participant demographics, outcomes of the study, and the critical analysis of the findings.
+
+## Results
+
+## Records/article selection
+
+Applying the initial search strategy and the inclusion and exclusion criteria provided 12 papers for quality analysis and synthesis. Among the 234 articles identified using database searches, such as google scholar, PubMed, semantic scholar, Comdisdome, Research Gate, and Cochrane library, 15 were excluded due to duplicates, and a total of 217 articles were included for title screening. Among 217 articles for title screening, 165 were excluded by title screening and 42 by abstract screening. Twelve articles meeting the inclusion criteria for complete reading were finalized for review. All the studies included in the study were experimental. The selection process was further validated by inter-judge selection and discussion in case any ambiguity arose in finalizing the published manuscript. The detailed Preferred Reporting Items for Systematic Reviews (PRISMA) flow diagram for the selection of studies was used for the present systematic review which is mentioned in Fig. 1
+
+## Result of quality analysis after data extraction
+
+QUADAS-2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies [19] was used to determine the quality and strength of the study selected for the review. All the studies were experimental designs using calibrated instrumentation, standardized questionnaires, and proper methodology. Almost all the studies were well-controlled, with proper selection and representativeness of cases and controls. There was good control of the study factors almost in all the studies with a low risk of bias. However, most of the studies lack the identification of the additional and confounding factors that might have deviated from the results and accounting for the same while analyzing the results. The summary of the quality analysis of selected studies is shown in Table 1.
+
+## Summary of data extraction
+
+Selected studies mainly consisted of experimental studies. All the subjects included in the study were diagnosed with misophonia using standardized diagnostic protocols. Different standardized questionnaires, such as the Amsterdam Misophonia Questionnaire [20] and the Misophonia Questionnaire (MQ) [15] have been used in most studies to differentiate the misophonia group from the control group.
+
+Various modifications of the neuroimaging method such as functional magnetic resonance imaging (fMRI), structural fMRI, resting-state functional magnetic resonance imaging, sound-evoked fMRI, fMRI acquisition using BOLD during a stop-signal task (SST), fMRI acquisition during the performance of the visual stop-signal task and so on has been used in most of the studies to find the neurological pathophysiology of the misophonia [11, 15, 20, 21]. Along with that, evoked response potential (ERP) during the oddball task using electroencephalography (EEG) and comparison of Skin conductance response (SCR) among auditory and visual stimuli has also been used in a few studies to find the site of lesion in the misophonia participants [22, 23].
+
+## Neuroaudiological pathophysiology found across studies
+
+The functional magnetic resonance imaging (fMRI) paradigm with different modifications has been used as the preferred method in ten selected studies to determine the size of the lesion by comparing misophonia participants with the control group. The result of the fMRI acquisition showed hyperactivation of the various cortical areas, such as the medial premotor cortex, mid-cingulate, and ventrolateral premotor cortex, which are the region involved in planning and preparing motor movements and related to the urge to avoid or react to the trigger sounds in an individual with misophonia. In addition, fMRI analysis showed greater white matter volume in the left frontal cortex, including the area of inferior frontal-occipital fasciculus (IFOF), anterior thalamic radiation (ATR), and the body of the corpus callosum (BCC) in the misophonic participants compared to the control. Various neurophysiological studies have shown
+
+Fig. 1 Flowchart depicting the selection process of the articles
+
+hyperactivation of the non-classical auditory pathway in an individual with misophonia [11]. The outcome of the tenneuroimaging studies using fMRI with different modifications is shown in Table 2.
+
+Electrophysiological tests (ERP) and Skin conductance response (SCR) have been used as the preferred method in two studies [23, 24]. The evoked response potential (ERP) result showed a smaller N1 component in response to the
+
+deviant tone in the misophonia participants than in the control group suggesting impaired sensory gating in individuals with misophonia. The skin conductance response (SCR) result showed a higher skin conductance response in the misophonic group than in the control group. The detailed outcome of these studies is shown in Table 3.
+
+The results from the review show problem in the audiological pathway, which highlights the need to explore
+
+Table 1 Tabular representation of Quality analysis of the studies selected for the review using QUADAS-2
+
+misophonia from an audiological perspective. From the literature review and the author's understanding, the neuroaudiological model has been formulated to understand misophonia from the audiological perspective, as illustrated in Fig. 2.
+
+studies, the subjective response to the misophonics is correlated with the physiological measurement of increased autonomic arousal in response to the misophonic triggers, which validates the experience of sufferers. These findings demonstrate misophonic trigger atypical sympathetic arousal and negative conditioning.
+
+## Discussion
+
+The present systematic review aimed to study the neuroaudiological pathophysiology of misophonia. The result of the review revealed abnormal activation and connection among the different higher cortical structures in participants with misophonia. Different methods used for studying the brain basis of misophonia have been explored. Across the studies, various neurophysiological, neurobiological, neuroimaging, and autonomic measures have been explored to find the brain functioning of the individual with misophonia. Across the
+
+Similarly, across the neuroimaging studies, it was found that misophonics showed an atypical neuronal and physical response, which again validates that the condition is real and special attention is needed to develop the assessment and management strategies. Neurobiological studies showed central auditory processing impairment in misophonics. However, the findings of these studies using various methods are inconclusive, and further research is needed in the future, focusing on both the peripheral and central nervous systems.
+
+The neurophysiological correlates of misophonia have been explored, and most research found abnormalities in
+
+Table 2 (continued)
+
+Discussion
+
+Outcome
+
+Testing parameters used
+
+Population type ( n )
+
+Characteristics/research
+
+Research design
+
+Study question
+
+Table 2 (continued)
+
+Table 2 (continued)
+
+Table 2 (continued)
+
+Discussion
+
+Outcome
+
+Testing parameters used
+
+Population type ( n )
+
+Characteristics/research
+
+Research design
+
+Study question
+
+Table 2 (continued)
+
+Discussion
+
+Outcome
+
+Testing parameters used
+
+Population type ( n )
+
+Characteristics/research
+
+Research design
+
+Study question
+
+Table 2 (continued)
+
+Table 3 The outcome of the physiological tests used across the studies
+
+Discussion
+
+Outcome
+
+Testing parameters used
+
+Population type (n)
+
+## Characteristics/research question
+
+Research design
+
+Author/year
+
+The lower mean N1 peak amplitude in the misophonic group compared to the control group suggests a little auditory information processing disadvantage in misophonic people The difference in clinical characteristics between the two groups, according to the author, is what accounts for the lower N1 peak amplitude in the misophonic group
+
+The deviant tones elicited misophonia with a
+
+reduced N1 amplitude component than the
+
+control group
+
+There was no discernible difference in the N1
+
+component's peak latency between the misophonic
+
+and control groups
+
+In addition, there were no changes between
+
+the control group and the misophonic people
+
+Hearing tests (tone and speech audiogram and loudness discomfort levels)
+
+20 participants were diagnosed with misophonia, and 14 were in the healthy control group
+
+Will there be a deficit in auditory processing in
+
+misophonic individuals?
+
+Experimental design
+
+Schröder et al., 2014
+
+Recorded auditory eventrelated potentials (ERPs) during the oddball task using EEG
+
+regarding the P1, P2 aver- age amplitude, or peak
+
+latencies
+
+An individual with misopho-
+
+Misophonic individuals
+
+Comparison of Skin con- nia reports physiological
+
+showed a higher skin ductance response (SCR)
+
+distress to the specific conductance response
+
+among auditory and sounds with a high level
+
+than the control group.
+
+visual stimuli
+
+Six participants with miso- phonia and five control
+
+subjects
+
+Will the misophonic subjective experiences evoke an abnormal physiological response to certain
+
+Edelstein et al., 2013 Experimental design of knowledge demonstrat-
+
+In addition, misophonic
+
+Subjective aversiveness auditory stimuli?
+
+ing prolonged and specific individuals showed
+
+rating physiological reactions
+
+higher SCR in response
+
+The significant positive to the auditory stimuli
+
+correlation between the but not visual stimuli
+
+misophonic aversiveness
+
+Misophonic individuals rating and the control
+
+rate the auditory stimuli aversiveness rating sug-
+
+more aversive than gest that misophonia may
+
+visual stimuli. The result experience an extreme
+
+showed a positive corre- form of discomfort that the
+
+lation between subjective typical individual experi-
+
+aversiveness rating and ence to normally aversive
+
+the SCR measurement or irritating stimuli. This
+
+raises the critical hypoth- esis that there is nothing
+
+intrinsically different about misophonic individuals
+
+from those in the aver- age population, and the
+
+misophonic individual falls at the tail end of the
+
+distribution
+
+the auditory cortex, limbic system, and non-classical pathway [25, 26]. The Anterior Insular Cortex (AIC) showed increased neural activity in the fMRI study by Kumar et al., employing the unpleasant trigger sounds, which are regarded as the most substantial evidence supporting the neurological etiology of misophonia [27]. Since the AIC is the central region in charge of emotional awareness, we might anticipate that this region will respond more strongly when exposed to trigger sounds.
+
+Another fMRI study by Giorgi discovered that when an individual with misophonia is exposed to auditory triggers, the left amygdala and bilateral auditory cortex become hyperactive [13]. Schröder et al. reported similar findings as well [28]. The ventromedial prefrontal cortex (vmPFC), a node of the default mode network, has more gray matter demyelination in misophonics, according to Kumar et al.'s structural analysis of brain data (DMN) [11]. This anatomical discrepancy may explain the aberrant functional connection of AIC to DMN in misophonics compared to controls. Overall, Kumar et al. findings.'s indicate aberrant AIC activity and functional connectivity, suggesting potential areas and systems that could represent the neurological process underlying misophonia [11]. Ultimately, these discoveries may be clinically significant, since they give important information about potential biological systems that might be changed when creating treatment plans for people with misophonia.
+
+Further evidence of the misophonia's neurophysiological basis has been given by Schroder et al. [23]. Schroder and colleagues studied the N1 component of the late evoked auditory potentials. They reported reduced amplitude of the N1 component in the oddball stimuli, the marker linked to early attention and detection of abrupt sensory changes. Their findings showed a neurobiological deficit in individuals with misophonia, which could impair auditory processing of the incoming stimuli, although there is no direct causal link. Similarly, Schroder et al. used mismatch negativity response as the objective test of central auditory processing and reported reduced MMN response in individuals with misophonia compared to the control group [29].
+
+Edelstein et al. conducted the first study to examine misophonia utilizing psychophysiological testing [20]. They measure the sympathetic nervous system response utilizing unisensory and multisensory stimuli in people with misophonia and control subjects using the skin conductance response (SCR). When compared to controls, misophonia patients responded more strongly to auditory-only stimuli in SCR data, but there was no discernible difference for visualonly stimuli. The average level of aversiveness and mean SCR across all participants and the unisensory and multisensory trials were positively correlated  Similarly, Kumar et al. . reported triggers eliciting increased heart rate and galvanic skin response in individuals with misophonia compared to
+
+the control group [11]. From these findings, we can report that misophonic responses can be measured in the autonomic nervous system. However, there are several limitations in the study by Edelstein et al. [20]. The few limitations to be noted are lack of adequate sample size, lack of clinical comparison group, and lack of proper screening measures for psychiatric and psychological measures [20]. There is a need to carry out research in the future using this method by improving these limitations.
+
+In the study by Brett-Green et al., early evoked response potentials (ERP) have been documented in the sensory cortex suggesting abnormal information processing in sensory over-responsive children [30]. Similarly, the study by Schröder et al. also supports the previous findings reporting a reduction in the mean amplitude of the N1 peak in individuals with misophonic and reported impaired sensory gating in individuals with misophonia [23]. These results suggest that atypical sensory processing might be present in adults and children with misophonia and sensory processing disorders (SPD). The reduction in the amplitude of the N1 peak might be suggestive of sound encoding deficits in misophonia. However, there is a need to carry out collaborative studies in the future with different field researchers to gain deep insight into the gating function in an individual with misophonia.
+
+## Implications of the study
+
+Misophonia is considered a psychological disorder. By signifying various neurophysiological and neuroradiological findings, the review confirms that misophonia is a neurophysiological disorder that may border between audiology, Neurology, and psychiatry. The review also highlights the need to include neurophysiological and audiological measures for diagnosing misophonia, as only subjective measures from psychiatric perspectives are insufficient for properly assessing misophonia.
+
+As misophonia is the topic of debate in the literature, this review will help to confirm that misophonia is a real disorder as there are various neurophysiological alterations in the brains of individuals with misophonia and also may show the significance of including misophonia in the International Classification of Diseases (ICD) classification.
+
+The present systematic review helped to understand the gap in the literature classification of misophonia. The present systematic review will shed light on understanding the Neuroaudiological pathophysiology of misophonia and provide the compiled information on the pathophysiology of misophonia. The findings of this review can be used further in the assessment and management of misophonia from audiological and neurological perspectives. This review highlights the need to develop assessment protocols using both behavioural and electrophysiological measures from
+
+Fig. 2 Neuroaudiological model of misophonia
+
+audiological perspectives. In addition, this review's findings help differentiate the pathophysiology of misophonia from other sound disorders such as tinnitus and hyperacusis and provide the path for assessment and management strategies.
+
+## Limitations of the study
+
+The present review has a few limitations. Few articles included in the review have an inadequate sample size, which could have biased the results. Misophonia can occur in isolation or as a co-morbid condition. However, most studies did not discuss co-morbidity and the exclusion of the participants based on co-morbidities. Hence, the results obtained may also be due to co-morbidities. Although a salient concern, this review only included studies published in English.
+
+## Conclusions
+
+Misophonia is a new neurophysiological condition that is relatively less explored. The exact neurophysiology of misophonia is not known yet, and this is still the topic of debate between psychiatry, audiology, and neurology. The proper assessment and management of the individual with misophonia are impossible without understanding the core mechanism behind it. Therefore, to gain detailed insight into the neurophysiology of misophonia, we reviewed all the research articles about the physiology of misophonia published till 2021 using proper inclusion and exclusion criteria.
+
+The primary purpose of our study was to see the brain basis of an individual with misophonia highlighting more the auditory neurophysiology. We reviewed 12 research articles that were related to the pathophysiology of misophonia. In summary, we found that the brain functioning of an individual with misophonia differs from that of a control subject. Most studies have shown hyperactivation of the cortical areas, including the auditory and limbic areas, in
+
+individuals with misophonia. In addition, few studies have noted problems in the non-classical auditory pathway and impaired sensory gating in an individual with misophonia. Even though the aim of the studies and methodology are the same across the studies, there is variation in the findings. This may be due to variation in descriptive characteristics of the individual with misophonia recruited in the study. In addition, none of the studies tries to see neurophysiological mechanisms according to the severity of misophonia. This can also be a confounding variable to result in different findings across studies.
+
+This review will act as the baseline for the researchers interested in researching misophonia from audiological and neurological perspectives. This review highlights the need to develop more advanced objective physiological measures from audiological and neurological perspectives to gain detailed insight into the physiological mechanism of misophonia. In addition, the review highlights the need of assessment protocols for misophonia using various subjective and objectives tests, such as pure tone audiometry, speech audiometry, Loudness discomfort level (LDL) tests, otoacoustic emissions (OAE) with and without contralateral supression, Auditory Brainstem response (ABR), Auditory Late Latency Response (ALLR), P300, and Mismatch negativity (MMN) from the audiological perspectives. In addition, there is a need to develop precise subjective tools to categorize the types and severity of misophonia and compare the physiological mechanism accordingly.
+
+Acknowledgements The authors acknowledge Director, All India Institute of Speech and Hearing for allowing to carry out this study. The authors acknowledge the participant for their cooperation.
+
+Author contributions SA was involved in concept development, study design, stimulus preparation, analysis of the results, interpretation, and writing the manuscript; PP was involved in concept development and study design, stimulus preparation, and writing the manuscript.
+
+Funding This is a non-funded research.
+
+Availability of data and materials The datasets analyzed during the current study are available from the corresponding author upon reasonable request.
+
+## Declarations
+
+Conflict of interest There is no conflict of interest to disclose.
+
+## References
+
+- 1. Jastreboff PJ, Jastreboff MM (2014) Treatments for decreased sound tolerance (hyperacusis and misophonia). Semin Hear 35:105-120. https://  doi.  org/  10.  1055/s-  0034-  13725  27
+- 2. Palumbo DB, Alsalman O, De Ridder D, et al (2018) Misophonia and potential underlying mechanisms: a perspective. Front Psychol 9:953
+- 3. Sanchez TG, da Silva FE (2018) Familial misophonia or selective sound sensitivity syndrome: evidence for autosomal dominant inheritance? Braz J Otorhinolaryngol 84:553-559
+- 4. Potgieter I, MacDonald C, Partridge L et al (2019) Misophonia: a scoping review of research. J Clin Psychol 75:1203-1218. https:// doi.  org/  10.  1002/  jclp.  22771
+- 5. Jastreboff PJ, Jastreboff MM (2015) Decreased sound tolerance: hyperacusis, misophonia, diplacousis, and polyacousis, 1st edn. Elsevier B.V., Amsterdam
+- 6. Naylor J, Caimino C, Scutt P et al (2021) The prevalence and severity of misophonia in a UK undergraduate medical student population and validation of the Amsterdam Misophonia Scale. Psychiatr Q 92:609-619
+- 7. Jastreboff PJ (2007) Tinnitus retraining therapy. Prog Brain Res 166:415-423
+- 8. Jastreboff PJ (1990) Phantom auditory perception (tinnitus): mechanisms of generation and perception. Neurosci Res 8:221-254
+- 9. Jastreboff MM, Jastreboff PJ (2002) Decreased sound tolerance and tinnitus retraining therapy (TRT). Aust New Zeal J Audiol 24:74-84. https://  doi.  org/  10.  1375/  audi.  24.2.  74.  31105
+- 10. Schröder A, van Wingen G, Eijsker N et al (2019) Misophonia is associated with altered brain activity in the auditory cortex and salience network. Sci Rep 9:1-9. https://  doi.  org/  10.  1038/ s41598-  019-  44084-8
+- 11. Kumar S, Tansley-Hancock O, Sedley W et al (2017) The brain basis for misophonia. Curr Biol 27:527-533. https://  doi.  org/  10. 1016/j.  cub.  2016.  12.  048
+- 12. Neuroscience B, Schröder A, Van Diepen R et al (2014) Diminished N1 auditory evoked potentials to oddball stimuli in misophonia patients. Front Behav Neurosci 8:1-6. https://  doi.  org/  10. 3389/  fnbeh.  2014.  00123
+- 13. San Giorgi R (2015) Hyperactivity in amygdala and auditory cortex in misophonia: preliminary results of a functional magnetic resonance imaging study. Editor Board ABC J Ed 21
+- 14. Schroder AE, Mazaheri A, Petropoulos D et al (2013) P.1.b.005 A diminished mismatch negativity response in misophonia, a potential marker for aggressive impulsivity. Eur Neuropsychopharmacol 23:S177. https://  doi.  org/  10.  1016/  s0924-  977x(13)  70269-4
+- 15. Wu MS, Lewin AB, Murphy TK, Storch EA (2014) Misophonia: Incidence, phenomenology, and clinical correlates in an undergraduate student sample. J Clin Psychol 70:994-1007. https://  doi. org/  10.  1002/  jclp.  22098
+- 16. Schröder A, Vulink N, Denys D (2013) Misophonia: diagnostic criteria for a new psychiatric disorder. PLoS One 8:e54706
+- 17. Brout JJ, Edelstein M, Erfanian M et al (2018) Investigating misophonia: a review of the empirical literature, clinical implications, and a research agenda. Front Neurosci. https://  doi.  org/  10.  3389/ fnins.  2018.  00036
+- 18. Moher D, Liberati A, Tetzlaff J, Altman DG (2009) Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. J Clin Epidemiol 62:1006-1012
+- 19. Whiting PF, Rutjes AWS, Westwood ME et al (2011) Quadas-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med 155:529-536
+- 20. Edelstein M, Brang D, Rouw R, Ramachandran VS (2013) Misophonia: physiological investigations and case descriptions. Front Hum Neurosci 7:1-11. https://  doi.  org/  10.  3389/  fnhum.  2013.  00296
+- 21. Kumar S, Dheerendra P, Erfanian M et al (2021) The motor basis for misophonia. J Neurosci. https://  doi.  org/  10.  1523/  JNEUR  OSCI. 0261-  21.  2021
+- 22. Eijsker N, Schröder A, Liebrand LC et al (2021) White matter abnormalities in misophonia. NeuroImage Clin. https://  doi.  org/ 10.  1016/j.  nicl.  2021.  102787
+
+- 23. Schröder A, van Diepen R, Mazaheri A, et al (2014) Diminished N1 auditory evoked potentials to oddball stimuli in misophonia patients. Front Behav Neurosci 8:1-6
+- 24. Edelstein M, Brang D, Rouw R, Ramachandran VS (2013) Misophonia: physiological investigations and case descriptions. Front Human Neurosci. https://  doi.  org/  10.  3389/  fnhum.  2013.  00296
+- 25. Schröder A, Wingen G van, Eijsker N, et al (2019) Misophonia is associated with altered brain activity in the auditory cortex and salience network. Sci Rep 9:1-9
+- 26. Eijsker N, Schröder A, Smit DJA et al (2019) Neural basis of response bias on the stop signal task in misophonia. Front Psychiatry 10:1-10. https://  doi.  org/  10.  3389/  fpsyt.  2019.  00765
+- 27. Schröder AE, Vulink NC, van Loon AJ, Denys DA (2017) Cognitive behavioral therapy is effective in misophonia: an open trial. J Affect Disord 217:289-294
+- 28. Schröder A, Giorgi RS, Van Wingen G et al (2015) P.1.i.015 Impulsive aggression in misophonia: results from a functional magnetic resonance imaging study. Eur Neuropsychopharmacol 25:S307-S308. https://  doi.  org/  10.  1016/  s0924-  977x(15)  30374-6
+- 29. Schroder AE, Mazaheri A, Petropoulos D et al (2013) P.1.b0005 A diminished mismatch negativity response in misophonia, a potential marker for aggressive impulsivity. Eur Neuropsychopharmacol. 23:S177
+- 30. Brett-Green BA, Miller LJ, Schoen SA, Nielsen DM (2010) An exploratory event-related potential study of multisensory integration in sensory over-responsive children. Brain Res 1321:67-77
+
+Publisher's  Note Springer  Nature  remains  neutral  with  regard  to jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.

@@ -1,0 +1,721 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:International journalofaudiology.
+ArticleTitle: Assessment ofauditoryconditions inmisophonia treatment research: ascopingreview
+ArticleAuthor: Muñoz
+Pages:1-7
+OCLC-60621817; ISSN-14992027; LCN-2006233335;
+Publisher: 2025-02-27
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+International Journal of Audiology
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/iija20
+Assessment of auditory conditions in misophonia
+treatment research: a scoping review
+Karen Muñoz, Doris Velasquez, Makara Humes, Diana Ortiz & Michael P.
+Twohig
+To cite this article: Karen Muñoz, Doris Velasquez, Makara Humes, Diana Ortiz & Michael P.
+Twohig (27 Feb 2025): Assessment of auditory conditions in misophonia treatment research: a
+scoping review, International Journal of Audiology, DOI: 10.1080/14992027.2025.2467768
+To link to this article:  https://doi.org/10.1080/14992027.2025.2467768
+View supplementary material 
+Published online: 27 Feb 2025.
+Submit your article to this journal 
+Article views: 19
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=iija20
+
+REVIEW ARTICLE
+Assessment of auditory conditions in misophonia treatment research: a scoping 
+review
+Karen Mu~noza, Doris Velasqueza, Makara Humesa, Diana Ortiza and Michael P. Twohigb 
+aDepartment of Communicative Disorders and Deaf Education, Utah State University, Logan, UT, USA; bDepartment of Psychology, Utah State 
+University, Logan, UT, USA 
+ABSTRACT 
+Objective: To identify treatment research that used a behavioural approach to treat misophonia as the 
+primary focus of treatment, and the audiological testing included in the research.
+Design: Scoping literature review completed in February 2023 and updated in March 2024.
+Study Sample: Included studies that provided a behavioural or audiological intervention for misophonia, 
+were peer-reviewed, and published in English before February 29, 2024. Studies were excluded if a 
+pharmacological treatment was provided, if misophonia was not the primary treatment target, or if the 
+assessment of misophonia severity was not a treatment outcome.
+Results: Fifteen articles met the inclusion criteria. Six studies had paediatric participants and nine had 
+adult participants. Three studies included the identification of audiological comorbidities including hear -
+ing ability, hyperacusis, and/or tinnitus in their assessment process. Nine of the studies included assess -
+ment for psychological comorbidities. For the different psychological treatment approaches, misophonia 
+severity scores decreased from baseline from 19% to 83%.
+Conclusions: There is a need for misophonia research to identify audiological comorbidities and to pro-
+vide evidence-based guidance for addressing them within treatment. Symptoms often appear during 
+childhood and individuals with misophonia would benefit from timely assessment and interdisciplinary 
+coordination to address broader patient impacts in the treatment process.ARTICLE HISTORY 
+Received 15 June 2024 
+Revised 21 November 2024 
+Accepted 7 February 2025 
+KEYWORDS 
+Adult; hearing; misophonia; 
+paediatric; treatment   
+Introduction
+Misophonia is a sound tolerance disorder characterised by an 
+intense emotional reaction (e.g. anger, irritation, disgust) to spe-
+cific sounds that trigger their reaction, including repetitive 
+sounds such as eating, breathing, and tapping (Swedo et al. 
+2022 ). This condition was first described by audiologist Marsha 
+Johnson in 1990 (Bernstein, Angell, and Dehle 2013 ), and in 
+2001 the term misophonia was introduced (Jastreboff and 
+Jastreboff 2002 ). Research on underlying mechanisms influencing 
+misophonia is evolving, and early models are emerging to 
+explain the pathway for activation of the distressing emotional 
+response. Recently a social cognitive model was proposed based 
+on neuroimaging studies and the social context of the perceived 
+sound source and the role this plays in the strength of the 
+response to the trigger (Berger, Gander, and Kumar 2024 ). 
+Notably, individuals with misophonia often have hearing thresh -
+olds within normal limits (Jager et al. 2020a ) and objective tests 
+of the auditory system have been found to exhibit no differences 
+between individuals with and without misophonia (e.g. Aryal 
+and Prabhu 2023a ; Suraj, Venkateswaran, and Prabhu 2024 ). 
+Current and future research on the neurophysiological mecha -
+nisms involved and how they are similar or different among peo-
+ple suffering from misophonia will inform and refine future 
+approaches to treatment. A recent consensus definition of miso -
+phonia (Swedo et al. 2022 ) recognised that misophonia can co- exist with other conditions, including auditory, neurological or 
+psychiatric conditions, and for individuals with misophonia, their 
+symptoms of misophonia should not be better explained by a co- 
+morbid condition.
+Identification of co-morbid conditions represents an impor -
+tant step in providing individuals seeking treatment with coordi -
+nated and comprehensive care, suggesting a need for an 
+interdisciplinary approach for assessment and treatment plan -
+ning. Psychological comorbidities include disorders such as 
+depression, anxiety, (Ferrer-Torres and Gim�enez-Llort 2022 ) 
+attention-deficit hyperactivity disorder (Rouw and Erfanian 
+2018 ), as well as other psychiatric disorders. Auditory comorbid -
+ities have been found with tinnitus and hyperacusis (Jastreboff 
+and Jastreboff 2015 ); however, findings vary among studies, rais-
+ing questions about the prevalence of auditory co-morbidities 
+and how they impact an individual’s experience with misopho -
+nia, that are not yet clearly defined. For example, hyperacusis 
+can be measured by self-report questionnaires and by measure -
+ment of loudness discomfort level (LDL) for discrete tones. A 
+recent study that compared LDLs among three groups (i.e. miso -
+phonia, auditory over-responsivity, and health controls) found 
+no statistically significant differences in LDLs among the groups 
+(Siepsiak et al. 2022 ). Yet in another study of individuals with 
+misophonia, 71% self-reported hyperacusis (Enzler et al. 2021 ).
+Currently, there are no universally accepted diagnostic criteria 
+for misophonia; however, it is commonly assessed using 
+CONTACT Karen Mu~noz 
+ karen.munoz@usu.edu 
+ Department of Communicative Disorders and Deaf Education, Utah State University, 1000 Old Main Hill, 
+Logan, UT 84321, USA. 
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/14992027.2025.2467768. 
+ß!2025 British Society of Audiology, International Society of Audiology, and Nordic Audiological Society
+INTERNATIONAL JOURNAL OF AUDIOLOGY 
+https://doi.org/10.1080/14992027.2025.2467768
+
+questionnaires and/or a structured interview process developed 
+to determine severity of and response to trigger sounds. People 
+seeking help for coping with their symptoms typically seek out 
+services from audiology, psychology, and psychiatry. The preva -
+lence of clinically significant misophonia is unclear for children 
+and adults. A recent study found 20% of college students experi -
+enced distress from misophonia (Brennan et al. 2024 ) and a 
+population-based sample in Germany aged 16 and older found 
+34% reported misophonic sound sensitivities (Pfeiffer, Allroggen, 
+and Sachser 2025 ). Misophonia typically emerges in childhood 
+and impairment often continues in adulthood (Jager et al. 
+2020a ). While the cause of misophonia is not yet known, the 
+impact on daily life is significant and can lead to maladaptive 
+ways of coping including social isolation (Brout et al. 2018 ).
+To address the impacts of misophonia and help people man -
+age their response to trigger sounds different approaches have 
+been used, including psychological and pharmacological inter -
+ventions (Mattson et al. 2023 ), tinnitus retraining therapy 
+(Jastreboff and Jastreboff 2015 ), and technology to mask trigger 
+sounds (Bernstein, Angell, and Dehle 2013 ; Zitelli 2021 ). In a 
+recent systematic review with misophonia as the primary or sec-
+ondary focus of psychological and/or pharmacological treatment 
+(Mattson et al. 2023 ) the authors concluded that while the inter -
+ventions showed potential, there currently is no clear treatment 
+recommendation for misophonia. Furthermore, the authors 
+established that there was a lack of rigour and comparative stud -
+ies in the research, as well as limitations with sample size and 
+replication. One of the treatment studies used tinnitus retraining 
+therapy and identified 28% of their sample with hyperacusis 
+(Jastreboff and Jastreboff 2014 ). Research does not yet have a 
+clear answer for how co-morbid auditory disorders influence the 
+treatment process. The current scoping review extends on the 
+Mattson et al. (2023 ) study by identifying the status of assess -
+ment of auditory conditions in misophonia treatment research to 
+provide additional context.
+Therefore, the purpose of this scoping review was to identify 
+and describe treatment research that used a behavioural 
+approach to treat misophonia as the primary focus of treatment, 
+and the auditory conditions assessed for in the research. This 
+scoping review contributes to the literature by providing infor -
+mation on gaps that exist in assessing for co-morbid auditory 
+conditions in misophonia treatment research for paediatric and 
+adult populations. This information can help guide interdiscipli -
+nary collaboration between behavioural/psychological and audio -
+logical fields.
+Methods
+The design for this study was a scoping literature review. 
+Scoping reviews identify key concepts and research gaps using a 
+systematic process.
+Eligibility criteria
+A scoping literature review was completed in February 2023 and 
+updated in March 2024 following guidance from the Joanna 
+Briggs Institute (Peters et al. 2022 ). To be included, the studies 
+were in peer-reviewed publications, provided behavioural or 
+audiological intervention for misophonia, and were published in 
+English before February 29, 2024. Studies were excluded if a 
+pharmacological treatment was provided, if misophonia was not 
+the primary treatment target, or if insufficient data were pro-
+vided on misophonia treatment outcomes (e.g. outcomes were not measured post-treatment, a misophonia severity measure was 
+not used).
+Search strategy
+To identify potentially relevant articles, three databases were 
+searched (MEDLINE, CINAHAL Complete and PsycINFO all via 
+EBSCOhost) using the following keywords: 1. (misophonia OR 
+sound-tolerance); 2. (intervention OR treatment OR hearing OR 
+audiol�). An overarching search string was created that incorpo -
+rated the keywords for the database (see Appendix A for search 
+queries).
+Data extraction
+Three authors (DV, MH, and DO) developed a data charting 
+form prior to completing the literature search. The articles were 
+screened for inclusion independently by two authors (DV, MH). 
+First, a title and abstract screening was conducted. The authors 
+met to discuss and resolve any discrepancies in selected articles. 
+In the event of disagreement over inclusion, a third author (DO) 
+reviewed the article in question. Second, a full text screening was 
+completed (DV, MH), and reference lists of included articles 
+were reviewed (DV, MH) to identify additional articles for con-
+sideration. Third, two authors (KM, DV) independently reviewed 
+articles using Joanna Briggs methodological quality checklists 
+that were available for the study designs (Gagnier et al. 2013 ; 
+Munn et al. 2020 ; Barker et al. 2023 ).
+Analysis
+Study details were extracted and entered in an Excel spreadsheet 
+(i.e. publication date, first author, study design, participant infor -
+mation, outcome measure(s), treatment information, and audio -
+logical tests). The articles were divided into two groups to show 
+the status of assessing for auditory conditions based on partici -
+pant age (i.e. paediatric [under 18years] and adult [18years and 
+older]) and narratively synthesised.
+Results
+The database search identified 934 articles after duplicates were 
+removed. Title and abstract screening excluded 885, one article 
+could not be accessed, and 34 were excluded during full-text 
+screening. One article was identified from the reference list 
+review; a total of 15 articles met the eligibility criteria for inclu -
+sion (see Figure 1for the PRISMA [Preferred Reporting Items 
+for Systematic reviews and Meat-Analyses] flowsheet). Six studies 
+had paediatric participants (Table 1) and nine had adult partici -
+pants (Table 2).
+Paediatric
+The six studies with paediatric participants were case reports. 
+The children and adolescents ranged in age from 10 to 17years. 
+Misophonia onset reported in five of the studies was from 
+approximately age 5 to 11years. The Amsterdam Misophonia 
+Scale (AMISO-S) and/or the Misophonia Questionnaire (MQ) 
+were used to measure severity. All the studies provided psycho -
+logical interventions and decreases in severity were found post- 
+treatment. Psychological comorbidities were assessed for in all 2
+ K. MUÑOZ ET AL.
+
+six of the studies. Only one study assessed for audiological 
+comorbidities; hyperacusis was included using the Hyperacusis 
+Questionnaire (Khalfa et al. 2002 ) and no evidence of hyperacu -
+sis was identified (Cecilione, Hitti, and Vrana 2022 ).Three case studies used a mindfulness and acceptance-based 
+approach, Acceptance and Commitment Therapy (ACT) and 
+Dialectical Behavioural Therapy (DBT) (Schneider and Arch 
+2017 ; Zarotti, Tuthill, and Fisher 2022 ; Petersen and Twohig 
+Figure 1. PRISMA flowchart for article inclusion.
+Table 1. Paediatric misophonia treatment studies.
+Author 
+Year DesignSample size
+genderageMisophonia  
+measuresMisophonia  
+change�Treatment  
+approach Sessions
+Petersen 
+2023Case report 1 F 
+12yearsAMISO-S 50% ACT 16
+Zarotti 
+2022Case report 1 F 
+16yearsAMISO-S 41% DBT, ACT, 15
+Cecilione 
+2022Case report 1 F 
+12yearsMQ 42% CBT 24
+Dover 
+2023Case report 1 F 
+10yearsAMISO-S 
+MQ70% (AMISO-S) 
+78% (MQ)CBT 23
+Schneider 
+2017Case report 1 M 
+17yearsAMISO-S 57% ACT, DBT 10
+McGuire 2015 Case report 2 F 
+17 / 11yearsMQ 33% (case 1) 
+19% (case 2)CBT 10-18
+F: female; M: male; AMISO-S: Amsterdam Misophopnia Scale; MQ: Misophonia Questionnaire; CBT: Cognitive Behavioural Therapy; DBT: Dialectical Behaviour Therapy; 
+ACT: Acceptance and Commitment Therapy
+�Misophonia change refers to the percent decrease in the misophonia severity from pre-treatment to post-treatment.INTERNATIONAL JOURNAL OF AUDIOLOGY
+ 3
+
+2023 ). Two studies provided online treatment (Zarotti, Tuthill, 
+and Fisher 2022 ; Petersen and Twohig 2023 ). Three case studies 
+used Cognitive Behavioural Therapy (CBT) (McGuire, Wu and 
+Storch 2015 ; Cecilione, Hitti, and Vrana 2022 ; Dover and 
+McGuire 2023 ). One study used a family-based approach and 
+found family accommodations decreased by 75% from a high 
+level of accommodation at pre-treatment (Dover and McGuire 
+2023 ). One study measured treatment gains beyond post- 
+treatment and improvements were maintained at six months 
+(Schneider and Arch 2017 ).
+Adult
+The nine studies with adult participants used various research 
+designs and different measures were used to assess severity, 
+including AMISO-S, MQ, Amsterdam Misophonia Scale – 
+Revised (AMISO-R), Misophonia Assessment Questionnaire 
+(MAQ), and/or Selective Sound Sensitivity Syndrome Study 
+(SFive), and some also used Clinical Global Impressions 
+Improvement (CGI-I). Psychological comorbidities were assessed 
+for in three studies and other medical comorbidities (i.e. 
+migraine, irritable bowel, hyperthyroidism) were reported in one 
+study. Two studies assessed for audiological comorbidities. 
+Vanaja and Abigail (2020 ) used a retraining treatment and 
+assessed hearing ability and findings were within normal limits 
+with no evidence of hyperacusis based on measurement of loud -
+ness discomfort levels, although there was a previous diagnosis 
+of hyperacusis by another clinic. Jager et al. (2020b ) used a CBT 
+treatment and self-report to assess hearing ability, tinnitus, and 
+hyperacusis; three participants had previously been diagnosed 
+with tinnitus and no other hearing problems were reported.
+Open trial and randomized controlled trial (RCT)
+The open trial (Schr oder et al. 2017 ) and the RCT (Jager et al. 
+2020b ) excluded individuals with significant comorbid condi -
+tions. The age of misophonia onset was 12.5 years (SD 4.8) in 
+the open trial, and was not reported in the RCT. At the end of 
+treatment for the open trail, 48% met the criteria for response to 
+treatment, defined as a 30% or greater reduction on the AMISO- 
+S and a score of 1 or 2 (very much improved; much improved) on the Clinical Global Impressions Improvement (CGI-I); no fol-
+low-up assessment was completed. For the RCT, the AMISO-R 
+showed a large effect size (d1.97) in the treatment group com -
+pared to the wait list for the decrease in misophonia severity, 
+and on the CGI-I, 37% of the treatment showed a clinical 
+response for misophonia, compared to 0% in the wait list group, 
+and these improvements maintained at the one-year follow-up.
+Single subject design
+This study used a multiple baseline design across trigger stimuli 
+(Dozier 2015a ). The participant experienced triggers from both 
+auditory and visual stimuli for their misophonia and reported 
+misophonia onset at age seven. The treatment was behavioural 
+counterconditioning, a technique used for Post-Traumatic Stress 
+Disorder (PTSD) and was delivered remotely. Misophonia sever -
+ity decreased from a moderate to a mild level for auditory trig-
+gers based on the Misophonia Assessment Questionnaire 
+(MAQ). This case treated single triggers in one context, and it is 
+not clear if the treatment would be as effective if multiple trig-
+gers were present or if they occurred in different contexts.
+Case series
+In the study conducted by Jager et al. (2021 ), seven participants 
+completed the treatment. The mean age of onset was 13years 
+(SD 9.75), and individuals with significant comorbid condi -
+tions were excluded from participation. Participants received Eye 
+Movement Desensitisation & Reprocessing Therapy (EMDR), 
+which focused on misophonia memories that were emotionally 
+disturbing. Number of sessions varied by the number of target 
+memories for the person and ranged from one to four sessions. 
+Two participants (28%) met the criteria for a full response to 
+treatment, defined as a 25% or more reduction measured by the 
+AMISOS-R and a CGI-I score of less than three. In the case ser-
+ies conducted by Gregory, Graham, and Hayes (2024 ) 19 con-
+secutive cases were retrospectively reviewed for patients who 
+completed CBT treatment. Session length and treatment compo -
+nents varied, and age of onset was not reported. The MQ and 
+AMISO-S both had a large effect size for pre-treatment to fol-
+low-up changes, with Cohen’s d of 1.63 and 1.55 respectively. 
+Reliable improvement on the MQ was found for 78% of the Table 2. Adult misophonia treatment studies.
+Author 
+Year DesignSample size
+genderageMisophonia  
+MeasuresMisophonia  
+ChangeTreatment  
+approach Sessions
+Gregory 
+2024Case series 19 F/M 
+17.6–51 yearsMQ 
+AMISO-S38% (MQ) 
+40% (AMISO-S)CBT 5–19
+Gregory 
+2023Case report 1 F 
+24yearsSFive 83% CBT 5
+Jager 
+2021Case series 7 F/M 
+18–56 yearsAMISOS-R  
+CGI-I28% had �25% (AMISO-S) and CGI-ID3 EMDR 1–4
+Jager 
+2020 bRCT 54 F/M 
+18–70 yearsAMISOS-R 
+CGI-I9.7 mean decrease (AMISO-S) 
+37% CBT, 0% wait list (CGI-I)CBT 7
+Vanaja 
+2020Case report 1 F 
+26yearsAMISO-S 65% Retraining 28
+Altınoz 
+2018Case report 1 F 
+18yearsAMISO-S 64% CBT 6
+Schroder 
+2017Open trial 90 F/M 
+18–64 yearsAMISO-S 
+CGI-I48% had �30% (AMISO-S) and CGI-ID3 CBT 8
+Dozier a 
+2015SSD 1 F 
+48yearsMAQ 93% Counter-conditioning 14
+Dozier b 
+2015Case report 1F 
+21yearsMAQ 75% NRT 4–6
+RCT: randomised controlled trial; SSD: single subject design; F: female; M: male; AMISO-S: Amsterdam Misophopnia Scale; MQ: Misophonia Questionnaire; AMISOS-R: 
+Revised Amsterdam Misophopnia Scale; CGI-I: Clinical Global Impressions Improvement; MAQ: Misophonia Assessment Questionnaire; CBT: Cognitive Behavioural 
+Therapy; EMDR: Eye Movement Desensitisation & Reprocessing Therapy; NRT: Neural Repatterning Technique.4
+ K. MUÑOZ ET AL.
+
+participants, and 61% were deemed to have clinically significant 
+changes.
+Case reports
+Three different approaches to treatment were used, including 
+retraining therapy with desensitisation and habituation (Vanaja 
+and Abigail 2020 ), CBT (Altın oz, Unal, and Tosun Altın oz 2018 ; 
+Gregory and Foster 2023 ), and counterconditioning (Neural 
+Repatterning Technique [NRT]) with treatments conducted inde -
+pendently using a smart phone app plus four sessions with the 
+therapist (Dozier 2015b ). The smart phone app treatment was 
+developed based on a previous study by the same author (Dozier 
+2015a ). Age of onset ranged from approximately six to 24years. 
+All cases reported decreased misophonia severity after treatment. 
+One decreased from a severe to a mild level on the AMISO-S 
+with results that maintained at three months follow-up (Vanaja 
+and Abigail 2020 ). Another decreased from a moderate to a sub- 
+clinical level at post-treatment (no follow-up assessment com -
+pleted) on the AMISO-S (Altın oz, Unal, and Tosun Altın oz 
+2018 ). In another, auditory triggers decreased from a severe to a 
+mild level (visual triggers remained) on the MAQ and gains 
+were maintained at the 12-month follow-up (Dozier 2015b ). 
+Gregory and Foster (2023 ) used the SFive to measure outcomes 
+and described meaningful changes from one session to the next, 
+and found scores decreased 83% from “significantly burdensome 
+symptoms” at pre-treatment.
+Discussion
+The purpose of this scoping review was to identify and describe 
+treatment research that used a behavioural approach to treat 
+misophonia as the primary focus of treatment, and the audio -
+logical testing included in the research. Only three studies 
+assessed for auditory conditions. One case report with an adult 
+participant completed an audiological test battery finding pure 
+tone thresholds within normal limits, excellent word recognition 
+in quiet, and a determination of no hyperacusis (Vanaja and 
+Abigail 2020 ). One case report with a paediatric participant 
+assessed for hyperacusis with a negative finding (Cecilione, Hitti, 
+and Vrana 2022 ). One randomized clinical trial (Jager et al. 
+2020b ) completed auditory assessments but did not incorporate 
+the auditory findings in the treatment process. How auditory co- 
+morbid conditions should be considered within misophonia 
+treatment research is unknown. The gap in research represents 
+an opportunity to expand the understanding of auditory co-mor -
+bidities in future misophonia treatment research.
+The misophonia treatment research to date is limited. Two- 
+thirds of the studies in this review were case reports. The retro -
+spective nature of describing a single case has risk of bias from 
+focusing on a single unusual case or outcome. It is not possible 
+to determine a cause-effect relationship from the treatment and 
+the results cannot be generalised to others. There was one RCT 
+and outcomes were compared to individuals on a waiting list (no 
+treatment) and evaluator bias may have influenced the clinical 
+interview because they were aware of the treatment condition. 
+Future studies are needed that include (a) independent evalua -
+tors, (b) an active control group to identify treatment factors 
+associated with symptom reduction, including treatment type, 
+duration, and delivery considerations, (c) identification of 
+comorbid conditions (e.g. psychological and audiological), (d) 
+inclusion of audiological testing and description of parameters 
+used to define and characterise auditory considerations, and (e) and more research with children and adolescents to inform prac -
+tice protocols given gaps in protocol guidance for hyperacusis 
+and tinnitus assessment.
+Researchers have identified the need for comprehensive 
+assessment that involves a team of professionals (Schr oder et al. 
+2017 ; Palumbo et al. 2018 , Ferrer-Torres and Gim�enez-Llort 
+2022 ), including audiologists (Aryal and Prabhu 2023b ). 
+Identification of comorbid conditions is needed to understand 
+the issues influencing an individual’s experience with misophonia 
+and to inform treatment planning. Aryal and Prabhu (2023b ) 
+recommended including objective hearing assessment measures 
+to support the evaluation and treatment process along with the 
+subjective measures used to determine misophonia severity. 
+Studies have reported co-occurrence of tinnitus and hyperacusis 
+with misophonia (Siepsiak and Dragan 2019 ; Brennan et al. 
+2024 ), and Jastreboff and Jastreboff (2015 ) recommend treating 
+hyperacusis first when it is present. There is a need to under -
+stand the complex relationships among auditory conditions and 
+misophonia and to determine how they influence treatment. For 
+example, in a sample of children with auditory processing disor -
+ders, 13% also had misophonia and these children were more 
+likely to also have hyperacusis and/or tinnitus (Ahmmed and 
+Vijayakumar 2024 ). There are critical practice implications 
+related to the age of misophonia onset, timely initiation of treat -
+ment, and the need for interdisciplinary collaboration.
+Although there is limited treatment research, the studies to 
+date support the importance of timely assessment and manage -
+ment of misophonia. Most of the participants in this review 
+reported childhood onset, as young as five years (e.g. Petersen 
+and Twohig 2023 ), underscoring the need for validated assess -
+ment tools for the paediatric population. Importantly, studies 
+described symptoms worsening and having additional triggers 
+over time (e.g. Dozier 2015a ), increasing risk for negative conse -
+quences such as isolation and emotional distress. These trends of 
+childhood onset and increasing symptoms over time were also 
+found in a large study of misophonia (N575; onset age 
+M13.17 [SD 7.37]; Jager at al. 2020b). Family engagement 
+in management can provide an important source of support as 
+individuals learn effective coping strategies. One study with a 
+paediatric patient used a family-based approach and family 
+members learned to be adaptive rather than reactive, such as 
+implementing catchphrases to help the child use coping strategies 
+in daily life (Dover and McGuire 2023 ). In another study with a 
+paediatric patient, the mother participated in the last ten minutes 
+of each session to support homework engagement between ses-
+sions (Petersen and Twohig 2023 ), and one group treatment 
+study included family and friends in one psychoeducation ses-
+sion (Jager et al. 2020b ).
+There are important clinical implications for promoting an 
+interdisciplinary approach within practice. When audiology is 
+the point of entry for care, there is the risk that consideration 
+for psychological comorbid conditions may be overlooked, and 
+treatment may not adequately take into consideration the influ -
+ence of behavioural coping mechanisms on quality of life. For 
+example, a narrow focus on sound attenuation (e.g. use of ear-
+plugs) to help an individual eat dinner with their family would 
+limit sound tolerance and emotional adjustment to the distress 
+by reinforcing avoidance of the trigger sounds (Lewin et al. 
+2021 ). Determining the balance for when and how to use strat -
+egies is important for longer-term management. Individuals suf-
+fering from misophonia seek services from audiologists. There is 
+a need for clinical protocols in audiology to guide practice. 
+Furthermore, comprehensive assessment and interdisciplinary INTERNATIONAL JOURNAL OF AUDIOLOGY
+ 5
+
+collaboration allow for an approach to treatment that can target 
+the needs of each individual.
+There are limitations to consider for the study, including the 
+search focused on behaviour interventions provided for misopho -
+nia as the primary concern. Other research that treated misopho -
+nia as a secondary concern with another condition was not 
+reviewed. This could have limited our understanding of how 
+auditory co-morbidities have been considered in treatment 
+research. Furthermore, only studies published in English were 
+reviewed.
+Conclusion
+Misophonia treatment research is limited; however, the early 
+research is promising and demonstrates people suffering from 
+misophonia can experience improvement with treatment. There 
+is an urgent need for research to identify treatment factors asso-
+ciated with symptom reduction to provide evidence-based guid -
+ance for evaluating and treating misophonia. Individuals with 
+misophonia can have co-occurring conditions that would benefit 
+from interdisciplinary coordination to address broader patient 
+impacts in the treatment process.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This project was partially supported by a grant from the Misophonia 
+Research Fund.
+Data availability statement
+The datasets generated during and analysed during the current study 
+are available from the corresponding author on reasonable request.
+References
+Ahmmed, A., and S. Vijayakumar. 2024. “A Retrospective Study 
+Distinguishing Between Hyperacusis and Misophonia in Children with 
+Auditory Processing Disorder (APD).” International Journal of Pediatric 
+Otorhinolaryngology 186: 112–119. https://doi.org/10.1016/j.ijporl.2024. 
+112119.
+Altın oz, A. E., N. E. Unal, and S¸. Tosun Altın oz. 2018. “The Effectiveness of 
+Cognitive Behavioral Psychotherapy in Misophonia: A Case Report.” 
+Journal of Clinical Psychiatry 21 (4):414–417. https://doi.org/10.5505/kpd. 
+2018.18480.
+Aryal, S., and P. Prabhu. 2023a. “Auditory Brainstem Functioning in 
+Individuals with Misophonia.” Journal of Otology 18 (3):139–145. https:// 
+doi.org/10.1016/j.joto.2023.05.006.
+Aryal, S., and P. Prabhu. 2023b. “Understanding Misophonia from an 
+Audiological Perspective: A Systematic Review.” European Archives of Oto- 
+Rhino-Laryngology: official Journal of the European Federation of Oto- 
+Rhino-Laryngological Societies (EUFOS): Affiliated with the German Society 
+for Oto-Rhino-Laryngology - Head and Neck Surgery 280 (4):1529–1545. 
+https://doi.org/10.1007/s00405-022-07774-0.
+Barker, T. H., J. C. Stone, K. Sears, M. Klugar, C. Tufanaru, J. Leonardi-Bee, 
+E. Aromataris, and Z. Munn. 2023. “The Revised JBI Critical Appraisal 
+Tool for the Assessment of Risk of Bias for Randomized Controlled 
+Trials.” JBI Evidence Synthesis 21 (3):494–506. https://doi.org/10.11124/ 
+JBIES-22-00430.
+Berger, J. L., P. E. Gander, and S. Kumar. 2024. “A Social Cognition 
+Perspective on Misophonia.” Philosophical Transactions of the Royal 
+Society of London. Series B, Biological Sciences 379 (1908):20230257. 
+https://doi.org/10.1098/rstb.2023.0257.Bernstein, R. E., K. L. Angell, and C. M. Dehle. 2013. “A Brief Course of 
+Cognitive Behavioural Therapy for the Treatment of Misophonia: A Case 
+Example.” The Cognitive Behaviour Therapist 6:e10. https://doi.org/10. 
+1017/S1754470X13000172.
+Brennan, C. R., R. R. Lindberg, G. Kim, A. A. Castro, R. A. Khan, H. 
+Berenbaum, and F. T. Husain. 2024. “Misophonia and Hearing 
+Comorbidities in a Collegiate Population.” Ear and Hearing 45 (2):390– 
+399. https://doi.org/10.1097/AUD.0000000000001435.
+Brout, J. J., M. Edelstein, M. Erfanian, M. Mannino, L. J. Miller, R. Rouw, S. 
+Kumar, and M. Z. Rosenthal. 2018. “Investigating Misophonia: A Review 
+of the Empirical Literature, Clinical Implications, and a Research 
+Agenda.” Frontiers in Neuroscience 12:36. https://doi.org/10.3389/fnins. 
+2018.00036.
+Cecilione, J. L., S. A. Hitti, and S. R. Vrana. 2022. “Treating Adolescent 
+Misophonia With Cognitive Behavioral Therapy: Considerations for 
+Including Exposure.” Clinical Case Studies 21 (3):175–191. https://doi.org/ 
+10.1177/15346501211045707.
+Dover, N., and J. F. McGuire. 2023. “Family-Based Cognitive Behavioral 
+Therapy for Youth With Misophonia: A Case Report.” Cognitive and 
+Behavioral Practice 30 (1):169–176. https://doi.org/10.1016/j.cbpra.2021.05. 
+005.
+Dozier, T. H. 2015a. “Counterconditioning Treatment for Misophonia.” Clinical 
+Case Studies 14 (5):374–387. https://doi.org/10.1177/1534650114566924.
+Dozier, T. H. 2015b. “Treating the Initial Physical Reflex of Misophonia 
+With the Neural Repatterning Technique: A Counterconditioning 
+Procedure.” Psychological Thought 8 (2):189–210. https://doi.org/10.5964/ 
+psyct.v8i2.138.
+Enzler, F., C. Loriot, P. Fournier, and A. J. Nore ~na. 2021. “A psychoacoustic 
+test for misophonia assessment.” Scientific Reports 11 (1):11044 . https:// 
+doi.org/10.1038/s41598-021-90355-8.
+Ferrer-Torres, A., and L. Gim�enez-Llort. 2022. “Misophonia: A Systematic 
+Review of Current and Future Trends in This Emerging Clinical Field.” 
+International Journal of Environmental Research and Public Health 19 
+(11):6790. https://doi.org/10.3390/ijerph19116790.
+Gagnier, J. J., G. Kienle, D. G. Altman, D. Moher, H. Sox, and D. Riley, 
+CARE Group 2013. “The CARE Guidelines: Consensus-Based Clinical 
+Case Reporting Guideline Development. Headache: The.” Headache: The 
+Journal of Head and Face Pain 53 (10):1541–1547. https://doi.org/10.1111/ 
+head.12246.
+Gregory, J., and C. Foster. 2023. “Session-By-Session Change in Misophonia: A 
+Descriptive Case Study Using Intensive CBT.” Cognitive Behaviour Therapist 
+16 (e18):s1754470x23000107. https://doi.org/10.1017/S1754470X23000107.
+Gregory, J., T. Graham, and B. Hayes. 2024. “Targeting Beliefs And 
+Behaviors In Misophonia: A Case Series from a UK Specialist Psychology 
+Service.” Behavioural and Cognitive Psychotherapy 52 (1):33–48. https:// 
+doi.org/10.1017/S1352465823000462.
+Jager, I., P. de Koning, T. Bost, D. Denys, and N. Vulink. 2020a. 
+“Misophonia: Phenomenology, Comorbidity and Demographics in a Large 
+Sample.” PloS One 15 (4):e0231390. https://doi.org/10.1371/journal.pone. 
+0231390.
+Jager, I. J., N. C. C. Vulink, I. O. Bergfeld, A. J. J. M. Loon, and D. A. J. P. 
+Denys. 2020b. “Cognitive Behavioral Therapy for Misophonia: A 
+Randomized Clinical Trial.” Depression and Anxiety 38 (7):708–718. 
+https://doi.org/10.1002/da.23127.
+Jager, I., N. Vulink, C. De Roos, and D. Denys. 2021. “EMDR Therapy for 
+Misophonia: A Pilot Study of Case Series.” European Journal of 
+Psychotraumatology 12 (1):1968613. https://doi.org/10.1080/20008198.2021. 
+1968613.
+Jastreboff, M. M., and P. J. Jastreboff. 2002. “Decreased Sound Tolerance and 
+Tinnitus Retraining Therapy (TRT).” Australian and New Zealand Journal 
+of Audiology 24 (2):74–84. https://search.informit.org/doi/10.3316/informit. 
+830321871955412. https://doi.org/10.1375/audi.24.2.74.31105.
+Jastreboff, P. J., and M. M. Jastreboff. 2014. “Treatments for Decreased 
+Sound Tolerance (Hyperacusis and Misophonia).” Seminars in Hearing 35 
+(02):105–120. https://doi.org/10.1055/s-0034-1372527.
+Jastreboff, P. J., and M. M. Jastreboff. 2015. “Decreased Sound Tolerance.” In 
+Handbook of Clinical Neurology, Vol. 129, 375–387. Elsevier. https://doi. 
+org/10.1016/B978-0-444-62630-1.00021-4.
+Khalfa, S., S. Dubal, E. Veuillet, F. Perez-Diaz, R. Jouvent, and L. Collet. 
+2002. “Psychometric Normalization of a Hyperacusis Questionnaire.” 
+ORL; Journal for Oto-Rhino-Laryngology and Its Related Specialties 64 (6): 
+436–442. https://doi.org/10.1159/000067570.
+Lewin, A. B., S. Dickinson, K. Kudryk, A. R. Karlovich, S. L. Harmon, D. A. 
+Phillips, N. A. Tonarely, R. Gruen, B. Small, and J. Ehrenreich-May. 2021. 
+“Transdiagnostic Cognitive Behavioral Therapy for Misophonia in Youth: 
+Methods for a Clinical Trial and Four Pilot Cases.” Journal of Affective 
+Disorders 291:400–408. https://doi.org/10.1016/j.jad.2021.04.027.6
+ K. MUÑOZ ET AL.
+
+Mattson, S. A., J. D’Souza, K. D. Wojcik, A. G. Guzick, W. K. Goodman, and 
+E. A. Storch. 2023. “A Systematic Review of Treatments for Misophonia.” 
+Personalized Medicine in Psychiatry 39-40:100104. https://doi.org/10.1016/ 
+j.pmip.2023.100104.
+McGuire, J. F., M. S. Wu, and E. A. Storch. 2015. “Cognitive-Behavioral 
+Therapy for 2 Youths With Misophonia: (Case Report).” The Journal of 
+Clinical Psychiatry 76 (5):573–574. https://doi.org/10.4088/JCP.14cr09343.
+Munn, Z., T. H. Barker, S. Moola, C. Tufanaru, C. Stern, A. McArthur, M. 
+Stephenson, and E. Aromataris. 2020. “Methodological Quality of Case 
+Series Studies: An Introduction to the JBI Critical Appraisal Tool.” JBI 
+Evidence Synthesis 18 (10):2127–2133.
+Palumbo, D. B., O. Alsalman, D. De Ridder, J.-J. Song, and S. Vanneste. 
+2018. “Misophonia and Potential Underlying Mechanisms: A Perspective.” 
+Frontiers in Psychology 9:953. https://doi.org/10.3389/fpsyg.2018.00953.
+Peters, M. D. J., C. Godfrey, P. McInerney, H. Khalil, P. Larsen, C. Marnie, D. 
+Pollock, A. C. Tricco, and Z. Munn. 2022. “Best Practice Guidance and 
+Reporting Items for the Development of Scoping Review Protocols.” JBI 
+Evidence Synthesis 20 (4):953–968. https://doi.org/10.11124/JBIES-21-00242.
+Petersen, J. M., and M. P. Twohig. 2023. “Acceptance and Commitment 
+Therapy for a Child with Misophonia: A Case Study.” Clinical Case 
+Studies 22 (3):211–223. https://doi.org/10.1177/15346501221126136.
+Pfeiffer, E., M. Allroggen, and C. Sachser. 2025. “The Prevalence of 
+Misophonia in a Representative Population-Based Survey in Germany.” 
+Social Psychiatry and Psychiatric Epidemiology 60 (1):257–264. online 
+ahead of print https://doi.org/10.1007/s00127-024-02707-0.
+Rouw, R., and M. Erfanian. 2018. “A Large-Scale Study of Misophonia.” 
+Journal of Clinical Psychology 74 (3):453–479. https://doi.org/10.1002/jclp. 
+22500.
+Schneider, R. L., and J. J. Arch. 2017. “Case Study: A Novel Application of 
+Mindfulness- and Acceptance-Based Components to Treat Misophonia.” 
+Journal of Contextual Behavioral Science 6 (2):221–225. https://doi.org/10. 
+1016/j.jcbs.2017.04.003.
+Schr oder, A. E., N. C. Vulink, A. J. Van Loon, and D. A. Denys. 2017. 
+“Cognitive Behavioral Therapy is Effective in Misophonia: An Open Trial.” Journal of Affective Disorders 217:289–294. https://doi.org/10.1016/j. 
+jad.2017.04.017.
+Siepsiak, M., and W. Dragan. 2019. “Misophonia – A Review of Research 
+Results and Theoretical Concepts.” Psychiatria Polska 53 (2):447–458. 
+https://doi.org/10.12740/PP/92023.
+Siepsiak, M., M. Z. Rosenthal, D. Raj-Koziak, and W. Dragan. 2022. 
+“Psychiatric and Audiologic Features of Misophonia: Use of a Clinical 
+Control Group with Auditory Over-Responsivity.” Journal of 
+Psychosomatic Research 156:110777. https://doi.org/10.1016/j.jpsychores. 
+2022.110777.
+Suraj, U., N. Venkateswaran, and P. Prabhu. 2024. “Normal Linear and Non- 
+Linear Cochlear Mechanisms and Efferent Functioning in Individuals with 
+Misophonia.” European Archives of Oto-Rhino-Laryngology: Official 
+Journal of the European Federation of Oto-Rhino-Laryngological Societies 
+(EUFOS): Affiliated with the German Society for Oto-Rhino-Laryngology – 
+Head and Neck Surgery 281 (4):1709–1716. https://doi.org/10.1007/s00405- 
+023-08273-6.
+Swedo, S. E., D. M. Baguley, D. Denys, L. J. Dixon, M. Erfanian, A. Fioretti, 
+P. J. Jastreboff, S. Kumar, M. Z. Rosenthal, R. Rouw, et al. 2022. 
+“Consensus Definition of Misophonia: A Delphi Study.” Frontiers in 
+Neuroscience 16:841816. https://doi.org/10.3389/FNINS.2022.841816/ 
+BIBTEX.
+Vanaja, C. S., and M. S. Abigail. 2020. “Misophonia: An Evidence-Based 
+Case Report.” American Journal of Audiology 29 (4):685–690. https://doi. 
+org/10.1044/2020_AJA-19-00111.
+Zarotti, N., A. Tuthill, and P. Fisher. 2022. “Online Emotion Regulation for 
+an Adolescent With Misophonia: A Case Study.” Journal of Cognitive 
+Psychotherapy :JCP-2021-0015.R2. Epub ahead of print. https://doi.org/10. 
+1891/JCP-2021-0015.
+Zitelli, L. 2021. “Evaluation and Management of Misophonia Using a Hybrid 
+Telecare Approach: A Case Report.” Seminars in Hearing 42 (2):123–135. 
+https://doi.org/10.1055/s-0041-1731693.INTERNATIONAL JOURNAL OF AUDIOLOGY
+ 7

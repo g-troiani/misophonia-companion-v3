@@ -1,0 +1,1414 @@
+Processed byMinitexon:3/23/2023 1:08:01PM
+ThismaterialcomestoyoufromtheUniversity ofMinnesota collection oranotherparticipating library
+oftheMinitexLibraryInformation Network.
+Patrons:pleasecontactyourlibraryforhelpaccessing thisdocument. 
+Librarystaff:forissuesorassistance withthisdocument, pleaseemail:mtx-edel@umn.edu andprovide
+thefollowing information:
+ArticleID:MIH01MNPALSIHC0010045
+Patronemailaddress
+____________________________________________________________________________________
+Title:Clinicalpsychologist.
+ArticleTitle: Earlymaladaptive schemasinmisophonia
+ArticleAuthor: Stalias-Mantzikos
+Date:19Mar2023Pages:1-14
+LCN-2007233093;
+Publisher: London:Taylor&Francis1996-
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rcnp20
+Clinical Psychologist
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rcnp20
+Early maladaptive schemas in misophonia
+Maria E. Stalias-Mantzikos, Usha Barahmand, Kerry Aguero, Laurisa Peters &
+Naila Shamsina
+To cite this article:  Maria E. Stalias-Mantzikos, Usha Barahmand, Kerry Aguero, Laurisa Peters
+& Naila Shamsina (2023): Early maladaptive schemas in misophonia, Clinical Psychologist, DOI:
+10.1080/13284207.2023.2171786
+To link to this article:  https://doi.org/10.1080/13284207.2023.2171786
+Published online: 19 Mar 2023.
+Submit your article to this journal 
+Article views: 2
+View related articles 
+View Crossmark data
+
+Early maladaptive schemas in misophonia
+Maria E. Stalias-Mantzikos
+a,b, Usha Barahmand
+a, Kerry Aguero
+a, Laurisa Peters
+a 
+and Naila Shamsina
+a
+aDepartment of Psychology, City University of New York, Queens College, New York, NY, USA; bWestchester Community College, SUNY, 
+New York, NY, USA
+ABSTRACT
+Objective: The study aimed to identify early maladaptive schemas that may be characteristic of 
+individuals with misophonia.
+Method: A sample of 289 individuals were recruited from social media websites. Participants 
+responded to the Young Schema Questionnaire-Short Form, which assesses early maladaptive 
+schemas (EMS), and the New York Misophonia Scale, a two-part self-report instrument rating 
+the severity of emotional distress to misophonic triggers and the nature of behavioural 
+reactions to misophonic triggers. Gender differences in the study variables were first examined 
+using a series of univariate analysis of variance. To test the relationship between features of 
+misophonia and EMS, correlation coefficients were calculated. Multiple regression analyses 
+were then conducted by including age, gender and YSQ-SF scores as predictors and misopho -
+nic distress, aggressive reactions, and non-aggressive reactions as outcomes.
+Results: Results revealed that higher insufficient self-control EMS was a common predictor of 
+all aspects of misophonia, while higher age, female gender and higher social isolation/aliena -
+tion EMS were predictive of the aversive emotional reactions in misophonia. Higher depen -
+dence and unrelenting standards EMS were specific predictors of non-aggressive reactions 
+while dependence and vulnerability to harm or illness EMS were specific predictors of aggres -
+sive reactions to misophonic triggers.
+Conclusions: Findings imply that schema therapy may be an effective intervention to alleviate 
+misophonic distress.
+KEY POINTS
+What is already known about this topic:
+(1) Previous research has associated misophonia with psychopathological conditions such as 
+obsessive-, anxiety, and depressive disorders.
+(2) Childhood adversities and early maladaptive schemas have been implicated as risk factors 
+in obsessive-compulsive, anxiety, and depressive disorders.
+(3) Research on early maladaptive schemas that may be a common link shared by misophonia 
+and obsessive-compulsive, anxiety, or depressive disorders is lacking.
+What this topic adds:
+(1) The current study revealed that schemas within the disconnection/rejection and over -
+vigilance/inhibition domains are common to both misophonia and anxiety disorders while 
+those within the other-directedness domain may serve to distinguish misophonia.
+from anxiety disorders.
+(2) Similarly, schemas associated with disconnection/rejection and impaired autonomy/per -
+formance domains that have been reported as significant predictors and maintaining 
+factors of depressive symptoms are also found to be associated with misophonia.
+(3) Furthermore, the insufficient self-control schema within the impaired limits domain 
+appears to be the only one common across both misophonia and OCD.ARTICLE HISTORY 
+Received 31 January 2022  
+Accepted 17 January 2023 
+KEYWORDS 
+Early maladaptive schemas; 
+misophonia; schema 
+therapy; distress
+Misophonia was first formulated by Jastreboff and 
+Jastreboff (2001 ) and is a disorder in which specific 
+sounds or stimuli related to those sounds decreases 
+one’s tolerance to the stimuli (Swedo et al., 2022 ). 
+These specific sounds have been identified as trigger 
+sounds and they include human-driven actions such as 
+chewing, pen clicking, tapping, and lip-smacking (Edelstein et al., 2013 ). The misophonia criterion has 
+been expanded to include visual stimuli such as crack -
+ing knuckles, jiggling, and swinging legs (Swedo et al.,  
+2022 ) as well as olfactory and tactile stimuli (Dozier,  
+2015 ; Zhou et al., 2017 ). In response to the trigger 
+stimuli, individuals with misophonia may experience 
+distress as reflected by increased autonomic arousal 
+CONTACT Usha Barahmand 
+ usha.barahmand@qc.cuny.eduCLINICAL PSYCHOLOGIST                                 
+https://doi.org/10.1080/13284207.2023.2171786
+© 2023 Australian Psychological Society
+
+and negative affect such as anger, irritation, disgust, or 
+anxiety. The trigger stimuli may also evoke behavioural 
+reactions such as escape or avoidance from the situa -
+tions in which the trigger stimuli may be encountered, 
+aggression directed towards the source of the trigger 
+stimuli (Swedo et al., 2022 ) or mimicking of trigger 
+sounds (Edelstein et al., 2013 ; Hadjipavlou et al., 2008 ).
+Concerning auditory misophonia experiences, miso -
+phonia has been linked to an increased sensitivity 
+between the functional connections of the auditory, lim-
+bic, and nervous systems (Schwartz et al., 2011 ). Research 
+by Edelstein et al. (2013 ) demonstrated that misophonic 
+patients show autonomic reactivity to sound but not to 
+other sensory stimuli. Currently, misophonia is not recog -
+nized as a distinct psychiatric disorder, literature is limited 
+and research on misophonia is still in its early stages. 
+Swedo et al. (2022 ), who are responsible for formulating 
+the consensus definition of misophonia, report that by 
+January 2021, misophonia research had been conducted 
+for less than 0 years with fewer than 100 peer-reviewed 
+papers. Thus, a consensus definition was considered an 
+important step for cohesion in research within an area 
+where researchers and clinicians are still trying to under -
+stand causes and correlates in order to better serve and 
+support those experiencing misophonia.
+Although the research is limited and misophonia is 
+not formally recognized as a psychiatric disorder, 
+research and clinical practice in misophonia have asso -
+ciated misophonia with various psychopathological dis-
+orders such as obsessive-compulsive disorder (OCD), 
+attention-deficit hyperactivity disorder (ADHD), depres -
+sion, eating disorder, obsessive-compulsive personality 
+disorder (OCPD), social anxiety disorder, post-traumatic 
+stress disorder (PTSD), and anxiety (Rouw & Erfanian,  
+2018 ; Wu et al., 2014 ), in addition to audiological dis-
+orders such as tinnitus and hyperacusis (Greenberg,  
+2017 ; Jastreboff & Jastreboff, 2001 ).
+Several studies have implicated childhood adversities 
+(Bey et al., 2017 ; Castellini et al., 2018 ; Hayward et al.,  
+2020 ; Tao et al., 2021 ), attachment insecurity 
+(Cortés-García et al., 2020 ; Tasca, 2019 ; Van Assche et al.,  
+2020 ; van Leeuwen et al., 2020 ), and distorted thinking 
+patterns (Kube et al., 2019 ; Maric et al., 2010 ; Rowlands 
+et al., 2021 ; Tibi et al., 2018 ) as risk factors or causal 
+mechanisms in depression, anxiety, OCD, and eating dis-
+orders. Given the association between misophonia and 
+such disorders there may be justification to assume that 
+such risk factors are central to misophonia as well. 
+A theoretical framework that refers to cognitive vulner -
+ability for psychopathology is Young’s schema theory. 
+This theory builds on attachment theory and considers 
+early maladaptive schemas (EMS) as central to the devel -
+opment and maintenance of psychopathology. As based on Young’s theory, children have five core emotional 
+needs which are: 1. Secure attachment with others, 2. 
+Autonomy, 3. Freedom to express valid needs and emo -
+tions, 4. Spontaneity and play, and 5. Realistic limits and 
+self-control. If these 5 core needs are not met 
+a maladaptive representation of the environment is cre-
+ated leading to the creation of EMS. According to Young 
+et al. (2003 ), an EMS is a dysfunctional thinking pattern 
+about the self and others. In childhood, EMS are 
+a representation of the child's reality, while in adulthood 
+they may lead to dysfunctional clinical states because 
+they selectively filter experiences. Young (1994 ), originally 
+identified 18 early maladaptive schemas separated into 5 
+domains which mirror the 5 core emotional needs: (1) 
+disconnection and rejection domain, (2) impaired auton -
+omy and performance domain, (3) impaired limits 
+domain, (4) other-directedness domain, and (5) over vig-
+ilance and inhibition domain. The Young Schema 
+Questionnaire (YSQ) was created for EMS identification 
+and assessment purposes and the Young Schema 
+Questionnaire-Short Form (YSQ-SF) is a 75-item question -
+naire which assesses 5 domains and 15 out of the original 
+18 EMS was further created for both compliance and 
+accuracy since both may be compromised in clinical 
+samples due to length (Oei & Baranoff, 2007 ). The five 
+domains and their associated schemas are listed and 
+explained in Table 1. The 3 EMS not assessed by the YSQ- 
+SF are Approval Seeking/Recognition Seeking from the 
+Other-Directedness Domain and from the Overvigilance/ 
+Inhibition Domain the Negativity/Pessimissm and the 
+Punitiveness EMS.
+Kizilagac (2019 ) claims that most early maladaptive 
+schemas can be associated with several psychological 
+disorders. Empirical attempts have been made to iden -
+tify early maladaptive schemas characteristic of specific 
+forms of psychopathology (see Table 2).
+Given that misophonia also is characterized by heigh -
+tened autonomic arousal and negative affect to specific 
+trigger stimui along with avoidance tendencies 
+(Cassiello-Robbins et al., 2020 ) and perfectionism (Jager 
+et al., 2020 ), we anticipate schemas of social isolation/ 
+alienation, vulnerability to harm or illness, insufficient 
+self-control and unrelenting standards to be more 
+strongly associated with misophonia than the other sche -
+mas. The identification of distinct schema profiles in the 
+various psychopathologies may not only provide insight 
+on risk factors but also provide viable treatment options.
+Young et al. (2003 ) suggested a form of therapy 
+known as schema therapy which would aid individuals 
+with psychological disorders. Schema therapy (ST), ori-
+ginally conceived as an option for treating non- 
+responders to cognitive behavioural therapy such as 
+those with personality disorders (Young et al., 2003 ), 2
+ M. E. STALIAS-MANTZIKOS ET AL.
+
+has gained increased attention in recent years. Schema 
+therapy has demonstrated efficacy across various dis-
+orders including cluster C personality disorders 
+(Bamelis et al., 2014 ), mood and anxiety disorders 
+(Malogiannis et al., 2014 ; Renner et al., 2015 ), eating 
+disorders (McIntosh et al., 2016 ), posttraumatic stress 
+disorder (Cockram et al., 2010 ) and when treating transdiagnostic factors such as emotional dysregula -
+tion (Dadomo et al., 2016 ). The multiphasic nature of 
+ST incorporates a variety of psychotherapeutic theories 
+and techniques including psychodynamic and attach -
+ment theory as well as experiential therapeutic 
+approaches (e.g., two-chair technique) (Bachrach & 
+Arntz, 2021 ). The activation of early maladaptive Table 1. The five schema domains and the associated ems as assessed by the YSQ-SF.
+Domain/Schema Concise Description
+Domain 1: Disconnection and 
+RejectionDetached, cold and rejecting family of origin. Core unmet need of secure attachment with others.
+(1) Abandonment/Instability There is an expectation that important people in one’s life will not be there.
+(2) Mistrust/Abuse Expectation that important people in one’s life will abuse, humiliate, lie, or manipulate.
+(3) Emotional Deprivation The expectation that the desired emotional connection will not be fulfilled and its broken down into 
+a. deprivation of nurturance, b. deprivation of empathy, and c. deprivation of protection.
+(4) Defectiveness/Shame The perception that one is flawed, bad, inferior, worthless and unlovable.
+(5) Social Isolation/Alienation The individual feels different from the larger social unit outside the family.
+Domain 2: Impaired Autonomy and 
+PerformanceThe family of origin is undermining of the child’s confidence and as an outcome the individual may manifest an 
+inability to separate, survive, and function independently. Core unmet need of autonomy.
+(6) Dependence/Incompetence The individual experiences an inability to handle everyday responsibilities without the help from others.
+(7) Vulnerability to Harm or Illness There is the experience of exaggerated fear regarding catastrophe in one or more of these domains: a medical 
+(disease), emotional (breakdown) and/or external (natural disaster) disaster could strike at any moment
+(8) Enmeshment/Undeveloped Self There is a lack of a real sense of identity due to overinvolvement with a parent or significant other.
+(9) Failure to Achieve There is an expectation that there will be failure in any attempt of achievement
+Domain 3: Impaired Limits Permissive parenting style resulting in a lack of direction, sense of superiority, and overindulgence. Core unmet 
+need of realistic limits and self-control.
+(10) Entitlement/Grandiosity The individual develops feelings of superiority and entitlement to special rights
+(11) Insufficient Self-Control There is no regulation of emotion or impulse so as to achieve personal goals. Individual may avoid conflict or 
+responsibility through discomfort avoidance.
+Domain 4: Other-Directedness The family structure was one where children felt conditional acceptance. Core unmet need of freedom to 
+express valid needs and emotions.
+(12) Subjugation The individual will surrender to others either through 1. subjugation of needs, where one suppresses own 
+preferences and 2. subjugation of emotions, where one suppresses emotional responses of happiness, anger 
+etc. Individual becomes compliant and may present as passive-aggressive, experience uncontrolled 
+outbursts or psychosomatic complaints.
+(13) Self-Sacrifice There is voluntary suppression of own needs of another’s satisfaction.
+Domain 5: Overvigilance and 
+InhibitionAs children these individuals were required to exhibit self-control in regards to spontaneity and pleasure and 
+usually express pessimism and worry as if everything could fall apart. Core unmet need of spontaneity and 
+play.
+(14) Emotional Inhibition The individual expresses an 1. inhibition of anger, 2. inhibition of positive impulse, 3. difficulty expressing 
+vulnerability, and 4. rationality at the expense of emotion.
+(15) Unrelenting Standards The belief that one must attain an internalized standard of achievement and failing to do so will bring criticism. 
+When maladaptive, the belief may manifest as 1. perfectionism, 2. Rigid rules and 3. preoccupation with time 
+and efficiency.
+Adapted from Young et al. (2003, pp. 14–17) .
+Table 2. Schemas identified as characteristic in specific psychological disorders.
+Psychological 
+Disorder Early Maladaptive Schemas
+GAD Schemas associated with the Other-Directedness and Over-Vigilance/Inhibition domains (Koerner et al., 2015 ) 
+Schemas associated with Impaired Autonomy and Performance domain (Shorey et al., 2015 ) 
+Emotional deprivation, abandonment, approval seeking (Popa et al., 2017 )
+Social anxiety Schemas associated with the Disconnection and Rejection domain (Mairet et al., 2014 )
+Depression Schemas associated with the disconnection and rejection and impaired autonomy/performance domains (Tariq et al., 2021 ; 
+Wegener et al., 2013 ) 
+Abandonment, dependence, vulnerability to harm, and insufficient self-control (Voderholzer et al., 2013 ) 
+Schemas associated with Disconnection and Rejection and Impaired Limits domains (Shorey et al., 2015 ) 
+Social isolation and defectiveness/shame (Bishop et al., 2022 )
+OCD Social isolation, vulnerability to harm or illness, negativity and pessimism, emotional deprivation, defectiveness, failure, 
+dependence/incompetence, subjugation, unrelenting standards, entitlement and approval seeking (Atalay et al., 2008 ) 
+Abandonment, dependence, vulnerability to harm, and insufficient self-control (Voderholzer et al., 2013 ) 
+Dependence and vulnerability to harm (Kim et al., 2013 ; Kwak & Lee, 2015 ) 
+Enmeshment, failure, punitiveness, insufficient self-control and self-sacrifice (Kizilagac, 2019 )
+Bulimia Insufficient self-control, and emotional deprivation (Pauwels et al., 2016 )
+Anorexia Failure, subjugation, and unrelenting standards (Pauwels et al., 2016 )
+Bipolar disorder Abandonment, failure, insufficient self-control, subjugation and unrelenting standards, enmeshment, entitlement (Nilsson et al.,  
+2015 )
+Mania Entitlement (Munuera et al., 2020 )CLINICAL PSYCHOLOGIST
+ 3
+
+schemas is assumed to initiate and perpetuate psycho -
+logical distress and upon the triggering of early mala -
+daptive schemas, the individual may employ one of 
+three following categories of coping strategies: surren -
+der, avoidance, and overcompensation. The combina -
+tion of the maladaptive schema and the coping 
+strategy utilized to help mitigate the distress from 
+the activated schema describes the individual’s emo -
+tional-cognitive-behavioural state or the individual’s 
+schema mode (Bachrach & Arntz, 2021 ). Therefore, 
+the weakening of the maladaptive schema modes 
+and strengthening of a functional schema mode is 
+frequently a therapeutic goal (Wibbelink et al., 2022 ). 
+Accordingly, in ST experiential techniques address 
+maladaptive schema modes, providing patients with 
+the opportunity to emotionally process aversive child -
+hood memories which results in a change in their 
+symptoms and their EMSs (Yakın et al., 2020 ). Change 
+is achieved through an increase in awareness, under -
+standing of childhood origin as well as environmental 
+triggers, and in turn replacement of maladaptive with 
+adaptive schema (Young et al, 2003 ). Furthermore, 
+gender-specific EMS patterns have been reported for 
+some psychological problems (Cudo et al., 2022 ; 
+Marengo et al., 2019 ; Pozza et al., 2020 ), implying that 
+gender-specific EMSs could impact on the delivery of 
+therapy
+Given its efficacious treatment of various disorders, 
+ST may show promising results for misophonia too. 
+The current exploratory study attempted to further 
+our understanding of misophonia by examining early 
+maladaptive schemas relevant to misophonic distress 
+and subsequent behavioural reactions and any poten -
+tial gender-specific patterns. Since EMS have been 
+implicated with other forms of psychopathology 
+exploring such influences in misophonia can give 
+meaningful insight. Additionally, just as with any psy-
+chopathology, prevention and treatment initiatives 
+can be advanced by the understanding of the asso -
+ciated factors. The schemas identified therefore, may 
+not only be amenable to modification through schema 
+therapy as treatment, but core needs in childhood may 
+be targeted as a prevention strategy in vulnerable 
+populations.
+Method
+Participants
+G*Power software (free download: www.gpower. 
+hhu.de ) generated a sample size estimate based on 
+the use of a fixed model multiple linear regression 
+with 18 predictors. Cohen’s ƒ2 is a measure of effect size used for a multiple regression. Effect size mea -
+sures for ƒ2are 0.02, 0.15, and 0.35, indicating small, 
+medium, and large, respectively. In previous 
+research, for most EMSs in various forms of psycho -
+pathology, small to medium-sized effects have been 
+reported (Bishop et al., 2022 ; Khosravani et al., 2017 ; 
+Kim et al., 2013 ). Similarly, studies on gender differ -
+ences in EMSs have revealed small to medium-sized 
+effects (Janson et al., 2019 ; Shorey, Anderson, et al.,  
+2012 ). Therefore, based on effect size confidence 
+intervals in the small to medium range a minimum 
+sample size of 217 was needed to detect an effect 
+size of .10 at 80% power with an error rate probabil -
+ity of p = 0.05. Also, as per Cohen’s suggestion, for an 
+omnibus ANOVA of fixed effects of 15 variables 
+across three groups (male, female and nonbinary), 
+with a small to medium-sized effect, f2 of .20, a total 
+sample size of 246 (82 individuals in each group) 
+would be necessary. Assuming that up to 5% to 
+10% of data might not be usable following data 
+collection, we sought to recruit at least 280 partici -
+pants for the study. Ethical approval (No. 2020-0779; 
+10/29/2020) was granted by the Ethics Committee of 
+the City University of New York and all procedures 
+were conducted following the Declaration of 
+Helsinki. Participant recruitment occurred between 
+July 2021 and September 2021. Informed written 
+consent was obtained from all participants. Any par-
+ticipants either missing questionnaires or demo -
+graphic data were excluded, leaving a sample of 
+289. Next, Mahalanobis distance, Cook’s distance 
+and leverage were used for multivariate outliers 
+detection. Observations classified as outliers by at 
+least two of the methods were removed leaving 
+a final sample of 286 individuals. Ages ranged 
+between 18 and 62 years (mean = 28.9 years, SD =  
+8.69), and 186 were female (65%), 85 were males 
+(29.7%) and 15 were non-binary (5.2%). The demo -
+graphic characteristics of the sample are presented 
+in Table 3.
+Measures
+Young schema questionnaire-short form (YSQ-SF) 
+(Young, 1994 )
+The YSQ-SF is a seventy-five-item self-report measure 
+designed to assess early maladaptive schemas (EMS). 
+Early maladaptive schemas can develop during child -
+hood and onward through an individual’s lifetime. EMS 
+are deeply rooted processes or themes that can give an 
+individual set beliefs or perceptions about themselves 
+and the world around them. Each item is rated on 
+a 6-point Likert scale ranging from 1=completely untrue 4
+ M. E. STALIAS-MANTZIKOS ET AL.
+
+of me to 6=describes me perfectly . The reliability coeffi -
+cients of the YSQ-SF subscales are provided in Table 4.
+New york misophonia scale (NYMS; Barahmand 
+et al., 2023 )
+To measure symptoms of misophonia, a newly developed 
+scale called the NYMS was used. This scale was chosen as 
+the authors designed the scale as an instrument for 
+screening for misophonia in non-clinical situations. 
+Furthermore, the measure provides separate scores for 
+the emotional distress, aggressive behavioural reactions 
+and non-aggressive behavioural responses of individuals 
+experiencing misophonia (Barahmand et al., 2023 ). The 
+NYMS is a two-part self-report instrument assessing 
+(1) the severity of emotional distress to misophonic trig-
+gers and (2) the nature of behavioural reactions to 
+misophonic triggers. Part 1 includes 25 triggers (e.g., 
+someone chewing loudly) that are likely to elicit negative 
+Table 4. Scale reliabilities and results of the univariate analysis of variance for gender differences in the study variables (n = 286).
+Variables Reliability Cronbach’s αMales(m) Females(f) Non-binary(n)
+M SD M SD M SD F/Welch’s F Eta2
+Misophonic Distress .91 56.85 18.70 64.09 m 17.33 60.00 17.10
+4.93**.034
+Aggressive Reactions .85 25.29 7.47 28.17 m 7.33 25.60 5.75
+4.88**.033
+Non-Aggressive Reactions .71 14.05 3.12 15.04 m 3.10 16.20 m 1.97
+4.70*.032
+Emotional Deprivation .91 15.02 6.21 14.65 7.21 16.13 5.79
+.46.003
+Abandonment .91 12.66 5.87 15.06 m 6.93 14.67 7.51
+4.30*.026
+Mistrust Abuse .91 14.85 6.11 15.18 6.57 14.93 7.26
+.08.001
+Social Isolation .90 17.64 6.73 17.19 6.93 19.27 7.46
+.68.006
+Defectiveness .92 12.55 6.41 12.59 6.67 14.07 7.67
+.36.003
+Failure .94 12.59 6.63 14.67 7.17 16.87 m 5.41
+3.82*.026
+Dependence .87 11.84 5.47 12.54 6.07 14.13 5.50
+1.10.008
+Vulnerability to harm or illness .83 13.76 5.53 15.24 6.14 14.53 7.04
+1.77.012
+Enmeshment .82 10.13 4.62 10.02 5.25 11.47 7.50
+.52.004
+Subjugation .81 14.59 5.13 15.67 6.50 17.00 7.18
+1.42.010
+Self-Sacrifice .84 14.07 4.83 16.56 m 5.47 16.60 6.38
+6.51**.044
+Emotional Inhibition .89 73.04 5.22 72.31 5.57 72.87 4.90
+.55.004
+Unrelenting Standards .84 17.14 5.92 18.05 5.65 17.87 6.78
+.73.005
+Entitlement .79 12.45 f,n 4.77 11.78 4.32 9.00 2.45
+9.75***.027
+Insufficient Self-Control .90 17.09 5.96 17.23 6.74 19.47 7.85
+.61.006
+*p < .05; **p < .01; ***p < .001. 
+Means of groups that differed are displayed in bold with the subscripts indicating the groups they differed from. Mean differences were indicated by the 
+Games-Howell test.Table 3. Demographic characteristics of the sample (n = 286).
+Variable f %
+Sex Male 85 29.7
+Female 186 65.0
+Nonbinary 15 5.2
+Marital Status Single, never married 149 52.1
+Married or in a relationship 132 46.1
+Divorced or Separated 5 1.7
+Education Less than high school diploma 11 3.8
+High school or equivalent 45 15.7
+Some college but no degree 52 18.2
+Associate degree 18 6.3
+Bachelor’s degree 92 32.2
+Graduate degree 68 23.8
+Race White 225 78.7
+Asian 27 9.4
+Black or African American 8 2.8
+Hispanic or Latino 13 4.5
+From multiple races 10 3.5
+Other 3 1.0
+Perceived SES Lower class 26 9.1
+Lower middle class 63 22.0
+Middle class 138 48.3
+Upper middle class 52 18.2
+Upper class 6 2.1CLINICAL PSYCHOLOGIST
+ 5
+
+emotions of annoyance and distress. Participants indicate 
+how aversive they find each trigger to be on a 5-point 
+Likert scale ranging from 0=doesn’t bother me to 4=dis -
+gusting . Part 2 lists 13 behavioural reactions to the mis-
+ophonic triggers (e.g., “I cover my ears”), and using 
+a 5-point Likert scale ranging from 0=never to 4=always , 
+participants report how often they engage in each of 
+those behaviours. A summation of the responses to 
+items in each part yields a subscale score of emotional 
+distress that can range from 0 to 100 and a subscale score 
+of behavioural reactions ranging from 0 to 52. The beha -
+vioural reactions component is further divided into two 
+subscales, one measuring aggressive or confrontational 
+coping responses and the other assessing non-aggressive 
+avoidant coping. The scores of the two parts can be 
+added to yield a total misophonia score which can 
+range from 0 to 152. In this study, the scores on the first 
+part (emotional distress), and the two subscale scores of 
+the second part, aggressive behavioural reactions and 
+non-aggressive behavioural reactions were used in the 
+analysis of data. The NYMS is reported to have a well- 
+established factor structure and sound psychometric 
+properties (Barahmand et al., 2023 ). The NYMS has been 
+reported to possess good internal consistency 
+(Cronbach’s α for the full scale =.94, for the misophonic 
+distress subscale =.94, and for the behavioural reactions 
+subscale =.85; Barahmand et al., 2021 ). In the present 
+study, the reliability for the emotional distress and beha -
+viour reactions subscales and the total scale were found 
+to be .91, .86, and .93, respectively.
+Procedure
+Participants were recruited from social media plat -
+forms such as Reddit, LinkedIn, and Facebook as well 
+as Survey Exchange sites such as “Survey Swap” and 
+“Survey Tandem”. The questionnaires were made avail -
+able using Microsoft Forms and the link was generated 
+and distributed. Participants who accessed the link 
+were prompted with a description of the study, infor -
+mation about the researchers, and study directions. 
+Contingent on providing informed consent to partici -
+pate, access to the study questionnaires was granted. 
+The next section that followed was general demo -
+graphic questions followed by the Young Schema 
+Questionnaire (YSQ; Young, 1994 ) and the New York 
+Misophonia Scale (NYMS; Barahmand et al., 2023 ). At 
+the end of the survey, participants were presented 
+with a thank you message. Completion of the survey 
+took, on average, 15–0 minutes to complete. No com -
+pensation was offered. All procedures and recruitment materials were approved by the CUNY Queens 
+College IRB.
+Data analyses
+Taking unequal sample sizes into account along with 
+the small number of non-binary individuals (n = 15) in 
+the study, gender differences in the study variables 
+were first examined using a series of univariate 
+ANOVAs with robust Welch F test. Since the assump -
+tion of homogeneity of variance was not met for some 
+variables, the Games-Howell post hoc test was used. To 
+test the relationship between features of misophonia 
+and EMS, Pearson’s bivariate correlation coefficients 
+were calculated between NYMS and YSQ-SF scores. 
+Coefficient values were interpreted as: 0 < r < ±|0.30|  
+= weak, |0.30| <r < ±|0.50| = moderate, |0.50| < r < ±| 
+0.70| = strong, > ±|0.70| = very strong. Steiger’s 
+Z coefficients were computed to compare the strength 
+of the correlation coefficients between the scores on 
+each one of the NYMS scales and the scores on each 
+one of the YSQ-SF scales. Multiple regression analyses 
+were conducted by including age, gender, and YSQ-SF 
+scale scores as predictors and NYMS scores (misopho -
+nic distress, non-aggressive reactions, aggressive reac -
+tions scores) as outcomes. Statistical analyses were 
+conducted through SPSS version 25.0 with 
+a significance level set at p < 0.05.
+Results
+Gender differences
+Levene’s test indicated that homogeneity of variance 
+was not met for the EMSs of emotional deprivation, 
+abandonment, mistrust/abuse, entitlement and insuffi -
+cient self-control. Therefore for these EMSs, the 
+Welch’s F was used. All post hoc comparisons were 
+made using the Games-Howell test because it provides 
+high power while maintaining control over Type I error 
+(Sauder & DeMars, 2019 ). Pairwise comparisons 
+revealed gender differences on all the subscales of 
+the NYMS as well as on abandonment, self-sacrifice, 
+entitlement and failure schemas, with females scoring 
+significantly higher scores than males on misophonic 
+distress (Hedges’ g = .41), aggressive reactions 
+(Hedges’ g = .39), non-aggressive reactions (Hedges’ 
+g = .32), and on abandonment (Hedges’ g = .36), and 
+self-sacrifice schemas (Hedges’ g = .47), and both males 
+(Hedges’ g = .76), and females (Hedges’ g = .66), scor -
+ing higher than non-binary individuals on the entitle -
+ment schema. Males (Hedges’ g = .66) and females 6
+ M. E. STALIAS-MANTZIKOS ET AL.
+
+(Hedges’ g = .31) also scored lower than non-binary 
+individuals on the failure schema (See Table 4).
+Correlations between age, EMS, and NYMS 
+subscales
+Pearson’s coefficients between age, NYMS, and YSQ-SF 
+scores are presented in Table 5. Age correlated posi -
+tively and weakly with the Distress subscale of the 
+NYMS, and negatively and weakly with abandonment, 
+defectiveness, failure, dependence, vulnerability to 
+harm or illness, enmeshment, subjugation, and insuffi -
+cient self-control schemas. All three subscales of the 
+NYMS, distress, aggressive reactions, and non- 
+aggressive reactions correlated positively with emo -
+tional deprivation, social isolation, defectiveness, failure, 
+vulnerability to harm or illness, and insufficient self- 
+control. In addition, the unrelenting standards schema 
+scale correlated positively with both the aggressive and 
+non-aggressive reactions subscales of the NYMS. 
+Furthermore, while the self-sacrifice schema showed 
+a significant positive association only with the distress 
+subscale of the NYMS, the entitlement schema showed 
+a significant negative association only with the non- 
+aggressive reactions subscale of the NYMS (sample 
+item: I leave the place ), and the mistrust/abuse and 
+subjugation schemas correlated positively only with 
+the aggressive reactions subscale of the NYMS (sample 
+item: I become verbally aggressive ). Steiger’s Z was used 
+for testing the statistical significance of the difference 
+between the correlations of each of the misophonia 
+subscales with each of the schema scores. The results 
+of Steiger’s Z tests showed no significant differences in 
+the strength of the correlations.Predictive effect of EMS on misophonia subscales
+Scatterplots showed that the relationships between 
+each of the predictor variables and the criterion vari-
+ables was linear. Analysis of collinearity statistics 
+showed that the assumption was met as VIF scores 
+were well below 10 (ranging from 1.3 to 3.1) and 
+tolerance scores were above 0.2 (ranging from .31 to 
+.72). The Durbin-Watson values were greater than 1.93 
+indicating that the values of the residuals are indepen -
+dent. Plots of standardized residuals versus standar -
+dized predicted values suggest that the assumption 
+of homoscedasticity has been met. Furthermore, the 
+P-P plots for the models suggested that the assump -
+tion of normality of the residuals have not been vio-
+lated and Cook’s Distance values were all under 1, 
+indicating that individual cases were not unduly influ -
+encing the model. These findings indicate that the 
+assumptions of multiple regression analyses have 
+been met. The results of the multiple regression ana-
+lysis are displayed in Table 6. Age, gender (dummy 
+coded), and YSQ-SF scores were included as predictors 
+and NYMS scores as outcomes. To get robust confi -
+dence intervals and significance tests of the model 
+parameters, the model was re-estimated using boot -
+strapping. Bootstrap confidence intervals for each pre-
+dictors and their significance values are displayed in 
+Table 6. Higher age, female gender, social isolation/ 
+alienation and insufficient self-control schemas pre-
+dicted higher misophonic distress (R2 = .161, F(18, 267)  
+= 2.84, p < .001). Higher age, female gender, higher 
+vulnerability to harm or illness, and insufficient self- 
+control schema scores significantly predicted higher 
+aggressive reactions to misophonic triggers (R2 = .190, 
+F(18, 267) = 3.48, p < .001). Non-aggressive reactions to ���������������������������������������������������������������������������������������������������������
+���������������������������������������������������������������������
+��������������������������
+��������������������������������������������������
+�����������������������������������������
+������������������������������������������
+������������������������������������������������
+���������������������������������������������
+���������������������������������������
+���������������������������������������
+����������������������������������������������������������������
+����������������������������������������
+�����������������������������������������
+��������������������������������������
+����������������������������������������������
+�������������������������������������������������
+����������������������������������������������
+���������������������������������������������������������
+����������������
+���������������
+���������������������������������CLINICAL PSYCHOLOGIST
+ 7
+
+misophonic triggers were significantly predicted by 
+lower scores on dependence and entitlement schemas 
+and higher scores on unrelenting standards and insuf -
+ficient self-control schemas (R2 = .155, F(18, 267) = 2.72, 
+p < .001). Finally, total misophonia scores (R2 = .192, 
+F(18, 267) = 3.54, p < .001) were predicted by age, female 
+gender, higher scores on social isolation, vulnerability 
+to harm and illness, and insufficient self-control sche -
+mas. Scores on the other scales of the YSQ-SF did not 
+significantly predict NYMS scores.
+In conclusion, higher age and female gender were 
+predictors of misophonic distress and aggressive reac -
+tions. Among the EMSs, higher insufficient self-control 
+EMS was a common predictor of misophonic distress 
+as well as aggressive and non-aggressive reactions to 
+misophonic triggers. Also, while higher social isolation/ 
+alienation EMS was specifically predictive of misopho -
+nic distress, vulnerability to harm or illness EMS which 
+was a specific predictor of aggressive reactions to mis-
+ophonic triggers and lower entitlement and higher 
+dependence and unrelenting standards EMS were spe-
+cific predictors of non-aggressive reactions to miso -
+phonic triggers.
+Discussion
+This study was conducted to examine the early mala -
+daptive schemas in misophonia and to determine simi -
+larities and differences in schemas relevant to 
+misophonic distress and subsequent behavioural reactions. Gender differences were observed with 
+females endorsing higher abandonment and self- 
+sacrifice EMS while males endorsed more entitlement 
+EMS and nonbinary individuals reported significantly 
+more failure EMS. While little research has focused on 
+differences in the presentation of EMS between men 
+and women, current findings are consistent with pre-
+vious studies in which self-sacrifice EMS was found to 
+be higher in women (Janson et al., 2019 ; Pauwels et al.,  
+2018 ) and entitlement EMS was higher in men 
+(Pauwels et al., 2018 ; Tremblay & Dozois, 2009 ). 
+A study examining EMS and gender in an Indian sam -
+ple (Jain & Singh, 2019 ) found no differences between 
+men and women on the self-sacrifice and entitlement 
+EMS and found men endorsing higher rates of several 
+other EMSs. These studies did not include non-binary 
+individuals. Some studies on clinical populations using 
+the long version of the YSQ have reported that women 
+score higher on most EMSs including abandonment 
+and self-sacrifice (Janson et al., 2019 ; Shorey, 
+Anderson, et al., 2012 ; Shorey, Stuart, et al., 2012 ). 
+Other studies report either no gender difference 
+(Janson et al., 2019 ; Shorey, Anderson, et al., 2012 ) or 
+higher scores in women (Shorey, Stuart, et al., 2012 ) on 
+these EMSs. As it pertains to gender and misophonia 
+our findings reveal that female gender is significant to 
+the experience of misophonic distress and to the 
+expression of aggressive reactions to misophonic trig-
+gers. These findings may reflect the finding of greater 
+severity of misophonia in women (Siepsiak et al., 2020 ).Table 6. Bootstrap coefficients for significant effects of multiple linear regression of misophonic distress, aggressive 
+reactions, non-aggressive reactions, and misophonia scores on age, sex and YSQ – SF scores (18 predictors) (n = 286).
+b SEb pBCa 95% Confidence Interval for B
+Lower Bound Upper Bound
+Misophonic Distress
+(Constant) 56.02 15.94 .002 23.936 86.711
+Age .253 .121 .041 .017 .517
+Female gender 6.81 2.40 .006 1.612 12.048
+Social isolation .537 .205 .015 .117 .905
+Insufficient self-control .437 .199 .036 .034 .843
+Aggressive Reactions
+(Constant) 14.99 6.61 .023 2.622 27.160
+Age .104 .047 .026 .014 .195
+Female gender 2.32 .975 .021 .350 4.172
+Vulnerability to harm or illness .266 .092 .006 .085 .446
+Insufficient self-control .273 .068 .002 .141 .407
+Non-Aggressive Reactions
+(Constant) 11.82 2.955 .001 6.073 17.185
+Dependence/Incompetence −.111 .053 .035 −.213 −.004
+Unrelenting standards .086 .033 .007 .024 .151
+Entitlement schema −.127 .056 .021 −.233 −.014
+Insufficient self-control .072 .031 .024 .014 .128
+Misophonia
+(Constant) 82.84 22.27 .001 39.214 126.459
+Age .341 .167 .044 −.009 .699
+Female gender 9.92 3.08 .003 4.001 16.183
+Social isolation .725 .270 .006 .156 1.305
+Vulnerability to harm or illness .618 .298 .035 .025 1.143
+Insufficient self-control .782 .254 .006 .267 1.3318
+ M. E. STALIAS-MANTZIKOS ET AL.
+
+In this present study, social isolation emerged as 
+a dominant schema predicting distress provoked by 
+misophonic triggers, while insufficient self-control was 
+found to be the dominant schema associated with 
+both the aggressive and non-aggressive behavioural 
+reactions to misophonic triggers. In addition, vulner -
+ability to harm was associated with aggressive reac -
+tions while unrelenting standards, high dependence/ 
+incompetence and low entitlement were predictive of 
+non-aggressive reactions.
+The social isolation schema belongs to the discon -
+nection and rejection domain and is the belief that one 
+is different and alienated from the rest of the world. 
+Individuals with this schema may avoid social contacts 
+and social situations. Rouw and Erfanian (2018 ) found 
+many sufferers of misophonia recollecting misophonia 
+episodes that occurred in childhood. It is likely that the 
+experience of distress and annoyance from exposure 
+to misophonic triggers gradually strengthens the 
+belief that these individuals are different from others, 
+resulting in their withdrawal from others, or they may 
+withdraw from social circles in an attempt to avoid the 
+experience of distress and annoyance from misopho -
+nic triggers. Previous research by Schröder et al. (2019 ) 
+identified avoidance as one of the coping strategies 
+that individuals diagnosed with misophonia adopt, 
+and this also suggests the connection between social 
+isolation and misophonia. Individuals with misophonia 
+may be submitting or surrendering (Young et al., 2003 ) 
+to their social isolation EMS when it is activated.
+The insufficient self-control schema falls within the 
+impaired limits domain and is reflected by a deficit in 
+emotion regulation and impulse control (Young et al.,  
+2003 ). The strong and significant association of the 
+insufficient self-control schema with the emotional 
+and behavioural aspects of misophonia implies that 
+individuals with misophonia may have deficits in exer -
+cising self-discipline, tolerating negative emotions, and 
+controlling their impulses (Thimm, 2010 ), potentially 
+resulting in a disregard for the rights of others. Dozier 
+(2015 ) reported that when exposed to trigger stimuli, 
+individuals with misophonia react with anger and with 
+tension in the skeletal muscles which increases with 
+the progressive worsening of symptoms. These find -
+ings suggest that the insufficient-self control schema 
+may be activated by such physical reactivity. Since the 
+present study did not record the length of symptoms 
+or physical tension, future studies are required to 
+address the veracity of this implication. It is also plau -
+sible that the two early maladaptive schemas of insuf -
+ficient self-control and social isolation interact, with 
+the difficulty of tolerating discomfort leading to 
+increased social withdrawal.Differences were observed concerning the schemas 
+associated with nonaggressive and aggressive beha -
+vioural reactions to distressing misophonic triggers, 
+with high dependence/incompetence, unrelenting 
+standards and low entitlement characteristic of non -
+aggressive reactions while high vulnerability to harm 
+or illness was associated with aggressive reactions.
+The dependence/incompetence EMS belongs to the 
+impaired autonomy and performance domain and 
+manifests as feelings of incompetence, insecurity and 
+hypervigilance (Saritas-Atalar & Altan-Atalay, 2018 ). 
+The association of the dependence/incompetence 
+EMS with non-aggressive reactions may be indicative 
+of deficiencies in emotion regulation as this EMS has 
+been reported to be associated with both anxiety and 
+depression (Saritas-Atalar & Altan-Atalay, 2018 ) and 
+emotion regulation difficulties have been reported in 
+misophonia too (Cassiello-Robbins et al., 2020 ; Guetta 
+et al., 2022 ; Barahmand et al., 2023 ).
+The unrelenting standards EMS is part of the over -
+vigilance and inhibition domain and is characterized 
+by perfectionism and rigidity (Young et al., 2003 ). 
+Consistent with our findings, a recent study, Natalini 
+et al. (2019 ) also found that the unrelenting schema 
+was enhanced in patients with misophonia and comor -
+bid personality disorders. Many studies have high -
+lighted the relationship between perfectionism and 
+misophonia and OCPD (Cowan et al., 2022 ; Edelstein 
+et al., 2013 ; Jager et al., 2020 ; Schröder et al., 2013 ). The 
+classification of unrelenting standards within the over 
+vigilance and inhibition domain together with the cur-
+rent finding that unrelenting standards EMS were pre-
+dictive of nonaggressive reactions implies the 
+compliance of these individuals with social norms to 
+refrain from acting aggressively when exposed to mis-
+ophonia triggers.
+The entitlement schema was negatively associated 
+with nonaggressive reactions. The entitlement schema 
+is part of the impaired limits domain, suggesting 
+a deficit in self-discipline, a tendency to be selfish 
+and narcissistic and the belief that normal rules and 
+conventions do not apply to them. Specifically the 
+entitlement schema refers to the belief that one is 
+superior to other individuals and includes the assertion 
+of power to control the behaviour of others. Our find -
+ings indicate a negative association between non- 
+aggressive reactions and the entitlement schema 
+implying that individuals with misophonia may con-
+sider the behaviour of others to be “incorrect” when it 
+is not in line with their desires, however they do not 
+feel superior or of special privilege and, therefore, react 
+non-aggressively to misophonic triggers so as to not 
+violate social rules. Taken together, the emotional CLINICAL PSYCHOLOGIST
+ 9
+
+impulsivity of the insufficient self-control EMS and the 
+deficiency in emotion regulation of the depencence/ 
+incompetence EMS in conjunction with the rigid per-
+fectionism of the unrelenting standards EMS and con-
+formity of the low entitlement schema could explain 
+the experience of emotional distress when exposed to 
+misophonia triggers as well the nonaggressive reac -
+tions to them.
+The current study found that vulnerability to harm 
+or illness, a schema within the impaired autonomy and 
+performance domain, was related to aggressive reac -
+tions. The vulnerability to harm or illness schema is 
+seen in individuals hypersensitive to potential dangers 
+and preoccupied with concerns about their inability to 
+cope with them (Young et al., 2003 ). Misophonic trig-
+gers activate the early maladaptive schemas which, in 
+turn, activate cognitions, and the subsequent beha -
+vioural reactions are mechanisms to cope with the 
+cognitions and may or may not be adaptive. The mala -
+daptive coping responses to a schema are surrender, 
+avoidance or overcompensation (Young et al., 2003 ). 
+Overcompensation for the vulnerability to harm 
+schema is to act without regard towards danger 
+which can include aggressive reactions. A bivariate 
+analysis conducted by Shorey et al. (2015 ) revealed 
+that the impaired autonomy and performance domain 
+was positively associated with overall aggression, 
+aggressive attitude, physical aggression, and verbal 
+aggression; however, their regression model sug-
+gested that the impaired autonomy and performance 
+domain may not be a reliable predictor of aggression. 
+In contrast, Şenkal Ertürk et al., (2020 ) found that the 
+impaired autonomy schema domain was associated 
+with low levels of aggression in adults. While our find -
+ings seem consistent with the theoretical frameworks 
+of Young’s theory, the contradictory findings regarding 
+the associations of the impaired autonomy schema 
+domain and aggression may mean that vulnerability 
+to harm or illness alone is not enough to predict an 
+aggressive reaction in individuals. Rather, other sche -
+mas may act along with vulnerability to harm or illness 
+to produce such aggressive behaviour. Our findings 
+imply that the schemas leading to the behavioural 
+reactions to misophonic triggers may be different. 
+This is similar to the proposal of Dozier (2015 ) that 
+emotional reaction to misophonia may be summoned 
+by several factors that may not always result in an overt 
+aggressive reaction. And this may be why some mis-
+ophonics report attempts to resist aggressive impulses.
+Based on previous research (Koerner et al., 2015 ; 
+Mairet et al., 2014 ; Popa et al., 2017 ; Shorey et al.,  
+2015 ), it appears that schemas within the disconnec -
+tion/rejection and overvigilance/inhibition domains are common to both misophonia and anxiety disorders 
+while those within the other-directedness domain may 
+serve to distinguish misophonia from anxiety disor -
+ders. Similarly, schemas associated with disconnec -
+tion/rejection and impaired autonomy/performance 
+domains that have been reported as significant pre-
+dictors and maintaining factors of depressive symp -
+toms (Tariq et al., 2021 ; Wegener et al., 2013 ) are also 
+found to be associated with misophonia. Therefore, we 
+see that misophonia, anxiety, and depression share the 
+schemas associated with the disconnection/rejection 
+domain, suggesting that an individual with any of 
+these disorders tends to engage in avoidance coping 
+strategies to avoid distress from unmet needs in social 
+relationships which, in the long run, promotes further 
+social withdrawal.
+The insufficient self-control schema within the 
+impaired limits domain appears to be the only one 
+common across both misophonia and OCD, indicating 
+that issues regarding setting personal and interperso -
+nal limits are relevant to both these disorders. Overall, 
+the finding that schemas from the disconnection and 
+rejection domain are common to misophonia, anxiety 
+and depression disorders, while schemas from the 
+impaired limits domain are common to misophonia 
+and OCD, suggests that misophonia is essentially 
+a condition characterized by problems in emotion 
+and impulse regulation
+The early maladaptive schema model is the theore -
+tical model in support of schema therapy that focuses 
+on the identification and modification of EMS. Schema 
+therapy has been documented to be effective for 
+depression (Carter et al., 2010 ), anxiety and obsessive- 
+compulsive disorders (Peeters, Passel, et al., 2021 ; 
+Peeters, Stappenbelt, et al., 2021 ), and eating disorders 
+(Calvert et al., 2018 ). Now that relevant early maladap -
+tive schemas associated with misophonia have been 
+identified, insight can be gained into early developmen -
+tal correlates of misophonia and therapeutic interven -
+tion through schema therapy may be implemented.
+Limitations and future directions
+The study has several limitations. Results and conclu -
+sions are based on self-reported, retrospective 
+responses collected largely from non-clinical English 
+speaking participants who were primarily female. Also, 
+the scale used to assess misophonia is a newly- 
+developed instrument. Although the authors of the 
+scale have reported sound psychometric properties, 
+the scale has not yet been widely used, warranting 
+replication of the current findings using other measures 
+of misophonia. The low base rate of non-binary 10
+ M. E. STALIAS-MANTZIKOS ET AL.
+
+individuals in the present study may have compromised 
+the power. Power may also have been compromised 
+due to multiple testing. Replication of the study with 
+larger samples of non-binary individuals and replication 
+focused on specific EMSs is recommended. Future stu-
+dies comparing healthy controls with individuals scor -
+ing high on misophonia is warranted. Yet, considering 
+that our sample consisted of participants from a variety 
+of countries with a range of scores on misophonia 
+indicates that our results may be replicated. The finding 
+of a positive association between insufficient self- 
+control EMS and aggressive reactions to misophonic 
+triggers indicates that it might be worthwhile to exam -
+ine if there is an association with length of symptoms. 
+Similarly, as the social isolation EMS associated with 
+misophonic distress, future research into the relation -
+ship between social withdrawal and misophonic distress 
+may be of interest. Considering that intolerance of 
+uncertainty and perfectionism have been found to be 
+transdiagnostic factors, the role of these variables in 
+misophonia needs to be empirically determined. 
+Finally, given that misophonia overlaps with tempera -
+mental factors as well (Daniels et al., 2020 ), the obtained 
+associations between features of misophonia and EMS 
+might be due to the shared influence of a third variable, 
+such as neuroticism (Cassiello-Robbins et al., 2020 ). 
+Future research may delineate the contributions of neu-
+roticism and EMS to symptoms of misophonia. Since 
+there was a connection between some early maladap -
+tive schemas and misophonia, it can be stated that 
+some individuals with misophonia could benefit from 
+schema therapy. There has been no research that high -
+lights the effect of schema therapy on misophonia, thus, 
+further research should be implored to investigate these 
+claims.
+Disclosure statement
+No potential conflict of interest was reported by the 
+author(s).
+Data availability
+All data will be shared upon reasonable request.
+ORCID
+Maria E. Stalias-Mantzikos 
+ http://orcid.org/0000-0003- 
+3700-5326
+Usha Barahmand 
+ http://orcid.org/0000-0003-3049-2854
+Kerry Aguero 
+ http://orcid.org/0000-0003-1436-3526
+Laurisa Peters 
+ http://orcid.org/0000-0003-0265-3729
+Naila Shamsina 
+ http://orcid.org/0000-0002-1994-3805References
+Atalay, H., Atalay, F., Karahan, D., & Çaliskan, M. (2008 ). Early 
+maladaptive schemas activated in patients with obsessive 
+compulsive disorder: A cross-sectional study. International 
+Journal of Psychiatry in Clinical Practice , 12(4), 268–279. 
+https://doi.org/10.1080/13651500802095004 
+Bachrach, N. & Arntz, A. (2021 ). Group schema therapy for 
+patients with cluster-C personality disorders: A case study 
+on avoidant personality disorder. Journal of Clinical 
+Psychology , 77(5), 1233–1248. https://doi.org/10.1002/ 
+jclp.23118 
+Bamelis, L. L., Evers, S. M., Spinhoven, P., & Arntz, A. (2014 , 
+March). Results of a multicenter randomized controlled 
+trial of the clinical effectiveness of schema therapy for 
+personality disorders. The American Journal of Psychiatry , 
+171(3), 305–322. https://doi.org/10.1176/appi.ajp.2013. 
+12040518 
+Barahmand, U., Stalias-Mantzikos, M. E., Rotlevi, E., & Xiang, Y. 
+(2021 ). Disgust and emotion dysregulation in misophonia: 
+A case for mental contamination? International Journal of 
+Mental Health and Addiction . https://doi.org/10.1007/ 
+s11469-021-00677-x 
+Barahmand, U., Stalias-Mantzikos, M., Xiang, Y., & Rotlevi, E. 
+(2023 ). Development of the New York Misophonia Scale 
+(NYMS): Implications for diagnostic criteria. Journal of 
+Psychiatric Practice . (in press).
+Bey, K., Lennertz, L., Riesel, A., Klawohn, J., Kaufmann, C., 
+Heinzel, S., Grützmann, R., Kathmann, N., & Wagner, M. 
+(2017 ). Harm avoidance and childhood adversities in 
+patients with obsessive–compulsive disorder and their 
+unaffected first-degree relatives. Acta Psychiatrica 
+Scandinavica , 135(4), 328–338. https://doi.org/10.1111/ 
+acps.12707 
+Bishop, A., Younan, R., Low, J., & Pilkington, P. D. (2022 ). Early 
+maladaptive schemas and depression in adulthood: 
+A systematic review and meta-analysis. Clinical 
+Psychology & Psychotherapy , 29(1), 111–130. https://doi. 
+org/10.1002/cpp.2630 
+Calvert, F., Smith, E., Brockman, R., & Simpson, S. (2018 ). 
+Group schema therapy for eating disorders: Study 
+protocol. Journal of Eating Disorders , 6(1), 1. https://doi. 
+org/10.1186/s40337-017-0185-8 
+Carter, J. D., Luty, S. E., McKenzie, J. M., Mulder, R. T., 
+Frampton, C. M., & Joyce, P. R. (2010 ). Patient predictors 
+of response to cognitive behaviour therapy and interper -
+sonal psychotherapy in a randomised clinical trial for 
+depression. Journal of Affective Disorders , 128(3), 252–261. 
+https://doi.org/10.1016/j.jad.2010.07.002 
+Cassiello-Robbins, C., Anand, D., McMahon, K., Guetta, R., 
+Trumbull, J., Kelley, L., & Rosenthal, M. Z. (2020 ). The 
+mediating role of emotion regulation within the relation -
+ship between neuroticism and misophonia: A preliminary 
+investigation. Frontiers in Psychiatry , 11, 847. https://doi. 
+org/10.3389/fpsyt.2020.00847 
+Castellini, G., Lelli, L., Cassioli, E., Ciampi, E., Zamponi, F., 
+Campone, B., Monteleone, A. M., & Ricca, V. (2018 ). 
+Different outcomes, psychopathological features, and 
+comorbidities in patients with eating disorders reporting 
+childhood abuse: A 3-year follow-up study. European 
+Eating Disorders Review , 26(3), 217–229. https://doi.org/ 
+10.1002/erv.2586 CLINICAL PSYCHOLOGIST
+ 11
+
+Cockram, D. M., Drummond, P. D., & Lee, C. W. (2010 ). Role 
+and treatment of early maladaptive schemas in Vietnam 
+veterans with PTSD. Clinical Psychology & Psychotherapy , 
+17(3), 165–182. https://doi.org/10.1002/cpp.690 
+Cortés-García, L., Takkouche, B., Rodriguez-Cano, R., & 
+Senra, C. (2020 ). Mediational mechanisms involved in the 
+relation between attachment insecurity and depression: A 
+meta-analysis. Journal of Affective Disorders , 277, 706–726. 
+https://doi.org/10.1016/j.jad.2020.08.082 
+Cowan, E. N., Marks, D. R., & Pinto, A. (2022 ). Misophonia: 
+A psychological model and proposed treatment. Journal of 
+Obsessive-Compulsive and Related Disorders , 32, 100691. 
+https://doi.org/10.1016/j.jocrd.2021.100691 
+Cudo, A., Dobosz, M., Griffiths, M. D., & Kuss, D. J. (2022 ). The 
+relationship between early maladaptive schemas, depres -
+sion, anxiety and problematic video gaming among 
+female and male gamers. International Journal of Mental 
+Health and Addiction , 1–28. https://doi.org/10.1007/ 
+s11469-022-00858-2 
+Dadomo, H., Grecucci, A., Giardini, I., Ugolini, E., Carmelita, A., 
+& Panzeri, M. (2016 ). Schema therapy for emotional dysre -
+gulation: Theoretical implication and clinical applications. 
+Frontiers in Psychology , 7, 1987. https://doi.org/10.3389/ 
+fpsyg.2016.01987 
+Daniels, E. C., Rodriguez, A., & Zabelina, D. L. (2020 ). Severity 
+of misophonia symptoms is associated with worse cogni -
+tive control when exposed to misophonia trigger sounds. 
+Plos One , 15(1), e0227118. https://doi.org/10.1371/journal. 
+pone.0227118 
+Dozier, T. H. (2015 ). Etiology, composition, development and 
+maintenance of misophonia: A conditioned aversive reflex 
+disorder. Psychological Thought , 8(1), 114–129. https://doi. 
+org/10.5964/psyct.v8i1.132 
+Edelstein, M., Brang, D., Rouw, R., & Ramachanan, V. S. (2013 ). 
+Misophonia: Physiological investigations and case 
+descriptions. Frontiers in Human Neuroscience , 7, 296. 
+https://doi.org/10.3389/fnhum.2013.00296 
+Greenberg, B. (2017 ). Assessing the impact of sound sensitivity 
+in tinnitus . ProQuest Dissertations Publishing.
+Guetta, R. E., Cassiello-Robbins, C., Trumbull, J., Anand, D., & 
+Rosenthal, M. Z. (2022 ). Examining emotional functioning 
+in misophonia: The role of affective instability and difficul -
+ties with emotion regulation. Plos One , 17(2), e0263230. 
+https://doi.org/10.1371/journal.pone.0263230 
+Hadjipavlou, G., Baer, S., Lau, A., & Howard, A. (2008 , July). 
+Selective sound intolerance and emotional distress: What 
+every clinician should hear. Psychosomatic Medicine , 70(6), 
+739–740. https://doi.org/10.1097/PSY.0b013e318180edc2 
+Hayward, L. E., Vartanian, L. R., Kwok, C., & Newby, J. M. (2020 ). 
+How might childhood adversity predict adult psychologi -
+cal distress? Applying the identity disruption model to 
+understanding depression and anxiety disorders. Journal 
+of Affective Disorders , 265, 112–119. https://doi.org/10. 
+1016/j.jad.2020.01.036 
+Jager, I., de Koning, P., Bost, T., Denys, D., & Vulink, N. (2020 ). 
+Misophonia: Phenomenology, comorbidity and demo -
+graphics in a large sample. Plos One , 15(4), e0231390. 
+https://doi.org/10.1371/journal.pone.0231390 
+Jain, A. & Singh, K. (2019 ). Validation of the young schema 
+questionnaire: Short form 3 in Indian population. 
+Psychological Studies , 64(2), 118–130. https://doi.org/10. 
+1007/s12646-019-00493-3 Janson, D. L., Harms, C. A., Hollett, R. C., & Segal, R. D. (2019 ). 
+Differences between men and women regarding early 
+maladaptive schemas in an Australian adult alcohol 
+dependent clinical sample. Substance Use & Misuse , 54(2), 
+177–184. https://doi.org/10.1080/10826084.2018.1480038 
+Jastreboff, M. M. & Jastreboff, P. J. (2001 ). Components of 
+decreased sound tolerance: Hyperacusis, misophonia, 
+phonophobia. ITHS News Letter , 2, 5–7.
+Khosravani, V., Sharifi Bastan, F., Samimi Ardestani, M., & 
+Jamaati Ardakani, R. (2017 ). Early maladaptive schemas 
+and suicidal risk in an Iranian sample of patients with 
+obsessive-compulsive disorder. Psychiatry Research , 255, 
+441–448. https://doi.org/10.1016/j.psychres.2017.06.080 
+Kim, J. E., Lee, S. W., & Lee, S. J. (2013 ). Relationship between 
+early maladaptive schemas and symptom dimensions in 
+patients with obsessive-compulsive disorder. Psychiatry 
+Research , 215(1), 134–140. https://doi.org/10.1016/j.psy 
+chres.2013.07.036 
+Kizilagac, F. (2019 ). Assessment of early maladaptive schemas 
+in patients with obsessive-compulsive disorder. Dusunen 
+Adam: The Journal of Psychiatry and Neurological Sciences , 
+32(1), 14–22. https://doi.org/10.14744/DAJPNS.2019. 
+00003 
+Koerner, N., Tallon, K., & Kusec, A. (2015 ). Maladaptive core 
+beliefs and their relation to generalized anxiety disorder. 
+Cognitive Behaviour Therapy , 44(6), 441–455. https://doi. 
+org/10.1080/16506073.2015.1042989 
+Kube, T., Schwarting, R., Rozenkrantz, L., Glombiewski, J. A., & 
+Rief, W. (2019 ). Distorted cognitive processes in major 
+depression: A predictive processing perspective. 
+Biological Psychiatry (1969) , 87(5), 388–398. https://doi. 
+org/10.1016/j.biopsych.2019.07.017 
+Kwak, K. -H. & Lee, S. J. (2015 ). A comparative study of early 
+maladaptive schemas in obsessive–compulsive disorder 
+and panic disorder. Psychiatry Research , 230(3), 757–762. 
+https://doi.org/10.1016/j.psychres.2015.11.015 
+Mairet, K., Boag, S., & Warburton, W. (2014 ). How important is 
+temperament? The relationship between coping styles, 
+early maladaptive schemas and social anxiety. Revista 
+Internacional De Psicología y Terapia Psicológica , 14(2), 171.
+Malogiannis, I. A., Arntz, A., Spyropoulou, A., Tsartsara, E., 
+Aggeli, A., Karveli, S., Vlavianou, M., Pehlivanidis, A., 
+Papadimitriou, G. N., & Zervas, I. (2014 ). Schema therapy 
+for patients with chronic depression: A single case series 
+study. Journal of Behavior Therapy and Experimental 
+Psychiatry , 45(3), 319–329. https://doi.org/10.1016/j.jbtep. 
+2014.02.003 
+Marengo, S. M., Klibert, J., Langhinrichsen-Rohling, J., 
+Warren, J., & Smalley, K. B. (2019 ). The relationship of early 
+maladaptive schemas and anticipated risky behaviors in 
+college students. Journal of Adult Development , 26(3), 
+190–200. https://doi.org/10.1007/s10804-018-9313-1 
+Maric, M., Heyne, D. A., van Widenfelt, B. M., & 
+Westenberg, P. M. (2010 ). Distorted cognitive processing 
+in youth: The structure of negative cognitive errors and 
+their associations with anxiety. Cognitive Therapy and 
+Research , 35(1), 11–20. https://doi.org/10.1007/s10608- 
+009-9285-3 
+McIntosh, V. V. W., Jordan, J., Carter, J. D., Frampton, C. M. A., 
+McKenzie, J. M., Latner, J. D., & Joyce, P. R. (2016 ). 
+Psychotherapy for transdiagnostic binge eating: 
+A randomized controlled trial of cognitive-behavioural 12
+ M. E. STALIAS-MANTZIKOS ET AL.
+
+therapy, appetite-focused cognitive-behavioural therapy, 
+and schema therapy. Psychiatry Research , 240, 412–420. 
+https://doi.org/10.1016/j.psychres.2016.04.080 
+Munuera, C., Roux, P., Weil, F., Passerieux, C., & M’bailara, K. 
+(2020 ). Determinants of the remission heterogeneity in 
+bipolar disorders: The importance of early maladaptive 
+schemas (EMS). Journal of Affective Disorders , 277, 
+857–868. https://doi.org/10.1016/j.jad.2020.08.079 
+Natalini, E., Dimaggio, G., Varakliotis, T., Fioretti, A., & 
+Eibenstein, A. (2019 ). Misophonia, maladaptive schemas 
+and personality disorders: A report of three cases. Journal 
+of Contemporary Psychotherapy , 50(1), 29–35. https://doi. 
+org/10.1007/s10879-019-09438-3 
+Nilsson, K. K., Nielsen Straarup, K., & Halvorsen, M. (2015 ). 
+Early maladaptive schemas: A comparison between bipo -
+lar disorder and major depressive disorder: Early maladap -
+tive schemas. Clinical Psychology & Psychotherapy , 22(5), 
+387–391. https://doi.org/10.1002/cpp.1896 
+Oei, T. P. S. & Baranoff, J. (2007 ). Young schema question -
+naire: Review of psychometric and measurement issues. 
+Australian Journal of Psychology , 59(2), 78–86. https://doi. 
+org/10.1080/00049530601148397 
+Pauwels, E., Dierckx, E., Schoevaerts, K., & Claes, L. (2016 ). 
+Early maladaptive schemas in eating disordered patients 
+with or without non-suicidal self-injury. European Eating 
+Disorders Review , 24(5), 399–405. https://doi.org/10.1002/ 
+erv.2460 
+Pauwels, E., Dierckx, E., Smits, D., Janssen, R., & Claes, L. 
+(2018 ). Validation of the Young Schema 
+Questionnaire-Short Form in a Flemish community 
+sample. Psychologica Belgica , 58(1), 34–50. https://doi. 
+org/10.5334/pb.406 
+Peeters, N., Passel, B. V., & Krans, J. (2021 ). The effectiveness of 
+schema therapy for patients with anxiety disorders, OCD, 
+or PTSD: A systematic review and research agenda. British 
+Journal of Clinical Psychology , 61(3), 579–597. https://doi. 
+org/10.1111/bjc.12324 
+Peeters, N., Stappenbelt, S. I., Burk, W. J., Passel, B. V., & 
+Krans, J. (2021 ). Schema therapy with exposure and 
+response prevention for the treatment of chronic anxiety 
+with comorbid personality disorder. British Journal of 
+Clinical Psychology , 60(1), 68–76. https://doi.org/10.1111/ 
+bjc.12271 
+Popa, C. O., Rus, A. V., Skinner, C., & Jakab, Z. S. (2017 ). The 
+relation of dysfunctional cognitive schemas and personal -
+ity dimensions in generalized anxiety disorder. Acta 
+Medica Marisiensis , 63(4), 183–189. https://doi.org/10. 
+1515/amma-2017-0035 
+Pozza, A., Albert, U., & Dèttore, D. (2020 ). Early maladaptive 
+schemas as common and specific predictors of skin pick -
+ing subtypes. BMC Psychology , 8(1), 27. https://doi.org/10. 
+1186/s40359-020-0392-y 
+Renner, F., Arntz, A., Peeters, F. P. M. L., Lobbestael, J., & 
+Huibers, M. J. H. (2015 ). Schema therapy for chronic 
+depression: Results of a multiple single case series. 
+Journal of Behavior Therapy and Experimental Psychiatry , 
+51, 66–73. https://doi.org/10.1016/j.jbtep.2015.12.001 
+Rouw, R. & Erfanian, M. (2018 ). A large-scale study of 
+misophonia. Journal of Clinical Psychology , 74(3), 
+453–479. https://doi.org/10.1002/jclp.22500 
+Rowlands, K., Grafton, B., Cerea, S., Simic, M., Hirsch, C., 
+Cruwys, T., Yellowlees, R., Treasure, J., & Cardi, V. (2021 ). A multifaceted study of interpersonal functioning and 
+cognitive biases towards social stimuli in adolescents 
+with eating disorders and healthy controls. Journal of 
+Affective Disorders , 295, 397–404. https://doi.org/10.1016/ 
+j.jad.2021.07.013 
+Saritas-Atalar, D. & Altan-Atalay, A. (2018 ). Differential roles of 
+early maladaptive schema domains on the link between 
+perceived parenting behaviors and depression, anxiety, 
+and anger. Current Psychology New Brunswick NJ, 39(4), 
+1466–1475. https://doi.org/10.1007/s12144-018-9852-4 
+Sauder, D. C. & DeMars, C. E. (2019 ). An updated recommen -
+dation for multiple comparisons. Advances in Methods and 
+Practices in Psychological Science , 2(1), 26–44. https://doi. 
+org/10.1177/2515245918808784 
+Schröder, A., Vulink, N., & Denys, D. (2013 ). Misophonia: 
+Diagnostic criteria for a new psychiatric disorder. Plos 
+One , 8(1), e54706. https://doi.org/10.1371/journal.pone. 
+0054706 
+Schröder, A., Wingen, G. V., Eijsker, N., San Giorgi, R., 
+Vulink, N. C., Turbyne, C., & Denys, D. (2019 ). Misophonia 
+is associated with altered brain activity in the auditory 
+cortex and salience network. Scientific Reports , 9(1), 7542. 
+https://doi.org/10.1038/s41598-019-44084-8 
+Schwartz, P., Leyendecker, J., & Conlon, M. (2011 ). 
+Hyperacusis and misophonia: The lesser-known siblings 
+of tinnitus. Minnesota Medicine , 94(11), 42–43.
+Şenkal Ertürk, İ., Kahya, Y., & Gör, N. (2020 ). Childhood emo -
+tional maltreatment and aggression: The mediator role of 
+the early maladaptive schema domains and difficulties in 
+emotion regulation. Journal of Aggression, Maltreatment & 
+Trauma , 29(1), 92–110. https://doi.org/10.1080/10926771. 
+2018.1541493 
+Shorey, R. C., Anderson, S. E., & Stuart, G. L. (2012 ). Gender 
+differences in early maladaptive schemas in a 
+treatment-seeking sample of alcohol-dependent adults. 
+Substance use & misuse , 47(1), 108–116. https://doi.org/ 
+10.3109/10826084.2011.629706 
+Shorey, R. C., Elmquist, J., Anderson, S., & Stuart, G. L. (2015 , 
+July-August). The relationship between early maladaptive 
+schemas, depression, and generalized anxiety among 
+adults seeking residential treatment for substance use 
+disorders. Journal of Psychoactive Drugs , 47(3), 230–238. 
+https://doi.org/10.1080/02791072.2015.1050133 
+Shorey, R. C., Stuart, G. L., & Anderson, S. (2012 ). The early 
+maladaptive schemas of an opioid-dependent sample of 
+treatment seeking young adults: A descriptive 
+investigation. Journal of Substance Abuse Treatment , 42 
+(3), 271–278. https://doi.org/10.1016/j.jsat.2011.08.004 
+Siepsiak, M., Sobczak, A. M., Bohaterewicz, B., Cichocki, Ł., & 
+Dragan, W. Ł. (2020 ). Prevalence of misophonia and corre -
+lates of its symptoms among inpatients with depression. 
+International Journal of Environmental Research and Public 
+Health , 17(15), 5464. https://doi.org/10.3390/ 
+ijerph17155464 
+Swedo, S., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., 
+Fioretti, A., Jastreboff, P. J., Kumar, S., Rosenthal, M. Z., 
+Rouw, R., Schiller, D., Simner, J., Storch, E. A., Talylor, S., 
+Vander Werff, K. R., & Raver, S. M. (2022 ). Consensus defini -
+tion of misophonia: A Delphi study. Frontiers in 
+Neuroscience , 16, 841816. https://doi.org/10.3389/fnins. 
+2022.841816 CLINICAL PSYCHOLOGIST
+ 13
+
+Tao, J., He, K., & Xu, J. (2021 ). The mediating effect of 
+self-compassion on the relationship between childhood mal-
+treatment and depression. Journal of Affective Disorders , 291, 
+288–293. https://doi.org/10.1016/j.jad.2021.05.019 
+Tariq, A., Reid, C., & Chan, S. W. Y. (2021 ). A meta-analysis of 
+the relationship between early maladaptive schemas and 
+depression in adolescence and young adulthood. 
+Psychological Medicine , 51(8), 1233–1248. https://doi.org/ 
+10.1017/S0033291721001458 
+Tasca, G. A. (2019 ). Attachment and eating disorders: 
+A research update. Current Opinion in Psychology , 25, 
+59–64. https://doi.org/10.1016/j.copsyc.2018.03.003 
+Thimm, J. C. (2010 ). Relationships between early maladaptive 
+schemas and psychosocial developmental task resolution. 
+Clinical Psychology & Psychotherapy , 17(3), 219–230. 
+https://doi.org/10.1002/cpp.647 
+Tibi, L., van Oppen, P., van Balkom, A. J. L. M., Eikelenboom, M., 
+Hendriks, G. -J., & Anholt, G. E. (2018 ). The relationship 
+between cognitions and symptoms in obsessive-compulsive 
+disorder. Journal of Affective Disorders , 225, 495–502. https:// 
+doi.org/10.1016/j.jad.2017.08.072 
+Tremblay, P. F. & Dozois, D. J. A. (2009 ). Another perspec -
+tive on trait aggressiveness: Overlap with early mala -
+daptive schemas. Personality and Individual Differences , 
+46(5–6), 569–574. https://doi.org/10.1016/j.paid.2008. 
+12.009 
+Van Assche, L., Van de Ven, L., Vandenbulcke, M., & 
+Luyten, P. (2020 ). Ghosts from the past? The association 
+between childhood interpersonal trauma, attachment 
+and anxiety and depression in late life. Aging & Mental 
+Health , 24(6), 898–905. https://doi.org/10.1080/ 
+13607863.2019.1571017 
+van Leeuwen, W. A., van Wingen, G. A., Luyten, P., Denys, D., & 
+van Marle, H. J. F. (2020 , March). Attachment in OCD: A 
+meta-analysis. Journal of Anxiety Disorders , 70, 102187. 
+https://doi.org/10.1016/j.janxdis.2020.102187 
+Voderholzer, U., Schwartz, C., Thiel, N., Kuelz, A. K., 
+Hartmann, A., Scheidt, C. E., Schlegl, S., & Zeeck, A. (2013 ). 
+A comparison of schemas, schema modes and childhood 
+traumas in obsessive-compulsive disorder, chronic pain disorder and eating disorders. Psychopathology , 47(1), 
+24–31. https://doi.org/10.1159/000348484 
+Wegener, I., Alfter, S., Geiser, F., Liedtke, R., & Conrad, R. 
+(2013 ). Schema change without schema therapy: The 
+role of early maladaptive schemata for a successful treat -
+ment of major depression. Psychiatry: Interpersonal and 
+Biological Processes , 76(1), 1–17. https://doi.org/10.1521/ 
+psyc.2013.76.1.1 
+Wibbelink, C. J. M., Arntz, A., Grasman, R. P. P. P., Sinnaeve, R., 
+Boog, M., Bremer, O. M. C., Dek, E. C. P., Alkan, S. G., 
+James, C., Koppeschaar, A. M., Kramer, L., Ploegmakers, M., 
+Schaling, A., Smits, F. I., & Kamphuis, J. H. (2022 ). Towards 
+optimal treatment selection for borderline personality dis-
+order patients (BOOTS): A study protocol for a multicenter 
+randomized clinical trial comparing schema therapy and 
+dialectical behavior therapy. BMC Psychiatry , 22(1), 89. 
+https://doi.org/10.1186/s12888-021-03670-9 
+Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014 ). 
+Misophonia: Incidence, phenomenology, and clinical cor-
+relates in an undergraduate student sample. Journal of 
+Clinical Psychology , 70(10), 994–1007. https://doi.org/10. 
+1002/jclp.22098 
+Yakın, D., Grasman, R., & Arntz, A. (2020 ). Schema modes as 
+a common mechanism of change in personality pathology 
+and functioning: Results from a randomized controlled 
+trial. Behaviour Research and Therapy , 126, 103553. 
+https://doi.org/10.1016/j.brat.2020.103553 
+Young, J. E. & Brown, G. (1994 ). Young Schema 
+Questionnaire. Cognitive therapy for personality disor -
+ders: A schema-focused approach, In J. E. Young (Ed.), 
+Cognitive therapy for personality disorders: A schema- 
+focused approach, (2nd ed., pp. 63–76). Professional 
+Resource Press.
+Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003 ). Schema 
+therapy: A practitioner’s guide . Guilford Press.
+Zhou, X., Wu, M. S., & Storch, E. A. (2017 ). Misophonia symp -
+toms among Chinese university students: Incidence, asso -
+ciated impairment, and clinical correlates. Journal of 
+Obsessive-Compulsive and Related Disorders , 14, 7–12. 
+https://doi.org/10.1016/j.jocrd.2017.05.00114
+ M. E. STALIAS-MANTZIKOS ET AL.

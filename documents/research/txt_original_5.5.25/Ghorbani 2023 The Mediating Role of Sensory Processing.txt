@@ -1,0 +1,199 @@
+The Mediating Role of Sensory Processing and Attentional Control in the Relationship Between Misophonia and Severity of Disability, Emotional Traits, and Disgust Propensity in Iranian College Students
+
+Sareh Ghorbani , Dr. Dorsa Mazaheri Asadi , Ahmad Ashouri , Hojjatollah Farahani , 1 1 1 2 Niusha Akbari Saneh , and Zahra Abedi 1 1
+
+1 Iran University of Medical Sciences School of Behavioral Sciences and Mental Health 2 Tarbiat Modares University
+
+June 29, 2023
+
+## Abstract
+
+Background: The current study investigates how sensory processing and attention management mediate the associations between misophonia and the degree of disability, emotional characteristics, and disgust propensity. Methods: The structural equation modeling approach was applied on the data gathered from 495 students from public colleges through convenience sampling in order to carry out this study. Results: The findings demonstrated that misophonia significantly affects both attention control and sensory processing. It was also discovered that attention control has a mediating role in the relationships between misophonia and disgust propensity as well as in the relationship between misophonia, depression, and anxiety. Keywords : Misophonia, Sensory Processing, Attention Control, Severity of Disability, Emotional Characteristics, and Disgust Propensity
+
+## Introduction
+
+Misophonia, also known as selective sound sensitivity syndrome, is a condition in which a person's emotional response to common soft noises or visual imagery is severe. These sounds and images are referred to as 'triggers' that elicit different forms of anger or disgust responses (Dozier, 2017). The triggers could be certain innocuous or repetitive sounds, such as chewing, pen clicking, and lip-smacking, that cause autonomic arousal, an involuntary 'fight-or-flight' response, (Edelstein et al., 2013). The meaning, social context, or interpretation of the trigger appears to affect the response to these noises (Rouw &amp; Erfanian, 2018). There are physiological or bodily behaviors that accompany the emotions caused by triggers as well. Elevated general muscle tension, increased heart rate, perspiration, and sensations of overwhelming anguish are among these symptoms (Dozier, 2017). The reactions to these specific harmless sounds cause the patient to avoid situations where they may occur, reducing one's ability to communicate with people and frequently leading to major problems in their social and professional lives (Edelstein et al., 2013). Research by Edelstein et al. (2013) reported that misophonia can be influenced by social expectations as well as situational circumstances, implying that the disease is more sophisticated than simply an adverse response to the physical qualities of sounds.
+
+Misophonic individuals normally develop a number of coping strategies; sometimes they can calm emotional and physical responses by mimicking the trigger sounds (Edelstein et al., 2013), asking others to stop making the trigger sound (Edelstein et al., 2013; Johnson et al., 2013; Webber &amp; Storch, 2015), and distracting themselves from the sound by 'directing thoughts'(Johnson et al., 2013). However, avoidance is the most common strategy which could happen by anticipating unexpected events and planning to avoid them or
+
+using earplugs (Edelstein et al., 2013; Schr¨der et o al., 2014; Webber &amp; Storch, 2015). People with this condition often become alienated from the people they are closest to, leading to relationship breakdown, unemployment, and social isolation (Bernstein et al., 2013).
+
+Misophonia is a relatively unexplored condition (Edelstein et al., 2013). The Misophonic individuals do not show underlying deficits in the hearing tests and have normal hearing (Schr¨der et al., o 2014). The studies conducted to date have focused on the stimulus-emotion relationship and the physiological responses associated with strong emotions (Edelstein et al., 2013; Schr¨der et al., 2014; Wu et al., 2014). Factors such o as over-reactivity, as in sensory processing disorder (Edelstein et al., 2013), increase in selective attention (da Silva &amp; Sanchez, 2019), and emotion dysregulation are considered in the etiology of misophonia. Moreover, the causes of misophonia appear to share some characteristics with anxiety disorders (Erfanian et al., 2017; Hadjipavlou et al., 2008; Rouw &amp; Erfanian, 2018); including negative reactions to the triggers, such as anxiety and distress, and the need for avoidance to stay calm (Wu et al., 2014). Based on previous studies, ADHD (Reynolds &amp; Lane, 2009; Schr¨der et al., 2014) and Autism Spectrum Disorder (Green &amp; Ben-Sasson, 2010) o seem to be associated with misophonia as well.
+
+According to these associations and the results of limited research in the field of misophonia, it is assumed that the two variables of attention control (da Silva &amp; Sanchez, 2019) and sensory processing are involved in the development of misophonia symptoms.
+
+Based on Derryberry and Reed (2002), attention control is defined as 'a general capacity to control attention in relation to positive as well as negative reactions'. Additionally, there are three subfactors that are connected to this ability: (a) to focus attention, volitional capacity to maintain focus on desired channels and resist involuntary switching to irrelevant or distracting channels, (b) to shift attention between tasks, the capacity to voluntarily shift attention to desired channels and avoid focusing on an involuntary channel, and (c) to flexibly control thought, the ability to control attention.
+
+According to Jastreboff and Jastreboff (2015), misophonia is thought to be caused by a high level of activation of the limbic and autonomic nervous systems as a result of enhanced connections between the auditory system and other brain systems while at the same time the auditory system has a normal function and misophonia does not have any relation to the threshold of hearing. The anterior insular cortex (AIC), which is crucial for the perception of interoceptive signals and emotion processing shows enhanced responses to trigger noises in misophonia (Kumar et al., 2017). This section of the cortex plays an important role in the task of attention, working memory, and response selection (Seeley et al., 2007). Moreover, anterior insular and orbitofrontal cortices are associated with emotions such as recall-generated sadness or anger, anticipatory anxiety, panic, and disgust (Craig, 2002). The insular cortex and anterior cingulate cortex are engaged in the moral evaluation of stimuli (Pascual et al., 2013), as well as facilitating bottom-up access to the brain's attentional and working memory resources (Menon &amp; Uddin, 2010). Therefore, it is possible that patients perceive misophonic stimuli as personal aggression which leads to their subsequent anger.
+
+One of the ways that misophonic individuals are different from others is sensory processing. Sensory processing is a vital characteristic of humans, which plays an important role in learning and performing daily life functions. In fact, the brain accepts sensory information and interprets its meaning based on experiences and biological structure which are used for understanding the body and the world (Miller et al., 2007). Dunn (2001) has proposed four fundamental sensory patterns, which will be applied in this study 1) Low Registration: this pattern denotes a high threshold for anxiety and a passive approach. Low sensory register individuals tend to be unattractive and occasionally dull as they are less conscious of sensory inputs and unresponsive to their surroundings. It is theorized that in the case of these individuals, the majority of life events are incompatible with the severity of their neural threshold, and as a result, they tend to disregard their activities due to their passive coping style. 2) Sensation Seeking: a high sensory threshold and an active strategy are paired in the sensation seeking processing style. Sensory seekers are those who actively seek out and love new sensory experiences. They allegedly use an active method to boost sensory input. 3) Sensory Sensitivity: this pattern features a passive approach and a low neural threshold. These individuals receive more sensory information than average. They have a short response time to stimuli, and they usually focus
+
+on and react to any input as soon as it happens. 4) Sensory Avoiding: this is a pattern of sensory processing that combines an active strategy with a low neural threshold. People that exhibit this pattern receive more sensory information and actively seek to avoid it. They frequently make an effort to lessen outside stimuli.
+
+Based on the previous findings, attentional control and sensory processing seem to play an important role in misophonia. Individuals with misophonia may experience severe emotional responses such as anger, anxiety, disgust, and distress as a result of these factors, which can negatively impact their social functioning (impairments at work and relationships). The current study aims to investigate the moderating role of attentional control and sensory processing in the relationship between misophonia, the severity of the disability, and emotional traits.
+
+## Methods and Measures
+
+## Participants
+
+The statistical population of the present study consists of all students studying in public universities in Iran. In order to carry out the research, 495 students were selected from Tehran, Beheshti, Iran, and Allameh Tabatabai faculties of medical sciences by convenience sampling method. To determine the sample size in the present study, James Stines' suggestion was used. Based on this, 15 cases are considered for each predictor variable in multiple regression analysis. In the current study, there are about 20 variables, and taking into account the possibility of dropping some questionnaires, 495 people are sampled. Demographic questions, misophonia questionnaire, Sheehan disability scale, disgust propensity and sensitivity scale, multiple affect adjective check list, and the attention control scale were answered by the participants after obtaining written consent. These measures were implemented randomly and both in paper-pencil and online forms.
+
+## Procedures
+
+Descriptive and inferential analysis methods were used for statistical data analysis. For descriptive analysis, SPSS 25 software and for indicators such as frequency percentage, mean and standard deviation, and for inferential data analysis, Pearson's correlation coefficient and structural equation analysis, Amos-22 software were used. The maximum likelihood method was used for structural equation modeling. To check the research model, the two-step method proposed by Anderson and Gerbing was used. In this model, first, the validity and reliability of the research tools are examined using the confirmatory factor analysis method. Then, according to the nature of the concepts raised in this research, the compiled model was tested with the method of structural equation modeling.
+
+## Measures
+
+Adolescent/Adult Sensory Processing (ASP-A) was created by Brown and Dunn in 2001 based on Dunn's (Dunn, 1997) sensory profile for children. This questionnaire is a 60-question self-report scale that measures sensory processing style. Moreover, this scale measures four levels of sensory processing, including sensory sensitivity, low registration, sensory avoiding behaviors, and sensation seeking behaviors. The subject is asked to rate these questions on a 5-point Likert scale (never, rarely, sometimes, often, and always).
+
+Misophonia Questionnaire (MQ) is an 18-item self-report questionnaire that measures symptoms and reactions related to unpleasant sounds, as well as a general rating of the severity of misophonia (Wu et al., 2014). The items are made based on clinical diagnosis and receiving information from patients with misophonia. The severity index uses a visual analog scale (VAS). The range of scores is between 1 and 15, with a cut-off point of 7 indicating at least 'moderate sensitivity to sound' that results in significant disturbance to the individual.
+
+Sheehan Disability Scale (SDS) is a three-part self-report questionnaire that measures the degree of impairment in work/school, social life, and family life/household responsibilities due to the symptoms of interest. Responses are recorded on a 10-point Likert scale ranging from 0 (not at all) to 10 (extremely). Internal consistency is reported to be high (= 0.89) for the three-item scale and was adequate to identify clinically compromised patients (Wu et al., 2014).
+
+Disgust Propensity and Sensitivity Scale-Revised (DPSS-R) is a 16-item measure to record the frequency of disgust experiences (disgust propensity) and the emotional impact of disgust experiences (disgust sensitivity). Respondents rate their agreement with each item on a scale from 1 (never) to 5 (always). Preliminary research has shown that the DPSS-R is reasonably reliable, with alpha coefficients of 0.78 for the disgust propensity subscale and 0.77 for the disgust sensitivity subscale (Van Overveld et al., 2006).
+
+Multiple Affect Adjective Check List-Revised (MAACL-RA) test includes 132 adjectives and has two adjective and state forms. The revised version of this test (Zuckerman et al., 1960) includes 5 main scales and 2 summary scores. Anxiety, depression, hostility, positive mood, sense of search, dysphoria and positive mood. The internal validity of the anxiety, depression and hostility scales of the state form in the 8 studied samples has a coefficient of 0.74 to 0.9. Such alpha validity for scores of hostilities, dysphoria, and positive mood plus sense of seeking included approximately 0.9 or higher.
+
+The Attention Control Scale (ACS )(Derryberry &amp; Reed, 2002) is a 20-item self-report scale scored on a 4-point Likert from 1 (almost never) to 4 (always). This tool evaluates attention control in two areas; attentional focusing and attentional shifting. In Armstrong et al. (2011)'s study, the Cronbach's alpha of the whole scale and subscales of focus and shift of attention were calculated as 0.86, 0.82 and 0.75, respectively. In Iran, the total Cronbach's alpha of this scale in the clinical and non-clinical samples was 0.81 and 0.74, respectively, in the attention focus subscale, 0.78 and 0.73, and in the change of attention, 0.84 and 0.68.
+
+## Results
+
+## Descriptive and Bivariate Correlations
+
+The means, standard deviations, and frequencies of all observed variables are shown in Table 1. Table 2 shows Pearson correlation coefficients, means, SD, ranges for the predictor misophonia, potential mediators (sensory processing (and its subscale: Low Registration, Sensation Seeking, Sensory Sensitivity and Sensation Avoiding) and attentional control), and main outcomes (functional disabilities (family functioning, social functioning and work and school functioning), hostility, disgust, depression and anxiety)
+
+## Structural Equation Models
+
+## Functional Disability
+
+The goodness-of-fit indices of the mediation model are as follows: CFI =0.91, GFI =0.89, AGFI=0.87, NFI=0.92, NNFI=0.92, PGFI=0.61; and RMSEA=0.08. There were significant direct effects from misophonia to Sensory processing ( b =0.47, p=0.001), Attentional control ( b =0.44, p =0.001) and SDS-M-family and home ( =0.61, p=0.001), SDS-M-social ( b b =0.64, p=0.001) and SDS-M-work and school ( b =0.52, p=0.001). The direct effect between Attentional control and SDS-M-family and home ( b =0.49, p=0.001), SDS-M-social ( b =0.45, p=0.001) and SDS-M-work and school ( b =0.47, p=0.001) were significant. The direct effect between Sensory processing and SDS-M-family and home ( b =0.59, p=0.001), SDS-M-social ( b =0.64, p=0.001) and SDS-M-work and school ( =0.51, p=0.001) were significant. b There were significant indirect effects from misophonia to SDS-M-family and home ( b =0.28, p=0.001), SDS-M-social ( b =,0.31 p=0.001) and SDS-Mwork and school ( b =0.24, p=0.001) through Sensory processing and from misophonia to SDS-M-family and home ( b =0.22, p=0.001), SDS-M-social ( b =0.19, p=0.001), SDS-M-work and school ( b =0.21, p=0.001) through attentional control. Figure 1 shows a visual representation of the model.
+
+## Hostility Structural Model
+
+Figure 2 shows a visual representation of the model. The goodness-of-fit indices of the mediation model are as follows: CFI = 0.94, GFI = 0.94, AGFI=0.88, NFI=0.93, NNFI=0.90, PGFI=0.49; and RMSEA = 0.09. There were significant direct effects from misophonia to Sensory processing ( b =-0.45, p &lt; 0.01), Attentional control ( b = 0.57, p &lt; 0.001) and Hostility ( b =0.27, p=0.001). The direct effect between Attentional control and Hostility ( b =0.71, p=0.04) was significant. There was significant indirect effect from misophonia to Hostility ( b =0.41, p=0.04) through Attentional control. Figure 2 shows a visual representation of the model.
+
+## Disgust Structural Model
+
+Fit indices supported the model's goodness of fit: CFI = 0.94, GFI = 0.94, AGFI=0.87, NFI=0.93, NNFI=0.90, PGFI=0.52; and RMSEA = 0.08. There were significant direct effects from misophonia to Sensory processing ( b = 0.46, p = 0. 01), Attentional control ( b = 0.58, p &lt; 0.001) and Disgust ( b =0.38, p=0.001). The direct effect between Attentional control and Disgust ( b =0.71, p=0.05) was significant. There was significant indirect effect from misophonia and Disgust ( b =0.41, p=0.03) through Attentional control. Figure 3 shows a visual representation of the model.
+
+## Depression Structural Model
+
+Fit indices supported the model's goodness of fit: CFI = 0.94, GFI = 0.93, AGFI=0.86, NFI=0.91, NNFI=0.92, PGFI=0.56; and RMSEA = 0.09. There were significant direct effects from misophonia to Sensory processing ( b = -0.45, p &lt; 0.01) Attentional control ( b = 0.57, p &lt; 0.001) and Depression ( b =0.21, p=0.001). The direct effects between Sensory processing and Depression ( b =0.24, p=0.001) and between Attentional control and Depression ( b =0.19, p=0.002) were significant. There was significant indirect effect from misophonia to Depression through Sensory processing ( b =0.11, p=0.001). Figure 4 shows a visual representation of the model.
+
+## Anxiety Structural Model
+
+An examination of the fit statistics for the current model (Figure 1) indicates a perfect fit, CFI=0.94, GFI=0.94, AGFI=0.91, NFI=0.96, NNFI=0.92, PGFI=0.59; and RMSEA=0.07. There were significant direct effects from misophonia to Sensory processing ( b = 0.45, p=0.01), attentional control ( b =0.58, p=0.001) and anxiety ( b =0.47, p=0.001) and there were significant direct effects from attentional control ( b =0.31, p=0.001) and sensory processing b =0.24, p=0.001) to anxiety. There were significant indirect effects from misophonia to anxiety through attentional control ( b =0.18, p=0.001) and through sensory processing ( b =0.11, p=0.01). Figure 5 shows a visual representation of the model.
+
+Table 1: Characteristics of the Participants
+
+| Variable                      | n (%)        |
+|-------------------------------|--------------|
+| Age , mean ± SD, years Gender | 24.10 ± 6.01 |
+| female                        | 380(78.4)    |
+| Male                          | 84(17.3)     |
+| Education                     |              |
+| Diploma                       | 150(30.9)    |
+| Bachelor                      | 217(44.7)    |
+| Master                        | 94(19.4)     |
+| Doctoral                      | 16(3.3)      |
+| Marital status                |              |
+| Married                       | 96(19.8)     |
+| Single                        | 379(78.1)    |
+| Divorced                      | 3(0.6)       |
+
+Table 2: Pearson correlations, range of scores, means, and standard deviations for study variables.
+
+| 13                              | 12                             | 11                              | 10                              | 9                               | 8                               | 7                               | 6                               | 5                           | 4                       | 3               | 2       | 1   |                            |
+|---------------------------------|--------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|-----------------------------|-------------------------|-----------------|---------|-----|----------------------------|
+| 0.35 ** 0.30 ** 0.37 ** 0.52 ** | 0.20 ** 0.19 ** 0.11 * 0.24 ** | 0.15 ** 0.28 ** 0.15 ** 0.27 ** | 0.17 ** 0.31 ** 0.19 ** 0.31 ** | 0.62 ** 0.31 ** 0.31 ** 0.33 ** | 0.61 ** 0.33 ** 0.33 ** 0.37 ** | 0.49 ** 0.35 ** 0.29 ** 0.35 ** | 0.39 ** 0.38 ** 0.51 ** 0.67 ** | 0.02 -0.32 ** -0.02 -0/11 * | 0.42 ** 0.62 ** 0.64 ** | 0.31 ** 0.43 ** | 0.36 ** |     | 1.MQ 2.Atten 3.Low 4.Sensa |
+
+| 13                                                           | 12                                                      | 11                                           | 10                                      | 9                             | 8                     | 7            |     6 | 5     | 4     | 3     | 2     | 1     |                                                                     |
+|--------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------|-----------------------------------------|-------------------------------|-----------------------|--------------|-------|-------|-------|-------|-------|-------|---------------------------------------------------------------------|
+| 0.01 0.46 ** 0.21 ** 0.26 ** 0.26 ** 0.18 ** 0.17 ** 0.15 ** | -0.10 * 0.15 ** 0.15 ** 0.23 ** 0.20 ** 0.51 ** 0.53 ** | -0.16 ** 0.16 ** 0.07 0.11 * 0.12 ** 0.65 ** | -0.23 ** 0.18 ** 0.11 * 0.15 ** 0.16 ** | 0.003 0.29 ** 0.67 ** 0.86 ** | 0.007 0.31 ** 0.72 ** | 0.03 0.31 ** | -0.08 |       |       |       |       |       | 5.Senso 6.Sensa 7.SDS- 8.SDS- 9.SDS- 10.depr 11.Anx 12.host 13. dis |
+| 20.56                                                        | 0.02                                                    | 0.64                                         | 0.71                                    | 2.12                          | 2.23                  | 2.11         | 23.91 | 31.56 | 25.60 | 18.74 | 28.97 | 29.75 | Mean                                                                |
+| 8.31                                                         | 5.02                                                    | 3.17                                         | 6.77                                    | 2.68                          | 2.6                   | 2.5          |  8.03 | 6.72  | 8.68  | 6.53  | 8.56  | 13.92 | SD                                                                  |
+
+## Notes. * p &lt; .05, ** p &lt; .01, *** p &lt; .001 .
+
+FIGURE 1 functional disability structural model
+
+FIGURE 2 hostility structural model
+
+FIGURE 3 disgust structural model
+
+FIGURE 4 depression structural model
+
+FIGURE 5 anxiety structural model
+
+## Discussion
+
+A limited number of studies have investigated misophonia and its association with other traits. The current study examined the mediating role of sensory processing and attentional control in the relationship between misophonia and severity of the disability, emotional traits, and disgust propensity in Iranian college students. Some of the findings in the current study were compared to previous studies conducted on OCD (obsessive compulsive disorder) as there is a limited body of research regarding misophonia. This choice is made based on the fact that misophonia and OCD have almost identical underlying circles of negative reinforcement (Storch et al., 2019) . Our findings were mostly consistent with the previous findings regarding misophonia.
+
+Our results demonstrated that misophonia has a significant direct effect on both sensory processing and attentional control. The findings are directly in line with previous findings; Simner et al. (2021)'s study which compared a group of misophonic individuals with non-misophonics found that misophonics self-reported greater attention to detail, cognitive inflexibility, and auditory imagery.
+
+The study by Zhou et al. (2017), which found a strong association between the misophonia symptoms and impairments regarding work/school, social, and overall impairment in American college students and a medium association among Chinese students, further supported the significant relationship observed between misophonia and three subfactors of functional disability in this study. Moreover, our findings suggest that misophonia can exert an influence on SDS-M house and family and home, SDS M social, and SDS-M work and school through both sensory processing and attentional control. These findings are in contrast with the findings regarding OCD and attentional control. Based on the study implemented by Armstrong et al. (2011), increasing attentional control might not be effective in reducing OCD sufferers' discomfort or functional impairment.
+
+Attentional control played a significant mediating role in the relationship between misophonia and disgust as well. This result is supported by findings in the study by Barahmand et al. (2021) which showed disgust sensitivity was positively associated with misophonia and its subscales, misophonic distress, and behavioral responses. However, the role of sensory processing in the relationship between misophonia and disgust was not found to be significant.
+
+A significant mediating role of attentional control and sensory processing was discovered in the relationship between misophonia and depression. Contrary to our findings, the study by Siepsiak et al. (2020) which investigated misophonia among inpatients with depression, indicated no significant relationship between the severity of misophonia symptoms and attentional impulsivity. Furthermore, our results also demonstrated the significant mediating effect of attentional control and sensory processing in the relationship between anxiety and misophonia. When comparing our results to those of older studies, it must be pointed out that anxiety, depression, impulsivity, somatic pain, vegetative symptoms, post-traumatic stress disorder (PTSD) symptoms, gender, and age were examined concerning the misophonic symptoms in the study by Siepsiak et al. (2020). The findings revealed that, of all the assessed variables, anxiety had the strongest correlation with the severity of symptoms of misophonia. Another study regarding the relationship between anxiety and misophonia was conducted by Daniels et al. (2020) on the participants performing a Stroop task. Increased misophonia sound sensitivity and emotional behavior to trigger sounds were significantly correlated with higher self-reported anxiety when performing the Stroop task. Moreover, ease of excitation and low sensory threshold are both related to anxiety and depression according to Liss et al. (2008) . Furthermore, previously it has been reported that subjects assigned to the misophonia group based on the severity of their symptoms had heightened sensory hypersensitivity to particular auditory stimuli with accompanying emotional/behavioral reactions (Norris et al., 2022). Based on the aforementioned findings, sensory processing, and attentional control have an impact on the relationship between misophonia and emotional traits. Therefore, hypotheses 2 and 5 were confirmed.
+
+In summary, almost all of the aforementioned hypotheses in our study were confirmed by our results except the mediating role of sensory processing in the relationship between misophonia and disgust propensity was not found to be significant (hypothesis 3). Overall, our findings are novel in the sense that they provide unprecedented information on functional disability, disgust propensity, and emotional traits in Misophonic individuals. Moreover, shedding light on the role of attention and sensory processing in misophonia can have a valuable use in the improvement of treatment plans for Misophonic individuals.
+
+## Limitations and Future Direction
+
+Although this study has contributed to a better understanding of misophonia, there are a few limitations that should be considered in the future studies. First, our study did not investigate gender and age differences associated with our variables, perhaps further research in this area considering the gap between age and gender groups could provide more valuable information. Second, because of the use of mediational modeling, the conclusions regarding the causal relations between misophonia and severity of disability, emotional characteristics, and disgust propensity are tentative, due to the correlational nature of the study. Third, self-report questionnaire used in our research are susceptible to weakness introspective abilities and response bias. Perhaps using a face-to-face interview could provide more support to the reliability of obtained information.
+
+## References
+
+Armstrong, T., Zald, D. H., &amp; Olatunji, B. O. (2011). Attentional control in OCD and GAD: Specificity and associations with core cognitive symptoms. Behaviour research and therapy , 49 (11), 756-762.
+
+Barahmand, U., Stalias-Mantzikos, M. E., Rotlevi, E., &amp; Xiang, Y. (2021). Disgust and Emotion Dysregulation in Misophonia: a Case for Mental Contamination? International Journal of Mental Health and Addiction , 1-20.
+
+Bernstein, R. E., Angell, K. L., &amp; Dehle, C. M. (2013). A brief course of cognitive behavioural therapy for the treatment of misophonia: a case example. The Cognitive Behaviour Therapist , 6 .
+
+Craig, A. D. (2002). How do you feel? Interoception: the sense of the physiological condition of the body. Nature reviews neuroscience , 3 (8), 655-666.
+
+da Silva, F. E., &amp; Sanchez, T. G. (2019). Evaluation of selective attention in patients with misophonia. Brazilian Journal of Otorhinolaryngology , 85 (3), 303-309.
+
+| Daniels, E. C., Rodriguez, A., & Zabelina, D. L. (2020). Severity of misophonia symptoms is associated with worse cognitive control when exposed to misophonia trigger sounds. PLoS One , 15 (1), e0227118.                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Derryberry, D., & Reed, M. A. (2002). Anxiety-related attentional biases and their regulation by attentional control. Journal of abnormal psychology , 111 (2), 225.                                                                                |
+| Dozier, T. H. (2017). Understanding and overcoming misophonia: a conditioned aversive reflex disorder Misophonia Treatment Institute.                                                                                                               |
+| Dunn, W. (1997). The impact of sensory processing abilities on the daily lives of young children and their families: A conceptual model. Infants and young children , 9 , 23-35.                                                                    |
+| Dunn, W. (2001). The sensations of everyday life: Empirical, theoretical, and pragmatic considerations. The American Journal of Occupational Therapy , 55 (6), 608-620.                                                                             |
+| Edelstein, M., Brang, D., Rouw, R., &Ramachandran, V. S. (2013). Misophonia: physiological investigations and case descriptions. Frontiers in Human Neuroscience , 296.                                                                             |
+| Erfanian, M., Brout, J. J., & Keshavarz, A. (2017). Misophonia and affective disorders: The relationship and clinical perspective. European Psychiatry , 41 (S1), S471-S471.                                                                        |
+| Green, S. A., & Ben-Sasson, A. (2010). Anxiety disorders and sensory over-responsivity in children with autism spectrum disorders: is there a causal relationship? Journal of autism and developmental disorders 40 (12), 1495-1504.                |
+| Hadjipavlou, G., Baer, S., Lau, A., & Howard, A. (2008). Selective sound intolerance and emotional distress: what every clinician should hear. Psychosomatic medicine , 70 (6), 739-740.                                                            |
+| Johnson, P. L., Webber, T. A., Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2013). When selective audiovisual stimuli become unbearable: a case series on pediatric misophonia. Neuropsychiatry , 3 (6), 569-575.                       |
+| Kumar, S., Tansley-Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., Cope, T. E., Gander, P. E., Bamiou, D.-E., & Griffiths, T. D. (2017). The brain basis for misophonia. Current Biology 27 (4), 527-533.                     |
+| Liss, M., Mailloux, J., & Erchull, M. J. (2008). The relationships between sensory processing sensitivity, alexithymia, autism, depression, and anxiety. Personality and individual differences , 45 (3), 255-259.                                  |
+| Menon, V., & Uddin, L. Q. (2010). Saliency, switching, attention and control: a network model of insula function. Brain structure and function , 214 (5), 655-667.                                                                                  |
+| Miller, L. J., Coll, J. R., & Schoen, S. A. (2007). A randomized controlled pilot study of the effectiveness of occupational therapy for children with sensory modulation disorder. The American Journal of Occupational Therapy , 61 (2), 228-238. |
+| Norris, J. E., Kimball, S. H., Nemri, D. C., & Ethridge, L. E. (2022). Towards a multidimensional under- standing of misophonia using cluster-based phenotyping. Frontiers in Neuroscience , 403.                                                   |
+| Pascual, L., Rodrigues, P., & Gallardo-Pujol, D. (2013). How does morality work in the brain? A functional and structural perspective of moral behavior. Frontiers in integrative neuroscience , 7 , 65.                                            |
+| Reynolds, S., & Lane, S. J. (2009). Sensory overresponsivity and anxiety in children with ADHD. The American Journal of Occupational Therapy , 63 (4), 433-440.                                                                                     |
+| Rouw, R., & Erfanian, M. (2018). A large-scale study of misophonia. Journal of clinical psychology , 74 (3), 453-479.                                                                                                                               |
+| Schr¨der, o A., van Diepen, R., Mazaheri, A., Petropoulos-Petalas, D., Soto de Amesti, V., Vulink, N., &Denys, D. (2014). Diminished n1 auditory evoked potentials to oddball stimuli in misophonia patients. Frontiers in                          |
+
+behavioral neuroscience , 8 , 123.
+
+Seeley, W. W., Menon, V., Schatzberg, A. F., Keller, J., Glover, G. H., Kenna, H., Reiss, A. L., &amp; Greicius, M. D. (2007). Dissociable intrinsic connectivity networks for salience processing and executive control. Journal of Neuroscience , 27 (9), 2349-2356.
+
+Siepsiak, M., Sobczak, A. M., Bohaterewicz, B., Cichocki, L., glyph[suppress] &amp; Dragan, W. glyph[suppress] L. (2020). Prevalence of misophonia and correlates of its symptoms among inpatients with depression. International journal of environmental research and public health , 17 (15), 5464.
+
+Simner, J., Koursarou, S., Rinaldi, L., &amp; Ward, J. (2021). Attention, flexibility, and imagery in misophonia: Does attention exacerbate everyday disliking of sound? Journal of Clinical and Experimental Neuropsychology , 43 (10), 1006-1017.
+
+Storch, E. A., McKay, D., &amp; Abramowitz, J. S. (2019). Advanced casebook of obsessive-compulsive and related disorders: conceptualizations and treatment . Academic Press.
+
+Taylor, S. (2017). Misophonia: A new mental disorder? Medical Hypotheses , 103 , 109-117.
+
+Van Overveld, W., De Jong, P. J., Peters, M. L., Cavanagh, K., &amp; Davey, G. C. (2006). Disgust propensity and disgust sensitivity: Separate constructs that are differentially related to specific fears. Personality and individual differences , 41 (7), 1241-1252.
+
+Webber, T. A., &amp; Storch, E. A. (2015). Toward a theoretical model of misophonia. General Hospital Psychiatry , 37 (4), 369-370.
+
+Wu, M. S., Lewin, A. B., Murphy, T. K., &amp; Storch, E. A. (2014). Misophonia: incidence, phenomenology, and clinical correlates in an undergraduate student sample. Journal of clinical psychology , 70 (10), 994-1007.
+
+Zhou, X., Wu, M. S., &amp; Storch, E. A. (2017). Misophonia symptoms among Chinese university students: Incidence, associated impairment, and clinical correlates. Journal of Obsessive-Compulsive and Related Disorders , 14 , 7-12.
+
+Zuckerman, M., Lubin, B., Vogel, L., &amp; Valerius, E. (1960). Multiple Affect Adjective Check List. Journal of Personality and Social Psychology .

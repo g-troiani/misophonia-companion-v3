@@ -1,0 +1,1522 @@
+Literature Review
+Open camera or QR reader and
+scan code to access this article
+and other resources online.
+Understanding Stigma in Autism:
+A Narrative Review and Theoretical Model
+Alice Turnock, MBBCh,1Kate Langley, PhD,2and Catherine R.G. Jones, PhD2
+Abstract
+The experience of stigma by autistic people is relatively understudied, despite contributing to a range of poor
+outcomes and having an overarching impact on well-being. The current review of the literature synthesizesresearch to determine what is currently known and presents a theoretical model of autism stigma. Autism stigmais primarily inﬂuenced by a public and professional understanding of autism in combination with interpretationof visible autistic traits. Moderating factors include the quality and quantity of contact with autistic people,cultural factors, sex and gender, individual differences, and diagnostic disclosure. Stigma can reduce well-beingas well as increase the presence of camouﬂaging behaviors, which mask autistic traits. Caregivers of autistic
+people can experience stigma by association, that is, afﬁliate stigma, which can impact their own well-being.
+A variety of interventions and approaches to reduce stigma are discussed, including ‘‘autism friendly’’ spaces,positive media representation, educational and psychosocial training for the public and professionals, as well ascultural and systemic shifts that foster inclusivity and recognize neurodiversity.
+Keywords: autism, stigma, attitudes, neurodiversity, discrimination, well-being
+Community Brief
+Why is this topic important?
+Autistic people are known to experience stigma. This means that they can face ignorance, prejudice, and
+discrimination.
+What was the purpose of this article?
+The purpose of the article was to review research on autism stigma. We wanted to better understand autismstigma. We looked at why autistic people and their families experienced stigma. We also looked at what factorsinﬂuenced stigma and the impact of stigma. Last, we discussed how to reduce stigma for autistic people and
+their families.
+What do the authors conclude?
+We summarized the research ﬁndings into a model. Autism stigma is affected by people’s understanding ofautism and by visible autistic traits. Poor understanding of autism means that visible autistic traits may be
+viewed negatively. Certain factors inﬂuence the amount of stigma. One factor was the quality and quantity ofcontact that autistic people have with others. Another factor was cultural differences, such as speciﬁc beliefsabout autism. Sex and gender were important, as were other differences such as education and age. Last,whether an autistic person had shared their diagnosis affected stigma. Autism stigma had a negative impact on
+1School of Medicine, Cardiff University, University Hospital of Wales, Cardiff, United Kingdom.
+2Wales Autism Research Centre, School of Psychology, Cardiff University, Cardiff, United Kingdom.AUTISM IN ADULTHOOD
+Volume 4, Number 1, 2022ªMary Ann Liebert, Inc.
+DOI: 10.1089/aut.2021.0005
+76
+
+well-being. This included poor mental and physical health, as well as reduced social connections. Autism
+stigma also led to increased ‘‘camouﬂaging’’ of autistic traits. Family members also experienced stigma, whichcan affect their own well-being. Reducing autism stigma is important. To reduce stigma people should createmore ‘‘autism friendly’’ spaces. They should include more positive representations of autistic people in themedia. They should also improve the autism education of the public and professionals. Last, they should supportneurodiversity.
+What do the authors recommend for future research on this topic?
+We need to better understand the factors that lead to autism stigma. We also need more effective ways to reducestigma for autistic people and their families. Including the autistic community in this research process is very
+important.
+How will this review help autistic adults now and in the future?
+The review shows how stigma affects the autistic community. Autistic adults may ﬁnd that the model helpsthem understand their own experiences of stigma. We hope the review will help develop more research into
+how to reduce autism stigma. Reducing autism stigma will improve the lives of autistic adults.
+Introduction
+The experience of stigma for minority groups is well
+recognized,1,2with autism considered an identity-based
+minority.3However, the speciﬁc experience of stigma for
+autistic people has been relatively understudied, with a biastoward the experiences of family members rather than autis-tic people themselves.
+4The term stigma dates back to the
+ancient Greek practice of cutting or burning a mark into a
+person to brand them a slave, traitor, or criminal, the markof someone to be avoided.5In modern usage, stigma is con-
+sidered an attribute that is unfavorable and that seemingly
+discredits an individual, leaving them to be viewed as lessvaluable than the rest of society.1,5,6Notably, this deﬁnition
+depends on a collective understanding of what is unfavorable,
+thus stigma is inherently socially constructed.1
+Stigma can be seen as an overarching term for problems
+of knowledge (i.e., ignorance), problems of attitudes (i.e.,
+prejudice), and problems of behaviors (i.e., discrimination).7
+Deﬁnitions of the interconnecting processes that contribute
+to or reﬂect stigma are varied, underlining the challenge of
+capturing this complex process. This review draws on Link
+and Phelan’s seminal conceptualization of stigma.8They
+argue that the development of stigma derives from the cul-
+turally driven detection and labeling of a difference (e.g.,
+labeling people with a particular set of behavioral charac-teristics as autistic), which converges with other interrelated
+components to form stigma.
+Link and Phelan’s8second component of stigma is the
+attribution of unfavorable stereotypes to the label (e.g., au-tistic people are unfriendly). From a social-cognitive per-
+spective, this linking between a label and its stereotypes is
+key to the development of stigma, as stereotypes can im-plicitly affect how an individual perceives other people.
+9The
+next component is the use of the label to cause a separation
+between ‘‘them’’ and ‘‘us’’ (e.g., autistic people vs. everyoneelse). The ﬁnal component is loss of status and the experience
+of discrimination (e.g., not being hired or promoted because
+of being autistic).
+Status loss and discrimination can be perceived as be-
+havioral outcomes of stigma; a consequence of being labeled,being classiﬁed as other, and being linked to undesirable
+characteristics. Experiencing status loss and discrimination
+lies at the heart of the inequality that a stigmatized personfaces and contributes to negative treatment at both personal
+and structural levels.
+7,8Limited knowledge and understand-
+ing has a critical role in the presence of stigmatized views, asan individual is more likely to rely on reductionist labels andstereotypes, dichotomize into them versus us, and ultimately
+behave in a discriminatory way.
+Attitudes and beliefs can be conceptualized as the deeply
+held cognitions that lead to the labeling, stereotyping, setting
+apart, and discriminating that contribute to stigma.
+8Attitudes
+are often measured by directly asking people to state how muchthey endorse positive and negative attitudes toward autism.10
+Alternatively, openness toward a ﬁctional autistic adult or childcan be explored, for example, by asking participants to ratewhether they would feel afraid of the autistic person.
+11,12
+Stigma is traditionally measured by using a measure of social
+distance, which is seen as a consequence of stigmatized views
+and conceptualized as the deliberate avoidance or exclusion ofanother person from social interactions.13,14
+Stigma can be categorized into different types. Most
+commonly, the discussion of stigma refers to enacted orpublic stigma, which is the overt discrimination of stigma-
+tized individuals.15However, this review will also consider
+self-stigma, or felt stigma, which is when the stigmatizedperson turns the prejudice they experience onto themselves.16
+This can include feeling shame in relation to stigmatizedcharacteristic(s), and fear of enacted stigma.16,17Afﬁliate, or
+courtesy, stigma will also be discussed, which is stigma ex-perienced by people associated with the stigmatized person,
+e.g., family members (Table 1).5,15
+Autistic people can experience loneliness and fewer friend-
+ships compared with neurotypical peers,18–20fewer friend-
+ships in adolescence compared with peers with other special
+educational needs,21have more difﬁculties with education22
+and employment,23,24experience poor social integration,25,26
+and face high rates of bullying.21These factors are associated
+with a reduced quality of life.27While these experiences have
+been attributed to autistic traits, more recent thinking has
+also considered the impact of negative societal responsesSTIGMA AND AUTISM 77
+
+to autistic people in contributing to these outcomes.28,29
+Reﬂecting this, interviews with neurotypical people have
+found that autism is perceived by some as violating ‘‘accepted
+societal norms.’’30
+Autistic people encounter negative experiences in their
+everyday lives that likely reﬂect autism stigma. For example,
+neurotypical people are less likely to want to live in the
+same building as autistic people or to spend time together asfriends,11and they are also less likely to want an intimate
+relationship with an autistic person.31At the extreme, autis-
+tic people can be dehumanized by neurotypical people.32
+Autistic people describe autism stigma as destructive and at
+odds with their own conception of autism as a value-neutral
+category, such as handedness and eye color.33
+Accordingly, 15.4% of a recent sample of 149 autistic
+adults report moderate to severe felt stigma,4with the expe-
+rience of stigma being reported by autistic adolescents and
+adults across a range of qualitative accounts.33–35Alongside
+this, there is consistent evidence that afﬁliate stigma is expe-
+rienced by the families of autistic people.36–45
+The breadth of psychological and social issues relevant to
+autism stigma and the limited synthesis of this work drew us
+to a narrative review. The broad remit of a narrative review
+enabled us to consider a wide range of pertinent issues: fac-tors that contribute to autism stigma, the impact of stigma forautistic people and their families, and possible interventions
+to reduce stigma. These ﬁndings will be conceptualized in a
+theoretical model of autism stigma (Fig. 1).
+The model provides an overview for researchers interested
+in exploring the many facets of autism stigma and supports
+autistic people wanting to map their own experiences ontoexisting evidence. Importantly, when developing the model,
+we considered the deﬁnition of stigma broadly and also
+incorporated relevant research on attitudes and acceptance,which are correlates of stigma and theoretically tightly
+coupled.
+8,46Our narrative approach was underpinned by a
+thorough PubMed review of articles on autism (autis*) pairedsystematically with each of the following terms stigma,attitude, understanding, and knowledge.
+We followed up relevant citations enabling our search to
+snowball and reach saturation. The model has been shapedby the ﬁndings, theory, and critical analysis within the ref-
+erences, as well as by additional areas of research ﬂagged as
+important by our initial search and included as part of oursnowballing strategy (e.g., neurodiversity in autism).
+Factors Inﬂuencing Stigma in Autism
+As detailed in Figure 1, the variables that contribute to
+autism stigma are public and professional understanding ofautistic traits and expressed autistic traits. As previously
+mentioned, understanding has an overarching effect on thedevelopment of stigma. We also include expressed autistic
+traits, as stigma is fundamentally driven by a culturally driven
+detection and labeling of a difference.8We argue that it is
+from this intersection of understanding of and observation of
+autism that other components of stigma occur.
+Moderating factors that inﬂuence the strength or direc-
+tion of the relationship between these variables and stigma
+include: the quality and quantity of contact, diagnostic dis-
+closure, culture, sex and gender, and individual differences.Note that our model only includes the direct moderating
+effects on enacted stigma. These moderators are likely to
+have direct effects on both felt and afﬁliate stigma, but thisis beyond the scope of the review.
+Public and professional understanding of autistic traits
+When discussing understanding we are referring to a holis-
+tic conception and comprehension of autism that goes beyondfactual or ‘‘book’’ knowledge. For example, knowing that
+autism is diagnosed more in males would not be useful when
+wanting to support an autistic person struggling with sensoryoverload. However, studies have focused on measures that
+probe knowledge, for example, discrete facts about etiology,
+treatment, or selected symptoms.
+13,47Poorer public and
+professional knowledge of autism is often correlated withless positive attitudes48and more stigma,29,48–51although
+null results also occur.52–56Knowledge is also recognized by
+carers of autistic children as contributing toward stigmati-zed views.44
+Some surveys have shown encouraging levels of autism
+knowledge among the public.48,57,58However, incorrect knowl-
+edge is present in the public and the impact of incorrect
+knowledge, even in the context of dominantly correct
+knowledge, is not understood. Some areas of misinforma-tion include that autism is characterized by symptoms of
+other conditions,58that all autistic children show poor eye
+contact,57and that autistic people do not show affection or
+attachments.50
+Undergraduate students who incorrectly attributed unfa-
+vorable traits to autism were likely to have less positive
+attitudes toward autism regardless of the number of correcttraits they identiﬁed.53This suggests certain misconceptions
+may dominate, even in the face of some correct knowl-
+edge. Another important consideration is the valence of theknowledge that is associated with autism. Eight of the 10
+characteristics that undergraduate students most commonly
+associated with autism had negative valence, with negativestereotyping likely to contribute to stigma.
+59Table 1.A Summary of the Deﬁnitions of Stigma
+Term Deﬁnition
+Stigma A socially constructed concept; any attribute that is seen as unfavorable and that seemingly
+discredits an individual, leaving them to be viewed as less valuable than the rest of society.
+Public/Enacted Stigma Discrimination or rejection experienced by a stigmatized person.Felt/Self Stigma The internalized prejudice experienced by a stigmatized person, including shame and fear of
+enacted stigma.
+Afﬁliate/Courtesy
+StigmaStigma experienced through association with a stigmatized person (e.g., parents/caregivers and
+other family members).78 TURNOCK ET AL.
+
+There are also misconceptions and inadequate knowledge
+about autism among health care professionals.52,56,60–65UK
+general practitioners displayed good knowledge of autism
+but only modest conﬁdence in their ability to work with au-tistic people,66which arguably highlights the limitations of
+factual knowledge in equipping professionals to engage ef-
+fectively with autistic people. Teachers and childcare pro-
+viders may also have poor knowledge and outdated beliefsabout autism, particularly relating to etiology,58,67–71al-
+though teachers with more experience of autism have more
+knowledge.72,73Some autistic pupils reported feeling stigmatized by their
+teachers and attributed this to being judged based on previous
+experiences with other autistic pupils.74These limitations
+have been partly attributed to insufﬁcient training,64–66,75
+with professionals with better knowledge and experiencesless likely to stigmatize autistic children.44,49
+To fully explore the effect of autism understanding on
+autism stigma, ﬁne-grained analysis is needed to disentan-gle what types of knowledge and understanding are most
+predictive of better attitudes and lower stigma. We argue
+that nuanced understanding, which critically recognises the
+FIG. 1. Theoretical model of causes and impact of autism stigma. Red circles indicate stigma, with Enacted stigma
+represented by the convergence of public and professional understanding of autism and expressed autistic traits (observedvariables). Felt stigma and Afﬁliate stigma are experienced through Enacted stigma (black arrows). Purple rectangles
+indicate factors that have a moderating effect on the observed variables. Blue circles indicate the impact of stigma, including
+Well-being, measured by three observed variables, and camouﬂaging. Black arrows indicate the direct effects betweenEnacted stigma and Well-being and Camouﬂaging, as well as the indirect effects through the effects of Afﬁliate and Felt
+stigma. The curved black double- headed arrow illustrates covariance between public and professional understanding of
+autistic traits and expressed autistic traits, and between Well-being and Camouﬂaging. The bullet points above the dashedlines indicate interventions that may reduce stigma.STIGMA AND AUTISM 79
+
+heterogeneity and complexity within the autism spectrum,
+would be a better predictor than discrete facts. To this end,
+measuring understanding through identifying autistic peoplein vignettes or a video, which relies on consideration ofpatterns of behaviours, may be a more sensitive measure than
+fact endorsement.
+It would also be meaningful to extend understanding
+of autism to knowing how to best support autistic people.
+Consideration should also be given to what the autistic com-
+munity think others should understand about autism. Ref-lecting this, a recent autism knowledge questionnaire that
+was co-produced by the autistic community found that the
+subsections around societal views and the experience ofbeing autistic were predictors of autism attitudes in Austra-lian adults.
+48
+Expressed autistic traits
+Autistic people’s difﬁculties in social communication are
+often physically expressed; examples include unusual pat-terns of eye contact, reduced facial expression and sharing
+of emotions, and limited gesture use.76Restricted and repet-
+itive behaviors can include motor mannerisms and unusualresponses to sensory stimuli.76Sensory behaviors can be par-
+ticularly prevalent outside the home in unfamiliar spaces,77
+and overwhelming sensory experiences can induce signiﬁ-
+cant distress.78
+These visible autistic traits may lead to negative attitudes
+during ﬁrst impression formation.28,79,80When assessing ﬁrst
+impressions using video clips, neurotypical people have per-ceived autistic people as less attractive, more submissive, and
+more awkward than matched neurotypical counterparts.28
+However, ﬁrst impressions were not negative when the speech
+transcript was presented without visual stimuli, suggesting that
+the bias was driven by expressive differences.28
+Some of these expressed differences can be particularly
+negatively perceived by the neurotypical population. Stereo-
+typed or repetitive motor mannerisms, or ‘‘stimming,’’ were
+recognized by autistic people as being negatively judgedby neurotypical people, making them feel devalued or‘‘weird.’’
+81Autistic people have also reported that some
+autistic differences can be perceived as frightening to neuro-
+typical people82and that people sometimes associate autism
+with violent acts.33Relatedly, students in the United States
+and Lebanon perceived disruptive autistic behaviors as more
+‘‘dangerous’’ than withdrawn behaviors, which promptedgreater stigmatization.14
+Within our model (Fig. 1), we have indicated a covariance
+between public and professional understanding of autistictraits and expressed autistic traits. This is because the social
+model of disability recognizes the social construction within
+which autistic people exist, with poor understanding andattitudes from professionals and the public likely to affectexpressed traits and possibly lead to elevated distress or
+discomfort for autistic people.
+83Similarly, the way that an
+autistic person behaves will inform public and professionalinsights into autism.
+Moderating factors
+The quality and quantity of contact that autistic and neu-
+rotypical people have with one another is an important con-sideration. Knowing and spending time with an autisticperson is associated with more positive attitudes toward
+autistic adults and children.11,48,53,84,85It is important to
+consider the distinct contributions of both the quantity andquality of contact, with both dimensions associated withmore positive attitudes
+54and decreased stigma.86However,
+quality of contact appears to be a more robust predictor
+of attitudes than quantity.54,86This pattern of ﬁndings is
+congruent with data showing that people with autistic imme-
+diate family members have more positive attitudes,11and less
+stigma toward autism.13,29
+For neurotypical people, high-quality interactions may
+lead to decreased anxiety and increased comfort around
+autistic people, which lays the foundation for better under-standing and, consequently, better attitudes toward autism.54
+Similarly, high-quality interactions also support autistic
+people in feeling comfortable, which create better conditions
+for autistic people to be accurately understood. Conversely,lack of understanding and unfavorable attitudes about autism
+from neurotypical people may lead to negative social inter-
+actions (e.g., being unwelcoming) that impact the interac-tions of autistic people (e.g., displaying wariness), limiting
+opportunities for quality social connections and potentially
+exacerbating stigmatized views.
+28,87
+The quality of contact may be inﬂuenced by the issue of
+‘‘double empathy,’’ whereby autistic and neurotypical people
+are mutually challenged in their understanding of one anotherdue to fundamental differences in how each understand theworld.
+88,89Autism is not associated with distinctive physical
+features; therefore, autistic people’s ‘‘typical’’ appearance
+coupled with their unusual behaviors may elevate stigma,with autistic behaviors understood as social deviance rather
+than reﬂecting an underlying difference or difﬁculty.30,90
+Overall, although more direct comparisons are required, ex-
+isting research suggests that quality of contact has more
+impact than quantity.
+Another important consideration is whether diagnostic
+disclosure may moderate how autistic people are perceived.The attribution model of stigma proposes that if a behavior
+is perceived as controllable, then negative reactions to a
+stigmatized individual will be greater as responsibility fortheir actions will be assumed.
+91Related to this, the label
+of autism leads to more favorable ﬁrst impressions of autis-
+tic people presented in video clips than when this label isnot provided80,92There is growing evidence that diagnostic
+disclosure can lead to more positive attitudes,55,93,94more
+positive affective responses,95greater acceptance of inap-
+propriate social behaviors,96as well as reduced stigma.97
+However, these ﬁndings are not universal. For example,
+knowledge of diagnosis can have a negative impact on ﬁrstimpressions of autistic people for those with high autismstigma,
+98whereas school children and adolescents do not
+modify their social distancing toward a ﬁctional autistic peer
+when diagnosis is disclosed.99A recent scoping review
+concluded that the fear of stigma was tied to the reluctance of
+autistic people to share their diagnosis,100although concerns
+about judgment and misunderstanding have been attributed toboth disclosing and not disclosing an autism diagnosis.33,101
+The disconnect between experimental evidence of the
+positive impact of diagnostic disclosure and the lived expe-riences of autistic people warrants further exploration. One
+possible source of variance is the impact of preexisting au-
+tism knowledge or understanding on the effect of diagnostic80 TURNOCK ET AL.
+
+disclosure, with ﬁndings currently mixed.92,95It is also rel-
+evant that diagnostic disclosure may also affect how autistic
+people express themselves. A stronger autistic identity hasbeen linked to a more open expression of autistic behaviorsin everyday life, mediated by the extent to which the autis-
+tic person is open about their diagnosis.
+102Further, autistic
+people may choose not to share their diagnosis in certaincontexts,103which means they may behave differently across
+environments.
+Another possible moderator is cultural factors. People in
+the United States have been found to hold less stigma to-
+ward autistic people than those in Lebanon, Japan, and
+China. However, whereas people in China and Lebanon hada lower understanding of autism, people in Japan had asimilar level of knowledge to the United States.
+50,104,105
+This aligns with the idea that dominantly collectivist cul-tures, where group cohesion is biased over the needs of theindividual, may be more susceptible to stigma due to more
+ready adoption of culturally deﬁned norms.
+104However, it
+is notable that an investigation of autism stigma in collegestudents in Lebanon and the United States found that in-
+dividual characteristics (e.g., previous contacts with autis-
+tic people) exerted a stronger inﬂuence on autism stigmathan the country of residence.
+106
+Cultural differences can clearly exert signiﬁcant inﬂuence.
+In South Korea, the lay classiﬁcation of ‘‘border children’’recognizes children in mainstream schools who would bedescribed as autistic by Western-trained clinicians.
+107This
+label is partly driven by parental desire to avoid autism stigma,
+with the cultural importance of academic success supportingtheir child’s ‘‘normalcy.’’107Parents in China have described
+that the cultural belief that respect for the father is related to
+the prospects of the son, can mean that parents do not want todisclose their son’s autism.108
+In other countries, the conceptualization of autism as
+something other than a developmental disorder can leavecommunities vulnerable to stigma. For example, in Vietnam,autism has been variously conceptualized as a disease, a
+‘‘family problem,’’ and karmic demerit.
+109In parts of Africa,
+autism has been attributed to supernatural phenome-non.110,111These types of beliefs not only lead to signiﬁcant
+stigma, such as autistic children being asked to leave public
+transport or families being unable to rent accommodation,112
+but can also lead to inappropriate and sometimes danger-
+ous ‘‘cures’’ by traditional healers.110,111
+Cultural differences can also be perceived within a coun-
+try among minority immigrant or indigenous communities.
+Somalian families in the United Kingdom report high levels
+of stigma toward their autistic children, leading to familieshiding their child and delaying seeking support becausechallenging behaviors are not tolerated within their commu-
+nities.
+113–116There is prevalent autism stigma within Black
+American communities from diverse socioeconomic back-grounds, particularly related to denial and shame,117,118as
+well as lower levels of autism acceptance in Asian American
+communities.119
+Aboriginal and Torres Strai t Island community members
+in Australia that have autistic family members also report a
+high degree of stigma.120The experience of shame, which
+has strong cultural relevance, was commonly identiﬁed and
+linked with a reluctance to share the diagnosis. An addi-
+tional challenge for minority groups is that autism stigma,which may have community-speciﬁc manifestations, is
+likely to interact with other s tigma, such as those relating to
+religion, race, and ethnicity. I ndeed, the starkest accounts of
+stigma by the Aboriginal and Torres Strait Island com-munities were related to interactions with non-Aboriginal
+people.120
+In addition, Black American parents have reported expe-
+riencing racism, including negative assumptions about their
+autism knowledge and family circumstances, within the
+diagnostic process.117More nuanced investigation is needed
+to better understand the impact of culture and community,
+both within and across countries, on the experience of stigma
+for autistic people and their families. This could include adirect exploration of whether there are contrasting experi-ences of autism stigma for families and autistic individuals
+within and outside of different community groups, and the
+extent to which additional forms of ‘‘otherness’’ may com-pound stigma.
+Although cultural factors are more easily associated with
+their possible impact on public or professional perceptionsand understanding, it is also true they may inﬂuence the
+expression of autistic traits. Reﬂecting this, there is modest
+evidence that the severity of some autistic traits may varyacross some cultures.
+121
+It is also important to consider the moderating effects
+of the sex and gender of autistic people. Though sometimesused interchangeably, sex focuses on the biological differ-ences between males and females, whereas gender focuses on
+socially constructed roles, behaviors, and attributes.
+122There
+is growing interest in delineating differences in the expres-sion of autism based on sex and gender,122but gender and sex
+norms may also affect the perceptions of autistic people by
+neurotypical people.
+One qualitative study suggested that autistic females
+recognized pressure to fulﬁl gender stereotypes, including
+expected social skills, and that female groups were less for-giving of social ‘‘faux pas.’’123Similarly, in a mixed-methods
+study, autistic girls were more likely to feel like victims in
+friendship groups than autistic boys and neurotypical girls
+and boys, and felt punished for not ‘‘getting it’’ socially.124
+These studies predict that autistic females would experience
+more stigma based on greater difﬁculty in aligning with gen-
+der norms.
+From the parent perspective, mothers of autistic chil-
+dren may be more vulnerable to experiencing autism
+stigma than fathers, including avoidance, hostile staring,and rude remarks from the public.15Again, this may relate
+to gender stereotypes, with a higher threshold of expec-
+tation set on mothers’ parenting. Typically, studies thatinclude gender do not consider the broader spectrum ofgender presentations, including transgender and nonbi-
+nary, who are overrepresented in autistic popula-
+tions,
+125,126which is an important consideration for future
+research.
+Consideration should also be given to wider individual
+differences beyond an autistic person’s sex or gender.Individual differences related to the expression of autism
+are also relevant. For example, disruptive autistic behav-
+iors lead to more stigma than withdrawn behaviors,14and
+parents of violent or aggressive autistic children are more
+likely to encounter stigma.15From a different perspective,
+the autism stigma experienced by families may be greaterSTIGMA AND AUTISM 81
+
+if their child’s autism is less visible compared with chil-
+dren with more obvious additional needs, such as intel-
+lectual disability.15
+In terms of individual differences among the public, there
+is converging evidence that females are less likely to have
+stigmatized views about autism,13,48,119have higher levels
+of acceptance of autistic people,119more positive attitudes,48
+and greater willingness for social closeness with autistic
+people.13,50Higher educational levels are also associated
+with higher levels of acceptance119and lower levels of stig-
+matized views.127However, education level is not a predic-
+tor in all studies.29,48Age is generally not predictive of
+autism-related attitudes and stigma.29,48,119,127Other rele-
+vant individual differences predictive of lower autism stigmainclude openness to experience, and decreased acceptance
+of inequality.106
+The Impact of Stigma
+The potential effect of stigma on autistic people and their
+families is wide ranging and has an overarching impact on
+well-being.3Well-being is a multidimensional construct,
+with stable well-being occurring when individuals have thepsychological, social, and physical resources to meet a par-
+ticular psychological, social, and/or physical challenge.128
+The insidious effects of stigma may erode at some of these
+resources, with deleterious consequences for well-being. Asillustrated in Figure 1, stigma can affect well-being by inﬂu-
+encing a range of factors, including mental health, physi-
+cal health, and social connectedness.129–131In addition,
+we consider the impact of stigma on behaviors adopted by
+autistic people to camouﬂage their behaviors, typically dri-
+ven by a desire to ‘‘ﬁt in.’’132,133
+Well-being
+Recent research identiﬁed that greater awareness of stig-
+matized status was related to lower levels of psychological
+well-being in autistic adults.134The lower social standing of
+stigmatized minority groups is believed to lead to exposureto more stressful life events, alongside fewer resources to
+manage these events.3Autistic people have reported a wide
+range of stressors common to minority groups, includingvictimization, violence, discrimination, rejection, and felt
+stigma,3,35,135which predicted heightened psychological
+distress, reduced well-being,3and reduced quality of life.135
+Relatedly, only 7% of autistic adults felt accepted as an autis-
+tic person within society, with feelings of acceptance pro-
+tecting against depression.136These ﬁndings are particularly
+relevant given the high prevalence of co-occurring mental
+health conditions in autistic people.137
+Felt and enacted stigma can lead to reduced access to
+health care, with implications for both mental and physicalhealth.138,139For example, there is a suggestion that neg-
+ative attitudes at university could stop autistic students
+from approaching support services.53Stigma can also lead
+to a reluctance to disclose an autism diagnosis in health
+care settings,140–142as well as in the workplace,143despite
+disclosure often being necessary for appropriate care orsupport.142,143Similarly, stigma can lead parents to resist a
+diagnosis for their child.144Autistic people and fam-
+ily members have identiﬁed stigma and negative percep-tions among health care professionals, alongside a lack ofﬂexibility and unwillingness to make autism-speciﬁc ad-
+justments.142Therefore, stigma can affect the quality and
+appropriateness of health and social care received, withconsequences for well-being.
+The caregivers of autistic people are also adversely
+affected, with afﬁliate stigma correlated with anxiety and
+depression,37,145poorer physical health,42lower subjective
+well-being,146and fewer working hours.39A recent theoret-
+ical framework of the relationship between autism stigma and
+caregiver mental health suggests that there are both change-able factors (e.g., caregiver burden, self-blame, social isola-
+tion) and nonchangeable factors (e.g., culture, ﬁnancial
+burden), both of which contribute to mental ill health andstigma.
+145
+Aside from mental and physical health, the social con-
+nectedness that someone feels to their local and wider com-
+munities is also an important dimension of well-being.147The
+stigma and misconceptions of the neurotypical majority can
+lead to autistic people becoming socially isolated.148A
+dominant perception of autistic people is that they are notinterested in social relationships.148However, many autistic
+people have a desire for meaningful friendships and rela-
+tionships but struggle to obtain them.149–151
+Dissatisfaction with social support,19less social con-
+tact,152and less social connectedness153have all been asso-
+ciated with the experience of loneliness for autistic people. Inturn, loneliness has been associated with depression andanxiety for autistic people across multiple studies,
+131,152–154
+as well as with poorer life satisfaction and self-esteem.131In
+contrast, feelings of greater social connectedness, more timespent with friends, and greater levels of perceived social
+support have all been associated with better well-being
+among autistic college students.155However, the heteroge-
+neity of autism means that assumptions should not be made
+about the desire for social connectedness.
+Those who want more social connectedness are arguably
+more likely or able to voice their social preferences, so it is easyto forget those who are more passive and retiring, including
+those who prefer aloneness and do not want intrusion. There
+should be understanding and acceptance of autistic peopleregardless of their social style or preferences.
+156
+For family members, parents report friends asking them
+not to bring their autistic children to social gatherings orjudging their parenting.157More generally, parents can ﬁnd
+reactions from members of the public difﬁcult and have
+reported feeling embarrassed in public when their autisticchild does not behave in a socially acceptable way.78These
+experiences may partly explain why the degree of afﬁliate
+stigma associates negatively with participation in communityevents for parents of autistic children,158as well as lead to
+social disconnection from family and friends.39In summary,
+autism stigma can have negative effects on the mental and
+physical health of autistic people and their families, as well asleading to reduced social connectedness. These factors all
+contribute to reducing well-being within autistic communities.
+Camouﬂaging
+Stigma may also be a driver of the behaviors that autistic
+people choose to present to society, with a consequential
+impact on mental health and identity. Deﬁned as ‘‘camou-ﬂaging,’’ some autistic people dampen down or mask their82 TURNOCK ET AL.
+
+autistic traits to try and appear more neurotypical and better
+manage social situations.132,133This relates to the concept
+of ‘‘compensation’’ in autism, whereby some autistic peopleshow more ‘‘typical’’ social skills than their underlyingsocial cognitive difﬁculties would predict.
+159–161
+Compensating for underlying difﬁculties and camouﬂag-
+ing certain behaviors is mentally taxing and may resultin fatigue,132,160,162poorer mental health,130,133,140,162–164
+educational underachievement,162and suicidality.165The
+drive to behave neurotypically can also delay diagnosis, notonly delaying access to support but also making the autistic
+person vulnerable to stigma through being less well under-
+stood.92,95,96,157,166Some motivations for camouﬂaging
+appear to reﬂect the pursuit of fulﬁlment, such as the desirefor meaningful relationships.130,132,160However, other be-
+haviors often relate to societal norms, including the fear of
+rejection or bullying, a pressure to conform,160and awareness
+of being in a ‘‘social minority.’’167
+Camouﬂaging has resonance with the concept of ‘‘con-
+cealment,’’ which is a way that stigmatized groups haveprotected themselves from discrimination.168Recently,
+autistic people have described the camouﬂaging of their
+autism as a direct response to concerns about experiencingstigma,33,169as well as feelings of shame, which reﬂects felt
+stigma.130In this context, camouﬂaging behaviors have been
+described as a ‘‘normalising artiﬁce’’ in which the stigma ofautism is transformed into the mask of autism.170
+Reﬂecting this, a greater perception of autism stigma was
+associated with greater camouﬂaging in a sample of autistic
+adults, which has been interpreted through Social IdentityTheory as a way of associating with the higher-status neu-
+rotypical majority.134However, although there is a relation-
+ship between a stronger autistic identity and reducedcamouﬂaging, some autistic people experience an inconsis-
+tency; being proud of and strongly identifying as autistic
+while also camouﬂaging to ﬁt in.130,134,162Better under-
+standing of this apparent paradox could be an importantavenue for future research. In summary, there is converging
+evidence that camouﬂaging behaviors can have a deleterious
+effect on mental health, and they are tightly coupled withprotecting the self from the negative consequences of autism
+stigma.
+Reducing Stigma
+There are various approaches that may reduce the stigma
+experienced by autistic people and their families, although
+there has been relatively little investigation into their effec-
+tiveness. In Figure 1, we have included examples of inter-ventions that may bring positive change for the autistic
+community. For ease of illustration, we have focused the
+impact of the interventions on contributors to enacted stigma:public and professional understanding of autism and ex-pressed autistic traits. However, these interventions are likely
+to have a wider impact on, and interact with, other compo-
+nents of the model.
+Autism-friendly spaces
+Autism-friendly spaces are ones in which the ‘‘person-
+environment’’ ﬁt is enhanced,171–173including making a
+space more socially comfortable (e.g., availability of a quietroom; agreed expectations about social interaction) orphysically comfortable (e.g., appropriate lighting) alongside
+more generic adaptations such as improving the predictabil-
+ity of an environment. A relevant overarching approach isUniversal Design, in which environments are developed asinclusive for all at their earliest conception, rather than being
+subsequently modiﬁed.
+174
+Autistic people have reported that socializing can be partic-
+ularly difﬁcult when neurotypical family and friends do not
+consider their preferences, with some activities being inacces-
+sible due to environmental challenges.167Further, the inappro-
+priateness of many school environments has been described as a
+barrier to inclusivity, including issues relating to unpredict-
+ability, sensory experiences, and social pressures.74,175
+Adaptations to environments give more opportunities for
+neurotypical and autistic people to share spaces. Although yet to
+be empirically tested, we argue that autism-friendly spaces can
+improve understanding of and attitudes toward autism by en-abling autistic people to better integrate with the wider com-
+munity. Further, autism-friendly spaces are less likely to invoke
+distress, thus enabling autistic people to be their true selves. Weargue that this will enhance the quality of interactions with
+autistic people, and consequently reduce stigma.
+54,106Thus,
+although the driver of autism-friendly environments is to makespaces more comfortable for autistic people, there may be wider
+beneﬁts relating to inclusivity and stigma reduction.
+Increased inclusive media representation
+Knowing someone with autism is associated with more
+positive attitudes toward autism11,48,53and less stigma.11,13,29
+This ‘‘knowing’’ of autistic people could be partly achieved
+by greater and better media representation. Negative report-
+ing of autism is correlated with negative attitudes,176but
+the media representation of autistic people is often nega-
+tive.177–180There has a been a call for more accuracy in
+portrayals of autism in the media, although achieving a bal-anced message is difﬁcult given the heterogeneity of
+autism.181Positive portrayals are also beneﬁcial for autistic
+people and their families.144Therefore, positive autistic role
+models and representation of the diversity of autistic expe-rience are likely to improve understanding and reduce neg-
+ative attitudes, ultimately reducing autism stigma. In
+addition, positive media representations may support autisticpeople in expressing themselves and reduce the need for
+camouﬂaging.
+Educational and psychosocial training tools
+Another approach is to formally educate the public and
+professionals about autism. Online training using PowerPoint
+has signiﬁcantly increased knowledge and decreased stigma
+in students.13,50,182,183However, it is unknown whether these
+positive changes would be sustained over time, nor whetherthe training would translate to real-life behaviors.
+With respect to the impact of training on real life, a recent
+study investigated the effect of an autism acceptance trainingvideo on young adult males who subsequently engaged in a
+conversation with an autistic social partner.
+184Both partners
+reported more interest in spending time with each other com-pared with dyads where the neurotypical partner had not
+had the training, suggesting that training had a relational ef-
+fect. This supports a previous study where the video had apositive effect on reducing self-reported autism stigma inSTIGMA AND AUTISM 83
+
+undergraduates.185However, the positive effects of the video
+on real-life interactions did not extend to all measures of in-
+teraction quality,184and the video did not affect an implicit bias
+toward associating autism with stigma-related attributes.185
+For children, the ‘‘Understanding Our Peers with Pablo’’
+program encompasses story books and animations to teach
+about autism and reduce autism stigma. It improved attitudestoward unfamiliar autistic peers but did not enhance attitudes
+toward familiar autistic peers compared with a control
+group.186In addition, behavioral intentions were not im-
+proved and thus stigma still prevailed, which is consistent
+with previous research that has used a similar intervention
+with adolescents.187,188Therefore, although studies addres-
+sing stigma can bring positive change, the outcome measureis an important consideration. An explicit shift in attitudes
+may not be a sufﬁcient determinant of a more embedded
+change in implicit beliefs or behaviors.
+A recent survey of neurotypical people found that knowl-
+edge of what it could be like to have autism predicated more
+positive attitudes toward autism.48First-hand experience of an
+autistic perspective may help neurotypical people understand
+that their actions may align with an autistic person when they
+have similar experiences,189reﬂecting the issue of double
+empathy. Technological innovations offer opportunities for
+providing this perspective. ‘‘Auti-Sim’’ is a simulation of
+sensory overload designed to give neurotypical people a ﬁrst-person experience of the challenges that autistic people face.189
+Using the simulation increased perspective taking com-
+pared with watching a simulated experience or reading a
+vignette, and heightened perspective taking was associatedwith greater emotional concern and helping intentions.
+However, there was no difference in explicit attitudes toward
+autism. Similar approaches include videos designed to illus-trate the ﬁrst-hand experiences of autistic people in their
+everyday lives, e.g., during a short walk.
+190
+Looking forward, there may be mileage in drawing on
+existing resources that target the implicit, or unconsci-ous, bias that individuals can hold toward marginalized
+groups.191,192Further, comprehensive programs that include
+whole organizations, such as the Welsh Government’sLearning with Autism whole-school training program,193
+may engender greater attitude change due to the enhancedcapacity for a cultural shift. Importantly, participatory inputfrom autistic people in adapting an online training tool has
+led to the tool being more effective at changing autism
+knowledge, autism stigma, and attitudes toward inclu-sion, compared with a version of the training where there
+was no participation.
+182This underlines the value of
+including autistic people in the development of training tools.
+Neurodiversity
+Arguably, autism stigma may be best reduced by a fun-
+damental shift in the way autism is perceived by society. The
+neurodiversity movement celebrates autism for the differ-ences it brings to society and for being an integral part of
+autistic people’s identities, similar to race, sexuality, or
+nationality.29,194The term ‘‘neurodiversity,’’ initially adop-
+ted by members of the autistic community,195is now rec-
+ognized by many other neurodivergent groups.196,197
+Neurodiversity is encapsulated within the minority model
+of disability, which emerged as a direct challenge to thebiomedical model of disability, with its focus on pathology
+and cure.3,194,198A central tenant of the minority model is
+that society’s restricted conceptualization of ‘‘normal’’ cre-ates disability.3It has close ties with a social-developmental
+account of autism that argues the development and well-
+being of autistic individuals is signiﬁcantly shaped by
+misperceptions of the neurotypical majority.87In essence,
+neurodiversity is the recognition of the range of natural di-
+versity that is found within human development.199
+Adopters of neurodiversity reject the medical model of
+autism as ‘‘deﬁcit’’ in favor of autism as ‘‘difference,’’ which
+contributes positive diversity to society.29,194Importantly,
+the onus on embracing neurodiversity should not be placedsolely with autistic people and their families. Autistic peoplemay feel more positive self-identiﬁcation through identify-
+ing with neurodiversity, but the power of neurodiversity to
+engender meaningful societal change depends on its wideadoption. Recently, there has been a call to members of the
+autism research community to engage with the tenants of
+neurodiversity and bring about a paradigm shift in autismresearch.
+199
+Having views aligned with the neurodiversity model is as-
+sociated with lower stigma toward autistic people.29Autistic
+identiﬁcation is positively rel ated to positive self-esteem, as
+well as lower levels of depression and anxiety.200The neuro-
+diversity movement aligns with the ownership that many au-tistic people have taken of language used to describe them, withendorsement of identity-ﬁrst language.
+194,201,202Identity-ﬁrst
+language (e.g., autistic person) is considered less stigmatizing,
+partially because person-ﬁrst language (e.g., person with au-tism) could imply the identity is shameful and partially because
+person-ﬁrst language is not used in contexts outside of
+disability.33,202,203However, not all autistic people or their
+families prefer iden tity-ﬁrst language201and differences in
+preference should be considered.
+Alongside adoption of identity-ﬁrst language, there has
+also been a call for researchers to avoid ableist language,which carries an implicit assumption that disabled people are
+inferior to others,204and to adopt the term ‘‘autism spectrum
+condition’’ over the potentially more stigmatizing ‘‘autismspectrum disorder.’’
+It is important to note that identity with the autistic com-
+munity can be ambivalent for some, with the beneﬁt ofﬁnding a sense of belonging existing alongside internali-
+zation of the autism stigma.
+101,170The visibility of positive
+autism messages is, therefore, key and the embracing ofneurodiversity can be seen in narratives in which autistic peo-
+ple call for acceptance of autistic behaviors, such as stim-
+ming.81Other activities to support neurodiversity include
+events that showcase the achievements of autistic people,particularly when designed by autistic people.190
+The neurodiversity movement, therefore, has potential to
+improve public and professional understanding of autism,while also creating a culture where autistic people feel more
+able to express their true selves. It may also reduce the
+need to camouﬂage autistic behaviors, bringing co-occurringimprovements in mental health.
+Conclusion
+Our synthesis of the literature has presented a model of
+autism stigma designed to promote understanding and further84 TURNOCK ET AL.
+
+research of the difﬁculties people within the autistic com-
+munity may face in ﬁnding acceptance. A truly nuanced
+exploration of autism stigma should take an intersectionalapproach, in which the wider social and cultural context andother forms of stigma can be accommodated.
+205It is imper-
+ative that future autism sigma research includes participa-
+tion from those with lived experience,29,199,206,207not least
+because to leave the autistic community out of the research
+process perpetuates a ‘‘them’’ and ‘‘us’’ culture that rein-
+forces stigma. Consideration must be given to including adiverse range of autistic community contributors, including
+those who may not typically engage with research.208
+Importantly, we are not assigning responsibility to the au-
+tistic community for their stigma. Rather, we are reﬂectingtheoretical understanding that the development of stigma is
+driven by the cultural framing of difference and the insidious
+effects of labeling this difference.8For autism, decades of
+converging research support the reality of patterns of social
+communication differences and restricted and repetitive
+behaviors, which can cause challenges in everyday life.However, when we refer to a label as a ‘‘condition’’ or ‘‘dis-
+order,’’ we are locating the referent in the stigmatized person,
+rather than recognizing that the label has evolved because of itssocial signiﬁcance and as a product of social processes.
+8
+There is clearly a value to labeling, not least because it
+creates a shorthand for society to recognize and address anindividual’s needs. However, by labeling a ‘‘difference,’’ostensibly to provide support, we are creating challenges for
+the labeled. There is no easy solution to this conundrum.
+An interesting counterpoint to this has been the neurodi-
+versity movement and the reclaiming of identity by autistic
+people. Many autistic people are communicating that their
+autism ‘‘is’’ them and not something separate,
+202which at
+face value is counter to approaches that advocate distancing
+from a stigmatized label.8The neurodiversity movement
+may, therefore, support a shift in both the power and valueof autism labels, with the potential to reduce autism stigma.In addition, neurodiversity may provide an important
+framework in which to develop a novel program to challenge
+and reduce felt stigma in autistic people.
+Authorship Conﬁrmation Statement
+C.R.G.J. and A.T. were involved in the conceptualization
+of the article and wrote the original draft. C.R.G.J. led on
+the development of the model. K.L. reviewed and edited
+drafts of the article. All co-authors have reviewed andapproved of the article before submission. The article has
+been submitted solely to this journal and is not published, in
+press, or submitted elsewhere.
+Acknowledgments
+Thank you to Professor Sue Leekam for helpful comments
+on an earlier draft.
+Author Disclosure Statement
+No competing ﬁnancial interests exist.
+Funding Information
+The authors did not receive any funding for this review.References
+1. Major B, Dovidio JF, Link BG, Calabrese SK. Stigma and
+its implications for health: Introduction and overview. In:
+Major B, Dovidio JF, Link BG, eds. The Oxford Hand-
+book of Stigma, Discrimination, and Health , New York:
+Oxford University Press; 2018;3–28.
+2. Oyserman D, Swim JK. Stigma: An insider’s view. J Soc
+Issues. 2001;57(1):1–14.
+3. Botha M, Frost DM. Extending the minority stress model
+to understand mental health problems experienced by
+the autistic population. Soc Ment Health. 2020;10(1):
+20–34.
+4. Bachmann CJ, Ho ¨fer J, Kamp-Becker I, et al. Internalised
+stigma in adults with autism: A German multi-center
+survey. Psychiatry Res. 2019;276:94–99.
+5. Goffman E. Stigma: Notes on the Management of Spoiled
+Identity. Englewood Cliffs, NJ: Prentice Hall; 1963.
+6. Shtayermman O. An exploratory study of the stigma
+associated with a diagnosis of Asperger’s syndrome: The
+mental health impact on the adolescents and young adults
+diagnosed with a disability with a social nature. J Hum
+Behav Soc Environ. 2009;19(3):298–313.
+7. Thornicroft G, Rose D, Kassam A, Sartorius N. Stigma:
+Ignorance, prejudice or discrimination? Br J Psychiatry.
+2007;190(3):192–193.
+8. Link BG, Phelan JC. Conceptualizing stigma. Annu Rev
+Sociol. 2001;27(1):363–385.
+9. Greenwald AG, Banaji MR. Implicit social cognition:
+Attitudes, self-esteem, and stereotypes. Psychol Rev.
+1995;102(1):4–27.
+10. Flood LN, Bulgrin A, Morgan BL. Piecing together the
+puzzle: Development of the societal attitudes towards
+autism (SATA) scale. J Res Spec Educ Needs. 2013;13(2):
+121–128.
+11. Nevill REA, White SW. College students’ openness
+toward autism spectrum disorders: Improving peer
+acceptance. J Autism Dev Disord. 2011;41(12):1619–
+1628.
+12. Harnum M, Duffy J, Ferguson DA. Adults’ versus chil-
+dren’s perceptions of a child with autism or attentiondeﬁcit hyperactivity disorder. J Autism Dev Disord. 2007;
+37(7):1337–1343.
+13. Gillespie-Lynch K, Brooks PJ, Someki F, et al. Changing
+college students’ conceptions of autism: An online train-
+ing to increase knowledge and decrease stigma. J Autism
+Dev Disord. 2015;45(8):2553–2566.
+14. Gillespie-Lynch K, Daou N, Obeid R, Reardon S, Khan S,
+Goldknopf EJ. What contributes to stigma towards autistic
+university students and students with other diagnoses?
+J Autism Dev Disord. 2021(51):459–475.
+15. Gray DE. ‘Everybody just freezes. Everybody is just
+embarrassed’: Felt and enacted stigma among parents of
+children with high functioning autism. Sociol Health Illn.
+2002;24(6):734–749.
+16. Corrigan PW, Watson AC. Understanding the impact of
+stigma on people with mental illness. World Psychiatry.
+2002;1(1):16.
+17. Jacoby A. Felt versus enacted stigma—A concept
+revisited—Evidence from a study of people with epilepsy
+in remission. Soc Sci Med. 1994;38(2):269–274.
+18. Bauminger N, Kasari C. Loneliness and friendship in
+high-functioning children with autism. Child Dev. 2000;
+71(2):447–456.STIGMA AND AUTISM 85
+
+19. Ee D, Hwang YI, Reppermund S, et al. Loneliness in
+adults on the autism spectrum. Autism Adulthood. 2019;1:
+182–193.
+20. Petrina N, Carter M, Stephenson J. The nature of friendship
+in children with autism spectrum disorders: A systematic
+review. R e sA u t i s mS p e c t rD i s o r d . 2014;8(2):111–126.
+21. Rowley E, Chandler S, Baird G, et al. The experience of
+friendship, victimization and bullying in children with an
+autism spectrum disorder: Associations with child char-
+acteristics and school placement. Res Autism Spectr
+Disord. 2012;6(3):1126–1134.
+22. Brede J, Remington A, Kenny L, Warren K, Pellicano E.
+Excluded from school: Autistic students’ experiences ofschool exclusion and subsequent re-integration into
+school. Autism Dev Lang Impair. 2017;2:1–20.
+23. Shattuck PT, Narendorf SC, Cooper B, Sterzing PR,
+Wagner M, Taylor JL. Postsecondary education and
+employment among youth with an autism spectrum dis-
+order. Pediatrics. 2012;129(6):1042–1049.
+24. Black MH, Mahdi S, Milbourn B, et al. Multi-informant
+international perspectives on the facilitators and barriers
+to employment for autistic adults. Autism Res. 2020;13(7):
+1195–1214.
+25. Billstedt E, Gillberg C, Gillberg C. Autism after adoles-
+cence: Population-based 13-to 22-year follow-up study of
+120 individuals with autism diagnosed in childhood.
+J Autism Dev Disord. 2005;35(3):351–360.
+26. Howlin P, Goode S, Hutton J, Rutter M. Adult outcome
+for children with autism. J Child Psychol Psychiatry.
+2004;45(2):212–229.
+27. Tobin MC, Drager KDR, Richardson LF. A systematic
+review of social participation for adults with autism
+spectrum disorders: Support, social functioning, and qual-
+ity of life. Res Autism Spectr Disord. 2014;8(3):214–229.
+28. Sasson NJ, Faso DJ, Nugent J, Lovell S, Kennedy DP,
+Grossman RB. Neurotypical peers are less willing to in-
+teract with those with autism based on thin slice judg-
+ments. Sci Rep. 2017;7:40700.
+29. Gillespie-Lynch K, Kapp SK, Brooks PJ, Pickens J,
+Schwartzman B. Whose expertise is it? Evidence for
+autistic adults as critical autism experts. Front Psychol.
+2017;8:438.
+30. Huws JC, Jones RSP. ‘They just seem to live their lives in
+their own little world’: Lay perceptions of autism. Disabil
+Soc. 2010;25(3):331–344.
+31. Jensen CM, Martens CS, Nikolajsen ND, et al. What do the
+general population know, believe and feel about individuals
+with autism and schizophrenia: Results from a comparative
+survey in Denmark. Autism. 2016;20(4):496–508.
+32. Cage E, Di Monaco J, Newell V. Understanding, attitudes
+and dehumanisation towards autistic people. Autism.
+2018;23(6):1373–1383.
+33. Botha M, Dibb B, Frost DM. ‘‘Autism is me’’: An inves-
+tigation of how autistic individuals make sense of autism
+and stigma. Disabil Soc. 2020:1–27. https://doi.org/10
+.1080/09687599.2020.1822782.
+34. Brownlow C, Lawson W, Pillay Y, Mahony J, Abawi D.
+‘‘Just ask me’’: The importance of respectful relationships
+within schools. Front Psychol. 2021;12:678264. https://
+doi.org/10.3389/fpsyg.2021.678264.
+35. Mantzalas J, Richdale AL, Adikari A, Lowe J, Dis-
+sanayake C. What is autistic burnout? A thematic analysis
+of posts on two online platforms. Autism Adulthood. 2021.
+https://doi.org/10.1089/aut.2021.0021.36. Oti-Boadi M, Dankyi E, Kwakye-Nuako CO. Stigma and
+forgiveness in ghanaian mothers of children with autism
+spectrum disorders (ASD). J Autism Dev Disord. 2020;
+50(4):1391–1400.
+37. O ¨
+zB ,Y u ¨ksel T, Nasirog ˘lu S. Depression-anxiety symp-
+toms and stigma perception in mothers of children with
+autism spectrum disorder. Arch Neuropsychiatry. 2020;
+57(1):50.
+38. Zuckerman KE, Lindly OJ, Reyes NM, et al. Parent per-
+ceptions of community autism spectrum disorder stigma:
+Measure validation and associations in a multi-site sam-
+ple.J Autism Dev Disord. 2018;48(9):3199–3209.
+39. Kinnear SH, Link BG, Ballan MS, Fischbach RL.
+Understanding the experience of stigma for parents of
+children with autism spectrum disorder and the role stig-
+ma plays in families’ lives. J Autism Dev Disord. 2016;
+46(3):942–953.
+40. Liao X, Lei X, Li Y. Stigma among parents of children
+with autism: A literature review. Asian J Psychiatr. 2019;
+45:88–94.
+41. Mitter N, Ali A, Scior K. Stigma experienced by families
+of individuals with intellectual disabilities and autism: A
+systematic review. Res Dev Disabil. 2019;89:10–21.
+42. Song J, Mailick MR, Greenberg JS. Health of parents of
+individuals with developmental disorders or mental health
+problems: Impacts of stigma. Soc Sci Med. 2018;217:152–
+158.
+43. Lovell B, Wetherell MA. Afﬁliate stigma, perceived so-
+cial support and perceived stress in caregivers of children
+with autism spectrum disorder: A multiple mediation
+study. Arch Psychiatr Nurs. 2019;33(5):31–35.
+44. Broady TR, Stoyles GJ, Morse C. Understanding carers’
+lived experience of stigma: The voice of families with a
+child on the autism spectrum. Health Soc Care Commu-
+nity. 2017;25(1):224–233.
+45. Lovell B, Wetherell MA. Caregivers’ characteristics and
+family constellation variables as predictors of afﬁliate
+stigma in caregivers of children with ASD. Psychiatry
+Res. 2018;270:426–429.
+46. Jansen-van Vuuren J, Aldersey HM. Stigma, acceptance
+and belonging for people with IDD across cultures. Curr
+Dev Disord Rep. 2020;7(3):163–172.
+47. Harrison AJ, Bradshaw LP, Naqvi NC, Paff ML, Camp-
+bell JM. Development and psychometric evaluation of the
+Autism Stigma and Knowledge Questionnaire (ASK-Q).
+J Autism Dev Disord. 2017;47(10):3281–3295.
+48. Kuzminski R, Netto J, Wilson J, Falkmer T, Chamberlain
+A, Falkmer M. Linking knowledge and attitudes: De-
+termining neurotypical knowledge about and attitudes
+towards autism. PLoS One. 2019;14(7):e0220197.
+49. Ling CYM, Mak WWS, Cheng JNS. Attribution model of
+stigma towards children with autism in Hong Kong.
+J Appl Res Intellect Disabil. 2010;23(3):237–249.
+50. Obeid R, Daou N, DeNigris D, Shane-Simpson C, Brooks
+PJ, Gillespie-Lynch K. A cross-cultural comparison of
+knowledge and stigma associated with autism spectrum
+disorder among college students in Lebanon and the United
+States. J Autism Dev Disord. 2015;45(11):3520–3536.
+51. Kitchin JL, Karlin NJ. Awareness and stigma of autism
+spectrum disorders in undergraduate students. Psychol
+Rep. 2021 [Epub ahead of print]; DOI: 10.1177/
+00332941211014144.
+52. Mac Ca ´rthaigh S, Lo ´pez B. Factually based autism
+awareness campaigns may not always be effective in86 TURNOCK ET AL.
+
+changing attitudes towards autism: Evidence from British
+and South Korean nursing students. Autism. 2020;24(5):
+1177–1190.
+53. White D, Hillier A, Frye A, Makrez E. College students’
+knowledge and attitudes towards students on the autism
+spectrum. J Autism Dev Disord. 2019;49(7):2699–2705.
+54. Gardiner E, Iarocci G. Students with autism spectrum
+disorder in the university context: Peer acceptance pre-
+dicts intention to volunteer. J Autism Dev Disord. 2014;
+44(5):1008–1017.
+55. Matthews NL, Ly AR, Goldberg WA. College students’
+perceptions of peers with autism spectrum disorder.
+J Autism Dev Disord. 2015;45(1):90–99.
+56. van ‘t Hof M, van Berckelaer-Onnes I, Deen M, et al.
+Novel insights into autism knowledge and stigmatizing
+attitudes toward mental illness in Dutch youth and family
+center physicians. Community Ment Health J. 2020;56(7):
+1318–1330.
+57. Tipton LA, Blacher J. Brief report: Autism awareness:
+Views from a campus community. J Autism Dev Disord.
+2014;44(2):477–483.
+58. Mitchell GE, Locke KD. Lay beliefs about autism spec-
+trum disorder among the general public and childcare
+providers. Autism. 2015;19(5):553–561.
+59. Wood C, Freeth M. Students’ stereotypes of autism.
+J Educ Issues. 2016;2:131.
+60. Heidgerken AD, Geffken G, Modi A, Frakey L. A survey
+of autism knowledge in a health care setting. J Autism Dev
+Disord. 2005;35(3):323–330.
+61. Plumb AM, Plexico LW. Autism spectrum disorders:
+Experience, training, and conﬁdence levels of school-
+based speech-language pathologists. Lang Speech Hear
+Serv Sch. 2013;44(1):89–104.
+62. Khanna R, Jariwala K, Holmes ER, Ramachandran S.
+Autism familiarity and knowledge among pharmacy stu-
+dents. Curr Pharm Teach Learn. 2014;6(1):150–157.
+63. Zerbo O, Massolo ML, Qian Y, Croen LA. A study of
+physician knowledge and experience with autism in adults
+in a large integrated healthcare system. J Autism Dev
+Disord. 2015;45(12):4002–4014.
+64. Crane L, Davidson I, Prosser R, Pellicano E. Under-
+standing psychiatrists’ knowledge, attitudes and experi-
+ences in identifying and supporting their patients on the
+autism spectrum: Online survey. BJPsych Open. 2019;
+5(3):e33.
+65. Bono LK, Haverkamp CR, Lindsey RA, Freedman RN,
+McClain MB, Simonsmeier V. Assessing interdisciplinary
+trainees’ objective and self-reported knowledge of autism
+spectrum disorder and conﬁdence in providing services.
+J Autism Dev Disord. 2022;52(1):376–391.
+66. Unigwe S, Buckley C, Crane L, Kenny L, Remington A,
+Pellicano E. GPs’ conﬁdence in caring for their patients on
+the autism spectrum: An online self-report study. Br J Gen
+Pract. 2017;67(659):e445–e452.
+67. Al-Sharbati MM, Al-Farsi YM, Ouhtit A, et al. Awareness
+about autism among school teachers in Oman: A cross-
+sectional study. Autism. 2015;19(1):6–13.
+68. Haimour AI, Obaidat YF. School teachers’ knowledge
+about autism in Saudi Arabia. World J Educ. 2013;3(5):
+45–56.
+69. Sanz-Cervera P, Ferna ´ndez-Andre ´s M-I, Pastor-Cerezuela
+G, Ta ´rraga-Mı ´nguez R. Pre-service teachers’ knowledge,
+misconceptions and gaps about autism spectrum disorder.
+Teach Educ Spec Educ. 2017;40(3):212–224.70. Schwartz H, Drager KDR. Training and knowledge in
+autism among speech-language pathologists: A survey.
+Lang Speech Hear Serv Sch. 2008;39(1):66–77.
+71. Young K, Mannix McNamara P, Coughlan B. Post-
+primary school teachers’ knowledge and understanding of
+autism spectrum disorders. Irish Educ Stud. 2017;36(3):
+399–422.
+72. Ballantyne C, Gillespie-Smith K, Wilson C. A comparison
+of knowledge and experience of autism spectrum disorder
+among teachers in the United Kingdom and China. Intl J
+Disabil Dev Educ. 2019;68(8):1–12.
+73. Segall MJ, Campbell JM. Factors relating to education
+professionals’ classroom practices for the inclusion ofstudents with autism spectrum disorders. Res Autism
+Spectr Disord. 2012;6(3):1156–1167.
+74. Goodall C. ‘I felt closed in and like I couldn’t breathe’: A
+qualitative study exploring the mainstream educational
+experiences of autistic young people. Autism Dev Lang
+Impair. 2018;3:2396941518804407.
+75. Dillenburger K, McKerr L, Jordan J-A, Keenan M. Staff
+training in autism: The one-eyed wo/man ..Int J Environ
+Res Public Health. 2016;13(7):716.
+76. American Psychiatric Association. Diagnostic and Sta-
+tistical Manual of Mental Disorders 5th edition (DSM-5).
+Washington, DC: American Psychiatric Association; 2013.
+77. Schaaf RC, Toth-Cohen S, Johnson SL, Outten G, Benevides
+TW. The everyday routines of families of children with au-
+tism: Examining the impact of sensory processing difﬁculties
+on the family. Autism. 2011;15(3):373–389.
+78. Ryan S. ‘Meltdowns’, surveillance and managing emo-
+tions; going out with children with autism. Health Place.
+2010;16(5):868–875.
+79. Grossman RB. Judgments of social awkwardness from
+brief exposure to children with and without high-
+functioning autism. Autism. 2015;19(5):580–587.
+80. DeBrabander KM, Morrison KE, Jones DR, Faso DJ,
+Chmielewski M, Sasson NJ. Do ﬁrst impressions of au-
+tistic adults differ between autistic and nonautistic ob-
+servers? Autism Adulthood. 2019;1(4):250–257.
+81. Kapp SK, Steward R, Crane L, et al. ‘People should be
+allowed to do what they like’: Autistic adults’ views and
+experiences of stimming. Autism. 2019;23(7):1782–1792.
+82. Jones R, Quigney C, Huws J. First-hand accounts of
+sensory perceptual experiences in autism: A qualitative
+analysis. J Autism Dev Disord. 2003;28(2):112–121.
+83. Barnes C. Understanding the social model of disability:
+Past, present and future. In: Watson N, Vehmas S, eds.
+Routledge Handbook of Disability Studies. London:
+Routledge; 2019;14–31.
+84. Dachez J, Ndobo A, Ameline A. French validation of the
+multidimensional attitude scale toward persons with dis-
+abilities (MAS): The case of attitudes toward autism and
+their moderating factors. J Autism Dev Disord. 2015;
+45(8):2508–2518.
+85. Cook A, Ogden J, Winstone N. The effect of school
+exposure and personal contact on attitudes towards bul-
+lying and autism in schools: A cohort study with a control
+group. Autism. 2020;24(8):2178–2189.
+86. Kim SY. College disability service ofﬁce staff members’
+autism attitudes and knowledge. Remedial Spec Educ.
+2021;43(1):15–26.
+87. Mitchell P, Sheppard E, Cassidy S. Autism and the double
+empathy problem: Implications for development and
+mental health. Br J Dev Psychol. 2021;39(1):1–18.STIGMA AND AUTISM 87
+
+88. Milton DEM. On the ontological status of autism: The
+‘double empathy problem’. Disabil Soc. 2012;27(6):883–
+887.
+89. Crompton CJ, Sharp M, Axbey H, Fletcher-Watson S,
+Flynn EG, Ropar D. Neurotype-matching, but not being
+autistic, inﬂuences self and observer ratings of interper-
+sonal rapport. Front Psychol. 2020;11:586171. https://doi
+.org/10.3389/fpsyg.2020.586171.
+90. Gray DE. Perceptions of stigma: The parents of autistic
+children. Sociol Health Illn. 1993;15(1):102–120.
+91. Corrigan P, Markowitz FE, Watson A, Rowan D, Kubiak
+MA. An attribution model of public discrimination to-
+wards persons with mental illness. J Health Soc Behav.
+2003;44(2):162–179.
+92. Sasson NJ, Morrison KE. First impressions of adults
+with autism improve with diagnostic disclosure and in-
+creased autism knowledge of peers. Autism. 2019;23(1):
+50–59.
+93. Austin JE, Zinke VL, Davies WH. Inﬂuencing perception
+about children with autism and their parents using dis-
+closure cards. J Autism Dev Disord. 2016;46(8):2764–
+2769.
+94. Austin JE, Galijot R, Davies WH. Evaluating parental
+Autism disclosure strategies. J Autism Dev Disord. 2018;
+48(1):103–109.
+95. Brosnan M, Mills E. The effect of diagnostic labels on the
+affective responses of college students towards peers with
+‘Asperger’s Syndrome’and ‘Autism Spectrum Disorder’.
+Autism. 2016;20(4):388–394.
+96. Mogavero MC, Hsu K-H. Autism spectrum disorder and
+harassment: An application of attribution theory. Int J
+Criminol Sociol. 2018;7:260–274.
+97. O’Connor C, Burke J, Rooney B. Diagnostic disclosure
+and social marginalisation of adults with ASD: Is there a
+relationship and what mediates it? J Autism Dev Disord.
+2020;50(9):3367–3379.
+98. Morrison KE, DeBrabander KM, Faso DJ, Sasson NJ.
+Variability in ﬁrst impressions of autistic adults made
+by neurotypical raters is driven more by characteristics of
+the rater than by characteristics of autistic adults. Autism.
+2019;23(7):1817–1829.
+99. White R, Barreto M, Harrington J, Kapp SK, Hayes J,
+Russell G. Is disclosing an autism spectrum disorder in
+school associated with reduced stigmatization? Autism.
+2020;24(3):744–754.
+100. Thompson-Hodgetts S, Labonte C, Mazumder R, Phelan
+S. Helpful or harmful? A scoping review of perceptions
+and outcomes of autism diagnostic disclosure to others.
+Res Autism Spectr Disord. 2020;77:101598.
+101. Frost KM, Bailey KM, Ingersoll BR. ‘‘I just want them to
+see me as .me’’: Identity, community, and disclosure
+practices among college students on the autism spectrum.
+Autism Adulthood. 2020;1(4):268–275.
+102. Cage E, Troxell-Whitman Z. Understanding the relation-
+ships between autistic identity, disclosure, and camou-
+ﬂaging. Autism Adulthood. 2020;2:334–338.
+103. Johnson TD, Joshi A. Dark clouds or silver linings? A
+stigma threat perspective on the implications of an autism
+diagnosis for workplace well-being. J Appl Psychol. 2016;
+101(3):430–449.
+104. Someki F, Torii M, Brooks PJ, Koeda T, Gillespie-Lynch
+K. Stigma associated with autism among college students
+in Japan and the United States: An online training study.
+Res Dev Disabil. 2018;76:88–98.105. Yu L, Stronach S, Harrison AJ. Public knowledge and
+stigma of autism spectrum disorder: Comparing China
+with the United States. Autism. 2020;24(6):1531–1545.
+106. Gillespie-Lynch K, Daou N, Sanchez-Ruiz M-J, et al.
+Factors underlying cross-cultural differences in stigma
+toward autism among college students in Lebanon and the
+United States. Autism. 2019;23(8):1993–2006.
+107. Grinker RR, Cho K. Border children: Interpreting autism
+spectrum disorder in South Korea. Ethos. 2013;41(1):46–74.
+108. McCabe H. Parent advocacy in the face of adversity:
+Autism and families in the People’s Republic of China.
+Focus Autism Other Dev Disabl. 2007;22(1):39–50.
+109. Ha VS, Whittaker A, Whittaker M, Rodger S. Living with
+autism spectrum disorder in Hanoi, Vietnam. Soc Sci Med.
+2014;120:278–285.
+110. Sangare M, Dembele B, Toure A, et al. Autism seminary
+for public engagement: Evaluation of knowledge and at-
+titudes of traditional medical practitioners in Mali [version
+1; peer review: 1 approved, 1 approved with reservations,
+1 not approved]. AAS Open Res. 2019;2(21). https://doi
+.org/10.12688/aasopenres.12955.1.
+111. Tilahun D, Hanlon C, Fekadu A, Tekola B, Baheretibeb
+Y, Hoekstra RA. Stigma, explanatory models and unmet
+needs of caregivers of children with developmental dis-
+orders in a low-income African country: A cross-sectional
+facility-based survey. BMC Health Serv Res. 2016;16:152.
+112. Tekola B, Baheretibeb Y, Roth I, et al. Challenges and
+opportunities to improve autism services in low-income
+countries: Lessons from a situational analysis in Ethiopia.
+Glob Ment Health. 2016;3:e21, 1–11. https://doi.org/10.
+1017/gmh.2016.1.
+113. Ellen Selman L, Fox F, Aabe N, Turner K, Rai D,
+Redwood S. ‘You are labelled by your children’s
+disability’—A community-based, participatory study of
+stigma among Somali parents of children with autism
+living in the United Kingdom. Ethn Health. 2018;23(7):
+781–796.
+114. Sritharan B, Koola MM. Barriers faced by immigrant
+families of children with autism: A program to address the
+challenges. Asian J Psychiatr. 2019;39:53–57.
+115. Hussein AM, Pellicano E, Crane L. Understanding and
+awareness of autism among Somali parents living in the
+United Kingdom. Autism. 2019;23(6):1408–1418.
+116. Fox F, Aabe N, Turner K, Redwood S, Rai D. ‘‘It was like
+walking without knowing where I was going’’: A quali-
+tative study of autism in a UK Somali Migrant Commu-nity. J Autism Dev Disord. 2017;47(2):305–315.
+117. Dababnah S, Shaia WE, Campion K, Nichols HM. ‘‘We
+had to keep pushing’’: Caregivers’ perspectives on autism
+screening and referral practices of black children in pri-
+mary care. Intellect Dev Disabil. 2018;56(5):321–336.
+118. Burkett K, Morris E, Manning-Courtney P, Anthony J,
+Shambley-Ebron D. African American families on autism
+diagnosis and treatment: The inﬂuence of culture.
+J Autism Dev Disord. 2015;45(10):3244–3254.
+119. Kim SY. The Development and pilot-testing of the autism
+attitude acceptance scale: An instrument measuring au-
+tism acceptance. Autism Adulthood. 2020;2:204–215.
+120. Lilley R, Sedgwick M, Pellicano E. Inclusion, acceptance,
+shame and isolation: Attitudes to autism in aboriginal and
+Torres Strait islander communities in Australia. Autism.
+2020;24(7):1860–1873.
+121. de Leeuw A, Happe ´F, Hoekstra RA. A conceptual
+framework for understanding the cultural and contextual88 TURNOCK ET AL.
+
+factors on autism across the globe. Autism Res. 2020;
+13(7):1029–1050.
+122. Lai MC, Lombardo MV, Auyeung B, Chakrabarti B,
+Baron-Cohen S. Sex/gender differences and autism: Set-
+ting the scene for future research. J Am Acad Child
+Adolesc Psychiatry. 2015;54(1):11–24.
+123. Bargiela S, Steward R, Mandy W. The experiences of late-
+diagnosed women with autism spectrum conditions: An
+investigation of the female autism phenotype. J Autism
+Dev Disord. 2016;46(10):3281–3294.
+124. Sedgewick F, Hill V, Pellicano E. ‘It’s different for girls’:
+Gender differences in the friendships and conﬂict of
+autistic and neurotypical adolescents. Autism. 2018;23(5):
+1119–1132.
+125. Van Der Miesen AIR, Hurley H, De Vries ALC. Gender
+dysphoria and autism spectrum disorder: A narrative re-
+view. Int Rev Psychiatry. 2016;28(1):70–80.
+126. Glidden D, Bouman WP, Jones BA, Arcelus J. Gender
+dysphoria and autism spectrum disorder: A systematic
+review of the literature. Sex Med Rev. 2016;4(1):3–14.
+127. Stronach S, Wiegand S, Mentz E. Brief report: Autism
+knowledge and stigma in university and community
+samples. J Autism Dev Disord. 2019;49(3):1298–1302.
+128. Dodge R, Daly AP, Huyton J, Sanders LD. The challenge
+of deﬁning wellbeing. Int J Wellbeing. 2012;2(3):222–235.
+129. Steptoe A, Deaton A, Stone AA. Subjective wellbeing,
+health, and ageing. Lancet. 2015;385(9968):640–648.
+130. Cage E, Troxell-Whitman Z. Understanding the reasons,
+contexts and costs of camouﬂaging for autistic adults.
+J Autism Dev Disord. 2019;49(5):1899–1911.
+131. Mazurek MO. Loneliness, friendship, and well-being in
+adults with autism spectrum disorders. Autism. 2014;
+18(3):223–232.
+132. Hull L, Petrides KV, Allison C, et al. ‘‘Putting on my best
+normal’’: Social camouﬂaging in adults with autism
+spectrum conditions. J Autism Dev Disord. 2017;47(8):
+2519–2534.
+133. Lai M-C, Lombardo MV, Ruigrok ANV, et al. Quantify-
+ing and exploring camouﬂaging in men and women with
+autism. Autism. 2017;21(6):690–702.
+134. Perry E, Mandy W, Hull L, Cage E. Understanding
+camouﬂaging as a response to autism-related stigma: A
+social identity theory approach. J Autism Dev Disord. 2021;
+52:800–810.
+135. Caron V, Jeanneret N, Giroux M, et al. Sociocultural
+context and autistics’ quality of life: A comparison be-tween Que ´bec and France. Autism. 2021 [Epub ahead of
+print]; DOI: 10.1177/13623613211035229.
+136. Cage E, Di Monaco J, Newell V. Experiences of autism
+acceptance and mental health in autistic adults. J Autism
+Dev Disord. 2018;48(2):473–484.
+137. Lai M-C, Kassee C, Besney R, et al. Prevalence of co-
+occurring mental health diagnoses in the autism popula-
+tion: A systematic review and meta-analysis. Lancet
+Psychiatry. 2019;6(10):819–829.
+138. Earnshaw VA, Quinn DM. The impact of stigma in
+healthcare on people living with chronic illnesses.
+J Health Psychol. 2012;17(2):157–168.
+139. Gulliver A, Grifﬁths KM, Christensen H. Perceived bar-
+riers and facilitators to mental health help-seeking in
+young people: A systematic review. BMC Psychiatry.
+2010;10:113.
+140. Crane L, Adams F, Harper G, Welch J, Pellicano E.
+‘Something needs to change’: Mental health experiencesof young autistic adults in England.
+Autism. 2019;23(2):
+477–493.
+141. Nicolaidis C, Raymaker D, McDonald K, et al. Compar-
+ison of healthcare experiences in autistic and non-autistic
+adults: A cross-sectional online survey facilitated by an
+academic-community partnership. J Gen Intern Med.
+2013;28(6):761–769.
+142. Walsh C, Lydon S, O’Dowd E, O’Connor P. Barriers to
+healthcare for persons with autism: A systematic review
+of the literature and development of a taxonomy. Dev
+Neurorehabil. 2020;23(7):413–430.
+143. Romualdez AM, Heasman B, Walker Z, Davies J,
+Remington A. ‘‘People might understand me better’’:Diagnostic disclosure experiences of autistic individuals
+in the workplace. Autism Adulthood. 2021;3(2):157–167.
+144. Russell G, Norwich B. Dilemmas, diagnosis and de-stig-
+matization: Parental perspectives on the diagnosis of au-
+tism spectrum disorders. Clin Child Psychol Psychiatry.
+2012;17(2):229–245.
+145. Papadopoulos C, Lodder A, Constantinou G, Randhawa
+G. Systematic review of the relationship between autism
+stigma and informal caregiver mental health. J Autism
+Dev Disord. 2019;49(4):1665–1685.
+146. Werner S, Shulman C. Subjective well-being among
+family caregivers of individuals with developmental dis-
+abilities: The role of afﬁliate stigma and psychosocial
+moderating variables. Res Dev Disabil. 2013;34(11):
+4103–4114.
+147. Linton M-J, Dieppe P, Medina-Lara A. Review of 99
+self-report measures for assessing well-being in adults:
+Exploring dimensions of well-being and developments
+over time. BMJ Open. 2016;6(7):e010641.
+148. John RPS, Knott FJ, Harvey KN. Myths about autism: An
+exploratory study using focus groups. Autism. 2018;22(7):
+845–854.
+149. Jaswal VK, Akhtar N. Being versus appearing socially
+uninterested: Challenging assumptions about social moti-
+vation in autism. Behav Brain Sci. 2019;42:e82, 1–73.
+https://doi.org/10.1017/S0140525X18001826.
+150. Mu ¨ller E, Schuler A, Yates GB. Social challenges and
+supports from the perspective of individuals with Asper-
+ger syndrome and other autism spectrum disabilities.
+Autism. 2008;12(2):173–190.
+151. Skaﬂe I, Nordahl-Hansen A, Øien RA. Short report: Social
+perception of high school students with ASD in Norway.
+J Autism Dev Disord. 2020;50(2):670–675.
+152. Schiltz HK, McVey AJ, Dolan Wozniak B, et al. The role
+of loneliness as a mediator between autism features and
+mental health among autistic young adults. Autism. 2021;
+25(2):545–555.
+153. Stice LV, Lavner JA. Social connectedness and loneliness
+mediate the association between autistic traits and inter-
+nalizing symptoms among young adults. J Autism Dev
+Disord. 2019;49(3):1096–1110.
+154. Han GT, Tomarken AJ, Gotham KO. Social and nonsocial
+reward moderate the relation between autism symptoms
+and loneliness in adults with ASD, depression, and con-
+trols. Autism Res. 2019;12(6):884–896.
+155. Bailey KM, Frost KM, Casagrande K, Ingersoll B. The
+relationship between social experience and subjective
+well-being in autistic college students: A mixed methods
+study. Autism. 2020;24(5):1081–1092.
+156. Scheeren AM, Koot HM, Begeer S. Stability and change
+in social interaction style of children with autism spectrumSTIGMA AND AUTISM 89
+
+disorder: A 4-year follow-up study. Autism Res. 2020;
+13(1):74–81.
+157. Farrugia D. Exploring stigma: Medical knowledge and
+the stigmatisation of parents of children diagnosed with
+autism spectrum disorder. Sociol Health Illn. 2009;31(7):
+1011–1027.
+158. Ng CKM, Lam SHF, Tsang STK, Yuen C, Chien C-W.
+The relationship between afﬁliate stigma in parents of
+children with autism spectrum disorder and their chil-
+dren’s activity participation. Int J Environ Res Public
+Health. 2020;17(5):1799.
+159. Livingston LA, Colvert E, Social Relationships Study T,
+Bolton P, Happe ´F. Good social skills despite poor theory
+of mind: Exploring compensation in autism spectrum dis-
+order. J Child Psychol Psychiatry. 2019;60(1):102–110.
+160. Livingston LA, Shah P, Happe ´F. Compensatory strategies
+below the behavioural surface in autism: A qualitative
+study. Lancet Psychiatry. 2019;6(9):766–777.
+161. Livingston LA, Happe ´F. Conceptualising compensation
+in neurodevelopmental disorders: Reﬂections from autism
+spectrum disorder. Neurosci Biobehav Rev. 2017;80:729–
+742.
+162. Halsall J, Clarke C, Crane L. ‘‘Camouﬂaging’’ by adoles-
+cent autistic girls who attend both mainstream and spe-
+cialist resource classes: Perspectives of girls, their mothers
+and their educators. Autism. 2021;25(7):2074–2086.
+163. Bernardin CJ, Lewis T, Bell D, Kanne S. Associations
+between social camouﬂaging and internalizing symptoms
+in autistic and non-autistic adolescents. Autism. 2021;
+25(6):1580–1591.
+164. Hull L, Levy L, Lai MC, et al. Is social camouﬂaging
+associated with anxiety and depression in autistic adults?
+Mol Autism. 2021;12(1):13.
+165. Cassidy S, Bradley L, Shaw R, Baron-Cohen S. Risk
+markers for suicidality in autistic adults. Mol Autism.
+2018;9:42.
+166. O’Connor C, Burke J, Rooney B. Diagnostic disclosure
+and social marginalisation of adults with ASD: Is There a
+relationship and what mediates it? J Autism Dev Disord.
+2020;50(9):3367–3379.
+167. Crompton CJ, Hallett S, Ropar D, Flynn E, Fletcher-
+Watson S. ‘I never realised everybody felt as happy as I do
+when I am around autistic people’: A thematic analysis of
+autistic adults’ relationships with autistic and neurotypical
+friends and family. Autism. 2020;24(6):1438–1448.
+168. Meyer IH. Prejudice, social stress, and mental health in
+lesbian, gay, and bisexual populations: Conceptual issues
+and research evidence. Psychol Bull. 2003;129(5):674–
+697.
+169. Miller D, Rees J, Pearson A. ‘‘Masking is life’’: Experi-
+ences of masking in autistic and nonautistic adults. Autism
+Adulthood. 2021;3(4):330–338.
+170. Schneid I, Raz AE. The mask of autism: Social camou-
+ﬂaging and impression management as coping/normali-
+zation from the perspectives of autistic adults. Soc Sci
+Med. 2020;248:112826.
+171. Lai MC, Baron-Cohen S. Identifying the lost generation of
+adults with autism spectrum conditions. Lancet Psy-
+chiatry. 2015;2(11):1013–1027.
+172. Lai M-C, Anagnostou E, Wiznitzer M, Allison C, Baron-
+Cohen S. Evidence-based support for autistic people
+across the lifespan: Maximising potential, minimising
+barriers, and optimising the person–environment ﬁt.
+Lancet Neurol. 2020;19(5):434–451.173. Tola G, Talu V, Congiu T, Bain P, Lindert J. Built envi-
+ronment design and people with autism spectrum disorder
+(ASD): A scoping review. Int J Environ Res Public
+Health. 2021;18(6):3203.
+174. Milton D, Martin N, Melham P. Beyond reasonable ad-
+justment: autistic-friendly spaces and Universal Design.
+In: Milton D, Martin N, eds. Autism and Intellectual
+Disabilities in Adults Vol. 1. Hove: Pavilion Publishing
+and Media; 2016;81–85.
+175. Pellicano L, Bo ¨lte S, Stahmer A. The current illusion of
+educational inclusion. Autism. 2018;22(4):386–387.
+176. Brewer N, Zoanetti J, Young RL. The inﬂuence of media
+suggestions about links between criminality and autismspectrum disorder. Autism. 2017;21(1):117–121.
+177. Tang L, Bie B. The stigma of autism in china: An analysis
+of newspaper portrayals of autism between 2003 and
+2012. Health Commun. 2016;31(4):445–452.
+178. Holton AE, Farrell LC, Fudge JL. A threatening space?:
+Stigmatization and the framing of autism in the news.
+Commun Stud. 2014;65(2):189–207.
+179. Bie B, Tang L. Representation of autism in leading
+newspapers in China: A content analysis. Health Com-
+mun. 2015;30(9):884–893.
+180. Baeyens D, Moniquet A, Danckaerts M, van der Oord S.
+A comparative study of the structural stigmatisation of
+ADHD and autism spectrum disorder in Flemish news-
+papers. Tijdschr Psychiatr. 2017;59(5):269–277.
+181. Nordahl-Hansen A, Øien RA, Fletcher-Watson S. Pros
+and cons of character portrayals of autism on TV and ﬁlm.
+J Autism Dev Disord. 2018;48(2):635–636.
+182. Gillespie-Lynch K, Bisson J, Saade S, et al. If you want to
+develop an effective autism training, ask autistic students
+to help you. Autism. 2021 [Epub ahead of print]; DOI:
+10.1177/13623613211041006.
+183. Saade S, Bean YF, Gillespie-Lynch K, Poirier N, Harrison
+AJ. Can participation in an online ASD training enhance
+attitudes toward inclusion, teaching self-Efﬁcacy and
+ASD knowledge among preservice educators in diverse
+cultural contexts? Int J Inclusive Educ. 2021:1–16. https://
+doi.org/10.1080/13603116.2021.1931716.
+184. Jones DR, Morrison KE, DeBrabander KM, Ackerman
+RA, Pinkham AE, Sasson NJ. Greater social interest be-
+tween autistic and non-autistic conversation partners fol-
+lowing autism acceptance training for non-autistic people.
+Front Psychol. 2021;12:739147. https://doi.org/10.3389/
+fpsyg.2021.739147.
+185. Jones DR, DeBrabander KM, Sasson NJ. Effects of autism
+acceptance training on explicit and implicit biases toward
+autism. Autism. 2021;25(5):1246–1261.
+186. Morris S, O’Reilly G, Byrne MK. Understanding our
+peers with Pablo: Exploring the merit of an autism spec-
+trum disorder de-stigmatisation programme targeting
+peers in Irish early education mainstream settings.
+J Autism Dev Disord. 2020;50(12):4385–4400.
+187. Staniland JJ, Byrne MK. The effects of a multi-component
+higher-functioning autism anti-stigma program on adoles-
+cent boys. J Autism Dev Disord. 2013;43(12):2816–2829.
+188. Ranson NJ, Byrne MK. Promoting peer acceptance of
+females with higher-functioning autism in a mainstream
+education setting: A replication and extension of the ef-
+fects of an autism anti-stigma program. J Autism Dev
+Disord. 2014;44(11):2778–2796.
+189. Sarge MA, Kim H-S, Velez JA. An auti-sim intervention:
+The role of perspective taking in combating public stigma90 TURNOCK ET AL.
+
+with virtual simulations. Cyberpsychol Behav Soc Netw.
+2020;23(1):41–51.
+190. Bonsu A. Keeping an open mind about autism. Lancet
+Neurol. 2017;16(12):963.
+191. Como DH, Florı ´ndez LI, Tran CF, Cermak SA, Stein
+Duker LI. Examining unconscious bias embedded in
+provider language regarding children with autism. Nurs
+Health Sci. 2020;22(2):197–204.
+192. Teal CR, Gill AC, Green AR, Crandall S. Helping
+medical learners recognise and manage unconscious bias
+toward certain patient groups. Med Educ. 2012;46(1):
+80–88.
+193. Government W. Refreshed Autistic Spectrum Disorder
+Strategic Action Plan. In. Wales, United Kingdom;
+2020.
+194. Kapp SK, Gillespie-Lynch K, Sherman LE, Hutman T.
+Deﬁcit, difference, or both? Autism and neurodiversity.
+Dev Psychol. 2013;49(1):59.
+195. Jaarsma P, Welin S. Autism as a natural human variation:
+Reﬂections on the claims of the neurodiversity movement.
+Health Care Anal. 2012;20(1):20–30.
+196. Grifﬁn E, Pollak D. Student experiences of neurodiversity
+in higher education: Insights from the BRAINHE project.
+Dyslexia. 2009;15(1):23–41.
+197. Armstrong T. The myth of the normal brain: embracing
+neurodiversity. AMA J Ethics. 2015;17(4):348–352.
+198. Smart J. Challenges to the Biomedical Model of Disability.
+Advan Medical Psychother Psychodiag. 2006;12:1–4.
+199. Pellicano E, den Houting J. Annual Research Review:
+Shifting from ‘normal science’ to neurodiversity in autism
+science. J Child Psychol Psychiatry. 2021 [Epub ahead of
+print]; DOI: 10.1111/jcpp.13534.
+200. Cooper K, Smith LGE, Russell A. Social identity, self-
+esteem, and mental health in autism. Eur J Soc Psychol.
+2017;47(7):844–854.
+201. Kenny L, Hattersley C, Molins B, Buckley C, Povey C,
+Pellicano E. Which terms should be used to describeautism? Perspectives from the UK autism community.
+Autism. 2016;20(4):442–462.
+202. Bury SM, Jellett R, Spoor JR, Hedley D. ‘‘It deﬁnes who
+i am’’ or ‘‘it’s something i have’’: What language do
+[autistic] Australian adults [on the autism spectrum]
+prefer? J Autism Dev Disord. 2020 [Epub ahead of print];
+DOI: 10.1007/s10803-020-04425-3.
+203. Gernsbacher MA. Editorial perspective: The use of person-
+ﬁrst language in scholarly writing may accentuate stigma.
+J Child Psychol Psychiatry. 2017;58(7):859–861.
+204. Bottema-Beutel K, Kapp SK, Lester JN, Sasson NJ, Hand
+BN. Avoiding ableist language: suggestions for autism
+researchers. Autism Adulthood. 2021;3(1):18–29.
+205. Singh JS, Bunyak G. Autism disparities: A systematic
+review and meta-ethnography of qualitative research.
+Qual Health Res. 2019;29(6):796–808.
+206. Corrigan PW, Shapiro JR. Measuring the impact of pro-
+grams that challenge the public stigma of mental illness.
+Clin Psychol Rev. 2010;30(8):907–922.
+207. Fletcher-Watson S, Adams J, Brook K, et al. Making the
+future together: Shaping autism research through mean-
+ingful participation. Autism. 2019;23(4):943–953.
+208. Pickard H, Pellicano E, den Houting J, Crane L. Partici-
+patory autism research: Early career and established re-
+searchers’ views and experiences. Autism. 2022;26(1):
+75–87.
+Address correspondence to:
+Catherine R.G. Jones, PhD
+School of Psychology
+Cardiff University
+Park Place
+Cardiff CF10 3AT
+United Kingdom
+Email: jonescr10@cardiff.ac.ukSTIGMA AND AUTISM 91

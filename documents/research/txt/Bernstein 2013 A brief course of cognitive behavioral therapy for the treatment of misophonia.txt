@@ -1,0 +1,456 @@
+The Cognitive Behaviour Therapist (2013), vol. 6, e10, page 1 of 13
+doi:10.1017/S1754470X13000172PRACTICE ARTICLE
+A brief course of cognitive behavioural therapy for the
+treatment of misophonia: a case example
+Rosemary E. Bernstein∗, Karyn L. Angell and Crystal M. Dehle
+Department of Psychology, University of Oregon, Eugene, Oregon, USA
+Received 25 April 2013; Accepted 16 September 2013
+Abstract. Misophonia is a condition of unknown cause characterized by atypically
+intense negative physiological and emotional reactions to hearing certain sounds –
+most often those associated with oral functions. Individuals with misophonia oftenreport high levels of psychological distress and avoidance behaviours that seriously
+compromise their occupational and social functioning. As of yet, no effective treatment
+of misophonia has been identiﬁed, and health care providers often struggle whenthey encounter clients who have it. This case report describes the assessment, case
+formulation, and treatment of a client with misophonia using cognitive behavioural
+therapy (CBT), and serves as an initial contribution to the evidence base for the efﬁcacyof CBT in the treatment of misophonia.
+Key words: Case study, 4S, misophonia, selective sound sensitivity, soft sound sensitivity syndrome.
+Introduction
+Misophonia – a condition characterized by disproportionately strong affective and
+physiological reactions to certain sounds – is a relatively recently identiﬁed †condition that
+is empirically poorly understood (Schwartz et al. 2011). Sometimes called selective sound
+sensitivity syndrome (SSSS or 4S) or soft sound sensitivity, misophonia is not included in
+DSM-V (APA, 2013), has no formal diagnostic formulation, and has been referenced in onlya few research articles ‡. Many had never heard of the condition before it was featured in
+news reports from the New York Times (Cohen, 2011) and the Today Show (Carroll, 2011)
+among others (e.g. Berman, 2011; Hufﬁngton Post Healthy Living, 2011; Kivi, 2011; Smith-Squire, 2011; Cohen, 2012; Deutsch, 2012; Leaker, 2012). One positive consequence of this
+recent surge of media recognition is that it prompted sufferers to come forward in greater
+∗Author for correspondence: Ms. R. E. Bernstein, Department of Psychology, University of Oregon, 1227 University
+of Oregon, Eugene, Oregon 97403, USA (email: reb@uoregon.edu).†Historically, the same constellation of symptoms have fallen under the umbrella terms noise aversions or noise
+phobias, and have often been misdiagnosed as obsessive compulsive disorder or as part of the general sensorysensitivity frequently associated with autism spectrum and other developmental disorders (Robertson & Simmons,2013).
+‡Electronic database searches (via PsycINFO and Pubmed) for the term ‘misophonia’ on 17 January 2013 yielded
+a combined seven journal articles or book chapters published between 2002 and 2012. Searches for related terms‘sound sensitivity syndrome’ and ‘selective sound sensitivity’ yielded zero publications.
+© British Association for Behavioural and Cognitive Psychotherapies 2013
+
+2 R. E. Bernstein et al.
+numbers. Unfortunately, however, with such a dearth of research on misophonia and its
+treatment, the practitioners (most of whom are audiologists) receiving this new wave of
+patients often struggle with how to care for them. Presently, the most typical form of treatmentfor misophonia involves a tinnitus retraining therapy device (Jastreboff et al. 1996; Jastreboff
+& Jastreboff, 2003) or other wearable white-noise generator to minimize awareness of the
+offending sounds (Jastreboff, 2001). While this form of intervention can be helpful withmanaging symptoms, it does not treat the underlying syndrome.
+In this paper we suggest that cognitive behavioural therapy (CBT) may be an effective
+treatment for the underlying mechanisms involved in misophonia. Based on the assumptionthat the condition is not an auditory disorder caused by any anatomical anomaly (Møller,
+2010), but instead arises from an overly sensitized connection between the limbic and
+sympathetic nervous systems (SNS; Jastreboff & Hazell, 2004), we hypothesize that thisSNS hypersensitivity may represent a threshold effect amenable to changes in cognition,
+physiology, and behaviour. Further rationale for the utility of CBT comes from the fact that
+misophonia sufferers often have much stronger negative reactions to the sounds produced byclose others compared to those made by strangers, indicating a potent attributional component
+to the syndrome. Indeed, there is already some anecdotal evidence to suggest that CBT might
+effectively treat misophonia. Recent medical journal articles (e.g. Schwartz et al. 2011) posit
+that CBT may help clients manage their emotions and behaviours when hearing or anticipating
+offending sounds. However, no empirical study has tested the efﬁcacy of CBT for treatingmisophonia, nor has any case study documented a successful CBT treatment protocol. In this
+paper, we present a CBT anxiety protocol adapted to treat a case of misophonia in a student
+presenting to a university training clinic.
+What is misophonia?
+The marked intolerance of speciﬁc sounds that characterizes misophonia was ﬁrst termed
+selective sound sensitivity syndome (4S) by audiologist Marsha Johnson in the 1990s.
+Later, neuroscientist Pawel Jastreboff used the word misophonia (‘ miso ’ hatred and ‘ phonia ’
+sound) to refer to the same ‘abnormally strong negative reactions of the autonomic and
+limbic systems to speciﬁc sounds resulting from enhanced functional connections between
+the auditory and limbic systems’ (Tinnitus and Hyperacusis Clinic, 2010). According totheir conceptualization, the auditory system functions normally, without abnormally high
+activation. At the behavioural level, however, triggering sounds evoke strong negative
+reactions (Misophonia UK, 2010).
+The most common reaction is extreme rage, but can also include feelings of anxiety,
+frustration, disgust, and harm ideation (Jastreboff & Hazell, 2004). Physiologically, the
+triggering sound can induce an overwhelming SNS (i.e. a ‘ﬁght or ﬂight’) response. Sufferers
+may experience a panicked desire to escape, or violent urges directed at the individual making
+the noxious sound. The aversive reactions misophonia sufferers experience are often so potentthat they can dominate lifestyle and occupational choices. People with the condition often
+alienate the people they are closest to, resulting in relationship dissolution, unemployment,
+and social isolation (Schwartz et al. 2011). The most frequently implicated triggering sounds
+in misophonia are those associated with oral functions (i.e. breathing, yawning, chewing,
+snifﬂing, swallowing), but can also include typing, pencil scratching, trickling water, or
+crinkling paper (Schwartz et al. 2011).
+
+Cognitive behavioural treatment of misophonia 3
+Aetiology and symptom development
+The aetiology of misophonia remains unknown. A sudden onset often occurs in late childhood
+or early adolescence (Cohen, 2011). Initial symptoms involve noticing a particular feature ofa loved one’s eating or breathing habits. The afﬂicted individual quickly becomes obsessed
+by and hypersensitive to the sound(s). This sensitivity typically becomes worse over time, and
+often generalizes to other noises, other people, and to visual images and actions associatedwith the noise (Cohen, 2011). Family members often react to sufferers’ ﬁrst complaints with
+annoyance or dismissiveness. As afﬂicted individuals realize that their sensitivity is unique,
+they often feel ashamed, restrict requests for accommodation, and increase avoidance to
+minimize exposure. Unfortunately, sufferers tend to be triggered most by those to whom they
+are closest (Misophonia UK, 2010).
+Case study
+Client characteristics and presenting problems
+Liz
+∗, a 19-year-old college student, was referred to our clinic for a profound aversion to
+the sounds of people’s slurping, swallowing, and chewing. Although she found the chewing
+noises of both close others and strangers unpleasant, she did not react to the same degree withstrangers as with housemates and family members. She typically responded to these sounds
+with disgust and intense irritation towards the perpetrator, often feeling an intense desire to
+harshly scold them. In reality, she tended to respond to triggers by glaring at the perpetrator
+or sighing repeatedly in exasperation. She speculated that she probably came across to others
+as angry or annoyed. Because she regarded these sentiments as sharply inconsistent with herself-identity as a compassionate and loving person, she felt helpless, deeply ashamed of her
+sensitivity and remorseful that she was in any way imposing upon or limiting the personal
+freedoms of others.
+At intake, Liz reported no current or past medical conditions or mental health treatment
+history. She reported no familial history of mental illness, although one immediate family
+member had a history of tinnitus. She reported ﬁrst noticing her symptoms during familydinners in middle childhood. She used to complain or sometimes exaggeratedly mimic
+noxious chewing noises in an attempt to communicate her distress to others, though her family
+members thought she was ‘just being a brat’. They sometimes temporarily (and begrudgingly)stopped making the sound, but they habitually forgot and typically reoffended minutes later.
+Liz had quickly grown frustrated by this pattern, which she saw as inevitable (‘no one thinks
+about these things like I do – of course they’ll forget’). She told very few people about her
+misophonia, and reported signiﬁcant functional impairment, including an inability to enjoy
+social meals, and avoidance of social events. At intake Liz was clear in her conceptualization
+of her sensitivity as a personal, non-relational problem, and identiﬁed ‘ﬁxing it’ as her sole
+treatment goal. Together with her therapist, realistic and time-limited treatment goals were
+operationalized as (1) signiﬁcantly increasing her threshold for triggering sounds such that
+∗Names and some identifying details have been changed to preserve the client’s anonymity. Liz originally gave her
+written informed consent to receive an untested treatment that we hoped would be effective for her. After we saw thattreatment had been effective, we obtained Liz’s permission to publish her case in this journal via subsequent consentprocess.
+
+4 R. E. Bernstein et al.
+noises deemed highly aversive or unbearable at pretreatment would become merely unpleasant
+and tolerable 6–12 weeks into treatment (the typical range for CBT interventions in the
+university training clinic), (2) increasing the proportion of meals eaten in common areas withher housemates from 25% to 75%, and (3) increasing the proportion of social invitations
+accepted from 33% to 75%.
+Assessment procedures
+Liz’s initial intake assessment included the Structured Clinical Interview for DSM-IV Axis I
+Disorders (SCID; First et al. 2002), the Stages of Change Questionnaire (SOC; McConnaughy
+et al. 1983), Beck Anxiety Inventory (BAI; Beck & Steer, 1993), Beck Depression Inventory
+II (BDI-II; Beck et al. 1996), and Beck Hopelessness Scale (BHS; Beck et al. 1974). She did
+not meet diagnostic criteria for any Axis I disorder. She reported slight discomfort with publicspeaking, but no more than the average person. She reported past periods of sadness, but had
+never met criteria for depression. She endorsed no symptoms of disordered eating, no fear of
+weight gain, and reported a stable body mass index. Liz’s SOC scores indicated she was in thecontemplation and action phases. Her self-reported scores were: BAI =1, BDI =4, BHS =
+3, indicating minimal levels of anxiety, depression, and hopelessness. Her Global Assessment
+of Functioning (GAF) score was 70, reﬂecting impairments in her social and occupationalfunctioning
+∗.
+Treatment rationale
+Because Liz’s reactivity to auditory triggers differed by source, we hypothesized that her
+cognitions inﬂuenced her interpretation of and threshold for unpleasant sounds. Given
+the theoretical link CBT proposes between cognition, behaviour, and physiology, we
+hypothesized that this threshold would be sensitive to changes not only in cognition but
+in physiology and behaviour as well. We designed a brief, targeted course of CBT to treatmisophonia, informed by the anxiety and hypothalamic-pituitary-adrenal (HPA) axis literature
+(e.g. Gaab et al. 2003), that aimed to disrupt the pattern of negative reactivity, change coping,
+and decrease distress. The treatment plan included: ( a) a cognitive component to challenge
+dysfunctional automatic thoughts, ( b) a behavioural component to interrupt maladaptive and
+avoidant coping strategies and practice helpful ones, and ( c) a physiological component to
+help recalibrate her autonomic reactivity.
+Informed consent
+A consent form was designed to inform Liz that there was no established treatment protocol
+for misophonia, and that we had never treated misophonia in our clinic. We explained that
+we had created an experimental protocol that we believed would work, but that she would
+be the ﬁrst to try it. As alternative options, we also provided a referral list of other treatmentproviders in the community.
+∗Impairments in Liz’s social functioning included moderate misophonia-related reluctance to socialize and strained
+interpersonal relationships, and those in occupational functioning included moderate distractibility in academicsettings that negatively impacted her school performance.
+
+Cognitive behavioural treatment of misophonia 5
+Table 1. Trigger hierarchy
+Situation SUD
+Sounds of my own chewing 0
+Crunching, belching, hiccupping, whistling 5
+Typing, nail clippers 15
+Sight of open-mouth chewing (no sound) 20Loud chewing on television 30
+Stranger swallowing loudly 60
+Stranger chewing gum behind me in class 65Housemate swallowing with background noise 75
+Close relative swallowing water with no distractor 75
+Anticipating someone about to start chewing 90Housemate swallowing loudly with no distractor 100
+SUD, Subjective units of distress ratings were made on a 0–100 scale (0 =no
+rage, 100 =highest rage possible).
+Session outline
+Session 1: Creating a misophonia hierarchy and introducing the CBT model
+Liz and her therapist created an exposure hierarchy to systematically review the scope of her
+triggers. Subjective units of distress (SUD) ratings were made on a 0–100 scale (Table 1). Liz
+described substantial variability in her reactivity depending on her relationship to the offender,her mood at the time, and the context of the event. After identifying a range of triggers,
+the therapist selected several to illustrate the interrelatedness of her cognitions, physiology,
+affect, and behaviour. In the ﬁrst diagram (Fig. 1), the therapist emphasized the power ofher cognitive attributions by mapping Liz’s differential responses to the swallowing sounds
+made by close others whom she believed were trying to be mindful of their noises (a relative,
+SUD=75)vs. those made by people who, despite knowing of her sensitivity, ‘seemed to
+have forgotten’ (her housemate, SUD =100). A second diagram (Fig. 2) highlighted the
+moderating inﬂuence of behaviour on her affect by illustrating how different coping strategies
+to the same moderate trigger (SUD =65) led to divergent functional and affective outcomes.
+For example, while promptly leaving the vicinity was associated with immediate relief but
+longer-term feelings of disappointment; ‘sticking it out’ was associated with feelings of
+pride and accomplishment. This understanding increased Liz’s motivation to persevere duringtriggers.
+Liz and the therapist concluded from this exercise that (1) her thoughts were central
+determinants of her affective response such that different attributions about the intentions
+and understanding of others lead to divergent affective and physiological outcomes, and (2)
+coping behaviours were key moderators of distress. Given the ﬁrst of these two conclusions,the therapist used Socratic questioning to challenge Liz’s reluctance to talk to her roommates
+about her sensitivities and open her to the possibility that ongoing dialogue could alter her
+attributions and hence decrease negative affective response.
+Homework . (1) Start a monitoring record for all upcoming social eating situations recording:
+(a) details of the situation, ( b) automatic thoughts, ( c) her behavioural response, ( d)
+
+6 R. E. Bernstein et al.
+Fig. 1. CBT model for situation 1. The interconnectivity between affect, physiology, behaviour, and
+cognition were illustrated in a ﬁve-column diagram. Two variants of a similar situation (one involvinga housemate, the other, one immediate family member) reveal different cognitive appraisals, with
+divergent associated behavioural, physiological, and emotional responses. SNS, sympathetic nervous
+system.
+Fig. 2. CBT model for situation 2. The interconnectivity between affect, physiology, behaviour, and
+cognition were illustrated in a ﬁve-column diagram. While the behaviour of attending to sounds served
+to amplify her anxiety and physiology; leaning forward and redirecting focus acted to reduce her noticing
+and thinking about the noises, dampen her anxiety, and decrease her ﬁght-or-ﬂight response. SNS,sympathetic nervous system.
+
+Cognitive behavioural treatment of misophonia 7
+her physiological response, and ( e) her feelings; and (2) discuss her condition with her
+housemates.
+Session 2: Deﬁning the problem
+Liz’s second session began with a review of her monitoring homework. She recorded one
+evening when she had ‘glared’ at her housemate who was eating a meal noisily. She suspected
+that her housemates discussed the incident among each other, for the next night a different
+housemate ate her meal extremely slowly and carefully. Liz initially felt regret and shame atthis possibility, although via Socratic questioning, Liz accepted the possibility that her house-
+mate’s behaviour might signal care and consideration rather than annoyance and resentfulness.
+Liz and the therapist created a reactivity timeline to identify speciﬁc micro-processes in
+her response to auditory triggers. This revealed that, in anticipation of an impending trigger,
+she experienced a short period of anxiety and dread, and maintained an increased focus on the
+sound source. Once the trigger could be heard, her feelings of rage and physiological reactionsbegan. This timeline highlighted the fact that whenever she resisted the urge to leave the room,
+she found that her rage reliably subsided or habituated over time, rather than increasing until
+escape.
+Liz and the therapist explored the strengths and limitations of her current behavioural
+repertoire by creating an exhaustive list of actual and possible coping strategies. Liz expressedreluctance to ‘overstep [her]bounds’, and a relatively low level of assertiveness. Using
+humour and hyperbole, the therapist modelled both appropriate and inappropriate affective
+responses, having Liz join her in creating outlandish possibilities. Liz and the therapist thenestimated the utility of each strategy in a variety of contexts. Liz decided that the most
+effective strategies were: (1) distracting herself by creating other noises (e.g. humming,
+shufﬂing papers), (2) refocusing on the person instead of the triggering sounds they aremaking, and (3) refocusing on other available auditory stimuli (e.g. background music).
+Although she had only done so twice (with family members), (4) explaining her sensitivity and
+politely asking people to try not to make the sounds had been both helpful and well received(providing evidence that others may also be receptive).
+Less effective strategies tended to be less direct and included, in order of descending
+utility, (5) leaning away from the source of the sound, (6) leaving the room, which, althougheffective, came with signiﬁcant negative consequences, (7) ‘gritting her teeth and bearing
+it’, (8) glaring at the person making offensive sounds but saying nothing, and (9) mocking
+them sarcastically. Although Liz had never utilized it as a strategy, she predicted that (10)yelling, lashing out, and/or throwing food at them (hyperbolic suggestion) would be the most
+ineffective strategy. Liz and the therapist reﬂected on the fact that although she used a number
+of effective strategies, all were regulatory and post hoc – occurring after her physiological
+and emotional reactions had begun. They brainstormed ways to modify these strategies for
+earlier use to prevent the response cascade before it began. For example, she might distract
+herself with humming, shufﬂing papers, or focusing on background noise prior to becoming
+physiologically aroused, or engaging in conversation with someone before they start eating to
+promote a focus on the person rather than the offensive sound.
+Liz had not completed her homework because she did not have a conversation with her
+housemates about her misophonia. She reported that she had not found the ‘right opportunity’
+as she did not want to ‘disrupt or shame’ them while they were eating. In the spirit of using
+
+8 R. E. Bernstein et al.
+pre-emptive strategies, she offered to initiate such a conversation while they were not making
+offensive noises. Liz was nervous about initiating this conversation ‘out of the blue’, but the
+therapist reminded her that evidence from previous interactions with relatives and housematessuggested that she was more likely be met with sensitivity and care than anger and resistance.
+Homework. (1) Continue practising effective regulatory coping strategies, (2) start using new
+preventative strategies, and (3) use a four-column format to record behaviours, thoughts,
+emotions, and physiology. Such monitoring would help test whether disrupting her automatic
+thoughts might prevent distress escalation, and to determine the ﬂexibility of her cognitions.
+Session 3: Testing physiology
+On the third session, Liz’s monitoring noted one instance of her looking away before a
+housemate drank water, which had kept her from becoming agitated. She also reported that
+she had talked with two of her housemates while out on a walk about her continued reactionto their eating sounds. Her housemates seemed surprised by her admission. They told her
+they had been respecting her previous assurance to them that the problem was hers; and that
+they should not change their behaviour on her account. Her housemates had listened and
+remained non-defensive during this conversation. However, she noted little if any difference
+in their behaviour since, which left her feeling irritated, exasperated, and doubtful thatthey could change. Using Socratic questioning and reviewing the evidence, Liz re-evaluated
+her scepticism, and reasoned that given many requests she had made of her family, one
+conversation with her housemates would not likely resolve everything. Reframed, this wasseen as a ﬁrst step towards a constructive, open dialogue, which engendered more optimism.
+Liz reported that she looked forward to continuing the conversation with more speciﬁcs about
+the triggers that are especially bothersome.
+Next, the therapist introduced the role of physiology in misophonia. She described the role
+of the HPA axis in sound reactivity via the ﬁght-or-ﬂight mechanism, and the ﬂexibility of this
+system to change. A brief psychoeducational segment outlined how physical exercise servestwo important therapeutic functions: (1) it modiﬁes HPA axis reactivity, and (2) increases
+endorphins (notable here as Liz had previously reported lowered reactivity to offensive sounds
+when in a good mood). Liz reported having no current meditation or exercise routine otherthan bike-commuting to campus. She enthusiastically agreed to complete 20 minutes of
+exercise immediately before dinner for three or four nights during the week. Refraining
+from exercising the remaining nights would serve as an experimental manipulation to testthe hypothetical association between physical activity and symptomology.
+Homework. (1) Eat all her evening meals in the company of others, (2) track her reactions
+to eating sounds after exercise, and (3) document her thoughts using a thought record during
+these exposures.
+Session 4: Developing alternative strategies
+Liz reported improvement in her symptoms. Twice she had exercised before dinner, so she
+and the therapist reviewed her detailed thought record. Although she enjoyed feeling more
+active, her uniformly low levels of self-reported distress throughout the week made it difﬁcult
+
+Cognitive behavioural treatment of misophonia 9
+to conclude whether exercise was a factor in this. Liz partially attributed her good week to
+her realization that ‘if someone makes an effort for me or asks questions, I’m more lenient
+...[and more ]. . . willing to make the effort for them [to be forgiving or patient ]because
+they did the same for me’. This realization came after a conversation with a housemate, who
+asked if it was okay to ask questions about her symptoms. To this, Liz felt immense warmth
+and gratitude. Liz’s report of this interaction in session led to a conversation about her currentcommunicative tendencies, and an examination of their effectiveness. The four people with
+whom she had discussed her symptoms responded positively and non-defensively, and three
+of those had made accommodative efforts. This again provided evidence that close others arereceptive to these requests even though she feels reluctance and shame bringing them up.
+Next, Liz and the therapist examined the difference between direct speciﬁc requests and
+vague or non-speciﬁc methods. They concluded that Liz’s non-speciﬁc sighs and glares doa good job at communicating displeasure, but do not help the offender understand how
+they might behave differently. Direct speciﬁc requests, on the other hand, may seem more
+confrontational (and thus aversive) but are more likely to solve the problem. Liz furtherreﬂected that over time, her own indirect pleas for accommodation may have perpetuated
+her aggravation with others (i.e. ‘ why don’t they get that I’m mad, and why won’t they ask me
+about it? ’). The self-effacing verbal qualiﬁers she had given her housemates (e.g. ‘ I’m going
+to therapy to work on this myself ’, and ‘ please don’t feel you have to change for me, I know
+it’s my issue ’) were counterproductive. Once Liz understood why her current methods might
+be ineffective, she and the therapist role-played ways of talking openly to her housemates that
+felt sensitive, not demanding, and sufﬁciently speciﬁc. In this way, Liz would also be able to
+model to them that the topic was not taboo.
+Once again, the therapist used humour and hyperbole to challenge Liz’s conception of
+what was ‘too’ demanding, and to facilitate a more realistic, balanced example of appropriate
+assertiveness. Using a continuum, the therapist plotted extreme demanding and rude behaviour(e.g. ‘Shut up, idiot!’) at one end of the continuum and the most passive and non-speciﬁc
+methods (e.g. glaring, sighing) on the other. The therapist then prompted Liz to imagine what
+might belong in the middle. Via an iterative process, Liz generated language that was speciﬁc,friendly, optimistic, and collaborative (e.g. inviting continued dialogue, joint problem solving,
+and labeling offensive noises.) Using this new language, she anticipated that her housemates
+might feel a better sense of control, she would feel more comfortable making speciﬁc requestsin ways that her housemates preferred, and all parties might feel more effective in their
+communication. Liz wrote down what she had composed in session, and expressed excitement
+about her next talk with her housemates.
+Homework. (1) New communication with housemates, (2) continue exercising before meals,
+and (3) practice the behavioural pre-emptive and coping strategies previously covered.
+Session 5: Consolidating gains
+Liz continued to report improvement. She had a productive, open conversation with her
+housemates who reacted positively and appeared more relieved than defensive. Together, theyagreed on a method by which Liz could offer feedback when she was triggered. Liz reported
+that she did not have to do so, however, as she had not noticed a single instance of being
+bothered that week.
+
+10 R. E. Bernstein et al.
+Despite these major gains, Liz reported some uncertainties about her improvement and fears
+about getting better, namely, that (1) now that the ‘big stuff’ was no longer bothering her, ‘the
+little things’ (like crunching) would become bothersome; (2) that by talking to people morecandidly about her symptoms and becoming more mindful of their oral noises, they might
+develop misophonia; (3) that by continuing to initiate anxiety-provoking conversations about
+her symptoms she might ‘use up’ her complaint ‘allowance’ on this issue, and would ‘not beable to get upset about other things like not washing dishes’; and (4) that the progress she
+made might be due to the weekly reinforcement of therapy, and that she might relapse without
+it.
+The therapist responded by examining the evidence for each of her concerns. Regarding
+the ﬁrst concerns, Liz admitted that she had not yet experienced any such change. Without
+supporting evidence, this fear became less concerning. Regarding her second worry, shereported that two people had reported being more bothered by eating noises since Liz had
+discussed her symptoms with them. Through Socratic questioning, Liz was able to distinguish
+‘normal’ displeasure in hearing noises generally considered unattractive and rude from amisophonia sufferer’s discomfort and rage. She concluded that other people’s increased
+distaste for such sounds was less likely indicative of contagion and more likely due to an
+increased mindfulness towards its impoliteness. Still, Liz decided she did not want to tell
+others with whom she was not close, and felt that confrontation in those cases was not worth
+the effort, time, or embarrassment.
+Regarding her third fear, Liz conﬁrmed that her aversion to confrontation generalizes across
+domains, and that ‘in any situation, [she is ]always the one to concede and let other people’s
+needs come before [hers]’. Although being confrontational had been universally difﬁcult, she
+reported generally feeling good about its outcome. Liz noticed her conﬁdence growing, and
+she felt more assertive in other domains. She attributed this to the conversation she had with
+her housemates about the importance of honesty and open communication. Her fourth concernprompted a discussion about treatment termination and relapse prevention. The therapist
+suggested that they meet in 2 weeks to test whether Liz could maintain her healthy attitude
+without ‘weekly reminders’. At that time, they would discuss criteria for ending treatment,including Liz’s perceived readiness, and strategize around relapse prevention.
+Homework. (1) Track the number of times she felt bothered or irritated by misophonia to
+determine if her irritation escalated as more time passed from her last therapy session, and (2)
+continue with exercise, communication, behaviour coping.
+Session 6: Termination
+Liz reported that the last 2 weeks had ‘ﬂown by’. She reported noticing only a few instances
+of loud chewing at a recent function, but explained they had not escalated into any strongemotional reaction. She reported that she no longer felt symptomatic as her coping had
+become ‘automatic’. She found different coping strategies to be helpful in different situations.
+With close others, she asked them to stop (despite any awkwardness); within group settings,she redirected her attention to background sounds or music.
+Liz and the therapist reﬂected that she had entered therapy with a very speciﬁc goal, and that
+it appeared that she was happy with the progress she had made. Her fears about other problems
+
+Cognitive behavioural treatment of misophonia 11
+had subsided, and she no longer felt her progress was dependent on attending therapy. She had
+the tools she needed moving forward. Hence, Liz and her therapist terminated therapy.
+Treatment summary and conclusions
+Throughout treatment, Liz was timely, cooperative, honest, motivated, articulate, and
+consistently worked on, if not completed her homework. The therapeutic relationship was
+collaborative and strong. The intervention was experimental, but was clearly outlined to the
+client before treatment began. Progress was linear although not well measured by traditionalsymptom inventories, and relied instead on reports of distress and functional interference by
+the patient. Liz’s treatment entailed physiological, cognitive, and behavioural interventions.
+Physiological interventions used exercise before expected exposure to triggers in an effort toreduce the HPA axis threshold in sound reactivity. Because HPA activation was not directly
+measured, it is unknown whether this occurred.
+Cognitive intervention was central to Liz’s course of treatment. Detailed four-column
+tracking and the therapist’s Socratic questioning enabled identiﬁcation and subsequent
+modiﬁcation of the maladaptive thoughts that contributed to Liz’s high levels of distress. More
+speciﬁcally, Liz came to realize that her rage was not a response to the auditory input itself
+as much as a reaction to an underlying core belief that her needs were not important to those
+close to her. Prior to treatment, Liz had assumed that because close others had not responded toher non-speciﬁc covert signals, they were imperceptive, selﬁsh, uncaring, unaccommodating,
+and dismissive of her needs – beliefs that led to feelings of rage and resentment. Because
+these feelings were inconsistent with her self-identity as a compassionate and loving person,they perpetuated secondary feelings of shame and a core belief of helplessness regarding her
+condition.
+Also central to treatment was Liz and the therapist’s identiﬁcation and critical consideration
+of intermediate assumptions (i.e. ‘if I am assertive, others will reject me’; ‘disgust and
+rage are intolerable’), and the automatic thoughts that reinforced them (e.g. ‘I have to
+leave now’) to reduce Liz’s affective responses and maladaptive behaviours to auditorytriggers. Using Socratic questioning, the therapist repeatedly challenged Liz to examine the
+effectiveness of her passive communication style and aversion of confrontation to suggest
+changes that might reduce her symptoms. The therapist identiﬁed evidence of being met withpatient understanding and earnest efforts at accommodation when she honestly and openly
+communicated with others.
+Behavioural interventions included identifying existing pre-emptive and restorative
+strategies, outlining the contexts in which they worked best, discussing the ways in which
+they might be improved, and articulating novel methods. Effective coping strategies included
+regular exercise, redirecting her attention towards other ambient or self-made sounds, and
+focusing on people over their eating sounds. Ineffective behavioural strategies (e.g. sighing,
+eye rolling, glaring) were extinguished. Additionally, therapist modelling and client–therapistrole-plays allowed Liz to observe and practice new forms of sensitive assertiveness. Learning
+how to broach sensitive matters emerged as an important skill, as candid conversations with
+others led to signiﬁcant symptom reduction in the context of those relationships.
+At end of treatment, Liz still found chewing noises unpleasant, but these triggers no
+longer impaired her social or occupational functioning. She felt able to assert her needs and
+communicate effectively, and knew how to implement effective coping techniques ﬂexibly
+
+12 R. E. Bernstein et al.
+and automatically. Her GAF was assessed at 85, representing absent to minimal symptoms,
+high life satisfaction, and good functioning across domains. These gains appeared stable for at
+least the 4 months following treatment, as Liz reported no symptoms of relapse at a follow-upmeeting regarding the present case study, Liz’s success with a brief course of CBT provides
+promising preliminary support for its use in treating misophonia. Future case studies and
+empirical work will be needed to conﬁrm that CBT is an effective treatment for misophonia,and to identify the most ‘active ingredients’ of the multidimensional approach described here.
+Acknowledgements
+The authors thank Liz for her consent and input, and the University of Oregon Psychology
+Clinic’s practicum student cohort of 2010–2011 for their helpful discussions and support.
+Declaration of Interest
+None.
+Recommended follow-up reading
+Misophonia UK (2012). Frequently asked questions (http://www.misophonia-uk.org/faqs.html).
+Schröder A, Vulink N, Denys D, (2013). Misophonia: diagnostic criteria for a new psychiatric disorder.
+PLoS ONE 8: e54706.
+References
+APA (2013). Diagnostic and Statistical Manual of Mental Health Disorders: DSM-5 (5th edn).
+Washington, DC: American Psychiatric Publishing.
+Beck AT, Steer RA (1993). Manual for the Beck Anxiety Inventory . San Antonio, TX: Psychological
+Corporation.
+Beck AT, Steer RA, Brown GK (1996). Manual for the Beck Depression Inventory – II . San Antonio,
+TX: Psychological Corporation.
+Beck AT, Weissman A, Lester D, Trexler L (1974). The measurement of pessimism: the Hopelessness
+Scale. Journal of Consulting and Clinical Psychology 42, 861–865.
+Berman MR (2011). Kelly Ripa diagnoses herself with mysterious neurological disorder. Medpage
+Today , 12 September 2011 (http://www.medpagetoday.com/Blogs/CelebrityDiagnosis/28464).
+Carroll L (2011). When annoying sounds spark major rage: driven to distraction, and worse, by noise,
+misophonia sufferers seek a solution. Today Health, NBCNEWS.com. (http://www.today.com/id/44438402/site/todayshow/ns/today-today_health/t/when-annoying-sounds-spark-major-rage/#.
+UP9mrKFk5ZU).
+Cohen J (2011). When a chomp or a slurp is a trigger for outrage. The New York Times , 5 September
+2011 (http://www.nytimes.com/2011/09/06/health/06annoy.html?_r =1&).
+Cohen J (2012). Rare sensitivity triggers undue rage, Hamden audiologist explains. New Haven
+Register, 29 March 2012 (http://nhregister.com/articles/2012/03/29/news/metro/doc4f751aaf9f-602298998941.tx)
+Deutsch G (2012). Do you have misophonia? ABC News, 17 May 2012 (http://abcnews.go.com/blogs/
+health/2012/05/17/do-you-have-misophonia/).
+
+Cognitive behavioural treatment of misophonia 13
+First MB, Spitzer RL, Gibbon M, Williams JBW (2002). Structured Clinical Interview for DSM-IV-
+TR Axis I Disorders, Research Version, Patient Edition With Psychotic Screen (SCID-I/P W/ PSY
+SCREEN). New York: Biometrics Research, New York State Psychiatric Institute, November 2002.
+Gaab J, Blättler N, Menzi T, Pabst B, Stoyer S, Ehlert U (2003). Randomized controlled evaluation of
+the effects of cognitive-behavioral stress management on cortisol responses to acute stress in healthy
+subjects. Psychoneuroendocrinology 28, 767–779.
+Hufﬁngton Post Healthy Living (2011). Misophonia: when annoying noises send you into a rage.
+Hufﬁngton Post Healthy Living, 8 September 2011 (http://www.hufﬁngtonpost.com/2011/09/08/
+misophonia-annoying-noises-disorder_n_953892.html#comments).
+Jastreboff MM (2001). Hyperacusis (http://www.audiologyonline.com/articles/hyperacusis-1223).
+Jastreboff PJ, Gray WC, Gold SL (1996). Neurophysiological approach to tinnitus patients. American
+Journal of Otology 17, 236–240.
+Jastreboff PJ, Hazell JWP (2004). Tinnitus Retraining Therapy: Implementing the Neurophysiological
+Model . Cambridge University Press.
+Jastreboff PJ, Jastreboff MM (2003). Tinnitis retraining therapy for patients with tinnitus and
+decreased sound tolerance. Otolaryngologic Clinics of North America 36: 321–336.
+Kivi R (2011). Misophonia in the classroom: students with a decreased sound tolerance disorder.
+Bright Hub Education (http://www.brighthubeducation.com/student-assessment-tools/27648-sound-
+sensitivity-in-school-aged-children-misophonia/).
+Leaker G (2012). Misophonia. Cosmos , 5 April 2012 (http://www.cosmosmagazine.com/factﬁle/5487/
+misophonia).
+McConnaughy EA, Prochaska JO, Velicer WF (1983). Stages of change in psychotherapy:
+Measurement and sample proﬁles. Psychotherapy: Theory, Research & Practice 20, 368–375.
+Misophonia UK (2010). A Misophonia UK information leaﬂet (revised April 2010). (http://www.
+misophonia-uk.org/useful-leaﬂets.html).
+Møller AR (2010). Misophonia, Phonophobia, and ‘Exploding Head’ Syndrome. In: Textbook of
+Tinnitus . New York: Springer, 2010.
+Robertson AE, Simmons DR (2013). The relationship between sensory sensitivity and autistic traits in
+the general population. Journal of Autism and Developmental Disorders 43, 775–784.
+Schwartz P, Leyendecker J, Conlon M (2011). Hyperacusis and misophonia: the lesser-known siblings
+of tinnitus. Minnesota Medicine 94, 42–43.
+Smith-Squire A (2011). Eat quietly or mum will lose her lunch. The Sun , 21 April 2011 (http://www.
+thesun.co.uk/sol/homepage/woman/health/health/3539291/Woman-sufferes-from-a-phobia-to-the-
+sound-of-people-eating.html).
+Tinnitus and Hyperacusis Clinic (2010). What is misophonia? (http://www.tinnitusclinicminnesota.
+com/misophonia.html).
+Learning objectives
+(1) Become familiar with misophonia and the current empirical literature on its
+treatment.
+(2) Be able to formulate a CBT case conceptualization and treatment plan for
+symptoms of misophonia.
+(3) Identify cognitive, behavioural, and physiological interventions intended to address
+symptoms of misophonia.
+
+Reproduced with permission of copyright owner. Further
+reproduction prohibited without permission.

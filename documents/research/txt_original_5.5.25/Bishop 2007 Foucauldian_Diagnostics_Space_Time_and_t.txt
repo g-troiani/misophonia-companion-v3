@@ -1,0 +1,999 @@
+Journal of Medicine and Philosophy   ,  34 :  328 – 349, 2009
+ doi:10.1093/jmp/jhp027 
+Advance Access publication on June 22, 2009
+© The Author 2009. Published by Oxford University Press, on behalf of the Journal of Medicine and Philosophy Inc. 
+All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org               Foucauldian Diagnostics: Space, Time, and the 
+Metaphysics of Medicine    
+  JEFFREY P.     BISHOP       
+ Vanderbilt University School of Medicine, Nashville, Tennessee, USA 
+             This essay places Foucault’s work into a philosophical context, 
+recognizing that Foucault is difﬁ  cult to place and demonstrates 
+that Foucault remains in the Kantian tradition of philosophy, even if 
+he sits at the margins of that tradition. For Kant, the forms of 
+intuition — space and time — are the a priori conditions of the pos-
+sibility of human experience and knowledge. For Foucault, the a 
+priori conditions are political space and historical time. Foucault 
+sees political space as central to understanding both the subject 
+and objects of medicine, psychiatry, and the social sciences. 
+Through this analysis one can see that medicine’s metaphysics is a 
+metaphysics of efﬁ  cient causation, where medicine’s objects are 
+subjected to mechanisms of efﬁ  cient control.   
+ Keywords:     Foucault   ,    Kant   ,    metaphysics   ,    space       
+ I.       INTRODUCTION 
+ Our thinking becomes almost immediately mechanical because it is our habit 
+to think instrumentally. Old habits are hard to break, preventing us from 
+thinking differently; not that thinking differently is impossible, just difﬁ  cult. 
+Preventing our practices in medicine from becoming thoughtless, thus, 
+means that we must once again turn to how we think about what it is that 
+we do. But then thinking differently about what we do, paradoxically per-
+haps, calls for us to realize that all thinking is also a kind of doing.  Theoria   
+and  praxis   and subjects and objects are strictly thought separable in the 
+West. In a way, it is a false division, but it is a division that continues to ﬂ  our-
+ish in our practices and our thinking. Some thinkers, like  Nietzsche (1999)  
+and  Heidegger (1996) , believe these lines sit at the very heart of the history 
+ Address correspondence to: Jeffrey P. Bishop, MD, Center for Biomedical Ethics and Society, 
+Vanderbilt    University, 2525 West End Ave., 4th Floor, Suite 400, Nashville, TN 37203, USA. E-mail: 
+jeffrey.bishop@Vanderbilt.Edu
+
+Foucauldian Diagnostics 329
+of the West, or perhaps these lines between subject and object and theoria 
+and praxis are just an aberration of late Western Scholasticism, as held by 
+ Milbank (2003 ,  2006 ) or  Pickstock (1998) , or are lines drawn at the Enlight-
+enment, as held by  MacIntyre (1984 ,  1990 ). If we accept Foucault’s position, 
+we know that there are various kinds of practices implicit in all theoretical 
+endeavors, and at the same time, there are implicit theoretical stances in all 
+that we do. 
+ In this essay, I shall do two things. The ﬁ  rst is to place Foucault into a 
+philosophical context. The ﬁ  rst claim is that Foucault sits in the Kantian tra-
+dition of philosophy, even while sitting at the margin of that tradition. Like 
+Kant, he too is concerned with the a priori of time and space but not as 
+transcendental time and space. For Foucault, they are oxymoronically a pri-
+ori, no longer transcendentals but fully immanent. No longer are we dealing 
+with time and space as pure forms of intuition, they are now conceived as 
+historical time and political space. 
+ The second claim that I shall make in this essay is that it is because Fou-
+cault sees deeply into the metaphysical position of the West that his work on 
+medicine remains relevant even today because medicine continues to de-
+ploy, in the name of care and concern, the same metaphysical violences 
+over and over again. No one dares to acknowledge these violences. It is hard 
+for us to accept that our practices continue to repeat these violences, even 
+while they are meant to do good, to bring good effects into the world. 
+ Medicine as a discipline is mostly concerned with the effects it brings 
+about in the world and how to pragmatically produce or cause those effects 
+in the world. It is perhaps in this sense that medicine has become thought-
+less as it is mostly about pragmatic doing, utilitarian maximization, and efﬁ  -
+cient control. Or, as Carl  Elliott (1999)  points out, medicine collapses into an 
+unthinking pragmatism. It is the possibility of controlling the world that justi-
+ﬁ es information as knowledge, to be able to do something with it. Medi-
+cine’s metaphysical stance then is a metaphysics of efﬁ  cient causality, 
+concerned with the empirical realm of effects and the rational working out 
+of their causes for the purposes of bringing about some good. Among Aris-
+totle’s four causes, efﬁ  cient causality took precedence and reigns supreme in 
+all technological thinking. At least since Bacon, it has been understood that 
+knowledge is power gained to relieve the human condition ( Bacon, 2000 , 
+60, 221/Book I, LXXIII, Book II, LII). That is to say, true knowledge can do 
+things with the real world, and the real world is what can be manipulated 
+with real power/true knowledge. The purpose of knowing — the end of 
+knowing — is to bring about effects in the world. Yet, medicine seems to 
+deny having a metaphysics and thus gives no thought to its metaphysics. 
+Thus, for Western medicine, indeed perhaps all scientiﬁ  c and technological 
+thought, the important bit about the world is how to manipulate it in order 
+to get the effects that we desire. It is in this sense that Eric  Krakauer (1998)  
+has said that medicine is the standard bearer of Western metaphysics. The
+
+Jeffrey P. Bishop 330
+world stands before us as a manipulable object and all thinking about the 
+world becomes instrumental doing, and to be good and to do good, we must 
+manipulate the world and show our effects. 
+ In this essay, then, I argue that Foucault’s insights are adequate to his 
+analysis of medicine precisely because he sees the metaphysical structure at 
+the heart of the West. Foucault’s place in philosophy and history is a subject 
+of some controversy for a myriad of reasons, but his method sees deeply 
+into the thinking that animates medical practices and brings into relief medi-
+cine’s metaphysics. Thus, his method is central to the thesis of this essay 
+because he recognizes that medicine’s thinking about doing is related to the 
+metaphysical thinking of the West. Method cannot be taken as separable 
+from metaphysics, for Foucault notes — in a vein similar to the Kantian tradi-
+tion in philosophy — that notions of space and time, subjects and objects, 
+stasis and ﬂ  ux, and bounded and unbounded freedom relate to how we 
+conceive doing in the West. And it is this insight that Foucault brings in his 
+analysis of the rise of medicine in France, and how for medicine, the dead 
+body becomes the normative body, and how for the allied social sciences, 
+the disciplinary power of expertise is deployed.   
+ II.       FOUCAULT’S PROJECT 
+ As with any project that begins by taking up a thesis of Michel Foucault, one 
+must ﬁ  rst place Foucault himself. But this is no little foray into Foucault’s 
+method simply to deﬁ  ne my methodology. Foucault’s method is adequate 
+to his inquiries into both medicine and the human sciences. But engaging 
+Foucault is no easy task. Foucault has occupied a questionable place as both 
+historian ( Rousseau, 1972 ;  Megill, 1987 ) and philosopher ( Tallis, 1999 ). His-
+torians often reject him as a historian but are willing to entertain him as a 
+philosopher; and philosophers often reject him as a philosopher but enter-
+tain his work as a historian. I embrace him as both a philosopher of histo-
+ry — where history becomes a philosophical category of analysis — and as an 
+historian of philosophy — where philosophy is understood as an endeavor to 
+understand what animates very particular practices in very particular places 
+at very particular times. Yet, Foucault refuses the manacle of historian of the 
+great ideas (Gutting, 1994   ) and, instead of writing histories of great ideas, 
+writes the histories of the others of those great ideas. He writes histories of 
+thought about problems ( Foucault 1978 ,  1984a ). He takes for himself the 
+moniker of historian of thought or historian of problematizations ( Foucault, 
+1984a ). These are the sorts of distinctions that Foucault makes in the endless 
+interviews published after his death — distinctions that drove contemporaries 
+of Foucault — and for that matter distinctions that continue to drive scholars 
+today — mad. Yet, even those who ﬁ  nd Foucault maddening cannot dispute 
+his inﬂ  uence or the complexity of his work. As pointed out by Gutting
+
+Foucauldian Diagnostics 331
+(1994), Foucault’s writing, for all of its modernist reservations, demands in-
+terpretation. Thus, it is difﬁ  cult to embrace his methodology or take up a 
+thesis from Foucault without ﬁ  rst placing his work in some sort of context. 
+  Dreyfus and Rabinow (1983)  present Foucault as both historical and philo-
+sophical; they think of Foucault as offering an interpretative analytics. Fou-
+cault is analytic in the Kantian sense as he searches out the conditions for 
+the possibility of unreason in  Madness and Civilization   (1988) 1 ; of medicine 
+in  The Birth of the Clinic   (1991); and of life, language, and labor in  The Order 
+of Things   (1994); but he also searches out the sources and legitimate uses of 
+our various knowledges. His work is interpretative in that it seeks a prag-
+matic reading of the coherence of our practices — practices in which our 
+knowledges are instantiated. 
+ Gutting, on the other hand, does not wish to look for easy ways to make 
+Foucault’s work to cohere. For instance, Gutting separates Foucault’s works 
+into three distinct eras: (1) Archaeology of discourse –  – including  History of 
+Madness   ( 2006 ),  The Birth of the Clinic   (1991),  The Order of Things   (1994), 
+and  The Archaeology of Knowledge   (1991); (2) Genealogy of power relations —
+ including  Discipline and Punish (1995) and The history of sexuality, Volume 
+I  (1978); and (3) The problematization of ethics –  – including  The Use of Plea-
+sure  ( 1990 ) and  The Care of the Self   ( 1988c ) –  – (Gutting, 1994   , 2). 
+ In other words, to say that Foucault has a project, it is almost an un-
+Foucauldian position to take. As Gutting notes, Foucault was prone to inter-
+preting his own works differently at different times. Taking the early works 
+up to  Order of Things   as an instance, Gutting notes that in 1969 Foucault 
+claims that these works were imperfect sketches of an archaeological 
+method. In 1976, Foucault claims that these early works are about power 
+relations, and then in 1982 he claims that they are not about power relations 
+but about the subject (Gutting, 1994, 4). Thus, even for Foucault, the idea of 
+a project is at best a moving target if not an outright fabrication. 
+ Moreover, in the interviews and writings in  Power-Knowledge  , Foucault 
+clearly refuses to be hemmed-in by labels or categories or roles. For in-
+stance, he questions the practice of trying to ﬁ  nd the unifying authority at 
+the core of an essay or of a book — an  oeuvre  , a work — or at the core of a 
+body of works; that is to say, he questions the practice of trying to ﬁ  nd the 
+author, the essential originary    point of the work ( Foucault, 1984b ) and thus 
+the original intention or meaning of the work. As Jon  Simons (1995)  points 
+out, Foucault would object to the placing of his work as either his or as a 
+body of work. His writings suggest that to create the work or to put the 
+works together so as to capture the thinker is to render that thinker as a 
+subject or to perpetuate the author function — a kind of essential ground of 
+authority ( Foucault, 1984b ), when in fact works are open to interpretation. 
+In an effort to remain antiessentialist — as having no essential core — Foucault 
+resisted being made that kernel of origin of any one work, and he resisted 
+pulling all his works together and ﬁ  nding FOUCAULT, writ large, as the origin
+
+Jeffrey P. Bishop 332
+( Foucault, 1980a ). Thus, any attempt to unify Foucault through creating him 
+in the mode of an author is to render him in the terms of modernity, which 
+goes counter to his work. 
+ It is clear that Foucault realizes that he has been thrown into the world in 
+a particular place and at a particular time. It is also clear that he thinks that 
+the  polis  and the history into which he is thrown is already ongoing and that 
+this particular place and this particular history form the conditions for the 
+possibility of his work. Thus, Foucault is as much a product of his place and 
+time as he is a free agent, author, or subject who writes about the conditions 
+of his time and place. And Foucault, writing philosophical histories, neces-
+sarily writes of particular times and of particular places — time and space. 
+ Thus, as Gutting states in no uncertain ter ms, each of the works should be 
+read as idiosyncratic, as a work unto itself (Gutting, 1994, 2). Indeed,  Foucault 
+(1984c)  hints at the need for idiosyncratic studies as central to both under-
+standing the Enlightenment and ourselves. Foucault himself in his lifetime 
+refused to be reduced to an author with originary intention ( 1984b , 101 – 2) 
+or to allow himself to be categorized according to various ideologies —
+ Marxist, liberal, or humanist — or to a particular discipline — intellectual histo-
+rian or philosopher ( 1980a ,  1980b ,  1984a ). Foucault’s  “ analyses are effective 
+precisely because they are speciﬁ  c to the particular terrain of the discipline 
+he is challenging, not determined by some general theory or methodology ”  
+(Gutting, 1994, 3). Gutting goes on to say that none of Foucault’s major 
+works refer to one another, this despite the fact that both  History of Madness   
+and  The Birth of the Clinic   share a similar space — medicine. 
+ Gutting seems correct at one level but incorrect at another. True,  History 
+of Madness   does not seem to have an agenda or cause, even while — as 
+noted by those who translated it in its entirety into English only very recently —
+ the ﬁ  rst translators of it into  Madness and Civilization   had an agenda in 
+psychiatry. Yet,  History of Madness   is not so much an examination of the 
+birth of the discipline of psychiatry but rather as a particular occasion to re-
+ﬂ ect on the notion of reason and its other, unreason. It serves as a chance to 
+capture the ﬂ  uid movement of an unreasonable object — madness or the per-
+son suffering madness — in terms of a reasonable subject whose position of 
+power stands as relation to the power of medicine and the state. Reason and 
+unreason are deﬁ  ned one against the other. But reason, that Nietzschean 
+mask for the will to power, has the power to deﬁ  ne its object. Reason, with 
+its ﬁ  xed power, comes to ﬁ  x the ﬂ  uidity of unreason, to deﬁ  ne it as an ob-
+ject. Thus,  History of Madness   is a work on reason and power as the condi-
+tions of possibility for a new object — unreasonableness/madness/mental 
+illness — to appear on the scene. It is a work examining the interplay of the 
+Apollonian and the Dionysian elements in the post-Enlightenment land-
+scape, not unlike Nietzsche’s  Birth of Tragedy   (1999). 
+ The task of  The Birth of the Clinic   is not just an examination of the birth 
+of a discipline so much as it is an examination of the discontinuities of history
+
+Foucauldian Diagnostics 333
+(Foucault, 1973, xvi – xviii) — where ideas and practices with different histo-
+ries are joined together. It is an occasion to see once again the excess that 
+language betrays and begets but oddly also delimits (Foucault, 1973, xvi – -
+xviii). It is the occasion to see how medical practice missed the idea that the 
+gap between signiﬁ  ers and the signiﬁ  ed create the need to endlessly com-
+ment upon commentary (Foucault, 1973, xvi – xviii), and how medical prac-
+tice conceived signs as speaking their truth without remainder or excess; no 
+interpretation necessary (Foucault, 1973, xvii and 88 – 106). In another sense, 
+it is also a reﬂ  ection on the task of the historian and upon the intractability 
+of writing and interpreting. Thus, Foucault’s projects are broad and yet, 
+strangely, speciﬁ  c. His work operates on many different levels and, in that 
+way, is philosophical. 
+ In this very broad sense, then, Foucault is a philosopher. On the one hand, 
+I am in agreement with those who would keep us from reducing Foucault to 
+a subject position (Foucault, 1972, 54 – 5) or author function ( Foucault, 1984b ) 
+or from reducing Foucault to a Marxist or a liberal or a philosopher. Not only 
+does Foucault reject such easy categorization in the interviews but the vari-
+ous works themselves, taken individually or in aggregate, also resist such 
+easy labeling. I am in agreement with those who would point out to us that 
+to reduce the idiosyncratic nature of Foucault’s various works is to stiﬂ  e and 
+indeed to kill the very object of inquiry. Yet, at the same time, it seems odd 
+to me to think that somehow Foucault would have objected to the work of 
+the archaeologist or genealogist in examining a major ﬁ  gure of our present 
+moment, namely, this Foucault ﬁ  gure, who wished to remain an ephem-
+eral ghost rather than a substantial object. Indeed, it was only as an ephem-
+eral ghost that he could remain free against the tide of history and the 
+political spaces that had come to shape his works on both our thinking 
+and our practices, including our practices of thinking and our thinking on 
+our doing. 
+ Although it indeed sounds odd to deﬁ  ne a Foucauldian project, it is odder 
+still to think that one ought not to search for the historical and political condi-
+tions of the possibility of the works of this ghostly Foucault ﬁ  gure, this phe-
+nomenon that appears on the scene in late modernity. On Foucault’s view, 
+we are becoming subjects historically constituted by power/knowledge 
+structures — even if those structures are subliminally operative — even while 
+we might be freely engaged in aesthetical and ethical self-creation ( Foucault, 
+1988b ). Thus, the endeavor to ﬁ  nd the task that engaged Foucault and pro-
+duced his writings — even when he resists our making him into an author, 
+historian, or Marxist (a role, a member of a discipline, or an ideologue) — is 
+itself to do what Foucault does. The task of the historian of the present is 
+always a task to ﬁ  nd the historical and political conditions for the possibility 
+of what we ﬁ  nd interesting about our time and about ourselves. 
+ It is this interest in ourselves that Foucault says is unique to the 
+Enlightenment — its concern with the present, the history of the present, and
+
+Jeffrey P. Bishop 334
+why things are the way they are for us — why things appear to us in the ways 
+that they do ( Foucault, 1984b ). We are concerned with what is present — near 
+to us in space; after all, that is the task of the scientist to look at things pres-
+ent in front of us. We are concerned with what is present — near to us in time; 
+after all that is the task of the social scientist to look at the behaviors of this 
+object called society and to describe what is happening in real time. Thus, 
+Foucault is concerned with objects — madness and disease — and subjects —
+ doctors, historians, and authors. He is concerned with time (genealogy) and 
+space (archaeology). In this way, Foucault plays within the ﬁ  eld created by 
+Enlightenment ﬁ  gures. In this way, he sees deeply into the metaphysics of 
+the West.   
+ III.       FOUCAULT AND THE PROBLEMS OF THE KANTIAN TRADITION 
+ If one takes a note from the pseudonymous Maurice Florence, one might 
+ﬁ nd the general area of thought that occupied Foucault:  “ If Foucault is in-
+deed perfectly at home in the philosophical tradition, it is within the criti-
+cal tradition of Kant, and his undertaking could be called  A Critical History 
+of Thought   ”  ( Florence, 1994, 314 ). If we take Foucault at his word — for 
+Foucault wrote this about himself as Maurice Florence — then we shall have 
+to say that insofar as he is a philosopher, Foucault is a Kantian. That is to say, 
+he falls within the Kantian tradition. By  “ tradition ”  I mean what MacIntyre 
+means. Tradition is not some sort of longing for a romantic past — the good 
+old days. Rather, a tradition is a dynamic set of practices, which may even 
+be practices of intellectual and theoretical inquiry. Traditions have  telei , ends, 
+and purposes, as well as notions of their origins and starting points; and 
+traditions have notions for what counts as rational. But even within a par-
+ticular tradition, origins,  telei , and rationality can be contested by insiders or 
+outsiders to the tradition. Someone can call into question one’s origins, the 
+ telos , or even what counts as rational –  – including what counts as rational 
+argumentation. Depending on how convincing the arguments are, those 
+who participate in the tradition might change their practices or their beliefs 
+about the origins or  telos  of that tradition, or indeed, they might even change 
+what counts as rational. Traditions are moving in space and time, according 
+to MacIntyre. 
+ Yet, problematic for my claim that Foucault operates in the Kantian tradition —
+ as deﬁ  ned by MacIntyre — is that  MacIntyre (1990)  opposes tradition to ge neal-
+ogy, a task that engaged Foucault. In  Three Rival Versions of Moral Enquiry  , 
+MacIntyre notes that those modes of thinking and knowing born out of the 
+Enlightenment, explicitly opposed themselves to tradition, abandoning it, 
+throwing it off, and indeed, as noted above, rejecting traditional metaphysics 
+for a metaphysics of efﬁ  cient causality. Instead, the thinkers of the Enlighten-
+ment attempted to ground their projects not in the authority of what had 
+gone before but instead grounded them in the new empiricism ( Hume, 1977 ;
+
+Foucauldian Diagnostics 335
+ Locke, 1996 ;  Bacon, 2000 ), rationalism ( Descartes, 1980 ), rational and skepti-
+cal empiricism, the sciences, or Kantian reason. 
+ According to MacIntyre, the various Enlightenment projects gave rise to 
+what he calls  “ encyclopedic efforts ” ; that is to say, efforts to catalogue knowl-
+edge, including ethical knowledge. Foucault does not fall within the ency-
+clopedic mode of inquiry on MacIntyre’s reading. Rather, Foucault takes up 
+the Nietzschean banner of genealogy that exploration of the  “ history of those 
+social and psychological formations in which the will to power is distorted 
+and concealed by the will to truth ”  ( MacIntyre, 1990 , 39). MacIntyre thinks 
+that Nietzsche fails in his attempt to abandon standards of moral inquiry 
+because the  Genealogy of Morals   is precisely his attempt to make the argu-
+ment according to the standards of the very academy against which Nietz-
+sche is writing ( MacIntyre, 1990 , 44). Nietzsche moves from the professoriate 
+to become a homeless wanderer. But, oddly, claims MacIntyre, Foucault be-
+gins without a home (is he historian, philosopher, or someone wandering 
+around outside of the academy?) and makes his way to the professoriate and 
+not just at the College de France. He becomes a professor to the world, hold-
+ing appointments in Lille, Warsaw, California, Brazil, and Tunisia, with con-
+cerns about China and Iran. Foucault becomes the professor of professors. 
+Moreover, claims MacIntyre, Foucault’s style becomes rather more academic 
+in the series of books on the  History of Sexuality   and submits itself to these 
+rather more mundane academic standards. MacIntyre reads this as Foucault’s 
+abandonment of genealogy and asks if genealogy is even a sustainable 
+task. 
+ Thus, adding to the oddity of my claim that Foucault has a project, it is 
+odder still for me to claim that Foucault is operating within a tradition. Yet, 
+he does end up as a quintessential ﬁ  gure in the academy. Just as noted by 
+MacIntyre, traditions are not static but are instead ongoing interpretations 
+and readings of practices, and these traditions happen upon new events and 
+challenges in time. A tradition often must search out its authorities and 
+sources, whether historical or scientiﬁ  c, when it butts up against an impasse. 
+And I believe that Foucault is himself doing the same sort of inquiry. It 
+seems to me that Foucault is attempting to offer answers to the problems 
+presented to us after Kant, particularly the incoherencies within Kant’s  Cri-
+tiques  . For both Foucault and MacIntyre, what animates thought is the solv-
+ing of problems. Foucault calls them  “ problematizations of thought ” ; 
+MacIntyre calls them  “ epistemological crises. ”  
+ So, as noted by MacIntyre, Foucault begins outside the University. He be-
+gins writing  Histoire de la folie à l ’ âge classique   while he worked in Sweden 
+as a cultural attaché and initially had proposed it as a doctoral dissertation at 
+the University of Uppsala, where it was rejected ( Macey, 1993 , 78 – 80). In 
+addition, at the Sorbonne, where the thesis was accepted, even the  souten-
+ance  committee criticized points where it thought Foucault had lapsed in his 
+academic rigor ( Macey, 1993 , 110 – 3). Even after its publication, Foucault
+
+Jeffrey P. Bishop 336
+received mixed reviews, some positive, many negative, and most were not 
+directed at the thesis of the book itself but at its lack of the accepted aca-
+demic standards. Philosophy and history, not to mention other of the sci-
+ences, had become great encyclopedic efforts to catalogue the world 
+( MacIntyre, 1984 , 264 – 78,  1990 , 9 – 31); yet, despite Nietzsche’s work, the 
+institutions of philosophical inquiry remained intact. Foucault rejected the 
+grand unifying themes in philosophy, which had been designed to catalogue 
+the world, knowledge, metaphysics, and other typically philosophical en-
+deavors. Foucault looked at very narrow, particular sets of practices and 
+how these instantiated thought. Foucault’s endeavor is a threat to a philo-
+sophical discipline that sees itself as sharpening the mind for accurate analy-
+ses, for saying what might be said that is true at all times and in all places. 
+ Yet, Foucault — who would note that even truth has a history — cannot help 
+but be shaped by Kant, who is looking for the a priori conditions for the 
+possibility of knowledge. Kant seeks those features of knowledge that exist 
+prior to our experience of whatever occupies our attention. As is so widely 
+known, those a priori features are the pure forms of the intuition — space and 
+time. As noted by Beatrice Han in her exhaustive treatment of  Foucault’s 
+Critical Project   (2002), Foucault needed to settle a problem presented 
+by Kant, namely the exact moment when the transcendental theme — the a 
+priori of space and time — came to coincide with the studies of man — studies 
+that occupied so much of Foucault’s later work. In fact, Foucault’s comple-
+mentary thesis of 1961, which was not published during his lifetime, is a com-
+mentary on Kant’s  Anthropology from a Practical Point of View   ( Foucault, 
+2008 ). Thus, his complementary thesis becomes central in forming Foucault’s 
+questions, for this is precisely the point very early in Foucault’s studies that 
+he began to seek a relationship between Kant’s  Anthropology   and the 
+ Critiques  . Where the critiques are seeking to articulate the transcendental 
+conditions for the possibility of knowledge, in Kant’s  Anthropology  , Foucault 
+already sees ambivalence between the transcendental constituting subject 
+and the already constituted object. Han states:  “ The object of the  Anthropol-
+ogy  would therefore be neither the  ‘ subject in itself ’  of the Second Critique, 
+nor the  ‘ pure I ’  as studied in the ﬁ  rst, but an  ‘ object-I ’  — also  ‘ subject ’  —
+ in other words, man in his paradoxical identity as determined and determin-
+ing ”  ( Han, 2002, 20 ). This idea of the constituted subject and the constituting 
+subject — the empirical – transcendental doublet — would be more clearly 
+articulated by Foucault in Order of Things. The  “ I ”  that knows that I experi-
+ence myself having an experience is the transcendental  “ I ” . The subject is 
+empirical because it recognizes itself in its experiences and transcendental in 
+that it forgets itself in experiencing itself. So, early on in his studies, we 
+see Foucault at play in the terrain mapped out by Kant, but Foucault is 
+addressing the  “ crises ”  or  “ problematizations ”  created by Kant and which 
+manifest themselves in the practices of psychiatry, medicine, and other of 
+the social sciences.
+
+Foucauldian Diagnostics 337
+ Moreover, in Foucault’s  Introduction to Kant’s Anthropology  , we even be-
+gin to see some of the problems associated with genealogical studies. He 
+notes that Kant’s  Anthropology   developed over a 30-year period and be-
+moans the fact that there are not earlier versions of the manuscript available 
+( Foucault, 2008 , 17 – 23). We even see the outlines of Foucault’s method 
+when he states,  “ it is impossible to make a clear distinction between the 
+genetic perspective and the structural method in analysis of [Kant’s 
+ Anthropology  ] ”  ( Foucault, 2008 , 22 – 3). In other words, in this very early 
+work, we see that Foucault not only concerns himself with the subject that 
+becomes its own object of investigation, creating the Kantian problematic, 
+but also with his own method of discovering the conditions of possibility for 
+this problem to emerge as a problem. In other words, we see in a very cur-
+sory form the outlines of the intersections of Foucault’s genealogical (genetic 
+perspective) and archaeological (structural method) studies. In this way, 
+Foucault has a project that plays itself out within the Kantian tradition, pre-
+cisely because he is concerned with subjects and objects, and what consti-
+tutes certain kinds of objects and subjects, and the prior conditions of 
+possibility for our present situation. 
+ In addition, Han notes that if Foucault has a project, there needs to be an 
+organizing question. According to Han, that question is: How is it possible 
+to have true knowledge, and what are the necessary conditions of that 
+knowledge? ( Han, 2002 , 2). It is this question that animates Foucault’s work, 
+and it is this question that is Kantian. Foucault is at play at the margins of the 
+ﬁ eld demarcated by Kant. Furthermore, Han notes that Foucault attempts to 
+solve the problem of subjectivity while avoiding the transcendental reduc-
+tion. So the organizing question is about the conditions of the possibility for 
+true knowledge, but to get at that Foucault keeps butting up against ques-
+tions about subjects and objects and their constitution but now not in terms 
+of the pure forms of intuition — space and time — and categories of knowl-
+edge but in terms of historical time and political space. Foucault is not inter-
+ested in pure theoretical knowledge per se but in how that knowledge is 
+instantiated in various practices. 
+ Foucault, thus, is solving certain problems and incoherencies of Kantianism, 
+particularly around supposed stable objects: madness ( History of Madness  ), 
+notions of the subject ( The Birth of the Clinic  ), the subject being the doctor, 
+and the subject that becomes its own object — the transcendental – empirical 
+doublet ( The Order of Things  ). He is showing how objects are produced by 
+a supposedly static reason, with the quintessential object being the other of 
+reason, namely unreason. He is showing how the subject — the doctor — is 
+produced in a ﬁ  eld of political circumstances and how the good citizen be-
+comes the healthy citizen in Republican France. He takes a little foray into 
+the human sciences in  The Order of Things  , examining life, labor, and 
+language — biology, economics, and linguistics — looking at the oddities of 
+man who becomes his own object, that is to say, when the empirical subject
+
+Jeffrey P. Bishop 338
+becomes object to the transcendental subject. This problem of the doublet 
+self, the self that comes to know itself as object — in other words, the self that 
+is both constituting and constituted — does not get solved by Foucault except 
+in some sort of mystical disappearance of man-the-subject, that will be 
+erased,  “ like a face drawn in the sand at the edge of the sea ”  (Foucault, 
+1970, 387). 
+ The  Archaeology of Knowledge   is an attempt to ﬁ  nd a new way into the 
+problematics of subjects and objects and of the historical and political con-
+stitution of subjects and objects. In this work on methodology, Foucault ex-
+pounds on an insight gained in the  Birth of the Clinic  , namely that one does 
+not have to do deep genealogical studies in order to see how perspectives 
+change. Where the genealogist digs deeply into the past — into time — looking 
+for hidden continuities, the archaeologist takes a good look around the space 
+in a very narrow time period. The genealogist looks for continuities; the ar-
+chaeologist sees discontinuities. The genealogist sees how old things shape 
+new things. The archaeologist sees how new things appear on the scene 
+because of the immediate conditions in that very narrow time period. The 
+genealogist is more concerned with time; the archaeologist is more con-
+cerned with space. New objects emerge not only because they are begotten 
+by the past but also because of the space in which they emerge. 
+  Discipline and Punish   returns to the subject but now not the self-
+constituting subject. He examines the prisoner, that form of being that is 
+subjected to the forces of surveillance and how surveillance itself comes to 
+produce conformity in the bodies of prisoners to the will of those in power. 
+The inside casts out the prisoner; but then the outside comes to shape the 
+interior lives of outcasts.  Discipline and Punish  , then, is about the produc-
+tion of subjects. Foucault notes how prisons and judges take on a therapeu-
+tic model of incarceration where bodies and minds are normalized so that 
+they can return to society. The power inevitably becomes internalized by 
+those subjected to the categories created by those in power and how those 
+in power are informed by the psychological and sociological disciplines. 
+Although power no longer manifests itself in the direct subjugation of the 
+body — as in the graphic depiction at the beginning of  Discipline and Punish   —
+ those in power control bodies through more subtle means. Thus,  Discipline 
+and Punish   serves as the  “ historical background to various studies of power 
+of normalization and the formation of knowledge in modern society ”  
+( Foucault, 1995 , 308). And thus Foucault’s interest in power/knowledge is 
+born. Through the internalization and habituation of dispersed power/
+knowledges, the subject is created. 
+ Yet, although there are certainly oppressive forces at work that come to 
+subjugate the body of the criminal — himself a creation of society — Foucault 
+begins to see that power/knowledge is not only oppressive but at the same 
+time opens onto new possibilities, new vitalities, and freedoms. Like Kant, 
+whose ethics — on my reading — is attempting to carve out a space for human
+
+Foucauldian Diagnostics 339
+freedom in the face of determinative heteronymous forces, Foucault is trying 
+to ﬁ  nd a place for human freedom in a world of historical and political deter-
+minism. Foucault attempts to ﬁ  nd a little freedom for the self somewhere be-
+tween the determining and determined subject. As pointed out by Jon Simons, 
+power is, for Foucault, not so much about oppression in his later works as it 
+is about that which forms the conditions for the possibilities that shape our 
+forms of life ( Bishop, 2008 ). We oscillate between the unbearable heaviness 
+of being constituted by those powers that would rigidly oppress us and the 
+unbearable lightness of being if those powers are not structured enough. 2  As 
+noted by Han, Foucault is trying to ﬁ  nd freedom without appeal to the tran-
+scendental ( Han, 2002 , 174 – 96). In later Foucault, however, we ﬁ  nd that the 
+self either accepts or resists the power structures into which she is thrown, 
+and it is this self-creating that deﬁ  nes authentic subjectivity for Foucault. It is 
+here between the lightness and heaviness of being that Foucault tries to carve 
+out a space of freedom for self-creation, the freedom of becoming. 
+ Yet, those spaces of freedom are only carved out of the forces that shape 
+and mold the uses of the body and the forces that shape and mold psyches. 
+That is to say, those forces, those powers, are not merely social or political 
+powers instantiated in the state but also the powers that shape the forms of 
+life itself, such as medicine, psychiatry, and other of the human sciences. 
+This is a power of expertise, the power of knowledge. And part of Foucault’s 
+point is that knowledge is not discovered so much as it is created. The pow-
+erful forces of politics are not merely placed in the hands of the Sovereign 
+but in those forces that both oppress and sustain our forms of life. In this 
+sense, Foucault begins to talk about a biopolitics.   
+ IV.       HEIDEGGER, FOUCAULT; TIME AND SPACE 
+ So far I have mostly covered epistemological points about Foucault’s work. We 
+can see, therefore, how Foucault understands that human life is not just some 
+sort of object awaiting discovery by scientists. Life, and even the scientiﬁ  c study 
+of life, is shaped not only by history but also by the coincidence of factors in 
+the surrounding space, each having their own historical development. Sure, 
+there are continuities, but there are also discontinuities. And the coincidence 
+of continuities and discontinuities form the conditions for the possibility of the 
+truth claims, whether made by scientists, by doctors, or by social scientists. 
+Foucault therefore plays within the ﬁ  eld demarcated by Kant, even if at the 
+margins of that ﬁ  eld. He is looking at the powers of constitution and at what is 
+constituted. He is concerned with objects and subjects, and the a priori condi-
+tions necessary for knowledge. He is concerned with marking out a zone of 
+freedom, all the while attempting to steer clear of Kant’s transcendentals. He is 
+also concerned with space and time, now political space and historical time. 
+ Edward  Casey (1987)  and Charles  Scott (1987)  both bring into relief the 
+importance of space in relation to time in Foucault. Both draw our attention
+
+Jeffrey P. Bishop 340
+to the importance of space for Foucault’s  Birth of the Clinic  ; indeed I would 
+argue for the whole of his work, and I shall illustrate this by looking at 
+Foucault’s relationship to Heidegger. Hubert Dreyfus notes similarities 
+between Foucault’s notion of biopolitics and Heidegger’s notion of technol-
+ogy. Dreyfus notes that Foucault uses power in a way similar to the way that 
+Heidegger uses Sein. For Heidegger, there are epochs of the history of Being; 
+for Foucault, there are regimes of truth in the history of power. Where 
+Heidegger is interested in the way things appear for us in the clearing that 
+both opens and limits what can show up, Foucault is interested in the way 
+people act in relation to power that both limits the ﬁ  eld of possibility and 
+makes it possible ( Dreyfus, 1992 ). 
+ Dreyfus further describes similarities between  Seinsgeschichte   and geneal-
+ogy. For Heidegger, there is in the  “ age of the world-picture ”  –  – that is to say, 
+in the age of representation –  – something that fundamentally changes meta-
+physics and gives birth to modernity. It is with his analyses of  Las Meninas   
+that Foucault begins his analysis of representation and the transition to mo-
+dernity in  The Order of Things  . Heidegger notes that man becomes both the 
+source of meaning of objects and an object in the world; Foucault notes that 
+man is both the constituting subject and the constituted subject in the world. 
+And both Heidegger and Foucault look forward to the death of humanism, 
+man being the source and object, the central ﬁ  gure in all of thinking. Yet, 
+both thinkers in their mature work come to realize that man is produced by 
+technology for Heidegger and by biopower for Foucault. 
+ Dreyfus further notes that Foucault is interested almost exclusively in peo-
+ple, and Heidegger is interested in things. Both are concerned with represen-
+tation and man as the origin of things (Heidegger referring to Kant) and man 
+as the origin of  ‘ man ’  (Foucault referring to Kant). We are once again back 
+to the old problem of subjects and objects. Heidegger: How do things appear 
+for us? Foucault: How is it possible for man to appear as his own object? 
+Both are concerned for how we are thrown into time (Heidegger) and place 
+(Foucault) and how our times and places produce things and people. 
+ Time and space then link both Heidegger and Foucault back to Kant. Kant 
+gave us the pure forms of the intuition: space and time. Kant notes in the 
+ Critique of Pure Reason  :
+  This schematism of our understanding with regard to appearances and their mere 
+form is a hidden art in the depths of the human soul, whose true operations we 
+can divine from nature and lay unveiled before our eyes only with difﬁ  culty. ( Kant, 
+1998 , 273, A141/B180 – 1)  
+Kant continues:
+  The schemata are therefore nothing but a priori time-determinations in accordance 
+with rules, and these concern, according to the categories, the time-series, the con-
+tent of time, the order of time, and ﬁ  nally the sum total of time in regard to all pos-
+sible objects. ( Kant, 1998 , 275, A145/B184 – 5)
+
+Foucauldian Diagnostics 341
+Time is the form of intuition that determines the imagination — the  “ depths 
+of the human soul ”  ( Kant, 1998 , 273, A141/B180 – 1). Out of this form of in-
+tuition, Kant holds that the time series, the order of time, and other objective 
+measures of time are possible and that time is the form of intuition of the 
+interior life of the mind, the  “ depths of the soul ”  ( Kant, 1998 , 273, A141/
+B180 – 1). 
+ This point about the centrality of the schematism and the depths of the 
+human soul are speciﬁ  cally noted by Heidegger in  Being and Time   — a ques-
+tion and problem from which Kant shrinks according to Heidegger.  “ As pure 
+intuition, time is that which furnishes an aspect prior to all experience, ”  
+Heidegger says about Kant and time ( Heidegger, 1996 , 21). However, the 
+point of  Being and Time   is that time is operative for all categorizations of 
+ordinary and scientiﬁ  c time and for the appearance of all objects, but not as 
+pure intuition, not as the pure form. Time, for Heidegger, is not univocal. 
+There are a myriad of times that structure our ways of experiencing those 
+things that appear for us. One’s time in history is a kind of time into which 
+one is thrown and which structures the kinds of projects in which one en-
+gages. Where Heidegger’s claim is that time can be experienced but not 
+represented, he seems to be claiming that death can be represented but not 
+experienced in itself. Thus, death itself, as the end of one’s time, also struc-
+tures one’s experience allowing certain kinds of objects or things or even 
+projects to come into relief. Thus, all forms of objective marking of time rest 
+on the existential running into the future, toward death, toward the end of 
+time. Death time structures our experience, the objects that emerge for us, 
+and the projects in which we are engaged. Thus, like Kant in the schema-
+tism, Heidegger grants a priority to time over subjects, objects, and space, 
+even while time takes on a very different kind of meaning for Heidegger. 
+And Foucault turns that around and grants priority of space over time. 
+ Catherine Pickstock has also noted this priority of space over time in Western 
+thinking and brings into relief several points that are central to the thesis of 
+this essay and further emphasizes points made by Foucault. Pickstock tracks 
+this shift through Descartes and undercuts the well-known claim that Des-
+cartes grounds knowledge in subjectivity. Pickstock’s point is that Descartes ’  
+ cogito   is a regulative spatialization. For Descartes, singularity and homogene-
+ity are preferred to multiplicity and diversity ( Pickstock, 1998 , 58). There is 
+little doubt that Descartes believes science is best done without the opinions 
+of many, but by the one shut up in a room, left alone to converse with him-
+self ( Pickstock, 1998 , 52;  Descartes, 1980 , 6). Pickstock notes that the second 
+half of the  Discourse on Method   uses the notion of the city — a politics — as the 
+analogy for his organization of knowledge, knowledge that is unassailable 
+from enemies. Cities designed by a single planner are more proportionate 
+and more efﬁ  cient than those that have developed over time and with a 
+myriad of craftsmen. And Pickstock notes that Descartes cites Sparta as an 
+example of the well-designed city because it was designed along military
+
+Jeffrey P. Bishop 342
+lines for the  “ defence of its own absolute interior ”  ( Pickstock, 1998 , 59). Thus, 
+for Descartes, the impure, which must be excluded from the city and from 
+knowledge, is that which bears  “ traces of time, multiplicity, and difference ”  
+( Pickstock, 1998 , 59). Thus, claims Pickstock, prior to Descartes ’   cogito   is a 
+well-deﬁ  ned interior space, unassailable from the outside, and from this space 
+of the unassailable interior, time might emerge in a more orderly fashion of 
+time determinations. For our purposes, and as noted above, Kant claims that 
+time is the form of intuition operative in the depths of the soul ( Kant, 1998 , 
+273, A141/B180 – 1). Time is the pure form of the interior life. Thus, time, even 
+for Kant, is not prior to the space of the depths of the human soul. Even for 
+Kant, then, Descartes ’  interior space — the depths of the soul — is prior to the 
+intuition of time. Time, even for Kant, has been spatialized. 
+ This priority of space over time, then, has repercussions for our under-
+standing of things and people and objects and subjects, including medical 
+objects — mental illness, disease, and life — and medical subjects — doctors, 
+nurses, social workers, and psychologists. In the classical and early middle 
+ages, things were thought to be real and to exist prior to knowledge. It was 
+also held that something true could be said about things, even though there 
+was no sense in which the thing in its entire truth could be completely grasp-
+able by the human mind. And neither could the mind exhaust the myriad of 
+presentations of the thing. In other words, in classical thought, there is the 
+sense that things exceeded the categories into which the human mind tried to 
+place them. Yet, with the rise of Cartesian spatialization and mathesis, as de-
+scribed by Pickstock and by Foucault, we begin to see representation and 
+epistemology as prior to ontology and prior to the things and people emer-
+gent from a chaotic reality in ﬂ  ux. Thus, the mind becomes its own absolute 
+interior space demarcated from the ﬂ  ux of time, from the complexity and di-
+versity of reality, and from things outside itself — things which we cannot be 
+sure exist because they are outside of that absolute interior. It is an act of the 
+mind that acts to stabilize those things of ﬂ  ux and diversity, ﬁ  xes them so that 
+they can be known. 
+  “ There arises, therefore, an epistemological circuit whereby knowledge is 
+based entirely on objects, whose  ‘ being ’  does not exceed the extent to which 
+they are known ”  ( Pickstock, 1998 , 63). In this way, after Descartes, what is 
+measurable becomes the standard for what is  “ knowable, ”  which in turn 
+becomes the standard for what  “ is ” . Pickstock concludes that prior to the 
+subject is a schema of the  “ internally mapped spatialized city: there will fol-
+low absolute divisions between the mind and body newly conceived as  ‘ ar-
+eas, ’  and the mind itself conceived as the spatial traverse of an inevitable 
+order of intuited deductions ”  ( Pickstock, 1998 , 61). 
+ Thus, things have ceased being things that appear of their own accord, 
+lending themselves to interpretation in time. After Descartes, things become 
+objects that have extension according to the measurable interiority of the 
+subject, the mathesis, the mathematization — a spatialization, as it is called by
+
+Foucauldian Diagnostics 343
+Pickstock. For our purposes, two important themes emerge from this history 
+told by both Pickstock and Foucault. First, the body becomes an object that 
+must submit to the measure of the gaze. Making this measuring difﬁ  cult is 
+that this body, as alive, is in constant ﬂ  ux. But the dead body is more stable, 
+more knowable, and, as a kind of template for knowing, more transferable 
+to other bodies in the space of the polis. 
+ Second, not only is mathesis applied to the dead body of the individual but 
+also is applicable to the bodies within the space of the polis. Hobbes would 
+come to describe a city set up according to a geometer king, the king who 
+builds society according to the rules of geometric space. But, objects — bodies —
+ manifest themselves in other mathematical modes, such as in statistics and 
+probabilities. With the work of Petty and Graunt in the seventeenth century, 
+we see the rise of statistical thinking and measuring for the beneﬁ  t of 
+the King, who must know the state of his dominion ( Porter, 1986 ,  1995 ; 
+ Desrosières, 1998 ). The long development of probability and statistics would 
+ﬁ nd fruition in the work of Sir Francis Galton, whose work not only inﬂ  u-
+enced what in his day was called eugenics and today is called sociobiology 
+but also psychology and sociology and evidence-based medicine as well. 
+These disciplines use statistics to make stable what is in reality unstable 
+within political space, and these forced stabilities have come to shape not 
+only medicine but also other of the human sciences. 
+ Thus, the mathematical table, the geometric rules, and the mathematical 
+statistical models are the unmoving, timeless certainties on which the ﬂ  ux 
+and ﬂ uidity of the chaos of real things can be mapped, for what is mapped 
+becomes stable as knowable. Through the process of mathesis, the chaotic 
+reality of things and people — giving themselves in appearance and open to 
+interpretation — becomes the stable objects of knowledge. Spatialization is an 
+attempt to control the chaos and to deﬁ  ne the boundaries, the interiors and 
+exteriors, and what can be tossed out, and what can be left in. Space takes 
+priority for Foucault as a mode of analysis, precisely because so much of our 
+thinking after Descartes and Kant places priority on the dead, immovable 
+space of interiority. 
+ Thus, what begins as an essay on Foucauldian method ends as an essay on 
+metaphysics; for our methods are derived to get at something about the 
+world, whether that be space, time, violence, or death. Our apparatuses for 
+knowing the world are built out of how we think reality is. Our methods are 
+believed to be adequate to the world; the world is subjected to our measure-
+ment. And for the medicine and the science of the eighteenth and early nine-
+teenth centuries, the world is exhausted through measurement and through 
+a medical language, which, as noted by Foucault, comes to capture disease 
+and people in its truth. Medical language became a kind of mathematics spo-
+ken by those who were initiated into the space of the clinic (Foucault, 1973, 
+107 – 23). But insofar as medicine could efﬁ  ciently manipulate things within a 
+delimited and controlled space, it deploys a metaphysics.
+
+Jeffrey P. Bishop 344
+ And this is precisely Foucault’s point in  Birth of the Clinic  . The book be-
+gins,  “ This book is about space ”  (Foucault, 1973, ix). Foucault documents 
+how different spaces came to inﬂ  uence the practice of medicine for the pur-
+poses of controlling bodies, diseases, and death. There was the intellectual 
+abstract space of formal medicine, bent on the formal arrangements of 
+knowledge in tables; there was the qualitative space of the disease and how 
+it manifests itself in qualities of the body; there was the tertiary spaces of the 
+home and society and the natural space for the occurrence of both disease 
+and healing. And ﬁ  nally, there is the space of the body, which became pos-
+sible due to a mutation in medical thinking. The space carved out by the 
+clinic is a coming together of each of these; each of these spaces described 
+in  Birth of the Clinic   has a separate genealogy, and each arrives on the scene 
+in the political space surrounding the French revolution in the late eigh-
+teenth and early nineteenth centuries.  The Birth of the Clinic   is an archaeol-
+ogy because it takes this moment in time when all these histories — these 
+ideas with different histories in time — come together. Foucault cuts trans-
+versely through that time period to see how this little space of the clinic 
+came to be. Foucault himself is concerned with taking a good look around 
+the space in which different histories came together to create the new space 
+of the clinic. Foucault’s method of analysis of the clinic matches the meta-
+physical beliefs of the clinic. 
+ What does he ﬁ  nd in the space of the clinic? Foucault notes that the politi-
+cal space of Republican France inﬂ  uenced the development of medicine by 
+providing the stability of the body politic and a means to control disease. 
+The good citizen is the healthy citizen, and the drive for good health begins 
+with the drive for good government ( Foucault, 1991 , 33). Moreover, the ﬂ  ux 
+of time, the ﬂ  ux of life itself, prevents medicine from having a stable object 
+of knowledge. Death is the zero point, the point where that ﬂ  ux of life be-
+comes static, where true knowledge becomes possible in medicine. That 
+stasis can be found, according to  The Birth of the Clinic  , in the space of the 
+body. The body had to be opened up as close to the time of death — as close 
+to death time — as possible, so that true knowledge of death could be seen 
+clearly in the light of reason (Foucault, 1973, 124 – 48). In medicine, claims 
+Foucault, it is space that holds primacy over time; or, perhaps better, time 
+and space coincide in the dead body. Time is spatialized in the dead body, 
+ﬁ xed in the moment of death in the space of the body. The ﬂ  ux of life ceases 
+with death, and the new medicine is born. But, Foucault is not only con-
+cerned with the object of the dead body but also concerned with the gaze 
+of the subject and how that subject is transformed by its new object and how 
+the space of the clinic shapes what is possible for those whose bodies be-
+come ill and are subjected to medicine. 
+ Thus, it is not so much that Foucault’s analyses are focused on space or 
+that they are done from the perspective of space, but that in his researches 
+he notices the priority of space over time in the various disciplines — from
+
+Foucauldian Diagnostics 345
+psychology to medicine to other of the human sciences — especially in 
+the elaborate tables created for the encyclopedic classiﬁ  cation of disease 
+(Foucault, 1973, 3 – 21) and in the biological classiﬁ  cations schemes, like 
+those of Linnaeus, in which living organisms are classiﬁ  ed by genus and 
+species ( Foucault, 1994 , 250 – 302). Thus, what something is depends on how 
+it is classiﬁ  ed within the space of the table. 
+ Space is about organizing, about placing living beings into classiﬁ  catory 
+tables — and this is precisely what the Diagnostic and Statistical Manual of 
+Mental Disorders (DSM IV, American Psychiatric Association, 1994)    is for 
+modern psychiatry. This person is a depressive; that person is a schizo-
+phrenic; he is a homosexual, as if there is something essential, some onto-
+logical characteristic that deﬁ  nes that person, qua diagnostic category 
+( Pickstock, 1998 , 49 – 57). 3  Space — the space of the table, for instance — thus 
+organizes knowledge and provides the conditions of power over those things 
+or people in the table. 
+ In  The Order of Things   (1970), Foucault makes the claim that medicine is 
+the queen of the human sciences. What he means by this is that medicine —
+ at the time of his writing in 1976 — tended to order the other human sciences, 
+to decide which of the sciences were important to human thriving generally, 
+as well as in the particular circumstances of particular patients. Foucault 
+would later think of this relationship between the individual and the social 
+in terms of a biopolitics ( Bishop, 2008 ) — the  “ politics of life itself ”  as one 
+commentator ( Rose, 2007 ) has called it — where the body and soul of the 
+individual are shaped by the historical and political circumstances of the 
+society into which he is born. In retrospect, Foucault’s work seems prophetic 
+because shortly after the publication of  The Order of Things  , we ﬁ  nd medi-
+cine rethinking itself in response to a crisis with the publication of George 
+Engel’s  “ The Need for a New Medical Model ”  ( 1977 ). In this model, exper-
+tise, and thus power, is diffused out to those sociologists and psychologists 
+who come to deﬁ  ne human thriving in psychosocial medicine and into the 
+even newer and more comprehensive medicine — biopsychosociospiritual 
+medicine ( Bishop, Rosemann, and Schmidt, 2008 ;  Bishop, 2009 ). Thus, the 
+human will is no free agent acting to fulﬁ  ll her desires but instead is a being 
+delimited by the sum of the comprehensive caregivers. 
+ Radically reinterpreting freedom, Foucault’s essay  What is enlightenment?   
+clearly takes up the mantle from Kant’s  Was ist Äufklarung?   Rereading Kant’s 
+answer to the question, Foucault begins to articulate what the contemporary 
+scholar does that is similar to Kant’s  Was ist Äufklarung?   In this little reﬂ  ec-
+tion, Foucault reads Kant as arguing that Enlightenment is the freeing of the 
+self in private matters but binding oneself in public matters. It is this tradition 
+in which Foucault seems to be working, hoping to open up a modicum of 
+freedom for the self in private matters, even while bound by powerful forces 
+that constitute that subjectivity, all the while avoiding the problems pre-
+sented by the various humanisms — where man is both subject and object of
+
+Jeffrey P. Bishop 346
+knowledge — and the various liberalisms — where man is both Sovereign and 
+subject to that sovereignty. 
+ Where Kant attempts to ﬁ  nd the place of freedom in the transcendental 
+subject, Foucault attempts to navigate a space between the historical and 
+the transcendental. In other words, Foucault’s works emerge on the histori-
+cal scene like any other work — on the historical scene of Kantian philoso-
+phy. No longer are we dealing with time and space as pure forms of 
+intuition, but now we are dealing with historical time and political space. 
+Thus, Foucault is concerned with the historical and political production of 
+subjects. In the  Birth of the Clinic  , Foucault works out the production of the 
+subject — the doctor — in relation to the dead body. In  The Order of Things  , 
+Foucault turns his attention to relationship of subjectiﬁ  cation — the produc-
+tion of subjects — and objectiﬁ  cation — the production of objects, and the 
+production of man that is both the subject and object of the human sciences 
+( Foucault, 1994 , 303 – 43). 
+ Thus, I am arguing a thesis not dissimilar to those theses of Gerald  McKenny 
+(1997) , Carl  Elliott (2003) , and Brent  Waters (2007) . In my estimation, these 
+thinkers are saying that the problematic of our time, especially with regard 
+to medicine and its technologies, is the tension between the individual and 
+society, where the will of the individual seeks to enact its desires through 
+manipulating the body or realizing the true desires of a deep and essential 
+self. As Milbank points out, this is also the paradigmatic relationship of West-
+ern politics — the  “  ‘ bodily ’  mediation between the unlimited sovereignty of 
+the State and the self-will of the individual ”  ( Milbank, 2006 , 103). The battle 
+lines of the culture wars — the so-called culture of life and culture of death —
+ are then around when the individual is free to do what she desires and when 
+society can curb her freedom. When can Sovereign society subject the indi-
+vidual, with her own absolutely interior life, to its demands, and when does 
+that excursion of the social into the desires of the individual violate the sov-
+ereignty of the individual? 
+ I am saying something only slightly different. The expert knowledges of 
+the various disciplines — that is to say, disciplinary power — comes to shape 
+those desires in very subtle, but powerful ways. Biopsychosociospiritual 
+medicine is one of those mechanisms that shapes the forms of our lives. The 
+trajectory of contemporary medicine begins in biomedicine — a medicine of 
+doctor – disease relations — that mutates into a medicine of doctor – body rela-
+tionships, then into doctor – patient, and then into a biopsychosociospiritual 
+medicine. Yet, the biopsychosociospiritual medicine of doctor – patient rela-
+tionships remains a medicine of subject – object relationships, precisely be-
+cause of the priority of space over time. The static object — the dead 
+body — and the stable subject — the dead gaze — cross one another in the 
+clinic, where not only the bodies are totalized but also the psychosocial, and 
+indeed the spiritual, comes to ﬁ  nd its place in the ordering space of the clinic. 
+The doctor, the psychiatrist, the social worker, and the hospital chaplain, all
+
+Foucauldian Diagnostics 347
+seek to manipulate bodies for the beneﬁ  t of those bodies and psyches that 
+are manipulated. Thus, by taking a Foucauldian look at medicine, one can see 
+medicine at work, where bodies and psyches are efﬁ  ciently and effectively 
+molded, manipulated, controlled, and even coerced, by surgery, drugs, tech-
+nologies, and techniques deployed by physicians, surgeons, machines, psy-
+chologists, social workers, and chaplains. The metaphysics of medicine is a 
+metaphysics of efﬁ  cient causation.   
+ NOTES 
+    1  .   Note that  Madness and Civilization   is a translation of the 1964 abridged French version of his 
+larger work  Folie et déraison. Histoire de la folie à l’âge classique  , published in 1961. It has only recently 
+been translated into English as  History of Madness   (2006).  
+   2  .   Simons borrows Kundera’s felicitous phrase — the unbearable lightness of being — in order to 
+show that if the structures that bound us are too oppressive, the subject succumbs to the heaviness of 
+oppression. But likewise, if we free ourselves totally, we suffer from the lightness of life without direction 
+or purpose or meaning.  
+   3  .   Pickstock makes several key points about how Peter Ramus, a sixteenth-century logician, oper-
+ates on the spatialization of knowledge. She shows how that space of tables becomes a regulative space, 
+which in turn comes to be thought of as essential to uncovering supra-real realities, a deeper reality than 
+the one that is available to someone who experiences the world without aid of the table. That space 
+becomes a regulative space. It is not true knowledge if it is not able to be represented spatially.  
+    REFERENCES 
+   American Psychiatric Association  .   1994.   Diagnostic and Statistical Manual of Mental Disor-
+ders,     4th ed  .   Washington, DC  :   American Psychiatric Association  .   
+     Bacon  ,   F    .   2000  .   The New Organon    , ed.    M.     Silverthorne    .   Cambridge  :   Cambridge University 
+Press  .   Originally published as Novum Organum in 1620  .   
+     Bishop  ,   J. P    .   2008  .   Biopolitics, Terri Schiavo, and the sovereign subject of death  .   Journal of 
+Medicine and Philosophy      34  :  338   –   57  .   
+    —  —  —   .   2009  .   Culture wars: Biopsychosociospiritual medicine and other political schemes  . 
+  Christian Bioethics    15  .   Forthcoming     .   
+     Bishop  ,   J. P.   ,    P.     Rosemann   , and    F.     Schmidt      .   2008  .   Fides ancilla medicinae: On the ersatz liturgy 
+of death in biopsychosociospiritual medicine  .   Heythrop Journal XLIX      20   –   43  .   
+     Casey  ,   E    .   1987  .   The place of space in The Birth of the Clinic  .   Journal of Medicine and Philosophy    
+  12  :  351   –   6  .   
+     Descartes  ,   R.         1980  .   Discourse on method  . In   Rene descartes: Discourse on method and medi-
+tations on ﬁ  rst philosophy    (pp.   1   –   42  ), Trans.     Donald A.     Cress       Indianapolis,   IN:   Hackett 
+Publishing  .   Originally published in French in 1637     .   
+     Desrosières  ,   A    .   1998  .   The politics of large numbers: The history of statistical reasoning  , Trans. 
+    Camille     Naish    .   Cambridge, MA  :   Harvard University Press  .   Originally published by Édi-
+tions La Décourverte in 1993 as La politique des grands nombres: histoire de la raison 
+statistique  .   
+     Dreyfus  ,   H.       1992  .   On the ordering of things: Being and power in Heidegger and Foucault  . In 
+  Michel Foucault, philosopher   ,    ed.    F.     Ewald    , Trans.     Timothy J.     Armstrong    ,   New York  : 
+  Routledge  .   Originally published in 1989 in French by Éditions du Seuil under the title of 
+Michel Foucault philosophe   (pp.   81   –   2  ).
+
+Jeffrey P. Bishop 348
+     Dreyfus  ,   H.   , and    P.     Rabinow      .   1983  .   Michel Foucault: Beyond structuralism and hermeneutics   . 
+  Chicago, IL  :   University of Chicago Press  .   
+     Elliott  ,   C    .   1999  .   Bioethics, culture, and identity: A philosophical disease   .   New York  : 
+  Routledge  .   
+    —  —  —   .   2003  .   Better than well: American medicine meets the American dream   .   New York  : 
+  Norton and Company  .   
+     Engel  ,   G    .   1977  .   The need for a new medical model: A challenge for biomedicine  .   Science    
+  196  :  129   –   36  .   
+     Florence  ,   M.         1994  .   Michel Foucault  . Trans.     Catherine     Porter    . In   The Cambridge compan-
+ion to Foucault    , ed.    G.     Gutting    .   Cambridge  :   Cambridge University Press  .   
+     Foucault  ,   M    .   1978  .   The history of sexuality   ,   vol. 1  .   New York  :   Random House, Vintage Books  . 
+  Originally published as La volente de Savoir  .   
+    —  —  —   .   1980a  .   Questions of geography  . In   Power/knowledge: Selected interviews and other 
+writings 1972 – 1977       (pp.   1   –   36  ),   ed.     C.     Gordon    .   New York  :   Pantheon Books  .   
+    —  —  —   .   1980b  .   On popular justice: A discussion with Maoists  . In   Power/knowledge    (pp.   1   –   36  ), 
+ed.     C.     Gordon    .   New York  :   Pantheon Books  .   
+    —  —  —   .   1984a  .   Polemics, politics, problems  . In   The Foucault reader      (pp.   381   –   9  ),   ed.     P.      Rabinow    . 
+  New York  :   Pantheon Books     .   
+    —  —  —   .   1984b  .   What is an author?   In   The Foucault reader    (pp.   101   –   20  ), ed.     P.     Rabinow    .   New 
+York  :   Pantheon Books  .   
+    —  —  —   .   1984c  .   What is enlightenment?   In   The Foucault reader    (pp.   32   –   50  ), ed.     P.     Rabinow    . 
+  New York  :   Pantheon Books  .   
+    —  —  —   .   1988a  .   Madness and civilization: A history of insanity in the age of reason  . Trans. 
+    Richard     Howard    .   New York  :   Vintage Books  .   
+    —  —  —   .   1988b  .   Technologies of the self  . In   Technologies of the self: A seminar with Michel 
+Foucault      (pp.   16   –   49  )  , eds     L. H.     Martin  ,     H.     Gutman  , and     P. H.     Hutton    .   Amherst  :   Univer-
+sity of Massachusetts Press.   
+    —  —  —   .   1988c  .   The care of the self: The history of sexuality  ,   vol. 3  .  Trans .     Robert     Hurley    .   New 
+York  :   Vintage Books  .   Originally published in France by Editions Gallimard in 1984 as Le 
+Souci de soi  .   
+    —  —  —   .   1990  .   The use of pleasure: The history of sexuality  ,   vol. 2  . Trans.     Robert   Hurley    .   New 
+York  :   Vintage Books  .   Originally published in France by Editions Gallimard in 1984 as 
+L’Usage des plaisirs  .   
+    —  —  —   .   1991  .   The birth of the clinic: An archaeology of medical perception   .   Trans.     A.M.     Sheridan 
+Smith    .   New York  :   Vintage Books  .   Originally published by Presses Universitaires de 
+France in 1963 as Naissance de la Clinique  .   
+    —  —  —   .   1994  .   The order of things: An archaeology of the human sciences   .   New York  :   Random 
+House  .   Originally published in France by Editions Gallimard in 1966 as Les Mots et les 
+choses  .   
+    —  —  —   .   1995  .   Discipline and punish: The birth of the prison   . Trans.     Alan     Sheridan    ,   New York  : 
+  Random House, Vintage Books  .   Originally published in French by Editions Gallimard in 
+1975 as Surveiller et Punir: Naissance de la prison  .   
+    —  —  —   .   2006  .   History of madness   .   London  :   Routledge  .   Originally published in 1961 as Folie 
+et déraison. Histoire de la folie à l’âge classique  .   
+    —  —  —   .   2008  .   Introduction to Kant’s Anthropology  . In     R.     Nigro  , ed    . Trans.     Roberto     Nigro    and 
+   Kate     Briggs    .   Los Angeles, CA  :   Semiotext  .   Originally published as     Introduction à 
+l’“Anthropologie” de Kant    by Libraire Philosophique     J  .   Vrin       in 2008     .
+
+Foucauldian Diagnostics 349
+     Gutting  ,   G    .   1994  .   Introduction  :   Michel Foucault: a User’s Manual  . In   The Cambridge compan-
+ion to Foucault    (pp.   1   –   27  ),    ed.    G.     Gutting    .   Cambridge  :   Cambridge University Press  .   
+     Han  ,   B    .   2002  .   Foucault’s critical project: Between the transcendental and the historical   .   Trans. 
+    Edward     Pile    .   Stanford, CA  :   Stanford University Press  .   
+     Heidegger  ,   M    .   1996  .   Being and time   . Trans.     Joan     Stambaugh    .   New York  :   SUNY Press  .   Origi-
+nally published in 1927 as Sein und Zeit  .   
+     Hume  ,   D    .   1977  .   An enquiry concerning human understanding    , ed.    E.     Steinberg    ,   2nd ed  . 
+  Indianapolis, IN  :   Hackett Publishing  .   
+     Kant  ,   I    .   1998  .   Critique of Pure Reason    , eds    P.     Guyer  , and     A. W.     Wood    .   Cambridge  :   Cambridge 
+University Press     .   The ﬁ  rst edition was originally published in 1781 as  Kritik der reinen 
+Vernuft   ;   second edition published in 1787.   
+     Krakauer  ,   E    .   1998  .   Prescriptions: Autonomy, humanism, and the purpose of health technol-
+ogy  .   Theoretical Medicine and Bioethics      19  :  522   –   45  .   
+     Locke  ,   J    .   1996  .   An essay concerning human understanding   . ed.    K.     Winkler    .   Indianapolis, IN  : 
+  Hackett Publishing  .   Originally published under the same title in 1689.   
+     Macey  ,   D    .   1993  .   The lives of Michel Foucault   .   New York  :   Random House  .   
+     MacIntyre  ,   A    .   1984  .   After virtue   ,   2nd ed  .   Notre Dame, IN  :   University of Notre Dame Press  .   
+    —  —  —   .   1990  .   Three rival versions of moral enquiry: Encyclopedia, genealogy, and tradition   . 
+  Notre Dame, IN  :   University of Notre Dame Press  .   
+    —  —  —   .   1997  .   To relieve the human condition: Bioethics, technology, and the body   .   Albany, 
+NY  :   State University of New York Press  .   
+     Megill  ,   A    .   1987  .   The reception of Foucault by historians  .   Journal of the History of Ideas    
+  48  :  117   –   41  .   
+     Milbank  ,   J    .   2003  .   Being reconciled: Ontology and pardon   .   London  :   Routledge Press  .   
+    —  —  —   .   2006  .   Theology and social theory: Beyond secular reason   ,   2nd ed  .   London  : 
+  Routledge  .   
+     Nietzsche  ,   F    .   1999  .   The birth of tragedy  . In   The Birth of Tragedy and other writings     (pp.   3   –   116  ), 
+eds    R.     Guess  , and     R.     Speirs    .   Cambridge  :   Cambridge University Press  .   Originally published 
+in 1871 and 1886 as Die Geburt der Tragödie aus dem Geiste der Musik  .   
+     Pickstock  ,   C    .   1998  .   After writing: The liturgical consummation of philosophy   .   Oxford  : 
+  Blackwell  .   
+     Porter  ,   T    .   1986  .   The rise of statistical thinking, 1820 – 1900   .   Princeton, NJ  :   Princeton University 
+Press  .   
+     Porter  ,   T    .   1995  .   Trust in numbers: The pursuit of objectivity in science and public life   .   Princeton, 
+NJ  :   Princeton University Press  .   
+     Rose  ,   N    .   2007  .   The politics of life itself   .   Princeton, NJ  :   Princeton University Press  .   
+     Rousseau  ,   G. S    .   1972 – 3  .   Whose enlightenment? not man’s: The case of Michel Foucault  .   Eigh-
+teenth Century Studies      6  :  283   –   6  .   
+     Scott  ,   C    .   1987  .   The power of medicine, the power of ethics  .   Journal of Medicine and Philoso-
+phy     12  :  335   –   50  .   
+     Simons  ,   J    .   1995  .   Foucault and the political   .   London  :   Routledge Press  .   
+     Tallis  ,   R    .   1999  .   Enemies of hope: A critique of contemporary pessimism   .   London  :   Palgrave 
+MacMillan  .   
+     Waters  ,   B    .   2007  .   Disability and the quest for perfection: A moral and theological inquiry  . In 
+  Theology, disability and the new genetics: Why science needs the church    , eds    J.     Swinton  , 
+and     B.     Brock    .   London  :   T&T Clark  .

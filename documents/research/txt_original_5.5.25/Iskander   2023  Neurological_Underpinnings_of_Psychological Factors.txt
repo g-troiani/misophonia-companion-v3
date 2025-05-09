@@ -1,0 +1,1262 @@
+570  Copyright © SLACK Incorporated
+Peer Review: ORIGINAL RESEARCHABSTRACT
+Several studies have suggested that 
+misophonia should be categorized 
+as an obsessive-compulsive disorder 
+(OCD) due to similar neural mani -
+festations, such as impairments in 
+limbic structures, and psychological 
+features, such as perfectionism and 
+disgust sensitivity. However, the two 
+disorders may differ in the domains of 
+disgust sensitivity. In OCD, the domain 
+of pathogen disgust has been studied 
+extensively as per the contamination 
+subtype. In misophonia, pathogen 
+disgust has not been reported. We hy -
+pothesized that moral disgust may bet -
+ter characterize individuals with miso -
+phonia, as studies indicate that people 
+with misophonia view their triggers as morally unacceptable. Furthermore, 
+neuroimaging has shown anterior cin -
+gulate cortex (ACC) activation particu -
+larly during exposure to misophonic 
+triggers, which is an area associated 
+with moral assessment of stimuli. An -
+other psychological factor that may 
+point to the two disorders being dis -
+crete is intolerance of uncertainty (IU), 
+an aversion to undetermined events. 
+IU has been well documented in OCD: 
+It has been found to be positively as -
+sociated with striatal volume and dys -
+function in the ACC—both of which are 
+common findings in OCD. We expected 
+people with misophonia not to exhibit 
+IU since they experience distress in re -
+sponse to specific triggers and, unlike 
+individuals with OCD, do not experi -ence preemptive anxiety. Multivari -
+ate logistic regression analysis run on 
+survey-gathered data revealed IU as a 
+significant predictor of OCD symptoms 
+and moral disgust as a significant pre -
+dictor of misophonia. Consistent with 
+our hypotheses, our findings suggest 
+that IU and moral disgust and the asso -
+ciated neural underpinnings differenti -
+ate misophonia from OCD. [Psychiatr 
+Ann. 2023;53(12):570-580.]
+Obsessive-compulsive disorder 
+(OCD) is a psychiatric disor -
+der marked by disturbing, in -
+trusive patterns of thought (obsessions) 
+and repetitive actions or behaviors done 
+in response to obsessions to decrease 
+anxiety (compulsions such as checking, 
+counting, touching, and arranging).1 
+Functional and structural abnormalities 
+have been investigated, with the literature 
+widely implicating the cortico-striato-
+thalamo-cortical (CSTC) circuit,2 which 
+is associated with behavioral self-regu -
+lation, habit learning, and reward-based 
+learning,3,4 in OCD pathophysiol -
+ogy. The CSTC circuit can be viewed 
+in two pathways: 1) the direct pathway 
+(ie, projections from the orbitofrontal 
+cortex-striatum-internal globus pallidus-
+thalamus-cortical), which is thought to 
+be excitatory (positive-feedback loop, From City University of New York, Macaulay Honors College and Queens Col -
+lege, New York, New York (SI), and City University of New York, Queens College, 
+New York, New York (UB, MS, RK, DA).
+Originally submitted June 4, 2023. Accepted for publication September 25, 2023.
+Financial disclosure: The authors have no relevant financial relationships to dis -
+close.
+Data availability: Data will be made available by the authors upon reasonable 
+request.
+Address correspondence to Usha Barahmand, PhD, Queens College, City Uni -
+versity of New York, 65-30 Kissena Boulevard, NY 11365; email: usha.barahmand@
+qc.cuny.edu.
+doi: 10.3928/23258160-20231106-02Neurological Underpinnings of 
+Psychological Factors Distinguishing 
+Obsessive-Compulsive 
+Disorder From Misophonia
+Simona Iskander, BA; Usha Barahmand, PhD; Monica Soni, BA; Ravinder Kaur, BA;  
+Dylan Arnero, BA
+
+Peer Review: ORIGINAL RESEARCHPSYCHIATRIC ANNALS  • Vol. 53, No. 12, 2023 571activation of actions) and 2) the indirect 
+pathway (ie, projections from the dorso -
+lateral prefrontal cortex-striatum-exter -
+nal globus pallidus-subthalamic nucleus-
+thalamus-cortical), which is inhibitory 
+(negative feedback loop, inhibition of ac -
+tions).4 The imbalance of both pathways 
+is thought to result in a hyperactivated 
+CSTC circuit, where the inhibitory path 
+is unable to properly execute proper in -
+hibitory control.5 The following have also 
+been reported as key players in OCD 
+pathophysiology: 
+ ■The insula, which is involved in 
+self-awareness, autonomic func -
+tions, and emotional processing;6
+ ■Amygdala, which is also involved in 
+emotional processing; 
+ ■The anterior cingulate cortex (ACC), 
+a region of the cingulate cortex re -
+sponsible for emotional and conflict 
+processing as well as error recogni -
+tion;7
+ ■Ventromedial prefrontal cortex 
+(vmPFC) and dorsolateral pre -
+frontal cortex (DLPFC), which are 
+involved in flexible behavior and 
+safety signaling;8,9
+ ■Orbitofrontal cortex (OFC), which 
+has been implicated in reward-
+guided learning and symptom se -
+verity;10,11
+ ■Striatum activation and volume.12 
+Gathered from neuroimaging data, 
+individuals with OCD tend to exhibit 
+impairments in executive functioning, 
+emotional processing, and flexibility.13,14
+Misophonia is a neurophysiologi -
+cal disorder characterized by a dispro -
+portionate negative emotional response 
+to common sounds such as chewing, 
+slurping, tapping, and pen clicking.15,16 
+Autonomic response tends to accom -
+pany emotional reactions, as exposure 
+to triggering stimuli promotes increased 
+sympathetic nervous system arousal.16,17 
+Initially conceptualized by Jastreboff  
+and Jastreboff, the term misophonia 
+stemmed from early studies surrounding 
+tinnitus and hyperacusis.18-20 Tinnitus describes one’s perception of auditory 
+stimuli despite the absence of actual au -
+ditory stimuli, where one may experi -
+ence ringing in one or both ears, usually 
+as the result of hearing loss.21 Hyperacu -
+sis is used to refer to a heightened sensi -
+tivity to noise, leading one to believe that 
+noises are much louder than they are.22 
+Yet, increasing neuroscientific studies 
+point to the idea that misophonia is not 
+guided by auditory track abnormalities, 
+but rather by emotional neural networks, 
+as indicated by the involvement of the 
+insula, ACC, amygdala, and prefrontal 
+cortical regions in the presentation of 
+the disorder.23
+Due to the resemblance in symp -
+tomatology and neural manifestations 
+between misophonia and OCD, some 
+studies argue that misophonia should 
+not be classed separately from OCD. The 
+findings of Cusack et al. support the link 
+between misophonia and OCD,24 with 
+the authors suggesting misophonia car -
+ries more of the obsessive than compul -
+sive traits of OCD. When assessing three 
+individuals with misophonia, Natalini et 
+al.25 found that levels of perfectionism 
+were elevated, consistent with an ob -
+sessive-compulsive personality disorder. 
+In the same vein, Jager et al.26 reported 
+that 26% of the a misophonic sample 
+presented with obsessive-compulsive 
+personality traits, speculating that there 
+is some connection between misophonia 
+and obsessive-compulsive symptoms. 
+Neurologically speaking, some research -
+ers believe misophonia and OCD may 
+share related neurocircuitry, that is, im -
+pairments in limbic structures such as 
+the amygdala and basal ganglia,10 where -
+as others believe the overlap between the 
+two disorders is due to dysfunction of 
+the serotonergic and dopaminergic neu -
+ral systems.27 Specifically, both OCD 
+and misophonia exhibit hyperactivity in 
+the insula and amygdala when exposed 
+to triggers.23 Hyperactivity in the ACC 
+has also been implicated in both OCD 
+and misophonia, specifically in an error-processing task and trigger sound expo -
+sure, respectively.23
+Although the findings of these stud -
+ies point out overlapping features, hall -
+mark traits of OCD, such as compul -
+sions and transdiagnostic factors, such 
+as disgust sensitivity and intolerance 
+of uncertainty (IU), have not been ob -
+served to be significantly associated with 
+misophonia. Further, recent neuroimag -
+ing studies confirm the unique profile of 
+misophonia, further supporting the dis -
+tinction between OCD and misophonia. 
+Activation of the midcingulate cortex 
+(MCC) and the supplementary motor 
+area (SMA) differs between the disor -
+ders. More specifically, the MCC, in -
+volved in motor and cognitive control,28 
+has been found to be hyperactive in the 
+presence of triggers in misophonia, as 
+misophonic response to triggers is au -
+tonomically driven, which may translate 
+to reactionary behaviors.29 Conversely, 
+in OCD, hypoactivity in the MCC was 
+observed during symptom provocation, 
+which some researchers speculate oc -
+curs as a way to decrease anxiety.12 Dif-
+ferences have also been observed in the 
+SMA, which is associated with motor 
+initiation/planning and inhibitory con -
+trol.30 While hyperactivation has been 
+reported in misophonia upon subjection 
+to triggers,29 hypoactivation has been 
+found in OCD during error-processing 
+tasks.23 Therefore, while misophonia 
+shares common psychological and neu -
+rological traits with OCD, there are 
+substantial differences that warrant the 
+distinction between the two.
+Disgust sensitivity has been reported 
+in both OCD31,32 and misophonia.33,34 
+Defined as a negative emotion that leads 
+to repulsion and/or behavior avoidance,35 
+disgust has come to be understood in the 
+context of three domains: (1) pathogen-
+based disgust (aversion toward patho -
+gens/contaminants), (2) moral disgust 
+(aversion toward moral offenses), and 
+(3) sexual disgust (aversion toward in -
+appropriate sexual behaviors).36 While,
+
+572  Copyright © SLACK Incorporated
+Peer Review: ORIGINAL RESEARCHgenerally, disgust has been implicated 
+in both disorders, the domain of disgust 
+may differ. Pathogen-based disgust has 
+long been studied in OPD;37,38 however, 
+moral disgust and sexual disgust have 
+been understudied. In terms of miso -
+phonia, although disgust sensitivity was 
+found to be associated with emotional 
+reactivity, no relation was found with 
+pathogen-based disgust.33 The domains 
+of moral or sexual disgust may be asso -
+ciated with misophonia due to the po -
+tential association with mental contami -
+nation. As such, the domains of disgust 
+may serve as a way to differentiate the 
+two disorders.
+Intolerance of uncertainty may also 
+serve as a way to distinguish misophonia 
+from OCD. IU refers to the aversion to 
+uncertain situations that are character -
+ized by negative emotional, cognitive, 
+and behavioral reactions.39 IU has been 
+implicated in various anxiety disorders 
+such as social and general anxiety,40 as 
+well as mood disorders such as depres -
+sion.41 In the context of OCD, IU is 
+considered the predictor of OC symp -
+toms42 and influences symptom sever -
+ity,43 making it an important factor to 
+consider when discussing OCD traits. 
+IU has yet to be explored in misopho -
+nia, but we do not anticipate those with 
+misophonia to exhibit IU as strongly as 
+do individuals with OCD because, al -
+though people with misophonia may ex -perience immediate distress in response 
+to specific triggers, this distress would 
+not be marked by preemptive anxiety or 
+worry, as experienced by individuals with 
+OCD. Thus, aversion would occur upon 
+realizing the trigger, rather than antici -
+pating one.
+STUDY OBJECTIVE AND 
+HYPOTHESES
+With consideration of the findings 
+mentioned, we aimed to determine 
+which factors could help differentiate 
+misophonia from OCD. We hypoth -
+esized that IU and disgust sensitivity 
+(pathogen, sexual, moral) would be dif -
+ferentially associated with and predict 
+OCD and misophonia symptoms. We 
+also hypothesized that pathogen-based 
+disgust and IU would be predictive of 
+symptoms of OCD and that sexual and 
+moral disgust would be predictive of 
+symptoms of misophonia. Our model of 
+the hypothesized relationships is shown 
+in Figure 1.
+METHOD
+Participants
+We recruited our sample from social 
+media and crowdsourcing platforms. 
+Inclusion criteria required participants 
+to be at least 18 years of age and flu -
+ent in English. Those over the age of 
+65 and those not fluent in English were 
+excluded.
+Measures
+Three-Domains of Disgust Scale. 
+The Three-Domains of Disgust Scale 
+(TDDS) is a 21-item self-report mea -
+sure used to assess disgust sensitivity over 
+three dimensions: pathogen, sexual, and 
+moral.44 Sensitivity to each of the three 
+dimensions is gauged by seven state -
+ments. Pathogen-based disgust is char -
+acterized by statements such as “Stand -
+ing close to a person who has body odor.” 
+Sexual disgust is characterized by state -
+ments such as “Bringing someone you 
+just met back to your room to have sex.” Moral disgust is characterized by state -
+ments such as “Forging someone’s signa -
+ture on a legal document.” Participants 
+were asked to respond on a seven-point 
+Likert scale ranging from 0 = not at all 
+disgusting to 6 = extremely disgusting. 
+The TDDS was found to have accept -
+able reliability.44 In the current study, 
+the Cronbach’s a for pathogen-based 
+disgust, sexual disgust, and moral disgust 
+were found to be 0.77, 0.80, and 0.86, 
+respectively.
+Intolerance of Uncertainty Scale. The 
+Intolerance of Uncertainty Scale (IUS) 
+is a 27-item self-report measure used 
+to measure behavioral, emotional, and 
+cognitive responses to undetermined 
+situations.45 Participants were asked 
+to indicate how they aligned with each 
+statement (eg, “Uncertainty makes me 
+uneasy, anxious, or stressed”), and their 
+responses were based on a five-point 
+Likert scale ranging from 0 = not at 
+all characteristic of me to 4 = entirely 
+characteristic of me. Ratings of items 
+are summed, with higher scores corre -
+sponding to greater IU. The English ad -
+aptation of the IUS demonstrated high 
+internal consistency, with a Cronbach’s 
+a of 0.94.46 In the current study, the 
+Cronbach’s a was 0.95, which also dem -
+onstrates excellent internal consistency.
+Obsessive-Compulsive Inventory-
+Revised. The Obsessive-Compulsive 
+Inventory-Revised (OCI-R)47 is a revi -
+sion of the 42-item Obsessive-Com -
+pulsive Inventory,48 which consists of 
+18 items assessing symptoms of OCD. 
+OCI-R items are divided into six fac -
+tors: (1) washing (eg, “I find it difficult to 
+touch an object when I know it has been 
+touched by strangers or certain people”); 
+(2) obsessing (eg, “I find it difficult to 
+control my own thoughts”); (3) hoarding 
+(eg, “I have saved up so many things that 
+they get in the way”); (4) ordering (eg, 
+“I get upset if objects are not arranged 
+properly”); (5) checking (eg, “I check 
+things more often than necessary”); and 
+(6) neutralizing (eg, “I feel compelled to 
+Figure 1. Hypothesized model for the dif -
+ferential prediction of obsessive-compulsive 
+and misophonia symptoms based on intol -
+erance of uncertainty and types of disgust.
+
+Peer Review: ORIGINAL RESEARCHPSYCHIATRIC ANNALS  • Vol. 53, No. 12, 2023 573count while I am doing things”), with 
+three items in each factor. Participants 
+are asked to respond on a five-point Lik -
+ert scale ranging from 0 = not at all to 4 = 
+extremely. Rating of items are summed, 
+with scores of 21 or higher indicating 
+presence of OCD. The subscales along -
+side the full scale have shown acceptable 
+internal consistency, ranging from 0.81 
+to 0.90 in a sample of patients seeking 
+treatment for OCD symptoms. In the 
+current study, Cronbach’s a was 0.95, in -
+dicating excellent reliability.
+New York Misophonia Scale. The 
+New York Misophonia Scale (NYMS) 
+is composed of two parts—the first as -
+sessing emotional distress to misophonic 
+triggers, and the second assessing aggres -
+sive and nonaggressive responses to trig -
+gers.33 The first part consists of 25 miso -
+phonic triggers (eg, chewing loudly), and 
+participants are asked to indicate how 
+aversive each trigger is using a five-point 
+Likert scale ranging from 0 = doesn’t 
+bother me to 4 = disgusting. The second 
+part consists of 13 behavior-based reac -
+tions (eg, I cover my ears). Using a five-
+point Likert scale, ranging from 0 = nev -
+er to 4 = always, participants are asked 
+to record how often they would respond 
+with the behavior indicated to the trig -
+gers in the first part of the NYMS. Par -
+ticipants with scores two SDs above the 
+mean were considered as having “high” 
+misophonia, those with scores two SDs 
+below the mean were categorized as 
+“low,” and those falling between ±1 SD 
+were considered “average.” In the current 
+study, only those with high scores were 
+considered. Cronbach’s a of the NYMS 
+ranged from 0.85 to 0.94 for the total 
+scale and its subscales, indicating good 
+internal consistency. In the current study, 
+the full scale reliability was found to be 
+0.94.
+Procedure
+The current study received approval 
+from the Institutional Review Board of 
+the City University of New York. The scales assessing the study variables, a 
+consent form detailing the purpose of 
+the study, and a demographic form were compiled in Microsoft Forms. The link to 
+the survey was shared on crowdsourcing 
+platforms, namely social media websites Table 1
+Demographic Characteristics of the Sample ( n = 264)
+Variable n %
+Sex
+   Female 157 59.4
+   Male 87 33.0
+   Nonbinary 20 7.6
+Marital status
+   Single, never married 130 49.2
+   Married or in a relationship 124 47.0
+   Divorced or separated 9 3.4
+   Missing data 1 0.38
+Educational level
+   Less than high school diploma 8 3.0
+   High school or equivalent 52 19.7
+   Some college but no degree 45 17.0
+   Associate’s degree 17 6.4
+   Bachelor’s degree 97 36.7
+   Graduate degree 45 17.0
+Race
+   Asian 25 9.5
+   Black or African American 9 3.4
+   Hispanic or Latino 11 4.2
+   Multiple races 17 6.4
+   Race other than those listed 8 3.0
+   White 194 73.5
+Perceived socioeconomic status
+   Lower class 28 10.6
+   Lower middle class 65 24.6
+   Middle class 124 47.0
+   Upper middle class 24 9.1
+   Prefer not to say 23 8.7
+
+574  Copyright © SLACK Incorporated
+Peer Review: ORIGINAL RESEARCHsuch as Facebook, Instagram, and Red -
+dit, as well as survey-sharing platforms 
+such as PollPool, SurveySwap, and Sur -
+veyTandem. Upon clicking the survey 
+invitation link, participants were directed 
+to Microsoft Forms, where they were pre -
+sented with an overview of the study and 
+the consent form. After consenting, par -
+ticipants were guided to the survey. The 
+completed form consisted of 162 state -
+ments divided into 5 sections and took 
+approximately 15 minutes to complete. 
+Data collection began in November 2021 
+and concluded in February 2022.
+Data Analysis
+SPSS version 27.0 for Windows was 
+used to conduct the data analysis on the 
+collected responses. Beginning with the 
+analysis, the means and SDs for all scales 
+were calculated. The data were then as -
+sessed for multivariate outliers using 
+Mahalanobis distance, Cook’s distance, 
+and Leverage, with one outlier emerg -
+ing, which was discarded. Assumptions 
+of additivity, normality, linearity, and ho -
+mogeneity/homoscedasticity were also 
+examined without violations emerging. 
+All predictor variables were significantly correlated, and correlations were all un -
+der 0.5. The 95% CI was calculated for 
+all regression coefficients, and bootstrap -
+ping with 5,000 bootstrapped samples 
+within 95% of the CI was performed to 
+assess the relevance of the indirect ef -
+fects. The results were verified using bi -
+nomial regression analysis.
+RESULTS
+Participants
+A sample of 264 (59.5% female, 
+33.0% male, 7.6% nonbinary) indi -
+viduals between 18 and 65 years of 
+age (mean = 28.6, SD = 9.5 years) was 
+recruited. Most participants reported 
+their race as white (73.5%), followed by 
+Asian (9.5%), black or African Ameri -
+can (3.4%), Hispanic or Latino (4.2%), 
+and multiple races (6.4%). The majority 
+(60.1%) of participants had obtained an 
+associate’s degree, a bachelor’s degree, 
+or a graduate degree. Most participants 
+were either single and never married 
+(49.2%) or married or in a relationship 
+(47.0%), with the rest of the participants 
+divorced or separated (3.4%). All demo -
+graphic characteristics are displayed in 
+Table 1.Correlations
+IU ( r = 0.61, P < 0.001), pathogen-
+based disgust ( r = 0.37, P < 0.001), sexual 
+disgust ( r = 0.24, P < 0.001), and moral 
+disgust ( r = 0.13, P < 0.05) correlated 
+positively and significantly with OCD 
+symptoms. Correlations were also found 
+between IU ( r = 0.39, P < 0.001), patho -
+gen-based disgust ( r = 0.38, P < 0.001), 
+sexual disgust ( r = 0.38, P < 0.001), and 
+moral disgust ( r = 0.26, P < 0.001) and 
+symptoms of misophonia (Table 2) . 
+Logistic Regression
+Using cut-off scores for the OCI-R 
+and NYMS, 59 participants were used 
+in the logistic regression analysis. Re -
+spondents with high levels of OCD 
+symptoms and average or below aver -
+age misophonia symptoms ( n = 31) and 
+those with high levels of misophonia and 
+average or below average OCD symp -
+toms ( n = 28) were placed in separate 
+groups. Both groups were contrasted, 
+with a multivariate analysis of variance 
+revealing that the two groups differed 
+significantly on IU ( P < 0.01) and moral 
+disgust ( P < 0.01) (Table 3) . 
+A bivariate logistic regression was 
+performed to determine the contribu -
+tions of IU, pathogen-based disgust, 
+sexual disgust, and moral disgust to the 
+likelihood of identifying the individual 
+as having OCD. Each predictor vari -
+able was tested to verify that the as -
+sumption of linearity of the logit was 
+not violated. The predictor variables IU 
+and moral disgust were found to make 
+significant contributions to the model. 
+The logistic regression model was statis -
+tically significant, x2(4, n = 59) = 18.77, 
+P < 0.001. The Hosmer-Lemeshow 
+test (x2(8, n = 59) = 6.63, P > 0.05) was 
+not significant, further confirming the 
+fit of the model. The model explained 
+36.4% (Nagelkerke r2) of the variance 
+in OCD, and the percentage accuracy 
+of classification was 71.2%. Greater IU 
+was associated with an increased like -Table 2
+Means, Standard Deviations, and Correlations of Predictors 
+and Criterion Variables ( n = 264)
+Variable Mean (SD) MisophoniaObsessive-compulsive 
+symptoms
+Intolerance of uncertainty 69.66 (21.47) 0.386*** 0.615***
+Pathogen-based disgust 20.29 (8.22) 0.382*** 0.371***
+Sexual disgust 15.29 (8.98) 0.379*** 0.245***
+Moral disgust 22.57 (9.34) 0.264*** 0.133**
+Mean 20.60 63.30
+SD 13.43 31.28
+*** P < 0.001.
+
+Peer Review: ORIGINAL RESEARCHPSYCHIATRIC ANNALS  • Vol. 53, No. 12, 2023 575lihood of reporting OCD symptoms, 
+but higher moral disgust was associ -
+ated with reduced likelihood of having 
+OCD. The odds ratios of the predictors 
+are displayed in Table 4.  
+DISCUSSION
+Consistent with our hypotheses, IU 
+and moral disgust scores were able to pre -
+dict OCD and misophonia, respectively. 
+Our findings support the distinction 
+between these disorders while lending 
+credence to existing neuroscientific lit -
+erature underpinning the processes that 
+characterize IU and moral disgust. IU, 
+initially thought to be a defining feature 
+of generalized anxiety disorder,49 has 
+since been found to play a role in various 
+anxiety disorders, including OCD40,50,51 
+and posttraumatic stress disorder.52,53 Of 
+the studies examining the neural corre -
+lates of IU, there seems to be a pattern 
+in brain area involvement, with literature 
+implicating the insula, amygdala, OFC, 
+ACC, vmPFC, and DLPFC in IU. In -
+terestingly, significant overlap exists 
+between the areas implicated in IU and 
+in OCD, providing a neurological back -
+ing to the existing body of psychologi -
+cal literature supporting the relationship 
+between IU and OCD. Further, IU has 
+been found to positively correlate with striatal volume, particularly in the puta -
+men,54 as found in OCD,55 suggesting 
+there is a link on not only a functional 
+level but a structural level as well. IU has 
+been especially noted in compulsions or 
+ritualistic behavior,50,51,56 as heightened 
+connectivity of the vmPFC and DLPFC 
+results in impaired safety signaling, thus 
+exacerbating compensatory behaviors. If 
+a person fears they forgot to lock their 
+front door before going to sleep, they 
+may repeatedly check to make sure the 
+door is locked. Thus, they respond to their fear of the uncertain (ie, whether 
+the door is locked) by carrying out a 
+compulsion, in this case the repeated 
+checking of the lock, in an attempt to 
+mitigate the anxiety and promote feel -
+ings of safety. Through this logic, IU has 
+been found to predict OCD symptom 
+severity.57
+As for misophonia, our belief that 
+IU would not predict misophonia was 
+supported by our results. This may be 
+accounted for by recognizing just when 
+anxiety is experienced by those with 
+Table 4 
+Odds Ratios and 95% CIs of Factors Predictive of Obsessive-Compulsive Symptoms Versus 
+Misophonia in a Logistic Regression Model
+Predictor Variable B SE Wald df Sig. Exp(B) 95% CI for Exp(B)
+Intolerance of uncertainty 0.053 0.019 8.128 1 0.004 1.055 1.017 to 1.094
+Pathogen-based disgust 0.061 0.053 1.322 1 0.250 1.063 0.958 to 1.179
+Sexual disgust –0.038 0.043 0.778 1 0.378 0.963 0.885 to 1.047
+Moral disgust –0.136 0.055 6.051 1 0.014 0.873 0.784 to 0.973
+Constant –1.509 1.917 0.620 1 0.431 0.221
+SE = standard error; df = degree of freedom; Sig. = significance; Exp(B) = exponentiation of the B coefficient.Table 3
+Results of Multivariate Analysis of Variance Comparing the 
+High Obsessive-Compulsive (n = 31) and High Misophonia 
+Groups (n = 28) on the Study Variables
+Misophonia Obsessive-compulsive
+Variable Mean (SD) Mean (SD) F
+Intolerance of uncertainty 70.75 (20.31) 85.71 (15.33) 10.321**
+Pathogen-based disgust 21.82 (7.05) 23.16 (6.59) 0.569
+Sexual disgust 19.28 (9.42) 17.87 (7.36) 0.417
+Moral disgust 25.89 (6.71) 21.64 (5.98) 6.608
+** P < 0.01.
+
+576  Copyright © SLACK Incorporated
+Peer Review: ORIGINAL RESEARCHmisophonia compared to individuals 
+with OCD. As mentioned, we believed 
+people with misophonia would not ex -
+perience distress prior to encountering 
+their triggers. This belief was supported 
+by neuroimaging studies showing ACC 
+activation only in the presence of trig -
+gers. Because the ACC deals with an -
+ticipating aversive events,58,59 ACC ac -
+tivation exclusively in the presence of 
+specific misophonic triggers23 is not at 
+all consistent with OCD, as there is no 
+anticipation of the triggers or hyperac -
+tive resting state, as found in OCD.60
+Disgust sensitivity is another fac -
+tor that emerged as significant when 
+attempting to distinguish the two dis -
+orders. The three domains of disgust 
+are extremely understudied in neuro -
+scientific literature, and thus, literature 
+surrounding the distinct neural regions 
+each domain activates is scarce. How -
+ever, the research that does exist sug -
+gests that pathogen disgust and moral 
+disgust have distinct neural activation. 
+In a study conducted by Schaich Borg 
+et al., when processing pathogen-based 
+disgust stimuli, the main areas of activa -
+tion included the left amygdala and the 
+ventral orbito-frontal cortex.61 Because 
+both areas have been thought of as cen -
+tral players in OCD pathophysiology, 
+the neural correlates of disgust line up 
+with those found in OCD. Additionally, 
+as contamination OCD is one of the 
+more prevalent OCD subtypes, it is rea -
+sonable that pathogen disgust emerged 
+as significant, since the fear/avoidance of 
+pathogens defines the subtype.62,63 An-
+other explanation for OCD response to 
+pathogen disgust may be derived from 
+the concept of overestimation of threat, 
+which is a key cognitive process in OCD 
+in which individuals with OCD overes -
+timate the potential for danger.64,65 As a 
+result, when these individuals are faced 
+with situations such as stepping in dog 
+feces, they may believe they have some -
+how exposed themselves to contamina -
+tion, thus cycling into compulsions to offset the anxiety associated with the 
+contamination-based obsession. People 
+with misophonia do not exhibit the same 
+overestimation of threat tendencies or 
+worry-oriented mindsets that individu -
+als with OCD do, perhaps explaining 
+why pathogen disgust did not emerge 
+as a significant predictor of misophonia. 
+That is, misophonic triggers do not cen -
+ter around the potential danger posed to 
+the individual but rather around the an -
+ger felt toward the perpetrator of the ac -
+tion, as anger is a defining characteristic 
+of misophonia.66
+When disgust stimuli of moral con -
+tent were processed, significant areas of 
+activation included the medial prefrontal 
+cortex and the areas around the tempo -
+ro-partial junction, which are regions 
+involved in the processing of moral 
+stimuli61,67,68 and in the pathophysiology 
+of misophonia.69 While there has not 
+been a proposed neurological link be -
+tween moral disgust and misophonia, we 
+speculate that the feeling of disgust in 
+those with misophonia may stem from 
+anger, rather than worry, as observed in 
+OCD. Participants in Edelstein et al.’s 
+study reported that their triggers did not 
+make them feel anxious; however, they 
+did report they felt offended by trigger -
+ing sounds, which would give rise to sen -
+timents such as “I hate this person.”16 In 
+this way, it is probable that moral disgust 
+emerged as significant since misophonic 
+responses to triggers include negative 
+feelings toward the source of the trigger, 
+rather than toward the trigger itself.
+Although moral disgust has been ob -
+served to play a role in OCD (mental 
+contamination),70 we speculate it is not 
+as significant a predictor as pathogen 
+disgust since morality in OCD generally 
+relates to the experience of the individ -
+ual, rather than the judgment of others, 
+where the individual often casts doubt 
+on their own morality instead of passing 
+judgment on the actions of others—an 
+important defining characteristic be -
+tween OCD and misophonia. It may also be that morality underscores the 
+pathogen-based and sexual domains in 
+misophonia as well, since the nature of 
+the triggers may fall under a pathogenic 
+or sexual label; however, the overall reac -
+tion has less to do with the stimuli and 
+more to do with the perceived morality 
+of the source of the trigger.
+CONCLUSION AND 
+RECOMMENDATIONS
+The findings of the current study call 
+attention to several issues. First, the data 
+collected from participants was self-re -
+ported. Although screening was imple -
+mented to reach the target demographic, 
+self-report measures are not sufficient to 
+conclude the distinction between these 
+disorders. The sample of this study was 
+small, meaning more participants are 
+needed to confirm the relationship be -
+tween IU, disgust sensitivity, OCD, and 
+misophonia. Additionally, studies of the 
+three domains of disgust and misopho -
+nia are few, especially in the field of neu -
+roscience, suggesting a need for more 
+research on the subjects.
+Future research may attempt to fur -
+ther describe the relationship between 
+OCD and misophonia, so the classifi -
+cation of misophonia may be solidified. 
+It is also worth noting that use of the 
+TDDS limited our scope of pathogen, 
+moral, and sexual disgust. Specifically, 
+the statements describing moral disgust 
+were limited to the immorality of others, 
+leaving us unable to explore the possi -
+bility of mental contamination in OCD. 
+As such, a different direction to explore 
+may examining OCD in the context 
+of self-morality and misophonia in the 
+context of the morality of others.
+The neuroscience themes described 
+in this article inform treatment planning 
+for patients with OCD. The study results 
+support recent literature71,72 detailing 
+treatment possibilities for OCD that 
+stray away from the conventional drug 
+and behavioral treatment routes and 
+move in the direction of translating ad -
+
+Peer Review: ORIGINAL RESEARCHPSYCHIATRIC ANNALS  • Vol. 53, No. 12, 2023 577vances in neuroscience research to effec -
+tive OCD neurotherapeutics that target 
+the neurobiological alterations involved 
+in psychiatric symptoms. Evidence of 
+this can be found in studies where re -
+searchers report positive results when ad -
+ministering high-frequency brain stimu -
+lation (reduced OFC, PFC, and ACC 
+activation)73 and transcranial magnetic 
+stimulation (reduced PFC and ACC ac -
+tivation.)74 Such findings indicate that 
+addressing the hyperactive CSTC circuit, 
+as well as the neural correlates of IU, may 
+mitigate OCD symptom severity.
+As for misophonia, existing treat -
+ment methods are especially limited due 
+to the narrow scope of research on the 
+topic. Treatment of misophonia predom -
+inately involves psychotherapy.75 Find -
+ings of this study suggest there are key 
+brain regions that influence the presence 
+and severity of misophonia symptoms; 
+these must be further studied to develop 
+new treatment options. Viewing disgust 
+through the lens of anger in those with 
+misophonia, rather than worry as typi -
+cally expressed in individuals with OCD, 
+may also be beneficial in psychothera -
+peutic and pharmacological spheres.
+REFERENCES
+1. Diagnostic and Statistical Manual Of Mental 
+Disorders.  Fifth edition. American Psychiatric 
+Association; 2013.
+2. Saxena S, Brody AL, Schwartz JM, Baxter 
+LR. Neuroimaging and frontal-subcortical 
+circuitry in obsessive-compulsive disorder. 
+Br J Psychiatry Suppl . 1998;173(35):26-37. 
+https://doi.org/10.1192/S0007125000297870  
+PMID:9829024
+3. Fitzgerald KD, Stern ER, Angstadt M, et 
+al. Altered function and connectivity of 
+the medial frontal cortex in pediatric ob -
+sessive-compulsive disorder. Biological Psy -
+chiatry . 2010;68(11):1039-1047. https://doi.
+org/10.1016/j.biopsych.2010.08.018
+4. Saxena S, Rauch SL. Functional neuro -
+imaging and the neuroanatomy of obses -
+sive-compulsive disorder. Psychiatr Clin 
+North Am . 2000;23(3):563-586. https://doi.org/10.1016/S0193-953X(05)70181-7  
+PMID:10986728
+5. Calzà J, Gürsel DA, Schmitz-Koep B, et al. 
+Altered cortico-striatal functional connectivi -
+ty during resting state in obsessive-compulsive 
+disorder. Front Psychiatry . 2019;10:319-319. 
+https://doi.org/10.3389/fpsyt.2019.00319  
+PMID:31133898
+6. Gu X, Hof PR, Friston KJ, Fan J. Anterior in -
+sular cortex and emotional awareness. J. Com -
+parative Neurology.  2013;521(15):3371-3388. 
+https://doi.org/10.1002/cne.23368
+7. Holroyd CB, Yeung N. An integrative theory 
+of anterior cingulate cortex function: op -
+tion selection in hierarchical reinforcement 
+learning. In: Mars RB, Sallet J, Rushworth 
+MFS, Yeung N, eds., Neural Basis of Moti -
+vational and Cognitive Control . The MIT 
+Press; 2011. https://doi.org/10.7551/mit -
+press/8791.003.0024
+8. Apergis-Schoute AM, Gillan CM, Fineberg 
+NA, Fernandez-Egea E, Sahakian BJ, Rob -
+bins TW. Neural basis of impaired safety sig -
+naling in obsessive compulsive disorder. Pro. 
+Nat Acad Sciences.  2017;114(12):3216-3221. 
+https://doi.org/10.1073/pnas.1609194114
+9. Ahmari SE, Rauch SL. The prefrontal cor -
+tex and OCD. Neuropsychopharmacology . 
+2022;47(1):211-224. https://doi.org/10.1038/
+s41386-021-01130-2  PMID:34400778
+10. DeLong MR, Wichmann T. Circuits and 
+circuit disorders of the basal ganglia. Arch 
+Neurology.  2007;64(1):20-24. https://doi.
+org/10.1001/archneur.64.1.20
+11. Beucke JC, Sepulcre J, Talukdar T, et al. Ab -
+normally high degree connectivity of the orbi -
+tofrontal cortex in obsessive-compulsive disor -
+der. JAMA Psychiatry.  2013;70(6):1-11. https://
+doi.org/10.1001/jamapsychiatry.2013.173
+12. Yu J, Zhou P , Yuan S, et al. Symptom provo -
+cation in obsessive-compulsive disorder: A 
+voxel-based meta-analysis and meta-ana -
+lytic connectivity modeling. J Psychiatr Res . 
+2022;146:125-134. https://doi.org/10.1016/j.
+jpsychires.2021.12.029  PMID:34971910
+13. Snyder HR, Kaiser RH, Warren SL, Heller 
+W. Obsessive-compulsive disorder is as -
+sociated with broad impairments in ex -
+ecutive function: A meta-analysis. Clin 
+Psychol Sci . 2015;3(2):301-330. https://doi.org/10.1177/2167702614534210  
+PMID:25755918
+14. Thorsen AL, Hagland P , Radua J, et al. Emo -
+tional processing in obsessive-compulsive 
+disorder: a systematic review and meta-anal -
+ysis of 25 functional neuroimaging studies. 
+Biol Psychiatry Cogn Neurosci Neuroimaging . 
+2018;3(6):563-571. https://doi.org/10.1016/j.
+bpsc.2018.01.009  PMID:29550459
+15. Schröder A, Vulink N, Denys D. Misopho -
+nia: diagnostic criteria for a new psychiat -
+ric disorder. PLoS One . 2013;8(1):e54706-
+e54706. https://doi.org/10.1371/journal.
+pone.0054706  PMID:23372758
+16. Edelstein M, Brang D, Rouw R, Ramachan -
+dran VS. Misophonia: physiological investiga -
+tions and case descriptions. Front Hum Neuro -
+sci. 2013;7:296-296. https://doi.org/10.3389/
+fnhum.2013.00296  PMID:23805089
+17. Erfanian M, Kartsonaki C, Keshavarz A. 
+Misophonia and comorbid psychiatric symp -
+toms: a preliminary study of clinical findings. 
+Nord J Psychiatry . 2019;73(4-5):219-228. 
+https://doi.org/10.1080/08039488.2019.160
+9086  PMID:31066600
+18. Jastreboff MM, Jastreboff PJ. Components of 
+decreased sound tolerance: hyperacusis, miso -
+phonia, phonophobia. Tinnitus.org; 2001. 
+https://www.tinnitus.org/DST_NL2_PJMJ.
+pdf
+19. Jastreboff PJ, Gray WC, Gold SL. Neuro -
+physiological approach to tinnitus patients. 
+American J Otology.  1996;17(2):236-240.
+20. Jastreboff PJ, Jastreboff MM. Treatments for 
+decreased sound tolerance (hyperacusis and 
+misophonia). Semin Hear . 2014;35(2):105-
+120. https://doi.org/10.1055/s-0034-1372527
+21. Baguley D, McFerran D, Hall D. Tinnitus. 
+Lancet . 2013;382(9904):1600-1607. https://
+doi.org/10.1016/S0140-6736(13)60142-7  
+PMID:23827090
+22. Brout JJ, Edelstein M, Erfanian M, et al. In -
+vestigating misophonia: a review of the em -
+pirical literature, clinical implications, and a 
+research agenda. Front Neurosci . 2018;12:36-
+36. https://doi.org/10.3389/fnins.2018.00036  
+PMID:29467604
+23. Neacsiu AD, Szymkiewicz V, Galla JT, Li 
+B, Kulkarni Y, Spector CW. The neurobi -
+ology of misophonia and implications for
+
+578  Copyright © SLACK Incorporated
+Peer Review: ORIGINAL RESEARCHnovel, neuroscience-driven interventions. 
+Front Neurosci . 2022;16:893903-893903. 
+https://doi.org/10.3389/fnins.2022.893903  
+PMID:35958984
+24. Cusack SE, Cash TV, Vrana SR. An examina -
+tion of the relationship between misophonia, 
+anxiety sensitivity, and obsessive-compulsive 
+symptoms. J Obsessive Compuls Relat Disord . 
+2018;18:67-72. https://doi.org/10.1016/j.
+jocrd.2018.06.004
+25. Natalini E, Dimaggio G, Varakliotis T, Fio -
+retti A, Eibenstein A. Misophonia, maladap -
+tive schemas and personality disorders: a 
+report of three cases. J Contemp Psychother . 
+2020;50(1):29-35. https://doi.org/10.1007/
+s10879-019-09438-3
+26. Jager I, de Koning P , Bost T, Denys D, Vulink 
+N. Misophonia: Phenomenology, comorbid -
+ity and demographics in a large sample. PLoS 
+One. 2020;15(4):e0231390-e0231390. https://
+doi.org/10.1371/journal.pone.0231390  
+PMID:32294104
+27. Webber TABA, Johnson PLBA, Storch EAPD. 
+Pediatric misophonia with comorbid obsessive-
+compulsive spectrum disorders. Gen Hosp 
+Psychiatry . 2014;36(2):231.e1-231.e2. https://
+doi.org/10.1016/j.genhosppsych.2013.10.018  
+PMID:24333158
+28. Stevens FL, Hurley RA, Taber KH. Ante -
+rior cingulate cortex: unique role in cognition 
+and emotion. J Neuropsychiatry Clin Neurosci. 
+2011;23(2):121-125. https://doi.org/10.1176/
+jnp.23.2.jnp121 PMID:21677237
+29. Cerliani L, Rouw R. Increased orbitofron -
+tal connectivity in misophonia (preprint) . 
+Cold Spring Harbor Laboratory Press; 2020. 
+https://doi.org/10.1101/2020.10.29.346650
+30. Nachev P , Kennard C, Husain M. Functional 
+role of the supplementary and pre-supple -
+mentary motor areas. Nat Rev Neuroscience  
+2008;9(11):856-869. https://doi.org/10.1038/
+nrn2478  PMID:18843271
+31. Bhikram T, Abi-Jaoude E, Sandor P . OCD: 
+obsessive-compulsive … disgust? The role 
+of disgust in obsessive-compulsive disorder. 
+J Psychiatry Neuroscience  2017;42(5):300-
+306. https://doi.org/10.1503/jpn.160079  
+PMID:28375077
+32. Salvo G, Provenzano S, Di Bello M, 
+D’Olimpio F, Ottaviani C, Mancini F. Filthi -ness of immorality: manipulating disgust and 
+moral rigidity through noninvasive brain 
+stimulation as a promising therapeutic tool 
+for obsessive compulsive disorder. Clin Psy -
+chol Science . 2022;10(1):127-140. https://doi.
+org/10.1177/21677026211009508
+33. Barahmand U, Stalias-Mantzikos ME, 
+Rotlevi E, et al. Disgust and emotion dys -
+regulation in misophonia: a case for men -
+tal contamination? Int J Ment Health Ad -
+diction.  2023;21:1550–1569. https://doi.
+org/10.1007/s11469-021-00677-x
+34. Taylor S. Misophonia: A new mental dis -
+order? Med Hypotheses . 2017;103:109-117. 
+https://doi.org/10.1016/j.mehy.2017.05.003  
+PMID:28571795
+35. Olatunji BO, Sawchuk CN. Disgust: char -
+acteristic features, social manifestations, 
+and clinical implications. J Soc Clin Psychol . 
+2005;24(7):932-962. https://doi.org/10.1521/
+jscp.2005.24.7.932
+36. Tybur JM, Lieberman D, Kurzban R, DeSci -
+oli P . Disgust: evolved function and structure. 
+Psychol Rev . 2013;120(1):65-84. https://doi.
+org/10.1037/a0030778  PMID:23205888
+37. Eyal T, Dar R, Liberman N. Is disgust in obses -
+sive-compulsive disorder mediated by fear of 
+pathogens? J Anxiety Disord . 2021;77:102340-
+102340. https://doi.org/10.1016/j.janx -
+dis.2020.102340  PMID:33302175
+38. Rickelt J, de Wit SJ, van der Werf YD, et al. 
+Emotional processing and disgust sensitivity 
+in OCD patients with and without contam -
+ination-type obsessive-compulsive symp -
+toms – An fMRI study. J Obsessive Compuls 
+Relat Disord . 2019;22:100443. https://doi.
+org/10.1016/j.jocrd.2019.100443
+39. Buhr K, Dugas MJ. The role of fear of 
+anxiety and intolerance of uncertainty in 
+worry: an experimental manipulation. Be-
+hav Res Ther . 2009;47(3):215-223. https://
+doi.org/10.1016/j.brat.2008.12.004  PMID: 
+19159867
+40. Penney AM, Rachor GS, Deleurme 
+KA. Differentiating the roles of intoler -
+ance of uncertainty and negative beliefs 
+about worry across emotional disorders. J 
+Exp Psychopathol . 2020;11(4). https://doi.
+org/10.1177/2043808720970072
+41. Saulnier KG, Allan NP , Raines AM, Schmidt NB. Depression and intolerance of uncer -
+tainty: relations between uncertainty subfac -
+tors and depression dimensions. Psychiatry . 
+2019;82(1):72-79. https://doi.org/10.1080/0
+0332747.2018.1560583  PMID:30730786
+42. Pinciotti CM, Riemann BC, Abramowitz 
+JS. Intolerance of uncertainty and obsessive-
+compulsive disorder dimensions. J Anxiety 
+Disord . 2021;81:102417-102417. https://doi.
+org/10.1016/j.janxdis.2021.102417  PMID: 
+33991818
+43. Geok E-T, Lee KYC, Sündermann O. An 
+experimental investigation of intolerance 
+of uncertainty and its impact on sub-clin -
+ical psychopathology. J Behav Ther Exp Psy -
+chiatry . 2022;75:101718-101718. https://
+doi.org/10.1016/j.jbtep.2021.101718  
+PMID:35081482
+44. Tybur JM, Lieberman D, Griskevicius V. Mi -
+crobes, mating, and morality: individual differ -
+ences in three functional domains of disgust. J 
+Pers Soc Psychol . 2009;97(1):103-122. https://
+doi.org/10.1037/a0015474  PMID:19586243
+45. Freeston MH, Rhéaume J, Letarte H, Dugas 
+MJ, Ladouceur R. Why do people worry? Pers 
+Individ Dif . 1994;17(6):791-802. https://doi.
+org/10.1016/0191-8869(94)90048-5
+46. Buhr K, Dugas MJ. The Intolerance of 
+Uncertainty Scale: psychometric proper -
+ties of the English version. Behav Res Ther . 
+2002;40(8):931-945. https://doi.org/10.1016/
+S0005-7967(01)00092-4  PMID:12186356
+47. Foa EB, Huppert JD, Leiberg S, et al. The 
+Obsessive-Compulsive Inventory: devel -
+opment and validation of a short version. 
+Psychol Assess . 2002;14(4):485-496. https://
+doi.org/10.1037/1040-3590.14.4.485  
+PMID:12501574
+48. Foa EB, Kozak MJ, Salkovskis PM, Coles 
+ME, Amir N. The validation of a new 
+obsessive-compulsive disorder scale: The 
+Obsessive-Compulsive Inventory. Psychol 
+Assess . 1998;10(3):206-214. https://doi.
+org/10.1037/1040-3590.10.3.206
+49. Dugas MJ, Gagnon F, Ladouceur R, Freeston 
+MH. Generalized anxiety disorder: a pre -
+liminary test of a conceptual model. Be-
+hav Res Ther . 1998;36(2):215-226. https://
+doi.org/10.1016/S0005-7967(97)00070-3  
+PMID:9613027
+
+Peer Review: ORIGINAL RESEARCHPSYCHIATRIC ANNALS  • Vol. 53, No. 12, 2023 57950. Sarawgi S, Oglesby ME, Cougle JR. In -
+tolerance of uncertainty and obsessive-
+compulsive symptom expression. J Behav 
+Ther Exp Psychiatry . 2013;44(4):456-462. 
+https://doi.org/10.1016/j.jbtep.2013.06.001  
+PMID:23832229
+51. Tolin DF, Abramowitz JS, Brigidi BD, 
+Foa EB. Intolerance of uncertainty in 
+obsessive-compulsive disorder. J Anxi -
+ety Disord . 2003;17(2):233-242. https://
+doi.org/10.1016/S0887-6185(02)00182-2  
+PMID:12614665
+52. Oglesby ME, Boffa JW, Short NA, Raines 
+AM, Schmidt NB. Intolerance of uncer -
+tainty as a predictor of post-traumatic stress 
+symptoms following a traumatic event. J 
+Anxiety Disord . 2016;41:82-87. https://
+doi.org/10.1016/j.janxdis.2016.01.005  
+PMID:26803928
+53. Raines AM, Oglesby ME, Walton JL, True 
+G, Franklin CL. Intolerance of uncertainty 
+and DSM-5 PTSD symptoms: associations 
+among a treatment seeking veteran sample. 
+J Anxiety Disord . 2019;62:61-67. https://
+doi.org/10.1016/j.janxdis.2018.12.002  
+PMID:30572246
+54. Kim MJ, Shin J, Taylor JM, Mattek AM, 
+Chavez SJ, Whalen PJ. Intolerance of un -
+certainty predicts increased striatal volume. 
+Emotion . 2017;17(6):895-899. https://doi.
+org/10.1037/emo0000331  PMID:28517947
+55. Radua J, van den Heuvel OA, Surguladze 
+S, Mataix-Cols D. Meta-analytical com -
+parison of voxel-based morphometry stud -
+ies in obsessive-compulsive disorder vs 
+other anxiety disorders. Arch Gen Psychiatry. 
+2010;67(7):701–711. https://doi.org/10.1001/
+archgenpsychiatry.2010.70
+56. Abramowitz JS, Wheaton MG, Storch 
+EA. The status of hoarding as a symp -
+tom of obsessive-compulsive disorder. 
+Behav Res Ther . 2008;46(9):1026-1033. 
+https://doi.org/10.1016/j.brat.2008.05.006  
+PMID:18684434
+57. Calleo JS, Hart J, Björgvinsson T, Stan -
+ley MA. Obsessions and worry beliefs in 
+an inpatient OCD population. J Anxi -
+ety Disord . 2010;24(8):903-908. https://
+doi.org/10.1016/j.janxdis.2010.06.015  
+PMID:2062722558. Critchley HD, Mathias CJ, Dolan RJ. Neu -
+ral activity in the human brain relating to 
+uncertainty and arousal during anticipa -
+tion. Neuron . 2001;29(2):537-545. https://
+doi.org/10.1016/S0896-6273(01)00225-2  
+PMID:11239442
+59. Sarinopoulos I, Grupe DW, Mackiewicz 
+KL, et al. Uncertainty during anticipa -
+tion modulates neural responses to aversion 
+in human insula and amygdala. Cerebral 
+Cortex.  2010;20(4):929-940. https://doi.
+org/10.1093/cercor/bhp155
+60. Ursu S, Stenger VA, Shear MK, Jones MR, 
+Carter CS. Overactive action monitor -
+ing in obsessive-compulsive disorder: evi -
+dence from functional magnetic resonance 
+imaging. Psychol Sci . 2003;14(4):347-353. 
+https://doi.org/10.1111/1467-9280.24411  
+PMID:12807408
+61. Schaich Borg J, Lieberman D, Kiehl KA. 
+Infection, incest, and iniquity: investigating 
+the neural correlates of disgust and moral -
+ity. J Cogn Neurosci . 2008;20(9):1529-1546. 
+https://doi.org/10.1162/jocn.2008.20109  
+PMID:18345982
+62. Olatunji BO, Armstrong T, Elwood L. Is dis -
+gust proneness associated with anxiety and re -
+lated disorders? A qualitative review and meta-
+analysis of group comparison and correlational 
+studies. Perspect Psychol Sci . 2017;12(4):613-648. 
+https://doi.org/10.1177/1745691616688879  
+PMID:28651058
+63. Husted DS, Shapira NA, Goodman WK. 
+The neurocircuitry of obsessive-compulsive 
+disorder and disgust. Prog Neuropsychophar -
+macol Biol Psychiatry . 2006;30(3):389-399. 
+https://doi.org/10.1016/j.pnpbp.2005.11.024  
+PMID:16443315
+64. Abramowitz JS, Blakey SM. Overestima -
+tion of threat. In: Abramowitz JS,  Blakey 
+SM, eds., Clinical Handbook of Fear and 
+Anxiety: Maintenance Processes and Treat -
+ment Mechanisms , pp. 7–25. American Psy -
+chological Association; 2020. https://doi.
+org/10.1037/0000150-001
+65. Steketee G, Frost R, Amir N, et al; Obses -
+sive Compulsive Cognitions Working Group. 
+Development and initial validation of the 
+obsessive beliefs questionnaire and the in -
+terpretation of intrusions inventory. Behav Res Ther . 2001;39(8):987-1006. https://
+doi.org/10.1016/S0005-7967(00)00085-1  
+PMID:11480839
+66. Rouw R, Erfanian M. A large-scale study of 
+misophonia. J Clin Psychol . 2018;74(3):453-
+479. https://doi.org/10.1002/jclp.22500  
+PMID:28561277
+67. Liu J, Yuan B, Luo YJ, Cui F. Intrinsic 
+functional connectivity of medial prefron -
+tal cortex predicts the individual moral bias 
+in economic valuation partially through 
+the moral sensitivity trait. Brain Imag -
+ing Behav . 2020;14(5):2024-2036. https://
+doi.org/10.1007/s11682-019-00152-1  
+PMID:31250264
+68. Filley CM, Kletenik I, Churchland PS. 
+Morality and the brain: the right hemi -
+sphere and doing right. Cogn Behav Neurol . 
+2020;33(4):304-307. https://doi.org/10.1097/
+WNN.0000000000000253  PMID:33264160
+69. Eijsker N, Schröder A, Smit DJA, van Win -
+gen G, Denys D. Structural and functional 
+brain abnormalities in misophonia. Eur Neu -
+ropsychopharmacol . 2021;52:62-71. https://
+doi.org/10.1016/j.euroneuro.2021.05.013  
+PMID:34273684
+70. Jacoby RJ, Blakey SM, Reuman L, Abramow -
+itz JS. Mental contamination obsessions: an 
+examination across the obsessive-compulsive 
+symptom dimensions. J Obsessive Compuls 
+Relat Disord . 2018;17:9-15. https://doi.
+org/10.1016/j.jocrd.2017.08.005
+71. Dougherty DD, Brennan BP , Stewart SE, 
+Wilhelm S, Widge AS, Rauch SL. Neu -
+roscientifically informed formulation and 
+treatment planning for patients with obses -
+sive-compulsive disorder: a review. JAMA Psy -
+chiatry.  2018;75(10):1081-1087. https://doi.
+org/10.1001/jamapsychiatry.2018.0930
+72. Shephard E, Stern ER, van den Heuvel OA, et 
+al. Toward a neurocircuit-based taxonomy to 
+guide treatment of obsessive-compulsive dis -
+order. Mol Psychiatry . 2021;26(9):4583-4604. 
+https://doi.org/10.1038/s41380-020-01007-8  
+PMID:33414496
+73. Park HR, Kim IH, Kang H, et al. Electrophys -
+iological and imaging evidence of sustained 
+inhibition in limbic and frontal networks fol -
+lowing deep brain stimulation for treatment 
+refractory obsessive compulsive disorder. PLoS
+
+580  Copyright © SLACK Incorporated
+Peer Review: ORIGINAL RESEARCHOne. 2019;14(7):e0219578-e0219578. https://
+doi.org/10.1371/journal.pone.0219578  
+PMID:31323037
+74. Carmi L, Tendler A, Bystritsky A, et al. Effi -
+cacy and safety of deep transcranial magnetic 
+stimulation for obsessive-compulsive disor -der: a prospective multicenter randomized 
+double-blind placebo-controlled trial. Am J 
+Psychiatry . 2019;176(11):931-938. https://
+doi.org/10.1176/appi.ajp.2019.18101180  
+PMID:31109199
+75. Lewin AB, Dickinson S, Kudryk K, et al. Transdiagnostic cognitive behavioral therapy 
+for misophonia in youth: methods for a clini -
+cal trial and four pilot cases. J Affect Disord . 
+2021;291:400-408. https://doi.org/10.1016/j.
+jad.2021.04.027  PMID:34001373
+
+Reproduced with permission of copyright owner. Further reproduction
+prohibited without permission.

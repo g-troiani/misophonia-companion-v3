@@ -1,0 +1,964 @@
+For any issues with this document, please contact your library.
+
+____________________________________________________________________________________
+
+Title: Affective computingAffective Computing IEEE Transactions onTACInstitute of Electrical and Electronics Engineers transactions on affective computingIEEE transactions on affective computing. ArticleTitle: Threat Perception Captured by Emotion, Motor and Empathetic System Responses: A Systematic Review
+
+ArticleAuthor: Jacobs
+
+Pages: 1-22
+
+ISSN - 23719850;
+
+Publisher: 2023-01-01
+
+Source: LibKeyNomad
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+## Threat Perception Captured by Emotion, Motor and Empathetic System Responses: A Systematic Review
+
+E. M. Jacobs, F. Deligianni., and F. Pollick
+
+Abstract - The fight or flight phenomena is of evolutionary origin and responsible for the type of defensive behaviours enacted, when in the face of threat. This review attempts to draw the link between fear and aggression as motivational levers for fight or flight defensive behaviours. Furthermore, this review investigates whether human biological motion is modulated by the affective behaviours associated with the fight or flight phenomenon. It examines how threat informed emotion and motor systems have the potential to result in the modulation of empathetic appraisal. This is of interest to this systematic review, as empathetic modulation is crucial to prosocial drive, which has the potential to alleviate the perceived threat. Hence, this review investigates the role of affective computing in capturing the potential outcome of threat perception and associated empathetic responses. To gain a comprehensive understanding of the affective responses and biological motion evoked from threat scenarios, affective computing methods used to capture these neurophysiological and behavioural responses are discussed.
+
+A systematic review using Google Scholar and Web of Science was conducted as of 2023, and findings were supplemented by bibliographies of key articles. A total of 26 studies were analysed from initial web searches to explore the topics of empathy, threat perception, fight or flight, fear, aggression, and human motion. Relationships between affective behaviours (fear, aggression) and corresponding motor defensive behaviours (fight or flight) were examined within threat scenarios, and whether existing affective computing methods are effective in capturing these responses, identifying the varying consensus in the literature, challenges, and limitations of existing research.
+
+Index Terms - Affective Computing, Emotion Contagion, Emotional Rapport, empathy and resonance, Virtual reality, Emotion theory
+
+----------
+
+--------
+
+## 1      INTRODUCTION
+
+HE  goal  of  this  review  is  to  identify  the  relationship between fear and aggression and fight or flight behaviours. Our  second  aim  is  to  investigate  how  the  underlying neurophysiological  responses  along  with  these  human motion  defence  behaviours  are  accurately  portrayed  and captured with the help of current computing methodologies. Thirdly, this review intends to investigate what threat perspective factors promote empathetic responses in observers. With emphasis on affective computing  methods,  this  systematic  review  intends  to explore  existing  methods  used  to  evoke  these  affective responses and to measure corresponding motor states and prosocial actions. Our ability to comprehensively understand  the  relationship  between  emotion  and  motor systems, as modulated by threat perception, is dependent on  the  affective  computing  methods  used  to  evoke  and capture these states. Furthermore, empathetic appraisal is of great  relevancy  to  threat  research,  as  empathy  plays  a crucial role within T
+
+----------------
+
+- · E. M. Jacobs is with the SOCIAL AI CDT, a collaborative center for doctoral training between the University of Glasgow and UKRI, G12 8QQ.  E-mail: 2694507j@student.gla.ac.uk.
+- · F.Deligianni is with the School of Computing Science, University of  Glasgow, G12 8QQ.  E-mail: fani.deligianni@glasgow.ac.uk
+- · F. Pollick. is with the School of Psychology and Neuroscience, University of Glasgow, G12 8QQ. E-mail: frank.pollick@glasgow.ac.uk.
+
+prosocial behaviours. Hence, to facilitate prosocial behaviours towards the vulnerable, a greater understanding of the relationship between threat perception and empathy ought to be achieved.
+
+Unfortunately, this systematic review revealed that literature investigating these components is scarce, with a focus  on  behavioural  responses  in  animals,  phobics  and outgroup threat. Furthermore, it is only in recent years that researchers  have  begun  to  utilise  the  advancements  of affective computing to measure and evaluate the extensive relationship between emotions and motor systems [1]. The link between motor empathy and fear defensive responses, is  substantiated  by  studies  investigating  the  absence  of regular emotion appraisal, as observed by the lack of motor empathy  and  fear  responsivity  in  youth  with  atypical emotion recognition [2].
+
+Consequently, this review aims to summarise the literature that  has  measured  the  presence  of  defensive,  affective behaviours and empathetic appraisal, within interpersonal threat. Thus, this review intends to facilitate the understanding of interpersonal threat perception, its impact on fear, aggressive, empathetic affective responses, and motor responses. As a result, existing, and more novel methods  of  measurement  will  be  reported  within  this review,  to  provide  a  comprehensive  scope  on  the  threat perception literature. This review is relevant to behavioural  and  human-computer  interaction  scientists, who  intend  to  investigate  threat  perception's  impact  on eliciting  affective  and  motor responses, while expanding
+
+Our systematic review portrays a novel contribution to the maturing body of threat perception and affective computing research, through the provision of a comprehensive synthesis of  the  existing  literature  on the  relationship  between threat perception,  affective  and  motor  systems.  This  review  was conducted  rigorously,  using  the  PRISMA  methodology  to examine,  select  and  analyse  relevant  studies  [3].  Hence,  it offers unique insights into this complex field of emotion and threat research, providing valuable intuition for future practice within this field. 2
+
+Fig. 1. Overview of the relationship between threat perception and behavioural outcomes, as identified within this systematic review.
+
+## CONCEPTS
+
+## 2.1 Fear
+
+A table of abbreviations (Table 1) and a diagram (Figure 1) depicting  the  relationship  between  threat  perception,  fear, aggression,  and  their  corresponding  cognitive,  behavioural and affective responses are included for the reader's clarity.
+
+| TABLE 1 TABLE OF ABBREVIATIONS    | TABLE 1 TABLE OF ABBREVIATIONS   |
+|-----------------------------------|----------------------------------|
+| Name                              | Abbreviation                     |
+| Virtual Reality                   | VR                               |
+| Medial prefrontal cortex          | mPFC                             |
+| Electromyography                  | EMG                              |
+| Magnetic resonance imaging        | MRI                              |
+| Skin conductance rate             | SCR                              |
+| Interpersonal Reactivity Index    | IRI                              |
+| Transcranial magnetic stimulation | tMS                              |
+| Magnetoencephalography            | MEG                              |
+| Electrocardiogram                 | ECG                              |
+| Electroencephalogram              | EEG                              |
+| Positron emission tomography      | PET                              |
+| Autonomic Nervous System          | ANS                              |
+| Central Nervous System            | CNS                              |
+| Heart Rate Variability            | HRV                              |
+| Periaqueductal grey               | PAG                              |
+| Extrastriate body area            | EBA                              |
+| Fusiform body area                | FBA                              |
+| Interactive virtual environments  | IVE                              |
+| Reaction time                     | RT                               |
+| Behavioural inhibition system     | BIS                              |
+| Region of interest                | ROI                              |
+| Heart rate deceleration           | HRD                              |
+| Default Mode Network              | DMN                              |
+| Inferior frontal gyrus            | IFG                              |
+
+Fear is defined as a biologically basic emotion, to promote one's own  survivability.  However,  the  role  of fear is conceptualised differently by varied emotion models. Different emotion  theories of fear have attempted to characterise  the  different  variations  of  fear.  For  instance, evolutionary fear is characterised as an instance of a basic survival system [5]. Meanwhile, modular models of emotion view fear as either phobic, the reflection of the operations within brain modules, or a response to pain, predators, and conspecific aggressors in one's environment [5].  The  State Affect-Related  theory  depicts  emotions  discretely  which provokes an individual to mentally focus on a specific set of actions [6]. This theory is substantiated by the experience of fear  activating the  fight-or-flight  response  [7].  Meanwhile, the Polyvagal Theory claims that affective states influence neurobiological  responses  of  an  individual,  establishing  a relationship between measurable physiological phenomena like  heart  rate  and  the  affective  state  of  an  individual  [8]. Hence, fear is often quantified by physiological arousal and reflected in fight or flight behaviours.
+
+Fear  is a central state of an  organism,  shaping  one's conscious  experience  and  fear  behaviours  that  emerge consequently [9]. As a result, fear is a prevalent affective state in our ever-changing, unpredictable society. Fear promotes adaptive behaviours to increase one's survivability, priming individuals to detect varied threats within their surroundings.  The  innate  nature  of  fear  was  honed  by evolutionary  pressures,  hence,  prior  experience  with  the feared stimulus is not required to evoke defensive responses [10].  Specialised  neural  circuits  have  evolved  over  time, enabling individuals to detect danger within split-seconds [10].  Context-dependency  of  fear  is  observed  in  terms  of eliciting circumstances  (fight or flight), type of threat present (predator or conspecific) and predatory imminence, allowing the individual to enact voluntary and involuntary behaviours such as active defence, risk assessment movement inhibition and physiological responses [9]. Passive threat and change in one's environment  can  also  promote  feelings  of  fear.  Defensive behaviour  intensity  is commonly  modulated  by  threat distance, as proximal threats require more urgent responses, unlike  distal  threats  [10].  As  a  result,  fear  is  contextdependent  on  factors  like  distance  and  stimulus  types, linking  stimuli  to  flexible  patterns  of  behaviours  and  can exist prior to or after the eliciting stimuli [9]. Consequently, fear  enables  individuals  to  quickly  act  upon threat by prioritising  its  urgency  and  increasing  the  execution  of survival behaviours.
+
+## 2.2 Aggression
+
+Beyond fear, as a defence strategy, an individual has the propensity to act aggressively in the face of a threat. The choice to exercise fight or flight behavioural responses can potentially  be  explained  by  the  difference  in  emotional ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+dominance. Fear and aggression are both deemed as high arousal and low valence emotive states by the Mehrabian's Pleasure,  Arousal  and  Dominance  model  [11].  However, this  three-dimension  emotion  model  measures  emotions through  valence,  arousal  and  dominance,  categorising anger  as  a  dominant  emotion  and  fear  as  a  submissive emotion  [11].  Thus,  combative  fight  behaviours  are  the exercise  of  dominance,  through  displays  of  aggressive motor responses.
+
+Aggression  is  the  result  of  the  combination  of  neural, endocrine, and behavioural mechanisms, which have phylogenetically evolved over time to accommodate splitsecond decisions and responses [12]. Aggression is prevalent as a  behavioural response to impending threats and  can  be  categorised  into  either  reactive  aggression  or instrumental aggression [13]. Reactive aggression is defined as a response drawn out of provocation, while instrumental aggression is caused by feelings of anger [13].  Hence,  the likelihood  of  an  individual  responding  aggressively  to threat, is dependent on both cognitive inhibition of aggressive acts and the predetermined tendency of one to react defensively [14].
+
+Instrumental and reactive aggression are both mediated by the presence of integral emotions, which are emotions that evoke strong motivations and behaviour with little thought [15].  For  instance,  individuals  may  behave  aggressively instead of passively, when provoked via physical altercation,  to  exercise  dominance  [16].  Hence,  defence mechanisms are behavioural outcomes shaped by integral emotions. This phenomenon is explained by hostile attribution  bias,  whereby  the  attribution  of  hostile  and dominance intent towards the attacker increases with the increase of hostile emotions experienced [17]. Consequently, hostile intent to dominate a threat promotes aggressive behaviour in actors, despite potential consequences [18]. Hence, the role of emotion recognition in  analysing  hostile  intent  is  crucial  in  the  decision  to engage  in  a fight. Thus,  integral emotions  may  bias defensive  responses,  resulting  in  aggressive  behaviours towards provocations.
+
+Despite anger being associated with instrumental aggression, threat events are more than capable of evoking both anger and fear [19]. Furthermore, protective forms of aggression  are  often  the  result  of  fear-motivation  [20], which displays differently from anger-induced aggression, in emotional expression, biological motion and neural bases [21].  Hence,  the  next  section  of  this  review  attempts  to illustrate  the  relationship  between  fear  and  aggression, within fight or flight behaviours.
+
+## 2.3 Fight or Flight
+
+Defensive behaviours elicit motor responses, as observed by fleeing (increasing distance from danger) and fighting (dissuading  provocative  action)  [22].  The  fight  or  flight phenomena is theorised to have been born out of survivalrelated  abilities,  like  fear  and  aggression  circuits,  whereby ecological rules govern fixed defensive responses [14]. Cognitive flexibility is crucial to the fight or flight Regardless of the imposed behavioural binary from fight or flight, the conditional effect of emotions colours the associations  between  behavioural  intentions  and  actions [30]. This results in individuals potentially undervaluing, Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+phenomenon, as  it is the  ability  to  flexibly  adapt  one's processing  to  environmental  threats  [23].  This  flexibility  is dependent on one's executive control, by shifting attentional resources  towards  the  threat,  whilst  inhibiting  nonrelevant information [24]. Thus, cognitive flexibility is essential in the face of threat, as it redirects cognitive and attentional sources towards fight or flight survival circuits. This results in innate fight or flight motor responses being enacted whilst a threat is present.
+
+There is limited human literature investigating the relationship of fight or flight behaviours within active threat. Instead, research typically displays threats retrospectively, and in such lab-based scenarios, individuals might not be forced  into  the  split-second  dichotomy  of  fight  or  flight behaviours.  Furthermore,  studies  that  do  investigate  this phenomenon tend to review this complex relationship on a surface level, whereby aversive behaviours associated with flight  behaviours  are  assumed  to  be  devoid  of  aggressive behaviours or emotional states. For instance, studies investigating  motivational  approach  tendencies  within  a threat scenario, have attributed strong approach motivation and startle response inhibition to high trait anger [25]. These studies  analyse  threats  from  a  retrospective  perspective, asking for reflections  on  past  emotions  of  fear  and  anger, rather  than  the  present  emotions  elicited  from  an  active threat. Such  findings are often  not  substantiated  with psychophysiological evidence  like  brain  neuroimaging,  or physiological measurements;  thus, negative affects are investigated  solely  by  one's  willingness  to  approach  or avoid.
+
+Furthermore,  the relationship between  fear  and  anger within threat scenarios are often quantified by the fight or flight phenomenon.  By  measuring  fear  through  startle responses, fearful behaviour  is quantified by aversive behavioural responses, over aggressive confrontational behaviours [25]. Meanwhile, approach motivation is associated with aggression and results in the inhibition of startle responses. However, fear or aggression as depicted by fight  or  flight  phenomenon  is  not  mutually  exclusive,  as observed by the emergence of defensive aggression [26].
+
+Defensive aggression is rooted in fear with the sole purpose of  eliminating  threats  within  one's  proximity  by  reducing arousal and maintaining safety [27]. Limited clinical studies have  shown  that  the  effect of fear can  result in the precipitation  of  aggression  in  response  to  threat  [28].  In contrast,  threat  literature  often  views  fear  and  aggression responses as not mutually exclusive, whereby if an individual interprets a situation as threatening, it is believed an  individual  would  opt  for  threat  avoidance  behaviours over approaching the threat [14]. Despite reactive fear being frequently linked with flight behaviours, over fight behaviours, individuals can engage in pre-emptive defensive aggression when encountering threats [29].
+
+overvaluing, and even neglecting the risks and costs of the
+
+desired action [29]. Consequently, the best way to determine whether an individual resorts to aggressive-related or avoidancerelated behaviours, is through observing neurobehavioural responses to provocations, as quantified by affective  and  motor  states  [14].  Hence  for  the  sake  of  this review,  defensive  behaviours  of  fight  or  flight,  will  be examined  in  relation  to  emotive  responses  of  fear  and aggression, evoked from the presentation of threat.
+
+## 2.4 Threat Perception
+
+Darwin's  evolutionary  theory  states  that  adaptive  motor behaviours are primed to react to emotion-eliciting contexts due to closely interacting emotion and motor systems [31]. Furthermore,  the  presence  of  threatening  stimuli  can  be signaled interpersonally via social and negative emotional cues to mediate motor responses. Negative emotional cues include aggression or fear, which can spur the observer into fight or flight [32]. These emotional cues are thought to be processed by the posterior cerebellum, which is responsible for emotion  regulation,  to  promote  threat  preparation mechanisms based on these prediction mechanisms, which are informed by emotional cues [32].
+
+For instance, an individual expressing a fearful expression may  be  signalling  imminent  danger  while  an  aggressive expression  may  indicate  themselves  as  the  dominating threat.  Upon witnessing both expressions, the observer is informed of two different situations that can regulate their defensive behaviours. Hence, when these cues are expressed  by  other  agents  in  a  social  situation,  these emotional  signals  can  convey  imminent  danger  within one's surroundings to the perceiver, alerting the observer to take the appropriate defensive action [30]. In some cases, the observation  of  another's  response  to  threat  can  evoke empathetic behaviours in observers. This systematic review intends  to  substantiate  the  complex  relationship  between fear and aggression through the fight or flight phenomenon, in the face of threat. Furthermore, this review intends to explore how  empathetic  appraisal can be facilitated within  an  observer  to  another  experiencing threat.
+
+## 2.5 Empathy
+
+Empathy is defined as experiencing other-oriented emotional responses, which are evoked and congruent with the perceived emotion of another in need [33]. Other sources of empathy include perspective-taking and concern for another's welfare [34]. Similarity of experience is believed to contribute towards empathy, whereby a sense of unity can be fostered upon observation of similar responses and mutual life events, regardless of cultural differences [35].
+
+has experienced prior [35].
+
+Empathy is believed to promote emotion regulation during conflict, by providing individuals with an empathetic lens to reframe the current situation, thus, understanding another's perspective [37]. Emotional regulation provides the opportunity  to  modulate  how  an  emotion  is  experienced and the consequent action that emerges from the emotion [37]. Outcomes of empathetic emotion modulation include prosocial  behaviour  and  social  bonding,  by  compelling individuals  to  aid  others  [38].  The  interaction  of  multiple neural circuits related to emotional, motivational, cognitive, and behavioural functions are responsible for these prosocial outcomes [39].
+
+However, despite the relevance of empathy towards threat perception research, research on empathy tends to investigate the deficit of empathy rather than the presence of it, with priority on the inability to respond to a victim's distress [40]. Furthermore, there is lacking research investigating  the  regulation  of  threat  arousal  [23],  nor  is there much research on empathy examined from a bystander's position. This review aims to provide additional understanding  on  the  influence  of  empathy  on  emotion regulation and threat perception.
+
+## 2.6 Materials and Methods
+
+The systematic review presented in this article was conducted in three steps -Planning, Selection and Critical Analysis  of  Results  [41].  For  Planning,  a  protocol  was defined, and the research questions are presented in Table 2.
+
+TABLE 2 RESEARCH QUESTIONS
+
+| #   | Research Questions                                                                                                  |
+|-----|---------------------------------------------------------------------------------------------------------------------|
+| RQ1 | Arefear andaggression linked within threat? Dofight or flight behaviours result from this relationship?             |
+| RQ2 | Can biological human motion portray and capture measurable affective states from the fight or flight phenomenon?    |
+| RQ3 | What factors of threat perception modulates empathetic responses and how are these measured by affective computing? |
+| RQ4 | How do empathetic appraisals result in prosocial behaviour, and has this been measured by affective computing?      |
+
+A computerised search was performed on Google Scholar and Web of Science for relevant articles. A combination of keywords was used in the searches. The first combination of key terms was: ('biological motion', 'empathy', 'aggression', 'fear', 'virtual reality'). The second combination  of  key  terms  included ('threat',  'empathy', 'fight  or  flight').  The  third  search  included,  ('threat', 'vicarious  fear').  The  fourth  search  included  the  words ('defensive aggression', 'threat', 'fear').  The next  search included 'threat', 'fear', 'empathy'). The fifth search was a combination of the key terms ('human motion',
+
+Empathy  is  the mutual  sharing of experiences and  is facilitated by emotional congruence with another individual in need [33]. Empathy operates at various levels of generality, whereby  similarity  of  experiences  can  range immensely from  a  precise  match  to  a  common denominator [35]. As a  result,  to  cognitively  empathise  with  another  individual, one need not undergo the exact same experience as the other. But  rather,  empathy  can  be  evoked from generalised experiences that resemble a situation that the empathiser ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+'perspective taking', -'empathy', 'virtual reality'). The results that were gleaned from this conducted search were as of January 2023.
+
+In the Selection  step, the following  inclusion  (I) and exclusion (E) criteria was adopted:
+
+- (I1) Articles that address the impact threat perception has on fear, aggression, and empathetic appraisals.
+- (I2)  Articles  published  and  fully  available  on  scientific databases.
+- (E1) Studies not published in English.
+- (E2) Studies investigating non-human species.
+- (E3) Studies that investigated and utilised nonneurotypical subjects.
+
+(E4) Studies that did not undergo peer review.
+
+A summary of these criteria is depicted in Fig. 2.
+
+Additionally,  the  following  quality  criterion  was  defined: works  that  comprehensively  investigate  and  measure  the effect of threat perception  on  the  relationship  between  Social emotion  and  motor  systems.  Furthermore,  studies  that  Desirability, examined vicarious threat learning through embodied  and IRI. perspective  taking  and  VR  methods,  were  included.  This criterion  was  applied  during  the  full  reading  of  the  text. Studies that met both the inclusion criteria and the quality  postural criterion  were  included  in  Table  3.  After  the  records  were screened,  72  studies  were  excluded  for  not  meeting  our inclusion criteria.
+
+Affect ScheduleExtended Form.
+
+Zuckerman -Kuhlman personality questionnaire. (153f) 193
+
+VR to mediate Baseline physiological signals, like heart rate deceleration, VR immersion Questionnaire, 50
+
+Fig. 2. Overview of the systematic review process
+
+TABLE 3
+
+OVERVIEW OF EMPIRICAL STUDIES REFERENCED
+
+| Measurement Methods                                                                           |   No. of Participants | Results                                                                                              | Research Questions answered   |
+|-----------------------------------------------------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------|-------------------------------|
+| State fear, blood pressure, and heart rate, Traumatic Life Events Questionnaire, Positive and |                    20 | Attention bias to threat was positively associated with in vivo aggression. Greater attentional bias | RQ1, RQ2                      |
+
+Spatial and characteristics of body extracted from skeleton and joint  data. NA
+
+Mean valence ratings for body motion point-light stimuli, gait measurements, response ratings, SCR.
+
+Self-report of affect sharing
+
+VR
+
+paradigm to mediate pre
+
+and post
+
+VR
+
+fMRI
+
+brain processing,
+
+IRI,
+
+Buss-
+
+Perry
+
+Aggressivenes
+
+s
+
+Questionnaire
+
+SCR,
+
+State-
+
+(39f) 76
+
+(33f) 66
+
+14
+
+(35f) 56
+
+RQ1, RQ2, RQ,3 RQ4
+
+RQ2, RQ3, RQ4
+
+Trait
+
+Anxiety
+
+Observation of another's threat
+
+Negative
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+Inventory reactions can
+
+to threat was ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information.
+
+associated with less escape
+
+behaviour, within fear
+
+conditions.
+
+There is
+
+disconnection between
+
+aggressive behaviour
+
+negative affective
+
+states accompanying
+
+avoidance motivation
+
+within the
+
+behavioural inhibition
+
+system.
+
+Embodiment from
+
+a
+
+child's perspective
+
+during conflict in
+
+VR
+
+impacts emotion
+
+recognition, physiological
+
+reactions, and
+
+attitudes towards
+
+violence.
+
+Method achieves higher recognition accuracy on emotion expression (happy,  sad,  fear, anger) classifications.
+
+RQ3
+
+Motion display influences automatic motivational tendencies R1, RQ2, RQ3
+
+Greater
+
+RQ2, RQ3, RQ4
+
+empathic responses
+
+towards a virtual human's
+
+pain when
+
+present they
+
+natural postural
+
+oscillations.
+
+First-person perspective  of  a
+
+virtual violent
+
+situation impacts emotion
+
+recognition through
+
+DMN
+
+activity modifications.
+
+a
+
+and
+
+RQ1, RQ2
+
+RQ1, RQ2, RQ3, RQ4
+
+|                                                                              |          | recover associations previously shaped by direct, firsthand aversive experiences.                                                                |                    | (happy, angry, sad, shock, surprise, disgust), forced-choice decision between possible   |            | perspective by delineating mapping from facial features.                                                                                                  |               |
+|------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| Reaction time, heart rate, IRI.                                              | 98       | Defensive states that drive active escape from imminent danger may facilitate decisions to help others, by engaging neurocognitive systems (ie.  | RQ2, RQ3, RQ4      | expressions, reaction time. SCR, heart rate, Ego- Resilience Scale.                      | (172f) 300 | Individuals with higher trait resilience and individuals with higher resting heart rate variability showed more regulation in                             | RQ3           |
+| 3D motion features and temporal features extracted for body motion analysis. | 30       | The emotion recognition system achieved recognition accuracy of 90.0% during walking, 96.0% during sitting, and 86.66% in an action- independent | RQ1, RQ2           | MEG.                                                                                     | (172f) 297 | experience. Dorsal brain structures such as the intraparietal sulcus and parietal regions of the brain are essential to the perception of fearful bodies. | RQ1, RQ2, RQ3 |
+| EEG, IRI                                                                     | (12f) 25 | scenario. Expected pain of others induced stronger empathic responses as observed by P3 EEG signals.                                             | RQ3, RQ4           | tMS, EMG and 5-point Likert scale to rate arousal, valence and perceived movement.       | (15f) 28   | Extremely rapid bilateral modulation of the motor cortices occurs upon seeing emotional                                                                   | R1, RQ2, RQ3  |
+| Face-Body Compound emotion recognition test was administered pre and         | 39       | After embodying a female victim, offenders improved in ability to 6ecognize fearful female faces and                                             | RQ1, RQ2, RQ3, RQ4 |                                                                                          |            | bodies, with stronger suppression of motor readiness when seeing fearful bodies.                                                                          |               |
+| post VR Paradigm, Face-Body Compound test, Social Desirability Scale         |          | reduced their bias towards recognizing these expressions as happy.                                                                               |                    | Reaction time and 9-point Likert scale of unpleasantnes s                                | (52f) 93   | Findings demonstrated that approaching threats elicit freezing in humans.                                                                                 | RQ1, RQ2      |
+| Full body motion behaviour, head tracking, ECG, SCR, EMG and Subjective      | (9f) 12  | High inter-rater agreement of aggression and dominance variance was observed for actors, who engaged in overt                                    | RQ2, RQ3           | EEG, subjective measurements of stimuli's pain                                           | (13f) 22   | Results indicate that specific social contexts can modulate neural responses to observing another's pain.                                                 | RQ3, RQ4      |
+| rating of fearfulness. Facial                                                |          | behaviour, over the naive participants.                                                                                                          |                    | Startle response, E MG,                                                                  | (40f) 40   | High emotional reactivity to threat suppresses                                                                                                            | RQ1, RQ2      |
+| photographs displaying all 6 basic                                           | NA       | Better understanding of the processing of emotion from                                                                                           | RQ1, RQ3, RQ4      | Reaction time, MRI, State-trait anxiety                                                  |            | recruitment of the mentalizing network                                                                                                                    |               |
+
+emotions an observer's inventory, (temporal  poles, ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+Behavioral
+
+Inhibition
+
+System
+
+Behavioral
+
+Activation
+
+System scales,
+
+Buss and Perry
+
+Aggression
+
+Questionnaire.
+
+Functional
+
+magnetic
+
+resonance
+
+imaging
+
+(fMRI)  and  7-
+
+point
+
+Likert
+
+scale
+
+measuring
+
+emotional
+
+quality.
+
+(9f) 18
+
+Amygdala
+
+activity
+
+was
+
+mediated
+
+by
+
+emotional
+
+intensity and has
+
+a
+
+role
+
+beyond
+
+disambiguating
+
+stimuli.
+
+RQ1, RQ2
+
+Startle- eyeblink response, Differential Emotions
+
+Scale.
+
+(23f) 23
+
+Trait anger is associated with approach- related motivational response.
+
+RQ1, RQ2
+
+Neural and pained expressions  of faces, semantic stimuli of words denoting pain.
+
+NA
+
+Cortical
+
+responses
+
+support the
+
+threat of pain
+
+hypothesis
+
+whereby
+
+imminent pain is
+
+the source of
+
+arousal due to
+
+anticipation of
+
+attention
+
+towards threat.
+
+RQ2, RQ3
+
+fMRI,
+
+self-
+
+reports
+
+of
+
+emotion.
+
+(11f) 20
+
+Neural correlates brain regions and self- reported feelings of compassion.
+
+RQ3, RQ4
+
+Heartrate
+
+variability,
+
+posturographi
+
+c
+
+measurements,
+
+Spielberger
+
+State-Trait
+
+Anxiety
+
+Inventory.
+
+(50f) 50
+
+Posturographic analyses showed that  angry  faces resulted in significant body sway reductions. This reduced body  sway  was accompanied  by bradycardia  and correlated significantly with subjective anxiety.
+
+RQ1, RQ2
+
+Attentional task, laser stimulation for pain, PET
+
+17
+
+RQ1, RQ2
+
+Orbitofrontal cortices, contralateral (right) amygdala, and
+
+mPFC, precuneus, temporo-parietal junction)
+
+posterior insula was found to display increased responses to unpleasantness.
+
+## 4 THREAT PERCEPTION, AFFECTIVE AND DEFENSIVE BEHAVIOURAL RESPONSES
+
+## 4.1 Fear and Aggression Influencing Threat Perception to Modulate Fight or Flight Behaviours
+
+Fight  or flight defence  mechanisms  are  dependent  on perceived threat imminence and are coordinated by organised  neural  networks  that  have  evolved  over  time, resulting in split-second decisions that aim to avoid or deter impending  threat  [42].  As  a  result,  negative  stimuli  can rapidly trigger fight or flight motor responses [32]. Emotion cues such as fear and aggression result in motor defensive behaviours due  to the extensive relationship between emotion perception and action systems. The neural function for fear perception is characterised by rapid and automatic processing, while anger perception is dependent on conscious  processing  [43].  Due  to  the  rapid  nature  of automatic processing,  fear  is  the  most  strongly  associated emotional state with defensive behaviours, controlling when an  individual  resorts  to  fleeing  or  freezing  [44].  Threat perception motivates the adaptability of survival behaviours in  humans,  through  the  ability  of  an  individual  to  be cognitively flexible, direction attentional and  cognitive resources to fight or flight behaviours [28].
+
+The  relationship between  neural  structures  and  threat perception is so prominent, that defensive motor reactions are influenced through the passive observation of emotionally aversive and arousing stimuli [45]. The interconnected neural architecture involved in threat detection  consists  of  cortical  and  hippocampal  circuits, towards attention systems like the amygdala, striatum, and defensive circuits within the midbrain [46]. These networks are  crucial to an  individual's  ability  to  be  cognitively flexible. Hence, due to survival pressures, neural networks are dedicated to processing fear and threat, in attempts of balancing homeostatic environmental threats and outsmarting  predators  [46].  These  neural  networks  are theorised  to  operate  as  a  threat  orienting  network,  by assessing threatening stimuli before guiding motor actions crucial to minimise potential harm [46]. However, there is limited  neuroimaging  literature  exploring  human  threat perception  scenarios.  Thus,  human  research  within  these interpersonal threat paradigms is limited.
+
+Various  brain  regions  have  been  speculated  to  play  a significant role towards aggression, fear, and threat
+
+promote  reflexive  and  subconscious  threat  responses,  like physiological reactions and defensive actions [28]. Meanwhile, cortical regions mediate cognitive processing of threat information, via prior learning and ongoing physiological  sensations,  promoting  feelings  of  conscious fear  [47].  Regarding  aggression,  the  stimulation  of  cortical regions such as the PAG, amygdala and hypothalamus have been theorised to comprise a rage circuit [48]. Similarly, when within a threat's proximity, activity in the PAG is observed [49], with its stimulation resulting in fear-induced symptoms of terror and the desire to escape the situation [50].
+
+Fear cues are perceived differently from other emotive cues, as  observed by distinguished neural responses to differing emotive  stimuli.  A  study  investigated  cortical  mechanisms involved  in  the  implementation  of  motor  and  emotional responses,  in  the  presence  of  fear-evoking  cues  [51].  The hypothesis that the observer's motor cortex readily suppresses  motor  readiness  towards  neutral stimuli,  when observing fearful body cues, was measured by corticospinal excitability. Pictures depicting emotive body language were observed, with fearful images  resulting in intracortical suppression,  unlike  happy  images  [51].  Findings  indicated that when  perceiving  emotional  bodies,  rapid  bilateral modulation of  motor  cortices  occurs,  while  fearful  bodies evoke stronger motor readiness suppression [51]. Hence, fear driven  emotive  bodies  are  not  only  cognitively  distinctive from happy emotive bodies from an observer's standpoint, but they also promote motor readiness for defensive actions. Thus, providing neurophysiological support for the evolutionary relationship between emotional perception and action  systems,  enabling  the  quick  mobilisation  of  motor reactions [51].
+
+Fearful body cues are prioritised in perception, as observed by distinctive brain regions sensitive to fear cues  and  their neural processing differences. Brain regions sensitive to fear have been identified and support the hypothesis that fearful body cues are perceived differently.  For  instance,  both  the EBA  and  the FBA  have  been identified as central to expression  recognition  [52].  However,  fear  modulation has only been found in the EBA, unlike the FBA, due to the EBA playing a crucial role between motor and perceptual processes [52].  Furthermore, threat perception was correlated with high levels of neuroticism, since these individuals tend to experience higher and more frequent levels of anxiety [53]. Thus, certain traits like neuroticism can further prime brain regions to fearful body cues, thus, promoting threat perception [53].
+
+Furthermore,  MEG  measurements  have  identified  fearful bodies being processed 80ms earlier than neutral bodies in the right parietal cortex, providing evidence for the emotionattention-action link within the dorsal visual stream, which is crucial for motion analysis [54]. Hence, fearful stimuli promotes cognitive flexibility of attentional source relocation. The preference for  processing  fearful  stimuli  was  observed  by  the  faster processing of fearful body expressions than neutral or happy expressions, by event-related potentials [55].
+
+4.2 Fear and Aggression as Measurable
+
+Affective responses are psycho-physical phenomena measuring emotional states through valence and arousal. Valence  is  the  evaluation  of  stimuli  on  a  positive-tonegative scale, while arousal is dependent on the activation of the sympathetic nervous system [56] According to the elementary arousal model, an increase in physiological arousal, heightens the intensity of emotional responses  [57].  Consequently,  behavioural  responses  to threat  are  best  measured  from  physiological  responses when affective states are induced.
+
+By this definition, fear is an affective state, as it comprises of  elevated  physiological  arousal,  from  the  subjective experience  of  fear  [58].  Furthermore,  exposure  to  feared stimuli induces physiological arousal and subjective fear responses [59].
+
+Meanwhile,  heightened  physiological  arousal  increases the likelihood of aggressive fight behaviours, within anger appraisals [60]. Aggression has been positively correlated with the expression of anger [61], due to anger being an emotion  and  aggression  being  a  behavioural  response. Despite aggression not being an emotion, it is an affective response  derived  from  anger,  thus,  is  a  quantifiable behavioural  action  that  is  observable  and  measurable. Furthermore, it is to be noted that aggression and anger are highly conflated within the literature, due to the high interrelatability of these two constructs [62].
+
+## 4.3 The Effects of Threat Perception Captured by Freezing of Biological Human Motion
+
+The  absence  of  defensive  behaviours,  portrayed  through freezing  behaviours,  further  illuminates  the  relationship between  threat  perception  and  biological  human  motion. However, there is limited literature investigating the freezing of motion and slowing of RT in humans, in the face of threat [63]. Consistent with the Threat Detection System theory, individuals detect and react rapidly to threats, with approaching threats evoking greater freezing responses, as opposed to stationary or receding threats [64]. The role of threat  imminence  was  explored  by  investigating  whether approaching threatening stimuli induces freezing of motion, when  conducting  a  semantic  decision  task  [63].  Findings indicated  that freezing behaviours  are  associated  with immobility,  resulting in slower  RT  to  the threatening stimuli. Furthermore,  the  higher  the  state  anxiety,  the stronger the freeze behaviour as operationalised by slower RT,  was  displayed  to  approaching  threats,  drawing  a positive correlation between fear and freeze behaviours [63]. As a result, approaching stimuli predicted higher immobility  when  individuals  displayed  higher  levels  of state anxiety.
+
+Social cues can be represented by facial expressions (angry, fear  expressions)  that  have  the  potential  to  invoke  body immobility through the elicitation of fear-potentiated startle responses.  These  social  cues  promote  cognitive  flexibility, which results in an attention bias towards the expressions and evoke avoidance tendencies [31]. Upon presentation of angry  face  stimuli,  participants  displayed  reduced  body
+
+ratings of anxiety in contrast to other expressions [31]. Angry expressions  are  often  perceived  as  sources  of  social  threat through the portrayal of dominance to induce fear in others. Despite the limited studies investigating whether freeze-like responses extend to social threat cues, social threat is thought to invoke body immobility  in  humans  [31].  Consequently, social threat cues of emotion expression can mediate spontaneous  motor  responses,  as  observed  by  freeze-like behaviours being elicited.
+
+## 4.4  Cognitive Flexibility Mediating Adaptive Affective and Fight or Flight Motor Responses in the Face of Threat
+
+Cognitive  flexibility  is a crucial cognitive  function  that enables the switching of cognitive strategies, allowing for the adaptation of behavioural strategies like fight or flight in the face of threat [62]. Cognitive flexibility promotes the ability to spontaneously adapt through executive means, through the allocation  of  attentional  and  cognitive  resources  to  new information, whilst inhibiting less relevant information [64]. The inhibition of cognitive processes that are not relevant to fight or  flight behaviours  is  central  to  threat  response, observed  by  the  prioritisation  of  attention  towards  threat presence [23].
+
+Cognitive flexibility prioritises the presence of threats within one's  environment ,  and  promotes  attentional bias towards the  threat,  promoting  the  mediation of an individual's defensive  responses  through  emotional  regulation.  Threat perception plays a crucial role in the motivation of adaptive survival behaviour, influencing defensive measures such as aggression and escape behaviours [28]. Attention is mediated by acts of learning which drive both fast hard-wired systems and top-down filtering mechanisms supported by predictions  [46].  The  combination  of  information  derived from  prior  learning  predictions  and  present  subconscious physiological reactions require quick responses, resulting in fear  sensations  [65].  Furthermore,  the  BIS  comprises  both systems  and  accounts  for  the  mediation  of  behaviours characterised by either approach-approach, approachavoidance,  or  avoidance-avoidance  conflict  [44].  The  BIS substantiates fight or flight behaviours, by inhibiting behaviours  reliant on  top-down  attention  systems,  and instead facilitating risk-assessment behaviour through increased vigilance [44].
+
+Attentional  bias  can  modulate  negative  affective  states, resulting  in  the  regulation  of  defensive  behaviours.  To examine  the  relationship  between  attention  biases  and emotion regulation of aggression and fear, an eye-tracking paradigm was used alongside the Point Subtraction Aggression Paradigm, a computerised paradigm that allowed participants to punish an opposing confederate to increase  one's  monetary  winnings  [2 8].  Results  indicated there  was  a  positive  association  between  aggression  and attention  bias  towards  threat.  Fear  was  not  found  to strengthen the relationship between aggression and threat, nor did it modify the relationship between aggression and attention bias [28]. Meanwhile, the fear condition resulted in greater attention bias to threat and resulted in less escape behaviours. Consequently, fearful stimuli present in
+
+one's environment  may  promote  attentional  fixation  on it, affecting emerging fight or flight behaviours.
+
+These  findings  contribute  to  the  sparse  literature  on  the role of cognitive flexibility modulating defensive and fight or flight responses, through threat attentional bias. However, these results may have been affected by the low ecological validity of paradigms used, due to the ethical issue of inducing realistic threat. Consequently, to investigate the relationship between cognitive flexibility, fight  or  flight  motor  responses,  and  affective  responses such as fear and aggression, threat paradigms need to be situationally relevant to trigger defensive survival processes.
+
+## 4.5 Methods of Measuring and Detecting Cognitive Flexibility
+
+Cognitive  flexibility  is  intrinsic  to  adaptive  behaviour, prioritising survival responses through an attentional bias towards threat. This attentional bias prioritises fight or flight defensive  behaviours  over  other  bodily  functions.  Thus, cognitive  flexibility  is believed  to  result  in  increased measurable  arousal  responses,  when  in  the  presence  of threat. High cognitive flexibility results in the allocation of cognitive resources for environmental demands, priming and prioritising one's adaptive and defens ive behaviours over other functions [23]. It is this allocation of cognitive resources that promotes fight or flight defensive behaviours. This is observed by the prominence  of physiological  arousal  in  threat  responses.  Physiological arousal is often measured by skin conductance SCR and heart  rate  variability,  indicating  the  mobilisation  of  the body  for  defensive  or  offensive  behaviours  like  fight  or flight [23].
+
+All measures of cognitive flexibility are hypothesised to be correlated with one's arousal, with high cognitive flexibility being  most  effective  in  phases  dependent  on  emotion regulation  within  prolonged  threat  presence.  Immersive virtual environments exposing participants to either prolonged or intermittent threats facilitated measurements of physiological and subjective arousal to account for threat responses. Studies have found that RT, heart rate variability and  cognitive flexibility predicted differences in taskswitching flexibility, unlike SCR, despite all these measures predicting  arousal  in  the  presence  of  threat  [23].  Hence, affective processing flexibility predicts higher arousal responses, signalling the importance of cognitive flexibility processing in threat responses [23].
+
+## 5 THREAT PERCEPTION INDUCING EMPATHETIC RESPONSES FROM BYSTANDERS
+
+## 5.1 Empathetic Responses Evoked from Threat and Pain Perception
+
+Two  different  hypotheses  regarding  the  modulation  of empathy on threat perception have been proposed in the literature. The 'empathising hypothesis' claims that observation of another's pain promotes feelings of empathy,  influencing  prosocial  behaviours  towards  the
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+hypothesis'  states  that  the  processing  of  painful  and harmful  stimuli  may  activate  one's  own  threat -detection system, promoting defensive behaviours [67]. However, the characteristics of the threat and environmental contexts also play a crucial role in threat appraisal and eliciting defensive behaviours.  For  instance,  seeing  someone  injured  in  a hospital  would  be  less  alarming  and  may  even  incite prosocial  behaviour.  Meanwhile,  witnessing  an  injured individual  in  the  supermarket  may  instead  serve  as  a warning of impending danger, promoting threat detection over prosocial behaviours. Pain is commonly used within experimental  contexts  to  evoke  feelings  of  threat,  due  to their ability to induce defensive behaviours [64]. Thus, to gain a better understanding of the complex role of empathy within  pain  perception,  we  ought  to  investigate  how empathy is measured and captured within the literature.
+
+## 5.2 Brain Regions Implicated in Empathetic Responses to Observed Pain
+
+Empathy  is  an  understudied  phenomena  within  threat perception  research,  despite  the  influence  it  has  on  the perception of another's pain. Pain networks are identified in threat perception, on the basis that pain, and threat are often linked, as individuals often deem potential pain as a threat and become threat averse. fMRI studies have identified two cortical and subcortical networks for pain empathy that are capable of quick bottom-up activations, which are required in quick attentional processing of threat [64]. The observation of an  individual  in  a  painful  situation  results  in  increased activation of the somatosensory cortex, evoking pain-related responses  in  the  motivational-affective  dimension  of  pain within  oneself  [67].  The  prefrontal  cortical  circuitries  have been  identified  to  hold  influence  over  high-level  signals, which  are based  on  predictions  and  prior  experiences, substantiating the BIS and its mediation of defensive behaviours [24]. Meanwhile, the insula and cingulate cortices have also shown increased activation upon the observation of another's pain, within individuals with higher self - reported levels of empathy [68].
+
+The amygdala is believed to be central in emotional empathy, due to considerable evidence of the amygdala playing a role in  deciphering  fear-related  stimuli  [69].  One  perspective claims that the amygdala contributes to empathy by encoding the severity of threat [70]. This model states that fear-encoded stimuli reinforce the activation of the amygdala, with more fearful stimuli resulting in greater amygdala activity [69], as observed by the amygdala responding more actively to the increased  intensity  of  fearful facial expressions  [71].  In contrast, another model proposes that the amygdala does not encode the levels of  distress,  but  rather  redirects  cognitive functions  like  attention  towards  the  object's  features,  to disambiguate the stimuli [68]. As a result, increased amygdala activity is predicted for more ambiguous stimuli that requires a greater understanding of situational cues to decipher. Hence, this model predicts that once attention has been successfully redirected to relevant stimulus features, the amygdala is no longer utilised for emotion recognition [70].
+
+present,  a  fMRI  study  was  conducted  utilising  a  ROI approach  to  identify  amygdala  responses  to  emotionally charged  and  emotionally  ambiguous  stimuli  [69].  Results indicated that amygdala activity was associated with higher levels of fearful stimuli, reflecting the level of arousal incited by  complex  visual  scenes.  However,  a  lack  of  amygdala activity during the discrimination between differing emotion context stimuli, indicated it was not modulated by emotional ambiguity [69]. Hence, these results indicate that the amygdala plays an essential role in threat perception by encoding  the  severity  of  threat,  from  fearful  expressions. These  results  are  significant  to  models  of empathy, as the recognition of fear in others is vital to empathetic behaviours, which promotes prosocial behaviour [72].
+
+Contextual cues also contribute to the degree of empathetic appraisal experienced by the amygdala, from the perception of another's pain. Under  differing social contexts, like cooperative versus competitive and friendly versus threatening, participants perceived another's pain differently [73]. These findings show that a combination of threatening and competitive stimuli resulted in increased arousal in participants, indicating the role of specific social circumstances in modulating neural responses to pain in others.  This  manipulation  of  social  contexts  creates  a contrast in the probability and predictability of perceiving pain; hence, pain perception is more  likely for the competitive/threatening context than the cooperative/friendly  context  [66].  As  a  result,  contextual cues can modulate the activity of brain regions implicated in  observer's pain  perception,  through  the  mediation  of experienced arousal.
+
+## 5.3 Methodological Limitations in the Study of Empathetic Appraisal from Pain Perception
+
+Despite pain being a principal component within threat, pain, and threat are not necessarily mutually exclusive, as the  repercussions  of  threat  need  not  solely  be  physical damage.  The  nature  of  threat  can  extend  beyond  the physical,  manifesting  as  psychological  threats.  Hence, although pain is considered a threat, not all types of threat consist of pain. Consequently, when most studies within the literature use visual stimuli of painful scenarios, it only serves to inform the neuro-physical responses to pain, as opposed to more realistic fields of threat that are multifaceted in nature (ie. Visual, auditory, tactile). Thus, neglecting the multifaceted sensory nature of threat may affect the contextual information conveyed to the individual, regarding the threat.
+
+Furthermore, consolidating the dynamic nature of threat into static stimuli makes it hard to control what sensations participants  might  be  experiencing,  due  to  the  lack  of context. For example, a painful image might not necessarily incite feelings  of  empathy  for another's pain,  instead inciting  feelings  of  disgust  or  shock,  depending  on  the arousal intensity of visual stimuli.
+
+In order to investigate the amygdala's role in the perception and identification of fear, when different contextual cues are Lastly,  it  is  difficult  to  measure  and  analyse  feelings  of empathy, especially when the participants have no experimental opportunity to indicate this, through means Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+of experimental outcomes such as prosocial behaviours or qualitative measurements such as personality questionnaires. Thus, to generalise findings to experienced threats,  experiments  should  not  only  utilise  ecologically valid and immersive stimuli, but also present participants with  the  option  to  respond  empathetically,  for  statistical measure.
+
+## 5.4 Threat Perception Evoking Empathetic Attitudes, Resulting in Prosocial Behaviours
+
+Empathy is the key mechanism that drives selfless decisions, due  to  the  broader  evolutionary  framework  influencing situation-specific behaviours, which can alleviate the distress of others [42]. Hence, empathy is crucial to the exercising of prosocial behaviours, which minimises harm and reduces the likelihood of the bystander effect.
+
+Threat  imminence  can  modulate  empathetic  appraisals  of prosocial behaviours. A study conducted required participants  to  make  trial-by-trial  decisions  as  to  whether they  would  aid  a  co-participant  in  avoiding  an  aversive shock, at the potential expense of receiving a shock [42]. The independent  variable  was  the  threat's  imminence;  thus, decisions were prompted when threat was either imminent or not. The imminence of threats resulted in faster prosocial responses  and  increased  heart  rates  [42].  Therefore,  these findings  suggest  that  imminent  threats  promote  defensive states present  in  fight  or  flight behaviours  to  facilitate prosocial decisions,  towards other individuals experiencing distress. As a result, these results imply that the fight or flight nature of threat perception is linked to one's choice to engage in a prosocial nature.
+
+Some studies have taken an emotional appraisal approach to prosocial motivations, whereby affective states influence different methods of cognition [74]. Within this framework, compassion  is  distinctive  from  empathy,  as  it  is  more quantitatively measurable and is defined by prosocial care motivation and empathic recognition of another's suffering [75]. Hence, a subfield of literature distinguishes empathy from  compassion,  due  to  compassion  encompassing  the prosocial  action  taken  to  reduce  the  suffering  of  another [76].  This  distinction  prioritises  the  study  of  compassion over  empathy,  as  it  is  believed  that  compassion  drives prosocial behaviours [33].
+
+To investigate whether acts of compassion operate similarly to empathy by activating empathy networks, neurobiological measures must be taken. Due to compassion  being  defined  as  the ability to not only empathetically  recognise  another's  suffering  but  also the displaying  of  prosocial  behaviours,  it  implies  that  the activated neural networks should be like those activated by empathy. A fMRI study conducted predicted that acts of compassion towards a vulnerable individual would activate regions of the empathy network like the anterior insula, and IFG and midbrain PAG [77]. Self-report data was collected to measure sentiments of compassion and distress after  the  presentation  of  each  stimulus.  Despite  sharing activation of the PAG and IFG, key regions prevalent in the empathy network like the insula, mPFC or human temporal polar  cortex  were  not  activated  when  participants  were compassionate [77].
+
+The  difference  in  neural  network  activation  could  be attributed to the emotion induction method used. Participants  were  required  to  continuously  self-monitor, self-evaluate and appraise their emotions [78]. As a result, the self-reflective nature of the task might have stimulated evaluative regions like the insula and  mPFC,  hence affecting the qualitative differences between stimuli conditions  [77].  These  findings  contribute  towards  the understanding  of  neural  pattern  activation  similarities from acts of compassion and empathy. However, further investigation on empathetic appraisal resulting in prosocial  actions  may  require  more  ecologically  valid methods  of  measurement  to  preserve  the  integrity  of findings.
+
+To promote confrontation reduction, empathetic appraisal needs to complement the reinforcement of memories learnt through  first-hand  aversive  experiences  [79].  A  study investigated  whether  the  observation  of  another's  threat response would reinstate one's own, prior learnt defensive responses to a similar threat [80]. The experiment was split into two  conditions, whereby  observers within both conditions watched a visual recording of a demonstrator react  to  three,  unannounced  electrical  shocks.  Following this, all participants were presented with similar scenarios as  the  individuals  presented  in  the  videos,  and  skin conductance was measured in both phases of the experiment.  However,  unlike  the  demonstrator  videos, participants  did  not  receive  a  shock,  yet  they  displayed elevated  physiological  responses  to  threat-conditioned cues, after the observation of ano ther's aversive response towards threat stimuli. Participants also displayed increased arousal in contexts perceived as dangerous [79]. Thus,  indicating  that  the observation  of  another's  threat responses has the potential to reinstate threat responses in an observer [79].
+
+As a result, being empathetic to another's experience with aversive  stimuli can  serve  to  inform  one's  own  affective response to the stimuli. Consequently, this study substantiated  that  vicarious  threat  learning  can  recover associations shaped by the observation of another's aversive experiences  [79].  Furthermore,  the  effect  of  empathetic appraisal promotes vicarious learning through the observation of another and one's own first -hand experiences [79].
+
+## 6 VIRTUAL REALITY TO EVOKE EMPATHETIC STATES THROUGH EMBODIED PERSPECTIVETAKING
+
+## 6.1 VR Evoking Emotion and Threat Recognition from the Display of Human Motion
+
+The modulation of emotions evoked from IVE is dependent on the degree of immersion and presence experienced from successful interactions with virtual avatars [80]. The plausibility illusion occurs when participants are under the illusion  that  virtual  events  are  really  happening,  despite
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+knowing that they are not happening outside of VR [81]. The
+
+plausibility illusion is dependent  on  the credibility of scenario  depicted,  and  plausibility  of  interactions  between participants  and  virtual  agents  in  the  VR  paradigm  [82]. When the scenario depicted is highly plausible, IVEs has the potential  to  have  a  higher  degree  of  emotion  recognition accuracy from the perception of emotive motor behaviours, when  a  large  range  of  somatosensory  sensors  are  used  to capture behavioural responses across different modalities.
+
+Affective responses can be measured within VR paradigms, through  changes  in  facial  expressions,  body  language  and physiological changes  [83]. To  investigate the effect of emotive  body  language  on  observer  physiological  ratings, aggression-evoking  role-play scenarios were  utilised by trained  actors  and  participants  to  train  avatar  models  for aggression  prevention  virtual  paradigms  [80].  Hence,  to obtain a rich analysis on negative affective responses, they captured  overt  behaviour  through  audio,  video,  motion capture  and  head  tracking.  Physiological  changes  were recorded  by  ECG,  SCR,  and  muscle  activity  of  the  biceps, triceps, and trapezius muscles. Results showed that aggression, fear, valence and arousal were more highly rated for overt body language being displayed, in comparison to spontaneous and sometimes covert behaviours [80]. Similarly, activation was found in the trapezius, deltoid and triceps muscles  in  fear perception, while the biceps displayed  inhibition, suggesting a relationship between the emotion and motor systems, when confronted with aggressive stimuli  [81].
+
+Hence,  these findings indicate that the overt use of confrontational body language promotes levels of fear and aggression  within  viewers,  activating  motor  responses. Furthermore,  this  novel  study  indicated  the  potential  of overt  body  language being used  to  inform  virtual  agents within VR simulations, to evoke affective states of fear and aggression.
+
+There  is  a  lack  of  research  utilising  IVEs  to  capture  and analyse the effect of virtual agents portraying noncommunicative movements on the modulation of perceived affective  responses  like  empathetic  appraisal  [84].  Noncommunicative movements consist of idle motion and are commonly used to simulate behavioural realism in virtual simulations [84].
+
+VR  presents  the  opportunity  to  study  the  influence  of natural postural oscillations on the perception of another's pain and the corresponding empathetic response. Realism in  biological  motion  from  idle  motion  was  found  to  be important  in  the  perception  of  virtual  agents,  promoting feelings  of  empathy  within  observers.  Participants  who witnessed static virtual agents who expressed pain, rated the pain observed as more intense [84]. Meanwhile, virtual agents  that  were  animated  with  idle  postural  oscillation resulted  in  participants  feeling  more  empathetic  towards the pain expressed by the virtual agents [84]. These findings coincide  with  the  fact  that  the  human  visual  system  is sensitive to biological motion,  hence,  the  presence  of biological motion may result in individuals identifying the virtual agent as a natural agent (i.e., human), instead of an artificial one (i.e., cartoon) [84].
+
+This  classification  of  virtual  agents  as  natural  agents promotes  immersion  of  the  participant,  creating  more validated results  measured  within  increasingly  plausible interpersonal social contexts. Thus, the realism of virtual agents and their interactions is a factor crucial to evoking a plausibility illusion. This early identification stage influences latter stages of facial pain expression recognition,  modulating  realism  and  promoting  higher empathetic responses to pain [84]. Future research ought to further explore the categorisation of animated agents as humans,  and  whether  human  motion  realism  affects empathetic resonance of pain [51].
+
+Multiple machine-learning methods have been proposed to classify emotions from whole-body human movements, within  virtual  environments.  This  method  of  emotion recognition complements and enriches existing methods of facial emotion recognition, due to the ambiguity of facial expressions in isolation [85]. Additionally, the recognition of facial expressions has been found to be modulated by the expression of the body [86]. The inclusion of the body as  an  emotive  object  paints  a  holistic  view  of  emotional expression, as in reality, faces cannot be viewed in isolation from the body. The recognition of emotions from motion also  serves  to  inform  behavioural  responses  that  biases emotion perception [87]. These machine-learning networks  have  the  potential to redefine behavioural modelling,  by  strengthening  the  relationship  between computers and humans, through the automatic recognition of emotions from body movement [88].
+
+The  use  of  whole-body  movements  to  extract  emotion recognition  data  from  VR  was  proposed,  in  the  face  of physiological method limitations [89]. Similarly, the use of whole-body expressions as a modality for emotion recognition from emotionally expressive walking sequences, can predict the intention and emotional state of individuals and encompassing movements relevant to the reflected emotional state [90]. Not only does whole-body motion enrich emotion recognition, but they also provide insight towards the extraction of emotional features from body  movements,  being  used  for  the  classification  of emotions between humans and virtual agents [89].
+
+## 6.2 Empathetic Responses Evoked from Embodied Perspective Taking with VR
+
+The  ability  to  embody  other  perspectives  with  VR  can capture the dynamic nature of threat to elicit empathetic responses, thus, influencing socio-behavioural processes. Virtual  agents  can  emulate  interpersonal  threat,  with motor signals consisting of facial and bodily expressions [90].  VR  simulations  are  used  to  evoke embodiment illusions, whereby  one's  sense  of  body  ownership is manipulated by the perceptual illusion or the  feeling  of embodying a non-human or virtual  entity.  Embodiment illusions  have  the  potential  to  affect  social  cognition  by influencing behavioural responses and perceptions [91].
+
+Fearful  expressions  are  more  readily  modulated  within embodiment illusions than other emotional expressions [92]. This feat is observed by the perceptual illusion of the Visual
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+Remapping  of  Touch  effect,  which  enhances  accuracy  in tactile perception of one's face upon observation of another's face being touched  [93]. However, this illusion solely facilitates fear expression recognition, unlike other expressions,  implying  that  fear  is  perceived  and  processed differently [94]. Hence, perspectivetaking of another's multisensory experiences, through embodiment, is speculated to facilitate regions of the somatosensory cortex that are related to fear perception [91]. However, unlike nonVR illusions, VR has been shown to be capable of promoting strong  feelings  of  ownership,  resulting  in  fronto-parietal activation  [95], despite  differing  appearances  of  one's  own body to the present avatar [94]. In comparison to narrative imagination  tasks,  VR  has  resulted  in  significantly  higher degrees in sense unity and perspective taking [96]. Furthermore, VR has been dubbed as the 'empathy machine' [97], showing profound effects of the alteration of one's self -bodily perception, affecting self-intrinsic socio-cognitive processes, which can be manipulated to solve issues within the real world [92].
+
+7
+
+The actions of violent offenders are postulated by theoretical models  of  aggression,  whereby  empathy  deficits  prevent offenders from envisioning their victims' perspectives [ 98]. Empathy  is  believed  to  be  a  process  that  moderates  the exercising of aggressive behaviours [99]. Hence, aggressive inclinations could be due to deficits of cognitive empathy, the ability  to  understand  another's  emotions  and  mental  state, and  emotional  empathy,  the  feeling  of  vicarious  emotion states [100 ]. According to Blair's Viol ence Inhibition Mechanism model, one's empathetic response can be prevented  by the  poor  recognition  of  another's  expressed anger  and  fear  [98].  This  effect  has  been  observed in male offenders who  display a significantly lower ability to recognise fear in female faces, in comparison to non-violent controls,  as  measured by a Face-body Compound emotion recognition  test  [92].  This  evidence  suggests  a  differential pattern activation in emotional expression perception, which coincides  with  violent  behaviour  being  associated  with negative emotion recognition deficits and ambiguous emotional stimuli processing differences [101]. Consequently, VR is speculated to provide the opportunity for embodied perspective-taking, presenting a potential intervention for socio-affective impaired individuals.
+
+The  perspective-taking  element  of  VR  can  influence  the emotional recognition skills and physiological responses of individuals,  to  promote  empathetic  appraisal.  Perspectivetaking often goes together with high level  empathetic processing,  which  is  fundamental  to  the  understanding  of another's perspective [ 98]. To induce a full-body illusion, a male domestic violence offender's body was substituted by a virtual female that was synchronised with their movements, while the VR paradigm subjected the participant to scolding and aggressive behaviours from a virtual male. This opportunity to adopt the victim's perspective through virtual embodiment  in  VR,  resulted  in  offenders  displaying  an improved ability in recognising fearful female faces and were now  able to accurately classify them as fearful [92]. Furthermore, these offenders displayed stronger physiological  responses  like  more  pronounced  HRD,  an
+
+anxiety marker of defensive and vigilant responses elicited from aversive stimuli [65], when observing explicit acts of aggression,  in  comparison  to  implicit  non-verbal  cues  of approaching the individual [109]. Increased HRD  in response  to  threat,  whilst  embodying  a  virtual  body  has positively  correlated  VR  paradigms  with  body  ownership feelings [102].
+
+In a later fMRI study, an enhancement in activity within the DMN, which engages in introspection and memory retrieval,  was  captured  when  offenders  were  subjected  to violent aggression from the perspective of a victim [90]. In contrast, DMN activity was reduced when perceiving fearful victim expressions, indicating that the perception of fear as a discrete emotion was easier to recognise in comparison to emotionally ambiguous stimuli [92]. However, as this was a novel study combining neuroimaging and VR measures of emotional recognition and empathetic appraisal, corresponding literature to substantiate this claim is limited.
+
+Differing perspectives adopted within VR paradigms can influence the saliency of emotions in an observer, resulting in different affective, neural, and behavioural responses. When  an  individual  embodies  the  direct  victim  of  an assault, they experience stronger fear arousal [103]. Similarly,  studies found  that  first-person  perspective embodiment resulted in increased body ownership, fear arousal, physiological reactivity, amygdala activation and frontoparietal network synchronisation to predict another's actions, in comparison to third -person embodiment [104], [105].
+
+## THE MEASUREMENT OF AFFECTIVE STATES AND BEHAVIOURAL RESPONSES FROM THE EMPATHETIC RESPONSES OF BYSTANDERS
+
+Various methods for measuring affective states and their behavioural  responses  have  been  proposed  in  the  last decades.  These  methods  can  be  broken  down  into  the following categories, as substantiated by Kaplan et al. and Luong et al. [106], [107]: self-reports, physiological measurements, and observational methods.
+
+## 7.1 Self-report Measures
+
+Self-report measures are subjective methods that require individuals to describe their affective states and behavioural responses, either in the present or a previous moment [107].  Examples from the literature include Statetrait  anxiety  inventory,  the  Buss  and  Perry  Aggression Questionnaire, Traumatic Life Events Questionnaire, IRI and  Likert  scales  to  measure  affective  states  from  a discrete perspective [107]. These questionnaires measure affective states and  their  propensity  for  behavioural responses (ie. Higher state-trait anxiety may predict more evasive behaviours to threat). Thus, self-report measures are essential in the measurement of behavioural responses to  perceived  threat,  such  as  fight  or  flight  behaviours, empathy and affective states like fear and anger.
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+## 7.2 Observational methods
+
+Unlike  selfreports  that  depend  on  the  subject's  self -awareness  and  accuracy  of  responding,  observational methods  typically  evaluate  facial  and  body  behaviours [107]. Nonverbal behaviours are associated with proxemics, gait, body posture and facial expressions, and can highlight patterns and frequency of behaviours associated [107].  Some observational methods identified in the literature include head tracking, proxemic measurements, posturographic measurements of the skeleton and gait. Furthermore, in the scope of this review, VR paradigms were identified within the literature as they improved traditional observational methods by conducting  observations  on  intrapersonal  threat  within controlled environments.
+
+However, observational methods are indirect methods of measurement, hence they are harder to create a baseline for due to the conflation of other factors. Despite this, they are easier  to  acquire  as  they  interfere  less  with  the  subject's natural behaviour. However, someone who is aware that they are under observation, may modify their behaviours to enact more in line with societal norms. Thus, autonomic measurements from the CNS may be more reliable due to their countering of these Issues.
+
+## 7.3 Physiological measurements
+
+Physiological measurements reflect the changes in physiological activities of the ANS and the CNS [107].  The relationship between psychological and physiological responses, promote the deciphering of affective states from physiological responses [108]. The CNS is responsible for receiving sensory input and transmitting this information to different parts of the body, for instance, upon detecting a threat, information is transmitted to relevant muscles in the  fight  or  flight  phenomenon.  CNS  activity  is  usually measured by fMRI activity. Meanwhile, the ANS controls involuntary responses of the body, as measured by HRV, pupillary indicators and SCR. Measures of ANS and CNS responses promote objective and high frequency sampling of physiological activity modulated  by  psychological activity [107]. Measurements of SCR, heart rate variability HRV, EEG, EMG, and fMRI, measure the activity of the ANS and CNS, due to physiological signal reliability and behavioural response, depending on the elicited emotion [109 ]. The combination of the ANS' autonomic control over involuntary  body  responses  and  the  CNS'  direct  control over bodily reactions target the cardiovascular, electrodermal  and  pupillary  indicators  by  quantifying measurable changes [108]. In this way, the measurement of physiological changes provides insight into the relationship between  affective states and  behavioural responses to threat.
+
+7.4 Limitations of Existing Measures of Behavioural
+
+Traditional physiological methods  of  emotion  recognition require subjects to wear a series of relevant sensors for data collection, imposing restrictions on naturalistic behaviours and  acquisitions,  compromising  the  accuracy  of  emotion recognition for real world settings [89]. Traditional physiological  measurements  include  indirect  measures  of the autonomic nervous system, like fear-potentiated startle as measured by EMG, SCR, eye tracking and measurements  of  direct  brain activity from fMRI [110].
+
+The measurement of human behaviour brings about its own methodological complexities, due to the multidimensional nature of social interactions. Threat interactions are difficult to  control  due  to  their  nonlinear  and  multidimensional nature [111]. Furthermore, inducing fear and aggression in an experimental context brings about ethical concern, due to the lack of experimental control over potential breaches of the participant's safety. One traditional approach is the use of human observers to observe, code and record evaluations of  behaviours and emotion states from social interactions. However,  coding  schemes  utilised  by  the  observer  are limited  by  observable  physical  aspects  of  the  interaction, such as mutual gaze occurrences, or generalised impressions of the overall interaction [111]. Additionally, the mismatch of  subjective  responses  being  captured  by  rigid  coding questionnaires reduces the richness of the behavioural data captured.  Where  evaluative  approaches  are  qualitatively rich, they come at a cost of time and resources  required  to maintain  the  richness  of  the  data,  especially  over  longer durations of time [111]. Furthermore, the ecological validity of human coding is further limited by the subjectivity of the observer's interpretations [ 111].
+
+Meanwhile, the study of defensive behavioural motion from real-life provocations is limited, due to the lack of conflict predictability occurring in naturalistic scenarios. Hence, it is difficult to use existing measurement methods to firstly, utilise real-world paradigms to control exposure to interpersonal provocation for experimental study and secondly, to accurately measure human behaviour, comprising of defensive  motor  responses  and  affective  states,  in  social interactions.
+
+## 7.5 Benefits of VR as a Methodology to Portray and Capture Measurable Affective Behaviours
+
+To  combat  the  issue  of  ecological  validity  and  replication issues,  VR  paradigms  were  developed,  to  offer  a  threedimensional virtual world for measuring behaviours within social situations [80]. VR  presents  the opportunity  to examine emotional perception and behavioural tendencies through  the  manipulation  of  experimental  conditions.  It provides the field of affective neuroscience with an effective tool to study affective loops, under controlled conditions in settings where real-life manipulation would be impossible to  control  or  unethical  [87].  For  example,  the  study  of prosocial behaviours when confronted by a violent incident can be studied, without bringing physical harm to participants [112].
+
+Despite VR being limited by the sensorimotor contingencies available by  the  VR  system,  VR  can  create  naturalistic  paradigms
+
+comprising of ecologically valid stimuli that are representative  of  real-world  situations  [81].  This  method allows experimenters to seamlessly  observe  and  record behavioural  tendencies  that  surface  within  these  virtual environments, without breaking the immersion of participants.  Furthermore,  with  the  advancements  in  VR technology,  studies  investigating  the plausibility of VR paradigms have found that immersive virtual environments tend  to  induce  the  same  fear  sensations  that  individuals would experience in reality [81]. Thus, VR has the potential to  evoke the plausibility illusion, creating the illusion that  the  scenario  occurring  is  real  and  occurring  [81]. Hence,  physiological,  observational,  and  self-report measures  would  be  able  to  aptly  capture  naturalistic behavioural responses, provided the VR paradigm can induce the plausibility illusion [81].
+
+Traditional  methods  of  physiological  measurement  are commonly used within the existing literature to supplement  VR  observations  of  a  participant's  affective state.  For  instance,  within  a  VR  simulation,  changes  in postural and autonomic behaviours towards virtual avatars displaying  different  emotion  were  measured  by  postural displacement, and SCR [82]. Similarly, heart rate variance was  measured  as  a  basis  for  continuous  arousal,  a  key feature  of  fight  or  flight  body  mobilisation  [113],  while participants were to physically navigate threats within an immersive virtual environment [23]. Thus, the combination of VR derived measurements and physiological measurements paints a holistic view of captured biological motion and their corresponding affective states.
+
+VR complements physiological measurements by improving the validity of ethological physiological measurements. For instance, proxemic measurements are a common  example  of  in  vivo  measurement  from  social interactions  without  having  to  hook  individuals  up  to motion capture monitoring equipment or constrict them to the  confining  space  of  a  scanner.  As  a  result,  VR  can  use motion analysis to produce valid measurements of behavioural responses, without restricting the movement of participants.
+
+## 7.6 VR to Measure Displays of Empathetic Behaviour
+
+Proxemic behaviour was found to be influenced by displays of empathy, via the mediation of one's physical distance to individuals  in  need.  Prosocial  behaviours  are  positively associated with less physical distance between individuals [115]. Within VR, interpersonal proxemic behaviours such as  the  movement  path  of  an  individual,  continuous,  or covert mutual gaze and the head orientation while moving within the VR environment are measured.
+
+The combination of VR and motion tracking presents the ability  to  comprehensively  study  social  interaction.  VR measurements have the potential to provide more contextual insight than isolated tracking data from traditional  motion-tracking.  A  combination  of  VR  and motion tracking combines the data into a manageable form without reducing meaningful results, which would make
+
+the data sensitive to noise [111]. Thus, the combination of VR and motion tracking  presents  the  ability  to  study social interaction,  while  systematically  analysing  how kinematics differ between emotional scenarios [115].
+
+Furthermore,  VR  remedies  the  difficulties  of  measuring prosocial  behaviours  in  experimental  contexts,  due  to  the varying  situational  inclinations  affecting  consistency  in response  behaviour  across  trials.  Conditions  such  as  the environment that the virtual environment embodies, and the behaviour of a virtual confederate can be controlled and kept consistent between trials. For example, individuals can feel more inclined to act prosocially when confederates display increased eye-contact [116] or when situational cues signalling  to  respect  social  norms  are  visible  within  the environment [83]. As a result, participants can be encouraged towards enacting prosocial behaviours when the situation they find themselves within is controlled to evoke empathetic responses. This method of online data acquisition is advantageous over traditional methods. Hence, research suggests that VR could provide a more valid and  nuanced  method  of  measuring  proxemic  behaviours than  traditional  motion  capture  methods.  Thus,  there  are benefits of using VR  to  capture emotions  and  threat recognition from the measurement of human motion.
+
+## 7.7 Methodological Limitations from Studies Investigating Embodied Perspective Taking in VR
+
+Despite embodied perspective-taking enabling the study of affective and cognitive mechanisms, most of the aforementioned work has been centred in extreme populations, with work focusing on the rehabilitation of offenders.  This  may  limit  the  generalisability  of  results, due to potential confounding factors like substance abuse or nontypical mental processing. Regardless of the use of an extreme population, findings from these studies provide insight on the cognitive mechanisms implicated in embodied  perspective  taking,  like  empathetic  appraisal and emotion recognition. Furthermore, variation in intensity of conflict and  the  study  of  these  uniform cognitive  mechanisms  can  be  applied  to  the  general population,  due  to  the  nature  of  conflict  being  socially pervasive.
+
+Regardless of these limitations, the studies provide foundational  evidence  for  VR  being  used  to  facilitate neuropsychological deficits to minimise the repercussions of poor emotion recognition. Additionally, the extensive nature of the VR environment can be utilised to provide realtime feedback to strategically shape and modulate performance of the participant to accomplish specific goals [117]. Feedback and rewards within a virtual environment have  the  potential to increase engagement  within  the environment and guide participants along to the objectives of their  tasks  [103].  The  measurement  and  modulation  of behavioural  responses  occurs  with  ease  in  VR  contexts, whilst maintaining adaptive and ecologically relevant settings. All these characteristics of VR promote the level of experimental control necessary for the measurement, analysis,  and  replication  of  threat  perception  behavioural
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+studies.
+
+## 8 FINAL REMARKS
+
+## 8.1 Conclusions, Challenges and Future Research Directions
+
+This  paper  has  systematically  reviewed  the  existing  threat perception  literature  notating  the  influence  of  threat  on emotion  and  motor  systems.  The  analysis  of  a  number  of relevant articles brought rise to the following answers to our research questions:
+
+RQ1: 'Are fear  and  aggression  linked  within  threat? Are  fight or flight behaviours the result of this relationship?'
+
+Fear  and  aggression  are  linked  through  the  fight  or  flight phenomena, as observed by specific neural networks, allowing these emotion perception cues to influence corresponding  defensive  action  systems.  For  instance,  the amygdala  was  attributed  to  the  processing  of  affective stimuli, with more amygdala activity associated with higher levels  of  both  fearful  and  aggressive  stimuli,  reflecting  the level of arousal felt [118]. Meanwhile, a rage circuit comprising  of  the  PAG  was  theorised  and  its  activity  is present in the face of threat [80].
+
+Fight or flight behaviours appear to be evoked  from sensations  of  fear  and  aggression.  Purposeful  and  extreme displays  of  aggression  were  correlated  with  high  valence arousal and dominance ratings from physiological measurements [80]. Furthermore, fear is commonly correlated with aversive behaviours, as measured by startle response,  within  the  literature  [25].  Similarly,  aggressive behaviours are often  associated  with  approach  motivation, comprising of confrontational behaviours [25]. Physiological sensations are crucial to the promotion  of feelings of aggression and fear, due to subcortical regions of the brain promoting these reflexive defensive responses to threat [ 28]. Hence,  indicating  a  relationship  between  affective, physiological states and fight or flight behaviours.
+
+RQ2 :' Can biological human motion portray and capture measurable affective states from the fight or flight phenomenon?'
+
+The  literature  discussing  the  role  of  motor  responses  in capturing threat perception is two-fold. Firstly, there have been  studies  utilising  motion  detection  to  infer  cognitive processes of emotion or threat perception. This ranges from the use proxemics in VR to measure empathetic behaviours [114] to use of classification algorithms to detect emotion states from body movements [88]. Sensations of fear from an imminent  threat  have also been  correlated  with  one's own freezing behaviours [65]. Meanwhile, the perception of motor  responses  can  also  mediate  empathetic  appraisal towards virtual agents [86] and perceptions of threat from the induction of perceived fear and aggression [11].
+
+Secondly,  cognitive  flexibility  is  crucial  in  fight  or  flight behaviours, as it mediates the adaptability of motor behaviours  in  the face of threat. Cognitive  flexibility promotes  an  attention  bias  towards  threats  within  one's environment.  This  process  can  mediate  the  relationship
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+fight  or  flight  motor  behaviours.  This  attention  bias  can also be the result of body immobility, evoked from fearful stimuli  [31]. As  a  result,  the perception  of  threat  is prioritised over  neutral  cues, as observed  by  neural networks specialised in the perception of fearful body cues and expressions [31 ].  The perception of another's fearful body cues is prioritised in perception as visual stimuli. The distinction between fear and neutral stimuli is observed by the increased sensitivity of certain brain regions, such as the EBA to fear stimuli.
+
+The measurement of motor responses in realistic scenarios brings about challenges around replication, validity, and ethics.  Thus,  VR  was  proposed  as  a  method  to  extract emotions from motor movements with proxemic measures. With a greater degree of experimental control, VR  can  give  real-time  feedback  to  participants,  while ensuring  consistency  within  social  interactions  with  an artificial confederate. The combination of VR and motion tracking presents an opportunity to study social interaction, alongside kinematics differences within varying emotional scenarios.
+
+There is a lack of literature found that identified the effect of aggression on motor behaviours, due to most research found  within  our  search,  focusing  on  fear  elicitation. Hence, future research ought to investigate whether there is a strong link between aggression as an affective response and the potential for corresponding fight or flight defensive behaviours.
+
+RQ3: "What factors of threat perception  modulate  empathetic responses and how are these measured by affective computing?"
+
+Within  our  systematic  search  the  main  two  methods  of using VR to evoke empathetic responses in observers, were from  the  perception  of  another's  pain  and  embodied perspective  taking.  Perceiving  another's  pain  can  be  a strong motivator for empathetic behaviour, with immediacy contextual cues heavily influencing empathetic responses.  However,  pain  is  not  mutually  exclusive  to threat,  despite  fear  being  a  commonly  shared  affective response between them. Thus, future research investigating the  effect  of  threat  perception  on  empathetic  responses ought to investigate impending threat scenarios that are not solely reliant on physical pain. With the advancement of innovation, virtual reality presents the opportunity to immerse individuals in realistic mediums, to evoke threat perception responses. For instance, a study conducted by Dey et al. (2017) immersed participants in a virtual zombie game,  to  investigate  the  effect  of  collaborative  threat perception  on  emotional  bodily  reactions  [119].  Hence, such experiments present new opportunities to investigate threat  from  different  scenarios  not  grounded  in  threat, within virtual reality.
+
+Meanwhile, embodied perspective-taking results in higher displays  of  emotion  congruency  and  the  recognition  of fearful  expressions  [91].  The  limited  literature  supports these  findings,  depicting  empathetic  responses  because  of significant  neurological  activity  changes  [90].  Despite  this field being novel, it shows promising results for the study of varied perspective taking on empathetic appraisal.
+
+' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information.
+
+between  fear  and  aggression,  resulting  in  corresponding
+
+RQ4: ' How do empathetic appraisals result in prosocial behaviour, and has this been measured by affective computing?'
+
+Empathetic appraisals have the potential to evoke prosocial behaviour,  as  fight  or  flight  defensive  states  can  facilitate prosocial decisions towards individuals in need (seen by pain perception and embodied perspective-taking). The imminence of threat has been found to modulate empathetic appraisals towards another's suffering, promoting behaviours to alleviate another's distress [ 42].
+
+A prominent challenge within the literature was the variability  in  definitions  used  for  empathetic  states.  These differing  definitions  draw  attention  to  varying  methods  of assessment. For instance, the measurement  of  affective empathy, as observed by empathic mimicry, would prioritise measurements  of  the  vicarious experience of another's emotions. Meanwhile, cognitive empathy, which consists of higher-level cognitive processing, refers to mentalising how others  feel  and  could  be  measured  by  more  qualitative methods,  such as trait empathy  self-assessment scales. Consequently, the variation in findings exploring empathetic networks,  can  be  explained  by  non-overlapping  parts  of empathy, as posited by differing definitions, being captured [120]. Furthermore, there has been a new school of thought, attempting to distinguish empathy from compassion, however  these  differences  may  be  due  to  methodological limitations,  rather  than  definitions  [33].  Hence,  due  to  the diverse  definitions and  corresponding  measurements  of empathy,  diverging  opinions  and  subdomains  regarding empathetic behaviour create a complex literature.
+
+Beyond  consolidating  diverse  definitions,  future  affective research ought to provide more clarity for affective states, by conducting more sensitive continuous measures of emotional reactivity, as opposed  to the current literature taking intermittent  measurements.  Several  suggestions  have  been made within the literature to improve the quality of affective research. Firstly, due to greater SCR being identified from the viewing of emotional images, it can be used to identify the period of peak emotional arousal, identifying emotion induction  and  its  impact  on  defensive  behaviours  [117]. Secondly, the emotional processing theory can be referenced when  designing  mood  induction  procedures,  to  aid  the disambiguation between acute and sustained reactivity [28]. This theory is an organisational framework  aiming  to increase  adaptive  responses  across  cognitive,  behavioural, and physiological domains [121]. Therefore, referencing this model may strengthen the validity, potency, and generalisability of future results, by focusing on the stimulus characteristics of the scenario, over types of responses [28]. Henceforth, when it comes to measuring affective responses within  situations  that  require  split-second  responses,  it  is essential  for  precisive  methods  to  be  utilised,  to  not  only capture,  but  maintain  the  validity  of  dynamic  affective responses.
+
+Additionally,  most  studies  did  not  include  demographic data,  consisting  of  cultural  origin  or  personality  traits.  As there is limited literature on these aspects, these demographic traits  have  not  been  examined  extensively  in  conjunction with
+
+behavioural  responses.  Thus,  future  research  ought  to include these demographics  with  the use of relevant personality  and  demographic  questionnaires  to  provide  a more  holistic  understanding  of  aforementioned  emotion and motor systems.
+
+Furthermore, another ethical consideration that future research  ought  to  consider  is  the  prolonged  exposure  to embodied experiences. It is common for VR experiments to alter the perception of one's own body, through modifications of physical appearance traits and perspectives. Continuous prolonged exposure of embodiment  exposure  may  promote  body  dysmorphia, depending  on  how  drastic  the  perception  of  one's  body changes [122]. Studies have shown that the disappearance of virtual  limbs  has  resulted  in  cortical  reorgnisation,  after short exposure [123]. Hence, repeated, or prolonged exposure to embodied experiences with VR may result in unwanted changes [122]. Researchers ought to be mindful of this fact, and design VR experimental procedures that avoid prolonged exposure.
+
+This review has identified VR as an ethical solution for the study of intrapersonal threats, due to the ability to mediate and  control  the  degree  of  the  threat,  which  ensures  the individual is never in physical harm's way. However, due to the immersive nature of threat paradigms, being exposed to threat  may  result  in  emotional  repercussions,  instead  of physical injury. Thus, there is no way to ensure that the IVE depicting threat will not have negative effects on participants. Individuals selected for threat exposure ought to  be  risk  accessed  for  potential  hazards  and  background checks ought to be conducted, if a neurotypical population group  is  to  be  selected.  Furthermore,  future  researchers ought to look into the short and long-term effect of virtual intrapersonal threat exposure such as moral injury [122], by conducting  the  relevant  mental  health  assessments  on participants.
+
+Within this systematic review, limitations consisting of the varied definitions of affective states, and the corresponding different methods of measurement were identified, resulting in  a  complex  literature  to  streamline.  Varied  methods  of measurement from a lack of definition consensus can explain the lack of overlapping findings and ought to be considered by future studies. Lastly, this review proposed the use of VR, which has an increased use in more recent studies, as a more precise  and  ecological  method  of  measuring  behavioural responses to threat perception .
+
+In conclusion, this systematic review assessed the existing literature  to  identify  the  relationship  between  fear  and aggression, and fight or flight defensive behaviours, when in the presence of threat. Due to the nature of fight or flight behaviours,  this  review  aimed  to  investigate  the  role  of biological  motion  in  relation  to  fear  or  aggression,  as implicated by the fight or flight phenomenon. This review paper  also  summarised  the  factors  that  influence  threat perception  on  empathetic  appraisals,  and  the  use  of affective  computing  to  measure  these  responses.  Lastly, empathetic appraisals were explored in relation to
+
+Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+inducing  prosocial  behaviour,  and  whether  the  existing fight
+
+or flight
+
+motor behaviours
+
+and empathetic
+
+methods used to capture these behaviours are sufficient.
+
+The strengths and limitations of methods and definitions identified within the literature were elaborated on. To our knowledge, this is the first systematic review of its kind that comprehensively explores the multifaceted nature of threat perception, from affective states to defensive motor behaviours, with the goal of harnessing this relationship for the  societal  benefits  of  modulating  prosocial  behaviours from empathetic appraisal.
+
+## ACKNOWLEDGMENT
+
+This work was supported by the UKRI centre for Doctoral Training  in  Socially  Intelligent  Artificial  Agents,  Grant Number EPS02266X1. This work was also supported by the Engineering and Physical Sciences Research Council, Grant Number EPW01212X1 and Royal Society, Grant Number RGSR2212199.
+
+## REFERENCES
+
+- [1] J. Marín-Morales,  C.  Llinares,  J.  Guixeres,  and  M.  Alcañiz, 'Emotion Recognition in Immersive Virtual Reality: From Statistics to Affective  Computing,' Sensors ,  vol.  20,  no.  18,  Sep.  2020,  doi: 10.3390s20185163.
+- [2] Howe-Davies,  Manstead,  and  van  Goozen, 'Atypical Facial Expressivity in Young Children with Problematic Peer Relationships,' Child Psychiatry &amp; Human Development , pp. 1 -10, Sep. 2022, doi: 10.1007s10578-022-01445-1.
+- [3] M.  J.  Page,  J.  E.  McKenzie,  P.  M.  Bossuyt,  I.  Boutron,  T.  C. Hoffmann, C. D. Mulrow, L. Shamseer, J. M. Tetzlaff, E. A. Aki, S. E. Brennan, R. Chou, J. Glanville, J. M. Grimshaw, A. Hróbjartsson, M. M. Lalu, T. Li, E. W. Loder, E. Mayo-Wilson, S. McDonald,  D. Moher, 'The PRISMA 2020 statement: An updated guideline for reporting systematic reviews'. PLOS Medicine , vol. 18, no. 3, 2021 doi:10.1371journal.pmed.1003583
+- [4] J. E. LeDoux and D. S. Pine, 'Using Neuroscience to Help Understand Fear and Anxiety: A Two-System Framework,' American Journal of Psychiatry , vol.  173,  no.  11,  pp.  1083 -1093,  Nov.  2016,  doi: 10.1176appi.ajp.2016.16030353.
+- [5] C. T. Gross and N. S. Canteras, 'The Many Paths to Fear , ' Nature  Reviews . Neuroscience, vol. 13, no. 9, Sep. 2012, doi: 10.1038nrn3301.
+- [6] S.  Davila-Montero,  J.  A.  Dana-Le,  G.  Bente,  A.  T.  Hall,  and  A.  J. Mason, 'Review and Challenges of Technologies for Real-Time Human Behavior Monitoring PubMed,' IEEE transactions on biomedical circuits and systems ,  vol.  15,  no.  1,  Feb.  2021,  doi:  10.1109TBCAS.2021.3060617.
+- [7] B.  L.  Fredrickson, 'The Role  of  Positive  Emotions  in  Positive Psychology: The Broaden-and-Build Theory of Positive Emotions.,' American Psychologist ,  vo.  56, no. 3,  2001. Doi: 10.10370003-066X.56.3.218
+- [8] S.  W.  Porges, 'Orienting  in  a  Defensive  World:  Mammalian Modifications of Our Evolutionary Heritage. A Polyvagal Theory PubMed,' Psychophysiology , vol. 32, no. 4, Jul. 1995, doi: 10.1111j.14698986.1995.tb01213.x.
+- [9] R.  Adolphs,  'NYAS  Publications,' Annals  of  the  New  York Academy of Sciences , vol. 1191, no. 1, pp. 42 -61, 2010, doi: 10.1111j.17496632.2010.05445.x.
+- [10] Rosén,  Kastrati,  Reppling,  Bergkvist,  and  Åhs,  'The  Effect  of Immersive Virtual Reality on Proximal and Conditioned Threat,' Scientific Reports , vol. 9, no. 1, pp. 1 -8, Nov. 2019, doi: 10.1038s41598-01953971-z.
+- [12] J. Archer, 'The Nature  of  Human Aggression,' International Journal of Law and Psychiatry , vol. 32, no. 4, pp. 202 -208, 2009, doi: 10.1016j.ijlp.2009.04.001.
+- [13] R. J. R. Blair, 'Facial Expressions, their Communicatory Functions  and Neuro cognitive -Substrates,' Philosophical  Transactions  of the  Royal Society of London . Series B: Biological Sciences , vol. 358, no. 1431, pp. 561 -572, Feb. 2003, doi: 10.1098rstb.2002.1220.
+- [14] Beyer,  Münte,  Erdmann,  and  Krämer, 'Emotional Reactivity  to Threat  Modulates  Activity  in  Mentalizing  Network  During Aggression,' Social Cognitive and Affective Neuroscience, vol. 9, no. 10, pp. 1552 1560, Sep. 2013, doi: 10.1093scannst146. -
+- [15] M.  T.  Pham, 'Emotion and  Rationality:  A  Critical  Review  and Interpretation of Empirical Evidence,' Review of General Psychology, vol. 11, no. 2, pp. 155 -178, Jun. 2007, doi: 10.10371089-2680.11.2.155.
+- [16] Hochstetler, Copes, and Forsyth, 'The Fight: Symbolic Expression  and Validation  of  Masculinity  in  Working  Class  Tavern Culture,' American Journal of Criminal Justice , vol. 39, no. 3, pp. 493 -510, Oct. 2014, doi: 10.1007s12103-013-9222-6.
+- [17] K. A. Dodge, J. E. Bates, and G. S. Pettit, 'Mechanisms in the Cycle of Violence.,' Science vol.250, no. 4988, , 1990, doi: 10.1126science.2270481
+- [18] M.  S.  Steinberg  and  K.  A.  Dodge,  'Attributional  Bias  in Aggressive Adolescent Boys and Girls' Journal of Social &amp; Clinical Psychology ,  1983.,  doi: 10.1521jscp.1983.1.4.312 (
+- [19] Archer, The Organization of Aggression and Fear In Vertebrates, pp. 231-298, 1976.
+- [20] Archer,  The  Behavioural  Biology  of  Aggression,  Cambridge University Press, 1988.
+- [21] D.  C.  Blanchard  and  R.  J.  Blanchard, 'Affect and  Aggression:  An Animal Model Applied to Human Behavior,' Advances in the Study of Aggression , vol. 1, pp. 1-62 1984, doi: 10.1016B978-0-12-037701-5.50006-4
+- [22] D.  Eilam,  R.  Izhar, and  J.  Mort,  'Threat  Detection:  Behavioral Practices in Animals and Humans,' Neuroscience &amp; Biobehavioral Reviews , vol. 35, no. 4, pp. 999 -1006, Mar. 2011, doi: 10.1016j.neubiorev.2010.08.002.
+- [23] L.  K.  Hildebrandt,  C.  McCall,  H.  G.  Engen,  and  T.  Singer, 'Cognitive Flexibility, Heart Rate Variability, and Resilience Predict Fine-Grained Regulation of Arousal During Prolonged Threat,' Psychophysiology ,  vol.  53,  no.  6,  pp.  880 -890,  2016,  doi:  10.1111psyp.12632.
+- [24] A.  Miyake,  N.  P.  Friedman,  M.  J.  Emerson,  A.  H.  Witzki,  A. Howerter, and T. D. Wager, 'The Unity and Diversity of Executive Functions and Their Contributions to Complex 'Frontal Lobe' Tasks: A Latent Variable Analysis,' Cognitive psychology, vol. 41, no. 1, Aug. 2000, doi: 10.1006cogp.1999.0734.
+- [25] D.  M.  Amodio  and  E.  Harmon-Jones, 'Trait Emotions  and Affective  Modulation  of  the  Startle  Eyeblink:  On  the  Unique Relationship of Trait Anger', Emotion, vol. 11, no. 1, 2011., doi: 10.1037a0021238
+- [26] M. Spanovic, B. Lickel, T. F. Denson, and N. Petrovic, 'Fear and  Anger as Predictors of Motivation for Intergroup Aggression: Evidence  from Serbia  and  Republika Srpska,' Group  Processes  &amp;  Intergroup Relations, vol.    13,    no.    6,    pp.    725 -739,    Oct.    2010,    doi: 10.11771368430210374483.
+- [27] N. J. Weinshenker  and  A. Siegel, 'Bimodal Classification of Aggression: Affective Defense and Predatory Attack,' Aggression and Violent Behavior, vol. 7, no. 3, pp. 237 -250, May 2002, doi: 10.1016S13591789(01)00042-8.
+- [28] L. M. Sippel, E. Taverna, and A. D. Marshall, 'In Vivo Defensive Behaviors, Fear, and Attention Bias to Physical and Negative Evaluation Threats,' Behaviour Research and Therapy , vol. 154, no. 2, p. 104108, Jul. 2022, doi:  10.1016j.brat.2022.104108.
+- [11] A.  Mehrabian, ' Basic  Dimensions  for  a  General  Psychological Theory: Implications for Personality, Social, Environmental, and Developmental Studies ' . Cambridge, MA: Oelgeschlager, Gunn
+
+&amp; Hain, 1980. [30] T. C. Barnum and S. J. Solomon, 'Fight or Flight: Integral  Emotions ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+- [29] D. Simunovic, N. Mifune, and T. Yamagishi, 'Preemptive Strike: An  Experimental  Study  of  Fear-Based Aggression,' Journal  of Experimental Social Psychology , vol. 49, no. 6, Nov. 01, 2013, doi: 10.1016j.jesp.2013.08.003
+
+- and Violent Intentions,' Criminology ,  v ol.  5 7, n o.  4 , p p . 6 59 -686,  Aug. 2019, doi: 10.11111745-9125.12222.
+- [31] K. Roelofs, M.  A. Hagenaars,  and  J. Stins, 'Facing Freeze,' Psychological Science ,  vol.  21,  no.  11,  pp.  1575 -1581,  Sep. 2010, doi: 10.11770956797610384746.
+- [32] Z. Cattaneo , C. Ferrari, A. Ciricugno, E. Heleven, G. Schutter, M. Manto and F. M. Overwalle, 'New Horizons on Non-invasive Brain  Stimulation of the Social and Affective Cerebellum,' The Cerebellum , vol.  21, no. 3, pp. 482 496, Jul. 2021, doi: 10.1007s12311-021-01300-4. -
+- [33] C. D. Batson, The Altruism Question: Toward  A  SocialPsychological Answer, Psychology Press, 2014, doi: 10.43249781315808048
+- [34] C.  D.  Batson,  C.  L.  Kennedy,  L.  Nord,  and  T.  Zerger, 'Anger at Unfairness: Is it Moral Outrage?' European Journal of Social Psychology , vol. 37, no.  6,  doi: 10.1002ejsp.434
+- [35] M. L. Hoffman, Empathy and Moral Development, Cambridge  Core, Jun. 2000, doi: 10.1017CBO9780511805851
+- [36] J. Eklund, T. Andersson-Stråberg, and E. M. Hansen, ''I've Also Experienced Loss and Fear': Effects of Prior Similar Experience on Empathy,' Scandinavian Journal of Psychology , vol. 50, no. 1, pp. 65 -69,  Jan. 2009, doi: 10.1111j.1467-9450.2008.00673.x.
+- [37] E. Herms, A. R. Bolbecker, and K. Wisner, 'Emotion regulation and Delusion-Proneness Relate to Empathetic Tendencies in a Transdiagnostic Sample,' Frontiers in Psychology , vol. 13 Frontiers, Sep. 01, 2022, doi: 10.3389fpsyt.2022.992757
+- [38] J. Decety, 'The Neurodevelopment  of Empathy  in Humans,' Developmental Neuroscience, vol. 32, no. 4, Dec. 2010, doi:10.1159000317771.
+- [39] C. McCall and T. Singer, 'Empathy and The Brain,' Understanding Others Minds , Aug 2013, pp.195-213, doi:.1093acprof:oso9780199692972.003.0012
+- [40] S.-J. Blakemore  and  U.  Frith, 'The Learning  Brain:  Lessons  for Education: A Précis,' PubMed ,  vol.  8,  no.  6,  Dec.  01,  2005, doi: 10.1111j.1467-7687.2005.00434.x
+- [41] B. Kitchenham, "Procedures for Performing Systematic Reviews",  2004.
+- [42] J. B. Vieira, S. Schellhaas, E. Enström, and A. Olsson, 'Help or  Flight? Increased Threat Imminence Promotes Defensive Helping in Humans,' Proceedings of the Royal Society B: Biological Sciences ,   v o l .  2 8 7 ,   n o . 1933, p. 20201473, Aug. 2020, doi: 10.1098rspb.2020.1473.
+- [43] J. Ren, R. Dui, S. Li, M. Zhang, D. Wei, C. Feng, P. Xu and W.  Luo, 'Features and Extra -Striate Body  Area Representations of Diagnostic Body Parts in Anger and Fear Perception,' Brain sciences , vol. 12, no. 4, p. 466, Mar. 2022, doi: 10.3390brainsci12040466.
+- [44] V. V. MacLaren, L. A. Best, and E. E. Bigney, 'Aggressionhostility predicts direction of defensive responses to human  threat scenarios,' Personality and Individual Differences , vol. 49, no. 2, pp. 142 -147, Jul. 2010, doi: 10.1016j.paid.2010.03.024.
+- [45] T. M. Azevedo, E. Volchan, L. A. Imbiriba, E. C. Rodrigues, J. M.  Oliveira, L.  F.  Oliveria,  L.  G.  Lutterbach  and  C.  D.  Vargas 'A Freezinglike Posture to Pictures of Mutilation,' Psychophysiology , vol. 42, no. 3, pp.  255 -260, 2005, doi: 10.1111j.1469-8986.2005.00287.x.
+- [46] Mobbs, Hagan, Dalgleish, Silston, and Prévost, 'The Ecology of  Human Fear:  Survival  Optimization  and  the  Nervous System,' Frontiers in Neuroscience ,  vol.  0,  Jan.  2015,  doi:  10.3389fnins.2015.00055
+- [47] J. E.  LeDoux  and  D.  S.  Pine, 'Using Neuroscience  to  Help Understand Fear and Anxiety: A Two-System Framework,' American Journal of Psychiatry , vol. 173, no. 11, pp. 1083 -1093, Nov. 2016, doi: 10.1176appi.ajp.2016.16030353.
+- [48] J.  Panksepp, Affectiveneuroscience:  The  Foundationsof Human and Animal Emotions, Oxford University Press, 1998.
+- by Stimulation in the Midbrain of Man,' Journal of Neurosurgery ,  vol.  30, no. 1, pp. 14 -24, Jan. 1969, doi:  10.3171jns.1969.30.1.0014.
+- [51] S. Borgomaneri, F. Vitale, V. Gazzola, and A. Avenanti, 'Seeing Fearful Body Language Rapidly Freezes the Observer's Motor Cortex,' Cortex , vol. 65, pp. 232 -245, Apr. 2015, doi: 10.1016j.cortex.2015.01.014.38
+- [52] B. de Gelder and M. P. Solanas, 'A Computational Neuroethology Perspective on Body and Expression Perception,' Trends in Cognitive Sciences , vol. 25, no. 9, pp. 744 -756, Sep. 2021, doi: 10.1016j.tics.2021.05.010.
+- [53] Dewez, D., Fribourg, R., Argelaguet, F., Hoyet, L., Mestre, D., Slater, M., &amp;amp; Lecuyer, A. (2019). Influence of personality traits and body awareness on the sense of embodiment in virtual reality. 2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). https://doi.org/10.1109/ismar.2019.00-12
+- [54] H. K. M. Meeren, N. Hadjikhani, S. P. Ahlfors, M. S. Hämäläinen,  and B. de Gelder, 'Early Preferential Responses to Fear Stimuli in Human Right Dorsal Visual Stream - A Meg Study,' Scientific Reports , vol. 6, no. 1, Apr. 2016, doi: 10.1038srep24831.
+- [55] K. Borhani, S. Borgomaneri, E. Làdavas, and C. Bertini, 'The Effect of  Alexithymia  on  Early  Visual  Processing  of  Emotional  Body Postures,' Biological Psychology , vol. 115, pp. 1 -8, Mar. 2016, doi: 10.1016j.biopsycho.2015.12.010.
+- [56] A.  Kalatzis,  L.  Stanley  and  V.  G.  Prabhu,  "Affective  State Classification in Virtual Reality Environments Using Electrocardiogram and Respiration Signals," 2021 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR), Taichung, Taiwan, 2021, pp. 160-167, doi: 10.1109/AIVR52153.2021.00037.
+- [57] P.  H.  Tannenbaum  and  D.  Zillmann, 'Emotional Arousal  in  the Facilitation of Aggression Through Communication,' Advances in Experimental Social Psychology , vol. 8, 1975, doi : 10.1016/S00652601(08)60250-6
+- [58] P.  J.  Lang, 'Fear Reduction  and  Fear  Behavior:  Problems  in Treating a Construct.,' Research in psychotherapy , pp.90-102, 1968, doi: 10.103710546-004
+- [59] P. Siegel, B. Cohen, and R. Warren, 'Nothing to Fear but Fear  Itself: A Mechanistic Test of Unconscious Exposure,' Biological psychiatry , vol. 91, no. 3, Feb.  2022,  doi:  10.1016j.biopsych.2021.08.022.
+- [60] N.  H.  Frijda  and  M.  Zeelenberg,  'Appraisal:  What  is  the Dependent?,' Appraisal processes in emotion: Theory, methods and research Oxford University Press, pp. 141 -155, Jan. 01, 2001.
+- [61] M. Moroń and  M.  BiolikMoroń, 'Emotional Awareness  and Relational Aggression: The Roles of Anger and Maladaptive Anger Regulation,' Personality and Individual Differences , vol. 173, p. 110646, Apr. 2021, doi: 10.1016j.paid.2021.110646.
+- [62] S. R. Miles, F. M. Hammond, D. Neumann, M. A. Silva, X. Tang,, M. Kajankova, C. Dillahunt-Aspillaga, R. Nakase-Richardson. 'Evolution of Irritability, Anger, and Aggression after Traumatic Brain Injury: Identifying and Predicting Subgroups,' Journal of Neurotrauma , vol. 38, no. 13, pp. 1827 -1833, Jul. 2021, doi: 10.1089neu.2020.7451.
+- [63] L. Sagliano, A. Cappuccio, L. Trojano, and  M.  Conson, 'Approaching Threats Elicit A Freeze-Like Response in Humans,' Neuroscience Letters ,  vol.  561,  pp.  35 -40, Feb. 2014, doi:  10.1016j.neulet.2013.12.038.
+- [64] J. Decety and C. Lamm, 'Human Empathy Through The Lens  of Social Neuroscience,' The Scientific World Journal, vol. 6, pp. 1146 -63, Sep. 2006, doi: 10.1100tsw.2006.221.
+- [65] P. J. Lang, M. Davis, and A. Öhman, 'Fear and Anxiety: Animal  Models and  Human  Cognitive Psychophysiology,' Journal of Affective Disorders , vol. 61, no. 3, pp. 137 -159, Dec. 2000, doi: 10.1016S01650327(00)00343-8.
+- [49] D.  Mobbs,  R.  Yu,  J.  Rowe,  and  T.  Dalgleish, 'Neural Activity Associated with Monitoring the Oscillating  Threat  Value of  A Tarantula,' Proceedings of the National Academy of Sciences , Nov. 01, 2010, doi: 10.1073pnas.1009076107
+- [66] C. Liao, H. Wu, Q. Guan, Y. Luo, and F. Cui, 'Predictability And Probability  Modulate  the  Neural  Responses  to Other's Pain:  An Event-Related Potential Investigation,' Biological Psychology , vol. 138, pp. 11 18, Oct. 2018, doi: 10.1016j.biopsycho.2018.08.002. -
+- [50] B. S. Nashold, W. P. Wilson, and D. G. Slaughter, 'Sensations Evoked [67] A. Ibáñez,  E. Hurtado, A. Lobos,  J. Escobar, N.  Trujillo,  S.  Baez,  D. ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+Huepe,  F.  Manes and J.  Decety 'Subliminal Presentation of Other Faces (But Not Own Face) Primes Behavioral and Evoked Cortical Processing of Empathy for Pain,' Brain Research ,   v ol .  1 3 9 8,   p p .  7 2 -85, Jun. 2011, doi: 10.1016j.brainres.2011.05.014.
+
+- [68] B. Kulkarni, D. E. Bently, R. Elliott, P. Youell, A. Watson, S. W. G. Derbyshire, R. S. J. Frackowiak, K. J. Friston and A. K. P. Jones, 'Attention to Pain Localization and Unpleasantness Discriminates the  Functions  of  the  Medial  and  Lateral  Pain  Systems,' The European journal of neuroscience, vol. 21, no. 11, Jun. 2005, doi: 10.1111j.1460- 9568.2005.04098.x.
+- [69] C. Lamm, C. D. Batson, and J. Decety, 'The Neural Substrate of Human Empathy: Effects of Perspective-Taking and Cognitive Appraisal ', Journal of cognitive neuroscience , vol. 19, no. 1, Jan. 2007, doi: 10.1162jocn.2007.19.1.42.
+- [70] J. H.  Kryklywy,  S.  G.  Nantes,  and  D.  G.  V.  Mitchell, 'The Amygdala Encodes Level of Perceived Fear but Not Emotional Ambiguity in Visual Scenes,' Behavioural Brain Research , vol. 252, no.1 Elsevier Enhanced Reader, Sep. 01, 2013
+- [71] J.  S. Morris,  C.  D.  Frith,  D.  I.  Perrett, D.  Rowland,  A.  W.  Young, A. J. alder and R. J. Dolan 'A Differential Neural Response in the Human Amygdala to Fearful and Happy Facial Expressions,' Nature , vol. 383, no. 6603, pp. 812 -815, Oct. 1996, doi:  10.1038383812a0.
+- [72] A. Thielscher and L. Pessoa, 'Neural Correlates of Perceptual  Choice and Decision Making during FearDisgust Discrimination,' Journal of Neuroscience , vol.  27,  no.  11,  pp.  2908 -2917,  Mar.  2007,  doi: 10.1523jneurosci.3024-06.2007.
+- [73] F.  Cui,  X.  Zhu,  and  Y.  Luo, 'Social Contexts  Modulate  Neural Responses in the Processing of Others' Pain: An Event-Related Potential Study,' Cognitive  Affective  Behaviour, vol.  17,  no.  8,  pp.  850-857, Neuroscience , Feb. 2017, doi:  10.3758s13415-017-0517-9
+- [74] D. Keltner and J. S. Lerner, Emotion, Wiley Online Library, Jun. 30, 2010, doi: 10.10029780470561119.socpsy001009
+- [75] J. L. Goetz, D. Keltner, and E. Simon-Thomas, 'Compassion: An Evolutionary Analysis and Empirical Review,' Psychological Bulletin, vol. 136, no.3, pp. 351-374,  2010, doi: 10.1037a0018807
+- [76] C.  D.  Batson,  C. L.  Kennedy,  L.  Nord,  and  T.  Zerger, 'Anger At Unfairness: Is it Moral Outrage?,' European Journal of Social Psychology ., vol. 37, no. 6, Nov. 01, 2007, doi:10.1002ejsp.434
+- [77] E. R. Simon-Thomas, J. Godzik, E. Castle, O. Antonenko, A.  Ponz, A. Kogan and D. J. Keltner, 'An fMRI study of caring vs self-focus  during induced compassion and pride,' Social Cognitive and Affective Neuroscience , vol. 7, no. 6, pp. 635 -648, Sep. 2011, doi: 10.1093scannsr045.
+- [78] G. Northoff, A. Heinzel, M. de Greck, F. Bermpohl, H. Dobrowolny, and J. Panksepp, 'Self -Referential Processing in our Brain -A Meta-Analysis of Imaging Studies on the Self,' NeuroImage , vol. 31, no. 1, pp. 440 -457, May 2006, doi: 10.1016j.neuroimage.2005.12.002.
+- [79] J. Haaker  et  al., 'Observation of Others' Threat  Reactions Recovers Memories Previously Shaped by Firsthand Experiences,' Proceedings of the National Academy of Sciences , vol. 118, no. 30, Jul. 2021, doi: 10.1073pnas.2101290118.
+- [80] I. Lefter, C. M. Jonker, S. K. Tuente, W. Veling and S. Bogaerts,  "NAA: A Multimodal Database of Negative Affect and Aggression," 2017 Seventh International Conference on Affective Computing  and Intelligent Interaction (ACII), San Antonio, TX, USA, 2017, pp. 21-27, doi: 10.1109ACII.2017.8273574.
+- [81] M. Slater, 'Place Illusion and Plausibility can lead to Realistic Behaviour  in  Immersive  Virtual  Environments,' Philosophical Transactions of the Royal Society B: Biological Sciences , vol. 364, no. 1535, pp. 3549 -3557, 2009. doi:10.1098/rstb.2009.0138
+- Integrated Framework for Encouraging Pro-environmental Behaviour: The role of values, situational factors and goals,' Journal of Environmental Psychology, vol.  38,  pp.  104 -115, Jun.  2014,  doi:  10.1016j.jenvp.2014.01.002.
+- [84] Treal, Jackson, Jeuvrey, Vignais, and Meugnot, 'Natural human postural oscillations enhance the empathic response to a facial pain expression in a virtual character,' Scientific Reports , vol. 11, no. 1, pp.  1 -10, Jun. 2021, doi: 10.1038s41598-021-91710-5.
+- [85] B.  de  Gelder, 'Towards the  neurobiology  of  emotional  body language PubMed,' Nature reviews . Neuroscience, vol. 7, no. 3, Mar. 2006, doi: 10.1038nrn1872.
+- [86] H.  Aviezer,  R.  R.  Hassin,  J.  Ryan,  C.  Grady,  J.  Susskind,  A. Anderson, M. Moscovitch and S. Bentin 'Angry, disgusted, or afraid? Studies on the malleability of emotion perception,' Psychological science , vol. 19, no. 7, Jul.  2008,  doi:  10.1111j.1467-9280.2008.02148.x.
+- [87] R. Hortensius and B. de Gelder, 'From Empathy to Apathy: The Bystander  Effect Revisited,' Current  Directions  in  Psychological Science , v o l . 27,  n o .     4,  p p .     249 -256,  A u g .     2018, d o i : 10.11770963721417749653.
+- [88] F. Ahmed,  A.  S. M.  Bari, and  M.  Gavrilova, 'Emotion Recognition From Body Movement,' IEEEAccess, vol.8, pp. 11761-11781, Dec. 30, 2019, doi: 10.1109ACCESS.2019.2963113.
+- [89] H. Zhang, P. Yi, R. Liu and D. Zhou, "Emotion Recognition  from Body  Movements  with  AS-LSTM,"  2021  IEEE  7th  International Conference on Virtual Reality (ICVR), Foshan, China, 2021, pp. 26-32, doi: 10.1109/ICVR51878.2021.9483833
+- [90] S. Seinfeld, M. Zhan, M. Poyo-Solanas, G. Barsuola, M. Vaessen,  M. Slater, M. V. Sanchez-Vives and B. de Gelder 'Being the Victim of Virtual Abuse Changes Default Mode Network Responses to Emotional Expressions,' Cortex , vol.  135,  pp.  268 -284,  Feb.  2021,  doi: 10.1016j.cortex.2020.11.018.
+- [91] S. Seinfeld, J. Arroyo-Palacios, G. Iruretagoyena, R.  Horetensius, L. E. Zapata, D. Borland, B. de Gelder, M. Slater and M. V.  Sanchez-Vives 'Offenders Become the Victim in Virtual Reality: Impact  of Changing Perspective in Domestic Violence,' Scientific Reports , vol. 8,  no.  1,  pp.  1 -11, Feb. 2018, doi: 10.1038s41598-018-19987-7.
+- [92] F. Cardini,  C.  Bertini, A.  Serino,  and  E.  Ladavas, 'Emotional Modulation of Visual Remapping of Touch,' PubMed ,  v ol .  1 2,  n o.  5, Mar. 05, 2012, doi: 10.1037a0027351
+- [93] M. J. Banissy and J. Ward, 'Mirror -Touch Synesthesia is Linked  With Empathy,' Nature  neuroscience ,  vol.  10,  no.  7,  Jul.  2007,  doi: 10.1038nn1926.
+- [94] L. Maister, E. Tsiakkas, and M. Tsakiris, 'I Feel Your Fear:  Shared Touch  Between  Faces  Facilitates  Recognition  of Fearful Facial Expressions,' Emotion (Washington, D.C.), vol. 13, no. 1, pp. 7 -13, Feb. 2013, doi: 10.1037a0030884.
+- [95] E.  P.  Casula  et  al., 'Feeling of  Ownership over an Embodied Avatar's Hand Brings About Fast Changes of Fronto-Parietal Cortical Dynamics,' The Journal of Neuroscience , vol. 42, no. 4, pp. 692 -701, Dec. 2021, doi: 10.1523jneurosci.0636-21.2021.
+- [96] Kilteni, Maselli, Kording, and Slater, 'Over My Fake Body: Body Ownership Illusions for Studying the Multisensory Basis of Own-  Body Perception,' Frontiers  in  Human  Neuroscience , vol.  9,  Mar.  2015,  doi: 10.3389fnhum.2015.00141.
+- [97] F. Herrera, J. Bailenson, E. Weisz, E. Ogle, and J. Zaki, 'Building LongTerm  Empathy:  A  Large-Scale  Comparison  of  Traditional  and Virtual Reality PerspectiveTaking,' PLOS ON E, vol. 13, no. 10, Oct. 2018, doi: 10.1371journal.pone.0204494.
+- [98] R. J. R. Blair, 'Applying a Cognitive Neuroscience Perspective  to the Disorder of Psychopathy,' Development and Psychopathology ,  vol. 17, no. 3, pp. 865 -891, Nov. 2005, doi: 10.1017S0954579405050418.
+- [82] J. Bachmann, A. Zabicki, S. Gradl, J. Kurz, J. Munzert, N. F. Troje  and B.  Krueger, 'Does Co-Presence  Affect  the  Way  We  Perceive  and Respond to Emotional Interactions?' Experimental Brain Research , vol. 239, no. 3, pp. 923 -936, Jan. 2021, doi: 10.1007s00221-020-06020-5.
+- [99] B. M. P. Cuff, S. J. Brown, L. Taylor, and D. J. Howat,'Empathy: A Review of the Concept,' Emotion Review, vol. 8, no. 2, pp. 144 -153, Dec.  2014,  doi: 10.11771754073914558466.
+- [100] H. Harari, S. G. Shamay-Tsoory, M. Ravid, and Y. Levkovitz, 'Double
+- [83] L.  Steg,  J.  W.  Bolderdijk,  K.  Keizer,  and  G.  Perlaviciute,  'An Dissociation Between Cognitive and Affective Empathy in ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+Borderline Personality Disorder,' Psychiatry Research ,  vol. 175, no. 3,  pp. 277 279, Feb. 2010, doi: 10.1016j.psychres.2009.03.002. -
+
+[101] M.  Wegrzyn,  M.  Vogt,  B.  Kireclioglu,  J.  Schneider,  and  J.  Kissler, 'Mapping the Emotional Face. How Individual Face Parts Contribute to Successful Emotion Recognition,' PLOS ONE , vol. 12, no. 5, May 2017, doi: 10.1371journal.pone.0177239.
+
+[102] M. Slater, B. Spanlang, M. V. Sanchez-Vives, and O. Blanke, 'First Person Experience of Body Transfer in Virtual Reality,' PLOS  ONE, vol. 5,  no.  5, May 2010, doi:  10.1371journal.pone.0010564.
+
+[103] S. S. Seinfeld, R.  Hortensius, J. Arroyo-Palacios, G.  Iruretagoyena, L.  E.  Zapata,  B.  de  Gelder,  M.  Slater  and  M.  V.  SanchezVives, 'Domestic Violence  From  a  Child  Perspective:  Impact  of  an Immersive Virtual Reality Experienceon Men With a History of Intimate Partner Violent Behavior ,' Journal of Interpersonal Violence , vol., 38, vol.34, Jun. 2022, doi: 10.1177_08862605221106130.
+
+[104] A. W. de Borst, M. V. Sanchez-Vives, M. Slater, and B. de  Gelder, 'First -Person Virtual Embodiment Modulates the Cortical Network that Encodes the Bodily Self and Its Surrounding Space during the Experienceof Domestic Violence,' eNeuro ,   v ol .  7 ,   n o .  3 ,   M a y  2 0 20 ,   d o i : 10.1523ENEURO.0263-19.2019.
+
+[105] C. Gonzalez-Liencres, L. E. Zapata, G, Iruretagoyena, S. Seinfeld 'Being the Victim of Intimate Partner Violence in Virtual Reality: First-  Versus Third-Person Perspective,' Frontiers in Psychology ,  vol. 11,  May 2020, doi: 10.3389fpsyg.2020.00820.
+
+[106] S. Kaplan, R. Dalal, and J. 'Luchman. Measurement of Emotions.' pp. 6175, 2013
+
+[107] T.  Luong,  A.  Lécuyer,  N.  Martin,  F.  A.  Sanz.  'A  Survey  on Affective and Cognitive VR.' IEEE Transactions on Visualization and Computer Graphics , 2021, pp.120.ff10.1109/TVCG.2021.3110459ff. ffhal-03469058f
+
+[108] R. W. Picard, Affective Computing. Cambridge, MA: Perceptual Computing Section, Media Laboratory, Massachusetts Institute of Technology, 1995.
+
+[109] S. D. Kreibig. 'Autonomic Nervous System Activity in Emotion: A Review'. Biological Psychology , vol 84, no. 3, pp. 394 -421, 2010 [110] Y. Skversky-Blocq , J. Haaker, and T. Shechner, 'Watch and Learn: Vicarious Threat Learning across Human Development,' Brain Science s,  vol.  11,  no.  10,  Oct.  2021,  doi:  10.3390brainsci11101345.
+
+[111] C. McCall, 'Mapping Social Interactions: The Science of Proxemics,' Current Topics in Behavioral Neurosciences , 2016, pp. 295 -308., doi: 10.10077854_2015_431
+
+[112] M.  Slater,  A.  Rovira,,  R.  Southern,  D.  Swapp,  J.  J.  Zhang,  C. Campbell and M. Levine, 'Bystander Responses to a Violent Incident in an Immersive Virtual Environment,' PLOS ONE , vol. 8, no. 1, Jan. 2013, doi: 10.1371journal.pone.0052766.
+
+[113] M.  M.  Bradley,  M.  Codispoti,  B.  N.  Cuthbert,  and  P.  J.  Lang, 'Emotion and Motivation I: Defensive and Appetitive Reactions in Picture Processing', Emotion (Washington, D.C.), vol. 1, no. 3, Sep. 2001.
+
+[114] M.  Kaitz,  Y.  Bar-Haim,  M.  Lehrer,  and  E.  Grossman, 'Adult Attachment Style and Interpersonal Distance.,' Attachment &amp; Human Development , vol. 6, no. 3, pp. 285 -304, 2004, doi:0.108014616730412331281520.
+
+[115] A.  Barliya,  L.  Omlor,  M.  A.  Giese,  A.  Berthoz,  and  T.  Flash, 'Expression of Emotion in the Kinematics of Locomotion,' Experimental brain research, vol. 225, no. 2, Mar. 2013, doi: 10.1007s00221-012-3357-4.
+
+[116] N. Lapidot-Lefler and A. Barak, 'The Benign Online Disinhibition  Effect: Could Situational Factors Induce Self-Disclosure and Prosocial Behaviors?,' Cyberpsychology: Journal of Psychosocial Research on Cyberspace ,  vol.  9,  no.  2,  Jul.  2015,  doi:  10.5817CP2015-2-3
+
+[117] A. 'Skip' Rizzo and S. T. Koenig, 'Is clinical virtual reality ready for primetime?,' Neuropsychology , vol. 31, no. 8, pp. 877 -899, Nov.  2017, doi: 10.1037neu0000405.
+
+Elsevier Enhanced Reader, Sep. 01, 2013.
+
+[119] Dey, A., Piumsomboon, T., Lee, Y., &amp; Billinghurst, M. (2017). Effects of sharing physiological states of players in a collaborative virtual reality gameplay. Proceedings of the CHI '17 Conference on Human Factors in Computing Systems ,  4045 -4056. New York: ACM.
+
+[120] A. L. Williams and C. C. Conway, 'Empathy Does Not Amplify Vicarious Threat Learning,' Behaviour Research and Therapy , vol. 127, p. 103577, Apr. 2020, doi: 10.1016j.brat.2020.103577.
+
+[121] O. Gillath, C. McCall, P. R. Shaver, and J. Blascovich, 'What Can  Virtual Reality  Teach  Us  About  Prosocial  Tendencies  in  Real  and  Virtual Environments?,' Media Psychology , vol. 11, no. 2, pp. 259 -282, Jun. 2008, doi: 10.108015213260801906489.s
+
+[122] M.  Slater  et  al .,  'The  ethics  of  realism  in  virtual  and  augmented reality,' Frontiers in Virtual Reality , vol. 1, 2020. doi:10.3389/frvir.2020.00001
+
+[123] K.  Kilteni,  J.  Grau-Sánchez,  M.  Veciana  De  Las  Heras,  A. RodríguezFornells,  and  M.  Slater,  'Decreased  corticospinal excitability  after  the  illusion  of  missing  part  of  the  arm,' Frontiers in Human Neuroscience , vol. 10, 2016. doi:10.3389/fnhum.2016.00145
+
+Elizabeth  M.  Jacobs received  a bachelor's in science, in the field of Psychology, from the University of York, in 2021. She is a current PhD student  in  the  integrated  study  of psychology and computing science, at the University of Glasgow. She is a research student within the SOCIAL AI CDT, which is funded by the UKRI. Her research  interests  include  emotion  science,  non-verbal  behavioural analysis and artificial intelligence.
+
+Professor Frank Pollick obtained BS degrees in physics and biology from MIT in 1982, an MSc  in Biomedical Engineering from Case Western Reserve University in 1984 and a PhD in Cognitive Sciences  from  The  University  of California, Irvine in 1991. Following this he was an invited researcher at the    ATR    Human    Information
+
+Processing  Research  Labs  in  Kyoto,  Japan  from  1991-97.  He  is interested in the perception of human movement and the cognitive neural processes that underlie our abilities to understand the actions of others.
+
+Dr  Fani  Deligianni holds  a  PhD  in Medical Image Computing (Imperial College London), an MSc  in  Advanced Computing  (Imperial  College  London), an MSc  in Neuroscience (University College London) and a MEng (equivalent)  in  Electrical  and  Computer Engineering (Aristotle University,
+
+Greece). She developed sophisticated computational approaches in machine learning, statistics and network analysis for the investigation
+
+[118] J.  H.  Kryklywy,  S.  G.  Nantes,  and  D.  G.  V.  Mitchell, 'The Amygdala Encodes Level of Perceived Fear but Not Emotional Ambiguity in Visual Scenes,' Behavioural Brain Research , vol. 252, no.1 of human brain structure and function. Recently, her work is focused ' 2023 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.GLYPH&lt;13&gt;GLYPH&lt;10&gt;See https://www.ieee.org/publications/rights/index.html for more information. Authorized licensed use limited to: University of Minnesota. Downloaded on October 25,2023 at 17:32:30 UTC from IEEE Xplore.  Restrictions apply.
+
+This article has been accepted for publication in IEEE Transactions on Affective Computing. This is the author's version which has not been fully edited and content may change prior to final publication. Citation information: DOI 10.1109/TAFFC.2023.3323043
+
+on  human  motion  analysis  with  wearable  sensors  and  single  rgb(d) camera for healthcare applications.

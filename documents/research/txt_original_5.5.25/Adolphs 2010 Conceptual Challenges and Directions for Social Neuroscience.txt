@@ -1,0 +1,1258 @@
+Neuron
+Review
+Conceptual Challenges and Directions
+for Social Neuroscience
+Ralph Adolphs1,*
+1California Institute of Technology, Pasadena, CA 91125, USA
+*Correspondence: radolphs@caltech.edu
+DOI 10.1016/j.neuron.2010.03.006
+Social neuroscience has been enormously successful and is making major contributions to ﬁelds ranging
+from psychiatry to economics. Yet deep and interesting conceptual challenges abound. Is social informationprocessing domain speciﬁc? Is it universal or susceptible to individual differences and effects of culture? Arethere uniquely human social cognitive abilities? What is the ‘‘social brain,’’ and how do we map socialpsychological processes onto it? Animal models together with fMRI and other cognitive neuroscience
+approaches in humans are providing an unprecedented level of detail and many surprising results. It may
+well be that social neuroscience in the near future will give us an entirely new view of who we are, how weevolved, and what might be in store for the future of our species.
+Introduction
+Social neuroscience was ﬁrst coined as a term and proposedas a ﬁeld in 1992, at the beginning of the Decade of the Brain,
+in an article that stressed the need to apply an interdisciplinary,
+multilevel analysis to understanding social behavior and cogni-tion ( Cacioppo and Berntson, 1992 ). Yet at that time, one of the
+major tools available to study the social brain—neuroimaging—was limited. Following earlier studies using positron emissiontomography (PET), it took nearly a decade for functional
+magnetic resonance imaging (fMRI) to establish itself as the
+most prominent approach in social neuroscience. Work in the1990s instead progressed along diverse lines, including
+a variety of seminal studies on afﬁliative behaviors in animals
+as well as on issues related to clinical health and socioemo-tional processes. Some of the most inﬂuential studies werebased on focal brain lesions in both monkeys and humans,
+but these studies could only be carried out by relatively few
+laboratories. There was also still a substantial public resistanceto the very idea of social neuroscience or indeed any approach
+that people associated with sociobiology. Not surprisingly, at
+that time genetics somewhat overshadowed neuroscience,both in terms of the science done and in terms of the socioeth-
+ical objections to it.
+That has changed. Although it took several more years for
+fMRI studies to follow the call of Cacioppo and Berntson’s initialarticle ( Cacioppo and Berntson, 1992 ), the year 2001 saw the
+publication of the ﬁrst edited volume on social neuroscience
+led by the same authors ( Cacioppo et al., 2001 ), as well as
+a seminal article outlining explicit synergies between cognitive
+neuroscience (by then well deﬁned) and social psychology
+(Ochsner and Lieberman, 2001 ). By now everyone is aware
+that the neurobiology of social behavior (henceforth, ‘‘social
+neuroscience’’) is a burgeoning ﬁeld: there are numerous confer-
+ences, calls for funding proposals, even new journals and socie-ties attesting to its popularity (for instance, the new society for
+social neuroscience, www.s4sn.org ). Its impact has spread
+from social psychology ( Ochsner and Lieberman, 2001 ) to thestudy of decision making (as in the investigation of social factors
+in neuroeconomics) ( Camerer, 2003; Fehr and Camerer, 2007 )t o
+the study of numerous psychiatric illnesses (from autism to
+schizophrenia) ( Cacioppo et al., 2007 ) and highlighted a number
+of animal models (see Sokolowski [this issue of Neuron ]). So
+dominant is the approach in the behavioral and social sciences,in particular the use of fMRI to probe cognitive processes, that it
+threatens to displace traditional behavioral economics, socialpsychology, and even aspects of political science.
+Many of the foundational issues that the ﬁeld debated over
+a decade ago still remain, and new ones have been added(Adolphs, 2003b ). These issues are challenges not only for
+the study of social cognition, but important for cognitive neuro-science generally and critical to our understanding of thehuman mind in both health and disease. It is probably fair tosay that the technical advances and the sheer accrual of data
+are rapidly outstripping our ability to understand it all. In
+response to the ethical concerns around cognitive neurosci-ence in general, there is now a society for neuroethics. In
+response to methodological concerns about the statistical anal-
+yses associated with fMRI, there is now a healthy corpus ofwritings (e.g., Kriegeskorte et al., 2009; Vul et al., 2009 )a s
+well as numerous responses and universal awareness of theissues. But conceptual challenges remain often unarticulated,a situation exacerbated by the breakneck pace of research,
+which leaves one little time to step back from the deluge of
+weekly papers to read and reﬂect on the questions. I stepback here and highlight some of the key questions, importantapproaches, and conceptual challenges in social neuroscience.
+Many of them make direct contact with the other reviews in this
+special issue. While I provide numerous examples from theliterature throughout, this is not intended to be an in-depth
+review of social neuroscience ( Adolphs, 2003a, 2009; Amodio
+and Frith, 2006; Frith, 2007; Moll et al., 2005; Saxe, 2006b )
+but rather a more theoretically oriented discussion of itsconceptual foundations and challenges, with an emphasis on
+studies in humans.
+752 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.
+
+Social Perception
+Social behavior is as ubiquitous as it is essential, since every
+species has more than one of its kind and depends on others
+of its kind. In a very broad sense, all life is social, a truism thatapplies equally to phylogenetic observations as it does to
+everyday life for Homo sapiens in particular. These consider-
+ations threaten to equate social neuroscience with all of neuro-
+science, with nothing proprietary left to deﬁne the ﬁeld. However,a quick sketch of how socially relevant information is processed
+begins to show how social neuroscience is distinct and sets the
+stage for the conceptual themes and challenges we review here.There are three broad stages of social information processing to
+brieﬂy consider: perception, cognition, and regulation ( Table 1 ).
+We can begin with the transduction and perception of social
+information. Detection of pheromones, somatosensation ofaffective touch, auditory perception of conspeciﬁc songs in
+passerine songbirds, and visual perception of faces in sheepand primates, to name just a few examples, all draw uponfeatures of perception in general. But there is already a difference
+from perception in general here: at least some aspects of these
+examples of social perception feature ‘‘labeled line’’ pathways,or ‘‘modular’’ central representations, that are dedicated to
+that particular type of stimulus. Pheromonal communication
+through the vomeronasal organ is perhaps the clearest example,since this entire sensory modality is specialized for social infor-
+mation beginning at the periphery ( Insel and Fernald, 2004 ). A
+good analogous example in insects is the recent discovery that
+11-cis-vaccenyl acetate is a male-speciﬁc pheromone for
+aggressive behavior in ﬂies, acting through an equally speciﬁc
+olfactory receptor ( Wang and Anderson, 2010 ). A similarly
+speciﬁc molecule and its neural signature in the olfactory systemhas been identiﬁed in mice, in this case for mate attractiveness
+through the molecule’s presence in mouse urine ( Lin et al.,
+2005 ). And there is a plethora of model systems in which the
+olfactory signature of a conspeciﬁc is linked in memory tospeciﬁc social behaviors, such as the well-known afﬁliative
+behaviors of prairie voles ( Insel and Young, 2001 ) and bonding
+between sheep ewes and their offspring triggered by parturition
+(Broad et al., 2006 ). These last two examples involve actions of
+the peptide oxytocin, which modulates human social behavior
+(Kosfeld et al., 2005 ) and neural responses ( Baumgartner et al.,
+2008 ) as well and is a current hot topic of social neuroscience
+investigations. While the role of pheromones in human socialbehavior is likely to be modest compared to other sensorymodalities, and the detailed mechanisms remain debated, there
+is a growing set of behavioral and neuroimaging studies exam-
+ining this topic as well. Many of these instances are likelymediated through the main olfactory system rather than the vom-
+eronasal system, which is also a major conduit for social percep-
+tion across a wide range of mammalian species ( Sanchez-
+Andrade and Kendrick, 2009 ). The existence of such ‘‘labeled
+lines’’ for social perception is probably driven by the fact thatthe stimuli are generated by conspeciﬁcs, decoupling themfrom other environmental stimuli and facilitating the coevolutionof dedicated channels for social communication.
+Complex patterned stimuli that are ingredients in social
+communication, while not so specialized in their perception atthe very periphery, also feature specialized central systems fortheir perception and representation: song-selective neurons inthe forebrain nuclei of passerine songbirds ( Margoliash, 1983 )
+and face-selective neurons in the temporal lobe of primates
+(Tsao et al., 2006 ) and sheep ( Tate et al., 2006 ) are examples.
+As with the social perception of odorants, these are beautiful
+model systems for studying sensory processing and perceptionfor social behaviors. Once again, they have human analogs:
+for instance, a speciﬁc region in the ventral temporal lobe of
+humans that is selectively activated by the sight of faces(Kanwisher et al., 1997; McCarthy et al., 1997 ), a topic we take
+up in more detail below.
+Social touch is an interesting somatosensory channel that has
+received some recent attention in studies in humans. Beginning
+with observations of patients with rare demyelinating diseases
+who could perceive a caress as pleasurable but fail to localizeit on their body ( Olausson et al., 2002 ), it has become clear
+that there are labeled-line pathways from the skin to regionssuch as insular cortex that transmit affective properties of socialtouch ( Lo¨ken et al., 2009; Morrison, 2009 ). This modality is ripe
+for deeper investigation in other species, especially given the
+well-known importance of social touch for normal development
+in mammals ( Francis et al., 1999; Harlow and Harlow, 1962 )
+and the importance of social grooming for maintaining social
+relationships in nonhuman primates ( Dunbar, 2008 ).
+Thus, already at the level of perception (for pheromones and
+affective touch, already at the level of sensory transduction),
+there is evidence for domain-speciﬁc processing of social infor-
+mation. There
+remain debates over how exactly to describe such
+specialized processing—does it meet criteria for Fodor-stylemodularity ( Fodor, 1983 )? Is it domain speciﬁc (specialized for
+a circumscribed class of stimuli) or process speciﬁc (specializedfor a particular type of computation) ( Tarr and Gauthier, 2000;
+Yovel and Kanwisher, 2004 )? In terms of its neural substrates:
+are there regions and systems neuroanatomically specializedfor social perception? At the most peripheral levels, the answerseems to be a clear ‘‘yes.’’ There are specialized transduction
+channels for social communication as noted above. On the other
+hand, there are narrow-bandwidth channels for many stimuli;Table 1. Stages of Social Information Processing
+Social Perception Social Cognition Social Regulationpheromones theory of mind cognitive control
+face perception simulation emotion regulation
+speech perception empathy monitoring/error correction
+social touch social judgment self-reﬂection
+biological motion moral judgment deception
+Potential Attributes
+fast inferential individual differences
+automatic automatic controlled and effortfulimplicit uniquely human uniquely human
+domain speciﬁc context sensitive very context sensitive
+labeled lines biased impaired in psychiatric illness
+Three broad stages of processing outlined in the main text are provided
+with some examples, and with some of the attributes and roles they are
+often proposed to have.
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 753Neuron
+Review
+
+different classes of photoreceptors and mechanoreceptors all
+feed processing channels that are to some degree segregated
+both functionally and anatomically. So while social perception
+may occupy some unique channels for sensory processing, thefact that it does so is not unique.
+Social Cognition
+Social cognition may be another matter. Once we go beyondprocessing driven primarily by the sensory input and considerthe attributions and inferences that we make in order to
+construct a richer representation of the distal stimuli that caused
+the sensory input, social cognition recruits processes that seemto ﬁnd no analog in nonsocial cognition. We quickly recognize
+how somebody is feeling, what they intend to do, and whether
+they are friend or foe by making such inferences. Indeed, wedo it so compulsively and automatically (as borne out in our
+propensity to anthropomorphize), that it is sometimes difﬁcult
+to appreciate the rich elaboration that is required. An importanttopic in social psychology that blossomed in the 1980s ( Fiske
+and Taylor, 1984 ), social cognition features a very rich repertoire
+of attributions that make us see the world imbued with socialmeaning. When we perceive a facial expression in a particularcontext, we not only see the face and the context, but immedi-
+ately generate knowledge about something that we can never
+observe directly: the mind of another person. So-called ‘‘theoryof mind’’ is a large topic in social neuroscience, with a huge liter-
+ature questioning whether it exists in animals other than humans
+(Penn and Povinelli, 2007; Premack and Woodruff, 1978;
+Tomasello et al., 2003 ), showing how to study it using fMRI ( Saxe,
+2006b ), and demonstrating its impairment in autism ( Baron-
+Cohen, 1997; Frith, 2001 ); we take it up in more detail below.
+Of course, inference and ﬁlling-in are commonplace in sensory
+processing—as anybody who has seen the ‘‘edges’’ in an illusory
+Kanisza triangle will testify. But in all those cases, what is ﬁlled in
+is more of the same stuff, just extended in space and/or time.What is ﬁlled in for the case of social cognition is another kind
+of stuff: we see a person’s face, and we ﬁll in the unobservable
+psychological states of a person by which we attempt to predicttheir behavior. The case is also disanalogous to ﬁlling-in with
+causal perception. We do project the future trajectories of
+objects, and we ﬁll in their physical properties from which weinfer such projections. But it is only when we engage with socialstimuli that mental attributes are inferred, typically with
+a concomitant sense of reciprocal involvement and normative
+evaluation that ﬁnds no obvious parallel in nonsocial stimuli.Plausibly, there are levels of intermediate inference between
+the physical causal attributions we make and the full-blown attri-
+butions of another conscious mind—such as attributions ofagency and animacy that apply to a wide range of other organ-
+isms and that likely emerge earlier in development and
+phylogeny than do attributions of minds as such.
+Perhaps one of the best examples of a social inferential
+process is the currently hot topic of action perception throughsimulation, which is thought also to be related to emotional simu-lation in empathy ( de Vignemont and Singer, 2006 ). Intentional
+actions can be distinguished from nonintentional actions in
+several primate species ( Wood et al., 2007 ), and primates have
+so-called ‘‘mirror neurons’’ that respond both when the animal
+executes a goal-directed action and when it observes someoneelse perform that same action ( Rizzolatti and Craighero, 2004 ).
+This mechanism may underpin aspects of social learning and
+constitute a key component of social cognition ( Gallese et al.,
+2004 ). Again, in the absence of anthropomorphizing, it ﬁnds no
+clear analog in nonsocial cognition.
+Of course, one can argue with this view of social cognition as
+special and see the story instead much like what I sketched for
+social perception: inference, attribution, and ﬁlling-in are ofa special sort for social stimuli, but the general computational
+process is ubiquitous in how the brain processes information.
+Perhaps the most decisive evidence in favor of the view thatsocial cognition is special is neurobiological: different brain
+structures are involved. Social neuroscience has now identiﬁed
+a network of structures that all seem to come into play dispropor-tionately when we think about other people, as opposed to when
+we think about nonsocial objects: it includes medial prefrontal
+cortex, sectors of the temporoparietal junction, regions contain-ing ‘‘mirror neurons,’’ and others ( Adolphs, 2009; Amodio and
+Frith, 2006; Saxe, 2006b ). While the precise anatomical delinea-
+tion of this so-called ‘‘social brain’’ remains a topic of intenseinvestigation (one which we discuss further below), its fuzzinessdoes not detract from its prominent role in carving out what is
+special about social cognition (indeed, some recent proposals
+argue that this will be thebasis for delineating social cognition
+as distinct [ Mitchell, 2009 ]).
+Social RegulationFinally, we also are able to step back and regulate and controlour thinking and our behavior using metacognitive abilities.
+This certainly plays a large role in human social behavior but
+does not appear to be unique to the social domain, since wehave to reﬂect on all aspects of our behavior and control all kindsof thoughts and actions all the time. It is, however, quite possible
+that the evolution of our extensive cognitive control, especially in
+relation to emotion regulation, was driven by social factors—notably, the advantage in being able to deceive others. I mention
+regulation here primarily for completeness and because of the
+noted likely importance especially of emotion regulation, a topicof great interest to those studying social development and also
+a major contributor to social dysfunction when impaired ( David-
+son, 2002; Ochsner and Gross, 2005 ).
+This brings us back to a question related to the one we posed
+at the beginning of our discussion concerning the boundaries ofthe ﬁeld of social neuroscience: is all social processing
+emotional? The learning and regulation of emotions featuresvery prominently in social neuroscience ( Olsson and Ochsner,
+2008 ). Recognition of emotions is a very popular topic of study
+and constitutes
+an important aspect of social communication.
+And the so-called social or moral emotions are precisely that—
+they arise only in a social context. It may be that the complexity
+of the social environment has driven the emergence of moreﬁnely differentiated emotions, and those are the ones we typi-
+cally have names for and consider emotions, even though other
+states such as hunger and thirst play a similar functional role andshare many of the same neural substrates ( Panksepp, 1998 ).
+While emotion and social cognition are closely intertwined, it
+also seems that many aspects of social cognition do not involve
+blatant emotional reactions—we can recognize the identity ofa person from their face or decide on a particular strategic
+754 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+course of deliberate action without the obvious involvement of
+emotions. An important question for the future is therefore
+why, when, and how emotion participates in social cognition.
+This brief review of some of the broad components of social
+information processing argues that the brain treats social stimuliin many ways differently from nonsocial stimuli and suggests that
+social neuroscience studies a select set of processes that aredistinguished computationally, in terms of their content, and interms of their underlying neural substrates. It also points to ques-
+tions we should ask if we want to conduct investigations in social
+neuroscience. I discuss several conceptual issues further belowbut ﬁrst brieﬂy consider an overarching question regarding why
+anybody would ﬁnd this interesting in the ﬁrst place.
+Why Is It Interesting and Important to Investigate
+Social Neuroscience?Any researcher in the ﬁeld should be able to provide an answer to
+the question of this section and defend it; any student in the ﬁeld
+or thinking about going into the ﬁeld should be asking the ques-tion. In fact, answers are easy to come by.
+Clinical Relevance and Individual Differences
+One answer arguably underpinning most funding to the ﬁeld isthat it is of patent clinical relevance, and there are many exam-
+ples ranging from psychiatric and neurological disease to healthy
+adolescent development and aging. It will be particularly impor-tant to trace impairments in social functioning to deﬁcits inspeciﬁc stages of social information processing. Looking back
+at the stages of processing we brieﬂy outlined above, we can
+ask the question to what extent a psychiatric illness might resultfrom impaired perception, cognition, or regulation. For instance,
+many mood disorders are thought prominently to feature
+dysfunction in emotion regulation, and there are importantdiscussions about whether autism might result from sensory
+processing impairments or from motivational impairments (the
+latter, in the context of a developmental disorder such as autism,may in turn give rise to the former).
+The diseases that have been highlighted include those for
+which social dysfunction is part of the diagnostic criteria, suchas autism or social phobia, but in fact nearly every psychiatricillness listed in DSM-IV includes aspects of social functioning
+as a core component of real-life impairments. Mood disorders
+in general severely affect our ability to interact with other people,as do schizophrenia, personality disorders, drug addiction, and
+anorexia nervosa. Neurological diseases are also fast to list off:
+lesions in many brain structures impair social cognition, withperhaps the largest population consisting of those with damage
+to the prefrontal cortex arising from traumatic brain injury, e.g.,
+through automobile accidents ( Anderson et al., 1999 ). Neurode-
+generative disorders such as Parkinson’s, Huntington’s, and
+Alzheimer’s disease all impact social functioning, in some cases
+by disproportionately damaging regions of the ‘‘social brain’’(e.g., in frontotemporal dementia [ Kipps et al., 2009 ]). Many of
+the psychiatric diseases are on a continuum with variability in
+the healthy population, and overlapping sets of neural structures
+may be responsible for individual differences and diseases ofsocial cognition. To give just one intriguing recent ﬁnding in
+this vein: using a neuroeconomics approach, it was found that
+people with borderline personality disorder cooperate less withothers and that this is correlated signiﬁcantly with abnormalactivation of the insula to the perception of social signals
+(King-Casas et al., 2008 ).
+These broad perspectives are exciting, because they suggest
+that we can understand illness in part through understandingnormal individual differences and development—or, indeed,
+well-justiﬁed animal models. They are also theoretically excitingbecause they raise questions about the source and adaptivevalue of such variability. Is there an advantage to have evolved
+considerable variability in social behavior? Do other animals
+show similar variability and similar disorders of social behavior?These questions are particularly acute these days because there
+is some evidence that certain diseases of social cognition (e.g.,
+autism) may be increasing in prevalence and because it is clearthat the modern-day social environment of humans is very
+different from the social environment in which we evolved. To
+what extent is the human ‘‘social brain’’ maladapted for themodern social environment we have created for it?Collective Behavior
+This brings us to a second answer to our original question. Social
+neuroscience is interesting and important for understandingcollective human behavior, ranging from the positive (coopera-
+tion and altruism) to the negative (conﬂict and war). This angle
+is of particular interest to anthropologists, economists, andcomparative biologists. From a comparative perspective, it is
+intriguing to consider the evolution of collective behavior. There
+are many examples where behaviors at the level of individualsclearly contribute to collective survival, such as in schools of
+ﬁsh or ﬂocks of birds. These behaviors can be modeled by rather
+simple local rules implemented in the brains of the individual that,once selected, render the behavior of the entire group adaptive(Couzin, 2009 ).
+However, much group behavior features a fundamental
+conﬂict between competition for limited resources (food, mates)and cooperation needed to compete on a larger scale. While it
+might seem that within-group cooperation and between-group
+competition should be the stable solution, within-group cooper-ation is always susceptible to individual free riders that take
+advantage of the group’s resources at the expense of other
+group members. Theoretical, simulation-based, and empiricalstudies have all provided strong reasons for thinking thatcooperation in humans is complex and polymorphic. Popula-
+tions of reasonably large size appear to evolve toward a dynamic
+mixture of types of individuals—some cooperate, some defect,and some are intermediate ( Nowak and Sigmund, 2004 ). This
+picture ﬁts well with empirical data as well ( Kurzban and Houser,
+2005 ) and also with emphasis on individual differences. Indeed, it
+is likely that it will be linked in part to particular genetic polymor-
+phisms that underlie these individual differences. One ingredient
+of particular recent interest is the ﬁnding that costly (altruistic)punishment to enforce cooperation can emerge and stabilize
+cooperation, likely an ingredient essential to many aspects of
+large-scale human social behavior ( Boyd et al., 2003; Fehr and
+Ga¨chter, 2002 ).
+The new ﬁeld of neuroeconomics has gathered tremendous
+momentum and excitement in identifying the neural mechanismsbehind collective behaviors such as cooperation, punishment,and altruism using tools from economic decision theory
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 755Neuron
+Review
+
+(Fehr and Camerer, 2007; Kable and Glimcher, 2009; Rangel
+et al., 2008 ). For instance, the above-mentioned phenomenon
+of altruistic punishment has been studied using neuroimaging,
+with the ﬁnding that the ventral striatum is activated when thirdparties punish what they view as unfair behavior in others. This
+result can be interpreted as resulting from our motivation toward
+altruistic punishment by the prospect of feeling satisfaction,a mechanism analogous to that which motivates behavior to
+obtain expected rewards ( deQuervain et al., 2004 ). A related
+earlier ﬁnding showed that unfair offers made in a trust game re-
+sulted in rejections behaviorally and were correlated with activa-
+tion of the insula, a region known to represent pain and disgust,
+again suggesting that basic reward-related processes alsocome into play during social interactions ( Sanfey et al., 2003 ).
+Similarities in the processes behind reward learning and social
+interactions have been found in many other studies as well: for
+instance, temporal shifts in anticipating trusting behavior mirrorthose seen in anticipating rewards ( King-Casas et al., 2005 ).
+Neuroeconomic approaches to social neuroscience are forginga major quantitative contribution to the investigation of psychi-atric illness and individual differences that we noted in the
+previous section as well. For example, speciﬁc neural signatures
+have been identiﬁed in the brains of people with autism whenthey engage in an economic trust game ( Chiu et al., 2008 ), and
+individual differences in altruistic behavior are correlated withindividual differences in activity within dorsolateral prefrontalcortex, a region known to be important for cognitive control(Hare et al., 2009; Knoch et al., 2009 ).
+If the advantage to cooperate is large, such as in species
+where group selection may operate, eusocial behavior canemerge: the highly organized division of labor and reproduction
+seen in species such as ants, termites, and bees ( Figure 1 ). Only
+two species of mole rats, a fossorial rodent, have evolved euso-
+cial behavior in mammals, possibly due to the very specialized
+adaptive challenges in securing a stable food supply in those
+species. Other mammalian species have instead evolved moreﬂexible and less stable forms of collective behavior—in primates,ones that involve deception and strategic behavior. It is an inter-
+esting question whether human evolution would eventually result
+either in extinction of our species or in a species with stablycooperative social behaviors reminiscent of eusociality.
+Insights for Basic Research
+There are also two less applied and more basic reasons why it isinteresting and important to do experiments in social neurosci-
+ence. One valid reason is that the study of social information pro-
+cessing will inform cognitive neuroscience, and neurobiology,
+Figure 1. Two Eusocial Species
+Eusociality refers to the rigid and highly organized colonial behavior seen in some insect species, such as ants, termites, and bees. It involves overlapping gener-
+ations, cooperative care of the young, and specialized castes, including allocation of reproduction. On the face of it, its evolution seems impossible, since an
+individual’s advantage in passing on its genes should always trump its eusocial role as a nonreproductive caste. However, some insects with haplodiploidy (where
+the number of chromosome copies determines sex) feature the interesting phenomenon that an individual may be genetically more closely related to a sibling thanto their offspring, raising the possibility that kin selection can drive the evolution of eusociality. However, even this does not seem enough, and group selection
+(i.e., at the level of the entire colony) appears to be necessary and may in fact be the key driving force for the emergence of eusociality ( Wilson and Ho ¨lldobler,
+2005 ). This requires several convergent criteria that favor cooperation and can be considered a highly advanced transition into a tightly colonial existence often
+called a ‘‘superorganism.’’
+Evidently, it is very difﬁcult for eusociality to arise, but once established it is extremely successful and stable. For instance, out of the over 2600 families of artho-pods, only 15 contain eusocial species. Ants and termites comprise only about 2% of insect species, yet they constitute over half of the globe’s total insect
+biomass. In vertebrates, eusociality only exists in two species of mammals, both mole rats found in Africa. Intriguingly, some of the conditions for the evolution
+of eusociality and for the highly cooperative behaviors of eusocial species have been suggested to be present in humans as well, raising the possibility that groupselection and a transition to a different form of collective existence may be at play in our species as well.
+(Left) The naked mole rat, Heterocephalus glaber , one of only two eusocial mammals. These rodents have social structures similar to those seen in bees and ants:
+a single breeding queen and division of sexual reproduction and labor among all the individuals within a subterranean hive. Naked mole rats cannot live for long lefton their own and require the specialized cooperative behaviors of other members of their colony to thermoregulate, obtain food, and defend against potential
+predators. They are also fascinating because they have the longest lifespan of any rodent and a surprisingly large brain specialized for somatosensory and olfac-tory processing (image by Rochelle Buffenstein) ( Jarvis and Sherman, 2002 ).
+(Right) Excavation of a leafcutter ant nest by Bert Ho ¨lldobbler and colleagues, showing the intricate way in which this ‘‘superorganism’’ has structured its
+environment. Photo by Wolfgang Thaler from Ho¨lldobler and Wilson (2008) .
+756 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+more generally. A second, often more personal, reason is that it
+is fascinating to ask how and why the human mind appears to be
+so different from the minds of all other animals—how and why do
+we have language, self-reﬂection, and conscious experience ina way other animals very likely do not (see Byrne and Bates
+[this issue of Neuron ])? Often implicit here is the assumption
+that whatever it is that is ‘‘uniquely human,’’ it has to do with
+our social cognitive abilities. At the heart of the puzzle is ourability to step back from the current experience of the world in
+which we are caught up, and by doing so to generate a concept
+of the distinction between subject and object, between mind andworld. This ability is presumably also related to our concern for
+ourselves and our species, because it gives us a glimpse into
+our mortality. It seems unlikely that any other animal feelsa need for religion or can contemplate suicide, just as it seems
+unlikely that any other animal can worry about the future of its
+species, let alone attempt to intervene in a directed way; onthe other hand, evidence to support our intuitions in this regardis extraordinarily difﬁcult to come by. Answers to this aspect of
+social neuroscience will recast our understanding of who we
+are, where we came from, and what we might become.
+Finally, it would be an omission not to acknowledge that of
+course understanding social behavior requires much morethan cognitive neuroscience, more than neurobiology, andindeed more than biology. This realization is one reason the ﬁeld
+is so exciting: it is vibrantly interdisciplinary. We can ask ques-
+tions from within philosophy, we can investigate social behaviorwith models that require no biological data at all, and we can
+engineer social robots. Social neuroscience is not, and cannot
+be, the only way to investigate social behavior; but it will be indis-pensable if we want to uncover the underlying mechanisms,understand how individual differences arise, and formulate tar-
+geted interventions for treating disease.
+Current Themes and Debates
+I will consider primarily one overarching question, which spawns
+several subquestions, each of them topics and challenges in
+social neuroscience. The question is: What is the mappingbetween brain structures and psychological processes?
+For behavioral, systems, and cognitive neuroscience, this is
+arguably the key question of all. Parts of it are straightforwardto address, other parts are extremely difﬁcult. A starting pointfor providing an answer is historical. When Franz Josef Gall
+conceived of phrenology in the late 1700s, it became wildly
+and derisively popular in America in the early 1800s. One reasonfor the popularity is that it provided a concrete basis for
+psychology—it carved the mind up into neat little modules
+(27 of them, to be exact) and put them in their place in the brain(Gall’s magnum opus was a six-volume treatise on the idea pub-
+lished between 1822 and 1825). Gall, Spurzheim, and their
+followers argued that speciﬁc mental ‘‘organs’’ were localizedin speciﬁc brain regions (an extreme form of anatomical modu-larity) and that, moreover, the degree of the mental ability or
+propensity was directly related to the size of the responsible
+brain region, something that could be inferred from palpatingthe bumps on people’s skulls. While essentially every aspect of
+phrenology was grossly incorrect in its details, the approach
+was both attractive and in fact reasonable. What have welearned since then? I think there are two important lessons: ﬁrst,no single brain structure maps any central psychological
+process we can conceive of, so it is a challenge to delineate
+the neuroanatomy; second, it is unclear what psychologicalprocesses to map in the ﬁrst place.
+What Are the Brain Structures?
+It is easy to see that this question, while in principle straightfor-ward, is empirically extraordinarily difﬁcult. Concepts such asthe limbic system, and even otherwise well-regarded structures
+such as the amygdala ( Swanson and Petrovich, 1998 ), have
+been cast into doubt as the right way to carve up the neural
+tissue. The idea that there are specialized structures that consti-
+tute a neural system for processing social information, the
+so-called ‘‘social brain’’ (Brothers, 1990 ), has guided social
+neuroscience studies in humans for the past two decades and
+led to a collection of structures that regularly turn up in fMRI
+studies of social cognition ( Adolphs, 2009; Frith, 2007; Saxe,
+2006b ). Certain structures, such as medial prefrontal cortex,
+turn up so reliably across studies and across different social
+processes that they have been suggested by some as the neuro-
+anatomical basis for specifying a proper domain for socialpsychology ( Mitchell, 2009 ). But the exercise of outlining sets
+of structures in these studies has also begun to outline the chal-lenges faced by any attempt to delineate neuroanatomicallya system for processing social information. The relevant brain
+structures almost never map cleanly onto some macroscopic
+region or Brodman Area. Instead, subregions, or subpopulationsof neurons within a region, will be the relevant level of grain.
+Of course this progression is found within all cognitive neuro-
+science, not only social neuroscience: regions originally postu-lated to implement some process become progressively morefractionated as techniques with better spatial and temporal reso-
+lution arise. One recent example is a debate about the role of the
+temporoparietal junction (TPJ) in subserving ‘‘theory of mind,’’our ability to infer mental states from descriptions or observa-
+tions of people’s actions. On one side of the debate it was
+argued that the TPJ is selectively activated by theory-of-mindtasks ( Saxe and Powell, 2006 ); on the other side, it was argued
+that this cortical region subserved a more general function in di-recting attention ( Mitchell, 2007 ). The debate is now partly
+resolved by the ﬁnding that separate sectors of the TPJ sub-served these two competing processes, so closely adjacent
+that they could not be spatially resolved in the prior studies
+(Scholz et al., 2009 ).
+A similar fractionation into smaller regions has occurred for
+many other structures, in the case of social cognition in particularfor regions of the prefrontal cortex ( Barbey et al., 2009).
+However, the felt need to map processes onto spatially deﬁned
+regions is giving way to multivoxel analyses, in which classiﬁca-
+tion algorithms from machine learning are applied across thebrain to decode processes without requiring clean spatial
+segregation ( Mur et al., 2009 ). This approach emphasizes how
+the brain represents social information—the discriminations it
+makes—without analyzing where (although decoding ap-
+proaches can
+also be applied in a searchlight fashion to get
+some spatial information). Even so, BOLD-fMRI will presentfundamental limitations that preclude ﬁndings such as those ob-tained from single-unit electrophysiology. For instance, single
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 757Neuron
+Review
+
+neurons in the human temporal lobe have been found to encode
+very high-level semantic knowledge about speciﬁc people: they
+respond both when shown the face of a famous actor and also
+when reading the actor’s name ( Quian Quiroga et al., 2009 ). No
+equivalent responses have yet been decoded using fMRI, and
+given the very sparse and diverse neuronal response categories,
+it seems unlikely that this can be achieved.
+A conceptually difﬁcult challenge is posed by the realization
+that no brain structure, or subpopulation of neurons, operates
+in isolation: we need to look at connected systems, whose
+boundaries are even harder to deﬁne. A full understanding ofsocial information processing needs to acknowledge that the
+processing is not only spatially distributed but also temporally
+dispersed. This is now well known, although the bulk of lesionand functional neuroimaging studies nonetheless still produce
+data that are phrenological in ﬂavor by concentrating on a single
+region—often without even knowing from where it receives itsinputs nor what its projection ﬁeld encompasses. The adventof recent tools for exploring structural and functional connec-
+tivity in the brain is having some effect on the data produced,
+but it is still difﬁcult to think about processes as implementedin dynamic brain networks. On the other hand, descriptions in
+this spirit have been around for quite a few years in computa-
+tional neuroscience, and some empirical studies have generatedsuch a picture as well ( Laurent, 2002 ). The problem has been
+linking such dynamic network descriptions to processes at thesystems and cognitive level in mammals. Yet the need fora distributed-systems approach is widely acknowledged; even
+Leslie Brothers’ original description of the ‘‘social brain’’
+(Brothers, 1990 ) outlined a set of distributed structures. A good
+example of such a direction in social neuroscience is thediscovery of connected patches of temporal and frontal cortex
+that process faces in primates ( Moeller et al., 2008 ). Ultimately,
+we will need an account of how such distributed neuronal repre-
+sentations, at particular points in time, make explicit social infor-
+mation that can be used to guide behavior.
+An even more challenging question is whether the body and
+the external environment participate in psychological processes,taking social information processing outside of the brain alone.
+There are patent ways in which this happens all the time, suchas when we use calculators, computers, or pencil-and-paperscratchpads to ofﬂoad information processing from brain to
+environment. There are highly contentious ways in which (to
+some thinkers) it is conceivable that conscious experience itselfsomehow depends on more than just brain events ( Clark and
+Chalmers, 1998 ). In fact, there are reasonable arguments to think
+that this is not only possible but necessary in order to ground theotherwise meaningless events that happen in the brain: they
+must be connected to the world in some way (the so-called clas-
+sical ‘‘symbol-grounding problem’’). These discussions arecontinuous with philosophy of mind and nonspeciﬁc to the social
+domain; they constitute one of the most vigorous current lines of
+research in ‘‘embodied cognition.’’ But they have been high-lighted most visibly within social neuroscience. Investigationsof empathy, simulation, and the ‘‘mirror neuron system’’ all
+postulate the engagement in an observer of some mechanisms
+similar to those seen in another person, in virtue of which socialknowledge can be generated. The topic originated in thediscovery of ‘‘mirror neurons’’ that respond both to the executionand observation of a speciﬁc action in monkeys we noted earlier
+(Rizzolatti et al., 2001 ) and were quickly adopted by cognitive
+neuroscience to explain action observation more broadly in hu-
+mans as well ( Gallese and Goldman, 1999 ). While the original
+focus, and still the best correspondence between monkey andhuman data, is restricted to goal-directed actions ( Rizzolatti
+and Fabbri-Destro, 2008 ), social neuroscience studies using
+fMRI in humans have considerably broadened the scope of
+such mirroring mechanisms. For instance, human fMRI studies
+have found that the observation and imitation of facial expres-sions engage overlapping brain regions ( Carr et al., 2003 ), that
+observing a spouse experience pain activates regions overlap-ping with those when one experiences pain oneself ( Singer
+et al., 2004 ), and that more generally the experience and recog-
+nition of emotions draw on shared mechanisms ( Bastiaansen
+et al., 2009; Goldman and Sripada, 2005 ). A related thread, this
+time originating from the perceptual end rather than the motorend, is found in the idea that concepts are grounded in the
+representations through which they were acquired ( Barsalou,
+1999 ). All of these accounts aim toward some kind of grounding
+of central representations in more peripheral representa-tions, whether sensory, motor, or both. Yet the literature on
+‘‘embodied’’ or ‘‘situated’’ social cognition is typically rathervague as to the exact claims.
+Is embodiment thought to literally involve the body, or just
+central representations of the body? Are perceptual or motoricrepresentations in the brain thought to be merely involved, or
+constitutive of social cognition? These and other questions
+require careful dissection, have engaged philosophers as wellas cognitive neuroscientists ( Goldman and de Vignemont,
+2009 ), and have to some extent continued a long-standing
+debate about the very status of simulations ( Saxe, 2005 ), reminis-
+cent in many ways of the debate about the status of visualimagery ( Kosslyn et al., 2003 ). In both of those cases, some
+thinkers ﬁnd it intuitively plausible that there are central, oftenamodal, representations that function much like sentences:
+they represent by description (through the functional properties
+ofsymbols).
+Other thinkers ﬁnd it inconceivable how there could
+be only such representations, and believe that, at some level, the
+symbols need to merge with what they represent: they representby resemblance, much like a map. These issues hark back to
+provocative proposals about how all abstract thought itself might
+be based on bodily experience ( Lakoff and Johnson, 1999 ).
+There is also a more recent and speciﬁc debate about the
+conditions under which simulation-like mechanisms of socialcognition might be deployed, as contrasted with so-called‘‘theory-of-mind’’ mechanisms, which are presumed to generate
+similar knowledge of other minds, but in a more deductive
+fashion that does not require actual simulation. There is nowsome acknowledgment that there are multiple mechanisms for
+inferring the internal states of other people, relying on multiple
+neural substrates, collectively referred to as ‘‘mentalizing’’ ( Frith
+and Frith, 2006 ). The extent to which ‘‘simulation’’ versus
+‘‘theory’’-like mechanisms are used likely depends on the
+context, with simulation-like mechanisms perhaps coming into
+play predominantly when we observe those people with whomwe identify the most ( Mitchell et al., 2006 ) or when we observe
+758 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+actions that are familiar ( Brass et al., 2007 ) (but see Apperly
+[2008] for the view that the simulation/theory distinction is
+conceptual and unlikely to be resolved by data). That we would
+engage simulation-like mechanisms when we observe thosepeople who are the most similar or emotionally close to ourselves
+makes intuitive sense and is borne out in studies of both pain
+(Singer et al., 2004 ) and reward observation ( Mobbs et al., 2009 ).
+The general issue of the extent to which central cognition
+draws upon motor and sensory representations in the brain, on
+the body itself, and on the external environment may be espe-
+cially acute in the case of social cognition for a number ofreasons ( Adolphs, 2006 ). One reason is that the social environ-
+ment (other people) is interactive: the simplest way to ﬁnd outabout somebody else’s internal states is not necessarily throughdetailed observation, but through simply asking them how they
+feel or what they are thinking. A second reason may be that
+social information is so rich, or so dynamic in nature, thatincluding the social environment in cognition makes possiblethe rapid updating of social knowledge that would otherwise
+be difﬁcult to infer. To summarize this section: the ‘‘social brain’’
+will likely need to include a widely distributed set of neuralregions, diverse sets of neuronal subpopulations within them,
+and may encompass aspects of the body and the environment
+in cognition.What Are the Psychological Processes?
+The second big challenge highlighted by our historical consider-
+ation of phrenology above concerns the processes to be map-ped themselves. The phrenologists came up with a list, mostly
+out of their own intuition. Cognitive psychologists and cognitive
+neuroscientists these days could produce lists of their own, andthey would include terms such as ‘‘edge detection,’’ ‘‘workingmemory,’’ ‘‘error monitoring,’’ ‘‘decision value,’’ and so on.
+They would span many levels, from early perception to high-level
+self-reﬂection. There would be debate about the boundariesbetween them. So how can we map onto the brain processes
+whose computational nature and boundaries we do not yet
+understand? This is a deep and acute problem that has beenrealized for some time. In 1994, one of the ﬁrst books illustrating
+the beauty and seduction of the kinds of images generated by
+neuroimaging noted tellingly, ‘‘The challenge for the future is tounderstand at a deeper level the actual mental operations as-signed to the various areas .. Before this goal can be achieved,
+the experimental strategies used in PET studies must be reﬁnedso that more detailed components of the process can be iso-lated’’ ( Posner and Raichle, 1994 ). This quote suggests an itera-
+tive strategy whereby neuroscience data can inform us of thepsychological processes and whereby controlling and manipu-lating speciﬁc parameters can allow isolation of such processes,
+two key issues we comment on further below.
+At a superordinate level, carving up social cognition has pro-
+ceeded analogously to carving up cognition more generally. Inparticular, a host of dual-process models have been put forth.
+While these initially retained some resemblance to the originalidea of controlled versus automatic processing as proposedfrom cognitive psychology ( Schneider and Shiffrin, 1977 ), they
+have taken on a bewildering plethora of attributes, including a‘‘system 1’’ purportedly emphasizing automatic, implicit, fast,nonconscious and emotional processing, and a ‘‘system 2’’emphasizing the complements of these attributes ( Evans,
+2008 ). Within social cognition, the emphasis has been on
+a distinction between explicit and implicit processing, borrowingfrom social psychology, which has long emphasized the implicitnature of social attributions ( Frith and Frith, 2008 ). The distinction
+has been linked to some extent also to self-referential and meta-cognitive abilities, partitioning the processing into ‘‘reﬂexive’’versus ‘‘reﬂective’’ ( Lieberman, 2007 ). While these dichotomies
+have been useful in nucleating research topics, there is a paucity
+of arguments or empirical data to suggest that they are the only
+or the best way of carving up the processing, and it seemsdoubtful that the often long lists of correlated attributes should
+come as a package, except insofar as they are semantically
+related to begin with. However, there are few alternativeschemes currently available, and the effort has instead focused
+on how to generate the richness and diversity of social cognition
+from combining the two types of processing. This ranges fromthinking of them as mostly in opposition to one another (onecan override the other) ( Frith and Frith, 2008 ) to assigning them
+to distinct temporal components of social information process-ing to considering them as dynamically iterative ( Cunningham
+and Zelazo, 2007 ).
+One likely fallacy promoted by dual-process theories of social
+cognition is the idea that the two sets of processes constitutecoherent systems of some kind. The set of attributes listed for
+one side of the dual-process dichotomy is typically simply the
+complement of the other; but deﬁnition by exclusion need notdelineate any inherently related set of attributes ( Keren and
+Schul, 2009 ). Take memory as a good example: declarative
+memory has been fairly cohesively deﬁned and speciﬁc neuralstructures in the medial temporal lobe have been shown to bemost important for it (although there is of course further fraction-
+ation within the domain of declarative memory, as well as
+continuing debates about how best to deﬁne its essentialcomputational properties). By contrast, nondeclarative memory,
+deﬁned by exclusion, is heterogeneous, including priming,
+Pavlovian conditioning, operant conditioning, motor learning,and so on. The situation with dual-process theories is even
+worse, since counterexamples to the proposed co-occurrence
+of attributes are easy to think of. Fast, nonconscious, andemotional attributes of ‘‘system 1’’ are a good example. Thereare many instances of each of these attributes within behaviors
+more typically associated with ‘‘system 2.’’
+Where does this leave dual-process theories of social cogni-
+tion? One original conception (controlled versus automatic[Schneider and Shiffrin, 1977 ]) may still be the most useful and
+may isolate one particular aspect of social cognition: controlled,
+volitional, effortful,
+reﬂective processing ( Lieberman, 2007 ). This
+aspect of social cognition is most perspicuous in adult humans,and some of its neural substrates in the prefrontal cortex havebeen the topic of intense investigation. It is possible that this
+metacognitive ability requires conscious awareness. It is unclear
+that it requires many of the other attributes, and it is unclear that itserves to nucleate a ‘‘system’’ of any sort, let alone specifya complementary one. To summarize this section: the process
+architecture of social cognition is still very much in need of
+a detailed theory, and alternatives to dual-process modelsshould be pursued.
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 759Neuron
+Review
+
+How Can We Map Processes onto the Brain?
+Finally, even if and when we have sufﬁciently detailed data from
+functional neuroanatomy, and even if and when we have a mature
+social cognitive psychology of the relevant processes to be map-ped, we need to ask what kind of relationship such a mapping
+should fall under. This question is acute, since despite the fact
+that neither brain circuits nor psychological processes are yetwell delineated, the main enterprise of cognitive neuroscience,including social cognitive neuroscience, has in fact been to
+map the one onto the other. This is not as ill-founded an
+endeavor as it seems, since it may well be that it is only throughiterative attempts at such mappings that we can identify what
+should be mapped in the ﬁrst place; our understanding of mind
+and brain will come as a package.
+Mapping social cognition onto the social brain often takes
+a subtractive strategy. For instance, in a seminal initial study ofthe brain regions that underly face processing, people wereshown pictures of faces while fMRI data were acquired. Thebrain activation seen under this condition was then compared
+to a large number of other stimulus conditions that attempted
+to make comparisons and control for possible confounds,such as inverted faces, scrambled faces, hands, objects, and
+so on ( Kanwisher et al., 1997 ). Recent fMRI studies in social
+neuroscience often compare social and nonsocial stimuli, as in
+the previous example, but they also compare social and nonso-
+cial tasks. Some manipulate both: for instance, participants are
+asked to form impressions of the stimuli they see or to remembertheir order of presentation (social versus nonsocial task) with
+respect to sentences describing people or objects (social versus
+nonsocial stimuli) ( Mitchell et al., 2005 ). Such approaches have
+found good evidence that knowledge about people and objectsis generated through different neural substrates (Mitchell et al.,
+2002 ), and there is now a large list of studies in a similar vein.
+Needless to say, these subtractive approaches have some
+limitations, since multiple differences distinguish the stimulus
+and task conditions and it is impossible to conduct a subtraction
+that is exhaustive. Another approach that may offer more insightis quasiparametric: rather than a dichotomous contrast, several
+levels of stimulus or task could be used. The challenge with this
+approach is that it is not straightforward how to parameterizea dimension of ‘‘socialness.’’
+Ultimately, the mapping challenge can only be successful if it
+is accompanied by a corresponding change in the level of expla-nation of how stimuli link to behavior. This is not yet generallyaccomplished in most studies. For instance, many fMRI studies
+interpret activation in, for example, the insula or the ventral stria-
+tum as corresponding to a ‘‘disgust’’ or ‘‘reward’’ response, andexplain behavior accordingly, examples of so-called ‘‘reverse
+inference’’ ( Poldrack, 2006 ). Not only is this often unjustiﬁed, it
+is not really progress: the emotions thought to motivate behav-
+iors have now simply been transposed into the brain, without
+any new insight into the underlying mechanisms. It will be a chal-
+lenge for future studies to pay attention to this issue and to derivefrom the data a level of explanation at the process level that goesbeyond the processes hypothesized at the outset.
+It is possible to have a more paradigm-shifting view of how the
+mapping of mind to brain might proceed. Even once we havea useful, predictive process architecture for social cognition,many of those processes may map onto the brain only partlyand disjunctively. Conversely, if we pick a brain ‘‘system,’’
+however deﬁned, and ask what it does, the answer may end
+up being a hodge-podge of different processes. The hope isthat such a situation would force us to reconsider the processes
+and come up with a computational theory that meshes better
+with the neuroscience. One would look toward the success insome parts of sensory neuroscience, where sophisticatedways of formulating and evaluating competing models lead to
+descriptions of which partition of a stimulus space is represented
+by a region or certain neurons in the brain ( Wu et al., 2006 ). Some
+meta-analytic approaches are beginning to provide pictures in
+this spirit also for aspects of social neuroscience, such as
+answers to the question, ‘‘What activates the amygdala’’?(Costafreda et al., 2008 ).
+Even if we eventually come up with a computational account of
+how the social brain works that is truly aligned with the neurosci-ence data, it remains an open question what such an accountwould look like. It is possible that it would be so different from
+our intuitive categories for social behavior that it would literally
+be something that we could not presently understand. This isnot necessarily because social cognition is inherently any more
+difﬁcult to map onto the brain than any other aspect of percep-
+tion or cognition. The problem is rather that we have an intuitive,‘‘folk,’’ understanding that grounds our theories of social
+behavior. The reason we can understand what social psycholo-
+gists, or social neuroscientists, are talking about, is that theconcepts used are to some extent continuous with our common-
+sense understanding of our minds and the minds of other people.
+If we have to jettison that continuity, we may end up with a theoryof social behavior very different from the one we currently use ineveryday life. On the other hand, the picture of the physical world
+that quantum mechanics provides shares these same consider-
+ations, and it is an intriguing possibility that a future social neuro-science would literally allow us to understand ourselves in an
+entirely different way.
+To summarize this section: mapping social processing onto
+social brain structures may be an iterative way to make progress,bootstrapping our understanding of both even though each
+requires revision. Varying the social nature of stimuli and pro-cessing demands has begun to produce such mappings,although it remains a big open question what its endpoint might
+look like.
+Future Challenges
+The quick tour of the terrain in social neuroscience we have taken
+so far points to some key open questions that future studies will
+need to consider and from which springs much of the currentexcitement in social neuroscience ( Table 2 ). These revisit several
+of the points we raised earlier and serve to summarize and brain-storm for experiments to be done.Isolating the SocialAs we just discussed, social stimuli, and social tasks, inherently
+contain multiple properties. Which are unique to the social
+domain? If not unique, which sets of properties taken jointlycan be used to isolate the social? This set of questions has
+a long history rooted in debates about the domain-speciﬁcity
+of social cognition. The most detailed empirical investigation
+760 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+has focused on face perception, with the well-known arguments
+on the one side that face perception features specialized
+psychological and neurobiological properties ( Kanwisher and
+Yovel, 2006 ), and on the other side that it is a by-product of
+more general computational processing with demands that arenot speciﬁc to the domain of faces ( Tarr and Gauthier, 2000 ).
+Attempts to isolate ‘‘social’’ processing typically proceed by
+holding stimuli constant and asking participants to engage ineither a social (evaluative) or nonsocial task; or hold the taskconstant and vary the stimuli (social versus nonsocial). As we
+noted above, the challenge is in trying to isolate the social
+aspects from associated processing that is general: socialstimuli may attract more attention, induce more emotionalarousal, be more distinctive, and so on and so forth. One recent
+example is the question of whether or not social reward is pro-
+cessed in the same way as nonsocial reward. The question ispart of the larger question that decision scientists are asking,
+whether there is a common currency for processing all different
+types of reward, such as money, food, or friendly people. Severalstudies have now compared social and monetary reward and
+generally produced conclusions that social reward overlaps at
+least partly with monetary reward in its neural implementation(Izuma et al., 2008; Zink et al., 2008 ), supplementing ﬁndings
+that social feedback (the reliability of information from other
+people) could be processed by associative mechanisms similar
+to reward feedback ( Behrens et al., 2008 ), and revisiting the
+points we noted earlier in our discussion of neuroeconomics.
+Yet confounds remain, because however the distinction
+between social and nonsocial is made by the experimenter, itconsists of a large number of correlated attributes. This is not
+necessarily a problem for distinguishing social from nonsocial
+processing, but it pushes the question to a level deeper: weknow that social and nonsocial cognition differ, at least to
+some extent. The question now is: why? Is it because social
+stimuli are less predictable? Is it because they are more salient?Is it because they are more emotionally arousing? These ques-
+tions bring us back to the old debate about the domain speci-
+ﬁcity of face perception and confront us with the same dilemma.Either social cognition just poses a correlated set of computa-
+tional demands, and is typically associated with a correlated
+set of effects, none of which are unique to social information;or else social cognition is domain speciﬁc, but it is difﬁcult to
+isolate what the essential feature might be.
+Uniquely Human Social CognitionOne of the motivating questions we considered above was thefascination of why humans appear so different from all other
+animals, behaviorally and in terms of relative brain size, a differ-
+ence that is most frequently presumed to be traced to ourdifferent social cognition ( Dunbar, 1998; Humphrey, 1976 ).
+Comparative studies provide a rich set of data to address thisissue (see Byrne and Bates [this issue of Neuron ]), and social
+neuroscience has hypothesized some speciﬁc mechanisms
+and corresponding brain structures ( Saxe, 2006a ).
+Developmental and comparative psychology has been stress-
+ing social learning mechanisms that may be unique to humans
+(Herrmann et al., 2007 ), although little is yet known about their
+neural basis. The ﬁndings emphasize the critical need for socialcontext during early development. For instance, infants requirethe social presence of a person in order to learn early aspects
+of language (merely listening to the voice played from a tape
+recorder is not enough) ( Kuhl et al., 2003 ). Social learning in hu-
+mans is predicated on the expectation that others are interested
+in teaching and features generic-level knowledge that can be
+acquired through ostensive signals ( Csibra and Gergely, 2009 ).Table 2. Open Questions
+A Partial Sampling of Big Conceptual Questions for Social Neuroscience1. What are the social processes? In particular, are they computationally distinct from those that process nonsocial information? Are there a set of
+processes that delineate the ‘‘social mind,’’ analogously to how there might be a set of structures for the ‘‘social brain’’? Social psychology has
+generated a number of candidates, but it is unclear how these will be incorporated into a future social neuroscience.
+2. What is the social brain? Is there even a ‘‘social brain,’’ a set of structures specifying a neural system for processing social information? Key
+structures proposed include parts of the temporal cortex (fusiform gyrus, superior temporal gyrus, and sulcus) involved in aspects of social
+perception, medial prefrontal cortex and temporoparietal junction involved in theory of mind, and posterior cingulate and medial parietal cortex
+involved in perspective taking and self-reﬂection.
+3. Is there specialization for social processing below the systems level of question 2? Von Economo neurons, a particular morphological cell type
+found in frontoinsular cortex in apes and humans (as well as some whales and elephants) have been proposed to subserve the long-distance
+signaling that underlies integration of information from spatially distal parts of the brain necessary for social cognition ( Allman et al., 2002 ). Oxytocin
+has been proposed as a key neuromodulator for afﬁliative social behaviors in mammals; receptor subtypes for several biogenic amines such asserotonin have also been noted to subserve important roles in social processing. These ﬁndings in particular have great promise for
+pharmacological intervention of psychiatric illnesses affecting social functioning.
+4. What social abilities might be impossible for humans? The ﬂip-side of the question of which social abilities are unique to humans is the question of
+whether there is anything we could not learn to do. Could we all learn to live together in peace and cooperation, or would our very cognitive ﬂexibility
+always preclude anything approaching eusocial collective behavior? This question could also be seen as related to a question about the bounds of
+cognitive and emotional regulation: if we realized the metacognitive need for a particular social behavior, do we have the control to implement itvolitionally?
+5. How could we best change our social behavior? Questions 3 and 4 point toward this question but neglect the role of context and our power to
+modify our environment. Rather than trying to change the way our brains work, we could think about changing our environmental and social contextso as to change our social behavior. Clever changes in public policies (such as incorporating neuroscience data together with tools frommechanism design to achieve optimal public goods compliance [ Krajbich et al., 2009]), ubiquitous education, and strategic design of economic and
+political structures could all contribute toward such a goal in principle.
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 761Neuron
+Review
+
+There is vigorous debate about the types and extent of social
+learning mechanisms seen in other species, but humans may
+be unique in this respect. Interestingly, our closest living rela-
+tives, the great apes, may not be all that adept at learning fromostension, but dogs are ( Miklo ´si et al., 2003 ).
+Ultimately, one would want to link social cognitive abilities
+unique to humans to their correlates in the brain and in thegenome. Of particular interest here would be comparativestudies between humans and chimpanzees. There are now a
+number of behavioral studies (e.g., by Michael Tomasello and
+others at the Max Planck Institute in Leipzig), but very few neuro-biological studies due to the difﬁculty of doing neuroscience in
+chimpanzees (see Parr et al., 2009 , for an exception). With the
+recent sequencing of the chimpanzee genome, genetic differ-
+ences can be pinpointed. It is of particular interest to note that
+there appear to be genes important for social cognition on the
+sex chromosomes ( Skuse, 2006 ) and that both X ( Khaitovich
+et al., 2005 ) and Y chromomosomes ( Hughes et al., 2010 ) have
+diverged considerably between the two species (about 1/3 of
+the sequences of the male-speciﬁc region of the Y chromosome
+have no clear counterpart in the other species, for example).
+The cognitive abilities of many other species can be impres-
+sive. For instance, chimpanzees can perform better than humanson some types of working memory tasks ( Inoue and Matsuzawa,
+2007 ), cephalopods (octopi, cuttleﬁsh, squid) can camouﬂage
+themselves in the most clever ways (Hanlon, 2007 ), and corvids
+(jays and crows) take into account social observation, context,and time in caching food ( Emery and Clayton, 2009 ). What differs
+in all these cases and human cognition is ﬂexibility: we can typi-cally apply many abilities to an unlimited number of differentcontexts, while other animals show more narrowly specializedabilities that cannot be transferred as easily to other domains.
+What brain mechanisms mediate this ﬂexibility? Is it the way
+the components are interconnected? Is it due to an added‘‘executive’’ metacognitive component? Both of these have
+been highlighted in a recent lesion study of the neuroanatomical
+substrates for general intelligence ( Gla¨scher et al., 2010 ).
+A perhaps related feature of human social cognition is the
+ability to exercise volitional control at multiple levels, so as totake into account a broader context. For instance, humansmore so than other animals can forego a smaller immediatereward in order to obtain a larger future reward (a phenomenon
+economists have termed ‘‘temporal discounting’’), an effect of
+the future timeframe on subjective valuation that correlateswith neural signals in valuation regions of the brain such as the
+medial prefrontal cortex ( Kable and Glimcher, 2007 ). Humans
+more so than other animals can regulate their emotional
+responses to one another in a strategic way; and humans will
+control their behavior to take into account the social context. A
+recent example of this is the ﬁnding that temporary disruptionof activity in the right dorsolateral prefrontal cortex inﬂuences
+people’s ability to build a good reputation. In that study,
+participants had to inhibit a prepotent strategy to behaveselﬁshly if they wanted to obtain a good social reputation. Thisability was impaired with repetitive transcranial magnetic
+stimulation (rTMS) of the right prefrontal cortex. The ﬁnding is
+in line with a larger literature suggesting that this region of thebrain is important for cognitive and emotional control and servesas a nice example of the importance that such control playsin regulating complex, planned, social behavior. It may be
+particularly this effortful, explicit component of social cognition
+that is elaborated in humans and that can regulate more auto-matic, implicit social cognition ( Frith and Frith, 2008 ) (if we are
+willing to slide for the moment into the dual-process schemefor carving up cognitive processes). Another region highlightedin the higher-order control of behavior is the frontopolar cortex(Brodmann’s Area 10), the very anterior region of the prefrontal
+cortex and the sector that shows the biggest relative increase
+between great apes and humans ( Semendeferi et al., 2001 ).
+This region of the brain has been implicated by fMRI studies in
+keeping track of alternative courses of action and in motivating
+people to switch from one strategy to another when they feelthat the current one is no longer the best ( Boorman et al.,
+2009; Daw et al., 2006 ).
+If the social cognitive abilities of modern humans are adaptive,
+it is somewhat puzzling that no other species appears to haveevolved them. Clearly, there must be some costs associated
+with evolving those abilities. One obvious cost is the need for
+a large brain, metabolically expensive, time-intensive to trainup, and difﬁcult to give birth to biomechanically. There is another
+more intriguing conjecture: that some uniquely human aspects of
+cognition are potentially deleterious to the survival of thespecies. A recent letter to the editor in Nature hypothesized
+that full self-awareness brings knowledge of one’s own mortality(and, for that matter, of one’s kin and one’s species), a possiblyfatal piece of knowledge, full understanding of which would
+preclude any motivation to survive. The hypothesis continues
+that self-awareness could only have arisen in tandem with mech-anisms such as faith and religion, which deny the existence ofmortality and whose absence blocked the evolution of full self-
+awareness in all other species ( Varki, 2009 ).
+Effects of Context, Development, and Individual
+Differences
+Historically, psychology sought to identify universals across
+different people. While that is still one theme, the tide has now
+turned to an emphasis on individual differences in the context
+ofparticular
+cultures and in the context of development. The
+stress of the role of development and environment has long
+been an emphasis in social psychology, but its translation tomore cognitive and biological studies is a new theme. A good
+example here is the perception of emotions from facial expres-
+sions. Beginning with early observations by Charles Darwin(Darwin, 1965 ), psychologists in the 1970s and onward had
+argued (albeit not without heated debate) that this ability wasuniversal across all human cultures ( Ekman, 1994, 1973 ).
+Furthermore, it was assumed that there were similarly universal
+mechanisms at the level of brain and eye movements during
+the viewing of faces—although little had been done here in termsof cultural comparisons, there were data from nonhuman
+primates showing similarities to humans ( Gothard et al., 2004;
+Keating and Keating, 1982 ). But more recent studies show
+speciﬁc cultural differences: Eastern Asian people, for instance,
+make more confusions between fear and disgust expressions
+that can be traced to a different pattern of ﬁxations onto the
+faces, compared to Western Caucasian people ( Blais et al.,
+2008; Jack et al., 2009 ).
+762 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+Neuroscience studies of cultural differences in social cognition
+are very difﬁcult to carry out with precision in isolating the source
+of the ‘‘cultural’’ differences. Technically, one would want to
+manipulate independently at least three different potential sour-ces of variability, which are confounded in most studies: (1)
+differences in race (e.g., Asian versus Caucasian), (2) differences
+in cultural environment that the person grew up in (e.g., born andraised in Japan versus born and raised in America), and (3)differences in the environment in which the testing is done
+(e.g., being scanned by Japanese researchers in a lab in Tokyo
+versus being scanned by American researchers in a lab in LosAngeles). This 2 3232 design would help pinpoint the sources
+of possible differences, although even this would leaveopen further questions since all three factors are themselvescomplex. For instance, factor (1) consists of genetic effects
+that constitute race, and genetic effects correlated with race:
+the serotonin reuptake transporter polymorphism (5-HTTLPR,a polymorphism that has generated a large literature on itseffects on emotion-related processing) differs systematically
+between Japanese and European populations, with the short
+allele considerably more prevalent in Japanese populations(/C2470% versus /C2440% [ Kim et al., 2007; Nakamura et al., 2000 ]).
+Factor (2) poses challenges nowadays since most peoplemove from place to place during their lifetime and becausecultures are no longer isolated from one another. For instance,
+it has been reported that Caucasian subjects show different acti-
+vation of the amygdala by fear faces when these are shown onAsian or on Caucasian faces—but if Caucasian subjects had
+spent some time living in Japan, this pattern changed ( Moriguchi
+et al., 2005 ). The role of language in shaping cognition has a long
+history with perhaps some of the clearest ﬁndings coming from
+studies showing that names for colors inﬂuence color categori-
+zation and discrimination ( Berlin and Kay, 1991; Winawer et al.,
+2007 ). The dynamic effects of cultural environment are even
+more profound than these studies would suggest. In fact,responses to faces can change nearly instantaneously depend-
+ing on what social group one identiﬁes with ( Van Bavel et al.,
+2008 ). With respect to factor (3) it seems likely that different
+testing environments will introduce yet another source of vari-ability, a point long known from behavioral studies in mice(Crabbe et al., 1999 ). These considerations suggest that cultural
+neuroscience is wide open for detailed investigation, with a rich
+array of effects and interactions to be discovered—but care and
+effort will be required to tease them out.
+In humans, a contextual challenge particularly acute for
+studies of social behavior is that participants in an experimentnearly always have knowledge that this is an experiment, withall the assumptions, expectations, and biases that this knowl-
+edge introduces. Other animals typically require no elaborate
+deceptions and treat all experiments like the real thing. Agood example of the powerful effects of people’s beliefs on
+social behavior is provided in a recent study of the effects of
+testosterone on social behavior in bargaining situations.Women who were given testosterone showed fairer bargainingbehavior, somewhat counterintuitively. However, women given
+placebo who believed they had been given testosterone also
+showed a change in bargaining behavior—but in the oppositedirection: they were less fair in their behavior, in linewith people’s stereotypes about the effects of testosterone(Eisenegger et al., 2010 ).
+Limits and Applications of Social NeuroscienceWhat are the limits of what social neuroscience can investigate?Are there limits to what it should? And how can we use it to make
+the world a better place? This ﬁnal set of questions of course
+does not admit of much in terms of an answer yet, but this shouldnot stop us from speculating.
+With respect to the ﬁrst question, a healthy optimism would
+suggest no limits in principle: social neuroscience is the way tounderstand all social behavior. However, this optimism shouldbe tempered with interdisciplinary tolerance, since ﬁelds from
+other social sciences, from engineering, and from computer
+science will certainly all have something to contribute. Especiallysome of the nonclinical applications of social neuroscience
+will need to liaise closely with these other disciplines: recom-
+mendations for public policy or designs for better socialcomputer interfaces and intelligent robots are all issues on thenot-too-distant horizon. None of them can be addressed by
+social neuroscience alone.
+Some of these examples may seem more like science ﬁction,
+but they are here already. For instance, a recent study consid-ered cooperative behavior in the context of public goods
+(Krajbich et al., 2009 ). A mathematically and empirically solid
+result from the ﬁeld of mechanism design had long shown that
+certain public goods problems were intractable: no incentives
+were possible that would result in stably optimal compliance tocontribute to the good. The study used fMRI decoding methods
+to ‘‘read-out’’ the value that a particular option had for the partic-
+ipant and used this value in setting the public goods policy.Participants were informed of this effect, with the result thatperfect compliance was achieved, a result that was previously
+considered impossible.
+Examples like this, however, raise the second question: do
+we want this kind of contribution from social neuroscience?Objections trace back to our deep-seated mistrust of biologi-
+cally deterministic accounts that seem to challenge ourfreedom. The reaction to some of the recent attempts to deter-
+mine from neuroimaging data whether people are lying or telling
+the truth, or what their political beliefs are, illustrate the point(e.g., Aron et al., 2007 ). Of course, scientists typically do not
+cite offense to their sense of liberty as the reason and instead
+produce (valid) arguments about the ﬂawed methodology, typi-
+cally pointing out that one cannot determine anything withstatistical reliability from an individual’s brain and that at best
+group effects can be shown. And group effects have indeed
+been shown: there are differences in judgments of competence(Todorov et al., 2005 ) and in brain responses ( Spezio et
+ al.,
+2008 ) when people view the faces of (unfamiliar) politicians
+who have lost real elections as compared to faces of (unfamiliar)politicians who have won real elections. There are psychophys-
+iological differences between liberal and conservative groups
+(Oxley et al., 2008 ). There are legal implications about social
+psychological ( Gray et al., 2003 ) and neuroscience data ( Greene
+et al., 2004; Koenigs et al., 2007 ) regarding people’s sense of
+right and wrong. It is just a matter of time before the signal-to-noise ratio of the methods allows us to make statements atthe level of the individual, and so it is indeed time to begin
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 763Neuron
+Review
+
+thinking about the responsible use and interpretation of ﬁndings
+from social neuroscience.
+These last considerations also stress the impact that social
+neuroscience is likely to have—on domains ranging from theclinical to engineering to legal. This is part of what makes the ﬁeld
+so exciting and what is drawing in young scientists from such
+diverse backgrounds. While I have highlighted many of the chal-lenges faced by the ﬁeld, these are being tackled with vigor.Perhaps one closing caveat would be in order: social neurosci-
+ence is so successful that it is at risk of losing its roots. It will
+be important to continue to collaborate closely with neurobiolo-gists working in all species of animals, not just humans, just as it
+will be important to collaborate with social psychologists. And
+debate and discussion requires input from all relevant ﬁelds,including philosophy, psychology, biology, economics, and
+computer science. Social neuroscience straddles many disci-
+plines, but it needs all of them in order to address the conceptualissues I have discussed here.
+ACKNOWLEDGMENTS
+Supported in part by grants from NIH, the Gordon and Betty Moore Founda-
+tion, the Simons Foundation, and the Tamagawa University global Centersof Excellence program of the Japanese Ministry of Education, Culture, Sports
+and Technology. I am grateful to John Cacioppo, Rebecca Saxe, Michael Spe-
+zio, Ian Krajbich, Nao Tsuchiya, Ueli Rutishauser, and four anonymous
+reviewers for helpful comments.
+REFERENCES
+Adolphs, R. (2003a). Cognitive neuroscience of human social behaviour. Nat.
+Rev. Neurosci. 4, 165–178.
+Adolphs, R. (2003b). Investigating the cognitive neuroscience of socialbehavior. Neuropsychologia 41, 119–126.
+Adolphs, R. (2006). How do we know the minds of others? Domain-speciﬁcity,simulation, and enactive social cognition. Brain Res. 1079 , 25–35.
+Adolphs, R. (2009). The social brain: neural basis of social knowledge. Annu.Rev. Psychol. 60, 693–716.
+Allman, J.M., Hakeem, A., and Watson, K. (2002). Two phylogenetic speciali-
+zations in the human brain. Neuroscientist 8, 335–346.
+Amodio, D.M., and Frith, C.D. (2006). Meeting of minds: the medial frontalcortex and social cognition. Nat. Rev. Neurosci. 7, 268–277.
+Anderson, S.W., Bechara, A., Damasio, H., Tranel, D., and Damasio, A.R.(1999). Impairment of social and moral behavior related to early damage in
+human prefrontal cortex. Nat. Neurosci. 2, 1032–1037.
+Apperly, I.A. (2008). Beyond Simulation-Theory and Theory-Theory: why socialcognitive neuroscience should use its own concepts to study ‘‘theory of mind’’.
+Cognition 107, 266–283.
+Aron, A., Badre, D., Brett, M., Cacioppo, J., Chambers, C., Cools, R., Engel, S.,D’Esposito, M., Frith, C., Harmon-Jones, E., et al. (2007). Politics and theBrain. The New York Times (November 14, 2007).
+Barbey, A.K., Krueger, F., and Grafman, J. (2009). An evolutionarily adaptiveneural architecture for social reasoning. Trends Neurosci. 32, 603–610.
+Baron-Cohen, S. (1997). Mindblindness: An Essay on Autism and Theory ofMind (Cambridge, MA: MIT Press).
+Barsalou, L.W. (1999). Perceptual symbol systems. Behav. Brain Sci. 22,
+577–609.Bastiaansen, J.A.C.J., Thioux, M., and Keysers, C. (2009). Evidence for mirror
+systems in emotions. Philos. Trans. R Soc. Lond. B Biol. Sci. 364, 2391–2404.Baumgartner, T., Heinrichs, M., Vonlanthen, A., Fischbacher, U., and Fehr, E.(2008). Oxytocin shapes the neural circuitry of trust and trust adaptation in
+humans. Neuron 58, 639–650.
+Behrens, T.E.J., Hunt, L.T., Woolrich, M.W., and Rushworth, M.F.S. (2008).
+Associative learning of social value. Nature 456, 245–249.
+Berlin, B., and Kay, P. (1991). Basic Color Terms: Their Universality and Evolu-
+tion (Berkeley, CA: University of California Press).
+Blais, C., Jack, R.E., Scheepers, C., Fiset, D., and Caldara, R. (2008). Culture
+shapes how we look at faces. PLoS ONE 3, e3022.
+Boorman, E.D., Behrens, T.E.J., Woolrich, M.W., and Rushworth, M.F.S.
+(2009). How green is the grass on the other side? Frontopolar cortex and the
+evidence in favor of alternative courses of action. Neuron 62, 733–743.
+Boyd, R., Gintis, H., Bowles, S., and Richerson, P.J. (2003). The evolution ofaltruistic punishment. Proc. Natl. Acad. Sci. USA 100, 3531–3535.
+Brass, M., Schmitt, R.M., Spengler, S., and Gergely, G. (2007). Investigating
+action understanding: inferential processes versus action simulation. Curr.
+Biol. 17, 2117–2121.
+Broad, K.D., Curley, J.P., and Keverne, E.B. (2006). Mother-infant bonding and
+the evolution of mammalian social relationships. Philos. Trans. R Soc. Lond. B
+Biol. Sci. 361, 2199–2214.
+Brothers, L. (1990). The social brain: a project for integrating primate behavior
+and neurophysiology in a new domain. Concepts Neurosci. 1, 27–51.
+Cacioppo, J.T., Amaral, D.G., Blanchard, J.J., Cameron, J.L., Carter, C.S.,
+Crews, D., Fiske, S., Heatherton, T., Johnson, M.K., Kozak, M.J., et al.(2007). Social neuroscience: Progress and implications for mental health.
+Perspect. Psychol. Sci. 2, 99–123.
+Cacioppo, J.T.,
+and Berntson, G.G. (1992). Social psychological contributions
+to the decade of the brain. Doctrine of multilevel analysis. Am. Psychol. 47,
+1019–1028.
+Cacioppo J.T., Berntson G.G., Adolphs R., Carter C.S., Davidson R.J., McClin-
+tock M.K., McEwen B.S., Meaney M.J., Schacter D.L., and Sternberg E.M.,
+et al., eds. (2001). Foundations in Social Neuroscience (Cambridge, MA: MIT
+Press).
+Camerer, C.F. (2003). Behavioral Game Theory: Experiments in Strategic
+Interaction (Princeton, NJ: Princeton University Press).
+Carr, L., Iacoboni, M., Dubeau, M.C., Mazziotta, J.C., and Lenzi, G.L. (2003).
+Neural mechanisms of empathy in humans: a relay from neural systems for
+imitation to limbic areas. Proc. Natl. Acad. Sci. USA 100, 5497–5502.
+Chiu, P.H., Kayali, M.A., Kishida, K.T., Tomlin, D., Klinger, L.G., Klinger, M.R.,
+and Montague, P.R. (2008). Self responses along cingulate cortex reveal quan-
+titative neural phenotype for high-functioning autism. Neuron 57, 463–473.
+Clark, A., and Chalmers, D.J. (1998). The extended mind. Analysis 58, 7–19.
+Costafreda, S.G., Brammer, M.J., David, A.S., and Fu, C.H.Y. (2008). Predic-
+tors of amygdala activation during the processing of emotional stimuli:
+a meta-analysis of 385 PET and fMRI studies. Brain Res. Rev. 58, 57–70.
+Couzin, I. (2009). Collective cognition in animal groups. Trends Cogn. Sci. 13,
+36–43.
+Crabbe, J.C., Wahlsten, D., and Dudek, B.C. (1999). Genetics of mouse
+behavior: interactions with laboratory environment. Science 284, 1670–1672.
+Csibra, G., and Gergely, G. (2009). Natural pedagogy. Trends Cogn. Sci. 13,
+148–153.
+Cunningham, W.A., and Zelazo, P.D. (2007). Attitudes and evaluations: a social
+cognitive neuroscience perspective. Trends Cogn. Sci. 11, 97–104.
+Darwin, C. (1965). The Expression of the Emotions in Man and Animals,
+[originally published 1872] (Chicago: University of Chicago Press).
+Davidson, R.J. (2002). Anxiety and affective style: role of prefrontal cortex and
+amygdala. Biol. Psychiatry 51, 68–80.
+Daw, N.D., O’Doherty, J.P., Dayan, P., Seymour, B., and Dolan, R.J. (2006).
+Cortical substrates for exploratory decisions in humans. Nature 441, 876–879.
+764 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+de Vignemont, F., and Singer, T. (2006). The empathic brain: how, when and
+why? Trends Cogn. Sci. 10, 435–441.
+deQuervain, D.-J., Fischbacher, U., Treyer, V., Schellhammer, M., Schnyder,
+U., Buck, A., et al. (2004). The neural basis of altruistic punishment. Science
+305, 1254–1258.
+Dunbar, R. (1998). The social brain hypothesis. Evol. Anthropol. 6, 178–190.
+Dunbar, R.I.M. (2008). The social role of touch in humans and primates:behavioral function and neurobiological mechanisms. Neurosci. Biobehav.
+Rev. 34, 260–268.
+Eisenegger, C., Naef, M., Snozzi, R., Heinrichs, M., and Fehr, E. (2010). Preju-dice and truth about the effect of testosterone on human bargaining behaviour.
+Nature 463, 356–359.
+Ekman, P., ed. (1973). Darwin and Facial Expression: A Century of Research inReview (New York: Academic Press).
+Ekman, P. (1994). Strong evidence for universals in facial expressions: a reply
+to Russell’s mistaken critique. Psychol. Bull. 115, 268–287.
+Emery, N.J., and Clayton, N.S. (2009). Comparative social cognition. Annu.Rev. Psychol. 60, 87–113.
+Evans, J.S.B.T. (2008). Dual-processing accounts of reasoning, judgment, and
+social cognition. Annu. Rev. Psychol. 59, 255–278.
+Fehr, E., and Camerer, C.F. (2007). Social neuroeconomics: the neural circuitryof social preferences. Trends Cogn. Sci. 11, 419–427.
+Fehr, E., and Ga ¨chter, S. (2002). Altruistic punishment in humans. Nature 415,
+137–140.
+Fiske, S.T., and Taylor, S.E. (1984). Social Cognition (Reading, MA: Addison-
+Wesley).
+Fodor, J.A. (1983). The Modularity of Mind (Cambridge, MA: MIT Press).
+Francis, D., Diorio, J., Liu, D., and Meaney, M.J. (1999). Nongenomic transmis-
+sion across generations of maternal behavior and stress responses in the rat.
+Science 286, 1155–1158.
+Frith, U. (2001). Mind blindness and the brain in autism. Neuron 32, 969–979.
+Frith, C.D. (2007). The social brain? Philos. Trans. R. Soc. Lond. B Biol. Sci.362, 671–678.
+Frith, C.D., and Frith, U. (2006). The neural basis of mentalizing. Neuron 50,
+531–534.
+Frith, C.D., and Frith, U. (2008). Implicit and explicit processes in social cogni-
+tion. Neuron 60, 503–510.
+Gallese, V., and Goldman, A. (1999). Mirror neurons and the simulation theory
+of mind-reading. Trends Cogn. Sci. 2, 493–501.
+Gallese, V., Keysers, C., and Rizzolatti, G. (2004). A unifying view of the basis ofsocial cognition. Trends Cogn. Sci. 8, 396–403.
+Gla¨scher, J., Rudrauf, D., Colom, R., Paul, L.K., Tranel, D., Damasio, H., and
+Adolphs, R. (2010). Distributed neural system for general intelligence revealedby lesion mapping. Proc. Natl. Acad. Sci. USA, in press. Published onlineFebruary 22, 2010. 10.1073/pnas.0910397107.
+Goldman, A., and de Vignemont, F. (2009). Is social cognition embodied?
+Trends Cogn. Sci. 13, 154–159.
+Goldman, A.I., and Sripada, C.S. (2005). Simulationist models of face-basedemotion recognition. Cognition 94, 193–213.
+Gothard, K.M., Erickson, C.A., and Amaral, D.G. (2004). How do rhesus
+monkeys (Macaca mulatta) scan faces in a visual paired comparison task?Anim. Cogn. 7, 25–36.
+Gray, N.S., MacCulloch, M.J., Smith, J., Morris, M., and Snowden, R.J. (2003).
+Forensic psychology: Violence viewed by psychopathic murderers. Nature
+423, 497–498.Greene, J.D., Nystrom, L.E., Engell, A.D., Darley, J.M., and Cohen, J.D. (2004).The neural bases of cognitive conﬂict and control in moral judgment. Neuron
+44, 389–400.
+Hanlon, R. (2007). Cephalopod dynamic camouﬂage. Curr. Biol. 17,
+R400–R404.
+Hare, T.A.,
+Camerer, C.F., and Rangel, A. (2009). Self-control in decision-
+making involves modulation of the vmPFC valuation system. Science 324,
+646–648.Harlow, H.F., and Harlow, M.K. (1962). Social deprivation in monkeys. Sci. Am.
+207, 136–146.
+Herrmann, E., Call, J., Herna `ndez-Lloreda, M.V., Hare, B., and Tomasello, M.
+(2007). Humans have evolved specialized skills of social cognition: the cultural
+intelligence hypothesis. Science 317, 1360–1366.
+Ho¨lldobler, B., and Wilson, E.O. (2008). The Superorganism (New York: W.W.
+Norton).
+Hughes, J.F., Skaletsky, H., Pyntikova, T., Graves, T.A., van Daalen, S.K.,
+Minx, P.J., Fulton, R.S., McGrath, S.D., Locke, D.P., Friedman, C., et al.
+(2010). Chimpanzee and human Y chromosomes are remarkably divergent
+in structure and gene content. Nature 463, 536–539.
+Humphrey, N.K. (1976). The social function of intellect. In Growing Points inEthology, P.P.G. Bateson and R.A. Hinde, eds. (Cambridge, UK: Cambridge
+University Press), pp. 303–317.
+Inoue, S., and Matsuzawa, T. (2007). Working memory of numerals in chimpan-
+zees. Curr. Biol. 17, R1004–R1005.
+Insel, T.R., and Fernald, R.D. (2004). How the brain processes social informa-tion: searching for the social brain. Annu. Rev. Neurosci. 27, 697–722.
+Insel, T.R., and Young, L.J. (2001). The neurobiology of attachment. Nat. Rev.Neurosci. 2, 129–136.
+Izuma, K., Saito, D.N., and Sadato, N. (2008). Processing of social and mone-tary rewards in the human striatum. Neuron 58, 284–294.
+Jack, R.E., Blais, C., Scheepers, C., Schyns, P.G., and Caldara, R. (2009).Cultural confusions show that facial expressions are not universal. Curr. Biol.
+19, 1543–1548.
+Jarvis, J.U.M., and Sherman, P.W. (2002). Hterocephalus glaber. Mammalian
+Species 706, 1–9.
+Kable, J.W., and Glimcher, P.W. (2007). The neural correlates of subjectivevalue during intertemporal choice. Nat. Neurosci. 10, 1625–1633.
+Kable, J.W., and Glimcher, P.W. (2009). The neurobiology of decision:consensus and controversy. Neuron 63, 733–745.
+Kanwisher, N., and Yovel, G. (2006). The fusiform face area: a cortical regionspecialized for the perception of faces. Philos. Trans. R. Soc. Lond. B Biol.
+Sci.361, 2109–2128.
+Kanwisher, N., McDermott, J., and Chun, M.M. (1997). The fusiform face area:
+a module in human extrastriate cortex specialized for face perception. J. Neu-rosci. 17, 4302–4311.
+Keating, C.F., and Keating, E.G. (1982). Visual scan patterns of rhesusmonkeys viewing faces. Perception 11, 211–219.
+Keren, G., and Schul, Y. (2009). Two is not always better than one: a critical
+evaluation of two-systems theories. Perspect. Psychol. Sci. 4, 533–550.
+Khaitovich, P., Hellmann, I., Enard, W., Nowick, K., Leinweber, M., Franz, H.,Weiss, G., Lachmann, M., and Pa ¨a¨bo, S. (2005). Parallel patterns of evolution
+in the genomes and transcriptomes of humans and chimpanzees. Science309, 1850–1854.
+Kim, J.-M., Stewart, R., Kim, S.-W., Yang, S.-J., Shin, I.-S., Kim, Y.-H., andYoon, J.S. (2007). Interactions between life stressors and susceptibility genes
+(5-HTTLPR and BDNF) on depression in Korean elders. Biol. Psychiatry 62,
+423–428.
+King-Casas, B., Tomlin, D., Anen, C., Camerer, C.F., Quartz, S.R., and
+Montague, P.R. (2005). Getting to know you: reputation and trust in a two-
+person economic exchange. Science 308, 78–83.
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 765Neuron
+Review
+
+King-Casas, B., Sharp, C., Lomax-Bream, L., Lohrenz, T., Fonagy, P., and
+Montague, P.R. (2008). The rupture and repair of cooperation in borderline
+personality disorder. Science 321, 806–810.
+Kipps, C.M., Nestor, P.J., Acosta-Cabronero, J., Arnold, R., and Hodges, J.R.
+(2009). Understanding social dysfunction in the behavioural variant of fronto-temporal dementia: the role of emotion and sarcasm processing. Brain 132,
+592–603.
+Knoch, D., Schneider, F., Schunk, D., Hohmann, M., and Fehr, E. (2009).
+Disrupting the prefrontal cortex diminishes the human ability to build a good
+reputation. Proc. Natl. Acad. Sci. USA 106, 20895–20899.
+Koenigs, M., Young, L., Adolphs, R., Tranel, D., Cushman, F., Hauser, M., andDamasio, A. (2007). Damage to the prefrontal cortex increases utilitarian moral
+judgements. Nature 446, 908–911.
+Kosfeld, M., Heinrichs, M., Zak, P.J., Fischbacher, U., and Fehr, E. (2005).
+Oxytocin increases trust in humans. Nature 435, 673–676.
+Kosslyn, S.M., Ganis, G., and Thompson, W.L. (2003). Mental imagery: againstthe nihilistic hypothesis. Trends Cogn. Sci. 7, 109–111.
+Krajbich, I., Camerer, C., Ledyard, J., and Rangel, A. (2009). Using neuralmeasures of economic value to solve the public goods free-rider problem.
+Science 326, 596–599.
+Kriegeskorte, N., Simmons, W.K., Bellgowan, P.S.F., and Baker, C.I. (2009).Circular analysis in systems neuroscience: the dangers of double dipping.
+Nat. Neurosci. 12, 535–540.
+Kuhl, P.K., Tsao, F.-M., and Liu, H.-M. (2003). Foreign-language experience ininfancy: effects of short-term exposure and social interaction on phonetic
+learning. Proc. Natl. Acad. Sci. USA 100, 9096–9101.
+Kurzban, R., and Houser, D. (2005). Experiments investigating cooperativetypes in humans: a complement to evolutionary theory and simulations.
+Proc. Natl. Acad. Sci. USA 102, 1803–1807.
+Lakoff, G., and Johnson, M. (1999). Philosophy in the Flesh: The EmbodiedMind and Its Challenge to Western Thought (New York: Basic Books).
+Laurent, G. (2002). Olfactory network dynamics and the coding of multidimen-
+sional signals. Nat. Rev. Neurosci. 3, 884–895.
+Lieberman, M.D. (2007). Social cognitive neuroscience: a review of coreprocesses. Annu. Rev. Psychol. 58, 259–289.
+Lin, D.Y., Zhang, S.-Z., Block, E., and Katz, L.C. (2005). Encoding socialsignals in the mouse main olfactory bulb. Nature 434, 470–477.
+Lo¨ken, L.S., Wessberg, J., Morrison, I., McGlone, F., and Olausson, H. (2009).
+Coding of pleasant touch by unmyelinated afferents in humans. Nat. Neurosci.
+12, 547–548.
+Margoliash, D. (1983). Acoustic parameters underlying the responses of song-
+speciﬁc neurons in the white-crowned sparrow. J. Neurosci. 3, 1039–1057.
+McCarthy, G., Puce, A., Gore, J.C., and Allison, T. (1997). Face-speciﬁc pro-cessing in the human fusiform gyrus. J. Cogn. Neurosci. 9, 605–610.
+Miklo ´si, A., Kubinyi, E., Topa ´l, J., Ga ´csi, M., Vira ´nyi, Z., and Csa ´nyi, V. (2003). A
+simple reason for a big difference: wolves do not look back at humans, but
+dogs do. Curr. Biol. 13, 763–766.
+Mitchell, J.P. (2007). Activity in right temporo-parietal junction is not selectivefor theory-of-mind. Cereb. Cortex 18, 262–271.
+Mitchell, J.P. (2009). Social psychology as a natural kind. Trends Cogn. Sci. 13,
+246–251.
+Mitchell, J.P., Heatherton, T.F., and Macrae, C.N. (2002). Distinct neural
+systems subserve person and object knowledge. Proc. Natl. Acad. Sci. USA
+99, 15238–15243.
+Mitchell,
+J.P., Banaji, M.R., and Macrae, C.N. (2005). General and speciﬁc
+contributions of the medial prefrontal cortex to knowledge about mental
+states. Neuroimage 28, 757–762.
+Mitchell, J.P., Macrae, C.N., and Banaji, M.R. (2006). Dissociable medialprefrontal contributions to judgments of similar and dissimilar others. Neuron
+50, 655–663.Mobbs, D., Yu, R., Meyer, M., Passamonti, L., Seymour, B., Calder, A.J.,Schweizer, S., Frith, C.D., and Dalgleish, T. (2009). A key role for similarity in
+vicarious reward. Science 324, 900.
+Moeller, S., Freiwald, W.A., and Tsao, D.Y. (2008). Patches with links: a uniﬁed
+system for processing faces in the macaque temporal lobe. Science 320,
+1355–1359.
+Moll, J., Zahn, R., de Oliveira-Souza, R., Krueger, F., and Grafman, J. (2005).
+Opinion: the neural basis of human moral cognition. Nat. Rev. Neurosci. 6,
+799–809.
+Moriguchi, Y., Ohnishi, T., Kawachi, T., Mori, T., Hirakata, M., Yamada, M.,
+Matsuda, H., and Komaki, G. (2005). Speciﬁc brain activation in Japanese
+and Caucasian people to fearful faces. Neuroreport 16, 133–136.
+Morrison, I. (2009). The skin as a social organ. Exp. Brain Res., in press.Published online September 21, 2009. 10.1007/s00221-009-2007-y.
+Mur, M., Bandettini, P.A., and Kriegeskorte, N. (2009). Revealing representa-
+tional content with pattern-information fMRI—an introductory guide. Soc.
+Cogn. Affect. Neurosci. 4, 101–109.
+Nakamura, M., Ueno, S., Sano, A., and Tanabe, H. (2000). The human sero-
+tonin transporter gene linked polymorphism (5-HTTLPR) shows ten novel
+allelic variants. Mol. Psychiatry 5, 32–38.
+Nowak, M.A., and Sigmund, K. (2004). Evolutionary dynamics of biologicalgames. Science 303, 793–799.
+Ochsner, K.N., and Gross, J.J. (2005). The cognitive control of emotions.
+Trends Cogn. Sci. 9, 242–249.
+Ochsner, K.N., and Lieberman, M.D. (2001). The emergence of social cognitive
+neuroscience. Am. Psychol. 56, 717–734.
+Olausson, H., Lamarre, Y., Backlund, H., Morin, C., Wallin, B.G., Starck, G.,Ekholm, S., Strigo, I., Worsley, K., Vallbo, A.B., and Bushnell, M.C. (2002).
+Unmyelinated tactile afferents signal touch and project to insular cortex.
+Nat. Neurosci. 5, 900–904.
+Olsson, A., and Ochsner, K.N. (2008). The role of social cognition in emotion.
+Trends Cogn. Sci. 12, 65–71.
+Oxley, D.R., Smith, K.B., Alford, J.R., Hibbing, M.V., Miller, J.L., Scalora, M.,
+Hatemi, P.K., and Hibbing, J.R. (2008). Political attitudes vary with physiolog-ical traits. Science 321, 1667–1670.
+Panksepp, J. (1998). Affective Neuroscience (New York: Oxford University
+Press).
+Parr, L.A., Hecht, E., Barks, S.K., Preuss, T.M., and Votaw, J.R. (2009). Face
+processing in the chimpanzee brain. Curr. Biol. 19, 50–53.
+Penn, D.C., and Povinelli, D.J. (2007). On the lack of evidence that non-humananimals possess anything remotely resembling a ‘theory of mind’. Philos.
+Trans. R. Soc. Lond. B Biol. Sci. 362, 731–744.
+Poldrack, R.A. (2006). Can cognitive processes be inferred from neuroimaging
+data? Trends Cogn. Sci. 10, 59–63.
+Posner, M.I., and Raichle, M. (1994). Images of Mind (New York: Scientiﬁc
+American Library).
+Premack, D., and Woodruff, G. (1978). Does the chimpanzee have a theory of
+mind? Behav. Brain Sci. 1, 515–526.
+Quian Quiroga, R., Kraskov, A., Koch, C., and Fried, I. (2009). Explicit encoding
+of multimodal percepts by single neurons in the human brain. Curr. Biol. 19,
+1308–1313.
+Rangel, A., Camerer, C., and Montague, P.R. (2008). A framework for studying
+the neurobiology of value-based decision making. Nat. Rev. Neurosci. 9,
+545–556.
+Rizzolatti, G., and Craighero, L. (2004). The mirror-neuron system. Annu. Rev.
+Neurosci. 27,169–192.
+Rizzolatti,
+G., and Fabbri-Destro, M. (2008). The mirror system and its role in
+social cognition. Curr. Opin. Neurobiol. 18, 179–184.
+766 Neuron 65, March 25, 2010 ª2010 Elsevier Inc.Neuron
+Review
+
+Rizzolatti, G., Fogassi, L., and Gallese, V. (2001). Neurophysiological mecha-
+nisms underlying the understanding and imitation of action. Nat. Rev. Neuro-
+sci.2, 661–670.
+Sanchez-Andrade, G., and Kendrick, K.M. (2009). The main olfactory systemand social learning in mammals. Behav. Brain Res. 200, 323–335.
+Sanfey, A.G., Rilling, J.K., Aronson, J.A., Nystrom, L.E., and Cohen, J.D.
+(2003). The neural basis of economic decision-making in the Ultimatum
+Game. Science 300, 1755–1758.
+Saxe, R. (2005). Against simulation: the argument from error. Trends Cogn.Sci.9, 174–179.
+Saxe, R. (2006a). Uniquely human social cognition. Curr. Opin. Neurobiol. 16,
+235–239.
+Saxe, R. (2006b). Why and how to study Theory of Mind with fMRI. Brain Res.
+1079 , 57–65.
+Saxe, R., and Powell, L.J. (2006). It’s the thought that counts: speciﬁc brainregions for one component of theory of mind. Psychol. Sci. 17, 692–699.
+Schneider, W., and Shiffrin, R.M. (1977). Controlled and automatic humaninformation processing: 1. Detection, search, and attention. Psychol. Rev.84, 1–66.
+Scholz, J., Triantafyllou, C., Whitﬁeld-Gabrieli, S., Brown, E.N., and Saxe, R.(2009). Distinct regions of right temporo-parietal junction are selective for
+theory of mind and exogenous attention. PLoS ONE 4, e4869.
+Semendeferi, K., Armstrong, E., Schleicher, A., Zilles, K., and Van Hoesen,
+G.W. (2001). Prefrontal cortex in humans and apes: a comparative study of
+area 10. Am. J. Phys. Anthropol. 114, 224–241.
+Singer, T., Seymour, B., O’Doherty, J., Kaube, H., Dolan, R.J., and Frith, C.D.(2004). Empathy for pain involves the affective but not sensory components of
+pain. Science 303, 1157–1162.
+Skuse, D. (2006). Genetic inﬂuences on the neural basis of social cognition.
+Philos. Trans. R Soc. Lond. B Biol. Sci. 361, 2129–2141.
+Spezio, M.L., Rangel, A., Alvarez, R.M., O’Doherty, J.P., Mattes, K., Todorov,A., Kim, H., and Adolphs, R. (2008). A neural basis for the effect of candidate
+appearance on election outcomes. Soc. Cogn. Affect. Neurosci. 3, 344–352.
+Swanson, L.W., and Petrovich, G.D. (1998). What is the amygdala? TrendsNeurosci. 21, 323–331.
+Tarr, M.J., and Gauthier, I. (2000). FFA: a ﬂexible fusiform area for subordinate-
+level visual processing automatized by expertise. Nat. Neurosci. 3, 764–769.Tate, A.J., Fischer, H., Leigh, A.E., and Kendrick, K.M. (2006). Behavioural and
+neurophysiological evidence for face identity and face emotion processing in
+animals. Philos. Trans. R. Soc. Lond. B Biol. Sci. 361, 2155–2172.
+Todorov, A., Mandisodza, A.N., Goren, A., and Hall, C.C. (2005). Inferences of
+competence from faces predict election outcomes. Science 308, 1623–1626.
+Tomasello, M., Call, J., and Hare, B. (2003). Chimpanzees understand psycho-
+logial states–the question is which ones and to what extent. Trends Cogn. Sci.
+7, 153–156.
+Tsao, D.Y., Freiwald, W.A., Tootell, R.B.H., and Livingstone, M.S. (2006).A cortical region consisting entirely of face-selective cells. Science 311,
+670–674.
+Van Bavel, J.J., Packer, D.J., and Cunningham, W.A. (2008). The neural
+substrates of in-group bias: a functional magnetic resonance imaging investi-
+gation. Psychol. Sci. 19, 1131–1139.
+Varki, A. (2009). Human uniqueness and the denial of death. Nature 460, 684.
+Vul, E., Harris, C., Winkielman, P., and Pashler, H. (2009). Puzzlingly high corre-lations in fMRI studies of emotion, personality, and social cognition. Perspect.
+Psychol. Sci. 4, 274–290.
+Wang, L., and Anderson, D.J. (2010). Identiﬁcation of an aggression-
+promoting pheromone and its receptor neurons in Drosophila. Nature 463,
+227–231.
+Wilson, E.O., and Ho ¨lldobler, B.
+ (2005). Eusociality: origin and consequences.
+Proc. Natl. Acad. Sci. USA 102, 13367–13371.
+Winawer, J., Witthoft, N., Frank, M.C., Wu, L., Wade, A.R., and Boroditsky, L.
+(2007). Russian blues reveal effects of language on color discrimination. Proc.
+Natl. Acad. Sci. USA 104, 7780–7785.
+Wood, J.N., Glynn, D.D., Phillips, B.C., and Hauser, M.D. (2007). The percep-tion of rational, goal-directed action in nonhuman primates. Science 317,
+1402–1405.
+Wu, M.C.-K., David, S.V., and Gallant, J.L. (2006). Complete functional charac-
+terization of sensory neurons by system identiﬁcation. Annu. Rev. Neurosci.
+29, 477–505.
+Yovel, G., and Kanwisher, N. (2004). Face perception: domain speciﬁc, not
+process speciﬁc. Neuron 44, 889–898.
+Zink, C.F., Tong, Y., Chen, Q., Bassett, D.S., Stein, J.L., and Meyer-Lindenberg, A. (2008). Know your place: neural processing of social hierarchy
+in humans. Neuron 58, 273–283.
+Neuron 65, March 25, 2010 ª2010 Elsevier Inc. 767Neuron
+Review

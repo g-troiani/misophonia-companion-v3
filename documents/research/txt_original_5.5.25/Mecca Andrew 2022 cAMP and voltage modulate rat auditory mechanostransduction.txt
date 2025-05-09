@@ -1,0 +1,845 @@
+cAMP and voltage modulate rat auditory mechanotransduction
+by decreasing the stiffness of gating springs
+Andrew A. Meccaa,b,1, Giusy A. Capraraa,1, and Anthony W. Penga,2
+Edited by Robert Fettiplace, University of Wisconsin –Madison, Madison, WI; received April 21, 2021; accepted June 13, 2022
+Hair cells of the auditory and vestibular systems transform mechanical input into elec-
+trical potentials through the mechanoelectrical transduction process (MET). De ﬂection
+of the mechanosensory hair bundle increases tension in the gating springs that open
+MET channels. Regulation of MET channel sensitivity contributes to the auditory sys-tem ’s precision, wide dynamic range and, potentially, protection from overexcitation.
+Modulating the stiffness of the gating spring modulates the sensitivity of the MET pro-
+cess. Here, we investigated the role of cyclic adenosine monophosphate (cAMP) in rat
+outer hair cell MET and found that cAMP up-regulation lowers the sensitivity of thechannel in a manner consistent with decreasing gating spring stiffness. Direct measure-
+ments of the mechanical properties of the hair bundle con ﬁrmed a decrease in gating
+spring stiffness with cAMP up-regulation. In parallel, we found that prolonged depolar-ization mirrored the effects of cAMP. Finally, a limited number of experiments impli-
+cate that cAMP activates the exchange protein directly activated by cAMP to mediate
+the changes in MET sensitivity. These results reveal that cAMP signaling modulatesgating spring stiffness to affect auditory sensitivity.
+stereocilia jcyclic AMP jLDM jhair bundle mechanics jEPAC
+Hair cells of the auditory and vestibular systems convert mechanical input from sound
+and head movement into an electrical current through a process termed mechanoelectrical
+transduction (MET). At the apical surface of each hair cell is a specialized mechanosensi-
+tive organelle called the hair bundle, composed of a collection of actin- ﬁlled stereocilia
+arranged in graded height. The tips of the shorter rows house MET channels (1), nonspe-
+ciﬁc cation channels hypothesized to be comprised of TMC1/2, TMIE, and a number of
+other accessory proteins (2 –4). MET channels are gated by a tension force imparted by a
+gating spring, which is part of or connected with the ﬁlamentous tip links that span adja-
+cent rows of stereocilia (5 –9). Positive stimuli directed along the sensitive axis of the hair
+bundle (10) result in displacement toward the tallest row and increase tension in the gat-
+ing spring, increasing the open probability of the MET channel.
+Mechanisms that regulate the sensitivity of the MET channel are hypothesized to con-
+tribute to the wide dynamic range and frequency selectivity of the auditory system, with
+MET adaptation being the most widely studied (11 –14). Based on the gating spring the-
+ory, changes in gating spring stiffness alter the setpoint and the sensitivity of the MET
+channel (5, 6). The second messenger cyclic adenosine monophosphate (cAMP) has been
+proposed to modulate the sensitivity of the MET channel in turtle and bullfrog hair cells.
+In turtle auditory hair cells, cAMP shifts the operating point of the MET channel after aperiod of minutes, extending the dynamic range of the channel (15). In bullfrog hair
+cells, pharmacological up-regulation of cAMP reduced the frequency of spontaneous hair
+bundle oscillations (16). Furthermore, in humans, a loss of function mutation in adenylyl
+cyclase 1 ( ADCY1, an enzyme that catalyzes cAMP production) is associated with hearing
+loss (17) and zebra ﬁsh carrying an equivalent mutation ( adcy1b morphants) exhibited sig-
+niﬁcantly reduced FM1-43 dye uptake in lateral line hair cells, indicating dysfunctional
+MET. These studies indicate a potential role for cAMP in modulating MET channel
+sensitivity in mammals.
+In this study, we determine the mechanism of cAMP modulation of the MET chan-
+nel in a mammalian cochlear hair cell model. We ﬁrst characterized the cAMP effect in
+rat outer hair cells (OHCs). Second, we describe a long depolarization manipulation
+(LDM), which we found mirrored the effects of cAMP up-regulation. Third, by mea-
+suring the mechanical changes of the hair bundle, we con ﬁrmed that cAMP and long
+depolarization-induced effects on channel sensitivity are due to a reduction in gating
+spring stiffness. Finally, we ﬁnd that cAMP targets the exchange protein directly acti-
+vated by cAMP (EPAC) rather than protein kinase A (PKA) for modulating MET sen-
+sitivity. This cAMP regulation of gating spring stiffness provides a cell signaling means
+for controlling the sensitivity of MET channels.Signiﬁcance
+Regulation of auditory sensitivity
+contributes to the precision,dynamic range, and protection ofthe auditory system. Regulation ofthe hair cell mechanotransductionchannel is a major contributor to
+controlling the sensitivity of the
+auditory transduction process.The gating spring is a critical pieceof the mechanotransductionmachinery because it opens andcloses the mechanotransductionchannel, and its stiffness regulatesthe sensitivity of the
+mechanotransduction process. In
+the present work, we characterizethe effect of the second-messenger signaling moleculecyclic adenosine monophosphate(cAMP) and identify that it reducesgating spring stiffness likelythrough an exchange protein
+directly activated by cAMP (EPAC)-
+mediated pathway. This is aunique physiologic mechanism toregulate gating spring stiffness.
+Author af ﬁliations:aDepartment of Physiology and
+Biophysics, University of Colorado Anschutz MedicalCampus, Aurora, CO 80045; andbNeuroscience Graduate
+Program, University of Colorado Anschutz Medical Campus,Aurora, CO 80045
+Author contributions: A.A.M., G.A.C., and A.W.P. designed
+research; A.A.M., G.A.C., and A.W.P. performed research;A.A.M., G.A.C., and A.W.P. analyzed data; and A.A.M.,G.A.C., and A.W.P. wrote the paper.
+The authors declare no competing interest.
+This article is a PNAS Direct Submission.
+Copyright © 2022 the Author(s). Published by PNAS.
+This open access article is distributed under Creative
+Commons Attribution-NonCommercial-NoDerivativesLicense 4.0 (CC BY-NC-ND) .
+1A.A.M. and G.A.C. contributed equally to this work.
+2To whom correspondence may be addressed. Email:
+anthony.peng@cuanschutz.edu.
+This article contains supporting information online at
+http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2107567119/-/DCSupplemental .
+Published July 19, 2022.
+PNAS 2022 Vol. 119 No. 30 e2107567119 https://doi.org/10.1073/pnas.2107567119 1o f1 1RESEARCH ARTICLE |PHYSIOLOGY OPEN ACCESS
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+Results
+cAMP Regulation of Mammalian MET. To characterize the
+cAMP effect in rat OHCs, we recorded MET currents and hair
+bundle displacements in response to a family of ﬂuid-jet (FJ)
+force steps and generated activation curves before and afterbath application (10 min) of hydrolysis-resistant cAMP analogs(0.1 mM 8-Bromoadenosine 3
+0,50-cyclic monophosphate, 8-BrcAMP,
+or dibutyryl cyclic adenosine monophosphate, dbcAMP) (Fig. 1 A
+andB). In rat OHCs, 8-BrcAMP produced both a rightward shift
+in the half activation (from 25.1 ±6.3 nm to 38.6 ±5.4 nm,
+n=6,P=0.0033, paired ttest) (Fig. 1 C)a n di n c r e a s e dw i d t h
+(from 53.6 ±13.3 nm to 76.2 ±20.8 nm, P=0.0025, paired
+ttest) (Fig. 1 D) of the activation curve. To further support a
+cAMP pathway-speci ﬁc effect, we repeated these experiments
+using 0.1 mM dbcAMP. Consistent with the results from8-BrcAMP, 0.1 mM dbcAMP produced a rightward shift in thehalf-activation (from 27.3 ±4.8 nm to 56.6 ±18.7 nm, n=9,
+P=0.0011, paired ttest) (Fig. 1 C) and increased width (from
+66.5±13.9 nm to 97.6 ±20.1 nm, P=0.0057, paired ttest)
+(Fig. 1 D) of the activation curve.
+Consistent with a right-shifted activation curve, resting open
+probability measurements from cells treated with 8-BrcAMP anddbcAMP were signi ﬁcantly decreased (8-BrcAMP: from 5.3 ±
+1.1% to 3.7 ±0.9%, P=0.0025, paired ttest; dbcAMP: from
+5.1±0.9% to 2.6 ±1.2%, P=0.00025, paired ttest) (Fig. 1 E).It is important to note that we also observed that in our control
+condition (Norm Ext), the resting open probability showed astatistically signi ﬁcant decrease (Norm Ext: from 5.0 ±1.0% to
+4.0±0.9%, n=8,
+P=0.043, paired ttest) (Fig. 1 E). How-
+ever, one-way ANOVA analysis with Tukey –Kramer post hoc
+test for multiple comparisons revealed that the change in resting
+open probability between the two time points was signi ﬁcantly
+different for control and dbcAMP, but not between control and8-BrcAMP ( P=0.014 for control vs. dbcAMP, P=0.42 for
+control vs. 8-BrcAMP, P=0.28 for 8-BrcAMP vs. dbcAMP)
+(SI Appendix ,F i g .S 1 D), suggesting a true effect of dbcAMP on
+resting open probability beyond the decrease we observed in the
+control condition. Furthermore, we performed one-way ANOVA
+analyses for the other summary data presented in Fig. 1. All one-way ANOVA with post hoc comparisons were consistent with astatistically signi ﬁcant effect of dbcAMP vs. the control ( SI
+Appendix ,F i g .S 1 ).
+Adaptation of the MET process is hypothesized to extend the
+dynamic range and increase the frequency selectivity of the hair
+cell (11 –13). Experimentally, adaptation manifests as a decay of
+the MET current in response to a constant stimulus and a right-ward shift of the activation curve. We analyzed the amountof MET current decay in response to cAMP analogs before andafter applying either 8-BrcAMP or dbcAMP. We observed anonstatistically signi ﬁcant trend toward increased adaptation
+with 0.1 mM 8-BrcAMP (from 21.4 ±8.9% to 29.1 ±13.2%,
+Control dbcAMP
+0100200
+-1000Displacement (nm) Current (nA)
+50ms200
+-200400
+0
+-0.2
+-0.4
+-0.6
+-0.8
+-10
+-0.2
+-0.4
+-0.6
+-0.8
+-1A
+BFJI/Imax
+00.51
+0 100 200 300 -100
+Displacement (nm)dbcAMPControl050100150200Width10-90 (nm)050100150Half-Act (nm)
+0510Resting Popen (%)050100Adaptation (%)
+ControlNorm ExtControl Control Control Control
+0.1% DMSO8-BrcAMPdbcAMP Forskolin
+ControlNorm ExtControl Control Control Control
+0.1% DMSO8-BrcAMPdbcAMP ForskolinC
+D
+G
+EF**** **
+**** *
+****************
+110100/g87A (ms)*
+Fig. 1. cAMP regulation of mammalian MET. ( A) Example traces of hair bundle displacement and MET currents from a rat OHC elicited by FJ force steps.
+Control traces were obtained 5 min after entering whole-cell mode. Normal external solution (Norm Ext) or different drugs (dbcAMP in this example) we re
+then perfused for 10 min, and a second dataset was collected 15 min after entering whole-cell mode. ( B) MET current versus hair bundle displacement
+(activation curve) for the data presented in A.(Cand D) Summary plots for the half activation (Half-Act) and 10 –90 width (Width 10–90) of the activation curve
+obtained from control (Norm Ext), 0.1% DMSO control, and experimental conditions. 8-BrcAMP, dbcAMP, and forskolin were used at 0.1 mM concentration s.
+Number of cells: control n=8, 0.1% DMSO control n=7, 8-BrcAMP n=6, dbcAMP n=9, forskolin n=8. 8-BrcAMP, dbcAMP, and forskolin produced a right-
+ward shift in the half-activation ( P=0.0033, P=0.0011, P=0.0025, paired ttests) and increased the 10 –90 width of the activation curve ( P=0.0025,
+P=0.0057, P=0.04, paired ttests), while control and DMSO cells showed no change. ( E) Resting Popen summary data from cells in all conditions. ( Fand G)
+Adaptation magnitude and time constant ( τA) summary data for a FJ stimulation that produced ∼50% of the maximum recorded current for that cell (50%
+Imax). dbcAMP and forskolin, but not 8-BrcAMP, produced a signi ﬁcant increase in adaptation magnitude ( P=1.2E-4, P=0.0041, paired ttests), while
+control and DMSO cells showed no change. dbcAMP also reduced the adaptation time constant ( P=0.017). Error bars indicate the mean ±SD. * P≤0.05,
+**P≤0.01, *** P≤0.001.
+2o f1 1 https://doi.org/10.1073/pnas.2107567119 pnas.org
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+P=0.11, paired ttest) (Fig. 1 F). However, dbcAMP produced
+a statistically signi ﬁcant increase in adaptation magnitude (from
+33.0±9.8% to 60.9 ±7.8%, P=0.00011, paired ttest) (Fig.
+1F). When using FJ stimulation, we previously determined that a
+single exponential provided the best ﬁt to the MET current decay,
+with time constants on the order of tens of milliseconds consistentwith slow adaptation (18, 19). In response to 8-BrcAMP applica-tion, the adaptation time constant was unchanged (from 22.8 ±
+10.1 ms to 26.7 ±30.4 ms, P=0.67, paired ttest) (Fig. 1 G), but
+was signi ﬁcantly decreased when dbcAMP was used (from 20.4 ±
+4.7 ms to 12.8 ±5.2 ms, P=0.017, paired ttest) (Fig. 1 G).
+The results from experiments with cAMP analogs suggest that
+cAMP can regulate the MET process. However, these experi-
+ments do not provide evidence of a physiologically relevantmechanism, such that cAMP can be endogenously generatedwithin the hair cell to regulate MET. Therefore, we performed
+similar experiments with 0.1 mM forskolin, a pharmacological
+stimulator of endogenous adenylyl cyclases that increases theintracellular concentration of cAMP. Adenylyl cyclase isoforms
+1, 6, and 9 have been shown to be expressed in the rat organ of
+Corti, with some evidence of adenylyl cyclase 1 and 6 localizing tothe stereocilia of both inner hair cells (IHC) and OHCs
+(17, 20 –22). We found that forskolin produced similar results as
+the cAMP analogs on the activation curve [Half-Act, from 28.8 ±
+7.3 nm to 54.5 ±10.3 nm, n=8,P=0.0025, paired ttest (Fig.
+1C); width, from 64.3 ±25.0 nm to 94.5 ±19.9 nm, P=0.040,
+paired ttest (Fig. 1 D); resting open probability, from 4.5 ±0.64%
+to 2.5 ±0.62%, P=0.00058, paired ttest (Fig. 1 E
+)] and slow
+adaptation (magnitude, from 38.9 ±16.6% to 68.4 ±10.8%,
+P=0.0041, paired ttest) (Fig. 1 F). Although the resting open
+probability was signi ﬁcantly decreased in the 0.1% DMSO control
+condition (from 4.4 ±1.1% to 3.4 ±1.1%, n=7,P=0.0014,
+paired ttest) (Fig. 1 E), the magnitude of the change in resting
+open probability between DMSO and forskolin was signi ﬁcantly
+different ( P=0.028, unpaired, unequal variance ttest) ( SI
+Appendix ,F i g .S 1 D). The adaptation time constant was not signi ﬁ-
+cantly different for 0.1% DMSO ( P=0.29, paired ttest) (Fig.
+1G)o rw i t h0 . 1m Mf o r s k o l i n( P=0.09, paired ttest) (Fig. 1 G).
+Together, these data indicate that in rat OHCs, the cAMP secondmessenger is an endogenous mechanism that regulates the sensitiv-
+i t yo ft h eM E Tc h a n n e l .S i n c ed b c A M Pa n df o r s k o l i np r o d u c e d
+the most consistent effects, we predominantly used these com-pounds in subsequent experiments in this study.
+Long Depolarization and cAMP Have Similar Effects on MET.
+Previously, we reported that depolarizing a hair cell to +76 mV
+produces a transient increase in MET channel resting open proba-
+bility that subsequently decays over a period of several seconds
+(23, 24). In this previous work, we attributed the increase in rest-ing open probability, which has a time course exceeding 100 ms,to a mechanism involving the lipid membrane, but we did not
+investigate the decay in resting open probability. Here, we describe
+the effect of the decay in resting open probability at depolarizedpotentials that occurs during a depolarization of ∼10 s or longer,
+which we term “long depolarization modulation ”or LDM.
+We subjected OHCs to LDM, and using a stiff probe, we eli-
+cited MET current families to generate activation curves at varioustime points during the depolarization ( SI Appendix ,F i g .S 2 ). We
+observed that during the prolonged depolarization, the activation
+curve shifted rightward and became less sensitive, which remainedupon repolarization. To compare the effect before and afterLDM, we performed experiments using the FJ that were similar
+to our experiments with cAMP analogs (Fig. 2 Aand B,b l a c k
+and gray traces). The activation curve as measured with the FJ(Fig. 2 B) exhibited both a signi ﬁcant rightward shift (Fig. 2 C)
+(Half-Act, from 32.8 ±14.7 nm to 59.8 ±17.7 nm, P=2.0E-
+5, paired ttest) and increased width after depolarization (Fig. 2 C)
+(Width
+10–90,f r o m7 0 . 8 ±19.7 nm to 95.1 ±26.2 nm,
+P=0.039, paired ttest). Resting open probability was similarly
+decreased (Fig. 2 E)( R e s t i n g Popen,f r o m4 . 7 ±1.9% to 1.6 ±
+1.0%, P=1.3E-5, paired ttest), while peak current was
+unchanged (Fig. 2 D)( f r o m0 . 7 5 ±0.08 nA to 0.73 ±0.11 nA,
+P=0.37, paired ttest). To determine the effect of LDM on
+MET adaptation, we ﬁrst examined the effect on fast adaptation
+using stiff probe stimuli before and after LDM and found no
+effect on fast adaptation ( SI Appendix ,F i g .S 3 ).
+Next, we investigated the effect of LDM on slow adaptation.
+Using 50-ms step-like FJ stimuli (Fig. 2 A), we found that follow-
+ing LDM the adaptation magnitude was signi ﬁcantly increased
+(Fig. 2 E) (Adaptation %, from 32.8 ±21.4% to 70.9 ±9.0%,
+n=15,P=5.5E-7, paired ttest) and adaptation time constants
+were signi ﬁcantly decreased (Fig. 2 E)(τA,from 20.1 ±9.1 ms to
+9.7±2.6 ms, P=4.0E-4, paired ttest). All of the LDM effects
+mirrored the cAMP up-regulation effects, raising the possibilitythat these two manipulations activate a similar mechanism.
+cAMP and LDM Are Not Additive. We hypothesized that cAMP
+and depolarization operate through or engage a common mecha-
+nism regulating the MET channel in hair cells. Therefore, we
+predicted that activation of the cAMP pathway prior to LDM
+would prevent any further change to MET. Indeed, we foundthat in OHCs exposed to 0.1 mM dbcAMP, activation curve
+width, resting open probability, slow adaptation magnitude, and
+slow adaptation time constant were not signi ﬁcantly different
+after LDM (dbcAMP, Width
+10–90,P=0.97; Resting Popen,
+P=0.23; % Adaptation, P=0.58; τA,P=0.23; n=12,
+paired ttests) (Fig. 2 C–E). In dbcAMP-treated cells, activation
+curve half activation was slightly right-shifted after depolariza-
+tion (Fig. 2 C) (from 46.7 ±14.8 nm to 55.7 ±12.3 nm,
+P=0.038, paired ttest), but the magnitude of the shift was sig-
+niﬁcantly smaller from that in control cells ( P=0.0044,
+unpaired ttest). With multiple methods to affect the resting
+open probability and magnitude of adaptation, we observed a
+negative linear correlation between the resting open probability
+and the magnitude of slow adaptation that a cell exhibited ( r=
+/C00.62, P=2.89E-16) (Fig. 2 F). These data suggest that in rat
+OHCs, the resting open probability can predict the amount of
+slow adaptation the cell will exhibit when stimulated with 50-ms
+duration FJ step stimuli. Together, these data demonstrate that
+cAMP and LDM are not additive, supporting the hypothesis
+that LDM and cAMP modulate the same mechanism.
+cAMP Reduces the Stiffness of the Hair Bundle. The rightward
+shift and increased width of the activation curve are consistent
+with a decrease in gating spring stiffness. The total stiffness of the
+hair bundle ( kHB) is dictated by at least two structural compo-
+nents that exert forces with opposite vectors: the stiffness of gating
+springs ( kGS), which exerts a force in the negative direction, pull-
+ing the hair bundle in the direction of the shortest row of stereoci-
+lia, and the stiffness of stereocilia pivots ( kSP), which imposes a
+resistive force in the opposite direction of the gating spring force.
+According to gating spring theory (6), a decrease in gating spring
+stiffness increases the width of the activation curve and wouldresult in a movement of the hair bundle toward the tallest row of
+stereocilia (Fig. 3 AandC). As the contributions of k
+GS(Fig. 3 A)
+andkSP(Fig. 3 B) to the total hair bundle stiffness ( kHB) decreases
+or increases, we can identify relative movements of the hair bun-
+dle and changes in kHB. Importantly, only changes to the gating
+PNAS 2022 Vol. 119 No. 30 e2107567119 https://doi.org/10.1073/pnas.2107567119 3o f1 1
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+spring stiffness would result in changes in the activation curve
+since changes to kSPdo not modify gating (Fig. 3 C) (5, 6, 25).
+To further support the hypothesis that the gating spring stiff-
+ness is decreased with cAMP up-regulation and LDM, we mea-
+sured the relative change in total hair bundle stiffness with FJ
+hair bundle stimulation and high-speed imaging at 5 min afterentering whole-cell mode (control) followed by 10 min of
+0.2 mM dbcAMP application (dbcAMP) (Fig. 3 D). In these
+experiments, extreme care was used to ensure that the positionof the FJ in relation to the hair bundle (in X,Y,a n d Z)w a sc o n -
+sistent between the 5-min and 10-min postdrug conditions so
+that the force from the FJ on the hair bundle remained consis-tent between the two time points. This allowed us to use the
+driving voltage command to the FJ piezo as a proxy for the rela-
+tive force on the hair bundle. These values only apply to a givencell and cannot be compared across different cells due to the dif-ferent hair bundle morphologies and characteristics and position-
+ing of the FJ in each given hair cell; therefore, we normalized
+the stiffness values against the control condition for each cell.We plotted driver voltage against the hair bundle displacement
+at the end of the 50-ms FJ step, where the displacement is more
+stable, and ﬁt this with a linear equation (forced through the ori-
+gin). The relative stiffness of the hair bundle was unchanged
+when no drug was present (Fig. 3 EandG)( 1 1±30%, n=7)
+but signi ﬁcantly decreased when 0.2 mM dbcAMP was perfused
+(Fig. 3 FandH)(/C013±12%, n=11). To gain some insight
+into the size of the change, we estimated the total hair bundle
+stiffness in the control conditions by calibrating the FJ force(26). We found a hair bundle stiffness of 6.3 ±1.3 mN/m
+(n=6), similar to previous results (26, 27). With the observed
+13% decrease in stiffness with cAMP up-regulation, the hair
+bundle stiffness would decrease to 5.5 mN/m.
+We also assayed the effect of LDM on total hair bundle stiff-
+ness using the same method as in Fig. 3 D–H. We found that
+LDM signi ﬁcantly decreased the total stiffness of the hair bundle
+in control cells ( /C022±15%, n=15) but had no effect in
+dbcAMP-treated cells (2 ±19%, n=12) (Fig. 3 I), which fur-
+ther supports that the two manipulations are not additive. With
+these changes in total hair bundle stiffness, it was surprising not
+to see any consistent effects on the kinetics of the hair bundle
+movement ( SI Appendix ,F i g .S 4 ). It could be that the changes
+in hair bundle mechanics were not large enough to elicit a suf ﬁ-
+cient change in the movement kinetics. In summary, these data
+demonstrate that after cAMP up-regulation or LDM, hair bun-
+dle stiffness decreased, consistent with a decrease in kGSorkSP.
+To delineate between an effect on kGSorkSP,w et e s t e d
+whether the changes in hair bundle stiffness were correlated with
+changes in the activation curve. The inverse of the width of the
+activation curve is linearly related to kGS(SI Appendix ,Materials
+and Methods ). We indeed found that kGSand 1/width are corre-
+lated (Fig. 3 J)(r=0.57, P=4.6E-5). These data suggest that
+gating spring stiffness is decreased upon cAMP up-regulation orLDM.
+LDM Results in Decreased Gating Spring Stiffness. The shorter
+timescale of the LDM process allows continuous monitoring of
+Fig. 2. LDM and cAMP up-regulation are not additive. ( A) Hair bundle displacement and current traces from a rat OHC elicited by FJ stimulation before and
+immediately after a long +76 mV depolarization. “FJ”denotes the stimulus waveform. Data in red are cells treated with either 0.1 mM dbcAMP or forskolin.
+(B) Activation curves from data in A.(C) Activation curves show a rightward shift (Half-Act, P=2.0E-5, paired ttest, n=15) and increased width (Width 10–90,
+P=1.2E-4, paired ttest) after depolarization. Activation curves from cAMP-treated cells show a slight rightward shift ( P=0.04, paired ttest, n=12), but no
+change in width ( P=0.97, paired ttest). ( D) Peak MET current size was unchanged after depolarization for both control and cAMP-treated cells ( Imax, control,
+P=0.37, cAMP, P=0.72, paired ttests). ( E) Depolarization signi ﬁcantly increased the adaptation magnitude (Adaptation %, P=5.5E-7, paired ttest),
+decreased the slow adaptation time constant ( τA,P=4.0E-4, paired ttest), and decreased the resting open probability (Resting Popen,P=1.3E-5, paired
+ttest) in control cells, while cAMP-treated cells showed no change (Adaptation %, P=0.58; τA,P=0.23; Resting Popen,P=0.23, paired ttests). ( F)I nr a t
+OHCs, resting open probability negatively correlates with slow adaptation magnitude ( r=/C00.62, P=2.89E-16. Cell numbers: Control, 1 mM BAPTA n=82,
+10 mM BAPTA, n=16; 0.1 mM BAPTA, n=8; with 0.1 mM dbcAMP or forskolin, 1 mM BAPTA, n=19, 10 mM BAPTA, n=8, 0.1 mM BAPTA, n=8). Error bars
+indicate the mean ±SD. * P≤0.05, *** P≤0.001, **** P≤0.0001.
+4o f1 1 https://doi.org/10.1073/pnas.2107567119 pnas.org
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+t h em e c h a n i c a lc h a n g e so ft h eh a i rb u n d l eo v e rap e r i o do fs e c -
+onds. Delivering cAMP drugs by a perfusion system over the
+course of minutes precludes accurate resting position measure-ments because the movement noise is too high on that timescale.With the shorter activation time of LDM over the time course of
+∼10 s, we designed an experiment to monitor the changes in the
+stiffness of the hair bundle, the resting position of the hair bun-dle, and the change in the activation curve simultaneously (Fig.
+4A). Using our high-speed imaging technique and FJ stimulation
+(19), we subjected rat OHCs to intermittent sine wave stimuli ofthe same ﬂuid drag force during LDM. Upon depolarization to
++76 mV, the resting open probability increased to a maximum of
+51.4±8.9% (Fig. 4 D,b l a c kt r a c e ,a n dF i g .4 F)(“1
+st+76 mV ”
+summary data n=36), after which it decreased to a steady state
+of 23.3 ±12.1% (Fig. 4 G)(ΔPopen+76 mV,/C028.1±10.4%).
+This decrease in resting open probability indicates the rightward
+shift of the activation curve. Concurrently, the hair bundleunderwent mechanical changes that developed over a time course
+similar to the decline in resting open probability during the depo-
+larization (Fig. 4 E). In response to sine wave stimulations of iden-
+tical driver voltage, the resting position of the hair bundle movedforward (Fig. 4 D,E,a n d H)(Δx
+rest/C084 mV, 27.3±30.4 nm), and
+the normalized displacement of the hair bundle increased (Fig.
+4D,E,a n d I)(xpk-pkend/xpk-pkstart, 1.20 ±0.16), indicating that
+total hair bundle stiffness decreased, which is consistent with our
+previous observations (Fig. 3 H). We observed a small increase in
+hair bundle stiffness immediately upon depolarization ( ﬁrst+76 mV,
+3.6±7.2%), which differed from a previous report (27). Simi-
+lar observations on resting position and total hair bundle stiff-
+ness were made when 10 mM intracellular BAPTA was used(SI Appendix ,F i g .S 5 A–D). The observation that the resting
+position increases with a decrease in total hair bundle stiffness
+is only consistent with the hypothesis that LDM decreases k
+GS
+(Fig. 3 AandB).
+Fig. 3. Pharmacological up-regulation of cAMP reduces the stiffness of the hair bundle. ( Aand B) Graphical summary of the possible experimental out-
+comes of modifying the relative contributions [increase ( "), decrease ( #), or remain the same (=)] of the gating springs ( kGS;A) or the stereocilia pivots ( ksp;B)
+to the total hair bundle stiffness ( kHB). In each schematic, the gray hair bundle is the control, and the dark hair bundle outline illustrates the change in the
+hair bundle due to the manipulation with illustrations of the resting position movement ( Δxrest) and change in the peak-to-peak displacement of the hair
+bundle given the same force stimulus ( Δxpk-pk). (C) Theoretical changes in the activation curve for when gating spring increases (blue) and decreases (red)
+from the control condition (gray). No changes in the activation curve are expected for kSPchanges. ( D) Example hair bundle displacement and MET current
+traces from a rat OHC before and after 10 min of 0.2 mM dbcAMP perfusion. ( E) Hair bundle stiffness measurement (FJ driver voltage/hair bundle ending
+displacement) for a control cell at 5 (black) and 15 (blue) min. ( F) Hair bundle stiffness measurement for the 0.2 mM dbcAMP-treated cell shown in D. Notice
+the decreased slope after dbcAMP treatment. ( G) Summary plots showing no change in hair bundle stiffness for control cells at 5 and 15 min ( n=7,
+P=0.38, paired ttest) and ( H) a decrease in hair bundle stiffness for cells treated with 0.2 mM dbcAMP after 10 min ( n=11,P=0.0034, paired ttest).
+(I) Depolarization decreases hair bundle stiffness in control cells ( P=0.000056, paired ttest), but not in cAMP-treated cells ( P=0.76, paired ttest). ( J) Plot
+showing the correlation ( r=0.57, P=4.6E-5) between the stiffness change in the hair bundle and the 1/Width 10–90, which is proportional to Zin a single
+Boltzmann ﬁt and is linearly correlated to kGSaccording to the gating spring theory. All cells from G–Iare included. Dashed line is the best linear ﬁt( s l o p e =0.47,
+y-int=/C04.56). Error bars indicate the mean ±SD. ** P≤0.01, **** P≤0.0001.
+PNAS 2022 Vol. 119 No. 30 e2107567119 https://doi.org/10.1073/pnas.2107567119 5o f1 1
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+To increase our con ﬁd e n c ei nt h e s ed a t a ,w ep e r f o r m e ds e v e r a l
+control experiments to ensure that the mechanical changes observedwere not an artifact. First, we performed the same mechanical pro-tocol but did not depolarize the cell (Fig. 4 F–I,b r o w nc i r c l e s )
+(“/C084 mV Control ”). Next, the effects of depolarization on resting
+open probability and hair bundle mechanics only occur for haircells that have not been recently depolarized, since after inducingLDM, the cell requires time (on the order of minutes) to returnfrom the effects of LDM with the rate depending on the intracellu-
+lar BAPTA concentration ( SI Appendix ,F i g .S 5 E–G). Therefore,
+subsequent depolarizations delivered immediately following the ini-tial depolarization have little to no effect (Fig. 4 A,B,a n d D,g r a y )
+(“2
+nd+76 mV ”). Third, cells that were treated with either 0.1 mM
+dbcAMP or forskolin did not exhibit the increase in resting openprobability, change in resting open probability during the depolari-zation, or changes in hair bundle mechanics (Fig. 4 D,r e d )
+Fig. 4. LDM reduces the stiffness of the gating springs. ( A–C) Traces for measured displacement and current during a long depolarization to +76 mV that is stim-
+ulated intermittently with a single sine wave cycle of constant force magnitude. Circles in the displacement trace track the resting position of the h air bundle
+before each sine wave stimulus. Xs in the current trace indicate the resting current (magenta), negative displacement current (blue), and positive d isplacement
+current (cyan). Cell ’s response to the ﬁrst presentation of the +76-mV protocol ( A), response to the second +76-mV presentation ( B), and a dbcAMP-treated cell ’s
+response to the ﬁrst+76-mV presentation ( C). (D)Q u a n t i ﬁcation of the change in resting open probability (Rest Popen), hair bundle resting position ( Δxrest), and
+normalized displacement size (Norm xpk-pk) from the traces presented in A–C.(E) Average and SE (shade) for the three parameters in Dfor the ﬁrst+76-mV proto-
+col (n=36) show a similar time course of changes from 1 to 10 s. Note that the resting open probably axis was inverted. ( F–I) Summary plots for the maximum
+Popen (one-way ANOVA, P=1.6E-28), the change in resting Popen at+76 mV (max Popen minus the average resting Popen before repolarization, P=7.2E-20), the
+change in hair bundle resting position ( Δxrest,P=0.0030), and the normalized hair bundle displacement at the end of the protocol ( xpk-pkend/xpk-pkstart,P=8.5E-8)
+for rat OHCs. In summary plots, “1st+76 mV ”and “2nd+76 mV ”r e f e rt oe i t h e rt h e ﬁrst (n=36) and second presentation ( n=13) of the +76-mV protocol, respec-
+tively, in the same cell. “/C084 mV Control ”(n=15) are cells that received the same FJ stimulation protocol but were not depolarized. “1st+76 mV w/cAMP ”(n=16)
+are cells treated with either 0.1 mM dbcAMP or forskolin before the +76-mV protocol. “w/out Tip-Links ”(n=15) are cells that were subjected to calcium chelator
+before the +76-mV protocol. Signi ﬁcance bars are based on Tukey –Kramer post hoc test. ( J) Correlation plot demonstrating a linear relationship between the
+amount of slow adaptation before depolarization and the maximum Popen achieved at +76 mV ( r=/C00.66, P=5.62E-9; cell numbers: Control, 1 mM BAPTA,
+n=25; 10 mM BAPTA, n=6; 0.1 mM dbcAMP or forskolin, 1 mM BAPTA, n=16; 10 mM BAPTA, n=4; 0.1 mM BAPTA, n=5). Error bars indicate the mean ±SD.
+*P≤0.05, ** P≤0.01, *** P≤0.001, **** P≤0.0001.
+6o f1 1 https://doi.org/10.1073/pnas.2107567119 pnas.org
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+(“1stPresentation w/cAMP ”), and appeared like a cell that was
+already subjected to LDM (Fig. 4 B,F–I, comparing gray and red)
+(Max Popen+76 mV,P=0.65;ΔPopen+76 mV,P=0.27;Δxrest/C084 mV,
+P=0.95; xpk-pkend/xpk-pkstart,P=0.40, Tukey –Kramer post hoc
+test). This observation also supports that the activation of the cAMP
+pathway and LDM function through the same mechanism.
+Finally, we repeated these experiments after calcium-chelator
+treatment (EDTA) via iontophoresis to sever tip links and, there-fore, the gating springs (18, 26, 28). Hair bundles that lack tip
+links only have k
+SPcontributing to the hair bundle stiffness and
+should not exhibit any of the mechanical changes in response toLDM that modulates gating springs. EDTA-treated hair bundles
+exhibited neither the positive change in resting position nor the
+increase in displacement size after depolarization (Fig. 4 H–I,c o m -
+paring black to blue) ( Δx
+rest/C084 mV,P=0.0055; xpk-pkend/xpk-pkstart,
+P=0.00017, Tukey –Kramer post hoc test). This experiment also
+indicates that in the absence of tip links, LDM does not change
+hair bundle stiffness, suggesting that LDM does not affect kSP.
+One-way ANOVA analysis revealed statistical signi ﬁcance for all
+measured parameters (Fig. 4 F–I), indicating that the experimental
+condition of LDM was different from the control conditions.Together, these control experiments provide evidence that the
+mechanical changes we observed are real, thus indicating that
+LDM causes a decrease in gating spring stiffness.
+In all experiments performed in Fig. 4, we observed a negative
+correlation between the maximum resting open probability thata cell exhibited during the depolarization (typically occurring in
+theﬁrst second (Fig. 4 D, black) and the amount of adaptation
+that the cell exhibited before being depolarized. In other words,OHCs that exhibited smaller magnitudes of slow adaptation
+before being depolarized typically displayed higher maximum
+resting open probability values upon depolarization (Fig. 4 J)
+(r=/C00.66, P=5.62E-9). Higher maximum resting open prob-
+ability suggested that the cell was further from the LDM state,
+consistent with a lower adaptation magnitude. This ﬁnding sup-
+ports that cells may exist in a continuum of states where LDM
+moves the cell toward exhibiting a larger slow adaptation magni-
+tude and lower maximum resting open probability.
+cAMP and LDM Decrease the Contribution of the Gating
+Springs to Total Hair Bundle Stiffness. A third method to con-
+ﬁrm a change in kGSwas to measure the contribution of kGSto
+kHBby disrupting tip links. We performed experiments where
+hair cells were either depolarized or treated with 0.2 mM
+dbcAMP, and we measured hair bundle displacements beforeand after severing tip links with iontophoresis of the calcium-
+chelator EDTA (26, 28). Assuming the stiffness of the hair bun-
+dle after EDTA treatment is only comprised of k
+SP, we can then
+calculate the contribution of kGStokHB(see SI Appendix ,
+Materials and Methods for calculation). If LDM and cAMP
+decrease kGS,t h e nw ew o u l de x p e c t kGS/kHBto decrease after
+LDM or cAMP up-regulation. Hair bundle displacements were
+measured in response to nonsaturating sinusoidal FJ stimulation
+before and after a 7-s iontophoretic application of EDTA (Fig.5B,D,a n d G). In all experiments, patch-clamp recording of the
+MET current was used to ensure near-complete tip-link break-
+age, as measured by MET currents in response to saturating FJstimuli after the iontophoresis protocol (Fig. 5 B,C,a n d F).
+Cells with >75 pA of MET current remaining after EDTA
+treatment were not included for analysis. Consistent with ourhypothesis, we found that LDM or dbcAMP treatmentcaused a decreased k
+GS/kHBcompared with controls (Fig.
+5E) (IHCs, control, 0.58 ±0.067, depolarized, 0.49 ±0.10,
+P=0.042) (Fig. 5 F)( O H C s ,c o n t r o l ,0 . 5 6 ±0.06,dbcAMP, 0.42 ±0.13, P=0.011, unpaired, unequal variance t
+tests). Together, both depolarization in IHCs, and dbcAMP treat-
+ment in OHCs, reduced the contribution of the gating springs to
+the total stiffness of the hair bundle, indicating that both manipu-lations decreased the stiffness of the gating springs.
+Fig. 5. Depolarization or cAMP reduce the contribution of kGStokHB.
+(A) Image of the hair bundle with an iontophoretic pipette for an IHC
+(Upper ) and OHC ( Lower ). MET currents were recorded in all experiments to
+measure tip-link disruption. ( B) Hair bundle displacement and MET current
+data from the IHC shown in Abefore and after iontophoretic application of
+EDTA. Notice the change in displacement size and absence of MET current
+after EDTA. ( C) EDTA application produced near-complete tip-link breakage
+(<75 pA remaining) as measured by the peak MET current in response to a
+family of force steps (not shown) before and after EDTA treatment ( n=18,
+P=4.7E-16, paired ttest). ( D) IHC bundle displacement size in response to FJ
+sine wave stimulation increased more after EDTA application in control than
+after LDM (displacement ratio, control: 2.52 ±0.44, n=8, LDM: 1.92 ±0.30,
+n=9,P=0.0093, unpaired, unequal variance ttest). ( E)L D Md e c r e a s e d
+the contribution of kGStokHBin IHCs ( kGS/kHBfrom 0.59 ±0.07 to 0.50 ±0.1,
+P=0.042, unpaired, unequal variance ttest). ( F) Peak MET current decreased
+after EDTA treatment in OHCs (0.85 ±0.1 nA to 0.04 ±0.02 nA, n=15,
+P=6.4E-14, paired ttest). ( G) Hair bundle displacement size increased more
+after EDTA application for control than 0.2 mM dbcAMP-treated OHCs (displace-
+ment ratio, control: 2.30 ±0.37, n=7, dbcAMP: 1.81 ±0.41, n=11,P=0.022,
+unpaired, unequal variance ttest). ( H) Similar to depolarization, dbcAMP
+decreases kGS/kHBin OHCs (from 0.56 ±0.06 to 0.42 ±0.13, P=0.011, unpaired,
+unequal variance ttest). Error bars indicate the mean ±SD. * P≤0.05,
+**P≤0.01, **** P≤0.0001.
+PNAS 2022 Vol. 119 No. 30 e2107567119 https://doi.org/10.1073/pnas.2107567119 7o f1 1
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+cAMP Modulates MET through EPAC, Not PKA. The classic down-
+stream target of cAMP is PKA, also known as the cAMP-dependent protein kinase. cAMP promotes the dissociation of theregulatory and catalytic subunits of PKA to allow phosphorylation
+of proteins via the catalytic subunit (29). To determine if the
+effects we observed with cAMP pharmacology were a result ofdownstream activation of PKA, we inhibited PKA activity whilesimultaneously activating the cAMP pathway. Using two differentPKA inhibitors, H89 and PKI, we tested if PKA inhibition couldprevent the changes in the activation curve observed with cAMPactivation. H89 inhibits PKA by competing for the ATP bindingsite on the catalytic subunit (29). We used H89 at 10 μM, over
+200 times its K
+i(30) and 10 times greater than the concentration
+used in IHCs to inhibit PKA modulation of potassium currents(31). At this concentration, data were similar to that using anactivator alone (Fig. 6 C–G, blue) (Half-Act: from 29.1 ±9.7 nm
+to 55.0 ±34.4 nm, P=0.013; Width
+10–90:f r o m6 5 . 1 ±15.0 nm
+to 96.8 ±50.0 nm, P=0.038; Resting Popen:f r o m4 . 9 ±0.8% to
+3.3±1.4%, P=0.0018; Adaptation: from 22.6 ±7.8% to 44.7
+±23.5%, P=0.0021; τA:f r o m2 8 . 9 ±47.5 ms to 12.9 ±5.9 ms,
+P=0.23; paired ttest). PKI is also an inhibitor of the catalytic sub-
+unit of PKA by binding to the substrate-binding pocket whileunable to be phosphorylated (29). PKI has a K
+iof 1.7 nM according
+to the manufacturer, and we used PKI intracellularly at 1 μMa n d5
+μM and did not observe any difference. Data with PKI corroborated
+the data with H89 and were also similar to data with activator alone(Fig. 6 C–G, purple) (Half-Act: from 29.1 ±9.0 nm to 60.1 ±
+19.8 nm, P=0.0013; Width
+10–90:f r o m7 3 . 7 ±10.1 nm to
+90.6±22.7 nm, P=0.048; Resting Popen:f r o m5 . 0 ±1.1% to
+3.0±1.3%, P=0.0076; Adaptation: from 24.6 ±16.7%
+to 54.1 ±28.6%, P=0.0080; τA: from 31.6 ±50.6 ms to 15.8 ±
+12.6 ms, P=0.41; paired ttest). Unexpectedly, these data indicate
+that PKA is not responsible for the rightward shift and increasedwidth of the activation curve observed with cAMP activation.
+Another potential cAMP signaling pathway is through the
+EPAC (32, 33). To test whether EPAC activation can recapitulatethe cAMP effect, we used the EPAC-speci ﬁc agonist 8-(4-Chloro-
+phenylthio)-2
+0-O-methyladenosine-30,50-cyclic monophosphate
+(8-CPT). 8-CPT is a potent and selective superagonist of EPACover PKA (34). 8-CPT can be used up to about 10 μM, where
+there is about 20% activation of PKA and near 100% activation ofEPAC (34). When 8-CPT was included in the intracellular solu-tion at 1 μMa n d5 μM, hair cells behaved similarly to when the
+cAMP pathway is activated with dbcAMP or forskolin with a right-ward shift of the activation curve and increase in adaptation magni-t u d eo v e rt i m e( F i g .6 ,g r e e n )( H a l f - A c t :f r o m3 8 . 9 ±1.9 nm to
+56.8±23.8 nm, P=0.0087; Width
+10–90:f r o m8 7 . 8 ±34.1 nm
+to 102.1 ±33.2 nm, P=0.046; Resting Popen:f r o m4 . 7 ±1.1%
+to 3.4 ±1.5%, P=0.013; Adaptation: from 25.8 ±10.2% to
+48.7±23.9%, P=0.0035; τA: from 22.6 ±15.3 ms to 20.2 ±
+12.1 ms, P=0.71; paired ttest). The results from all three phar-
+macological manipulations (H89, PKI, and 8-CPT) are consistentwith the cAMP effect being mediated by EPAC. We also testedwhether there was a baseline level of cAMP activity by using thecAMP inhibitor Rp-cAMPS at 0.1 mM, near the IC
+50for EPAC1
+(35). We found that there was no effect with Rp-cAMPS on thehair cell activation curve ( SI Appendix ,F i g .S 6 ). Taken together,
+these data suggest that cAMP functions through an EPAC medi-ated pathway, not PKA, to decrease gating spring stiffness.
+Discussion
+Regulation of hair cell MET is critical to our auditory system ’s
+high precision and wide dynamic range (11 –13). Growingevidence indicates the existence of other mechanisms that mod-
+ulate the activity of the MET channel apart from the classic
+adaptation processes (24, 36). The present study expands on
+early work from turtle and bullfrog hair cells (15, 16) and dem-onstrates that up-regulation of the second messenger cAMP, aswell as LDM, modulates the MET channel by decreasing the
+gating spring stiffness. Data are also consistent with the cAMP
+effect occurring through activation of EPAC and not the classicPKA mediated pathways.
+In this study, we ﬁrst demonstrated that in rat OHCs, phar-
+macological agents that increased intracellular cAMP signalingreduced the sensitivity of the MET channel (Fig. 1). We subse-quently characterized another manipulation, LDM. Previously,
+we characterized the changes that occur during depolarization,
+where there is initially an increase in the resting open probabil-ity followed by a subsequent decrease in open probability (24).The increase in resting open probability involved the lipid
+bilayer and is a separate mechanism from the LDM described
+here. LDM results in a decline in resting open probability andalters MET properties similarly to cAMP up-regulation ( SI
+Appendix , Figs. S2 and S3 ). We also hypothesize that hair cells
+exist in a continuum of states where the MET channel resting
+open probability and the magnitude of slow adaptation are
+inversely related. Further experiments demonstrated that cAMPup-regulation combined with LDM did not affect MET or hairbundle mechanics in an additive manner, suggesting that the
+two manipulations act at a common end effector site (i.e.,
+gating spring) to modulate MET (Fig. 2), potentially through dif-ferent signaling cascades. Both manipulations resulted in decreasedMET channel sensitivity, consistent with a decrease in gating spring
+stiffness (6).
+To test the hypothesis of reduced gating spring stiffness, we
+performed experiments that allowed us to quantify mechanical
+changes in the hair bundle. In a simplistic view, the stiffness of
+the hair bundle consists of the contributions of the stiffnesses ofthe gating springs ( k
+GS) and stereocilia pivots ( kSP), which
+encompasses contributions by other interstereociliary links as
+well. The gating springs can contribute ∼50% of the total hair
+bundle stiffness (18, 26). At rest, the hair bundle position isdetermined by the tension in the tip link pulling the hair bundlein the negative direction and the resistive force of the stereocilia
+pivots. Alterations in k
+GS, but not kSP, are associated with
+changes in the activation curve (Fig. 3 A–C). We ﬁrst found that
+cAMP up-regulation and LDM were associated with a decreasein hair bundle stiffness, which was correlated with a widening ofthe activation curve (Fig. 3 J), all being consistent with an effect
+onk
+GS. Next, we found that in response to LDM, the hair bun-
+dle exhibited a positive change in the resting position (towardthe tallest row of stereocilia) and an increase in the displacementsize (Fig. 4), which is consistent with a gating spring stiffness
+decrease, not a decrease in stereocilia pivot stiffness (Fig. 3 AandB).
+Additionally, LDM in the absence of tip links did not change thestiffness of the hair bundle, indicating no effect on k
+SP.
+Finally, using an iontophoresis technique to sever tip links,
+we could estimate the change in the stiffness of the gatingsprings in response to either cAMP analogs or depolarization bymeasuring the displacement of the hair bundle in response to a
+FJ stimulus of the same ﬂuid drag force before and after severing
+the tip-links. We found that both cAMP and depolarizationdecreased the contribution of the gating springs to the total hairbundle stiffness (Fig. 5). The gating spring theory posits that
+changes in gating spring stiffness will result in a change in the
+MET channel sensitivity (6). With cAMP up-regulation usingdbcAMP, we observed a 47% average increase in the width of
+8o f1 1 https://doi.org/10.1073/pnas.2107567119 pnas.org
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+the activation curve (Fig. 1 D). According to the gating spring
+theory, this would be the result of a 32% decrease in gating
+spring stiffness. When combining the measured changes in kHB
+(Fig. 3 H)a n d kGS/kHB(Fig. 5 I), we estimate a 34% decrease in
+kGSon average upon cAMP pathway activation. These two val-
+ues, which are calculated based on different experimental meas-
+ures, are consistent with each other, suggesting that kGSchanges
+can account for most of the stiffness changes we observed. Thesedata indicate that cAMP and LDM modulate hair cell MET by
+decreasing gating spring stiffness.
+Knowing that the gating spring is the target of cAMP activa-
+tion, we sought to determine the signaling pathway. PKA is the
+classic cAMP target; however, two speci ﬁc PKA inhibitors were
+unable to block the cAMP effect (Fig. 6 C–G, blue and purple).Instead, we found that cAMP functions through EPAC to
+mediate the decrease in gating spring stiffness by using an
+EPAC-speci ﬁc activator (Fig. 6, green). Failure of PKA-speci ﬁc
+inhibitors to block the cAMP effect along with the speci ﬁc
+EPAC activator (8-CPT) mimicking the cAMP effect stronglysuggests the EPAC pathway mediating the decreased gating
+spring stiffness. Ideally, inhibition of the EPAC pathway would
+help to further support the pathway, however, current inhibi-tors of the EPAC pathway, like ESI-09 and HJC0197, have
+general protein denaturing capabilities and may not be compet-
+itive inhibitors of EPAC (37). Further experiments are stillrequired to identify an appropriate inhibitor of the pathway,
+but current data are supportive of an EPAC pathway regulating
+hair cell MET.-2000200400600
+-0.8-0.6-0.4-0.20
+050100150200Width10-90 (nm)050100150Half-Act (nm)
+0510Resting Popen (%)
+050100Adaptation (%)
+H89
+H89 & ActivatorPKI
+PKI & Activator8-CPT Early8-CPT LateH89
+H89 & ActivatorPKI
+PKI & Activator8-CPT Early8-CPT LateC
+DA
+B
+GE
+F
+110100/g87A (ms)**
+****
+**
+*****
+******-1000100200
+-0.8-0.6-0.4-0.20
+-100 0 100 20000.51Displacement (nm) Current (nA)
+I/Imax
+Displacement (nm)8-CPT Early 8-CPT Late
+FJ
+50ms
+LateEarly
+Fig. 6. cAMP modulates MET through EPAC, not PKA. ( A) Example traces of hair bundle displacement and MET currents from a rat OHC elicited by FJ force
+steps with 5 μM 8-CPT in the intracellular solution. Early traces were obtained ∼5 min after entering whole-cell mode. The late data were collected ∼15 min
+after entering whole-cell mode. ( B) MET current versus hair bundle displacement (activation curve) for the data presented in A.(Cand D) Summary plots for
+the half activation (Half-Act) and 10 –90 width (Width 10–90) of the activation curve. H89 was used at 0.01 mM, and PKI was used at 1 and 5 μM with either
+forskolin or dbcAMP as the activator. Data were taken in the presence of the inhibitor and after 10 min of activator application. 8-CPT was used in the in tra-
+cellular solution at 1 and 5 μM and traces were taken early and late after entering whole-cell mode. Number of cells: H89 and activator n=15, PKI and acti-
+vator n=9, 8-CPT n=12. H89 and activator, PKI and activator, and 8-CPT produced a rightward shift in the half-activation ( P=0.013, P=0.0014, P=0.0087,
+paired ttests) and increased the 10 –90 width of the activation curve ( P=0.038, P=0.048, P=0.046, paired ttests). ( E) Resting Popen summary data from
+cells in all conditions. ( Fand G) Adaptation magnitude and time constant ( τA) summary data for a FJ stimulation that produced ∼50% of the maximum
+recorded current for that cell (50% Imax). H89 and activator, PKI and activator, and 8-CPT produced a signi ﬁcant increase in adaptation magnitude ( P=0.0021,
+P=0.0080, P=0.0035, paired ttests). Error bars indicate the mean ±SD. * P≤0.05, ** P≤0.01.
+PNAS 2022 Vol. 119 No. 30 e2107567119 https://doi.org/10.1073/pnas.2107567119 9o f1 1
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+Implications for Auditory Function. cAMP signaling is a ubiq-
+uitous pathway in many cell types and serves a variety of differ-
+ent cellular functions. Although the effect of cAMP on MET wasdocumented over two decades ago, the mechanism of action and sig-
+naling pathway has not been elucidated until now. These ﬁndings
+provide a potential mechanism for G protein-coupled receptors(GPCRs) to modulate gating spring stiffness and the sound trans-duction process.
+A potential function of the cAMP pathway in hair cells is to
+provide some level of protection during levels of high-intensitystimulation. cAMP could be up-regulated to decrease MET
+sensitivity to protect against damage. Another potential path-
+way could operate through GPCRs and downstream activationof G
+sαto stimulate adenylyl cyclase activity to modulate MET
+activity, but the participation of GPCRs in hair cell MET regu-
+lation is yet to be explored.
+A resting level of cAMP could allow for bidirectional control
+of gating spring stiffness, hence hair cell sensitivity. This has
+been demonstrated to modulate spontaneous oscillation fre-
+quency in bullfrog saccular hair cells (16). However, in mamma-lian hair cells, there does not appear to be a resting level of
+cAMP activity since Rp-cAMPS, which inhibits both PKA and
+EPAC (to a lesser extent) activation (35, 38), did not cause aleftward shift in the activation curve ( SI Appendix ,F i g .S 6 ). This
+result argues against cAMP levels being the determinant of
+where a given hair cell sits on the continuum of states shown bythe resting open probability and baseline level of slow adaptation
+(Figs. 2 Fand 4 J); however, this hypothesis cannot be fully ruled
+out since further experiments using higher concentrations ofRp-cAMPS and different EPAC inhibitors are required.
+Potential Molecular Mechanisms of Modulating Gating Spring
+Stiffness. The molecular and structural composition of the gating
+springs is still debated (36). The tip link was originally thought to
+be the gating spring (6), however, electron microscopy and molec-ular dynamics simulations later suggest that the tip link itself may
+not be the gating spring due to its rigidity (39, 40). Even more
+recent data have revived the suggestion that the tip link could con-tribute to the gating spring (41, 42). Even if the tip link contrib-utes to the gating spring stiffness through the structure of its
+extracellular domains, it is unlikely to be the target of the cAMP
+effect since the EPAC signaling pathway is likely restricted tointracellular targets. In addition to the tip link, gating spring stiff-
+ness may arise from any component in series with the tip link.
+Potential elements could be the myosin motors (like myosin VIIa)or their adapter proteins at the upper tip-link insertion point
+(9, 43, 44), as well as other components at the lower tip-link
+insertion important for MET, such as CIB2, TMIE, LHFPL5,or TMC1 (2, 3, 45 –48). The gating spring stiffness may also
+potentially arise from its interaction with the lipid bilayer of the
+stereocilia membrane, where the upper and lower ends of thetip link insert before being anchored to the f-actin core (49).Any of these components could be the target of the EPAC-
+mediated regulation.
+EPAC acts as a guanine exchange factor for the Rap1 and
+Rap2 small GTPases. Rap has many potential downstream effec-
+tor pathways, which could lead to modulating gating spring stiff-
+ness (33). A notable pathway is one that down-regulates the RhoAsignaling pathway to increase smooth muscle relaxation (50) andcould target the actin cytoskeleton in hair bundles. More detailed
+studies are required to elucidate the complete signaling pathway.A recent study has localized both EPAC1 and EPAC2 to haircells in both auditory and vestibular hair cells (51). Only oneother study has investigated EPAC in hair cells, where EPAC1was up-regulated in hair cells following noise exposure and pro-moted the loss of hair cells (52). Our observations on decreasing
+gating spring stiffness appear opposite to the effect observed in
+this study, since decreasing the sensitivity would likely be a pro-tective mechanism to help prevent excitotoxicity of the hair cell.Reconciling these ﬁndings may lie in the timescale of effects
+since our study looked at the effect on the minute timescale,whereas the other study looked at effects on the timescale ofdays. Nonetheless, these published studies con ﬁrm the presence
+of EPAC in hair cells.
+A recent study demonstrated that the diffusivity of the lipid
+membrane is correlated with the resting P
+open of the MET
+channel; manipulations that decrease membrane diffusivityincrease the resting P
+openof the channel (53). Importantly, dur-
+ing a long depolarization (i.e., LDM), the membrane diffusivityincreased, suggesting that in the LDM state, membrane diffu-sivity is increased. It is reasonable to hypothesize that lipid dif-fusivity may contribute to gating spring stiffness by alteringhow rigidly the tip link is held in place within the membrane(at either the upper or lower tip-link insertion) or the compli-
+ance of the membrane surrounding the channel if MET chan-
+nels are gated via the lipid membrane itself. Further work isnecessary to determine if cAMP/EPAC signaling also increasesmembrane diffusivity.
+In summary, our ﬁndings demonstrate that cAMP and long
+depolarization both modulate the activity of auditory MET bydecreasing the stiffness of the gating springs that gate the METchannel. These results demonstrate cAMP regulation of the
+MET process in mammalian hair cells and introduce a poten-
+tial mechanism for GPCR regulation of hair cell function.
+Methods Summary
+Animals were killed using methods approved by the University of Colorado Insti-
+tutional Animal Care and Use Committee. Patch-clamp electrophysiology,
+mechanical stimulation, and high-speed imaging of hair bundles are similar to
+previously described methods on rat cochlear hair cells (18, 19, 24). Iontophore-sis was performed using an MVCS 02 (NPI Electronic). Hair bundle stiffness
+estimates were performed similarly to the methods previously described (26).
+Data were analyzed using jClamp (SciSoft Company), MATLAB (MathWorks), andExcel (Microsoft). Data are presented as mean ±SD unless otherwise noted.
+Detailed materials and methods are provided in SI Appendix ,Materials and
+Methods .
+Data Availability. All data are available upon request by contacting the corre-
+sponding author.
+ACKNOWLEDGMENTS. We thank Jong-hoon Nam and Gregory Frolenkov for
+valuable input regarding the work in this manuscript; and Mark Dell ’Acqua for
+steering us toward investigating EPAC-mediated pathways. Initial characterization
+of LDM was done at Stanford University under support of K99 DC013299 andR01 DC003896. This work was also supported by National Institute on Deafnessand Other Communication Disorders Grants R00 DC013299 and R01
+DC016868 (to A.W.P.), F31 DC018457 (to A.A.M.), and R21 DC019701 (to
+G.A.C.).
+1. M. Beurg, R. Fettiplace, J. H. Nam, A. J. Ricci, Localization of inner hair cell mechanotransducer
+channels using high-speed calcium imaging. Nat. Neurosci. 12, 553 –558 (2009).
+2. B. Pan et al. , TMC1 forms the pore of mechanosensory transduction channels in vertebrate inner
+ear hair cells. Neuron 99, 736 –753.e6 (2018).3. C. L. Cunningham et al. ,T M I Ed e ﬁnes pore and gating properties of the mechanotransduction
+channel of mammalian cochlear hair cells. Neuron 107, 126 –143.e8 (2020).
+4. M. Beurg, W. Xiong, B. Zhao, U. M €uller, R. Fettiplace, Subunit determination of the conductance of
+hair-cell mechanotransducer channels. Proc. Natl. Acad. Sci. U.S.A. 112, 1589 –1594 (2015).
+10 of 11 https://doi.org/10.1073/pnas.2107567119 pnas.org
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.
+
+5. J. Howard, A. J. Hudspeth, Mechanical relaxation of the hair bundle mediates adaptation in
+mechanoelectrical transduction by the bullfrog ’s saccular hair cell. Proc. Natl. Acad. Sci. U.S.A. 84,
+3064 –3068 (1987).
+6. J. Howard, A. J. Hudspeth, Compliance of the hair bundle associated with gating of
+mechanoelectrical transduction channels in the bullfrog ’s saccular hair cell. Neuron 1, 189 –199
+(1988).
+7. J. O. Pickles, S. D. Comis, M. P. Osborne, Cross-links between stereocilia in the guinea pig organ of
+Corti, and their possible relation to sensory transduction. Hear. Res. 15, 103 –112 (1984).
+8. J. A. Assad, G. M. Shepherd, D. P. Corey, Tip-link integrity and mechanical transduction in
+vertebrate hair cells. Neuron 7, 985 –994 (1991).
+9. S. Li et al. , Myosin-VIIa is expressed in multiple isoforms and essential for tensioning the hair cell
+mechanotransduction complex. Nat. Commun. 11, 2066 (2020).
+10. S. L. Shotwell, R. Jacobs, A. J. Hudspeth, Directional sensitivity of individual vertebrate hair cells to
+controlled de ﬂection of their hair bundles. Ann. N. Y. Acad. Sci. 374,1–10 (1981).
+11. R. A. Eatock, D. P. Corey, A. J. Hudspeth, Adaptation of mechanoelectrical transduction in hair cells
+of the bullfrog ’s sacculus. J. Neurosci. 7, 2821 –2836 (1987).
+12. A. J. Ricci, H. J. Kennedy, A. C. Crawford, R. Fettiplace, The transduction channel ﬁlter in auditory
+hair cells. J. Neurosci. 25, 7831 –7839 (2005).
+13. H. J. Kennedy, A. C. Crawford, R. Fettiplace, Force generation by mammalian hair bundles
+supports a role in cochlear ampli ﬁcation. Nature 433, 880 –883 (2005).
+14. A. W. Peng, F. T. Salles, B. Pan, A. J. Ricci, Integrating the biophysical and molecular mechanisms
+of auditory hair cell mechanotransduction. Nat. Commun. 2, 523 (2011).
+15. A. J. Ricci, R. Fettiplace, The effects of calcium buffering and cyclic AMP on mechano-electrical
+transduction in turtle auditory hair cells. J. Physiol. 501, 111 –124 (1997).
+16. P. Martin, D. Bozovic, Y. Choe, A. J. Hudspeth, Spontaneous oscillation by hair bundles of the
+bullfrog ’s sacculus. J. Neurosci. 23, 4533 –4548 (2003).
+17. R. L. Santos-Cortez et al. ; University of Washington Center for Mendelian Genomics, Adenylate
+cyclase 1 (ADCY1) mutations cause recessive hearing impairment in humans and defects in hair
+cell function and hearing in zebra ﬁsh.Hum. Mol. Genet. 23, 3289 –3298 (2014).
+18. G. A. Caprara, A. A. Mecca, A. W. Peng, Decades-old model of slow adaptation in sensory hair cells
+is not supported in mammals. Sci. Adv. 6, eabb4922 (2020).
+1 9 . G .A .C a p r a r a ,A .A .M e c c a ,Y .W a n g ,A .J .R i c c i ,A .W .P e n g ,H a i rb u n d l es t i m u l a t i o nm o d e
+modi ﬁes manifestations of mechanotransduction adaptation. J. Neurosci. 39,9 0 9 8 –9106
+(2019).
+20. H. Kumagami et al. , Expression pattern of adenylyl cyclase isoforms in the inner ear of the rat by
+RT-PCR and immunochemical localization of calcineurin in the organ of Corti. Hear. Res. 132,
+69–75 (1999).
+21. M. J. Drescher et al. , Expression of adenylyl cyclase type I in cochlear inner hair cells. Brain Res.
+Mol. Brain Res. 45, 325 –330 (1997).
+22. N. Michalski et al. , Molecular characterization of the ankle-link complex in cochlear hair cells and
+its role in the hair bundle functioning. J. Neurosci. 27, 6478 –6488 (2007).
+23. A. W. Peng, T. Effertz, A. J. Ricci, Adaptation of mammalian auditory hair cell mechanotransduction
+is independent of calcium entry. Neuron 80, 960 –972 (2013).
+24. A. W. Peng, R. Gnanasambandam, F. Sachs, A. J. Ricci, Adaptation independent modulation of
+auditory hair cell mechanotransduction channel open probability implicates a role for the lipid
+bilayer. J. Neurosci. 36, 2945 –2956 (2016).
+25. S. Kitajiri et al. , Actin-bundling protein TRIOBP forms resilient rootlets of hair cell stereocilia
+essential for hearing. Cell141, 786 –798 (2010).
+26. M. Tobin, A. Chaiyasitdhi, V. Michel, N. Michalski, P. Martin, Stiffness and tension gradients of the
+hair cell ’s tip-link complex in the mammalian cochlea. eLife8, e43473 (2019).
+27. M. Beurg, J. H. Nam, A. Crawford, R. Fettiplace, The actions of calcium on hair bundle mechanics in
+mammalian cochlear hair cells. Biophys. J. 94, 2639 –2653 (2008).
+28. F. Jaramillo, A. J. Hudspeth, Displacement-clamp measurement of the forces exerted by gating
+springs in the hair bundle. Proc. Natl. Acad. Sci. U.S.A. 90, 1330 –1334 (1993).29. C. Liu, P. Ke, J. Zhang, X. Zhang, X. Chen, Protein kinase inhibitor peptide as a tool to speci ﬁcally
+inhibit protein kinase A. Front. Physiol. 11, 574030 (2020).
+30. T. Chijiwa et al., Inhibition of forskolin-induced neurite outgrowth and protein phosphorylation by a newly
+synthesized selective inhibitor of cyclic AMP-dependent protein kinase, N-[2-(p-bromocinnamylamino)ethyl]-
+5-isoquinolinesulfonamide (H-89), of PC12D pheochromocytoma cells. J. Biol. Chem. 265, 5267 –5272
+(1990).
+31. D. J. Jagger, J. F. Ashmore, The fast activating potassium current, I(K,f), in guinea-pig inner hair
+cells is regulated by protein kinase A. Neurosci. Lett. 263, 145 –148 (1999).
+32. J. de Rooij et al. , Epac is a Rap1 guanine-nucleotide-exchange factor directly activated by cyclic
+AMP. Nature 396, 474 –477 (1998).
+33. M. Schmidt, F. J. Dekker, H. Maarsingh, Exchange protein directly activated by cAMP (epac): A
+multidomain cAMP mediator in the regulation of diverse biological functions. Pharmacol. Rev. 65,
+670 –709 (2013).
+34. J. M. Enserink et al. , A novel Epac-speci ﬁc cAMP analogue demonstrates independent regulation of
+Rap1 and ERK. Nat. Cell Biol. 4, 901 –906 (2002).
+35. H. Rehmann, F. Schwede, S. O. Døskeland, A. Wittinghofer, J. L. Bos, Ligand-mediated activation of
+the cAMP-responsive guanine nucleotide exchange factor Epac. J. Biol. Chem. 278, 38548 –38556
+(2003).
+36. G. A. Caprara, A. W. Peng, Mechanotransduction in mammalian sensory hair cells. Mol. Cell.
+Neurosci. 120, 103706 (2022).
+37. H. Rehmann, Epac-inhibitors: Facts and artefacts. Sci. Rep. 3, 3032 (2013).
+38. R. J. de Wit et al. , Inhibitory action of certain cyclophosphate derivatives of cAMP on
+cAMP-dependent protein kinases. Eur. J. Biochem. 142, 255 –260 (1984).
+39. B. Kachar, M. Parakkal, M. Kurc, Y. Zhao, P. G. Gillespie, High-resolution structure of hair-cell tip
+links. Proc. Natl. Acad. Sci. U.S.A. 97, 13336 –13341 (2000).
+40. M. Sotomayor, W. A. Weihofen, R. Gaudet, D. P. Corey, Structural determinants of cadherin-23
+function in hearing and deafness. Neuron 66,8 5 –100 (2010).
+41. T. F. Bartsch et al. , Elasticity of individual protocadherin 15 molecules implicates tip links as the
+gating springs for hearing. Proc. Natl. Acad. Sci. U.S.A. 116, 11048 –11056 (2019).
+42. G. Dionne et al. , Mechanotransduction by PCDH15 relies on a novel cis-dimeric architecture.
+Neuron 99, 480 –492.e5 (2018).
+43. M. Grati, B. Kachar, Myosin VIIa and sans localization at stereocilia upper tip-link density implicates
+these Usher syndrome proteins in mechanotransduction. Proc. Natl. Acad. Sci. U.S.A. 108,
+11476 –11481 (2011).
+44. N. Grillet et al. , Harmonin mutations cause mechanotransduction defects in cochlear hair cells.
+Neuron 62, 375 –387 (2009).
+45. W. Xiong et al. , TMHS is an integral component of the mechanotransduction machinery of cochlear
+hair cells. Cell151, 1283 –1295 (2012).
+46. B. Zhao et al. , TMIE is an essential component of the mechanotransduction machinery of cochlear
+hair cells. Neuron 84, 954 –967 (2014).
+47. B. Pan et al. , TMC1 and TMC2 are components of the mechanotransduction channel in hair cells of
+the mammalian inner ear. Neuron 79, 504 –515 (2013).
+48. A. P. J. Giese et al. , CIB2 interacts with TMC1 and TMC2 and is essential for mechanotransduction
+in auditory hair cells. Nat. Commun. 8, 43 (2017).
+49. R. J. Powers et al. , Stereocilia membrane deformation: Implications for the gating spring and
+mechanotransduction channel. Biophys. J. 102, 201 –210 (2012).
+50. B. J. Zieba et al. , The cAMP-responsive Rap1 guanine nucleotide exchange factor, Epac, induces smooth
+muscle relaxation by down-regulation of RhoA activity. J. Biol. Chem. 286, 16681 –16692 (2011).
+51. C. Wang et al. , The expression and signi ﬁcance of Epac1 and Epac2 in the inner ear of guinea pigs.
+Eur. Arch. Otorhinolaryngol. , 10.1007/s00405-022-07380-0 (2022).
+52. F. Sun et al. , Epac1 signaling pathway mediates the damage and apoptosis of inner ear hair cells
+after noise exposure in a rat model. Neuroscience 465, 116 –127 (2021).
+53. S. S. George, C. R. Steele, A. J. Ricci, Rat auditory inner hair cell mechanotransduction and
+stereociliary membrane diffusivity are similarly modulated by calcium. iScience 23, 101773 (2020).
+PNAS 2022 Vol. 119 No. 30 e2107567119 https://doi.org/10.1073/pnas.2107567119 11 of 11
+Downloaded from https://www.pnas.org by 73.164.63.26 on July 24, 2022 from IP address 73.164.63.26.

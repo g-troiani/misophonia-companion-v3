@@ -1,0 +1,33 @@
+# File: netlify.toml
+# Netlify configuration for Misophonia Companion
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[dev]
+  command = "npm run dev"
+  targetPort = 5173
+
+[functions]
+  directory = "netlify/functions"
+
+# Redirect all requests to index.html for SPA routing
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api/gemini"
+  to = "/.netlify/functions/research-assistant"
+  status = 200
+
+[[redirects]]
+  from = "/api/rag"
+  to = "/.netlify/functions/rag-search"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

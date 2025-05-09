@@ -1,0 +1,557 @@
+## Running Head: MISOPHONIA SOURCE CATEGORIES
+
+```
+What sound sources trigger misophonia? Not just chewing and breathing Heather A. Hansen , Andrew B. Leber , Zeynep M. Saygin 1 1 1 1 2 3 4 5 6 7 8 9
+```
+
+1 Department of Psychology, The Ohio State University 10
+
+```
+Please address correspondence to: Heather A. Hansen, Department of Psychology, The Ohio State University, 225 Psychology Building, 1835 Neil Avenue, Columbus, OH, 43210. E-mail: hansen.508@osu.edu Word Count: 8466 (entire manuscript) 12 13 14 15 16 17 18 19 20
+```
+
+## 2 MISOPHONIA SOURCE CATEGORIES
+
+## Objectives : 21 22
+
+## Abstract
+
+Misophonia is a highly prevalent yet understudied condition characterized by aversion toward particular environmental sounds. Oral/nasal sounds (e.g., chewing, breathing) have been the focus of research, but variable experiences warrant an objective investigation. Experiment 1 asked whether human-produced oral/nasal sounds were more aversive than human-produced non-oral/nasal sounds and nonhuman/nature sounds. Experiment 2 additionally asked whether machine-learning algorithms could predict the presence and severity of misophonia. 23 24 25 26 27 28
+
+## Method : 29
+
+Sounds were presented to individuals with misophonia (Exp.1: N=48, Exp.2: N=45) and members of the general population (Exp.1: N=39, Exp.2: N=61). Aversiveness ratings to each sound were self-reported. 30 31 32
+
+## Results : 33
+
+Sounds from all three source categories - not just oral/nasal sounds - were rated as significantly more aversive to individuals with misophonia than controls. Further, modeling all sources classified misophonia with 89% accuracy and significantly predicted misophonia severity ( r =0.75). 34 35 36 37
+
+## Conclusions : 38
+
+Misophonia should be conceptualized as more than an aversion to oral/nasal sounds, which has implications for future diagnostics and experimental consistency moving forward. 39 40
+
+Keywords: misophonia, diagnosis, sound sensitivity, sound aversion, source categories, machine 41
+
+learning 42 43
+
+## 3 MISOPHONIA SOURCE CATEGORIES
+
+## Introduction 44
+
+- When nails scrape against a chalkboard or someone screams, most people have an immediate adverse reaction to the sound: their attention is instantly captured, they might wince or be irritated by it, and they look to make it stop. These generally aversive sounds are often loud, rough, and high frequency, and are thought to elicit a negative reaction to aid survival(Halpern et al., 1986). Some individuals, however, experience similar discomfort to certain seemingly innocuous soft sounds in the environment. For instance, sounds like chewing, breathing, or tapping may evoke similar feelings of anxiety, panic, anger, or even rage in these individuals. Individuals with these experiences are said to have 'misophonia', a term coined by Jastreboff and Jastreboff who described the condition as involving negative reactions to specific sounds and/or sounds that occur in specific contexts, but otherwise normal tolerance for other sounds(Jastreboff &amp; Jastreboff, 2002). These experiences are not uncommon and can be quite severe; it has been estimated that misophonic impairments may exist in about 20% of the general population(Wu et al., 2014; Zhou et al., 2017), with one in five sufferers indicating thoughts of suicide because of the sounds(Rouw &amp; Erfanian, 2017). 45 46 47 48 49 50 51 52 53 54 55 56 57 58
+- Despite its apparent prevalence, misophonia research is still in its nascency (see Brout et al., 2018 for a review), and misophonia is not currently listed as a mental health disorder in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM-5; American Psychiatric Association, 2013). Researchers who have explored symptom patterns and comorbidity of sufferers suggest misophonia be considered a discrete psychiatric disorder(Rouw &amp; Erfanian, 2017; Schröder et al., 2013). Schröder and colleagues(Schröder et al., 2013) went so far as to propose their own diagnostic criteria, including the stipulation that 'the presence or anticipation of a specific sound, produced by a human being (e.g., eating 59 60 61 62 63 64 65 66
+
+## 4 MISOPHONIA SOURCE CATEGORIES
+
+sounds, breathing sounds), provokes an impulsive aversive physical reaction which starts with irritation or disgust that instantaneously becomes anger'.  Although a valuable stepping stone, we argue that the scope of this definition should be reconsidered, in part because of its limited conception of sounds that qualify as triggering.  For example, case studies suggest that individuals with misophonia express annoyance for a variety of sounds, not all produced by a human (e.g., dogs barking, glasses clinking, nail picking, door slamming, specific songs, etc.) (Ferreira et al., 2013; Hadjipavlou et al., 2008; P. L. Johnson et al., 2013; Neal &amp; Cavanna, 2013; Webber et al., 2014).  Larger questionnaires and interviews show that frequently reported trigger sounds include eating sounds (e.g., chewing), breathing noises (e.g., sniffling), sounds made by the body (e.g., shuffling feet), and sounds made by objects (e.g., clock ticking)(Edelstein et al., 2013). Some psychiatric interviews have concluded that all trigger sounds are oral or nasal sounds produced by humans(Schröder et al., 2013) - a point supported by a meta-analysis of clinical case studies(Taylor, 2017) - but other larger clinical evaluations describe a plethora of nonhuman trigger sounds reported by patients (e.g., school bells, refrigerator humming(Jastreboff &amp; Jastreboff, 2014). Because vast individual differences seem to exist in the types of stimuli that individuals with misophonia find aversive, Dozier, Lopenz, and Pearson(Dozier et al., 2017) suggest updating the criteria proposed by Schröder and colleagues(Schröder et al., 2013). However, thus far there has been no experimental evidence supporting whether or not sounds need to be produced by a human being (or be oral or nasal) to be bothersome. 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86
+
+- Since these results are discordant, further research is necessary.  Moreover, these results are drawn from interviews; few studies have experimentally presented auditory stimuli to individuals with misophonia to investigate the types of stimuli that are aversive. Of those studies that have, 87 88 89
+
+## 5 MISOPHONIA SOURCE CATEGORIES
+
+we have learned that participants with misophonia find auditory stimuli more bothersome than visual stimuli(Edelstein et al., 2013), individuals with higher misophonic sensitivity have decreased cognitive performance in the presence of gum chewing(Seaborne &amp; Fiorella, 2018), and individuals with misophonia have higher activity in the anterior insular cortex(Kumar et al., 2017), anterior cingulate cortex and superior temporal cortex(Schröder et al., 2019) when listening to trigger sounds. These physiological and neuroimaging experiments are valuable steps forward in investigating the mechanisms of misophonia. However, these experiments were not designed to determine what particular sounds trigger misophonia and mainly used humanproduced oral/nasal sounds as their triggering stimuli. 90 91 92 93 94 95 96 97 98
+
+- Given the vagueness by which misophonia is defined and the reliance on interviews  to understand the nuances of a seemingly prevalent condition, an empirical exploration into the types of sounds that are triggering to individuals with misophonia is necessary. A consensus on what sounds constitute misophonia would help in future diagnosis, as well as lay a foundation for appropriate stimuli to use in experiments moving forward. Does the source of a sound matter in determining whether it will bother an individual with misophonia? That is, does the sound need to be produced by a human being or be oral/nasal in order to be triggering? The present study aims to address these questions. Experiment 1 presents self-described individuals with misophonia and healthy controls with 30 everyday sounds from three different source categories: 1) human-produced oral/nasal sounds (e.g., chewing gum), 2) human-produced non-oral/nasal sounds (e.g., clicking a pen), and 3) nonhuman/nature sounds (e.g., clock ticking). Self-report behavioral measures were obtained. Experiment 2 replicates and generalizes Experiment 1 to a novel and larger online sound bank, using 125 sounds in total. Additionally, Experiment 2 uses machine learning methods to generate independent predictions of i) misophonia level and ii) 99 100 101 102 103 104 105 106 107 108 109 110 111 112
+
+## 6 MISOPHONIA SOURCE CATEGORIES
+
+misophonia classification for each individual based only on their discomfort ratings to the sound bank. 113 114
+
+115
+
+## Experiment 1
+
+## Method 116
+
+Stimuli 117
+
+30 auditory clips were used as stimuli in this experiment. The clips were pulled from freesound.org and an online stimulus set(Norman-Haignere et al., 2015). Stimuli were chosen based off sounds commonly reported in the literature to be triggering to individuals with misophonia, as well as other everyday background sounds that retained the same soft, repetitive nature as commonly reported triggers. Sounds were vetted and sorted into the three source categories by a majority consensus of five independent raters. Human-produced oral/nasal sounds (hereafter 'Source 1') included crunching chips, breathing, coughing, chewing gum, slurping, sneezing, sniffling, snoring, swallowing, and throat clearing. Human-produced nonoral/nasal sounds (hereafter 'Source 2') included bouncing a basketball, chopping vegetables, hammering, walking in heels, clicking a mouse, clipping nails, clicking a pen, swinging on a swingset, typing, and writing. Nonhuman/nature sounds (hereafter 'Source 3') included a bird chirping, clock ticking, crow cawing, dog drinking water, frog croaking, printer, water dripping, wind howling, wind chimes, and windshield wipers. 118 119 120 121 122 123 124 125 126 127 128 129 130
+
+All sounds were 15s in duration, stereophonic, and matched for amplitude using RMS in Adobe Audition CC (v10.0.0.130, Adobe Systems Incorporated, 2017). Minimal edits were made (e.g., noise reduction, slowing, cropping, or looping) using Audition and Audacity® (v2.1.3, Audacity Team, 2017). 131 132 133 134
+
+## MISOPHONIA SOURCE CATEGORIES
+
+Surveys 136
+
+- Each participant's misophonia level was determined via three misophonia assessment surveys. All participants completed the Misophonia Activation Scale (MAS-1; Fitzmaurice, 2014), the Misophonia Assessment Questionnaire (MAQ-2;  Johnson &amp; Dozier, 2013), and the Amsterdam Misophonia Scale (A-MISO-S; Schröder et al., 2013). 137 138 139 140
+- Additionally, to probe any comorbid effects with other psychiatric conditions, all participants completed the Obsessive Compulsive Inventory-Revised (OCI-R; Foa et al., 2002) and Depression Anxiety Stress Scale-21 (DASS-21; Lovibond &amp; Lovibond, 1995). Participants 141 142 143 144
+- Misophonia. 48 individuals (28 females, 20 males, mean age = 33.2 years) with selfdiagnosed misophonia were included in this experiment. Participants with misophonia needed to self-report an average response greater than or equal to a 4 out of 10 on the MAS-1 to be eligible for the study. According to a composite score that equally weighted the three misophonic assessment surveys, in which higher scores denote worse misophonia, the group with misophonia had a mean misophonia level of 59.4 out of 100 (range = 28.5-83.4). All individuals with misophonia self-reported normal or corrected-to-normal vision and hearing (i.e., no hearing loss). Individuals were recruited via online misophonia support groups on Facebook and Reddit, and volunteered to participate. 145 146 147 148 149 150 151 152 153
+- Control. 39 individuals (23 females, 16 males, mean age = 19.6 years) from the general population were also included in this experiment. All individuals self-reported normal or corrected-to-normal vision and hearing (i.e., no hearing loss). All individuals were recruited from the Psychology undergraduate research pool at The Ohio State University and received course credit for their participation. 154 155 156 157 158
+
+## 8 MISOPHONIA SOURCE CATEGORIES
+
+- The entire group of 39 individuals had a mean composite misophonia level of 19.0 (range = 4.0-65.8). Given that individuals with misophonia likely exist in the general population, the opposite criterion as above was used to establish a control group: only individuals with an average self-reported response less than a 4 out of 10 on the MAS-1 were kept in the analyses (hereafter referred to as 'controls').  The control group consisted of 32 individuals (19 females, 13 males, mean age = 19.6 years) with a mean misophonia level of 15.4 (range = 4.0-52.8). It is worth noting that 17.9% (7/39) of participants were excluded, supporting previous findings that misophonia exists in about 20% of the general population(Wu et al., 2014; Zhou et al., 2017). 159 160 161 162 163 164 165 166
+- Participant scores on the individual misophonia assessments, including a distinction of which participants from the general population were included as controls, can be found in Supplement S1. 167 168 169
+- All experimental methods were approved by The Ohio State University Institutional 170 171
+- Review Board, and all participants gave informed consent to participate. Procedure 172
+- All participants received a link to the online experiment through Qualtrics, a secure administration software (Qualtrics, Provo, UT). Participants were required to take the experiment wearing headphones from a desktop or laptop. To verify this, participants were given a brief headphone check(Woods et al., 2017) after giving consent to participate, and told to adjust volume to a comfortable level; only participants who passed the headphone check and had a browser that enabled Adobe Flash Player could proceed. 173 174 175 176 177 178
+- For the actual experiment, participants were presented with each of the 30 auditory clips one at a time for 15s each. While listening to the sound, participants viewed the word 'Listen' and were required to listen to the entirety of the 15s sound before the screen automatically 179 180 181
+
+9
+
+## MISOPHONIA SOURCE CATEGORIES
+
+advanced to a response screen. Participants were asked to identify the previous sound by typing into a textbox (see Figure S1 and Supplement 2 for discussion of these results), and asked to rate the sound's aversiveness to questions including 'How pleasant was the sound?' and 'How much discomfort did you feel during the sound?', by clicking one response on a 5-point ordinal scale. The unpleasantness rating is scaled from 'extremely pleasant' (1) to 'extremely unpleasant' (5), with labeled steps in between; the unpleasantness rating aimed to capture typical sound aversiveness. The discomfort rating is scaled from 'none at all' (1) to 'an extreme amount' (5), with labeled steps in between; the discomfort rating aimed to capture the evoked misophonic reaction. Participants were required to spend a minimum of 5s on the response page before they could submit it, with no maximum time cutoff. After clicking to submit their responses, the next trial began with a new auditory clip. Presentation of the 30 sounds was randomized for each participant. 182 183 184 185 186 187 188 189 190 191 192 193
+
+Upon completion of all 30 sounds, participants viewed a webpage debriefing them on the experiment, explaining what misophonia is, and defining misophonic terms (e.g., 'triggers') present in the assessment scales since the items are geared toward a misophonic audience. At the end, they completed the surveys listed above and reported demographic information. The surveys were done last to avoid demand characteristics with sound ratings. The entire experiment took 30-60min to complete. 194 195 196 197 198 199
+
+Analyses 200
+
+We used mixed ANOVAs, Student's t-tests, and Pearson's correlations to assess the differences in source categories between individuals with misophonia and controls. For analyses in which multiple comparisons were conducted, we used the Holm-Bonferroni method(Holm, 1979) to control the familywise Type I error rate (corrected p -values are denoted by p HB ). 201 202 203 204
+
+## MISOPHONIA SOURCE CATEGORIES
+
+## Results 205
+
+## Source Categories 206
+
+First, we explored whether individuals with misophonia were more bothered by sounds from certain source categories than others, and how this compared to control individuals (without misophonia). Using a 2 (group: misophonia vs. control, between-subjects) x 3 (source category: 1 [human oral/nasal] vs. 2 [human non-oral/nasal] vs. 3 [nonhuman/nature], within-subjects) mixed ANOVA, a group x source category interaction was assessed separately for both the unpleasantness and discomfort ratings (Figure 1). For both ratings, there were signficant main effects of group (unpleasantness: ( F (1,78) = 21.280, p HB = 3.0 x 10 -5 , η p 2 = 0.214, discomfort: F (1,78) = 15.295, p HB = 3.9 x 10 -4 , η p 2 = 0.164) and source category (unpleasantness: F (2,77) = 269.279, p HB = 5.250 x 10 -35 , η p 2 = 0.875, discomfort: F (2,77) = 135.487, p HB = 1.809 x 10 -25 , η p 2 = 0.779). Likewise, the interactions were significant for both the unpleasantness rating ( F (2,77) = 3.998, p HB = 0.022, η p 2 = 0.094) and the discomfort rating ( F (2,77) = 5.327, p HB = 0.005, η p 2 = 0.122). Compared to controls, individuals with misophonia rated more unpleasantness and felt more discomfort when listening to human-produced oral/nasal sounds (unpleasantness:  (78) = t 3.665, p HB = 8.980 x 10 -4 , discomfort:  (78) = 3.940, t p HB = 4.447 x 10 -4 ) and human-produced nonoral/nasal sounds (unpleasantness:  (78) = 4.766, t p HB = 2.561 x 10 -5 , discomfort:  (78) = 3.303, t p HB = 0.002), with a smaller but still significant difference when listening to nonhuman/nature sounds (unpleasantness:  (78) = 2.219, t p HB = 0.029, discomfort:  (78) = 2.455, t p HB = 0.016). 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223
+
+Further, within each sample, there were differences in aversiveness ratings for sounds from different sources. Individuals with misophonia rated Source 1 sounds as significantly more unpleasant ( (47) = 9.671, t p HB = 1.9 x 10 -12 ) and evoking more discomfort ( (47) = 10.884, t p HB = 3.9 x 10 -14 than Source 2 sounds, which in turn were more unpleasant ( (47) = 9.122, t p HB = 5.7 x 224 225 226 227
+
+## 11 MISOPHONIA SOURCE CATEGORIES
+
+10 -12 ) and evoked more discomfort ( (47) = 4.127, t p HB = 1.5 x 10 -4 ) than Source 3 sounds. Accordingly, Source 1 sounds were rated by individuals with misophonia as significantly more unpleasant ( (47) = 17.173, t p HB = 2.1 x 10 -21 )  and evoking more discomfort ( (47) = 13.957, t p HB = 7.4 x 10 -18 )  than Source 3 sounds. Controls likewise rated Source 1 sounds as significantly more unpleasant ( (31) = 12.505, t p HB = 2.4 x 10 -13 ) and evoking more discomfort ( (31) = 9.988, t p HB = 6.6 x 10 -11 ) than Source 2 sounds, as well as being more unpleasant ( (31) = 17.650, t p HB = 2.3 x 10 -17 ) and evoking more discomfort ( (31) = 10.722, t p HB = 1.8 x 10 -11 ) than Source 3 sounds. However, Source 2 sounds were only rated as more unpleasant than Source 3 sounds ( (31) = t 5.777, p HB = 2.3 x 10 -6 ); the difference in evoked discomfort did not reach significance ( (31) = t 1.895, p HB = 0.068) between them. Thus, individuals with misophonia show clearly differentiated discomfort to different sound sources, whereas controls only find Source 1 sounds particularly bothersome. For a depiction of how each individual with misophonia rated sounds from all three sources on average, see Supplement 3 (Figure S2). 228 229 230 231 232 233 234 235 236 237 238 239 240
+
+Ratings based on Misophonia level 241
+
+There are vast individual differences in the specific triggers that bother individuals with misophonia, and the present experiment had samples with a wide range of misophonia levels. Additionally, given that misophonia may exist on a spectrum and be present to some extent in the general population, we wanted to look at how ratings to each of the three sources were influenced by misophonia level in our entire sample of participants - both individuals with misophonia (N=48) and from the general population (N=39) - not just the misophonia group vs. the control group. Figure 2 depicts the correlations between average discomfort rating for each source category and composite misophonia level. The correlations are significant for both Source 1 and Source 2 ratings, for both samples collapsed (Source 1: r = 0.576, p HB &lt; 1 x 10 -5 , Source 2: 242 243 244 245 246 247 248 249 250
+
+## MISOPHONIA SOURCE CATEGORIES
+
+r = 0.473, p HB &lt; 1 x 10 -5 ) and for each sample separately (Source 1 - Misophonia: r = 0.595, p HB &lt; 1 x 10 -5 , General population: r = 0.331, p HB = 0.040; Source 2 - Misophonia: r = 0.324, p HB = 0.025, General population: r = 0.373, p HB = 0.039). However, using Source 3, the correlation is only significant with samples collapsed ( r = 0.322, p HB = 0.007), not within the samples separately (Misophonia: r = 0.281, p HB = 0.105, General population: r = 0.066, p HB = 0.689). This suggests that the extent to which an individual has misophonia maps onto how bothersome they find sounds from all three source categories, with particularly robust effects for Source 1 and Source 2 sounds. 251 252 253 254 255 256 257 258
+
+## Discussion 259
+
+We asked whether sounds from different source categories would evoke different ratings of unpleasantness or discomfort between individuals with misophonia and controls. As evidenced by Figure 1, although controls experience some discomfort and acknowledge some sounds as unpleasant, individuals with misophonia are bothered to a more extreme extent. Further, this difference seems reliant on source category: individuals with misophonia did not differ from the general population in their reaction towards nonhuman/nature sounds nearly as much as they did for human-produced sounds. This is reflected in correlation with total misophonia level collapsed across samples, since discomfort for nonhuman/nature sounds did not correlate with misophonia level as much as discomfort for human-produced sounds did. 260 261 262 263 264 265 266 267 268
+
+Since between-group differences may be influenced by factors unrelated to the present study, exploring within-sample differences sheds even more light. Individuals with misophonia find human-produced oral/nasal sounds the most bothersome, as suggested by case studies. However, aversion is not exclusive to this source; human-produced non-oral/nasal sounds were also significantly more bothersome than nonhuman/nature sounds. Notably, this difference was 269 270 271 272 273
+
+## 13 MISOPHONIA SOURCE CATEGORIES
+
+absent in controls. This suggests that controls also acknowledge oral/nasal sounds as bothersome (but to a lesser extent than individuals with misophonia), but diverge from individuals with misophonia in their response to human non-oral/nasal sounds. Thus, consideration of these human non-oral/nasal sounds may be of specific interest in diagnosing and distinguishing individuals with misophonia from healthy individuals. 274 275 276 277 278
+
+279
+
+## Experiment 2
+
+Experiment 1 clearly suggested that individuals with misophonia feel different aversion to sounds, depending on the source. Is this finding reliable, and would it extend to different stimuli? And if so, can we identify an individual as having misophonia (and the severity of their misophonia) based only on discomfort ratings to these sounds? Experiment 2 had three main goals: 1) replicate the effects found in Experiment 1 on a larger set of stimuli, 2) classify if an individual has misophonia or not using discomfort ratings rather than self-report questionnaires, and 3) predict the level of misophonia severity using these discomfort ratings. Are the set of sounds that are the most informative for predicting misophonia (or its severity) only oral/nasal sounds, or do they include sounds that are human-produced non-oral/nasal or nonhuman/nature sounds as well? 280 281 282 283 284 285 286 287 288 289
+
+To address these questions, we perform a) an ANOVA on this larger set of sounds on an independent set of participants from Experiment 1, b) classifier models to predict misophonia vs. control participants based on their discomfort ratings to these sounds, and c) regression models to predict misophonia severity. For parts b and c, we additionally identified the most predictive sounds and their source categories. 290 291 292 293 294
+
+Method 295
+
+Stimuli 296
+
+## 14 MISOPHONIA SOURCE CATEGORIES
+
+In addition to the 30 auditory stimuli used in Experiment 1, 95 everyday sounds were 297
+
+drawn from the Google SSML Sound Library (https://developers.google.com/actions/tools/sound-library/). Sounds from this sound bank were intentionally unedited, and thus varied in stimulus duration ( M = 35s, SD = 65s, range = 5-499s), and low-level sound properties. Three independent raters sorted these 95 sounds into the three broader source categories used in Experiment 1; four of these sounds of ambience (coffee shop, crowd talking, kids playing in a gym, and carnival atmosphere) were not agreed to cleanly fit into one category and were thus left out of source category analyses. Surveys 298 299 300 301 302 303 304 305
+
+The same surveys were used as in Experiment 1, in addition to the IPIP Big-Five personality scale(Goldberg, 1999; Goldberg et al., 2006). Also, participants were directly asked if they believed they had misophonia, with the options 'Yes', 'No,' and 'Maybe/Somewhat'. Participants 306 307 308 309
+
+Misophonia. 45 individuals (32 females, 13 males, mean age = 34.2 years) with selfdiagnosed misophonia were included in this experiment. As in Experiment 1, participants with misophonia needed to self-report an average response greater than or equal to a 4 out of 10 on the MAS-1 to be eligible for the study. Of the 45, only one participant reported also participating in Experiment 1. According to a composite score that equally weighted the three misophonic assessment surveys, the group with misophonia had a mean misophonia level of 58.5 out of 100 (range = 31.1-83.9). All individuals with misophonia self-reported normal or corrected-to-normal vision and hearing (i.e., no hearing loss). Individuals were recruited via online misophonia support groups on Facebook, Reddit, and Yahoo!, and volunteered to participate. 310 311 312 313 314 315 316 317 318
+
+## 15 MISOPHONIA SOURCE CATEGORIES
+
+Control. 62 individuals (24 females, 37 males, 1 non-binary, mean age = 19.9 years) from the general population also completed the experiment. One individual was excluded for not faithfully responding to the surveys, leaving a sample of 61 (24 females, 36 males, 1 non-binary, mean age = 19.9 years). All individuals self-reported normal or corrected-to-normal vision and hearing (i.e., no hearing loss). All individuals were recruited from the Psychology undergraduate research pool at The Ohio State University and received course credit for their participation; none of the 61 individuals participated in Experiment 1. 319 320 321 322 323 324 325
+
+The entire group of 61 individuals had a mean composite misophonia level of 13.9 (range = 0-81.3). Given that individuals with misophonia likely exist in the general population, participants were again excluded from the control analyses if they had an average self-reported response greater than or equal to a 4 out of 10 on the MAS-1 or if they answered 'yes' to believing they had misophonia; the participants that remained are hereafter referred to as 'controls'.    The control group consisted of 50 individuals (19 females, 30 males, 1 non-binary, mean age = 19.9 years) with a mean misophonia level of 9.5 (range = 0-26.8). Similar to Experiment 1, it is worth noting that 18.0% (11/61) of participants were excluded for experiencing misophonia, supporting previous findings that misophonia exists in about 20% of the general population(Wu et al., 2014; Zhou et al., 2017). 326 327 328 329 330 331 332 333 334 335
+
+Participant scores on the individual misophonia assessments, including a distinction of which participants from the general population were included as controls, can be found in Supplement S1. 336 337 338
+
+All experimental methods were approved by The Ohio State University Institutional Review Board, and all participants gave informed consent to participate. Procedure 339 340 341
+
+## 16 MISOPHONIA SOURCE CATEGORIES
+
+The procedure for Experiment 2 was identical to that of Experiment 1, except for sound presentation and ratings questions. First, since Google provided short labels describing each sound, these labels were presented to participants on screen instead of the word 'Listen'. This change was made to eliminate the confound of participants not identifying the sounds appropriately, given that incorrect identification in Experiment 1 inadvertently shaped aversiveness ratings and caused differing effects depending on the sound source category (see Supplement 3 and Figure S2). The labels appeared concurrently with the sound and thus preserved some measure of ecological validity, since individuals with misophonia normally have some sort of environmental context to enable them to discern the identity of a triggering stimulus. Additionally, stimuli from the Google sound bank were presented using the provided links from https://developers.google.com/actions/tools/sound-library/, which allowed for stop/start controls instead of the webpage automatically playing and advancing when the sound was finished. Also, given that these stimuli varied in duration, participants were not forced to listen to the entirety of each stimulus. Instead, participants were instructed 'You do not need to listen to the full sound, but please listen to enough of it that you can accurately answer both questions.' To ensure participants actually played each sound, a catch sound (which did not match the labeled description) was randomly inserted three times throughout the experiment. Participants were familiarized with this sound before the experiment began, and told whenever they heard it to leave their ratings blank. Participants were not aware how many catch sounds there were or what the corresponding labels would be. Only participants who correctly followed these directions, indicating they played through each sound, were included in the analyses (N = 45 misophonia, 61 control). 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363
+
+17
+
+## MISOPHONIA SOURCE CATEGORIES
+
+Second, since sound labels were presented, participants were no longer asked to identify the sound. They only gave aversiveness ratings, which included 'How much discomfort did you feel during the sound?' (like Experiment 1) and 'How tolerable is this sound to you?', which was scaled from 'extremely intolerable' (1) to 'extremely tolerable' (5), with labeled steps in between. The discomfort rating from Experiment 1 better captured the aversiveness associated with misophonia and distinguished individuals with misophonia from controls than the unpleasantness rating did, and we sought to see if sound tolerance would provide any other useful distinction. However, the tolerance rating also did not meaningfully distinguish individuals with misophonia from controls, suggesting the tolerance rating likewise captured general sound aversiveness like the unpleasantness rating did. Additionally, the discomfort rating was pre-registered as our main measure of interest (see below); as such, only the discomfort rating will be further reported here (see Figure S5 for tolerance rating results). 364 365 366 367 368 369 370 371 372 373 374 375
+
+## Pre-registration and Analyses 376
+
+Methods and analyses for Experiment 2 were pre-registered after data collection and prior to data analysis on the Open Science Framework website (https://osf.io/rzgbs/). Any post hoc analyses presented here are clearly labeled as post hoc. A pre-registered analysis using frequency ranges to explain principal components of sound discomfort ratings will not be discussed here because results were not easily interpretable and ultimately unrelated to the scope of the present paper; nevertheless, all pre-registered results can be found at https://osf.io/rzgbs/. Predicting misophonia level with source category discomfort ratings (Experiment 2 parts b and c below) was a post hoc version of the pre-registered regression analyses, but was ultimately a better fit to investigate the questions of the present paper than the pre-registered analysis of regressing out sound frequencies. 377 378 379 380 381 382 383 384 385 386
+
+## 18 MISOPHONIA SOURCE CATEGORIES
+
+- Experiment 2 part a. As in Experiment 1, we used mixed ANOVAs, Student's t-tests, and Pearson's correlations to assess the differences in source categories between individuals with misophonia and controls, and implemented the Holm-Bonferroni method to control the familywise Type I error rate (corrected p -values are denoted by p HB ). Additionally, we used linear classification and general linear regression to make predictions about group membership and misophonic severity given discomfort ratings. 387 388 389 390 391 392
+- Experiment 2 part b: Linear Classification. For this analysis, we sought to discriminate between individuals with and without misophonia; thus, we grouped our participants into those with misophonia (N=45) vs. controls (N=50).  We randomly partitioned the subjects into a training set (N=48) and a test set (N=47), with the constraint that individuals from the misophonia and control samples were evenly distributed between the two sets. We built four models, using 1) all 125 sounds, 2) only sounds from Source 1 (n=28), 3) only sounds from Source 2 (n=64), and 4) only sounds from Source 3 (n=29). Discomfort ratings for each sound were standardized first using z-scores for each model, as is standard in machine-learning. Each model used a support vector machine learning algorithm and lasso regularization, and was constructed by implementing k-fold cross validation with 5 folds in the training set. The model that had the smallest mean squared error was chosen as the final model and was subsequently applied to the independent test set of participants. This process was repeated four times using the different sound sources, and each of these four final models was used to classify group membership in the left-out sample. Model accuracy was determined by averaging how many individuals in the test set were correctly labeled. Sensitivity was determined by dividing true positives (i.e., misophonia correctly identified) by total positives (i.e., true positives + false negatives [misophonia identified as control]). Specificity was determined by dividing true 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409
+
+19
+
+## MISOPHONIA SOURCE CATEGORIES
+
+negatives (i.e., control correctly identified) by total negatives (i.e., true negatives + false positives [control identified as misophonia]). 410 411
+
+Experiment 2 part c: General Linear Regression. For the regression analyses, we sought to predict total misophonia level, and thus combined data from both individuals with misophonia and the general population (total N=106) to obtain the widest variability in misophonia scores. We first used stepwise regression, with each individual's total misophonia level as the response variable and each individual's discomfort rating of the 125 sounds as predictor variables. Both the predictor and the response variables were standardized using zscores. We used a criterion of including only predictors that minimized the sum of squared error in each model. To cross-validate the models, each linear regression model was constructed using N-1 participants. The model was then used to predict the total misophonia level of the left-out participant, given that participant's discomfort ratings. Thus, we used cross-validation procedures to expand generalizability of these predictions and deduce the most common sound predictors retained across models. A final model was then built to identify the most predictive sounds using all 106 participants, after taking into account individual differences in demographic measures (i.e., gender and age) and clinical scores (i.e., from OCI-R and DASS-21). 412 413 414 415 416 417 418 419 420 421 422 423 424 425
+
+## Results 426
+
+Experiment 2 part a: Using a 2 (group: misophonia vs. control, between-subjects) x 3 (source category: 1 [human oral/nasal] vs. 2 [human non-oral/nasal] vs. 3 [nonhuman/nature], within-subjects) mixed ANOVA, a group x source category interaction was assessed for the discomfort rating of interest. Analysis comprising just the 30 sounds previously used in Experiment 1 replicated the results of Experiment 1, as did extension of the analysis to include 427 428 429 430 431
+
+20
+
+## MISOPHONIA SOURCE CATEGORIES
+
+all sounds categorized from the sound bank. Statistics and figures from these analyses can be found in Supplements 4-5. 432 433
+
+On average, individuals with misophonia rate sounds from Source 1 or Source 2 as evoking more discomfort than do controls. Can knowing how an individual rates a particular sound (or group of sounds) be used to predict misophonia or how severe an individual's misophonia is? 434 435 436 437
+
+Experiment 2 part b: Linear classification. We sought to explore whether we could classify an individual as being from the misophonia or control group, based off their discomfort ratings for particular sounds. We constructed four classification models on a training set of participants and applied the final models to each individual of the test set to get a predicted classification. Classification accuracy was 0.89 using all sounds (sensitivity: 0.77, specificity: 1.0),  0.81 using Source 1 sounds only (sensitivity: 0.73, specificity: 0.88), 0.77 using Source 2 sounds only (sensitivity: 0.68, specificity: 0.84), and 0.81 using Source 3 sounds only (sensitivity: 0.82, specificity: 0.80). To further probe the significance of these results, we used permutation testing, randomly shuffling group membership labels 1000 times and calculating classification accuracy each time. The null distributions for each model can be found in Supplement 6A (Figure S9). Compared to the null distributions, each model could significantly classify individuals with misophonia from controls (all sounds: p &lt; 0.001, Source 1 sounds: p &lt; 0.001, Source 2 sounds: p &lt; 0.001, Source 3 sounds: &lt; 0.001). The top five most informative sounds in discriminating individuals with misophonia versus controls are depicted in Table 1. For an illustration of the top fifty sounds and a ranking of how each group rated the individual sounds on average, see Figure S10 and Figure S8A, respectively. 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453
+
+## 21 MISOPHONIA SOURCE CATEGORIES
+
+- Experiment 2 part c: Generalized Linear Regression. In addition to binary classification, we asked if we could predict an individual's severity of misophonia (i.e., their mean misophonia level from the three assessment surveys). First, we used a linear regression model with stepwise regression and discomfort ratings to all 125 sounds individually as predictor variables in a leave-one-out cross-validation process. Results of the predictions are shown in Figure 3. Misophonia level was significantly predicted using a subset of individual sounds ( r = 0.401 , p = 2.01 x 10 -5 ). Although each cross-validation model was slightly different (because it included data from a slightly different group of participants), certain sounds were consistently included in over 80% of the models (Table 2). 454 455 456 457 458 459 460 461 462
+- To better understand the contribution of each predictor, we generated a final model using all subjects. Additionally, to account for demographic and clinical differences between the subjects, we included 6 nuisance regressors: age, gender, OCD level (from OCI-R), and levels of depression, anxiety, and stress (from DASS-21). A stepwise regression model built on the 125 sounds significantly predicted the residual misophonia level after regressing out the nuisance variables (model fit: R  = 0.872, 2 F (22,74) = 22.9, p = 1.2 x 10 -24 ). Again using a criterion to minimize the sum of squared error, 16 sounds were retained in the model (Table 3). It is important to note that we explored the collinearity of these sounds in two ways (see Supplement 5B, Figures S7 and S8B) and found that discomfort ratings to sounds within a source category were more correlated with each other than with sounds across source categories, particularly for sounds in Source 1 and Source 2. Interestingly, however, our results show that the stepwise regression models consistently chose sounds across all three source categories rather than simply human oral/nasal sounds, indicating that significant variance was explained by incorporating human non-oral/nasal and nonhuman/nature sounds too. Thus, we offer 16 sounds that could be 463 464 465 466 467 468 469 470 471 472 473 474 475 476
+
+## MISOPHONIA SOURCE CATEGORIES
+
+used to predict misophonia but acknowledge that another subset of sounds could be used as long as they span all three source categories. 477 478
+
+- For additional linear regression models built using average discomfort rating to sounds of each source as a single predictor or in separate models with more stringent criteria, which showed similar results as the analyses above, see Supplement 6B (Figure S11) and Supplement 6C (Figures S12-S13). 479 480 481 482
+
+## Discussion 483
+
+Experiment 2 sought to replicate the effects found in Experiment 1 and extend the findings to a larger sound bank, distinguish between individuals with misophonia vs. controls using discomfort ratings, and predict misophonia severity using machine learning. In a separate group of individuals with misophonia and controls, the same 30 sounds used in Experiment 1 led to the same group differences between each of the three sources categories as well as the same correlations between discomfort and misophonia level, and a larger sound bank additionally supported these observed effects (see Supplement 4). 484 485 486 487 488 489 490
+
+- Further, machine learning approaches using multiple different methods showed that all sound sources could be used to significantly predict an individual's misophonia; incorporating information from all three sources produced the best-fitting prediction models as determined by independent test sets. In addition, stepwise regressions consistently chose sounds from all three sources as the most informative predictors of misophonia. Although certain human oral/nasal or human non-oral/nasal sounds may have been left out of the final models due to collinearity, these analyses give confidence that the most predictive subset of sounds broadly contains sounds from all sources. Thus, narrowing our interpretation of misophonia to discomfort for just oral/nasal sounds is insufficient, as the condition seems to extend farther than just oral/nasal sounds. 491 492 493 494 495 496 497 498 499
+
+## MISOPHONIA SOURCE CATEGORIES
+
+Perhaps this large database of sounds can be tailored to individuals in future experiments who experience diverse misophonic triggers (as suggested by Schröder et al., 2019), as long as the inclusion of sounds spanning all three source categories is prioritized. 500 501 502
+
+Importantly, discomfort ratings to each of the sound sources explains unique variance in an individual's overall misophonia level, distinct from the variance that demographic or clinical measures can account for alone. In other words, if an individual's experience of misophonia was primarily driven by their level of OCD or their age, for instance, then using the sound discomfort ratings as predictors after demographic and clinical measures were regressed out would not have yielded significant results. This finding may have a few theoretical implications about the experience of misophonia: 1) it is likely clinically distinct from that of OCD, depression, anxiety, or stress; and 2) it cannot be fully explained by age or gender. 503 504 505 506 507 508 509 510
+
+Additionally, given that misophonia is a sound-based disorder and research is still somewhat nascent, investigating different sound categories seems highly relevant. As detailed in Supplement 5A, we assigned each of the 125 sounds to one sub-category that it best fit (i.e., ambiences, animals, babies, footsteps, household, kitchen, metal, nature, office, oral/nasal, outdoors, paper/plastic, rubbing/wiping, water) and explored average discomfort ratings across participants to each sub-category (Figure S6). After splitting the sounds into finer-grained category labels, the discomfort ratings we obtained in this experiment objectively corroborate, for the first time to our knowledge, self-reported sound triggers from anecdotal case studies and questionnaires. For instance, individuals with misophonia often report being bothered by penclicking or glasses clinking (e.g., Edelstein et al., 2013; Taylor, 2017), and this analysis showed significantly more discomfort for sounds classically heard in an office or kitchen, such as these. It is important to note that individuals with misophonia do not have generalized higher 511 512 513 514 515 516 517 518 519 520 521 522
+
+24
+
+## MISOPHONIA SOURCE CATEGORIES
+
+discomfort for all sounds; if so, all categories would have showed significant differences between individuals with misophonia and controls. However, when correcting for multiple comparisons, individuals with misophonia were no different from controls in their responses to animals or babies, which upholds self-reported responses from previous literature that sounds from animals and babies are not as bothersome as the same sounds from adult humans(Edelstein et al., 2013). Likewise, nature sounds didn't bother individuals with misophonia, suggesting there might be something more specific about the repetitiveness of the sound, or the need to attribute the sound to a culpable human, that produces the negative reaction. 523 524 525 526 527 528 529 530
+
+## General Discussion 531
+
+The present experiments investigated whether constraining misophonia to aversion for human-produced oral/nasal sounds is an empirically justified stipulation. More specifically, we used two independent samples of individuals with misophonia and controls - as well as two unique stimulus sets - to show that the discomfort that individuals with misophonia felt differed from that of controls for both human-produced non-oral/nasal sounds and even nonhuman/nature sounds. Additionally, to the best of our knowledge, these experiments are the first to objectively show differences in discomfort to sounds from finer grained categories, including sounds from the office, kitchen, or general household as well as paper/plastic, water, and metal sounds. These findings not only corroborate case studies anecdotally describing nonhuman and/or non-oral/nasal sounds as bothersome, but, given that not all categories showed differences between individuals with misophonia and controls, also emphasize that misophonia is characterized by specific source category or sound aversions - not general sound annoyance. Whereas prior case studies have explored the relationship between misophonia and eating disorders as a way to put oral/nasal triggers into context(Kluckow et al., 2014), our results 532 533 534 535 536 537 538 539 540 541 542 543 544 545
+
+## MISOPHONIA SOURCE CATEGORIES
+
+suggest additional information may be gleaned about an individual's misophonia onset or triggers by probing their experiences in other contexts, such as office or home life. 546 547
+
+Further, perhaps more convincingly, Experiment 2 introduces machine learning methods to parse what the most influential predictors of misophonia classification and/or severity are. Source 1 (human-produced oral/nasal) and Source 2 (human-produced non-oral/nasal) sounds consistently provided significant predictions of misophonia, and Source 3 (nonhuman/nature) sounds also significantly contributed to predictions using separate training and test sets. Classification accuracy was significant and comparably high when incorporating discomfort for all sounds, as well as each sound source separately. Finally, a model constructed on all subjects and sounds shed light on the 16 most influential sound predictors in this data set - majority of which are not Source 1 sounds. Taken together, these analyses make it clear that sounds from all source types can be used to identify misophonia, and constraining the condition to primarily human-produced oral/nasal sounds misses out on important distinctions between individuals with misophonia and healthy individuals for other types of sounds. 548 549 550 551 552 553 554 555 556 557 558 559
+
+However, thus far, most experimental investigations into misophonia have done just that - designed paradigms that seemingly constrain misophonia to human-produced oral/nasal sounds. For instance, although Seaborne and Fiorella(Seaborne &amp; Fiorella, 2018) objectively demonstrated daily impairments that individuals with misophonia face, which is beneficial, the experiment only presented one possible misophonic trigger - gum chewing - ignoring the effects that other background sounds in the study environment (e.g., writing, pen clicking, papers rustling, etc.) might have had. Further, Kumar and colleagues(Kumar et al., 2017) published groundbreaking findings using a combination of neuroimaging, physiological measurements, and behavioral ratings to probe aversion to misophonia triggering sounds, generally unpleasant 560 561 562 563 564 565 566 567 568
+
+26
+
+## MISOPHONIA SOURCE CATEGORIES
+
+sounds, and neutral sounds. However, this study specifically recruited only individuals with aversion to eating, breathing, and chewing sounds, which inherently limits the generalizability to individuals who have primarily other triggers. Similarly, a neuroimaging study from Schröder and colleagues(Schröder et al., 2019) presented misophonic video clips, generally aversive clips (i.e., segments of violent or loathsome scenes from commercial films), and neutral clips (i.e., a male actor performing soundless activities) to their participants while in the scanner. Although using video stimuli is more ecologically valid, their misophonic sounds were likewise mainly oral/nasal and compared against a neutral baseline that lacked an auditory component, confounding comparisons and making conclusions about brain regions associated with misophonia (i.e., auditory cortex) uncertain.   Lastly, although Edelstein and colleagues(Edelstein et al., 2013) avoided the human-produced oral/nasal constraint in their exploratory investigation of misophonia, the chosen auditory stimuli intentionally covered a wide range of content (i.e., more than just commonly reported trigger sounds, e.g., birds singing, children laughing, whale song), and conclusions are drawn combining all sounds together. 569 570 571 572 573 574 575 576 577 578 579 580 581 582
+
+As a whole, previous work has suggested that the primary deficit in misophonia is an aversion to human-produced oral/nasal sounds. Here, we propose that a) individuals with misophonia can include those with aversions to other types of sounds and these individuals should be included in future misophonia studies, and b) future experiments include a wider range of auditory stimuli that include other types of sounds (i.e., not only oral/nasal sounds). Constraining misophonia to certain sounds limits generalizability of experiments, and minimizes experiences of individuals who do not identify with these triggers. This can have negative consequences, such as failing to diagnose individuals who do not fit one's narrow guidelines of 583 584 585 586 587 588 589 590
+
+## MISOPHONIA SOURCE CATEGORIES
+
+what misophonia is; should misophonia be added to the DSM, its diagnostic criteria should not require human-produced oral/nasal sounds be the only and/or most prominent trigger. 591 592
+
+Nevertheless, this work has a few limitations. First, our two samples of participants are not age-matched. Recruitment was approached differently for individuals with misophonia versus controls, and thus produced samples that varied in age. Although it is unlikely that the results from these experiments are solely due to the sample with misophonia merely being older, age cannot be ruled out as a contributing factor. Additionally, data presented in this paper are drawn from self-report behavioral ratings, which are inherently prone to response bias. One might worry that individuals with misophonia may rate all sounds (or oral/nasal sounds) as higher out of obligation; however, a handful of individuals commented in follow-up questions that they considered themselves to have severe misophonia but were not bothered by the particular stimuli of the experiment, and thus rated them low on aversiveness accordingly. Individuals with misophonia also self-reported their misophonic severity; given that they were recruited and tested online, they could not be clinically assessed. Still, three misophonic assessments were used, each with different questions and probing misophonic experiences in different ways, so we believe that the aggregated misophonia severity levels are as authentic as can be obtained via self-report. Granted, determining how to objectively quantify what counts as misophonia, via self-reported assessments or clinical diagnoses, is crucial. How should we determine who has misophonia, and what types of sounds qualify as misophonic trigger sounds? With a narrow definition of what sounds are triggering, fewer individuals will be classified as having misophonia, and vice versa. However, we believe a broader view of the types of sounds that could be triggering is necessary for research moving forward. 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612
+
+## 28 MISOPHONIA SOURCE CATEGORIES
+
+Overall, results from the data presented here help emphasize more generally the vast differences that exist in experienced discomfort to all types of sound stimuli in individuals with misophonia, compared to controls. This helps validate the disorder quantitatively, offers supporting evidence for the inclusion of misophonia as a legitimate disorder, and emphasizes the need to expand our definition of misophonic trigger sounds. 613 614 615 616 617
+
+## Competing interests 618
+
+The authors declare no competing interests. 619
+
+## Financial support 620
+
+The authors received no funding from an external source. 621
+
+## Open Practices Statement 622
+
+Data are available upon request. Methods and analyses for Experiment 2 were pre-registered, and all pre-registered analyses not included in the present manuscript can be found at https://osf.io/rzgbs/. 623 624 625
+
+## 29 MISOPHONIA SOURCE CATEGORIES
+
+## 626
+
+## References
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). https://doi.org/10.1176/appi.books.9780890425596 627 628
+
+629
+
+Brout, J. J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L. J., Rouw, R., Kumar, S., &amp;
+
+630
+
+Rosenthal, M. Z. (2018). Investigating misophonia: A review of the empirical literature, clinical implications, and a research agenda. Frontiers in Neuroscience , 12 . 631
+
+632
+
+https://doi.org/10.3389/fnins.2018.00036
+
+633
+
+634
+
+635
+
+636
+
+637
+
+Dozier, T. H., Lopez, M., &amp; Pearson, C. (2017). Proposed Diagnostic Criteria for Misophonia: A
+
+Multisensory Conditioned Aversive Reflex Disorder.
+
+Frontiers in Psychology
+
+,
+
+8
+
+, 1-3.
+
+https://doi.org/10.3389/fpsyg.2017.01975
+
+Edelstein, M., Brang, D., Rouw, R., &amp; Ramachandran, V. S. (2013). Misophonia: physiological investigations and case descriptions.
+
+Frontiers in Human Neuroscience
+
+,
+
+7
+
+(June), 296.
+
+638
+
+https://doi.org/10.3389/fnhum.2013.00296
+
+Ferreira, G. M., Harrison, B. J., &amp; Fontenelle, L. F. (2013). Hatred of sounds: Misophonic 639
+
+640
+
+disorder or just an underreported psychiatric symptom?
+
+Annals of Clinical Psychiatry
+
+,
+
+641
+
+25
+
+(4), 271-274.
+
+642
+
+Fitzmaurice, G. (2014).
+
+Misophonia Activation Scale
+
+.
+
+Foa, E. B., Huppert, J. D., Leiberg, S., Langner, R., Kichic, R., Hajcak, G., &amp; Salkovskis, P. M. 643
+
+(2002). The obsessive-compulsive inventory: Development and validation of a short 644
+
+645
+
+version.
+
+Psychological Assessment
+
+,
+
+14
+
+(4), 485-496. https://doi.org/10.1037/1040-
+
+646
+
+3590.14.4.485
+
+Goldberg. (1999). A broad-bandwidth, public domain, personality inventory. In Personality Psychology in Europe (Vol. 7, pp. 7-28). 647 648
+
+649
+
+Goldberg, L. R., Johnson, J. A., Eber, H. W., Hogan, R., Ashton, M. C., Cloninger, C. R., &amp;
+
+- Gough, H. G. (2006). The international personality item pool and the future of public650
+- domain personality measures. Journal of Research in Personality , 40 (1), 84-96. 651
+
+652
+
+https://doi.org/10.1016/j.jrp.2005.08.007
+
+Hadjipavlou, G., Baer, S., Lau, A., &amp; Howard, A. (2008). Selective sound intolerance and 653
+
+654
+
+emotional distress: what every clinician should hear.
+
+Psychosomatic Medicine
+
+,
+
+70
+
+, 739-740.
+
+655
+
+656
+
+657
+
+658
+
+https://doi.org/10.1097/PSY.0b013e318180edc2
+
+Halpern, D. L., Blake, R., &amp; Hillenbrand, J. (1986). Psychoacoustics of a chilling sound.
+
+Perception &amp; Psychophysics
+
+,
+
+39
+
+(2), 77-80. https://doi.org/10.3758/BF03211488
+
+Holm, S. (1979). A Simple Sequentially Rejective Multiple Test Procedure.
+
+Scandinavian
+
+659
+
+Journal of Statistics
+
+,
+
+6
+
+(2), 65-70.
+
+Jastreboff, M. M., &amp; Jastreboff, P. J. (2002). Decreased sound tolerance and tinnitus retraining 660
+
+661
+
+therapy (TRT).
+
+Australian and New Zealand Journal of Audiology
+
+,
+
+24
+
+(2), 74-84.
+
+https://doi.org/10.1375/audi.24.2.74.31105 662
+
+Jastreboff, P. J., &amp; Jastreboff, M. M. (2014). Treatments for decreased sound tolerance 663
+
+(hyperacusis and misophonia). Seminars in Hearing , 35 (2), 105-120. 664
+
+https://doi.org/10.1055/s-0034-1372527 665
+
+666
+
+Johnson, M., &amp; Dozier, T. (2013).
+
+Misophonia Assessment Questionnaire (MAQ)
+
+.
+
+667
+
+Johnson, P. L., Webber, T. A., Wu, M. S., Lewin, A. B., &amp; Murphy, T. K. (2013). When selective audiovisual stimuli become unbearable: a case series on pediatric misophonia. 668
+
+Neuropsychiatry , 3 (6), 569-575. 669
+
+670
+
+Kluckow, H., Telfer, J., &amp; Abraham, S. (2014). Should we screen for misophonia in patients with
+
+eating disorders? A report of three cases. International Journal of Eating Disorders , 47 (5), 558-561. https://doi.org/10.1002/eat.22245 671 672
+
+Kumar, S., Tansley-Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., Cope, 673
+
+- T. E., Gander, P. E., Bamiou, D. E., &amp; Griffiths, T. D. (2017). The Brain Basis for 674
+
+Misophonia. Current Biology , 27 (4), 527-533. https://doi.org/10.1016/j.cub.2016.12.048 Lovibond, P. F., &amp; Lovibond, S. H. (1995). The structure of negative emotional states: 675 676
+
+- Comparison of the Depression Anxiety Stress Scales (DASS) with the Beck depression and anxiety inventories. Behavioral Research and Therapy , 33 (3), 335-343. 677 678
+
+679
+
+https://doi.org/10.1007/BF02511245
+
+Neal, M., &amp; Cavanna, A. E. (2013). Selective sound sensitivity syndrome (misophonia) in a 680
+
+- patient with Tourette syndrome. The Journal of Neuropsychiatry and Clinical 681
+- Neurosciences , 25 (1), E01. https://doi.org/10.1176/appi.neuropsych.11100235 Norman-Haignere, S., Kanwisher, N. G., &amp; McDermott, J. H. (2015). Distinct Cortical 682 683
+- Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition . 88 (6), 684
+
+1281-1296. https://doi.org/10.1016/j.neuron.2015.11.035.Distinct Rouw, R., &amp; Erfanian, M. (2017). A Large-Scale Study of Misophonia. Journal of Clinical 685
+
+Schröder, A., van Wingen, G., Eijsker, N., San, R., Vulink, N. C., Turbyne, C., &amp; Denys, D. 687 688
+
+Psychology , 0 (0), 1-27. https://doi.org/10.1002/jclp.22500 686
+
+- (2019). Misophonia is associated with altered brain activity in the auditory cortex and 689
+
+690
+
+salience network.
+
+Scientific Reports
+
+,
+
+9
+
+(7542), 1-9. https://doi.org/10.1038/s41598-019-
+
+691
+
+44084-8
+
+Schröder, A., Vulink, N., &amp; Denys, D. (2013). Misophonia - Diagnostic Criteria for a New Psychiatric Disorder. PLoS ONE 8 , (1). https://doi.org/10.1371/ journal.pone.0054706 Seaborne, A., &amp; Fiorella, L. (2018). Effects of background chewing sounds on learning: The role of misophonia sensitivity. Applied Cognitive Psychology , 32 (2), 264-269. 692 693 694 695
+
+696
+
+https://doi.org/10.1002/acp.3387
+
+Taylor, S. (2017). Misophonia: A new mental disorder? Medical Hypotheses , 103 , 109-117. https://doi.org/10.1016/j.mehy.2017.05.003 697 698
+
+Webber, T. A., Johnson, P. L., &amp; Storch, E. A. (2014). Pediatric misophonia with comorbid obsessive-compulsive spectrum disorders. General Hospital Psychiatry , 36 (2), 231.e1231.e2. https://doi.org/10.1016/j.genhosppsych.2013.10.018 699 700 701
+
+Woods, K. J. P., Siegel, M. H., Traer, J., &amp; McDermott, J. H. (2017). Headphone screening to facilitate web-based auditory experiments. Attention, Perception, &amp; Psychophysics . 702 703
+
+704
+
+https://doi.org/10.3758/s13414-017-1361-2
+
+Wu, M. S., Lewin, A. B., Murphy, T. K., &amp; Storch, E. A. (2014). Misophonia: Incidence, phenomenology, and clinical correlates in an undergraduate student sample. Journal of Clinical Psychology , 70 (10), 994-1007. https://doi.org/10.1002/jclp.22098 705 706 707
+
+Zhou, X., Wu, M. S., &amp; Storch, E. A. (2017). Misophonia symptoms among Chinese university students: Incidence, associated impairment, and clinical correlates. Journal of ObsessiveCompulsive and Related Disorders , 14 , 7-12. https://doi.org/10.1016/j.jocrd.2017.05.001 708 709 710 711
+
+712
+
+## 31 MISOPHONIA SOURCE CATEGORIES
+
+List of Figures: 713
+
+Figure 1. Mean Aversiveness Ratings by Source Category . Blue = Source 1, yellow = Source 2, green = Source 3. Dark bars = individuals with misophonia, light bars = controls. Error bars depict standard error of the mean. Significance only shown for between group differences. *=&lt;0.05, **=&lt;0.01,  ***=&lt;0.001 714 715 716 717
+
+Figure 2. Average discomfort rating for each source category compared to total misophonia level. Scatterplots show individual participants from the misophonia sample (red, N=48) and general population (gray, N=39). Red solid line shows lines of best fit among individuals with misophonia only, gray solid line shows line of best fit among general population only, and black dashed line shows line of best fit collapsed across all subjects (N=87). 718 719 720 721 722
+
+Figure 3. Actual Misophonia Level vs. Predicted Misophonia Level. Scatterplots show individual participants from the misophonia sample (red, N=45) and general population (gray, N=61). Black solid line shows line of best fit collapsed across all subjects (N=106). Black dashed lines represent a 95% confidence interval. Regressors included ratings for all 125 sounds individually, keeping only the predictors that were significant. Predictions made using a cross-validated approach. Significant predictors differed for each model. 723 724 725 726 727 728

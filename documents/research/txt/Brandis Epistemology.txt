@@ -1,0 +1,1031 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Semiotica
+ArticleTitle: Epistemology andsemiotics ofmedicalsystems:Acomparative analysis
+ArticleAuthor: BRANDS
+Vol:132No:1-2Date:2000-01-01Pages:1-24
+ISSN-00371998;
+Publisher: 2000-01-01
+Source:LibKeyNomad
+Copyright: CCL
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Epistemology and semiotics of medical
+systems: A comparative analysis
+MARTIEN BRANDS, DOROTHEA FRANCK, and
+EVERT VAN LEEUWEN
+Features emerging 'upon analysis' is a
+particular instance of reflexivity. These
+features exist only within the reflexive work
+of those researchers who make them exist.
+This does not deny their reality.
+(Mehan and Wood 1975: 18)
+Introduction
+Different forms of medical practice co-exist in the health care system
+in many Western countries. Next to 'allopathy' or Orthodox' Western
+medicine many forms of 'alternative' or 'complementary' practices are
+present. The considerable growth of the use of alternative practices
+within the total spectrum of health care has been documented amongst
+others by Eisenberg et al. (1993). At the same time, the essence of forms
+of complementary medicine is not familiar to general practitioners and
+specialists when they finish their medical training (Berman et al. 1997;
+Carlston et al. 1997), while patients do receive simultaneously or succes-
+sively various treatments. This pluriform use in clinical practice could
+be beneficial to the patients, if a structured communication between the
+practices would exist (Astin 1998). A structured communication between
+the different directions in medicine would involve amongst others:
+— systematic referral of patients between doctors using different therapies,
+— comparative research for certain diseases in terms of clinical effect
+and cost-effectiveness,
+— scientific exchange at a conceptual level for the development of, for
+example, new therapies for diseases, which have not been treated
+successfully by either form of medicine until now.
+In the Netherlands, the Dutch Health Council (1993) published an
+analysis of the reasons why so little research is done on the effectivity
+of alternative practices; one of the conclusions has been that alternative
+Semiotica 132-1/2 (2000), 1-24 0037-1998/00/0132-0001
+© Walter de Gruyter
+
+2 M. Brands, D. Franck, and E. van Leeuwen
+medicine and university institutions lack a common meeting ground.
+The absence of a 'common language' and 'a common taxonomy' were
+identified as two major barriers to overcome existing prejudices between
+practitioners in the respective forms of medicine.
+Criticism is often expressed by allopathic or orthodox physicians of, for
+example, homeopathy and Chinese medicine, two major complementary
+medical systems, in that the latter two would not meet the standards of
+natural scientific evidence of their working mechanisms, which makes
+their clinical results implausible.
+Recent meta-analyses of homeopathic clinical research show a positive
+effect of this type of treatment (Kleijnen, ter Riet, and Knipschild 1991;
+Linde et al. 1997), but these results are considered by opponents as not
+'evidence-based' (Langman 1997; Vandenbroucke 1997). An extended
+American review (National Institute of Health 1997) also shows the
+clinical efficacy of acupuncture, and moreover, indicates options to
+conduct research on its physiological explanation. These studies still
+fail to contribute to an open communication, as they do not provide
+a 'common meeting ground' with allopathy in terms of a physical and
+biochemical plausibility of the homeopathic clinical results. An effect
+is indeniably measurable, but the absence of a working mechanism of
+homeopathy (and mutatis mutandis also for Chinese medicine) in
+biochemical terms leaves room for speculation about a placebo-effect
+(Reilly et al. 1994) — without a proper definition of this effect.
+Bellavite and Signorini (1995) display some issues in biology, such as
+complexity, information-processing and energy dynamics of biological
+systems which need further investigation with regards to the field of medi-
+cine. Also, physical, biological and immunological research using animal
+and physical models indicates how high dilutions such as used in homeop-
+athy can be examined scientifically (Endler and Schulte 1994; Bastide 1997;
+van Wijk and Wiegant 1997).
+This study seeks to contribute to overcome prejudice and distance
+by the development of a method which considers the exertion of a medi-
+cal practice as an applied system of thought, implying the use of certain
+concepts of disease, cure and health in medical diagnosis and treat-
+ment. We call this a 'medical system'. This conception of a medical system
+opens the perspective of using various methods from cognitive sciences,
+such as epistemology and linguistics, to analyze medical systems in terms
+of how they acquire and process data to establish a diagnosis. A com-
+parative framework using a semiotic perspective is presented in this article,
+which may serve to examine if such systems have an inner consistency.
+The central research question of this article is: If the concepts used
+in the frame of reference of a medical system would be described,
+
+Epistemology and semiotics of medical systems 3
+would this imply that these concepts are only consistent within
+that system, or can they claim universal validity, scientifically based,
+excluding other systems? From here some operational questions can be
+derived:
+1. What are concepts in a medical system?
+2. Which method would be necessary for the description of concepts?
+3. Is there a theoretical framework which can be used for the development
+of the method of description?
+4. Would the description of the concepts enable their comparison?
+5. And what would be the consequences of this comparison?
+Before the methodology for researching these questions is displayed,
+the issue is discussed whether statements made within one medical system
+have a universal value, i.e., can be generalized to other systems; this, then,
+is confronted with the assumptions made in semiotics about the tension
+between the universal validity and the meaning of assertions.
+Epistemology and linguistics
+The universalist tradition
+McMullin (1995) has pointed from a medical-philosophical perspective
+to the resemblances between the search for objective truth about
+diseases by Western allopathic medicine and the universalist tradition in
+Western philosophy. Mullin mentions two central features of this tradi-
+tion: (1) the search for the universality of truth and (2) the idea that
+knowledge is acquired only by rational procedures. This opinion conforms
+with Kirmayer (1988) who reviewed medical-anthropological research to
+show how some basic notions of Western medicine are embedded in the
+universalist tradition. This may, however, provoke some problems, as is
+argued in what follows.
+Epistemologically said, a main cognitive activity of medical practice is
+to establish whether propositions about the condition of a patient such
+as This is disease' or 'This is not disease' are true or not (Wright and
+MacAdam 1979). Carnap (1935) discerned three forms of propositions:
+he stated that if the truth-conditions, or circumstances under which
+a proposition is true, can be defined, then the formulation can be a
+correct scientific proposition, for its truth may be tested by testing the
+circumstances — this is a synthetic proposition. If these truth-conditions
+cannot be described, then the proposition is not useful for scientific
+purposes, i.e., testing — for then it is either always true or never true
+(an analytical or contradictory proposition, respectively).
+
+4 M. Brands, D. Franck, and E. van Leeuwen
+The concern about the truth of a proposition about disease has a very
+practical basis, as the decision about the truth of such a proposition
+determines whether a therapeutic action has to be taken or not. Its action-
+orientedness makes medical thinking quite susceptible to universalistic
+tendencies, for if this proposition were true in all possible conditions, it
+would liberate both patient and practitioner from the uncertainty inher-
+ent of relativistic and probabilistic reasoning (Benbassat 1994). When
+discussing the rationalistic element of the objectivist tradition, Gillett
+(1995) points to the implications for medical philosophy of the epistemo-
+logical criticism by Rorty (1992) and Kühn (1971 [1962]) on scientific
+claims of objective truth. Gillett states that truth-conditions of the best
+possible medical decision with regard to diagnosis should no longer be
+determined by pathophysiological arguments only, but also by the life
+history and situation of the patient. Not the Objective' knowledge alone,
+but also the context of the patient should determine the correctness of
+the decision.
+Medical anthropology has criticized the one-sided focus on disease-
+entities of the biomedical model used in Western university medical train-
+ing and practice, and pleads for the approach of a patient as a person within
+the context of her/his own life, thus integrating this aspect into medical
+diagnosis and treatment (Kleinman 1988). In an effort to trace the origin of
+the rationalist character of Western medical thought, Gordon (1988)
+examined the influence of naturalistic philosophy on the epistemology of
+Western medicine. Nature is considered to be immanent and universal; so
+aspects of Nature such as diseases can be studied, and finally they will reveal
+their hidden immanent features and secrets. Also, naturalistic philosophy
+makes an opposition between mind and body, representing in human
+existence respectively the rationalistic and intentional pole, in contrast with
+the involuntary and accidental pole. As a representative of the rational
+pole, Western medicine has as its objective — by rational reasoning,
+leaving aside the subjective tendencies of human perception — to acquire
+absolute knowledge of disease-processes, in order to control them.
+And allopathic medicine claims this knowledge to be based on natural
+scientific data, and together with this claim it is assumed that these data
+are independent of the context in which they are acquired. Thus, on a
+meta-level a rationalistic view of medical science is still advocated. Ironi-
+cally, this view is in a process of being left behind in current natural
+sciences. Moreover, it can be questioned whether medical practice
+actually can fulfill the demands, as medical data have some features
+which do not fit this traditional view of natural science:
+1. Many data do not meet the ideal of context-independency, of which
+an example is the pathoanatomical 'proof that the existence of disease
+
+Epistemology and semiotics of medical systems 5
+is determined by microscopic examination of dead tissues. This ideal
+runs parallel to the conception of natural science that, for example, in
+physics data are acquired in studies of dead matter enabling the scientist to
+control the manipulation to a high degree. Contrary to this, medical data
+often are 'embodied': cognitive scientists such as Varela, Thompson, and
+Rosch (1992) indicate that medical knowledge is acquired by means of
+a living human body with a consciousness which causes a variable reaction
+to external influence and manipulation. Although natural science should
+be used as an auxiliary science, and human physical phenomena can be
+described with the help of hydraulic metaphors such as the pump-function
+of the heart, this does not suffice to explain all aspects of human disease
+(Coulter 1975).
+2. Medical data such as symptoms can vary over time during a disease-
+episode, which is obvious in the descriptions of human illness; symp-
+toms cannot be considered as constant phenomena, which undergo only
+linear and reversible changes such as described in classical Newtonian
+mechanics. On the contrary, their variability is comparable to phenom-
+ena observed in modern physics, with applications in metereology and
+astronomy. Physicists such as Hess (1978) and Nicolis and Prigogine
+(1987), have studied so-called 'non-linear' or 'irreversible systems' in
+physics and chemistry, in which they observed irreversible variations of
+physical and chemical phenomena during the course of an experiment.
+Hess (1991) indicated that irreversible systems also exist in human
+cells, e.g., in the Adenosine Tri Phosphate (ATP)-cycle. Nicolis (1991)
+pointed to the 'chaotic' or non-linear features of both biological and
+human information-processing.
+Irreversibility is a central feature of human disease-processes, as can be
+seen in the time-dimension of disease expressed in the term 'the course of
+the disease'. Medical knowledge is based on observations of occurrences
+in single persons which are by definition irreversible and unique, although
+multiple observations of patients can assist in discovering common
+features of these occurrences and in inducing rules from them. But the
+extrapolation of these rules to future occurrences is subject to probability,
+and is not deterministic in nature, as future occurrences will never be
+identical, as the current ones cannot be repeated (Feinstein 1983a).
+3. Medical data are 'contextual': the account of human experience in
+illness is susceptible in its assumptions and its mode of reasoning to the
+culture in which these assumptions are formulated, by persons who are
+part of that culture. This is contradictory to the notion of universally
+true knowledge, independent of its context (Lock and Gordon 1988b).
+The features of medical data make them apt for studying with linguistic
+techniques which can take their variation into account; modern medicine
+
+6 M. Brands, D. Franck, and E. van Leeuwen
+should not solely rely on techniques which were adapted by medicine
+from natural sciences as they existed in the nineteenth century, when
+natural phenomena were thought to be deterministic and to predictably
+obey immanent laws (McMullin 1995).
+Moreover, although modern natural science has drawn nearer in its
+assumptions to the practice of medicine as a context-dependent activity,
+it still does not possess techniques to investigate the vehicle itself of
+medical communication: language, in the form of discourse and text.
+The linguistic challenge and its implications for medicine
+From a linguistic perspective, some remarks can be made with regard to
+the nature of medical knowledge. The patient-doctor discourse can be
+conceived of as the telling of a narrative; moreover, the clinical theory the
+doctor uses as the framework to interpret this narrative can be conceived
+of as a text. Narrative and text can be analyzed by using linguistic tech-
+niques such as discourse analysis and text-analysis, and together they
+constitute an important part of what is considered medical knowledge.
+Hunter (1991) has analyzed medical practice from a linguistic perspec-
+tive, and described many factors which contribute to illness as expressed
+in the narrative of patients. The description of symptoms is born out of
+the experience of pain and disability, components of the lives of both
+patient and doctor. And these lives constitute the cultural context in
+which these symptoms are perceived (Price 1987).
+An example of what the linguistic approach can offer the present
+discussion about medical propositions, is how the linguist Searle (1980:
+226) establishes the relationship between the truth-conditions of a sen-
+tence, its meaning and the context of the reader of the sentence. The truth-
+conditions of a sentence do not depend on its literal meaning but on the
+'background-information' we already have of the concepts used in the
+sentence in question, and of their relation to the central concept about
+which that sentence provides information.
+Searle shows different meanings of the word 'cut' in about eleven
+sentences, e.g., 'Bill cut the grass' and 'Sam cut two classes last week'. For
+each sentence truth-conditions can be formulated, and they depend on the
+different meanings of this common word. In their turn, these meanings
+depend on our background information about the other words in those
+sentences, grass and classes. This information is our knowledge about
+how physical nature is organized (growth of grass) and how our culture
+is structured (classes in education). This information can be defined as
+the context of the reader.
+
+Epistemology and semiotics of medical systems 7
+Searle's argument can be reformulated for medical epistemology in
+such a way that the conditions under which a proposition such as 'this is
+disease' is true, may differ between different medical practices, as they
+may have different 'background information'. This background infor-
+mation determines different interpretations of the symptoms of a patient.
+And these interpretations are examined by considering basic notions about
+what is disease, a central concept within each system. These notions then
+lead to the formulation of truth-conditions, which make the proposition
+'this is disease' a synthetic proposition in Carnap's sense: it can be
+tested after having formulated precisely the circumstances under which
+it is true; and these circumstances may differ depending on the medical
+system in which they are formulated. This very medical system then
+supplies the background information (cf. Searle) or context (cf. Gillett)
+of the proposition.
+Methodological issues
+The comparison of medical systems
+A methodological issue of comparing one conceptual system with another
+is: can concepts and assumptions of one system be generalized to another
+system?
+The approach chosen here is to analyze and compare medical prac-
+tices by focusing on their cognitive aspect; a medical practice is consid-
+ered here as the application of a system of thought, this medical system
+of thought is defined in cognitive terms as the conceptual design of how
+medical diagnosis occurs within a specific medical practice.
+The analysis of the diagnostic aspect of a medical practice should focus
+on the interpretation of symptoms and on the meaning of diagnostic
+statements or propositions about these symptoms, rather than on the
+question whether these propositions are true under all circumstances. The
+circumstances are the respective assumptions in different medical systems,
+such as allopathy, homeopathy and Chinese medicine. If they can be
+defined, the truth of propositions may be established for each system.
+A comparison of diagnostic strategies requires a semiotic perspective,
+to establish the relation between a symptom and a disease-category it
+refers to as a sign. For what is important in semiotics is not the universal
+truth of a proposition, but the meaning of a sign as the result of interpre-
+tation (Eco 1976). The use of the semiotic approach can avoid universalist
+discussions about the objective truth of propositions as referred to in
+the previous section.
+
+8 M. Brands, D. Franck, and E. van Leeuwen
+When, in accordance with the definition of a medical system, as given
+above, a medical system is considered here a conceptual design of medical
+diagnosis, two aspects of such a conceptual design need to be com-
+pared: the structural and the decision-making aspect of establishing
+a diagnosis.
+1. The structural aspect deals with how disease-categories cluster
+symptoms of illness, so the description of the structure implies the
+description of the categories used in that medical system.
+2. The decision-making aspect addresses the selection and attribution
+of symptoms to disease-categories, and this implies the description of
+the process of interpretation; this is done by using a semiotic
+perspective.
+The structural aspect is discussed first, and in the next section the
+semiotic approach of the analysis of the decision-making process is
+elaborated on.
+Concepts and categories
+The structure of a medical system consists of concepts about what disease
+is, what cure is and how it might be achieved, e.g., by interventions such
+as administration of medicines; but it also contains concepts about diag-
+nosis, how the symptoms of a patient should be attributed to a disease-
+category, so that this patient can receive a diagnostic label, and can be
+treated with an intervention, etc. The cognitive analysis of a medical
+system thus should address the definition and practical use of concepts
+and categories. This issue refers to the question of their origin.
+What is considered to be the origin of concepts, seen as cognitive
+entities, can vary according to different epistemological traditions.
+Empiricism stresses that concepts refer to objects 'given' in nature, a pri-
+orism that they exist as mental representations in the mind (see for more
+discussion Chisholm 1986; Fodor 1991; Quine 1969). Both traditions
+assume that concepts exist objectively, i.e., independently of their observer:
+they 'wait' to be discovered by the researcher.
+The question is whether the notion of objective, observer-independent
+existence holds for the use of conceptual analysis in different cognitive
+systems such as medical systems. Again the issue of context arises: is a con-
+cept such as a disease-category (originated from either nature or the mind)
+independent of its context, or is it shaped by the experience of illness?
+Medical concepts arising from experience like cough, inflammation
+or fever, have been categorized into clusters of symptoms or disease-
+categories, e.g., pneumonia. A medical-diagnostic process is a form of
+
+Epistemology and semiotics of medical systems 9
+categorization, for a doctor tries to find an answer to the composite
+question: To which disease-category do I attribute this patient with these
+symptoms, or is there no disease (as a category) present here, or does the
+symptom ambiguously refer to more diseases?' (Gale and Marsden 1985).
+And this question refers to a fundamental issue in categorization: are the
+properties of a category necessary and sufficient to define the category,
+or are they not?
+This implies the next question: whether a disease-category is a class of
+uniform instances of diseases, or whether they can vary in the composition
+of their elements. The first type is called a 'discrete category', the second
+a 'non-discrete category' (Givon 1989). Wittgenstein (1953) used the
+notion of 'family-resemblance' for instances within one category; this
+was elaborated on by Rosch (1975, 1978) and led to the formulation of
+the notion of 'prototype' categories. One class of a category can have
+non-identical members (like in a family), and some of these members are
+so characteristic that they are the 'prototype' for a certain category, the
+prototype of a category is formed at the intersection of several typical
+features. Classical discrete categories are the exception rather than the rule
+of categorization, the majority of categorization occurs by 'prototypical
+effects' (Rosch 1978), and the majority of categories are 'non-discrete'
+(Givon 1989).
+Medical categorization involves the question whether the central
+medical unit of categorization — disease — is a prototype or a discrete
+category — the latter is sometimes named a 'set' in medical texts on
+categorization (Wright and MacAdam 1979). This question implies:
+— Are all instances of diseases within one disease-category (e.g.,
+pneumonia) identical, or are they classified according to a prototype
+of pneumonia? And
+— do all instances of pneumonia contain identical properties, or can
+these properties vary over several instances?
+Summarizing, the analysis of the structure of a medical system has two
+aspects:
+1. Concepts can be considered as fixed entities, existing independently
+from their context, either in nature, or in the human mind. Findings
+of research on child-development, such as those of Piaget (1972),
+however, show the dependence of concepts on context, in that con-
+cepts develop by experimentation with nature in interaction with
+a maturing mind.
+2. Categories have traditionally been considered discrete categories;
+cognitive psychological research indicates that this is the exception
+of a more general rule which says that categorization occurs by
+prototype-effect (Rosch 1978).
+
+10 M. Brands, D. Franck, and E. van Leeuwen
+If medical systems are to be compared, three options can be used:
+1. The establishment of a conceptual meta-system
+Common concepts then should be designed, to account for and to
+encompass the variation in concepts of the separate systems. The unifi-
+cation of concepts and categories of medical systems would lead to the
+creation of superimposed concepts and 'super-categories'; they would be
+immanent, according to the universalist tradition. The unification denies
+the character of concepts and categories as described before: categories
+are protypical, and concepts depend on the context in which they originate
+and in which they are used. It would also run counter to anthropolog-
+ical findings which show the cultural dependency of disease-categories
+(Kleinman 1986; Price 1987). Waitzkin and Magana (1997) examined
+patients' narratives of traumatic events in different cultures; they relate
+culture to the expression of different types of somatic manifestation
+(somatization) of traumatic events. It is difficult to imagine how symp-
+toms of such highly personal experiences could be categorized in
+cross-culturally, universally valid disease-categories.
+The variability of human disease-symptoms and their culture-dependent
+expression would imply an endless translation of symptoms and concepts
+into formalized 'super-categories' of the metasystem, for which natural
+language as spoken by patient and doctor lacks the capacities. This would
+require the development of a formalized language.
+A formalized language is an inappropriate instrument for the descrip-
+tion of the variations of manifestations of human illness. The level
+of abstraction of this option makes it irrelevant for the daily practice, as
+practitioners would not be satisfied with such an abstract description of
+very concrete entities such as symptoms and categories.
+2. The 'golden standard' option
+This option is called metaphorically 'golden standard', as it implies
+that one system of medicine would function as the superior calibration
+point, the 'golden standard' with which to measure the validity and consis-
+tency of other medical systems. The objective of such a method would be to
+prove the superiority of one medical system by highlighting its featuring
+concepts in contrast to the equivalents in other systems. In the case of
+a medical system, selecting one of its features implies the use of a specific
+concept about disease or a specific disease-category as the measure with
+which to assess the validity of concepts or categories in other medical
+systems.
+When the concepts are considered context-dependent and categories
+subject to variation, the selection of one of their features as the criterion
+
+Epistemology and semiotics of medical systems 11
+of comparison runs counter to the results of empirical research in prototype
+categorization: the use of one feature as a 'golden standard' can only be
+made by considering this feature valid in all different contexts, and that is
+exactly what is refuted by the research on prototypes. Because, if one feature
+of a category is considered to vary across categorizations (as is the case in
+prototypical categories), it may be present or absent. How can a feature be
+used as a calibration of other features if it is sometimes absent?
+The discussion referred to above, about the lack in plausibility of
+homeopathy and Chinese medicine in biochemical terms, is, in fact, an
+example of such an isolation of one feature (in this case from allopathic
+medicine), which is then used to 'prove' the non-scientific basis of the
+other forms of medicine. However, in several university laboratories
+high dilutions, such as used in homeopathic drugs, are the subject of
+physical, biological, and physiological research. This has led to many
+publications of fundamental research (Bastide 1997; Endler and Schulte
+1994). This research refutes both the claim of some homeopaths that
+natural science is not a suitable method for studying homeopathy, as well
+as the allopathic claim that biochemistry cannot lead to supporting the
+existence of the effect of high dilutions.
+Moulton (1983) indicated with 'the Adversary Paradigm' the attitude
+in scientific debate to exclude other concepts from one's own conceptual
+model, and then to attack those other concepts. Gillett (1995) has men-
+tioned that this excluding attitude leads to the opinion of allopathic medical
+researchers that other diagnostic and therapeutic possibilities do not need
+to be researched. This is not without practical, therapeutic danger as the
+physicians Querido and Roos (1980) and the physiologist Root-Bernstein
+(1993) have argued. Moreover, the use of the Adversary Paradigm is in itself
+a violation of a main principle of an objectivist science — from which the
+Adversary Paradigm originated (Moulton 1983): the selection of some
+feature as a standard of comparison has not been subjected to an objective
+procedure. Does a participant engaged in the debate, necessarily make an
+objective selection? Popper (1958) pointed out that scientific choices are
+usually influenced by subjective moments; Kühn 1971 [1962] went a step
+further by stating that the process of scientific reasoning itself is influenced
+by subjective concepts. Also, to date, no publications are known which
+refute the homeopathic and Chinese medical assumptions by the use of an
+empirical model. And an a priori rejection of a possible explanation on a
+theoretical level contradicts the methodological, i.e., empirical framework
+of allopathy itself.
+The approaches of both the meta-system and the 'golden stan-
+dard' assume that there are concepts and categories with immanent
+properties which are independent of the context in which they are used.
+
+12 M. Brands, D. Franck, and E. van Leeuwen
+This is in contradiction with the properties of concepts and categories
+described:
+— the content of concepts depends on their contexts of origin and of use;
+— categories do not have fixed properties, but are prototypical.
+Therefore, both options do not seem to be the most appropriate
+methods for the comparison of medical systems. What is even more
+important, they fail to leave the universalist epistemological tradition
+behind, as they both still try to establish truth-conditions of proposi-
+tions — in this case about medical concepts — independently of the
+specific circumstances (i.e., the medical system) in which the propositions
+about disease-concepts are formulated. This runs counter to the logico-
+positivist requirement of defining the circumstances in which a proposition
+is true (Carnap 1935; Rorty 1992). Therefore, a method is developed
+here which focuses on the interpretation of symptoms, rather than on
+establishing whether a proposition about them is true. This method uses
+semiotics as its theoretical framework.
+3. The comparison of similarities and differences in interpretation
+According to this option, the medical systems are compared for their
+similarities and differences between their concepts and categories.
+The parameters of comparison are the existing disease-categories within
+each system, and the process of diagnosis (how symptoms are attributed
+to those disease-categories).
+Three features which medical systems have in common are:
+1. the use of language as the main vehicle for the transfer of information.
+2. categorization as the decision-making process in diagnosis. Symptoms
+have to be attributed to disease-categories so that an appropriate
+therapeutic action can be taken.
+3. the use of analogy in the construction of theories of disease. Metaphors
+used in textbook descriptions of disease-concepts give insight into how
+doctors in different medical systems interpret information about
+a similar complaint of a patient. The study of the use of analogy
+(Gentner and Jeziorski 1995) may show how the same symptoms of
+a patient can refer to different disease-categories when interpreted by
+doctors within different medical systems.
+These three features are used in the semiotic approach, in which
+interpretation is the central focus.
+Semiotics of medicine
+In the part on categorization in the previous section a central question
+of an examining doctor was formulated about the decision to which
+
+Epistemology and semiotics of medical systems 13
+disease-category a certain symptom of a patient should be attributed. This
+attribution implies the establishment of the relationship between a symp-
+tom and something this symptom refers to. A relationship in terms of
+referral by one thing to another is called a 'semiotic relationship': a sign
+('semeion' in Greek) refers to something else, its object. A semiotic rela-
+tionship in medicine implies that a symptom may function as a sign if
+it refers to a disease-category. The question can be posed: when does
+the symptom become a sign, and when does it not? Or, in which way
+does a symptom become a sign? Several researchers have pointed to the
+relevance of posing these questions in a semiotic framework to study
+the practice of medicine (Burnum 1993; Foucault 1975; Sebeok 1991;
+Sundström 1987; Uexkull 1986).
+Peirce, often considered the founder of modern semiotics in the nine-
+teenth century, formulated conditions for when something becomes a sign,
+i.e., it refers to an object. These three main conditions are formulated
+here for words in a language. Words have a sign-function:
+1. if their grammatical structure is correct,
+2. if they can acquire a meaning, and
+3. if their meaning can be transferred to the listener/reader of the word.
+These conditions are reflected in the concept of the 'semiotic triangle'
+(CP 5.473, 5.484). The semiotic triangle consists of the sign, the object to
+which the sign refers, and the interpretant (the instance or person inter-
+preting the sign referring to the object). According to Peirce (CP 1.339):
+'a sign stands for something to the idea which it produces, or modifies.
+That for which it stands is called its object; that which it conveys, its
+meaning; and the idea to which it gives rise, its interpretant'.
+Why is semiotics chosen as an approach for this comparison?
+Eco (1976) compared semiotics with the traditional issues of philos-
+ophy, such as the truth of an assertive proposition (Katz 1972), by
+pointing out that semiotics is not so much concerned with truth as with
+meaning. For something to be valid as a sign the truth-value is not
+relevant, such as for a proposition in classical logic, but it is essential that
+the sign can acquire a meaning, i.e., that the sign can be interpreted.
+As it is indicated with Searle's example of the variance of word-
+interpretation in different sentences, truth-conditions can be formulated
+for the proposition 'this is disease'. It is questionable if these conditions
+are valid beyond the specific medical system for which they are formulated.
+There are no disease-concepts used in medical practice which are uni-
+versally valid. Is it more important that a symptom has a meaning than
+that it is 'true'? Doctors and patients can consider the sentence 'this is
+a disease', (an attribution of a group of symptoms to a disease-category),
+either as a proposition or as an interpretation of signs.
+
+14 M. Brands, D. Franck, and E. van Leeuwen
+If the sentence is considered a proposition with a general validity for
+every system of medicine, universal truth-conditions (conditions under
+which the proposition is true in all systems) should be formulated
+(Eco 1976). These conditions might possibly differ between forms of
+medicine, given the divergent interpretations of the same term 'disease'
+in each system. If, however, the sentence 'this is disease' is conceived by
+both patient and doctor as an interpretation, the meaning is the criterion
+of analysis, and this meaning can differ between medical systems. With
+regard to truth-conditions it can be said that each medical system con-
+tains different conditions under which symptoms can be interpreted
+to refer to a disease-category.
+If they do refer, the interpretation can be considered as a true prop-
+osition, but this truth depends on the specific context of one medical
+system in which it is made. It may not be a true proposition if made in
+another system of medicine; in semiotic terms, the truth does not depend
+on Objective' or universal criteria, but on the correct interpretation
+within one certain system.
+Definitions
+The main concepts in semiotics are: sign, sign-production, and codes;
+these are applied to the medical context. They are defined by Eco as fol-
+lows (1976: 116) (the medical application of these definitions is also given):
+1. A sign is a correlation between an expression and a content.
+2. Sign-production is the interpretative process that makes an expres-
+sion (e.g., a symptom) refer to a content (e.g., a disease-category). Sign-
+production in medicine occurs when a symptom is transformed into
+a sign. This happens if this symptom can be provided with the correct
+coding, so that it can be interpreted by its referral and acquires
+a meaning. So sign-production is not a self-evident process: interpre-
+tation is needed.
+3. A code is a marker of the correspondence between an existing system
+of sign-vehicles (symptoms) and a system of cultural units (diseases)
+(Eco 1976: 67-68).
+4. A cultural unit is a whole of culturally accepted notions about a phe-
+nomenon. Anthropologists such as Price (1987), Waitzkin and Magana
+(1997) and White and Robillard (1989) describe how disease-stories
+convey messages about cultural notions. To understand a medical
+consultation, it is necessary that both speaker and listener share
+knowledge about the codes of the signs they use: the symptoms which
+are presented by the patient.
+
+Epistemology and semiotics of medical systems 15
+5. The coding of symptoms is made, in semiotic terms, by syntactic and
+semantic markers (Eco 1976). Syntactic markers provide information
+about the form of the symptom; semantic markers concern its content
+(its referral to a disease-category).
+6. Peirce discerned between a sign as an 'index' or a 'symbol' (CP 2.247);
+the index indicates a concrete object; the symbol tells in general terms
+that there exists any object to which is referred; the nature of the object
+is not necessarily known.
+Prototype categorization and semiotics
+Rosch (1978) established that most categories are organized around
+prototypes. This implies that a disease-category has a high chance of
+being a prototype; not always the same symptoms are included as
+elements into that category. Therefore, it cannot be said beforehand if
+a symptom refers unambiguously to one and the same disease-category.
+It is therefore necessary to analyze how symptoms refer to disease-
+categories; and this can be a central focus of comparison between medical
+systems: how can the referring or semiotic relationship between a symp-
+tom and a disease-category be established? It is highly probable that this
+relation differs depending on how the concept of disease is formulated;
+e.g., in Chinese medicine several disease-patterns can be discerned within
+a group of patients with gastric ulcer (Kaptchuk 1983); one category in
+allopathy, 'gastric ulcer', can be subdivided into several patterns in Chinese
+medicine. This means that the referral of the symptom 'gastric pain' is
+different in allopathy and Chinese medicine.
+How this referring relationship is exactly established, and how it differs
+between the three medical systems, depends on:
+— which elements compose the prototypes of disease categories, and
+— whether the categories are prototypes indeed, or discrete categories.
+So, the structure of disease-categories may influence the semiotic
+relation between symptom and disease-category. Sometimes a symptom
+may refer to a disease-category, and sometimes it may not. This depends
+on the variation within a category, and this depends, in its turn, on the
+notion of what disease is; is disease a process defined to consist of a fixed
+set of features, independently of its context, the patient, or is it context-
+dependent, i.e., or do the features of the category depend on the patient?
+A patient and doctor can establish a different semiotic relation between
+a symptom and a disease-category. For example, a patient with an abdom-
+inal pain suspects a physical diagnosis; when an allopathic doctor has
+
+16 M. Brands, D. Franck, and E. van Leeuwen
+done physical examination (eventually complemented with laboratory
+data) without a result in the form of an anatomical cause for that pain,
+then the doctor is likely to say: Ί can't find anything'. As allopathic
+abdominal disease-categories are labeled according to anatomy (Harrison
+1994), for this doctor the pain does not become a sign referring to any
+disease; so in this case there is no allopathic disease-category the pain can
+refer to. However, the pain does not disappear by stating that it is a
+subjective feeling for the patient. Doctors sometimes even say 'You can't
+have pain, as I can't find anything', then the problem becomes a discussion
+about the truth of a symptom (Jackson 1992).
+The possibility of assigning a sign-function to a symptom depends
+on whether the symptom can be interpreted as referring to a disease-
+category. If there is no such referral, interpretation is impossible within
+this particular clinical theory: the symptom cannot become a sign. But
+it does, however, if the symptom can be incorporated in the disease-
+category as a variable element. The structure of a disease-category,
+a prototype or a classical discrete category (Givon 1989) influences the
+decision-making process, i.e., the interpretation by establishing a semiotic
+relation between symptom and disease-category.
+The comparative model
+When the synthesis is made of categorization and a semiotic approach,
+a working model for the comparison of systems of medicine is presented;
+a medical system is defined as a conceptual design of how a diagnosis
+is achieved. This model may function as a start to do research in a field
+defined here as 'comparative medicine'. In this article the first outlines
+are set for separate studies with regard to several aspects of medical
+diagnosis.
+It is proposed here to use a semiotic approach for the comparative
+analysis of medical systems and to perform two operations first:
+1. definition of the context of each system
+2. description of the unit of the system's prototypical categorization:
+the disease-category.
+Together this leads to the third operation:
+3. developing a semiotic process-analysis of medical diagnosis.
+The relevance of including each of these three operations is summarized
+as follows.
+1. With 'context' is meant the cultural notions in which the key concepts
+of the medical theory are embedded, such as for Western medicine the
+
+Epistemology and semiotics of medical systems 17
+aim to gain objective knowledge about diseases. The cultural notion
+may lead to a definition of the disease-concept of the system under
+study, and this concept influences the nature of the disease-category,
+and thereby the type of categorization.
+2. Whether prototypical or classical discrete categories are used in a
+medical system is relevant, for their composition determines to which
+disease-categories symptoms of a patient will be attributed, referring
+as signs to these disease-categories. The semiotic process (i.e., the
+referring relation between symptom and disease) depends on the kinds
+of disease-categories used in that medical system.
+3. Context description enables the definition of key concepts (operation 1)
+which determine the mode of categorization (operation 2), which in
+its turn determines the semiotic process of diagnosis.
+Therefore, by these three operations the internal consistency of a medical
+system may be examined and described.
+A general scheme is proposed here for making explicit the recep-
+tion and processing of the medical narrative. It is conceived of as
+a semiotic process-analysis, which takes into account the process of
+categorization and the influence from the context of the participants
+in medical practice: doctors and patients. On the basis of the model
+Eco (1976) developed for sign-production and coding, an application
+is made in Hunter's (1991) terms for the medical situation. The
+original semiotic model contains five steps in sending and receiving
+a message:
+1. coding of the sign by the sender
+2. sending the message
+3. transferring this information, depending on the context
+4. receiving the information which includes the code
+5. interpretation of the information (Eco 1976: 141, 154).
+If this is applied to the medical situation, the model becomes as described
+in Figure 1: The medical encounter as the starting point of diagnosis and
+treatment is the focus of attention. The first column of Figure 1 contains
+the phases Hunter mentions when describing the medical encounter in
+terms of the encounter of two narratives, of doctor and patient. In the
+second column the semiotic process is outlined for each of Hunter's phases.
+The third column mentions the moments where the context exerts an
+influence on the phase concerned.
+The process can be divided into six phases:
+1. The narrative of the patient is being told, including its coding (syn-
+tactic and semantic markers); the coding depends on the experience
+of the patient of her/his world. This phase includes steps 1 to 3 of
+Eco's scheme.
+
+18 M. Brands, D. Franck, and E. van Leeuwen
+semiotic processkind of knowledge
+involved
+1. narrative coding
+2. pattern coding 1 sign - production or semiosis
+3. pattern recognition/
+ad 2 reception: observation: the narrative of the patient
+ad 3 diagnostic cycle: induction: hypothesis (diagnosis)
+= sign-productionown experience
+of the patient
+framework of
+medical knowledge
+within a system
+deduction
+of data to be collectedtesting of hypothesis
+rejecting or confirmation
+4. inference-making
+5. classification
+6. therapeutic actiondata collection
+(questions, examination, tests)
+confirmation of hypothesis=diagnosis
+attribution of symptoms to disease-category
+Figure 1. Process-analysis of medical categorization
+2. By narrating the symptoms, a pattern is being built, some symptoms
+are emphasized, and others hardly mentioned; this process of selection
+can be analyzed in the analysis of medical discourse.
+3. During this building of a pattern in the patient's narrative, the message
+is transferred to the listening doctor and received; the reception
+consists of pattern-recognition by the doctor according to the context
+of the doctor: personal experience and the form of medicine practiced
+account for the selection of the information and the possibility of
+attribution of the symptoms to categories. This possibility depends on
+whether the symptoms can become a sign. The selection process can
+be studied, as well as the interaction of selection of signs and the
+medical context (the main concepts of disease, cure, and health in
+a particular system).
+This phase corresponds with steps 4 and 5 in Eco's scheme.
+The second and third phase of the process constitute the actual
+semiosis or sign-production. The framework of the medical knowledge
+
+Epistemology and semiotics of medical systems 19
+guides the decoding by the doctor of the patient's narrative, and the
+synchronous coding of the selected symptoms, so that they can be
+attributed to a disease category. When a patient starts talking about
+stomach complaints, most probably the doctor's attention will initially
+be directed towards this complaint. It depends on the medical frame-
+work or available disease-categories, if other symptoms are interpreted
+to refer to the same category, to complete the clinical picture, e.g., concur-
+rent throat sensations (such as is done in Chinese medicine). This checking
+of information by comparing it to an existing prototypical disease-
+category is described here as the hypothetic cycle. This cycle is an
+alternance of inductive and deductive reasoning. This also implies that
+the second and third phase alternate, as the doctor may return to the
+second phase to gain additional information which then may lead to
+another hypothesis in the third phase:
+— With some observations of the patient's narrative, the doctor induces
+a preliminary hypothesis in the form of a selection of a potential
+category to which the narrated symptom might be attributed.
+— Then, the hypothesis is tested by deductive reasoning by posing addi-
+tional questions and searching for the presence of symptoms, which, if
+they are present, would also become signs given the presence of the first
+sign which triggered the formulation of the initial hypothesis. Together
+these signs will form a pattern.
+Step 5 of Eco's scheme is divided here into the fourth and the fifth phase:
+4. If the pattern of signs is present, the inference is made that these signs
+together form sufficient reason to confirm the hypothesis and to attri-
+bute the signs to a disease category: the hypothesized pattern is present.
+5. The fifth step is the definite disease-classification, and the retelling
+of the patient's narrative in the form of a medical story by the doctor
+to the patient, justifying further diagnostic or therapeutic actions the
+doctor is about to propose. The patient may have checks of this
+information. This checking process may be analyzed further in
+discourse analysis of medical consultations.
+6. If this process of negotiation is concluded, the therapeutic action can
+occur, although the proposal of it by the doctor can again cause a
+negotiation with the patient. This may provoke a feedback to earlier
+phases if the conclusion in the fifth phase is not agreed upon.
+The exchange of the patient's narrative with the doctor's narrative is
+a circular movement, in which adaptation occurs as a two-sided process
+of sending and receiving messages. The two-sidedness, however, depends
+on the possibilities of both parties to engage in such a process (Brown
+1995), and this engagement depends among other things on the possibili-
+ties of categorizing the information presented by the patient. A more
+
+20 M. Brands, D. Franck, and E. van Leeuwen
+detailed description of the limitations of these possibilities can be made
+by the text-analysis of medical books and discourse-analysis of medical
+consultations; these can be made in separate studies.
+Steps of comparative analysis
+In the description of the diagnostic process made above, several aspects
+can be discerned. These aspects concern the structure, the meaning, and
+the action of a semiotic process or semiosis. Morris (1971) proposed
+a division of semiosis according to this tripartition:
+1. the syntactic level, where issues of structure are dealt with;
+2. the semantic level, where meaning is addressed;
+3. the pragmatic level, where the actions are the focus of interest.
+The model of comparative analysis is composed according to this
+three-level structure, enabling the diagnostic explicitation of other medical
+systems.
+Each medical system which is to be compared can be analyzed in
+separate studies at the following levels:
+1. The syntactic level: here the structure is constituted by the elements
+of the system of signs which is described; in this study this means
+the definitions of the key concepts of the medical systems concerned.
+The chosen key concepts are: disease, cure and health. They can
+be defined for each system, such as for allopathy, homeopathy and
+Chinese medicine. All three concepts form the basic terms in medical
+narratives, be it on text- or discourse level. Medicine ultimately is
+concerned with disease and the process of cure to arrive at a state of
+health. Their interrelationships can be analyzed, as well as the meta-
+phorical structure of the key concepts. The metaphors refer to the
+underlying thoughts, which contributed to the origin of those concepts.
+Together they form the foundation for the second level.
+2. The semantic level: here the meaningful relations between the terms
+disease, cure and health are displayed in the form of a clinical theory.
+This clinical theory describes how a symptom such as gastric pain may
+refer to different disease-categories, and these may differ in different
+medical systems. Without a clinical theory a doctor cannot receive the
+patient's story nor understand it in a form which enables description,
+interpretation and treatment of the symptoms.
+3. The pragmatic level of the analysis indicates the language actions in
+the discourse in the way that they can be performed, given the possible
+relationship which can be made at the semantic level, i.e., the clinical
+theory. The patient's story is transformed by deletion and selection of
+
+Epistemology and semiotics of medical systems 21
+signs depending on the possibilities of interpretation of the doctor
+(Browm 1995).
+Conclusion
+It seems feasible to design a framework for analysis and description of
+the cognitive aspects of medical diagnosis, as such that similarities and
+differences of the respective systems can be distinguished, without that an
+a priori position needs to be taken about the validity of a medical system.
+When the three levels of analysis, syntactical, semantical, and prag-
+matical, are used as such a framework, those similarities and differences
+may enable an explicit comparison, which can provide instruments for
+a structured communication between practitioners of these systems.
+References
+Astin, John A. (1998). Why patients use alternative medicine. Results of a national study.
+Journal of the American Medical Association 279, 1548-1553.
+Bastide, Madeleine (ed.) (1997). Signals and Images. Dordrecht: Kluwer Academic Publishers.
+Bellavite, Paolo and Signorini, Andrea (1995). Homeopathy. A Frontier in Medical Science.
+Berkeley, CA: North Atlantic Books.
+Benbassat, J. (1994). Difficulties in teaching of uncertainty to medical students. In
+The Discipline of Medicine. Emerging Concepts and Their Impact upon Medical Research
+and Medical Education, Proceedings symposium, May 1993, A. Querido, L. A. van Es,
+E. Mandema (eds.), 185-191. KNAW verhandelingen. Amsterdam: North Holland.
+Berman, Brian M.; Hartnoll, Susan M.; Singh, Betsy B.; and Krishna Singh, B. (1997).
+Homeopathy and the US primary care physician. Growing interest in a forgotten field?
+British Homeopathic Journal 86, 131-138.
+Brown, Gillian (1995). Speakers, Listeners and Communication. Cambridge: Cambridge
+University Press.
+Burnum, John F. (1993). Medical diagnosis through semiotics. Giving meaning to the sign.
+Annals of Internal Medicine 119, 939-943.
+Carlston, Michael; Stuart, Marian; and Jonas, Wayne (1997). Alternative medicine
+instruction in medical schools and family practice residency programs. Family Medicine
+29 (8), 559-562.
+Carnap, Rudolf (1935). Philosophy and Logical Syntax. London: Kegan Paul.
+Chisholm, Roderick (1986). The myth of the 'given'. In Empirical Knowledge. Readings in
+Contemporary Epistemology, P. Moser (ed.), 55-75. London: Rowman and Littlefield
+Publications.
+Coulter, Harris L. (1975). Divided Legacy. A History of the Schism in Medical Thought,
+vols. 1, 2, and 3. Washington, DC: Wehawken Book Co.
+Dutch Health Council (1993). Alternatieve Behandelwijzen en Wetenschappelijk Onderzoek
+(Alternative Treatments and Scientific Research). Advice to the Minister of Health,
+no 1993/13. Den Haag: Gezondheidsraad.
+
+22 M. Brands, D. Franck, and E. van Leeuwen
+Eco, Umberto (1976). A Theory of Semiotics. Bloomington: Indiana University Press.
+Eisenberg, David M. et al. (1993). Unconventional medicine in the United States. New
+England Journal of Medicine 328, 246-252.
+Endler, Peter C. and Schulte, Jürgen (eds.) (1994). Ultra High Dilution. Physiology and
+Physics. Dordrecht: Kluwer Academic Publishers.
+Feinstein, Alvan R. (1983). An additional basic science for clinical medicine: I. The
+constraining fundamental paradigms. Annals of Internal Medicine 99, 393-397.
+Fodor, Jerry (1991). The dogma that didn't bark. In Korablith 1994: 191-216.
+Foucault, Michel (1975). The Birth of the Clinic. New York: Vintage Books.
+Gale, Janet and Marsden, Philip (1985). Diagnosis: Process not product. In Decision-Making
+in General Practice, M. Sheldon, J. Brooke, and A. Rector (eds.), 59-105. London:
+Macmillan Press.
+Gentner, Dedre and Jeziorski, Michael (1995). The shift from metaphor to analogy in Western
+science. In Ortony 1995: 447-480.
+Gillett, Grant (1995). Virtue and truth in clinical science. Journal of Medicine and Philosophy
+20, 285-298.
+Givon, Talmy (1989). Mind, Code and Context. Essays in Pragmatics. Hillsdale, NJ: Erlbaum.
+Gordon, Deborah R. (1988). Tenacious assumptions in Western medicine. In Lock and
+Gordon 1988a: 19-56.
+Harrison, T. R. (1994). Principles of Internal Medicine, thirteenth edition, ed. by K.
+Isselbacher et al. London: McGraw-Hill.
+Hess, Benno (1991). General properties of non-linear processes in biology. Proceedings,
+Congress of the International Research Group on High Dilutions (GIRI), Paris.
+Hess, Benno; Goldbeter, A.; and Lefever, R. (1978). Temporal, spatial and functional order
+in regulated biochemical cellular systems. Advances in Chemical Physics 38, 363-413.
+Hunter, Kathryn Montgomery (1991). Doctor's Stories. The Narrative Structure of Medical
+Knowledge. Princeton, NJ: Princeton University Press.
+Jackson, Jean F. (1992). After a while no one believes you: Real and unreal pain. In Pain as
+Human Experience, M-J. Del Vecchio Good, P. E. Brodwin, B. J. Good, and A. Kleinman
+(eds.), 43-65. Berkeley: University of California Press.
+Kaptchuk, Ted (1983). The Web That Has No Weaver. New York: Cogdon and Weed.
+Katz, Jerrold (1972). Semantic Theory. New York: Harper and Row.
+Kirmayer, Laurence J. (1988). Mind and body as metaphors: Hidden values in biomedicine.
+In Lock and Gordon 1988a: 57-94.
+Kleinman, Arthur (1986). Concepts and a model for the comparison of medical systems as
+cultural systems. In Concepts of Health, Illness and Disease. A Comparative Perspective,
+Caroline Currer and Meg Stacey (eds.), 29-47. Leamington Spa, UK: Berg.
+—(1988). The Illness Narratives and the Human Condition. New York: Basic Books.
+Kleijnen, Jos; Knipschild, Paul; and ter Riet, Gerben (1991). Clinical trials of homeopathy.
+British Medical Journal 302, 316-323.
+Kornblith, Hilary (ed.) (1994). Naturalizing Epistemology. Cambridge, MA: MIT Press.
+Kühn, Thomas (1971 [1962]). The Structure of Scientific Revolutions. Chicago: University
+of Chicago Press.
+Langman, M. J. S. (1997). Homeopathy trails: Reason for good ones but are they warranted?
+Lancet 350, 825.
+Linde, Klaus; Clausius, Nicola; and Ramirez, Gilbert et al. (1997). Are the clinical effects
+of homeopathy placebo effects? A meta-analysis of placebo-controlled trails. Lancet 350,
+834-843.
+Lock, Margaret and Gordon, Deborah (eds.) (1988a). Biomedicine Examined. Dordrecht:
+Kluwer Academic Publishers.
+
+Epistemology and semiotics of medical systems 23
+—(1988b). Relationships between society, culture and biomedicine. In Lock and Gordon
+1988a: 11-18.
+McMullin, Ernan (1995). Underdetermination. Journal of Medicine and Philosophy 20,
+233-252.
+Mehan, Hugh and Wood, Houston (1975). The Reality ofEthnomethodology. New York: Wiley.
+Morris, Charles (1971). Writings on the General Theory of Signs. Den Haag: Mouton.
+Moulton, Janet (1983). A paradigm of philosophy: The adversary method. In Discovering
+Reality, Feminist Perspectives on Epistemology, Metaphysics, Methodology and Philosophy
+of Science, S. Harding and M. B. Hintikka (eds.), 149-164. Dordrecht: Reidel Publishing
+Company.
+National Institute of Health (1997). Consensus report on the efficacy of acupuncture.
+Bethesda, MD: National Institute of Health.
+Nicolis, G. and Prigogine, I. (1977). Self-organization in Non-equilibrium Systems. New York:
+John Wiley.
+—(1987). Exploring Complexity. An Introduction. München: Piper.
+Nicolis, John S. (1991). Chaos and Information Processing: A Heuristic Outline. Singapore:
+World Scientific.
+Ortony, A. (ed.) (1995). Metaphor and Thought, second, revised edition. Cambridge:
+Cambridge University Press.
+Peirce, Charles (1931-1958). Collected Papers of Charles Sanders Peirce, 8 vols., Charles
+Hartshorne, Paul Weiss, and A. W. Burks (eds.). Cambridge, MA: Harvard University
+Press. [Reference to Peirce's papers will be designated CPJ
+Piaget, Jean (1972). Psychology and Epistemology: Towards a Theory of Knowledge.
+Harmondsworth: Penguin.
+Price, Laurie (1987). Ecuadorian illness stories: Cultural knowledge in natural discourse. In
+Cultural Models in Language and Thought, D. Holland and N. Quinn (eds.), 313-343.
+Cambridge: Cambridge University Press.
+Popper, Karl (1958). The Logic of Scientific Discovery. New York: Harper and Row.
+Querido, A. and Roos, J. (eds.) (1980). Controversen in de geneeskunde (Controversies in
+Medicine). Utrecht: Bunge.
+Quine, W. V. O. (1969). Natural kinds. In Kornblith 1994: 57-76.
+Reilly, David et al. (1994). Is evidence for homeopathy reproducible? Lancet 344,
+1601-1606.
+Root-Bernstein, Robert (1993). Rethinking Aids, The Tragic Cost of Premature Consensus.
+New York: Free Press.
+Rorty, Richard M. (1992). The Linguistic Turn. Essays in Philosophical Method. Chicago:
+University of Chicago Press.
+Rosch, Eleanor (1975). Cognitive representations of semantic categories. Journal of
+Experimental Psychology 104, 192-233.
+—(1978). Principles of categorization. In Cognition and Categorization, E. Rosch and
+B. B. Lloyd (eds.), 27-48. Hillsdale, NJ: Erlbaum.
+Searle, John (1980). The background of meaning. In Speech Act Theory and Pragmatics,
+J. R. Searle, M. Kiefer, and M. Bierwisch (eds.), 221-232. Dordrecht: Reidel Publishing
+Company.
+Sebeok, Thomas (1991). A Sign is Just a Sign. Bloomington: Indiana University Press.
+Sundström, Per (1987). Icons of Disease. Dissertation, Linköping University.
+Uexkuell, Thure von (1986). Medicine and semiotics. Semiotica 61, 201-217.
+Vandenbroucke, Jan P. (1997). Homeopathy trials: Going nowhere. Lancet 350, 824.
+Van Wijk, Roeland and Wiegant, Fred (1997). The Similia Principle in Surviving Stress;
+Mammalian Cells in Homeopathy Research. Utrecht: Utrecht University Press.
+
+24 M. Brands, D. Franck, and E. van Leeuwen
+Varela, Francisco J.; Thompson, Evan; and Rosch, Eleanor (1992). The Embodied Mind.
+Cognitive Science and Human Experience. Cambridge, ΜΑ: MIT Press.
+Waitzkin, Howard and Magana, Holly (1997). The black box in somatization: Unexplained
+physical symptoms, culture, and narratives of trauma. Social Science and Medicine 45 (6),
+811-825.
+White, Geoffrey M. and Robillard, Albert B. (1989). Doctor talk and Hawaiian 'talk story':
+The conversational organization of a clinical encounter. In Doctor-Patient Interaction,
+W. von Raffler-Engel (ed.), 197-212. Philadelphia: John Benjamins.
+Wittgenstein, Ludwig (1953). Philosophical Investigations. New York: Macmillan.
+Wright, H. J. and MacAdam, D. B. (1979). Clinical Thinking and Practice; Diagnosis and
+Decision in Patient Care. London: Churchill Livingstone.
+Martien Brands (b. 1953) is at the Department of Philosophy of Medicine at Vrije University,
+Amsterdam {mbrands@wxs.nl). His research interests include metaphors in medical
+consultations, data registration, and clinical epidemiology. His major publications include
+'Complementary research Γ (1996), 'Complementary research ΙΓ (1997), and 'Disease:
+Language and experience' (with D. Franck and E. van Leeuwen, 1998).
+Dorothea Franck (b. 1948) teaches in the Department of General Literary Studies at the
+University of Amsterdam (d.franck@mail.uva.nl). Her research interests include linguistic
+pragmatics, poetics, the philosophy of language, and the philosophy of art. Her major
+publications include Grammatik und Konversation (1980), 'The life of language: Unity in
+diversity' (1990), and 'Ko-und kontext' (1996).
+Evert van Leeuwen (b. 1954) is Chair at the Department of Philosophy of Medicine at
+Free University, Amsterdam (evleeuwen@med.vu.nl). His research interests include the
+philosophy of medicine and ethics. His major publications include 'Neurosemiotics' (with
+Broekman and Dillman 1992), 'The anthropological dimension of biomedical research'
+(1994), 'Philosophy of medical practice' (with G. K. Kimoma 1997), and 'Bioethical aspects of
+death and dying' (1998).

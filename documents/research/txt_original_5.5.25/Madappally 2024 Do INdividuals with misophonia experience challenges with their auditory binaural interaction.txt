@@ -1,0 +1,354 @@
+Research Article  
+ 
+ 
+Do Individuals with Misophonia Experience Challenges with Their Auditory Binaural Interaction and 
+Integration Skills ? 
+ 
+ 
+Hrishitha Valia Madappally, Kavassery Venkateswaran Nisha, Prashanth Prabhu* 
+ 
+Department of Audiology, All India Institute of Speech and Hearing, Mysuru, India  
+ 
+ 
+ORCID ID:  
+Hrishitha Valia Madappally:  0000 -0002 -9622 -2710  
+Kavassery Venkateswaran Nisha:  0000 -0003 -0788 -1800  
+Prashanth Prabhu:  0000 -0002 -9878 -4733  
+ 
+ 
+Citation:  Madappally HV, Nisha KV, Prabhu P. Do Individuals with Misophonia Experience Challenges with 
+Their Auditory Binaural Interaction and Integration Skills? Aud Vestib Res. 2025;34(1):? -?. 
+ 
+ 
+Article info:  
+Received: 14 Feb 2024  
+Revised: 02 Apr 2024  
+Accepted: 13 Apr 2024  
+ 
+ 
+* Corresponding Author:  Department of Audiology, All India Institute of Speech and Hearing, Mysuru, India. 
+E-mail: prashanthprabhu@aiishmysore.in  
+ 
+Short running title:  Do Individuals with Misophonia Experience … 
+ 
+ 
+Highlights:  
+ DCV and Masking level difference were measured in mild and moderate misophonia  
+ Binaural integration and interaction skills are unaffected in misophonia  
+ 
+ABSTRACT  
+Background and Aim:  Misophonia is a condition marked by heightened sensitivity and intense emotional and 
+physiological responses to particular sounds that  may not spark the same reactions in others. This study is the 
+first of its kind to assess binaural integration and binaural interaction in misophonia.  
+Methods:  Thirty  misophonia and 30 control participants were considered in the age range of 18 to 30 years. All 
+the participants had hearing sensitivity within normal limits  and normal middle ear function . Individuals with a 
+history of otological complaints, noise exposur e, ototoxic medications, tinnitus, hyperacusis, diabetes, or 
+hypertension were excluded from the study. Misophonia severity was assessed using the Misophonia Assessment 
+Questionnaire  (MAQ) . Binaural integration was assessed using Dichotic Consonant  Vowel ( DCV ) test, and 
+binaural interaction was assessed using Masking Level Difference (MLD).  
+Results:  The statistical analysis of the i ndependent t -test for DCV and Mann Whitney U test for MLD showed 
+no significant difference between misophonia and the control group for both MLD and DCV.  
+Conclusion:  The results suggest that the re is no significant difference in DCV and MLD scores between the 
+control and misophonia groups.  
+Keywords:  Misophonia ; binaural integration ; binaural interaction ; dichotic consonant  vowel ; masking level 
+difference  
+ 
+Introduction
+
+Misophonia is a disorder characterized by negative physiological or emotional reactions in response to particular 
+sounds that do  not cause annoyance  [1] Schröder et al.  [2] proposed diagnostic criteria for misophonia, including 
+extreme behavioral or physiological response to the presence or anticipation of certain sounds, anger, loss of self -
+control, and avoidance of misophonic sound situations. In other words , misophonia is  hatred or decreased 
+tolerance to particular  sounds that may be normal for others. The reactions to the sound depend on the physical 
+properties of the sound and the environment in which it is presented.  Triggering sounds could be chewing , metal 
+scraping, h igh-frequency insect chirping,  etc. [2-5]. The reactions to triggering sounds could be anger, irritation, 
+increased heart rate, sweating, anxiety , etc. Neuroimaging studies  show ed cortical generators involved in 
+misophonia generation. H yperactivation of the right insula, right anterior angulate cortex , and right superior 
+temporal cortex was seen when misophonic individuals were exposed to triggering audiovisual input compared 
+to neutral video clips  [6, 7] In addition , Aryal and Prabhu [8] proposed a neuro biological model of Misophonia 
+generation, where they hint at the central auditory involvement in addition to the other cortical areas  (such as 
+those involved in emotion or psychological distress) . 
+Central Auditory Processing (CAP) is the ability to perceptually receive stimuli within the Central Auditory 
+Nervous System  (CANS) and conduct the subsequent neurobiological activities that give rise to the 
+electrophysiological auditory action potentials  [9]. Auditory  processing incl udes temporal processing, binaural 
+interaction, fusion, integration,  separation , and auditory closure. Binaural integration is when  the patient has to 
+repeat stimuli in both ears  [9]. Difficulties faced by individuals with binaural integration deficits include having 
+trouble taking notes, processing more than one modality concurrently , or listening to two persons simultaneously.  
+Binaural interaction refers to the task where the CANS interprets  stimuli presented simultaneously to both ears  
+[10]. This proc ess occurs at the brainstem level, where information from both ears is  processed.  
+Conventionally , binaural interaction is assessed through Masking Level Difference  (MLD) , while binaural 
+integration abilities are measured using the Dichotic Consonant Vowel (DCV) test [11]. MLD  describes how the 
+phase of either the signal or the noise at the two ears can be changed to improve the perception of a signal when 
+a masker is present  [12]. ‘o’ indicates when the signal is in phase and ‘ π’ indicates when signal is ou t of phase. 
+SoNo is a homophasic condition where signal and noise are in phase and S πNo and SoN π are antiphasic 
+conditions where one of the signals is out of phase. In the case of SπNo, the signal is out of phase, and in SoN π, 
+the noise is out of phase.  SπNo and SoN π are easier to detect compared to SoNo , which shows that antiphasic 
+conditions are easier to detect compared to homophasic condition.  When the signal and noise are in phase, the 
+auditory image is perceived at the central location of the head . The signal or noise phase shift  leads to a separation 
+between them , which  facilitates easy detection. Conversely, the DCV test assesse s the binaural integration ability 
+and is more complex  than other  dichotic speech tests . The stimuli used in DCV are pairs of pa, ta, ka, ba, da, ga. 
+Two distinct CVs are presented simultaneously to both ears and the subject has to repeat. Right single correct 
+score, left single correct score, and double correct score are calculated.  DCV test  is sensitive to cortical lesions . 
+However , its ability to detect cortical lesions' lateralization (right or left cortical regions)  is limited.  
+The evaluation of the CANS  in individuals with misophonia is still unexplored . Out of the explored processes , 
+Ilaa et al ., studied temporal auditory processing in individuals with misophonia using gap-in-noise, duration 
+pattern, and frequency pattern tests  [13]. The results of their study showed no group differences. To the authors' 
+knowledge , no study has yet explo red the binaural interaction and integration in misophonics. However , literature 
+evidence on the binaural deficits in the tinnitus individuals is available.  It has been reported that binaural 
+processing and working memory ability are affected in individuals with tinnitus  [14]. The pathway involved in 
+tinnitus and misophonia is similar  [8, 15]. There is abnormal activation of the non -classical auditory pathway  in 
+both conditions.  The trigger is perceived in the peripheral auditory system , which is then connected to the 
+subcortical and cortical auditory cent ers. Whereas in tinnitus , the trigger is substituted with an external source 
+and the rest of the path foll ows the same as tinnitus. There have been studies where the authors have reported 
+binaural interaction deficits in individuals with tinnitus  [16]. Another study on tinnitus individuals showed 
+abnormal results on central auditory speech tests , including  pass filtered speech test, staggered spondaic word 
+test, binaural fusion test, and competing sentence test  [17]. According to neuroaudiological model, misophonia 
+and tinnitus have similar pathophysiology so one can expect similar findings in misophonia . There is research 
+evidence that shows abnormal results in auditory objective tests such as significant differences in P1 and N1 
+latency peaks in late latency response test which indicates deficit in cortical auditory processing and reduced N1 
+amplitude in mismatch negativity test [18, 19]. Also , Pellicori reported misophonia individuals may experience 
+central auditory processing deficit since they are hyper  focused  and more concerned about the background noises 
+such as chewing, drinking sounds unlike the individuals without CAPD who can easily tune out background noise 
+and pay attention to signal  [20]. This study aimed  to check for any  difference in binaural integration and binaural 
+interaction between normal -hearing individuals with and without misophonia .
+
+Methods  
+A cross -sectional study of university students with misophonia was carried out. All the participants in the study 
+were inf ormed about the procedure, and informed consent was taken. A total of 60 normal hearing subjects in the 
+age range of 18 -30 years participated in the study. Participants were divided into two groups: Experimental (n=30, 
+1 male and 29 females, age mean=22.03 , SD=2.97 years) who had the diagnosis of misophonia and control (n=30, 
+12 males and 18 females, age mean=22.4; SD=2.28) who did not exhibit misophonia symptoms. Participants in 
+both groups had normal hearing sensitivity, which was confirmed through pure t one audiometry, where all 
+participants had pure tone averages (500 Hz, 1000 Hz, 2000 Hz, and 4000 Hz) of less than 15 dB [21]. A calibrated 
+audiometer was used for the same, and the procedure followed was a modified version of the Hughson -Westlake 
+procedur e [21]. Also, a calibrated tympanometer (GSI Tympstar V 2.0) confirmed normal middle ear functioning 
+with a probe tone of 226 Hz. All the participants had either 'A' or 'As' type tympanogram and acoustic reflex was 
+present within normal range at 500 Hz, 10 00 Hz, 2000 Hz, and 4000 Hz ipsilaterally and contralaterally. 
+Participants with a history of otological complaints, noise exposure, ototoxic medications, tinnitus, hyperacusis, 
+diabetes, or hypertension were excluded from the study. Hyperacusis was ruled out by measuring loudness 
+discomfort level at frequencies between 250 Hz to 8000 Hz and for speech and it was found to be greater than 90 
+dB. 
+Schröder et al.’s diagnostic criteria for misophonia were used to confirm the misophonia diagnosis. The criteria 
+include the presence or anticipation of specific sound that provokes an impulsive aversive physical reaction which 
+starts with irritation or disgust that instantaneously becomes anger, the anger initiates a sense of loss of self -
+control with potential aggre ssive outbursts, and the individual tends to avoid the misophonic situation if not 
+endures the situation with discomfort or anger, whether the anger, disgust cause significant distress and all these 
+criteria should not be better explained by another disord er [2]. The Misophonia Assessment Questionnaire (MAQ) 
+[22] was administered to assess the severity of misophonia. MAQ consists of 21 items evaluated from 0 to 3 
+points depending on how frequently the issue applies (0=not at all, 1=occasionally, 2=often, an d 3=nearly 
+always). Using the total score, misophonia severity is determined. Scores ranging from 0 –11 were subclinical, 
+12–24 mild, 25 –37 moderate, 38 –50 severe, or 51 –63 ex treme. A Google form link was shared with all the 
+participants, through which eac h response was recorded. Only participants with definite misophonia diagnoses 
+(mild and moderate) were considered in this study. The participant's characteristics in both groups are shown in 
+Table 1.  
+DCV test material by Yathiraj (1999) was administered through a Windows media player with a calibrated 
+supraural headphone  [23]. The test is administered in a sound -treated room. The test stimuli include /pa/, /ta/, 
+/ka/, /ba/, /da/, /ga/. It involves the presentation of different CV pairs with a time lag of 0 ms to both ears 
+simultaneously. A free recall task was carried out in which the participants were required to attend and report 
+both syllables presented. Right single score, left single score , and dou ble correct scores were calculated for each 
+participant.  A schematic diagram for the following is shown in Figure 1 . 
+MLD was administered through a calibrated audiometer  in a sound -treated room . It was done at 500 Hz with a 
+pulse mode of 2.5 Hz , and the presentation level was kept at 50 dB HL. Three conditions of MLD , SoNo,  SπNo, 
+and SoN π, were tested . 'π' represents when source is out of phase and 'o' represents when the source is in phase.  
+The participants were instructed to indicate when they heard the pulsed tone , and the thresholds were noted. A 
+schematic diagram for the following is shown in Figure 2.  
+ 
+Statistical analys es 
+The IBM Statistical Package for Social Sciences (SPSS) version 25.0 ( IBM SPSS Corp.; Armonk, NY, USA ) 
+was used to analyse  the gathered data. The Shapiro -Wilk normality test was used to determine whether the data 
+distribution  was normal. To assess whether there were any significant differences between the control and 
+experimental groups, inferential statistics were use d. Independent t -tests were conducted on parametric data , and 
+Mann -Whitney U -tests on non -parametric data.  
+ 
+Results  
+ 
+Comparison of binaural integration abilities between the two groups  
+Shapiro Wilk 's test showed that DCV data were normally distributed . The  results of  the independent t -test showed 
+t(58)=0.77, p>0.05  for double correct score, t(58)=0.27, p>0.05  for right single correct score, t(58)=0.37, p>0.05 
+for left single correct score. This indicated no statistically significant difference between misop honia and the 
+control group for all three conditions. The mean and standard deviation for both groups are shown in Figure 3.
+
+Comparison of bina ural interaction  abilities between the two groups  
+Shapiro Wilk 's test found that the data were not normal. Hence , a suitable non -parametric test was chosen. Mann 
+Whitney U test was administered , and the results showed /Z/=1.08, p>0.05. This revealed no statistically 
+significant difference bet ween misophonia and the control group. The mean and standard deviation for both 
+groups are shown in Figure 4. 
+For each group, right and left single  correct scores were compared. Dependent t -test was administered and it 
+showed that f or the control group, t( 29)=0.71,  p>0.05 and for misophonia , it was found to be t(29)=0.9, p>0.05.  
+This revealed no statistically significant difference between the ears in both groups.  
+ 
+Discussion  
+The study's outcome showed no significant differences in the M LD test and DCV test, which implies that binaural 
+interaction and binaural integration are unaffected. This study considered  only 30 misophonia participants with 
+mild and moderate severity . Hence , this evidence demonstrates that individuals with these severities normally 
+process binaural interaction and integration . Future research can include a larger pool of participants and a higher 
+degree of misophonia severity. It is also essential to consider that the tests were conducted in an ideal situation 
+optimum for listening  in a quiet environment. These tests could be administered in adverse listening conditions , 
+such as lower signal -to-noise  ratios , in the presence of different types of noise , which would be more challenging 
+to the participants . 
+Studies on misophonia have revealed no peripheral impairments  [3, 24]. fMRI research showed hyperactivation 
+of the right insula, right anterior cingulate cortex, right superior temporal cortex , and anterior insular cortex  [7, 
+25]. Additionally, misophonia individuals have stronger mirroring neurons than the control group, and these 
+neurons are more sensitive to trigger noises  [26]. This evidence  indicate s abnormalities at the cortical level in 
+misophonia , but the present study shows no abnormalities in binaural integration  and inter action behaviorally . 
+Even though tinnitus and misophonia share a common pathophysiology, auditory processing is affected 
+differently. In a study by Sanjay et al.  it was found that interaural level difference, interaural time difference, and 
+DCV test scores are poorer in the tinnitus group assessing binaural interaction and binaural integration [14]. In 
+tinnitus individuals, habituation is affected compared to the control group, shown by N1 -P2 amplitude being less 
+pronounced [27]. Another research that studied binaural processing in tinnitus individuals through Auditory 
+Brainstem Response (ABR) reported that in both monaural and binaural recording, wave I, III, and V had delayed 
+latencies, and wave I and III amplitudes were reduced [16]. Also, when they compared Binaural Interaction 
+Component )BIC(  between both groups, they observed earlier BIC latency for wave I and V in the control group, 
+whereas, with respect to amplitude, they did not find any significant differences. Another ABR study that 
+evaluated tinnitus based on occasional and constant tinnitus demonstrated that constant tinnitus individuals had 
+delayed wave V latency compared to occasional tinnitus individ uals and the control group [28]. Joo et al. studied 
+the effect of tinnitus duration on ABR and reported that individuals with subacute tinnitus duration (1 –6 months) 
+had reduced wave V amplitude and delayed wave V latency compared to individuals with acute  tinnitus duration 
+(<1 month) [29]. Also, they reported prolonged interpeak latency I -V during the subacute phase compared to the 
+acute and chronic phases (>6 months). This indicated that after one month of symptoms, the compensatory 
+reaction to tinnitus s ignificantly reduced. Other ABR studies on tinnitus reported reduced amplitude of wave I 
+and V, prolonged wave I, prolonged interpeak latency I -V, and increased interaural latency difference of wave V 
+[30, 31]. A literature review of salicylate and noise -induced tinnitus on rat models showed reduced amplitude of 
+wave I in both conditions whereas, increased amplitude of wave IV was observed in salicylate -induced tinnitus 
+but not in noise -induced tinnitus [32]. The superior olivary complex is an essential str ucture in binaural processing 
+and auditory brainstem responses, and all the abnormal findings in ABR can be attributed to the effect of binaural 
+processing. Aryal and Prabhu reported no abnormal ABR findings in individuals with misophonia, supporting 
+the findings obtained in the present study [33]. In most tinnitus complainers, tinnitus experienced is a continuous 
+phenomenon, whereas misophonia gets triggered intermittently. This might be one of the reasons why binaural 
+processing is affected differently in  these groups. There are neurophysiological evidences such as reduced N1 
+amplitude in mismatch negativity, and significant differences in P1 and N1 latency which indicates differences 
+in central auditory processing compared to the control group [18, 19] Al so, according to Pellicori, those with 
+misophonia may have a central auditory processing deficit because they are more focused and aware of the 
+background noises compared to individuals without CAPD who can easily filter out background noises [20]. The 
+tests used in this study were simple and the severe misophonia group was not considered. Hence, more 
+complicated tests and on severe misophonia can shed more light on this condition. Since binaural integration and
+
+interaction findings are different in individ uals with tinnitus and misophonia, we can hypothesize that there could 
+be some difference in the mechanism of binaural processing between these groups.  
+ 
+Conclusion  
+The present study is the first to study binaural interaction and  integration in misophonia i ndividuals. The above -
+mentioned processes  were investigated using masking level difference and dichotic consonant  vowel , 
+respectively. The results showed that there are no significant differences between individuals with and without 
+misophonia. A few limitations of the study were the nu mber of participants considered and  the misophonia 
+severity assessed , which was only t o a moderate degree.  Also, entire central auditory processing tests were not 
+administered in this study, more studies on other central auditory processes are essential . Hence, f urther research  
+on misophonia tackling these limitations could be undertaken.  
+ 
+Ethical Considerations  
+ 
+Compliance with ethical guidelines  
+The study  obtained  ethical  committee  approval  from  the institution  ethical  review  board  with approval  reference  
+SH/ERB/RP/2022/32.  All the participants  provided  informed  consent  to participate  in the study.  
+ 
+Funding  
+This is a non -funded research.  
+ 
+Authors' contributions  
+HVM: Study design, acquisition of data, and drafting the manuscript; KVN: Study design, supervision and critical 
+revision of manuscript; PP: Study design, supervision, statistical analysis, interpretation of the results and critical 
+revision of the manuscript.  
+ 
+Conflict of interest  
+There is no conflict of interest to disclose.  
+ 
+Acknowledgments  
+The authors  acknowledge  with gratitude  Prof.  M Pushpavathi,  director,  All India  Institute  of Speech  and Hearing,  
+Mysore  affiliated  to the University  of Mysore  for permitting  to conduct  the study  at the institute.  The authors  also 
+like to acknowledge  the participants  for co-operation.  
+ 
+References  
+1. Jastreboff MM, Jastreboff PJ. Components of decreased sound tolerance: hyperacusis, misophonia, phonophobia. 2001; Available from: 
+http://www.audiologyonline.com . Dec 13, 2022.  
+2. Schröder A, Vulink N, Denys D. Misophonia: diagnostic criteria for a new psychiatric disorder. PLoS One. 2013;8(1):e54706. 
+[DOI: 10.1371/journal.pone.0054706 ] 
+3. Edelstein M, Brang D, Rouw R, Ramachandran VS. Misophoni a: physiological investigations and case descriptions. Front Hum Neurosci. 
+2013;7:296. [ DOI: 10.3389/fnhum.2013.00296 ] 
+4. Rouw R, Erfanian M. A Large -Scale Study of Misophonia. J Clin Psychol . 2018;74(3):453 -79. [DOI: 10.1002/jclp.22500 ] 
+5. Jager I, de Koning P, Bost T, Denys D, Vulink N. Misophonia: Phenomenology, comorbidity and demographics in a large sample. P LoS One. 
+2020;15(4):e0 231390. [ DOI: 10.1371/journal.pone.0231390 ] 
+6. Schröder A, van Wingen G, Eijsker N, San Giorgi R, Vulink NC, Turbyne C, et al. Misophonia is associated with altered brain a ctivity in the 
+auditory cortex and salience network. Sci Rep. 2019;9(1):7542. [ DOI: 10.1038/s41598 -019-44084 -8] 
+7. Kumar S, Tansley -Hancock O, Sedley W, Winston JS, Callaghan MF, Allen M, et al. The Brain  Basis for Misophonia. Curr Biol. 
+2017;27(4):527 -33. [DOI: 10.1016/j.cub.2016.12.048 ] 
+8. Aryal S, Prabhu P. Understanding misophonia from an audiological perspective: a systematic review. Eur Arch Otorhinolaryngol. 
+2023;280(4):1529 -45. [DOI: 10.1007/s00405 -022-07774 -0] 
+9. Bellis TJ, Bellis JD. Central auditory processing disorders in children and adults. Handb Clin Neurol. 2 015;129:537 -56. [DOI: 10.1016/B978 -
+0-444-62630 -1.00030 -5] 
+10. Spivak LG, Seitz MR. Response asymmetry and binaural interaction in the auditory brain stem evoked response. Ear Hear. 1 988;9(2):57 -64. 
+[DOI: 10.1097/00003446 -198804000 -00002 ] 
+11. Domitz DM, Schow RL. A new CAPD battery --multiple auditory processing assessment: factor analysis and comparisons with SCAN.  Am J 
+Audiol. 2000;9(2):101 -11. [DOI: 10.1044/1059 -0889(2000/012) ] 
+12. Olsen WO, Noffsinger D, Carhart R. Masking level differences encountered in clinical populations. Audiology. 1976;15(4 ):287 -301. 
+[DOI: 10.3109/00206097609071789 ] 
+13. Ilaa K,  Soylemez E, Yilmaz N, Ertugrul S, Turudu S, Karaboya E, et al. Assessment of temporal auditory processing in individuals with  
+misophoni a. Hear Balance Commun. 2023;21(4):286 -90. [DOI: 10.1080/21695717.2023.2169373 ] 
+14. Sanjay  S, Aryal S, Venkateswaran NK, Prabhu P. Binaural Processing and Auditory Working Memory in Individuals with Tinnitus Having 
+Normal Hearing Sensitivity. J Int Adv Otol. 2023;19(3):175 -81. [DOI: 10.5152/iao.2023.22990 ] 
+15. Jastreboff PJ. The Neurophysiological Model of Tinnitus. In: Snow JB, editor. Tinnitus: Theory and Management. Hamilton: BC D ecker Inc; 
+2004. p. 96 -106.
+
+16. Gabr TA, Lasheen RM. Binaural Interaction in Tinnitus Patients. Audiol Neur ootol. 2020;25(6):315 -22. [DOI: 10.1159/000507274 ] 
+17. Goldstein B, Shulman A. Central auditory speech test findings in individuals with subjective idiopathic tinnitus. Int Tinnitu s J. 1999;5(1):16 -
+9. 
+18. Schröder A, van Diepen R, Mazaheri A, Petropoulos -Petalas D, Soto de Amesti V, Vulink N, et al. Diminished n1 auditory evoked potentials 
+to oddball stimuli in misophonia patients. Front Behav Neurosci. 2014;8:123.  [DOI: 10.3389/fnbeh.2014.00123 ] 
+19. Aryal S, Prabhu P. Auditory cortical functioning in individuals with misophonia: an electrophysiological investigation. Eur A rch 
+Otorhinolaryngol. 2023. [ DOI: 10.1007/s00405 -023-08318 -w] 
+20. Pellicori, J. Clinician's guide to misophonia. AudiologyOnline, Article 27026. 2020. Retrieved from https://www.au diologyonline.com . June 
+15 2020.  
+21. Carhart R, Jerger JF. Preferred Method For Clinical Determination Of Pure -Tone Thresholds. J Speech Lang Hear Res. 1959;24(4):330 -45. 
+[DOI: 10.1044/JSHD.2404.330 ] 
+22. Johnson  M, Dozier T. Misophonia assessment questionnaire (MAQ). Revised by Dozier T. Livermore, CA: Misophonia Institute ; 2013.  
+23. Yathiraj A. The Dichotic CV test. Developed at All India Institute of Speech and Hearing, Mysuru. 1999.  
+24. Aazh H, Erfanian M, Danesh AA, Moore BCJ. Audiological and Other Factors Predicting the Presence of Misophonia Symptoms Among a 
+Clinical Population Seeking Help for Tinnitus and/or Hyperacusis. Front Neurosci. 2022;16:900065.  [DOI: 10.3389/fnins.2022.900065 ] 
+25. Eijsker N, Schröder A, Smit DJA, van Wingen G, Denys D. Neural Basis of Response Bias on the Stop Signal Task in Misophonia. Front 
+Psychiatry. 2019;10:765. [ DOI: 10.3389/fpsyt.2019.00765 ] 
+26. Kumar S, Dheerendra P, Erfanian M, Benzaquén E, Sedley W, Gander PE, et al. The Motor Basis for Misophonia. J Neurosci. 
+2021;41(26):5762 -70. [DOI: 10.1523/JNEUROSCI.0261 -21.2021 ] 
+27. Walpurger V, Hebing -Lennartz G, Denecke H, Pietrowsky R. Habituation deficit in auditory event -related potentials in tinnitus complainers. 
+Hear Res. 2003;181(1 -2):57 -64. [DOI: 10.1016/s0378 -5955(03)00172 -2] 
+28. Edvall NK, Mehraei G, Claeson M, Lazar A, Bulla J, Leineweber C, et al. Alterations in auditory brain stem response distingui sh occasional 
+and constant tinnitus. J Clin Invest. 2022;132(5):e1550 94. [DOI: 10.1172/JCI155094 ] 
+29. Joo JW, Jeong YJ, Han MS, Chang YS, Rah YC, Choi J. Analysis of Auditory Brainstem Response Change, according to Tinnitus Dur ation, 
+in Patients with Tinnitus with Nor mal Hearing. J Int Adv Otol. 2020;16(2):190 -6. [DOI: 10.5152/iao.2020.7951 ] 
+30. Gabr TA. Auditory brainstem response audiometry in tinnitus patients. Egypt J Ear Nose Throat Allied Sci. 2011;12(2 ):115 -20. 
+[DOI: 10.1016/j.ejenta.2011.08.005 ] 
+31. Konadath S, Manjula P. Auditory brainstem response and late latency response in individuals with tinnitus having normal hearing. Intractable 
+Rare Dis Res. 2016;5(4):262 -8. [DOI: 10.5582/irdr.2016.01053 ] 
+32. Domarecka E, Olze H, Szczepek AJ. Auditory Brainstem Responses (AB R) of Rats during Experimentally Induced Tinnitus: Literature 
+Review. Brain Sci. 2020;10(12):901. [ DOI: 10.3390/brainsci10120901 ] 
+33. Aryal S, Prabhu P. Auditory brainstem functioning in indiv iduals with misophonia. J Otol. 2023;18(3):139 -45. 
+[DOI: 10.1016/j.joto.2023.05.006 ]
+
+Figure 1 . Schematic diagram for dichotic consonant -vowel test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 . Schematic diagram for masking level difference test
+
+Figure 3 . Mean and standard deviation of dichotic consonant -vowel  test for control and misophonia group . DCV;  dichotic consonant -
+vowel  
+ 
+ 
+Figure 4. Mean and standard deviation of masking level difference for control and misophonia group . MLD; masking level difference
+
+Table 1. Demographic and basic audiological findings of the participants  
+ 
+ Individuals with misophonia  Individuals without misophonia  
+Mean age of participants  22.03±2. 97 years  22.4±2.28 years  
+Number of participants  30 30 
+Number  of ears  60 60 
+Tympanogram type  ‘A’ type ‘A’ type 
+Mean pure tone average  9.81±2.42  10.03±2.21  
+Average ipsilateral reflex thresholds  87.63±0.86  89.18±0.73  
+Average contralateral reflex thresholds  98.42±0.81  99.07±091  
+Misophonia assessment questionnaire 
+scores  Mild: 16.85±2.82  
+Moderate: 31.06±8.44  Nil

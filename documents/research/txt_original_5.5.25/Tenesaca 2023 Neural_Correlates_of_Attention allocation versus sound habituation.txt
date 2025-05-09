@@ -1,0 +1,803 @@
+i  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neural correlates of attention allocation versus sound habituation  
+in  
+Misophonia  
+by  
+ 
+Jeanpierre Tenesaca  
+ 
+ 
+ 
+A Master’s Thesis submitted in partial fulfillment of the requirements for the MS degree in 
+Biomedical Sciences, at the Graduate School of Biomedical Sciences, Icahn School of Medicine 
+at Mount Sinai 202 2
+
+ii  
+ 
+2022  
+ 
+Jeanpierre Tenesaca  
+ 
+All Rights Reserved
+
+iii This manuscript has been read and accepted by the Graduate Faculty of the Mount Sinai 
+Graduate School of Biomedical Sciences, in satisfaction of the thesis requirements for the 
+Master’s degree.  
+ 
+ 
+Committee Members  
+ 
+        
+    
+      01-13-2023          
+       Date  
+ 
+_________________________________                      01-13-2023 
+            Thesis Co -Advisor - Dr. Jennifer Foss -Feig           Date  
+ 
+ 
+Dr. Muhammad Parvez  
+ 
+ 
+Dr. Nicolas Davidenko  
+ 
+ 
+Dean of Masters in Biomedical Sciences  
+ 
+___________________________________      01-13-2023  
+              Dean - Dr. Marta Filizola             Date  
+ 
+Icahn School of Medicine at Mount Sina i
+
+iv Abstract  
+ 
+Neural correlates of attention allocation versus sound habituation in Misophonia  
+By 
+Jeanpierre Tenesaca  
+ 
+Advisors: Dr. Daniela Schiller & Dr. Jennifer Foss -Feig 
+ 
+ Misophonia  is characterized by a lowered tolerance coupled with a defensive reaction to 
+socially-related auditory stimuli. Given the current gap in standardized diagnosis and treatment 
+methods, there is a critical need to understand the processes underlying aversive auditory 
+processing in misophonia. To address this, we used EEG to measure event -related potentials 
+(ERPs), analyzing N1 (the registration of sensory input  allocation of pre -attention) and P2 (the 
+classification of stimuli of pre -attention) amplitudes. We examined whether misophonia triggers 
+paired with either mechanical vs. social vis ual cues elicit attention allocation and/or habituation 
+effects in comparison to autism spectrum disorder, and typically developing adults. Participants 
+with misophonia displayed greater registration of sensory input  (N1) and decreased classification 
+of stimuli (P2) to first social cues. For the second cues, there was no significant display of context 
+specific habituation to second cues despite source differences. These results suggest that adults 
+with misophonia have an exaggerated tendency to focus on soc ial cues, while reducing attention 
+towards the social cues when firstly registering sensory  inputs, possibly as a coping mechanism.
+
+v Preface  
+ 
+ This thesis allowed me to get in touch with the humanity of what research is all about; 
+learning what goes beyond  the requirements of a  master’s degree . This opportunity allowed me 
+to build relationships and lend a shoulder to lean on to those who had no one who believed in 
+their truth s. As part of my research, I had the privilege of meeting people who suffered from 
+misophonia and allowed themselves to be open about their struggles to help others who had 
+suffered the same way. Spending over a year listening to their stories motivated my ef forts 
+toward finding an answer for them. As a result of the present study, we can open more 
+discussions and questions about how to help people with Misophonia. Hopefully, one day, 
+misophonia will finally be understood enough to dismantle any hesitation in believing its 
+beholder.
+
+vi Table of Contents  
+ 
+Chapter 1. Understanding Sensory Processing in Misophonia  
+Introduction…………………………………………………………………….……………….. 1 
+Chapter 2: Misophonia Severity Assessments & EEG Methodology  
+Participant recruitment…………………………………………………………………….……. 4 
+Misophoni a and Psychiatric Measurements ……………………………………………………. 5 
+Chapter 3. Auditory Attention vs. Habituation to Auditory Misophonia Triggers  
+Introduction……………………………………………………………………………………… 9 
+Methods………………………………………………………………………………………… 10
+Results………………………………………………………………………………………… ..14 
+Discussion…………………………………………………………………………………… …24  
+Conclusions………………………………………………………………………………..…… 25 
+Bibliography………………………………… ……………………………………………..… ...26
+
+vii Figures  & Tables  
+Chapter 2  
+Table 1. Participant population and personality surveys .…………………………...………… .5 
+Table 2. Misophonia Survey Correlations.………………………………………………..… .…8 
+Chapter 3  
+Figure 1. Misophoni a visual -auditory cue habituation task……………….…………………… 10 
+Figure 2. ERP Acquisition and Segmentation….…………….……….……………...………… 11 
+Figure 3. Post -Task Ratings………….…………….……….…………………….…….……… .13 
+Table 4.  Misophonia Surveys & Post -Task Ratings Correlations…………………………… ...14 
+Figure 4. First and Second ERPs to social vs mechanical sources ……………………...……… 15 
+Figure 5. N1: First and Second ERP Source Difference Analysis …………………..… ....……. 17 
+Figure 6. P2: First and Second ERP Source Difference Analysis ……… ……………………… 19 
+Figure 7. N1 and P2: Habituation Ratio Differentials……………………………… …….…… ..22
+
+1 Chapter 1: Introduction  
+ 
+Misophonia  is a disorder that involves reduced tolerance to specific sounds made by 
+other people, resulting in an aversive response that may be out of proportion to the presence of 
+the irritant stimulus (Brout et al., 2018). Auditory stimuli may vary, including snif fing, chewing, 
+nasal/accenting, and repetitive sounds not exclusively produced by the body (Erfanian, 2018). 
+The affected individual's responses of disgust, irritation, rage, or anxiety are typically first 
+observed in childhood or early adolescence (Schröd er et al., 2013). An elevated physiological 
+response and emotional reactivity in individuals with misophonia can lead to debilitating 
+impairments to daily tasks. Avoidant and maladaptive behaviors can interfere with their 
+everyday function, causing impairm ents to their well -being and interpersonal relationships as 
+well (Brout et al., 2018).  
+Despite the rise in research toward understanding misophonia, there is still a lack of 
+characterization of its causes, mechanisms, severity, and comorbidities (Brout et al., 2018). An 
+estimated 20% of individuals may experience a form of misophonia (Wu et al., 2014), with 6% 
+experiencing severe misophonia (Ferrer -Torres & Giménez -Llort., 2021). Misophonia research 
+has been conducted for a little over 20 years, but the upt ake has been slow, with the literature on 
+misophonia -specific studies not surpassing 100 peer -reviewed papers as of 2022 (Ferrer -Torres 
+& Giménez -Llort., 2022). Since misophonia lacks a classification and etiology, it might have 
+comorbid hearing pathologie s or mental disorders, resulting in alternative diagnoses in many 
+misophonia patients (Potgieter et al., 2019). With no established DSM -5 or ICD criteria for 
+misophonia, there is difficulty in providing clinically established diagnosis and treatment 
+method s for this disorder. Standardized comparison between study cohorts is impossible without 
+a fundamental consensus on evaluating misophonia. No psychometrically validated measurement
+
+2 tools can rigorously assess the effectiveness of varying treatment methods (Edelstein et al., 
+2013).  
+Through the Delphi process, a coalition of experts has redefined the concept of 
+misophonia by assessing the etiology of reactions to misophoni a triggers, influences on 
+reactions, functional impairments, and their relationship to o ther disorders and conditions 
+(Swedo et al., 2022). Current research has identified that misophonia is not a hearing disorder, 
+since there is no relationship between reactivity and hearing thresholds prevalent among 
+individuals with normal hearing, hard -of-hearing, or auditory pathologies (Taylor, 2017). 
+Misophonia can develop without any peripheral or central auditory pathologies, and due to the 
+specificity of the misophoni a triggers, it is unlikely to arise from alterations in the auditory 
+system (Møller. , 2011). Furthermore, misophonia can present with neurological or psychiatric 
+conditions or disorders, with high co -occurrence with anxiety, post -traumatic stress disorder, 
+obsessive -compulsive disorders, and autism spectrum disorders (Taylor, 2017).  
+Due to the social nature of misophonia triggers, studies have suggested that social 
+impairments play an essential role in aversive responses to misophonia triggers  (Taylor et al., 
+2014). The levels of social dysfunction and sensory processing alterations migh t interact to affect 
+the levels of misophonia severity. Understanding the fundamentals of social processing allows us 
+to identify how neutral auditory cues are processed compared to misophoni a triggers.  
+Within our everyday lives, the sounds of honking cars, someone chewing their gum next 
+to us, or someone slurping their drink can firstly be noticed but eventually filtered out of our 
+attention to focus on the task at hand. The process that allows the filtering of auditory stimuli is 
+attention all ocation. This essential cognitive processing mechanism allows individuals to face 
+conflicting stimuli input by generating, maintaining, and adjusting a set of goal -directed
+
+3 processing tactics. Attention allocation reflects top -down processing and regulator y control, as 
+they interact with various stimuli (Appelbaum et al., 2012). In misophonia, we suspect an 
+impairment in attention allocation reduces the filtering of auditory cues, turning what would be 
+considered a standard auditory stimulus into an aversiv e auditory cue that cannot be ignored.  
+Through first attention allocation, a habituation response developed a fundamental form 
+of learning manifested by decreased neuronal responses to repeated sensory stimulations 
+(Mutschler et al., 2010). Auditory habit uation allows people to tune out non -essential, repetitive 
+auditory stimuli and focus on sounds that demand attention. It can occur regularly in our 
+everyday lives without our conscious awareness, like the clicking of a ticking clock. At the 
+behavioral lev el, habituation can elicit reduced emotional reactions to repeated affective stimuli, 
+a process that may be particularly impacted in misophonia.  
+This thesis examines attention allocation vs. auditory habituation in misophonia and 
+whether these processes v ary as a function of context (when the sound source is mechanical or 
+social). We examined sensory processing using event -related potentials (ERP) recorded with 
+electroencephalography (EEG) in participants with misophonia, compared to adults with autism 
+spectrum disorder (ASD) as a clinical control and typically -developed (TD) adults as a 
+comparative baseline representation of normative auditory processing.
+
+4 Chapter 2: Misophonia Severity Assessments  
+Participant recruitment  
+Participants between the age s of 18 and 54 provided written informed consent, as 
+approved by the Institutional Review Board at the Icahn School of Medicine at Mount Sinai. The 
+author asserts that all procedures contributing to this work comply with the ethical standards of 
+the releva nt national and institutional committees on human experimentation and with the 
+Helsinki Declaration of 1975, as revised in 2008.  
+Participants included 16 individuals with moderate to severe misophonia symptoms 
+(Mean age = 31.3 years, SD = 7.9), 18 with ASD (Mean = 25.6 years, SD = 6.4), and 14 TD 
+controls (Mean = 28.2 years, SD = 8.4). A one -way ANOVA did not identify any significan t 
+differences among groups in terms of age [F(2, 45) = 2.36, p = 0.07], and a Chi -Square analysis 
+confirmed no significant sex differences among groups [X 2 (2, N = 48) = 2.29, p = 0.32] (Table 
+1). Moderate symptoms of misophonia were defined as participan ts receiving the following 
+minimum misophonia scores on at least two of four surveys: Misophonia Questionnaire (MQ): 
+x>7 (MQ; Wu et al., 2014), Amsterdam Misophonia Scale (AMISOS): x>9 (Schröder et al., 
+2013), Amsterdam Misophonia Scale Revised (AMISOS -R): x>23 (AMISOS -R; Jager et al., 
+2020), and Misophonia Assessment Questionnaire (MAQ): x>21 (MAQ; Johnson, 2014). ASD 
+and TD participants required a misophonia survey score below the threshold of moderate 
+severity. ASD diagnoses were confirmed by the Autism  Diagnostic Observation Schedule - 2 
+(ADOS -2, Lord et al., 2012), administered by a trained and research -reliable clinician, in 
+conjunction with developmental history and clinical judgment applied to DSM -5 criteria. 
+Neurotypical controls had no psychiatric  disorders and no first -degree relatives with ASD.
+
+5 We recruited misophonia participants through online advertisements on the misophonia 
+support group pages (Reddit and Facebook) and online research participant recruitment sites. 
+ASD and TD participants wer e recruited via recruitment websites, campus flyers, and online 
+forums. Potential participants opted to participate in the study based on a brief description 
+informing them that they would need to complete surveys assessing their mood, personality, and 
+sensitivity to certain sounds, with a compensation of $20.00 per hour. Clinical staff and research 
+specialists conducted psychological assessments and EEG sessions.  
+ 
+Misophoni a and Psychiatric Measurements  
+Table 1: Participant population and surveys scores  
+Group Mean +/ - SD 
+ Misophonia  
+(n =16 )  ASD  
+(n = 18)  TD 
+(n = 14)  One-way 
+ANOVA  p-Value  
+Age (years)  31.3 +/ - 7.9 25.6 +/ - 6.4 28.2 +/ - 8.4 F(2, 45) = 2.36  p = 0.11  
+Sex (M/F)  6M/10F  10M/8F  9M/5F  X 2 (2, N = 48) = 2.29  
+(Chi-Square Test)  p = 0.32  
+FSIQ -2 116.75 +/ - 14.98  116.94 +/ - 
+12.32  
+(16 out of 18)  121.71+/ - 17.8 F(2, 38) = 0.59  p = 0.56  
+Misophonia Questionnaire  
+(MQ)  8.36 +/ - 1.89  5.56 +/ - 2.0 2.07 +/ - 1.3 F(2, 45) = 48.7  p = 5.6E -12 
+Amsterdam Misophonia Scale  
+(AMISOS)   12.9 +/ - 2.6  4.94 +/ - 3.0 0.43 +/ - 0.94 F(2, 45) = 13.3  p = 2.9E -5 
+Amsterdam Misophonia Scale 
+Revised  
+(AMISOS -R)  25.3 +/ - 7.01  8.83 +/ - 5.8 2.07 +/ - 2.0 F(2, 45) = 72.5  p = 8.4E -15 
+Misophonia Assessment 
+Questionnaire  
+(MAQ)   40.7 +/ - 10.4 9.44 +/ - 11.6 0.50 +/ - 1.2 F(2, 45) = 79.2  p = 1.8E -15
+
+6 Broad Autism  
+Phenotype Questionnaire  
+(BAPQ)  3.11 +/ - 0.7 3.70 +/ - 0.7 2.54 +/ - 0.43 F(2, 45) = 13.3  p = 2.9E -5 
+Fear of Negative Evaluation  
+(FNE)  45.1 +/ - 9.4 44.3 +/ - 10.5 33.7 +/ - 7.3 F(2, 45) = 6.89  p = 2.4E -3 
+Liebowitz Social Anxiety 
+Scale Avoidance score  
+(LSAS)  29.8 +/ - 13.8 34.8 +/ - 15.0 20.4 +/ - 10.8 F(2, 45) = 4.60  p  = 0.02  
+State -Trait Anxiety Inventory 
+T-score  
+(STAI)  51.1 +/ - 12.6 54.4 +/ - 8.6 36.5 +/ - 10.4 F(2, 45) = 12.2 p = 5.9E -5 
+Zung Self -Rating Depression 
+Scale Score  
+(SDS)  44.1 +/ - 10.6 45.2 +/ - 7.8 32.2 +/ - 8.5 F(2, 45) = 9.49  p = 3.6E -4 
+Obsessive Compulsive 
+Inventory Score  
+(OCI-R) 10.6 +/ - 6.2 25.3 +/ - 15.0 7.57 +/ - 6.3 F(2, 45) = 13.6  p = 2.4E -5 
+Avoidant Personality 
+Disorder Impairment Scale 
+Score  
+(AVPD -IS) 17.1 +/ - 5.0 17.4 +/ - 4.9 11.9 +/ - 5.6 F(2, 45) = 5.32  p = 8.4E -3 
+Lehman Social Relations 
+Objective: Social Contact 
+Score  
+(LSRO)  21.4 +/ - 4.3 19.1 +/ - 4.2 23.6 +/ - 3.1 F(2, 45) = 5.10  p = 0.01 
+Lehman Social Relations 
+Subjective: Satisfaction with 
+Social Relations  
+(LSRS)  28.4 +/ - 7.4 32.5 +/ - 5.9 35.6 +/ - 4.2 F(2, 45) = 5.47  p = 7.4E -3 
+ 
+We administered four misophonia surveys to assess misophoni a traits among the three 
+subject groups. A commonly used method of measuring misophonia severity is the Misophonia 
+Questionnaire (MQ; Wu et al., 2014), a self -report measurement consisting of three subscales in 
+a Likert -type scale: (a) frequency of specific  trigger sounds, (b) frequency of certain emotions 
+and behavioral responses to trigger sounds, and (c) overall perception of the severity of sound 
+sensitivities. A score above 6 has been proposed to indicate clinically significant symptoms 
+(MQ; Wu et al., 2014). Within our study we only assessed one question of the MQ,  severity of 
+sound sensitivity from 1 (minimal) to 15 (very severe). Severity of misophonia symptoms was
+
+7 classified as follows: Minimal (1 -3), Mild (4 -6), Moderate (7 -9), Severe sound sensiti vities (10 -
+12), Very severe sound sensitivities (13 -15).  
+Participants also completed the Amsterdam misophonia Scale (A -MISO -S), a 7 -item self -
+report measure assessing the severity of misophonia symptoms, including preoccupation with 
+trigger sounds, negat ive emotional responses to trigger sounds, lack of thought control, and 
+interference with daily life (Schröder et al., 2013). The first six questions are scored on a 5 -point 
+Likert scale (0 -4), whereas the last ask for free responses. The AMISOS is an adap ted version of 
+the Yale -Brown Obsessive -Compulsive Scale (Goodman et al., 1989). Total scores range from 0 -
+24, with score categories of 0 -4 (subclinical), 5 -9 (mild), 10 -14 (moderate), 15 -19 (severe), and 
+20-24 (extreme; Schröder et al., 2013).  
+We also us ed an updated version of the AMISOS called the Amsterdam Misophonia 
+Scale -Revised (AMISOS -R; Jager et al., 2020); it now incorporates physical movements of 
+others as misophoni a stimuli.  
+Lastly, the Misophonia Assessment Questionnaire (MAQ; Johnson, 2014),  is a 21 -item 
+measure that assesses impact of misophonia. In one study (Dozier, 2015), the sum of the 
+individual's score in the MAQ was used to rate the severity of symptoms as mild (1 –21), 
+moderate (22 –42), or severe (43 –63); a Likert -type scale of 0 (not  at all/least) to 3 (all the 
+time/most) is used to score the items.  
+In order to compare misophonia to other psychiatric conditions, participants also 
+completed the Broad Autism Spectrum Questionnaire (BAPQ; Hurley et al., 2007), Fear of 
+Negative Evaluatio n (Leary,1983), Liebowitz Social Anxiety Scale (LSAS Avoidance questions; 
+Liebowitz, 1987), State -Trait Anxiety Inventory (STAI Trait questions; Skapinakis, 2014), Zung 
+Self Rating Depression Scale (SDS; Zung, 1986), Obsessive -Compulsive Inventory -Revised
+
+8 (OCI -R; Foa et al., 2002), Avoidant Personality Disorder Impairment Scale (AvPD -IS; Liggett et 
+al., 2017), and Lehman's Social Relations Subjective & Objective Score (Lehman, A.F. 1983) 
+(Table 1 ). Correlation analysis between all additional psychiatric sur veys and misophonia 
+surveys were assessed to identify the presence of comorbidities (Table 2) . 
+We conducted a series of IQ tests suitable for the age and developmental level of the 
+misophonia and ASD and TD groups, including the Wechsler Abbreviated Scale of Intelligence 
+– Second Edition (Wechsler, 2011). Only 16 out of 18 ASD participants were able to complete 
+the IQ assessment.  
+ 
+Table 2: Misophonia Survey Correlations  
+ BAPQ  FNE  LSAS  STAI  SDS AVPD -IS LSRS  
+MQ r(46) = .225  
+p = .124  r(46) = .420  
+p = .003  
+(+) r(46) = .293  
+p = .043  
+(+) r(46) = .432  
+p = .002  
+(+) r(46) =.476  
+ p < .001  
+(+) r(46) = .361  
+p = .012  
+(+) r(46) = .438  
+p = .002  
+(-) 
+AMISOS  r(46) = .913  
+p < .001  
+(+) r(46) = .378  
+p = .008  
+(+) r(46) = .326  
+p = .024  
+(+) r(46) = .378   
+p = .008  
+(+) r(46) = .402  
+p = .005  
+(+) r(46) = .358  
+p = .013  
+(+) (r(46) = .483  
+p < .001  
+(-) 
+AMISOS -R r(46) = .913  
+p < .001  
+(+) r(46) = .409  
+ p = .004  
+(+) r(46) = .227  
+ p = .120   r(46) =.394  
+p = .006  
+(+) r(46) =.425  
+p = .003  
+(+) r(46) = .353  
+p = .014  
+(+) r(46) = .443  
+p = .002  
+(-) 
+MAQ  r(46) = .867  
+p < .001  
+(+) r(46) = .426  
+p = .003  
+(+) r(46) = .237  
+ p = .104  r(46) = .426  
+p = .003  
+(+) r(46) = .42  
+p = .003  
+(+) r(46) = .388  
+p = .006  
+(+) r(46) = .451  
+p = .001  
+(-) 
+ 
+Table 2  
+Misophonia, ASD, & TD sum survey correlations versus personality surveys. (+) Positive 
+Correlation & ( -) Negative Correlation , shaded regions indicated no correlations.
+
+9 Chapter 3: Attention Allocation & Auditory Habituation  
+A prior knowledge base of obj ects and events must be considered when deciding how to 
+allocate sensory, motor, or mental resources. Additionally, auditory habituation refers to a 
+gradual decline in neuronal response to successive auditory stimulations. Despite the success of 
+EEG in mea suring auditory ERPs, attention allocation and habituation properties remain 
+unknown in participants with misophonia. A comparison of misophonia participants' attention 
+allocation and auditory habituation enabled us to determine whether social vs. mechanic al visual 
+sources led to distinct ERP responses to misophonia triggers and whether source differences 
+influence neuronal desensitization.  
+Previous studies of N1 and P2 assessments identified N1 as a potential filtering 
+mechanism that triggers the activation of allocation of attention, while P2 sensory gating 
+involves the early allocation of attention (Näätänen, 1992, pp. 113 –135; Näätänen & Picton, 
+1987). Previous studies have identified a decrease in N1 magnitude with repeated auditory 
+stimuli (Pa iva et al., 2016). Similarly, P2 showed habituation, and sensory gating properties have 
+been observed for consecutive stimuli with short and constant inter -stimulus intervals (Paiva et 
+al., 2016). Therefore, we hypothesize misophonia participants to evince  greater negative N1 and 
+positive P2 peaks than participants with ASD or TD to the first sound stimuli, presumably due to 
+increased registration of sensory input  and pre -attentive classification of stimuli. Our studies 
+should indicate a decreased habituati on response to social cues in misophonia compared to ASD 
+and TD.
+
+10 MATERIALS AND METHODS  
+Figure 1. Misophonia Visual -Auditory Cue habituation Task  
+(A) Source differentiation processing task   (B) Post-task source differentiation ratings  
+ 
+Participants completed a 9 -min visual -auditory habituation task during a high -density EEG while 
+seated in a chair facing a desktop computer, with an approximate 2 -4 min post -rating task with a 
+Chronos Response Box . We used E -Prime 2.0 to implement the experiment. The experiment 
+consisted of a total of 4 blocks containing 32 trials per block, with eight distinct social visual 
+cues (e.g., whistling man) and eight distinct mechanical visual cues (e.g., whistling teapo t). All
+
+11 visual cues were validated in a prior study with Misophonia participants rating the 
+unpleasantness plausibility  of the auditory cues paired with the visual stimuli (Banker, 2022). 
+Each distinct visual cue was presented  twice per block in a randomized order for 2000 ms; the  
+Figure 2 . ERP Acquisition and Segmentation  
+(A)  EEG processing and ERP collection, (B) ERP Segmentation, (C) ERP components
+
+12 misophoni a auditory stimuli were identical for pairs of social and mechani cal images and 
+matched both visual cues (e.g., whistling sound) in a pseudorandomized order. Auditory cues 
+were presented twice per distinct visual cue. The auditory cues were presented 1000ms after the 
+visual cues for 500ms each with a 500ms buffer in bet ween each auditory presentation (Figure  
+1A). After completing the task, participants rated the image paired with the same auditory stimuli 
+from the task on a 1 -5 scale (1 = Pleasant to 5 = Unpleasant) (Figure 1B).  
+We acquired EEG data using NetStation Sof tware Version 5.4.2 and a Philips HydroGel 
+Geodesic sensor with 128 channels (Figure 2A). Original EEG files were processed in a 0.50 - 
+55.00 Hz Bandpass filter and then segmented into the four distinct cue segments (M1: First 
+mechanical visual cue, M2: Se cond mechanical visual cue, S1: First social visual cue, and S2: 
+Second social visual cue) of 600 ms epochs from -100ms to 500ms and time -locked to the onset 
+of each tone during pre -processing (Figure 2B). Each recorded segment was manually inspected 
+for the removal of motor movement (eyeblinks, eyebrow shifts, head tilt). The processing steps 
+involve classifying and replacing outlier channels with interpolated values in the continuous 
+data, removing outlier epochs from single participant data, and removing  outlier components. 
+Data were averaged separately for each auditory cue in the trial's sequence, and the baseline was 
+corrected using a 100 ms pre -stimulus interval. Recordings were included in final analyses if 
+they included a minimum of 10 viable segmen ts per cue, with viability meaning a maximum of 
+25 electrode channels that were removed per segment for >80% viability (Figure 2A). We 
+performed repeated measures ANOVAs and t -tests to compare component amplitude by the 
+group across social and mechanical s timuli and repetitions. RStudio was used for ERP analysis 
+and statistical significance.
+
+13 N1 & P2 amplitudes were extracted over electrode Cz at the vertex of the head, where 
+auditory event -related potentials are easily detected (Rosburg et al., 2010). Each participant's N1 
+component reflects minimum voltage within a window from 70 to 120ms; the P2 component has 
+the maximum voltage within a latency range of 120 -210 ms post -stimulus. Latency was defined 
+as the time -to-peak amplitude for each component (Figure 2C). 
+ 
+RESULTS  
+ 
+Figure 3 . Post -Task Ratings  
+Misophonia, ASD, and TD, (A)  Social rating and (B) Mechanical Rating (1 = Pleasant to 5 
+=Unpleasantness); (C) Rating differences (Social -Mechanical) between social and mechanical 
+visual cues for all three groups.  ● : p < 0.1; * :  p < 0.05; ** : p < 0.01  
+ 
+Post-Task Visual Cue Association Ratings  
+A one-way ANOVA was performed to compare groups (Misophonia, ASD, and TD) on 
+mechanical ratings, there is a statistically significant difference in mechanical ratings (MR) 
+between the three groups [F(2, 43) = 14.22, p = 0.00002]. Another ANOVA was also performed
+
+14 to compare groups (Misophonia, ASD, and TD) on social ratings, there is a statistically 
+significant difference in social ratings (SR) between the three groups [F(2, 43) = 15.31, p = 
+0.00001] ( Figure 3A & 3B ). Between -group MR analysis using post -hoc t -tests assuming 
+unequal variances,  identified differences between misophonia vs TD (t(26) = 6.2, p < 0.01), 
+misophonia vs ASD (t(32) = 2.8, p < 0.01), and TD vs ASD (t(26) = 2.7, p < 0.05), with 
+unpleasantness ratings highest in misophonia, followed by ASD, then  TD .  While SR analysis 
+indicated significant differences between misophonia vs TD (t(26) = 6.1, p < 0.01) and 
+misophonia vs ASD (t(32) = 4.0, p < 0.01), again with unpleasantness ratings highest in the 
+misophonia group, there were no differences in SR un pleasantness rating for ASD vs TD (t(27) = 
+1.1, p = 0.27) ( Figure 3A & 3B ).  
+These data indicate that participants with misophonia responded more severely to social 
+and mechanical visual cues than other groups, while maintaining a statistically significant  
+elevated rating towards social visual cues compared to mechanical cues within group ( Figure 
+3C). Misophonia participants found the social cue more unpleasant while ASD participants 
+experienced an equivalent dislike to the auditory cue regardless of the vi sual pairing.  The 
+increase in unpleasantness ratings corresponded to an increase in misophonia severity ( Table 3 ).  
+Table 3: Misophonia Surveys & Post -Task Ratings Correlations  
+Correlation 
+Analysis  AMISOS -R MQ MAQ  AMISOS  
+Social 
+Rating   r(46) = .556 , p < .001  
+(+) r(46) = .565 , p < .001  
+(+) r(46) = .62,  p < .001  
+(+)  r(46) = .648, p < .001  
+(+) 
+Mechanical 
+Rating  r(46) = .586,  p < .001  
+(+) r(46) = .566, p < .001  
+(+) r(46) = .601,  p < .001  
+(+) r(46) = .611, p < .001  
+(+)
+
+15  
+Figure 4. First and Second ERPs to social vs mechanical sources  
+(A-C) ASD, Misophonia, and TD ERPs, respectively
+
+16 First ERP Responses to Misophoni a triggers paired with Social vs Mechanical Cue  
+ERPs were collected for the first and second auditory stimuli presentations paired with 
+both mechanical and social cues ( Figure 4 ). A one -way ANOVA was conducted to determine 
+the effect of group (Misophonia, ASD, TD) on first N1 responses to social cues; the results 
+indicate a significant effect  [F(2, 43) = 3.46, p = 0.04] ( Figure 5A2 ). In particular,  post-hoc 
+comparisons using between -group t -tests indicated a significantly larger N1 response to the first 
+presentation of sounds paired with social images for misophonia participants compared to TD 
+(t(26) = -2.31, p < 0.05), as well as a trending significance between misophonia and ASD (t(32) 
+= -1.99, p = 0.06) participants. There were no differences in N1 response to the first presentation 
+of sounds paired with social images between ASD and TD participants (t(2 7) = -0.33, p =0.73). 
+There were no significant differences in N1 for first presentation of the sounds when paired with 
+mechanical images among groups ( Figure 5A1 ).
+
+17 Figure 5 . N1: First and Second ERP Source Difference Analysis  
+(A1-A3) Misophonia, TD, & AS D first ERP’s responses for N1: Mechanical, Social, & 
+Mechanical - Social, respectively. (B1-B3) Misophonia, TD, & ASD second ERP’s responses for 
+N1: Mechanical, Social, & Mechanical - Social, respectively.  ● : p < 0.1; * :  p < 0.05)
+
+18 A one -way ANOVA wa s conducted to determine the effect of group (Misophonia, ASD, 
+TD) on the differences between first N1 mechanic vs first N1 social responses; the results 
+indicate a leaning significant effect [F(2, 43) = 2.93, p = 0.064] ( Figure 5A3 ). In particular, t -
+tests comparing misophonia and ASD (t(32) = -1.99, p = 0.057) showed a marginally  significant 
+difference, while t -tests comparing misophonia and TD showed a statistically significant 
+difference (t(26) = -2.13, p < 0.05). A within group analysis indicated a si gnificant difference 
+between N1 first mechanical and N1 first social in misophonia(t(15) = 2.1, p = .050), all other 
+groups did not show significant within group differences.  These tests suggest that only in 
+misophonia was the N1 larger within the social than the mechanical context.
+
+19  
+Figure 6 . P2: First and Second ERP Source Difference Analysis  
+(A1-A3) Misophonia, TD, & ASD first ERP’s responses for P2: Mechanical, Social, & 
+Mechanical - Social, respectively. (B1-B3) Misophonia, TD, & ASD second ERP’s responses for 
+P2: Mechanical, Social, & Mechanical - Social, respectively. (( ● : p < 0.1) & ( * :  p < 0.05))
+
+20 Regarding the P2 response to the first presentation of the auditory cue paired with 
+mechanical/social visual cue, there was a trend toward significant differences among groups for 
+the social contexts. A one -way ANOVA was conducted to determine the  effect of group 
+(Misophonia, ASD, TD) on first P2 responses. The results indicate a marginally significant 
+effect, [F(2, 43) = 2.52, p = 0.09195] ( Figure 6A2 ). Between group t -test were conducted for P2 
+responses to sounds paired with social cues: no diff erence was detected between ASD and TD 
+participants (t(27) = -0.18019, p =0.9); a significant difference between misophonia and ASD 
+participants (t(32) = -2.06, p =0.047)  and marginally significant difference between misophonia 
+and TD participants (t(26) = -0.17, p =0.09) was identified.  No statistically significant group 
+differences were observed in the differences between P2 response amplitude to social vs 
+mechanical cues.  
+Altogether, only misophonia participants showed within group differences between  first 
+social N1 and first mechanical N1, for all other groups, analysis of first mechanical vs first social 
+exposure did not reveal any significant differences in N1 or P2 within groups between social and 
+mechanical cues. However, analysis of the first pr esentation of auditory cues paired to social 
+image N1 and P2 components showed distinct between  group differences. According to our 
+results, misophonia participants, compared to the other groups, displayed larger N1 responses, , 
+as well as a decreased P2 t o social visual cues, when misophoni a auditory cues are paired with 
+social visual cues.
+
+21 Habituation from First to Second sound presentation with ERP analysis   
+Given that there were no differences between groups in first presentations of the sounds 
+paired with the mechanical cue, we examined differences in habituation –the degree of difference 
+between the first and second presentation of the sounds paired with the mechanical cue and for 
+the social cue via a ratio between the first and second au ditory cue ERP ( Figure 7 ). A two -way 
+repeated measures ANOVA was performed to analyze the effect of group (Misophonia, ASD, 
+and TD) and presentation order (First and Second) on N1 responses or P2 responses to 
+mechanical cues. The results indicated that the re was no statistically significant interaction 
+between the effects of group and presentation order in N1 (F(2,90) = 1.21, p = 0.30) and P2 
+(F(2,90) = 0.07, p = 0.93) for mechanical cues  ( Figure 6C1 ). 
+For the sounds paired with social cues, given the sign ificant group differences in first 
+sound attention processing in N1 [F(2, 43) = 3.46, p = 0.04031] ( Figure 5A2 ) and a trending 
+significant difference in P2 [F(2, 43) = 2.52, p = 0.09195] ( Figure 6A2 ), we could not examine 
+habituation per se without conside ring the significant ERP component differences for the first 
+stimulus. We therefore examined the overall ERP response difference between first social cue 
+and second social cue processing through ratio differences for the mechanical cue and social cue.  
+This was supported by a one way measure ANOVA with factors of group on habituation 
+ratio differential ( |First Cue| - |Second Cue|)/(|First Cue| - |Second Cue| ) for N1 Social [F(2, 45) 
+= 0.45, p = 0.65], N1 Mechanical [F(2, 45) = 0.13, p = 0.88], P2 Social [F(2 , 45) = 0.34, p = 
+0.71], P2 Mechanical [F(2, 45) = 0.29, p = 0.75], exhibiting no significant differences in 
+habituation between social contexts and groups. (Figure 7) . These data suggest that, overall, 
+misophonia participants exhibited  similar habituatio n processing (in first to second presentation) 
+to social and mechanical cues; as well as in the other groups (ASD and TD).
+
+22 Figure 7 .  N1 and P2: Habituation Ratio Differentials  
+(A) N1 Social Habituation (B) N1 Mechanical Habituation  (C) P2 Social Habituation (D) P2 
+Mechanical Habituation. Habituation Ratio Differential = (|First Cue| - |Second Cue|)/(|First 
+Cue| - |Second Cue|).
+
+23 Discussion  
+Our main finding was that, compared to typically developing individuals and clinical 
+ASD contro ls, participants with misophonia showed increased registration of sensory input  to 
+trigger sounds presented in social contexts even before classification of stimuli of the source of 
+the sound. Unknowingly allocating enhanced attention to sounds paired wit h social visual cues 
+supports the idea that misophonia involves exaggerated first registration of sensory input  
+classification of stimuli to socially -relevant auditory stimuli, which may underlie the severe 
+aversion to these triggers.  
+In addition, misopho nia participants' attention to sounds paired with social images 
+decreased when they were classifying social stimuli , perhaps as a coping mechanism. A recent 
+clinical study indicated that individuals with misophonia have developed several coping 
+strategies in response to their aversive reactions to trigger sounds. These coping mechanisms 
+include  avoiding or removing themselves from certain situations, mimicking trigger sounds or 
+the action producing them, "canceling out" or "retaliating," using earplugs, hea dsets or listening 
+to music, distracting oneself, reciting positive internal dialog to help calm themselves, asking 
+others to stop making the sounds, and being mindful of their sounds. (Edelstein et al., 2013). In 
+most of these coping mechanisms, participa nts deliberately remove themselves from the stressor. 
+Our finding of reduced P2 responses could be used as a biological marker to assess and develop 
+new treatments for coping.   
+Finally, the habituation hypothesis was not supported by our findings: we foun d intact 
+habituation to misophonia triggers in N1 and P2 responses regardless of the sound source, 
+whether mechanical or social. These findings question the idea that impaired sensory habituation 
+underlies misophonia symptoms. From an interventional standp oint, our initial findings suggest
+
+24 that misophonia treatment should perhaps focus on decreasing first N1 responses rather than 
+habituating to the aversive stimuli over time.  
+ As part of future research, we will examine the preceding responses to visual clues before sound 
+presentation with the goal of assessing the overall effect of arousal and high -level responses to 
+social context and its impact on sound processing. We will a lso examine whether differences in 
+habituation may be more apparent on larger timescales, by examining responses to the sounds 
+paired with social cues early versus later in the task.  
+Conclusion  
+  As far as the auditory processing mechanism of misophonia i s concerned, this study 
+allows a view into the differentiation of the visual and auditory aspects of this illness.  This 
+project is a part of a larger initiative designed to address the needs of people with misophonia 
+that are severely limited in their dai ly lives because of this disorder. It is important to have a 
+solid understanding of both pre -attentive registration of sensory input and pre -attentive 
+classification of sensory stimuli in order to be able to make sense of why misophonia is a 
+socially -orien ted disorder. Future research into auditory and visual  processing mechanisms 
+across social and non -social contexts in misophonia is on the horizon in an attempt to create a 
+standardized method for diagnosing and treating the condition.
+
+25 Bibliography  
+1) Appelbaum, L. G., Boehler, C. N., Won, R., Davis, L., & Woldorff, M. G. (2012, 
+September). Strategic allocation of attention reduces temporally predictable stimulus 
+conflict. Journal of cognitive neuroscience. Retrieved December 31, 2022, from 
+https://www .ncbi.nlm.nih.gov/pmc/articles/PMC3632454  
+ 
+2) Banker, S., Na, S., Beltrán, J., Koenigsberg, H., Foss -Feig, J., Gu, X., & Schiller, D. 
+(2022, June 16). Disrupted computations of social control in individuals with obsessive -
+compulsive and Misophonia symptoms. R etrieved December 19, 2022, from 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9253698/  
+ 
+3) Beard C, Rodriguez BF, Moitra E, Sibrava NJ, Bjornsson A, Weisberg RB, Keller MB. 
+Psychometric properties of the Liebowitz Social Anxiety Scale (LSAS) in a longitudinal 
+study of African Americans with anxiety disorders. J Anxiety Disord. 2011 
+Jun;25(5):722 -6. doi: 10.1016/j.janxdis.2011.03.009. Epub 2011 Mar 24. PMID: 
+21501944; PMCID: PMC3089666.  
+ 
+4) Bonnel, A., Mottron, L., Peretz, I., Trudel, M., Gallun, E., & Bonnel, A. M. (2003). 
+Enhanced pitch sensitivity in individuals with autism: a signal detection ana lysis. Journal 
+of cognitive neuroscience, 15(2), 226 -235. 
+ 
+5) Brout, J. J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L. J., Rouw, R., ... & 
+Rosenthal, M. Z. (2018). Investigating misophonia: A review of the empirical literature, 
+clinical implications , and a research agenda. Frontiers in Neuroscience, 36.  
+ 
+6) Brout, J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L., Rouw, R., . . . Rosenthal, 
+M. (2018, January 15). Investigating Misophonia: A review of the empirical literature, 
+clinical implication s, and a research agenda. Retrieved December 19, 2022, from 
+https://www.frontiersin.org/articles/10.3389/fnins.2018.00036/full  
+ 
+7) Dozier, T. H. (2015). Counterconditioning Treatment for Misophonia. Clinical Case 
+Studies, 14(5), 374 –387. https://doi.org/10.11 77/1534650114566924
+
+26 8) Dunn, W. (1997). The impact of sensory processing abilities on the daily lives of young 
+children and their families: A conceptual model. Infants & Young Children, 9(4), 23 -35. 
+ 
+9) Edelstein, M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013). Misophonia: 
+physiological investigations and case descriptions. Frontiers in Human Neuroscience, 
+296. 
+ 
+10) Edelstein, M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013, June 5). Misophonia: 
+Physiological investigations and case d escriptions. Frontiers. Retrieved January 3, 2023, 
+from 
+https://www.frontiersin.org/articles/10.3389/fnhum.2013.00296/full?source=post_page  
+ 
+11) Erfanian, M. (2018, June 15). Emotional and cognitive characteristics of Misophonia. 
+Retrieved from 
+https://www.sci encedirect.com/science/article/abs/pii/S0924977X17309628?via%3Dihub  
+ 
+12) Ferrer -Torres, A., & Giménez -Llort, L. (2021). Confinement and the hatred of sound in 
+times of COVID -19: a Molotov cocktail for people with misophonia. Frontiers in 
+psychiatry, 12, 627044 . 
+ 
+13) Ferrer -Torres, A., & Giménez -Llort, L. (2022, June 01). Misophonia: A systematic 
+review of current and future trends in this emerging clinical field. Retrieved December 
+19, 2022, from https://www.mdpi.com/1660 -4601/19/11/6790#B1 -ijerph -19-06790  
+ 
+14) Foa EB,  Huppert JD, Leiberg S, Langner R, Kichic R, Hajcak G, Salkovskis PM. The 
+Obsessive -Compulsive Inventory: development and validation of a short version. Psychol 
+Assess. 2002 Dec;14(4):485 -96. PMID: 12501574.  
+ 
+15) Hurley, R., Losh, M., Parlier, M., Reznick, J.,  Piven, J., 2007. The Broad Autism 
+Phenotype Questionnaire. Journal of Autism and Developmental Disorders 37,1679 –
+1690.
+
+27 16) Jacqueline Liggett, Kieran L. C. Carmichael, Alexander Smith & Martin Sellbom (2017) 
+Validation of Self -Report Impairment Measures for Section III Obsessive –Compulsive 
+and Avoidant Personality Disorders, Journal of Personality Assessment, 99:1, 1 -14, DOI: 
+10.1080/00223891.2016.1185613  
+ 
+17) Jager, I., Koning, P. de, Bost, T., Denys, D., Vulink, N., 2020. Misophonia: 604 
+Phenomenol ogy, comorbidity and demographics in a large sample. PLOS ONE 605 15, 
+e0231390. https://doi.org/10.1371/journal.pone.0231390  
+ 
+18) Jager, I.J., Vulink, N.C.C., Bergfeld, I.O., van Loon, A.J.J.M., Denys, D.A.J.P., 2021. 
+Cognitive behavioral therapy for misophoni a: A randomized clinical trial. Depression and 
+Anxiety 38, 708 –718. https://doi.org/10.1002/da.23127  
+ 
+19) Leary, M. R. (1983). A Brief Version of the Fear of Negative Evaluation Scale. 
+Personality and Social Psychology Bulletin, 9(3), 371 –375. 
+https://doi.org/ 10.1177/0146167283093007  
+ 
+20) Lehman AF. The well -being of chronic mental patients. Arch Gen Psychiatry. 1983 
+Apr;40(4):369 -73. doi: 10.1001/archpsyc.1983.01790040023003. PMID: 6838316.  
+ 
+21) Luck SJ. An Introduction to the Event -Related Potential Technique, 2nd ed n. Cambridge, 
+MA; London, England: The MIT Press (2014).  
+ 
+22) McCrimmon, A. W., & Smith, A. D. (2013). Review of the Wechsler Abbreviated Scale 
+of Intelligence, Second Edition (WASI -II). Journal of Psychoeducational Assessment, 
+31(3), 337 –341. https://doi.org/ 10.1177/0734282912467756  
+ 
+23) Mutschler, I. (2010). Time Scales of Auditory Habituation in the Amygdala and Cerebral 
+Cortex . Academic.oup.com. Retrieved December 31, 2022, from 
+https://academic.oup.com/cercor/article/20/11/2531/334463  
+ 
+24) Møller, A. R. (2011). Misophonia, phonophobia, and “exploding head” syndrome. In 
+Textbook of tinnitus (pp. 25 -27). Springer, New York, NY.
+
+28  
+25) Näätänen R, Picton T. The N1 wave of the human electric and magnetic response to 
+sound: a review and an analysis of the component structur e. Psychophysiology. 1987 
+Jul;24(4):375 -425. doi: 10.1111/j.1469 -8986.1987.tb00311.x. PMID: 3615753.  
+ 
+26) Paiva TO, Almeida PR, Ferreira -Santos F, Vieira JB, Silveira C, Chaves PL, et al. 
+Similar sound intensity dependence of the N1 and P2 components of the au ditory ERP: 
+averaged and single trial evidence. Clin Neurophysiol. (2016) 127:499 –508. doi: 
+10.1016/j.clinph.2015.06.016  
+ 
+27) Paiva TO, Almeida PR, Ferreira -Santos F, Vieira JB, Silveira C, Chaves PL, et al. 
+Similar sound intensity dependence of the N1 and P2 components of the auditory ERP: 
+averaged and single trial evidence. Clin Neurophysiol. (2016) 127:499 –508. doi: 
+10.1016/j.clinph.2015.06.016  
+ 
+28) Potgieter, I., MacDonald, C., Partridge, L., Cima, R., Sheldrake, J., & Hoare, D. J. 
+(2019). Misophonia: A scoping  review of research. Journal of clinical psychology, 75(7), 
+1203 -1218.  
+ 
+29) Rosburg T, Boutros NN, Ford JM. Reduced auditory evoked potential component N100 
+in schizophrenia - a critical review. Psychiatry Res. (2008) 161:259 –74. doi: 
+10.1016/j.psychres.2008.03.017  
+ 
+30) Schirmer A, Gunter TC. Temporal signatures of processing voiceness and emotion in 
+sound. Soc Cogn Affect Neurosci. (2017) 12:902 –9. doi: 10.1093/scan/nsx020  
+ 
+31) Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: diagnost ic criteria for a new 
+psychiatric disorder. PloS one, 8(1), e54706.  
+ 
+32) Skapinakis, P. (2014). Spielberger State -Trait Anxiety Inventory. In: Michalos, A.C. 
+(eds) Encyclopedia of Quality of Life and Well -Being Research. Springer, Dordrecht. 
+https://doi.org/10 .1007/978 -94-007-0753 -5_2825
+
+29 33) Smelser, N. J., & Baltes, P. B. (Eds.). (2001). International encyclopedia of the social & 
+behavioral sciences (Vol. 11). Amsterdam: Elsevier.  
+ 
+34) Swedo, S., Baguley, D., Denys, D., Dixon, L., Erfanian, M., Fioretti, A., . . . Ra ver, S. 
+(2022, February 07). Consensus definition of Misophonia: A delphi study. Retrieved 
+December 19, 2022, from 
+https://www.frontiersin.org/articles/10.3389/fnins.2022.841816/full#:~:text=Misophonia
+%20is%20a%20disorder%20of,using%20different%20language% 20and%20methodologi
+es. 
+ 
+35) Taylor, Steven, et al. ``Sensory intolerance: latent structure and psychopathologic 
+correlates." Comprehensive psychiatry 55.5 (2014): 1279 -1284.  
+ 
+36) Taylor, Steven. "Misophonia: A new mental disorder?." Medical Hypotheses 103 (2017): 
+109-117. 
+ 
+37) Vlaskamp, C., Oranje, B., Madsen, G. F., Møllegaard Jepsen, J. R., Durston, S., Cantio, 
+C., ... & Bilenberg, N. (2017). Auditory processing in autism spectrum disorder: 
+Mismatch negativity deficits. Autism Research, 10(11), 1857 -1865.  
+ 
+38) Wu, M. S.,  Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014). Misophonia: incidence, 
+phenomenology, and clinical correlates in an undergraduate student sample. Journal of 
+clinical psychology, 70(10), 994 -1007.  
+ 
+39) Zung, W. W., & Zung, E. M. (1986). Use of the Zung Se lf-rating Depression Scale in the 
+elderly. Clinical Gerontologist: The Journal of Aging and Mental Health, 5(1 -2), 137 –
+148. https://doi.org/10.1300/J018v05n01_07
+
+ProQuest Number: 
+INFORMATION TO ALL USERS 
+The quality and completeness of this reproduction is dependent on the quality  
+and completeness of the copy made available to ProQuest. 
+Distributed by ProQuest LLC (        ). 
+Copyright of the Dissertation is held by the Author unless otherwise noted. 
+This work may be used in accordance with the terms of the Creative Commons license 
+or other rights statement, as indicated in t he copyright statement or in the metadata  
+associated with this work. Unless otherwise specified in the copyright statement  
+or the metadata, all rights are reserved by the copyright holder. 
+This work is protected against unauthorized copying under Title 17, 
+United States Code and other applicable copyright laws. 
+Microform Edition where available © ProQuest LLC. No reproduction or digitization  
+of the Microform Edition is authorized without permission of ProQuest LLC. 
+ProQuest LLC 
+789 East Eisenhower Parkway 
+P.O. Box 1346 
+Ann Arbor, MI 48106 - 1346 USA 
+30246881
+2023

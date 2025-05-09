@@ -1,0 +1,1590 @@
+Guidance toinvestigate university students ’bodily responses and
+perceptual assessments insound exposure experiments
+Amneh Hamidaa,*,Alessandro D’Amicob,AnneMarie Eijkelenbooma,Philomena M.Bluyssena
+aChairIndoorEnvironment, Faculty ofArchitecture andtheBuiltEnvironment, DelftUniversity ofTechnology, Delft,theNetherlands
+bDepartment ofCivil,Construction andEnvironmental Engineering, Sapienza University ofRome,Rome,Italy
+ARTICLE INFO
+Keywords:
+Sound exposure
+Bodily responses
+Physiological responses
+Perceptual assessment
+Soundscape
+Audiometric testABSTRACT
+Previous studies have shown that sound influences students both physiologically andperceptually. However,
+most ofthese studies focussed ontheeffects ofsounds atgroup-level, ignoring individual differences. Therefore,
+weinvestigated which indicators canbeused toidentify differences inbodily responses andperceptual assess-
+ments ofeach individual when exposed tofour different sounds. First, based onanaudiometric test, thehearing
+acuity of15students (from fivedifferent profiles based ontheir acoustical preferences andneeds) wasmeasured.
+Then, twosound exposure experiments were conducted intheSenseLab: direct sound exposure using earbuds in
+alaboratory setting, andindirect sound exposure with speakers inarealroom setting. During each experiment,
+theattention level (AL), mental relaxation level (MRL), heart rate(HR), andrespiration rate(RR) were measured
+with wearable devices, andstudents made perceptual assessments ofeach condition. Thepercentage ofchange
+normalised thefour bodily response measurements among students. Based oncorrelation analysis andt-tests,
+bodily responses, andperceptual assessments across experiments were compared, atgroup-level andindividual-
+level. Sixstudents, who suffered from mild hearing lossinlow-frequency sounds, showed bodily responses such
+asincreased HRduring exposure tolow-frequency sound conditions. Perceptual assessments ofdifferent sound
+types during both labexperiments substantiated theacoustical preferences ofthestudents from thefiveprofiles.
+Bodily responses showed nostrong norsignificant correlations with perceptual assessments during thedirect
+sound exposure experiments. Differences inbodily responses andperceptual assessments between thetwoex-
+periments andbetween group-level andindividual-level were observed inAL.Itisconcluded thathearing acuity
+andtype ofsound (sound frequencies) arekeyindicators foridentifying differences inbodily responses (such as
+HRandRR)andperceptual assessment. Forfuture research, itiscrucial toconsider incorporating audiometric
+tests, bodily responses such asHRandRR,andperceptual assessments inthistype ofinvestigations.
+1.Introduction
+University students spend asignificant amount oftime studying in-
+door, whether athome orineducational buildings [1–3].Research has
+shown thatstaying indoors foralong time canaffect occupants ’health
+duetoa‘bad ’indoor environmental quality (IEQ) [4,5] ,andthus itis
+important toconsider theIEQofthese study places andeliminate any
+stressors that could affect students ’health negatively. Theacoustical
+quality isoneoftheIEQfactors thatmay positively ornegatively affect
+students ’health andcomfort [6,7] .Background noise isoneoftheIEQ
+stressors that cancause nonauditory effects such asprolonged stress,caused indirectly bytheanti-stress mechanism that isactivated when
+exposed tostressors such asnoise [8,9] .Theanti-stress mechanism in-
+creases adrenaline andnor-adrenaline levels intheshort-term, possibly
+leading toanincrease inheart rate(HR) andrespiration rate(RR) [9].
+Changes inphysical and/or physiological responses (including HR,RR
+andbrainwaves) asaresult ofexposure toaphysical stressor, such as
+noise, arereferred toasbodily responses [10,11] .Thus, astudy of
+occupant-related indicators, including bodily responses andperceptual
+assessments, might contribute toabetter understanding oftheeffects of
+theacoustical environment onstudents ’preferences andneeds [12].
+Theeffects ofsound asanenvironmental stressor have been studied
+Abbreviations: AL,attention level; HR,heart rate; IEQ, indoor environmental quality; MRL, mental relaxation level; RR,respiration rate; SPL, sound pressure level.
+*Correspondence to:Faculty ofArchitecture and theBuilt Environment, Delft University ofTechnology, Building 8,Julianalaan 134, Delft 2628BL, the
+Netherlands.
+E-mailaddress: a.b.hamida@tudelft.nl (A.Hamida).
+Contents listsavailable atScienceDirect
+Indoor Environments
+u{�~zkw s{yo|kr o>ÐÐÐ1�mt ozmont~om�1m{ y2u{�~zk w2tzn{{~/oz�t ~{zyoz��
+https://doi.org/10.1016/j.indenv.2024.100066
+Received 4September 2024; Received inrevised form 11November 2024; Accepted 16November 2024INDENV  1 (2024)  100066  
+Available  online  21 November  2024  
+2950-3620/©  2024  The Author(s).  Published  by Elsevier  Inc. on behalf  of International  Society  of Indoor  Air Quality  and Climate.  This is an open access  article  
+under  the CC BY license  ( http://creativecommons.org/licenses/by/4.0/  ).
+
+using bodily responses and perceptual assessments. For instance,
+Alvarsson etal.[13] examined university students’ bodily responses,
+including high-frequency HRvariability, when exposed tonatural
+sounds andenvironmental noises. Their findings indicated nosignificant
+changes inHRduring theexperiment; however, thestudents rated the
+natural sounds asthemost pleasant. Abbasi etal.[14] investigated
+university students’ bodily responses tothree sound pressure levels
+(SPL) oflow-frequency sound inalabexperiment. They recorded bodily
+responses, including electroencephalogram (EEG) forbrain wave signals
+andelectrocardiography forHRsignals. They observed thatthese bodily
+responses significantly differed among thedifferent SPLs, andstudents’
+mental fatigue increased when theSPLincreased. Tristan-Hernandez [7]
+found thatboth beta andtheta brain wave amplitudes decreased when
+university students were exposed tobackground noise, resulting in
+reduced attention levels while performing cognitive tasks. Furthermore,
+Guan etal.[15] concluded that brain wave patterns differed between
+theperceived comfortable sound condition (music sound at50dB)and
+theperceived uncomfortable sound condition (fannoise at80dB).They
+alsoobserved adecline intheta wave during theuncomfortable sound
+condition. However, correlations between bodily responses and
+perceptual assessments ofbackground noise were nottested inthese
+studies. Park andLee[16] measured both HR,andRRofparticipants
+and asked them toassess thenoticeability and annoyance ofthese
+sounds, while being exposed tosix-floor impact noise (e.g., adult
+walking andchild running) stimuli. They found thatRRwascorrelated
+significantly and positively with both perceptual assessments ofthe
+standard floor impact noise. Similarly, Hume and Ahtamad [17]
+concluded thatRRincreased during themost perceived pleasant sound
+clips. Thus, HR, RR,and brain waves asbodily responses could be
+measured toexplain differences intheacoustical needs ofstudents.
+Human ears aremost sensitive tohigh frequencies (3000–5000 Hz)
+andgenerally most annoyed bylow-frequency noise (20–125 Hz),which
+cancause stress [18,19] andnegatively impact cardiovascular responses
+such asHR[20]. Forinstance, Muetal.[21] observed thatHRslightly
+increased among senior adults (over 60years old) with mild orsevere
+hearing loss upto55dB(A), butremained stable above that level.
+Keur-Huizinga etal.[22] studied theimpact ofhearing acuity onHRin
+125 participants aged 37–72, exposed tospeech sound stimuli (fre-
+quencies ranged from 330 to6300 Hz). They found noconsistent
+changes inHRreactivity inparticipants with different hearing acuity,
+andconcluded thathearing acuity might beassociated with changes in
+thesympathetic nervous system’s reactivity. Mackersie etal.[23]
+examined theeffects ofhearing lossandnoise onstress-related auto-
+nomic measures in33participants (18with hearing loss, 15with normal
+hearing, ages 22–79) during sentence recognition tasks. They found that
+the HR ofparticipants with hearing loss decreased atlower
+signal-to-noise ratios, while HRofthose with normal hearing didnot.
+They highlighted that participants with hearing lossmay experience
+increased effort andstress during speech recognition innoisy environ-
+ments, which could influence thepsychophysiological responses con-
+cerning theautonomic nervous system.
+Theabove-mentioned studies [21–23] recruited senior adults, who
+have alower sensitivity tolow-frequency sounds compared toyoung
+adults. Although Alimohammadi andEbrahimi [24] tested theuniver-
+sitystudents’ mental performance while being exposed toboth lowand
+high-frequency sounds, they excluded thestudents whose hearing
+threshold was lessthan 20dB.Hence, little isknown about therela-
+tionship between hearing acuity inyoung adults andtheir bodily re-
+sponses todifferent sound types. Furthermore, while hearing acuity
+measured through anaudiometric testhasbeen considered inseveral
+sound exposure experiments with human subjects [13,14,18,25,26],
+differences inbodily responses concerning thehearing thresholds of
+different students atvarious sound frequencies have notstudied.
+Most oftheabove-mentioned labexperiments [7,13–17] considered
+participants’ personal traits, including demographics (e.g., ageand
+gender) andhearing acuity ornoise sensitivity. However, they mainlyfocused ontheoverall bodily responses andperceptual assessment at
+group-level ignoring differences inpreferences andneeds between in-
+dividuals (profiles). Profiling occupants based ontheir preferences and
+needs ofacertain indoor environment isoneofthemethods thattake
+into account thedifferences between individuals’ intheindoor envi-
+ronment [27]. Noting thatprofiling ofoccupants inseveral situations (e.
+g.,classrooms, study places, homes, andhospitals) hasbeen addressed in
+previous studies [28–31]. Inconnection tothesound-related preferences
+ofstudents, Hamida etal.[32] identified five profiles ofuniversity
+students based ontheir acoustical andpsychosocial preferences fortheir
+study places, such assounds from theoutside andprivacy. These five
+profiles are: 1)sound concerned introvert, 2)sound unconcerned
+introvert, 3)sound partially concerned introvert, 4)sound concerned
+extrovert, and5)sound unconcerned extrovert. Moreover, they identi-
+fiedaspects related tothepreferences ofeach profile through afield
+study, such asboth students from profiles 1,3,and4were concerned
+with thesounds from theoutside because they gotannoyed andlost
+focus bythese sounds. According tothese aspects, itwasconcluded that
+thestudy place’s context, such asbuilding location, might affect stu-
+dents’ acoustical preferences.
+Studies onbodily responses tobemeasured forstudents from
+different profiles when exposed toboth preferable andnon-preferable
+sounds could notbefound intheliterature. Also, thehearing acuity at
+different sound frequencies ofuniversity students wasnotwidely stud-
+ied.Inaddition, toadvance knowledge inthisarea, studies oncorrela-
+tions between bodily responses (e.g., HR), health aspects (e.g., hearing
+acuity), environmental indicators (e.g., SPL and sound frequency),
+perceptual assessments (e.g., pleasantness), current situation ofstudy
+places (e.g., existing sound sources), andpreferences ofuniversity stu-
+dents from different profiles, areneeded. Furthermore, westillneed to
+testwhich ofthebodily responses (including HR,RR,andbrain waves
+that were tested inprevious studies) canbemeasured toexplain dif-
+ferences intheacoustical preferences ofdifferent students. Hence, the
+main aimofthisstudy istopropose guidance forinvestigating thebodily
+responses that canhelp usbetter understand thedifferences ineach
+student’s perceptual responses todifferent sounds. Therefore, themain
+research question ofthis study is:Can bodily responses beused to
+explain differences inpreferences and/or needs fordifferent sounds, and
+how canwetestthis?
+2.Methods
+2.1.Studydesign
+Tostudy which indicators canbeused toidentify differences in
+bodily responses todifferent sounds and sound levels, two sound
+exposure labexperiments were conducted onfour days inNovember
+2023 with fourstudents perday(except foronedaywith three students).
+Allofthese experiments took place intheSenseLab [33]. These two
+sound exposure labexperiments aimtoanswer thefour sub-questions
+thatanswer themain research question ofthisstudy, which are:
+1.Towhat extent isanaudiometric testessential forsound exposure lab
+experiments?
+2.Canstudents’ perceptual assessments ofsound conditions substan-
+tiate their acoustical preferences from thefield study?
+3.Dobodily responses correlate with perceptual assessments of
+different sounds?
+4.Dobodily responses and perceptual assessments differ signifi-
+cantly when students areexposed directly orindirectly tosounds?
+Anaudiometric testwasperformed totestthehearing acuity ofthe
+participating students. Thefirst labexperiment took place intwotest
+chambers where each participant participated individually, and the
+second wasconducted intheExperience room oftheSenseLab with four
+students. Inthefirstexperiment, each student wasexposed todifferentA.Hamida etal. Indoor  Environments  1 (2024)  100066  
+2
+
+sounds andsound levels directly inboth ears viaearbuds where other
+‘sound ’stressors were eliminated since thestudent satalone inthe
+chamber andwas facing thewall. Thus, the‘direct ’sound exposure
+experiment ismainly focused onthedirect effect ofthesound condition
+onboth bodily responses andperceptual assessment. Incontrast, the
+sounds inthe‘indirect ’sound exposure experiment were produced bya
+sound-producing system (four speakers) intheceiling thatpropagated in
+theExperience room with thepresence ofother ‘sound ’stressors, such as
+thepresence ofother students. This study aims tocompare whether the
+bodily responses andperceptual assessments ofdifferent sounds differ
+significantly between thedirect andindirect sound exposures. Inboth
+experiments, theother factors (lighting, indoor air,andthermal condi-
+tions) were kept asconstant aspossible.
+2.2.Participants
+Participants comprised bachelor andmaster students (n15inthe
+testchamber with power level 1-β0.6,andn14intheExperience
+room with power level 1-β0.6,where βrefers tobeta which istype II
+error), from thefaculty ofArchitecture andtheBuilt Environment at
+Delft University ofTechnology, intheNetherlands. The power was
+calculated byconducting aPost hocanalysis bygiving effect size0.5,
+significance level0.05, andasample sizeof15forthefirstexperiment,
+and14forthesecond experiment) using G*Power software [34].The
+power level of0.6means thatthetesthasa60%probability ofcorrectly
+rejecting thenullhypothesis. Students were asked nottoperform any
+physical exercise before theexperiment orsmoke ordrink coffee, as
+these activities might affect their bodily responses. Seven were female
+students andeight were male students. Their mean agewas21years
+(standard deviation: 1.5). These students allparticipated inaprevious
+questionnaire andfield study performed byHamida etal.[32].That
+study resulted infive profiles based onacoustical and psychosocial
+preferences oftheir study places gathered through aquestionnaire. In
+Fig.1theacoustical andpsychosocial preferences ofthese fiveprofiles
+arepresented. Two students perprofile (asaminimum) participated in
+thelabexperiments: two students from Profile 1,two students from
+Profile 2,three students from Profile 3,fourstudents from Profile 4,and
+four students from Profile 5.Additionally, tobetter explain both the
+bodily responses andtheperceptual assessments ofeach student, partof
+data gathered inthat previous study [32] wasused, including soundsources andbuilding-related indicators (seeAppendix A).
+2.3.Bodilyresponses
+Two wearable sensors, anEEG headband (brain activity) and a
+smartwatch (Fig.2),were used tomeasure four bodily responses: 1)
+attention level (AL); 2)mental relaxation level (MRL); 3)heart rate
+(HR); and4)respiration rate(RR). Both HRandRRwere chosen because
+oftheir possible relation with theanti-stress mechanism andtheir ease
+ofmeasurement with smartwatches. ALwasassessed todetermine how
+certain sounds affect astudent ’sattention, while MRL wasmeasured to
+evaluate theeffects ofdifferent sounds onastudent ’smental stress (also
+possibly related totheanti-stress mechanism).
+TheBrainLink LiteEEG headband byMacrotellect measured ALand
+MRL using three dryelectrodes attached totheparticipant ’sforehead.
+EEG data were processed bytheTGAM chipset from NeuroSky [35] and
+transmitted inreal-time toacomputer viaBluetooth every half-second
+using Python code inPyCharm 2023. Thedata were saved asaCSV
+file,including attention levels, MRLs, andvarious brain waves (Delta,
+Theta, Low-Alpha, High-Alpha, Low-Beta, High-Beta, Low-Gamma, and
+Mid-Gamma). Both attention andMRL were measured onascale from
+0to100.
+The Garmin Vivosmart 5smartwatch monitored HRand RRper
+minute, known toshow good accuracy during low-intensity activity
+[36].Since theabsolute relative error ofthesmartwatch showed alower
+error ontheleftwrist compared totheright wrist during aroutine ac-
+tivity ofdaily living [36],students were asked towear thesmartwatch
+ontheir leftwrist during theexperiment. Afterward, thesmartwatch was
+connected toacomputer viaUSB totransfer data using Garmin Express
+software, and the data were manually transferred toanExcel
+spreadsheet.
+The audiometric test (Fig. 3)was conducted inone ofthetest
+chambers oftheSenseLab using aclinical audiometer (Otometrics
+MADSEN Xeta) toanswer thefirst sub-question. Amonaural audio-
+metric testwith theairconduction method wasconducted byproducing
+asound indifferent SPLs (starting from 0dB)atdifferent sound pressure
+levels (starting from 0dB)across eight frequencies: 125, 250, 500, 1000,
+2000, 4000, 6000, and8000 Hz.Thestudent satinfront oftheexam-
+iner, holding aresponse stick, andclicked theresponse button upon
+hearing asound ateach frequency. Theexaminer recorded thehearing
+Fig.1.Five profiles found inaprevious study [32] andtheparticipating student IDs.Note: Theidentified legend colour foreach profile wasconsistently used in
+several figures throughout thepaper.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+3
+
+threshold onanaudiogram. Thestudent satwith his/her back tothe
+examiner toavoid visual influences onthetestresults. The hearing
+threshold wascalculated according totheWorld Health Organization ’s
+(WHO) World Report onHearing [37].This involved averaging the
+minimum SPLs that thestudent could hear at500, 1000, 2000, and
+4000 Hzinthebetter ear.
+2.4.Perceptual assessments
+Perceptual assessments cancontribute toabetter understanding of
+anindividual ’sacoustical preferences andneeds inacertain context
+[38].Therefore, questionnaires were used intheform ofanalogue scales
+thatareeasy andquick tobefilled outbyparticipants [39].During the
+labexperiment inthetestchamber, each student wasasked toassess the
+sound conditions onacontinuous scale from (-1)to(1)based onthree
+aspects: acceptability [40],pleasantness [17,26,41] ,and stress level
+[42] (see Appendix B).IntheExperience room, students assessed the
+sound conditions based ontwoaspects: acceptability onascale from (-1)
+to(1)andnoise level [40,43] (i.e., intensity [44])onacontinuous
+scale from (1)to(5)(seeAppendix C).
+2.5.Experimental setup
+Previous labexperiments were carried outinalaboratory setting,
+such asinanaudiometric room [7,16] ,testchamber [14,45] ,testing
+booth [25],oranechoic, semi-anechoic room [17,18,21,22,24] for
+direct sound exposure. Asthere isalack oftesting ofthebodily re-
+sponses ofdifferent sound types inrealsituations, thisstudy designedtwoexperimental setups: alaboratory setting inthetestchambers (asa
+direct sound exposure), and asemi-real environment setting inthe
+Experience room (asindirect sound exposure).
+2.5.1.TestChambers
+Thefirst sound exposure experiments were conducted intwotest
+chambers (area 2.2*2.4 m2)oftheSenseLab. Each ofthese testchambers
+wasfurnished with adesk andachair (Fig.4).Atimer device wasonthe
+wall infront ofthestudent sothat thestudent could track thelab
+experiment timeline next tothetimer.
+2.5.2.TheExperience room
+Thesecond sound exposure experiment wasconducted intheExpe-
+rience room (area: 6.1*4.2 m2andheight: 2.7m)oftheSenseLab. The
+floor iscovered with smooth grey linoleum material, theceiling consists
+ofwhite acoustic panels, andthewalls aremade oflaminated safety
+glass andcovered with light green sound-absorbing panels. Therever-
+beration time oftheExperience room was 0.22 seconds [46].The
+Experience room wasfurnished with eight tables (the topmaterial is
+made oflight wood laminate) andfivechairs (Fig.5);aresearcher satin
+front ofthestudents toguide them with thetest procedure. Each
+participant satatoneofthechairs inthemiddle oftheroom, where the
+four participants were relatively close.
+2.6.Pilottests
+Several rounds ofpilot tests with participants who didnottake part
+inthemain experiments were performed inOctober 2023. These tests
+Fig.2.Wearable sensor devices formeasuring AL,MRL, HR,andRR.
+Fig.3.Theaudiometric testset-up using anaudiometer.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+4
+
+aimed toselect thesound sources, define themost suitable SPLs foreach
+sound and determine theduration ofboth thebaseline and sound
+exposure times.≡Thefirstpilot testinvolved three participants tocompare fourbodily
+responses during afour-minute baseline andafour-minute break
+between two sound types: traffic andrural area athigh SPLs, as
+explained inTable 1.
+Fig.4.Test chamber set-up asalabaratory setting.
+Fig.5.Set-up intheExperience room asarealroom setting.
+Table1
+Descriptions ofthesounds played inboth testchambers andtheExperience room.
+Soundclip Frequency (Hz) MeanSPL(dB(A)) generated fromapairof
+earbudsMeanSPL(dB(A)) generated fromathefour
+speakers inExperience room
+‘Low ’condition ‘High ’condition ‘Low ’condition ‘High ’condition
+Outdoor sounds Quiet rural area 20–101 22 52 33 48
+Citycentre area with high traffic 20–20000 38 76 43 58
+Indoorsounds Mechanical ventilation 20–721 45 56 43 53
+People talking (inDutch) 148–940 39 53 38 58A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+5
+
+≡Inthesecond pilot test, with four participants, differences inbodily
+responses within thefirstandsecond twominutes ofafour-minute
+baseline, with atwo-minute break between lowandhigh SPLs of
+traffic sounds, were examined.
+≡Inthethird pilot test, fiveparticipants experienced atwo-minute
+baseline atthebeginning. Then, twosound types (rural area and
+traffic) were played attwoSPLlevels (low andhigh), with atwo-
+minute break between thetwo SPLs ofthesame sound and be-
+tween different sound types.
+≡Thefourth pilot test,with three participants, wassimilar tothethird
+onebutthebreak between different SPLs ofthesame sound type was
+eliminated.
+≡Based oncommon indoor sounds atstudents ’home study places
+(Appendix A),two additional sound sources were included: me-
+chanical ventilation andpeople talking. TheSPLs ofallfour sound
+types were setto‘bearable ’levels (below 100dB(A) asitisashort-
+term sound exposure forlessthan 15minutes [47])after discus-
+sion with tworesearchers.
+≡Thefifth pilot testfollowed thecomplete experimental procedure
+with four participants (two participating simultaneously). This
+included foursound types (rural area, traffic, mechanical ventilation,
+and talking people sounds), each played attwo SPLs, with two-
+minute baselines, two-minute breaks between different sound
+types, andaperceptual assessment form.
+Based ontheresults ofthefirsttwopilot tests, subtle changes were
+observed inbodily responses between thefirsttwoandthesecond two
+minutes ofafour-minute baseline andthebreak period. Forexample, in
+thesecond pilot test, theHRdifferences among thefour participants
+were lessthan 5%,with twoparticipants showing nodifferences atall.
+Additionally, theparticipants indicated that thefour-minute baseline
+wasrelatively toolong. Consequently, thebaseline period wasshortened
+totwominutes, aswasalsodone inthestudy byPark etal.[48].
+Theoutcome ofthethird pilot testshowed that HRdifferences be-
+tween thetwo-minute baseline andthetwo-minute break, within the
+same sound type, were minimal (0%fortwoparticipants, and2%and
+4%fortheothers). During therural sound condition athigh SPLwith a
+break inthethird pilot test, oneparticipant ’sHRdeclined byonly 1%.
+Incontrast, inthefourth pilot test, theHRofparticipants increased by
+7%during therural areasound condition athigh SPLwhen there wasno
+break. Therefore, thebreak between thesame sound type butatdifferent
+SPLs waseliminated duetotheobserved changes inbodily responses
+andbecause participants found thenumber ofbreaks toomuch.
+2.7.Soundtypesandlevels
+Four sound clips atdifferent frequencies were selected based onthe
+study byHamida etal.[32] (seeAppendix A:sounds identified atstu-
+dents ’home study places, preferred andnon-preferred sounds), andthe
+pilot tests. Two clips represented outdoor sounds andtworepresented
+indoor sounds, covering different frequencies, were downloaded from
+theonline database ‘Freesound ’[49]:1)aquiet rural area recorded in
+theNetherlands (covers low-frequency ranges), 2)acitycenter with
+high traffic recorded intheNetherlands (covers most frequency ranges),
+3)mechanical ventilation (covers lowfrequencies), and4)people talk-
+inginDutch (covers moderate frequency ranges); andcompiled intoone
+fileusing Audacity 3.3.3 software [50].These four sound clips were
+recorded monoaurally. Thequiet rural area andthecitycentre area clips
+were recorded outdoors while themechanical ventilation andthepeople
+talking clips were recorded indoors. Thesound signal spectra ofthefour
+sound clips areillustrated inFig.6.
+Inthetest chambers, thesounds were played through noise-
+canceling JBLLive Pro2earbuds. These were used because they are
+light ontheparticipant ’shead since they wearing theBrainLink LiteEEG
+device. Also, other researchers, such asGuo etal.[51],indicated that
+earbuds aretruewireless stereo devices thatcanbeconnected throughBluetooth toahardware device, such asacomputer, andcanprovide
+consistent output SPLs when they receive digital audio. IntheExperi-
+ence room asexplained byBluyssen etal.[33],they were played
+through four ceiling-mounted speakers ‘near-midfield studio monitors,
+three-way, 2*7″woofer, ADAM Audio A77x ’and‘asubwoofer 200W,
+1*10 ″MKII, ADAM Audio Sub10 ’from AMPTEC which areconnected to
+aBehringer UMC404HD audio interface. Each sound clipwasplayed at
+twodifferent sound pressure levels (SPLs): lowandhigh (Table 1).The
+SPLs fortheearbuds were measured using acalibrated KEMAR dummy
+head with twoBruel&Kjaer microphones. IntheExperience room, the
+SPLs were determined byusing aNorsonic Nor140sound level meter
+andensuring thattheSPLdidnotexceed 100dB(A).
+2.8.Procedure
+2.8.1.Testchambers experiment
+Thefirstexperiment wasdivided intotwoparts, each with aduration
+of14minutes (Fig.7).Thefirst part focused onthesounds from the
+outside while thesecond part focused onthesounds from theinside.
+Two students participated simultaneously inthisexperiment, each in
+oneofthetestchambers. Theresearcher gave anintroduction tothe
+students outside thetestchambers andexplained tothem theprocedure
+without informing thestudents about thesound sources. Aresearcher
+handed each ofthestudents themeasurement devices andthepairs of
+earbuds. Then each student entered thetestchamber, wasseated, and
+after twominutes heard thesentence ‘this isthestart oftheexperiment ’
+upon which thestudent started theexperiment bypressing thestart
+button onthetimer totrack theexperiment timeline. Students were
+asked toassess acceptability, pleasantness, andstress level during each
+sound condition. After theendofeach part, thestudent heard thesen-
+tence ‘This istheendoftheexperiment ’.Once thefirstpartwasfinished,
+thestudents were asked toleave thetestchamber andmove into the
+other testchamber. They hada5-minute break inbetween thetwoparts.
+Inthefirstpartoftheexperiment thestudents were exposed tofour
+conditions: 1)sounds ofaquiet rural area, which were played intwo
+SPLs (low andthen high) thateach lasted fortwominutes, 2)nosounds
+1thatlasted fortwominutes, 3)sounds ofacitycentre area with high
+traffic which was played intwoSPLs (low andthen high) that each
+lasted fortwominutes, and4)nosounds 2thatlasted fortwominutes.
+Thesecond part oftheexperiment consisted again offour conditions,
+with different sounds than inthefirst experiment: 1)sounds ofme-
+chanical ventilation, which were played intwoSPLs (low andthen high)
+that each lasted fortwominutes, 2)nosounds 3that lasted fortwo
+minutes, 3)sounds ofpeople talking sounds which wasplayed intwo
+SPLs (low andthen high) that each lasted fortwominutes, and4)no
+sounds 4thatlasted fortwominutes.
+2.8.2.Experience roomexperiment
+The second experiment, which was conducted intheExperience
+room, lasted for24minutes andconsisted ofnine conditions andthree
+breaks (Fig. 8).Four students and aresearcher were seated inthe
+Experience room. Each student wore thesame wearable sensor devices
+asinthetestchamber test.
+2.9.Datamanagement andanalysis
+Adataset forthegroup aswell asadata setforeach student was
+created inanExcel file.Each ofthedatasets included theaverage bodily
+responses (heart rate, respiration rate, attention, andMRLs) ofeach
+condition ineach experiment aswell astheperceptual assessment of
+each condition. Arelative change wascalculated tonormalised allfour
+indicators byapplying thefollowing Eq.(1).
+Relative changeofabodily response[C1 C2
+C2]
+×100 (1)A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+6
+
+Fig.6.Sound signal spectra forthefour sound clips ofthetwoexperiments.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+7
+
+Where C1rawbodily response toasound exposure condition; C2raw
+bodily response ofabreak (i.e., baseline) preceded bythesound expo-
+sure condition. Appendix Cincludes therawdata ofboth tests atan
+individual-level.
+Theaverage oftheperceptual assessments was calculated forthe
+group percondition, while theindividual bodily responses were recor-
+dedpercondition. Thecontinuous scale oftheperceptual assessment
+wasmeasured using aruler since thescale wasprinted in1:1scale in
+centimeters (Appendix B).Thestandard deviation (SD) forboth bodily
+response andperceptual assessment wascalculated forthegroup and
+perindividual among theconditions ofeach experiment. Spearman ’s
+rank-order nonparametric correlation analysis assessed thestrengthbetween thebodily response andperceptual assessment. This strength
+was examined bycalculating both thecorrelation coefficient (rF0.5)
+andtheprobability (p-valueD0.05).
+Anormality test(Shapiro-Wilk) was performed onthebodily re-
+sponses ofthegroup among alltheconditions ofboth experiments.
+Based onthat, atwo-tailed t-test (fornormally distributed bodily re-
+sponses andperceptual assessment variables) andWilcoxon signed-rank
+test(for not normally distributed bodily responses and perceptual
+assessment variables) were computed totest whether thebodily
+response and perceptual assessment differed significantly (p-val-
+ueD0.05) between thetwoexperiments ingeneral andpercondition.
+More specifically, these tests aimtoanswer thefourth sub-question by
+Fig.7.Experimental procedure inthetestchambers.
+Fig.8.Experimental procedure intheExperience room.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+8
+
+exploring whether bodily responses significantly differ when thesound
+wasdirectly exposed inthestudent ’searsascompared toindirect sound
+exposure. This answer explores thepotential ofconsidering bodily re-
+sponses inrealenvironmental settings (e.g., realstudy places).
+2.10.Ethicalaspects
+This study (application ID:3555) wasapproved bytheHuman Ethics
+Committee (HREC) ofDelft University ofTechnology onthe15th of
+November 2023.
+3.Results
+3.1.Audiometric tests
+InFig.9,theoutcome oftheaudiometric tests ispresented perstu-
+dent. According totheWHO test[37],allstudents hadnormal hearing in
+both ears, except fortwo(students 1and6)who suffered from mild
+hearing loss. Additionally, several students suffered from mild hearing
+lossinlowfrequencies (between 125and250Hz).More specifically, the
+hearing threshold ofstudents 3,4,6,10,11,and13of125Hzwas
+higher than 25dB,meaning thatthey have mild hearing lossatthatlow
+frequency sound. However, most ofthem could hear thehighest fre-
+quency (8000 Hz)inthelowSPLwith atleast oneoftheir ears.
+3.2.Bodilyresponses
+3.2.1.Bodilyresponses inthetestchambers
+The averaged responses ofthe15students tothefour indicators
+during theeight sound conditions oftheexperiments inthetestcham-
+bersarepresented inFig.10.Ingeneral, these fourindicators fluctuated
+during thedifferent sound conditions. ALincreased mostly during the
+‘high rural ’and‘high talking people ’conditions by15%and14%,
+respectively. MRL increased mostly during the‘low rural ’and ‘low
+traffic ’conditions by6%and5%,respectively. HRdecreased mostly
+during the‘high ventilation ’and‘low ventilation ’conditions by11%
+and10%,respectively. RRincreased mostly during the‘low traffic ’
+condition (2%).
+Atindividual-level, thefour bodily responses differed among the15
+participants inthetestchambers (seeFig.11).Also, bodily responses of
+several participants differed from theaverage ofthegroup. Examples:
+ ALdecreased themost during both ‘low rural ’and‘high rural ’con-
+ditions forstudents 2,8,10,and12.
+ MRL decreased themost forstudents 1,3,4,8,10,and13during
+‘low rural ’and‘high rural ’conditions, while forstudents 3,14,and
+15MRL decreased themost during the‘high traffic ’condition.
+ HRincreased themost during the‘high rural ’condition forstudents
+6,9,and15.RRincreased themost during the‘high rural ’condition
+forstudents 1,6,and7.
+ RRincreased themost during the‘high ventilation ’condition for
+students 7,8,and14.
+3.2.2.Bodilyresponses intheExperience room
+Fig.12shows theaverage percentage ofchange ofthefour bodily
+responses ofthe14students among theeight conditions intheExperi-
+ence room. ALdeclined during alleight conditions, especially during the
+‘high traffic ’,‘high talking people ’,‘lowtraffic ’,and‘lowtalking people ’
+by14%,11%,11%,and9%,respectively. Incontrast, MRL increased
+during most oftheconditions, especially during the‘high ventilation ’,
+‘high traffic ’,and‘low talking people ’by10%,9%,and9%,respec-
+tively. RRincreased mostly during the‘low ventilation ’and ‘high
+ventilation ’conditions, 5%and4%respectively.
+Thefourbodily responses differed among the14participants within
+theeight conditions intheExperience room (seeFig.13).Inaddition,
+thebodily responses ofseveral participants differed from theaverage ofthegroup. Examples:
+ ALincreased themost during the‘high ventilation ’condition forfive
+students (4,11,13,14,and15).
+ MRL decreased themost forfour students (2,4,11,and14)during
+the‘high talking people ’condition.
+ HRincreased themost during the‘high rural ’condition forthree
+students (3,5,and6).
+ RRincreased themost during the‘high rural ’condition forfour
+students (2,6,9,and14).
+3.2.3.Differences inbodilyresponses between thetwoexperiments
+Thenormality test(Shapiro-Wilk) ofthebodily responses showed
+that allbodily responses were normally distributed, except forMRL,
+which wasnotnormally distributed intheExperience room (p0.01).
+Therefore, at-test was performed forallbodily responses, except for
+MRL ofwhich aWilcoxon signed-rank testwascomputed totestthe
+differences between thebodily responses ofthe14students who
+participated inboth tests, ingeneral andpercondition. Thedifferences
+between themean bodily responses showed that only ALsignificantly
+differed between thetwotests (pD0.001), while other bodily responses:
+MRL (p0.16), HR(p0.33), andRR(p0.54) showed nosignificant
+differences. Table 2shows theresults ofthedifferences between the
+bodily responses ofthe14students percondition between thetwotests.
+ALsignificantly differed between thetwoexperiments ofthree condi-
+tions: ‘low traffic ’,‘high traffic ’,and‘low talking people ’while theMRL
+only differed significantly among the‘low rural ’condition. HRalso
+differed significantly between thetwoexperiments ofthree conditions:
+‘lowventilation ’,‘high ventilation ’,and‘lowtalking people ’.RRshowed
+nosignificant differences between thetwo tests among theeight
+conditions.
+Table 3presents thedifferences inthebodily responses atindividual-
+level. ALsignificantly differed between thetwotests among seven stu-
+dents. MRL showed significant differences between thetwotests among
+three students. HRsignificantly differed among two students only.
+Conversely, RRshowed nosignificant differences between thetwotests
+among all14students.
+3.3.Perceptual assessment
+3.3.1.Perceptual assessment intestchambers
+Fig.14shows theaverage scores ofthree perceptual assessments for
+eight different conditions inthetestchambers among the15students. It
+wasobserved that ‘low rural ’,‘low traffic ’,and‘low ventilation ’were
+themost acceptable conditions. Conversely, the‘high talking people ’
+wasperceived astheleast acceptable, theleast pleasant andthemost
+stressful condition. The‘low traffic ’condition wasconsidered themost
+pleasant condition. Furthermore, ‘low rural ’,‘high rural ’,‘low traffic ’,
+‘low ventilation ’,and‘low talking people ’were perceived astheleast
+stressful condition. Theperceptual assessment oftheeight conditions in
+thetestchambers varied among the15students asshown inFig.15,
+showing several differences among the15students from thedifferent
+profiles.
+3.3.2.Perceptual assessment intheExperience room
+Fig.16shows theaverage ofthetwoperceptual assessments ofthe
+eight conditions intheExperience room forthe14students. ‘Low rural ’,
+‘lowtraffic ’,and‘lowventilation ’were perceived asthemost acceptable
+andtheleast noisy conditions. ‘High talking people ’and‘high ventila-
+tion’were perceived astheleast acceptable conditions; andboth ‘high
+traffic ’and ‘high talking people ’were perceived asthemost noisy
+conditions. Fig.17shows thetwoperceptual assessments oftheeight
+conditions intheExperience room atindividual-level, showing some
+differences among the14students.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+9
+
+Fig.9.Theoutcome oftheaudiometric testforeach student.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+10
+
+3.3.3.Differences intheperceptual assessment between twoexperiments
+The means oftheacceptability level among theeight conditions
+perceived bythe14students showed nosignificant differences between
+thetwoexperiments (p0.12). Theacceptability of‘high traffic ’differedsignificantly between thetwoexperiments (p0.05). Other conditions
+showed nosignificant differences (Appendix D).The mean ofthe
+acceptability levels among theeight conditions between thetwo ex-
+periments atindividual-level differed significantly forseven students:
+Fig.10.Percentage ofchange inbodily responses ofthegroup-level inthetestchambers.
+Fig.11.Percentage ofchange inbodily responses perstudent inthetestchambers.
+Fig.12.Percentage ofchange inbodily responses ofthegroup intheExperience room.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+11
+
+student 3(p0.05), student 6(p0.03), student 7(p0.01), student 8
+(p0.04), student 13(p0.01), student 14(p0.03), andstudent 15
+(p0.01).
+3.4.Correlations between bodilyresponses andperceptual assessments
+3.4.1.Correlations between responses inthetestchambers
+Theresults ofthecorrelations between each ofthefour bodily re-
+sponses andthree perceptual assessments atgroup-level areshown in
+Table 4.Nostrong norsignificant correlations between thethree bodily
+responses AL,HR,andRRandthethree perceptual assessment were
+found. MRL showed strong andpositive butnotsignificant correlations
+with acceptability, pleasantness, andstress level.
+Thecorrelations between thefour bodily responses andthethree
+perceptual assessments inthetestchamber atindividual-level differed
+among thestudents (seeAppendix E).
+3.4.2.Correlations between responses intheExperience room
+Table 5shows thecorrelations between each ofthefour bodily re-
+sponses with thetwo perceptual assessments atgroup-level. ALwas
+strongly, positively, andsignificantly correlated with both perceptual
+assessments: acceptability and noise level. HRshowed astrong and
+negative aswell asasignificant correlation with noise level, meaning
+thatHRincreased when thecondition wasperceived asaloud noise. In
+addition, HRwasstrongly andnegatively correlated with acceptability,
+although thiscorrelation wasnotstatistically significant. MRL andRR
+didnotshow strong norsignificant correlations with thetwoperceptual
+assessments.
+Fig.13.Percentage ofchange inbodily responses perstudent intheExperience room.
+Table2
+Theprobability ofdifferences inthebodily responses between twoexperiments
+percondition atgroup-level.
+Condition AL MRL HR RR
+Low rural 0.28 0.05 0.95 0.56
+High rural 0.19 0.31 0.76 0.57
+Low traffic 0.03 0.73 0.90 0.26
+High traffic 0.03 0.11 0.79 0.72
+Low ventilation 0.95 0.68 P<0.001 0.08
+High Ventilation 0.85 0.32 P<0.001 0.12
+Low talking people 0.02 0.15 0.03 0.86
+High talking people 0.10 0.93 0.65 0.40
+Table3
+Theprobability ofdifferences ofthebodily responses between twoexperiments
+atindividual-level.
+Profile Student AL MRL HR RR
+1
+ 1 0.14 0.96 0.67 0.16
+2 0.77 0.02 0.72 0.98
+2
+ 3 0.006 0.04 0.20 0.25
+4 0.61 0.51 0.61 0.25
+3
+ 5 0.51 0.53 0.28 0.60
+6 0.03 0.05 0.15 0.59
+7 0.23 0.16 0.004 0.42
+4
+ 8 P<0.001 0.06 0.04 0.69
+12 0.08 0.09 0.56 1.00
+14 P<0.001 0.80 0.53 0.82
+15 P<0.001 0.08 0.36 0.67
+5
+ 9 P<0.001 0.58 0.15 0.91
+11 P<0.001 0.95 0.53 0.31
+13 0.21 0.47 0.65 0.17A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+12
+
+4.Discussion
+4.1.Keyfindings
+Inthepresent study, itwasinvestigated which bodily responses can
+bemeasured toexplain differences inpreferences and/or needs ofuni-
+versity students from different profiles while being exposed todifferent
+sounds intwo settings. Four main findings arediscussed below: the
+audiometric test, theperceptual assessments ofthedifferent profiles,
+correlations between bodily responses andperceptual assessments, and
+direct andindirect sound exposure.
+4.1.1.Theaudiometric test
+Sixstudents (3,4,6,10,11,and13)suffered from mild hearing loss
+inlow-frequency sounds (Fig.8).Interestingly, these students belong to
+theprofiles who aresound partially concerned orsound unconcerned
+(students 3and4aresound unconcerned introverts, student 6isasound
+partially concerned introvert, andstudents 10,11,and13aresoundunconcerned extroverts). Moreover, student 6’sHRincreased themost
+while being exposed tothelow-frequency sound stimuli: the‘low rural ’
+condition inthetestchamber ’sexperiment butfound itmost acceptable.
+Similarly, student 13,hadthehighest HRincrease inthesame condition
+intheExperience room ’sexperiment butperceived itasslightly noisy
+andacceptable. These observations could mean that even though the
+student could nothear thesound source atacertain SPL, thebody
+responded physiologically. Mackersie etal.[23] highlighted that par-
+ticipants with hearing lossmay experience increased effort andstress
+during speech recognition innoisy environments, which could influence
+thepsychophysiological responses concerning theautonomic nervous
+system. This might explain theincreased HRinstudents 6and13,who
+likely expected tohear asound during the‘low rural ’condition butdid
+not,leading tostress andariseinHR.Therefore, hearing acuity seems
+anessential indicator toconsider insound exposure experiments that
+could explain aperson ’sacoustical preferences andneeds.
+Fig.14.Average perceptual assessments ofthegroup during theeight conditions inthetestchambers.
+Fig.15.Perceptual assessments perstudent inthetestchambers.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+13
+
+4.1.2.Perceptual assessments andthefiveprofiles
+Several differences inperceptual assessments were observed at
+group, individual, andprofile levels. Forexample, inthetestchamber
+(asillustrated inFig.15),sixstudents (1,3,5,6,13,and14)deemed the
+‘high traffic ’condition asunacceptable, noting that four ofthese stu-
+dents arefrom profiles 1,3,and4who aresound concerned. Interms of
+pleasantness, students 2,8,and12(from profiles 1and4)perceived the
+‘high rural ’condition asunpleasant, confirming thatthese students are
+sound concerned. Conversely, fivestudents (7,10,11,12,and15)found
+the‘high traffic ’condition aspleasant. Interestingly, these students are
+exposed totraffic sounds attheir home study place (Appendix A),which
+might result inthehabituation ofthissound type. Another example,
+concerning stress levels, sixstudents (4,7,8,10,13,and15)perceivedthe‘high talking people ’condition asnotstressful, ofwhich fourofthem
+belong totheextrovert profiles: 4and5.Pertaining totheperceptual
+assessments intheExperience room (Fig.17),both students 1and2who
+belong tothe‘sound extremely concerned introvert ’profile perceived
+the‘high rural ’condition asunacceptable, which confirms that these
+two students areextremely sound concerned. Hence, these findings
+substantiate theconclusions ofHamida etal.[32]:students from
+different profiles differ intheir acoustical preferences.
+4.1.3.Correlations between bodilyresponses andperceptual assessments
+Bodily responses didnotshow strong orsignificant correlations with
+perceptual assessments atthegroup-level inthetestchamber experi-
+ment, except forMRL. Although MRL showed astrong andpositive
+Fig.16.Average perceptual assessments ofthegroup intheExperience room.
+Fig.17.Perceptual assessments perstudent intheExperience room.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+14
+
+correlation with thethree perceptual assessments, thiscorrelation was
+notstatistically significant. Attheindividual-level, only twostudents
+(students 6and12)displayed astrong andpositive correlation between
+their MRL andacceptability. Additionally, student 6’sMRL wasstrongly,
+positively, andsignificantly correlated with pleasantness. Conversely,
+student 4’sMRL wasstrongly andsignificantly, butnegatively, corre-
+lated with theperceptual stress level. Since MRL isnotsignificantly
+correlated with perceptual assessments, itcould beused asaninde-
+pendent bodily response alongside theother three bodily responses
+which didnotshow strong norsignificant correlations, separate from
+perceptual assessments.
+IntheExperience room experiment, ALwasstrongly, positively, and
+significantly correlated with both acceptability and noise levels at
+group-level. Itimplies thatwhen thesound condition wasperceived as
+‘acceptable ’and‘nonoise ’,ALincreased, andviceversa. Similarly, for
+individual students 6and7,ALshowed strong, positive, andsignificant
+correlations with acceptability perceptual assessments. Furthermore,
+student 8’sALwasstrongly, positively, andsignificantly correlated with
+theperceived noise level. Additionally, HRwasstrongly, negatively, and
+significantly correlated with noise levels during theExperience room
+experiment atgroup-level: HRincreased asthenoise level wasperceived
+asloud ofwhich SPLwassetatahigh level. This finding aligns with
+Lorenzino etal.[52],whoconcluded thatnoise levels ranging from 30to
+55dB(A) significantly impacted acoustical comfort, with higher noise
+levels correlating with increased HRandpsychological discomfort. It
+also corroborates Abbasi etal.[14],who found that HRsignificantly
+differed among various sound levels oflow-frequency noise. Moreover,
+Latini etal.found astrong association between pulse rateandsound-
+scape response ofwhich thepulse rate decreased with perceived
+pleasant sounds andincreased with perceived unpleasant sounds [53].
+Thus, HRisasignificant bodily response indicator associated with the
+noise level andsound type (i.e., soundscape).
+Insummary, thefour bodily responses aregenerally independent of
+theperceptual assessments. This indicates that perceptual assessmentscannot bereliably predicted from bodily responses, norcanbodily re-
+sponses bepredicted from perceptual assessments. This also confirms
+thestudy byErfanian etal.[54] thatsoundscape studies should consider
+both bodily responses andperceptual assessments (i.e., psychological) to
+understand better how and why individuals experience thesound
+environment insuch way. However, ourstudy shows that HRisan
+exception, asitcanexplain theperceptual assessment related tothe
+perception ofthenoise level corresponding totheSPLasaphysical in-
+dicator. Inaddition, ALisanexception thatcould explain both accept-
+ability andnoise level.
+4.1.4.Directsoundexposure vsindirect soundexposure
+The present study compared bodily responses and perceptual
+assessment between twoexperimental settings: direct sound exposure
+(laboratory setting inthetestchambers) andindirect sound exposure
+(semi-real lifesetting intheExperience room). Atgroup-level, themean
+ALamong theeight conditions varied significantly between thetwo
+experiments, particularly under the‘low traffic ’,‘high traffic ’,and‘low
+talking people ’conditions. These significant changes were alsoobserved
+atindividual-level forseven students. Conversely, theacceptability as-
+sessments didnotshow significant differences between thetwoexperi-
+ments. Given the significant differences inALbetween the two
+experiments atboth group andindividual levels (among seven students),
+itappears thatthisbodily response might beaffected bythedifferences
+intheexperimental setup between thetwoexperiments. Additionally,
+MRL differed significantly between thetwoexperiments among three
+students anddiffered inthefirst condition ‘low rural ’atgroup level,
+which showed decreases inthesecond experiment. These differences
+might belinked totheexperimental procedure. Itcanbealsonoted that
+thesound exposure time forboth experiments lasted twominutes per
+condition. Thus, both ALandMRL could bemore reliable bodily re-
+sponses forlonger sound exposure durations, such as5[14,51] or
+10min[7].Furthermore, these twobodily responses could bemeasured
+insound exposure experiments thatinvolve performance tasks, such as
+testing mental fatigue [14] orattention based onacognitive task [7],
+which could explain differences inperformances. Both HRand RR
+showed nosignificant differences between thetwoexperiments atgroup
+level. However, HRdidshow significant differences under ‘low venti-
+lation ’and ‘high ventilation ’conditions with agreater decrease
+observed inthefirstexperiment. This difference may berelated tothe
+factthatthestudent moved between chambers prior tothese twocon-
+ditions. Also, significant HRdifferences were only observed intwoin-
+dividual students. Moreover, HRwassignificantly correlated with the
+noise level. Therefore, HRandRRseem applicable forexplaining dif-
+ferences inacoustical preferences andneeds within short-term sound
+exposure experiments. These twobodily responses canbemeasured in
+real-life situations, such asastudy place, since nodifferences were
+observed between thetwoexperiments aswell asthey were normally
+distributed among students inboth experiments.
+4.2.Strengths andlimitations
+This study represents afirst attempt toinvestigate university stu-
+dents ’bodily responses andperceptual assessments, accounting fortheir
+varying acoustical and psychosocial preferences and needs, across
+multiple levels: group, individual, andprofile levels. Through labex-
+periments, itenhanced theunderstanding ofstudents ’acoustical pref-
+erences, previously classified into fiveprofiles [32].Another notable
+strength ofthisstudy istheaudiometric testconducted with 15students,
+inwhich hearing thresholds atdifferent frequencies (forboth ears) were
+examined, based ontheWHO guidelines [37].Additionally inthisstudy,
+bodily responses and perceptual assessments intwo distinct settings
+were compared: alaboratory setting intestchambers andasemi-real life
+setting intheExperience room.
+Despite thenovel contributions ofthisstudy, ithassome limitations.
+First, thesample sizeisrelatively small, comprising 15students (power:Table4
+Correlations between bodily responses andperceptual assessments inthetest
+chambers atgroup-level.
+Bodilyresponses vsperceptual assessments R P-value
+ALvsAcceptability  0.2 0.69
+ALvsPleasantness  0.1 0.74
+ALvsStress level 0.2 0.65
+MRL vsAcceptability 0.7 0.06
+MRL vsPleasantness 0.6 0.14
+MRL vsStress level 0.6 0.10
+HRvsAcceptability 0.0 0.91
+HRvsPleasantness 0.3 0.49
+HRvsStress level  0.1 0.87
+RRvsAcceptability 0.2 0.57
+RRvsPleasantness 0.3 0.42
+RRvsStress level 0.1 0.74
+Table5
+Correlations between bodily responses and perceptual assessments inthe
+Experience room atgroup-level.
+Bodilyresponses vsperceptual assessments R P-value
+ALvsAcceptability 0.6 0.03
+ALvsNoise level 0.8 P<0.001
+MRL vsAcceptability  0.4 0.22
+MRL vsNoise level  0.2 0.57
+HRvsAcceptability •0.5 0.10
+HRvsNoise level •0.6 0.04
+RRvsAcceptability  0.4 0.25
+RRvsNoise level 0.0 0.89
+The correlations between thefour bodily responses indicators and thetwo
+perceptual assessments differed among the14students (seeAppendix F).A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+15
+
+1-β0.6)from theFaculty ofArchitecture andtheBuilt Environment, all
+ofwhom hadparticipated inapreviously conducted study [32].Second,
+thedistribution ofstudents across thefiveprofiles wasuneven, though a
+minimum oftwostudents perprofile were included. Third, onestudent
+(student 10)didnotparticipate intheExperience room experiment,
+reducing thesample sizeforthecomparative analysis to14students.
+While perceptual assessments supported theacoustical preferences
+associated with each profile, thesmall sample sizelimits thegeneral-
+isation ofthese findings. Fourth, themeasured SPLofthesame sound
+type differed between theearbuds (direct exposure) andthespeakers
+(indirect exposure) which might berelated thatsounds intheExperience
+room diffused andabsorbed within theroom. Fifth, thesound conditions
+ofboth experiments were notrandomised among thedifferent groups of
+students duetothesmall sample sizepergroup (3or4students) and
+only four groups. Finally, thebodily responses data were calculated as
+mean values forthetwo-minute exposure time rather than thereal-time
+measurements persecond duetothelimitations oftheGarmin smart-
+watch thatexports theHRandRRdata pertwo-minutes.
+4.3.Implications andfutureresearch
+Theinterpretation ofthekeyfindings ofthisstudy (asdetailed in
+Section 4.1)provides insights forfuture researchers inthedesign and
+set-up ofsound exposure experiments aimed atinvestigating partici-
+pants ’bodily responses toandperceptual assessments ofsounds.
+First, theaudiometric testisacritical procedure with thepotential to
+elucidate participants ’bodily responses and perceptual assessments
+when exposed tospecific sound types. Second, profiling participants (e.
+g.,students) based ontheir acoustical preferences could provide aclear
+understanding oftheir perceptual assessments ofdifferent sounds.
+Third, HRandRRarereliable androbust indicators ofbodily responses
+that can beeffectively measured using simple wearable devices,
+demonstrating clear reactions toshort-term sound exposure. Lastly,
+given thelack ofstrong orsignificant correlations between bodily re-
+sponses andperceptual assessments, itisimperative toconsider both
+independently insound exposure research.
+Because ofthesample sizelimitations asthisisafollow-up study ofa
+specific pool ofstudents, itisrecommended forfuture research torecruit
+atleast 26students perprofile (ofwhich thepower level is1-β0.8,as
+indicated byPark etal.[48]).This could better present theresults per
+profile rather than perindividual, such asperforming thecorrelations
+between thebodily responses andperceptual assessments perprofile and
+testing whether theprofile isasignificant variable. Furthermore, itis
+recommended forfuture sound exposure experiments torandomise the
+sound conditions toacquire comprehensive results inexplaining how
+bodily responses canbeused toexplain differences insound perceptions
+andpreferences. Given thefactthattheHRandRRshowed nosignifi-
+cant differences between thetwoexperiments, itisencouraged toalso
+measure them inareal-life situation, such asarealstudy place.
+5.Conclusion
+This study conducted two sound exposure experiments with 15
+university students from five profiles who differ intheir acoustical
+preferences oftheir study places. Each experiment included four bodily
+responses (AL, MRL, HR, and RR) and five perceptual assessments
+(acceptability, pleasantness, stress level, andnoise level), while students
+were exposed tofoursound types varying infrequencies andSPLs intwodifferent settings. Thekeyfindings aresummarised asfollows:
+1.Therelationship between hearing acuity andbodily responses (such
+asHR) andsound perception seems tobeessential forbetter un-
+derstanding how ourbody responds tosound. Itwasobserved that
+although students suffered from mild hearing lossinlowfrequency,
+their bodies physiologically responded when they were exposed toa
+low-frequency sound condition.
+2.Theoutcomes from thisstudy showed thattheperceptual assessment
+inalabexperiment setting confirmed theacoustical preferences of
+thefiveprofiles ofuniversity students.
+3.This study found thatboth HRandRRwere notstrongly norsignif-
+icantly correlated with perceptual assessments during direct sound
+exposure inthetestchamber. HRwas strongly and significantly
+related totheperceptual assessment ofnoise level intheExperience
+room.
+4.Both HRandRRshowed nosignificant differences between thetwo
+experiments ofthisstudy. This implies that they arereliable for
+explaining acoustical preferences andcanbemeasured inrealen-
+vironments aswellsince they showed nodifferences between thetwo
+settings: alaboratory setting intestchambers andasemi-real life
+room setting intheExperience room. Incontrast, ALandMRL were
+affected bytheexperimental setting andprocedure inthisstudy,
+which could bemore reliable foralonger sound exploration ofex-
+periments and/or involve performance tasks.
+CRediT authorship contribution statement
+Philomena M.Bluyssen: Writing –review &editing, Supervision,
+Methodology, Conceptualization. AnneMarie Eijkelenboom: Writing –
+review &editing, Supervision, Methodology, Conceptualization. Ales-
+sandroD′Amico: Writing –review &editing, Supervision, Methodol-
+ogy, Investigation, Data curation, Conceptualization. Amneh Hamida:
+Writing –original draft, Visualization, Methodology, Investigation, Data
+curation, Conceptualization.
+Declaration ofCompeting Interest
+Theauthors declare that they have noknown competing financial
+interests orpersonal relationships thatcould have appeared toinfluence
+thework reported inthispaper.
+Acknowledgements
+Theauthors would liketothank the15students oftheFaculty of
+Architecture andtheBuilt Environment atDelft University ofTechnol-
+ogyfortheir participation inthelabexperiment. Wealsothank Pedro
+Pablo delaBarra Luegmayer from theFaculty ofArchitecture andthe
+Built Environment atDelft University ofTechnology forhelping uswith
+thePython code torecord thedata from theEEG headband device.
+Additionally, theauthors would liketothank Wouter vandenBosfrom
+theFaculty ofMechanical Engineering atDelft University ofTechnology
+forproviding theaudiometer. Also, wewould like tothank Martin
+Tenpierik from theFaculty ofArchitecture andtheBuilt Environment
+andHenry denBokfrom theFaculty ofApplied Sciences atDelft Uni-
+versity ofTechnology fortheir assistance inusing theKEMAR dummy
+head. Inaddition, wearegrateful tothe12volunteers who participated
+inthepilot tests.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+16
+
+Appendices
+Appendix A
+Home study place characteristics ofthestudents.
+Student
+(profile)Building type Homestudyplacelocation Soundsources athomestudy
+placeSoundis
+noiseSoundsource
+preference
+Student
+housingPrivate
+housing
+with
+roommate
+(s)Private
+housing
+with
+parentsPrivate
+studioPrivate
+bedroomPrivate
+office
+roomShared
+living
+roomFromoutside Frominside
+1(1) X ​ ​ X ​ ​ ​ -Construction
+-Truck loading-Mechanical
+ventilation-Continuous
+sounds-Silence
+-People
+studying atthe
+library
+-Music
+2(1) X ​ ​ X ​ ​ ​ -Doorbell from
+theother
+building
+-Truck loading-Footsteps
+from
+neighbours
+upstairs
+-Refrigerator-Distracting
+sounds
+-Not constant
+sounds
+-Loud sounds-Music
+-Winds sounds
+-Rain sounds
+3(2) X ​ ​ ​ X ​ ​ -Nearby school
+inthemorning
+-Winds-People talking
+intheliving
+room-Distracting
+sounds
+-Noticeable
+sounds
+-Not normal
+sounds
+-Vacuum
+sounds
+-Loud sounds-Music
+-people
+walking
+sounds
+4(2) ​ X ​ ​ ​ X ​ -Traffic (cars) -Radio
+-People talking
+intheliving
+room-Louds sounds
+(e.g., washing
+machine)-Music
+5(3) ​ ​ X ​ X ​ ​ -Birds
+-Traffic sounds
+inprevious
+home study
+place-People talking
+intheliving
+room
+-TV
+-Washing and
+drying
+machines-Louds sounds
+(e.g., vacuum
+machine)-Quiet sound
+environment
+-Rain sounds
+6(3) ​ ​ X ​ X ​ ​ -Birds
+-People playing
+atthesoccer
+field (when the
+window is
+opened)
+-Neighbour
+sounds from the
+garden (only
+during summer
+when the
+window is
+opened)-People talking
+intheliving
+room-People
+sounds-Quiet sound
+environment
+7(3) ​ X ​ ​ X ​ ​ -Caf˘e’
+-Birds
+-Electric saw
+-Traffic (cars,
+tram)
+-Sirens-Neighbours
+talking-Continuous
+sounds (too
+long sound
+duration)
+-Neighbours
+talking
+-Electric saw
+sounds-Music (piano)
+-Listening to
+podcast
+8(4) ​ ​ X ​ X ​ ​ -Winds andrain
+when the
+window is
+opened
+-Traffic (cars)
+when the
+window is
+opened
+-Children
+playing outside
+when the
+window is
+opened-People talking
+inthesame
+house
+-Washing and
+drying
+machines
+-Parot talking-When
+student ’s
+mood is
+negative, all
+sounds are
+considered
+noise
+-Inconstant
+sounds-Music (piano
+andwith
+known lyrics)
+(continued onnextpage)A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+17
+
+Appendix A(continued )
+Student
+(profile)Building type Homestudyplacelocation Soundsources athomestudy
+placeSoundis
+noiseSoundsource
+preference
+Student
+housingPrivate
+housing
+with
+roommate
+(s)Private
+housing
+with
+parentsPrivate
+studioPrivate
+bedroomPrivate
+office
+roomShared
+living
+roomFromoutside Frominside
+9(5) X ​ ​ ​ X ​ ​ -People
+working inthe
+garden
+-Birds
+-Rains-Music sounds
+from
+neighbour
+upstairs (not
+often. happens
+once ortwice a
+month)
+-Itisaquiet
+home study
+place in
+general-Continuous
+sounds (too
+long sound
+duration)
+-Loud sounds-Different
+types ofmusic
+(classical. pop.
+soul) inalow
+level asa
+background
+10(5) X ​ ​ ​ ​ ​ X -Traffic (cars) -People talking
+inthesame
+apartment
+-Washing
+machine
+-Footsteps
+from
+neighbours
+upstairs-Inconstant
+sounds
+-Distracting
+sounds-Quiet sound
+environment
+11(5) ​ X ​ ​ X ​ ​ -People
+walking
+-Traffic (cars
+andtram)-Plumbing
+system
+-People
+walking and
+talking from
+thesame
+apartment-Allsounds are
+noise
+-People
+walking
+sounds arenot
+noise. itisa
+pleasant
+sound-Music (e.g.
+rock. hip-hop.
+electronic).
+12(4) X ​ ​ ​ X ​ ​ -Goose
+-Sirens from
+police and
+ambulance
+stations (the
+student get
+used tothese
+sounds)-Music played
+byother
+students inthe
+same
+apartment-Inconstant
+sounds
+-Loud sounds-Music
+without lyrics
+-People
+studying
+sounds (e.g.
+paper-flipping
+sounds)
+-Constant
+sounds such as
+rain
+13(5) ​ ​ X ​ ​ X ​ -Winds andrain
+-Traffic (cars,
+trains butnot
+often, and
+planes)-Door tapping
+sounds when it
+isawindy day
+-Itisaquiet
+home study
+place from the
+inside-Loud sounds
+-Unusual
+sounds
+-Scooter
+sounds-Wind sounds
+-Birds sounds
+14(4) X ​ ​ X ​ ​ ​ -Itisaquiet
+home study
+place from the
+outside
+-Truck loading
+sounds-Itisaquiet
+home study
+place from the
+inside
+-Ventilation in
+thebathroom
+(when thedoor
+isopen)-Loud sounds
+-Irregular
+sounds
+-Any sounds
+thatcannot be
+filtered out-Depends on
+studying task
+-Music
+-Rainfall
+sounds
+15(4) X ​ ​ ​ X ​ ​ -People talking
+-Traffic sounds
+inprevious
+home study
+place-People talking
+-Mechanical
+ventilation-Continuous
+sounds
+-Party sounds-Quiet study
+place while
+studying
+-Listening to
+music during
+drawing
+Profile 1:Sound extremely concerned introvert, profile 2:sound unconcerned introvert, profile 3:sound partially concerned introvert, profile 4:sound concerned
+extrovert, profile 5:sound unconcerned extrovert
+Appendix B.Perceptual assessment form
+B.1.Test inthetestchamber.
+B.2.Test intheExperience room.A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+18
+
+Appendix C
+Raw data ofbodily responses
+ALintestchamber ALinExperience room
+1 23456789101112131415 1234567891112131415
+Baseline 1 17 42 23 43 50 40 51 66 54 55 42 58 24 45 59 71 42 45 58 61 46 58 39 50 48 49 42 45 54
+Lowrural 30 37 49 51 53 39 54 46 41 44 48 40 37 50 58 63 43 35 51 48 56 58 39 58 52 43 38 44 56
+Highrural 32 41 49 47 55 38 60 39 53 44 56 42 39 47 52 57 45 26 51 38 40 57 49 47 53 50 43 46 58
+Baseline 2 37 40 60 39 49 39 51 41 52 53 50 28 32 48 52 57 47 32 59 42 60 55 55 49 68 49 47 44 59
+Lowtraffic 44 44 48 39 52 36 56 39 51 51 34 38 32 50 52 47 53 26 59 41 56 60 60 44 34 40 31 38 52
+Hightraffic 40 46 44 43 42 40 53 38 45 48 34 51 46 51 63 43 56 30 56 41 55 54 36 40 36 31 47 37 51
+Baseline 3 55 56 33 39 63 37 57 63 48 54 38 47 55 49 44 40 60 60 45 41 63 53 42 54 40 45 34 45 50
+Lowventilation 61 57 39 58 56 33 61 48 48 50 37 34 32 52 49 44 54 38 44 49 51 48 45 51 62 22 37 47 54
+HighVentilation 54 50 38 44 44 39 50 65 63 51 50 42 31 46 53 45 62 36 57 39 26 50 40 39 64 34 40 52 54
+Baseline 4 61 60 55 49 42 40 52 58 55 52 52 15 30 53 58 45 61 51 51 58 61 51 70 49 66 40 51 51 52
+Lowtalkingpeople 56 59 54 46 40 43 55 65 59 53 50 29 43 49 58 48 56 27 44 51 53 54 57 46 60 47 42 50 48
+Hightalkingpeople 60 62 51 48 44 48 49 66 49 49 47 42 40 51 58 60 53 23 59 42 45 47 49 48 61 33 44 50 50
+MRLintestchamber MRLinExperience room
+1 23456789101112131415 1234567891112131415
+Baseline 1 63 47 62 54 43 54 56 69 42 54 61 48 60 49 43 63 43 58 51 57 51 34 56 82 48 67 56 47 51
+Lowrural 60 58 60 50 56 52 53 72 51 52 59 55 59 56 51 54 45 59 45 61 45 41 62 70 46 59 60 41 53
+Highrural 56 55 58 45 56 47 56 70 52 51 59 52 49 48 51 56 48 57 52 65 47 36 52 69 52 61 49 43 56
+Baseline 2 55 62 58 51 56 54 49 71 49 52 57 51 40 55 50 51 49 58 48 60 44 37 45 45 48 61 48 47 65
+Lowtraffic 56 68 56 50 57 60 55 66 54 50 53 58 52 52 54 55 51 65 49 50 57 37 50 56 56 58 50 53 67
+Hightraffic 54 64 53 48 55 56 51 64 62 55 56 53 48 50 47 58 49 64 50 55 54 40 53 62 57 48 49 58 61
+Baseline 3 55 49 57 51 55 65 60 52 74 62 47 49 42 63 43 57 55 46 49 53 40 42 53 50 61 47 56 57 56
+Lowventilation 50 51 67 45 53 66 60 60 67 62 58 48 47 62 51 53 48 55 56 50 44 48 59 66 50 71 55 56 57
+HighVentilation 52 65 57 50 57 58 52 50 58 55 52 47 41 59 59 51 52 51 58 51 65 46 54 71 55 71 54 53 49
+Baseline 4 49 69 58 46 56 65 53 53 60 55 60 59 53 53 49 48 66 54 59 54 31 51 38 54 52 65 47 57 53
+Lowtalkingpeople 58 63 61 49 52 60 62 44 54 54 54 61 51 58 41 54 55 68 58 56 43 57 54 57 50 61 48 58 56
+Hightalkingpeople 52 65 68 52 57 59 59 51 68 52 50 62 55 56 39 53 59 59 53 63 43 58 57 55 46 60 53 47 50
+HRintestchamber HRinExperience room
+1 23456789101112131415 1234567891112131415
+Baseline 1 71 89 84 67 68 69 70 77 68 76 78 49 48 74 51 66 68 62 76 57 67 53 72 64 73 55 56 69 67
+Lowrural 67 89 78 62 60 72 61 65 70 64 73 46 41 72 52 56 69 63 61 60 68 52 68 63 67 45 60 57 55
+Highrural 69 89 75 65 61 72 61 69 71 62 73 49 43 66 56 58 69 66 62 63 71 54 65 66 63 44 55 55 54
+Baseline 2 67 90 76 65 62 72 65 72 72 65 73 50 46 66 56 60 68 66 63 62 69 56 68 66 62 45 72 56 53
+Lowtraffic 67 89 76 65 69 73 63 69 73 74 73 50 43 69 56 61 68 65 62 62 71 55 71 63 62 46 70 54 56
+Hightraffic 68 92 80 61 66 71 63 68 71 68 75 50 47 67 57 59 69 65 60 66 74 56 70 66 65 46 63 55 58
+Baseline 3 72 97 83 66 71 77 70 72 80 73 82 63 56 75 62 59 73 65 61 64 72 60 72 67 67 48 54 55 56
+Lowventilation 65 90 83 61 60 70 62 66 73 64 77 50 49 72 55 57 71 67 63 61 70 59 68 60 68 48 46 56 55
+HighVentilation 64 78 75 62 63 69 66 68 70 64 69 52 49 66 58 60 76 67 60 62 72 59 70 62 66 51 48 57 56
+Baseline 4 62 82 74 61 64 73 68 68 69 64 69 54 47 65 56 58 79 68 63 62 70 57 67 67 69 50 47 59 60
+Lowtalkingpeople 62 82 76 61 67 72 68 70 70 63 71 50 52 69 60 58 73 69 64 60 70 58 69 63 69 47 50 59 56
+Hightalkingpeople 63 85 74 62 64 72 61 72 73 64 72 49 49 67 57 59 72 68 62 62 71 60 70 68 69 49 49 58 57
+RRintestchamber RRinExperience room
+1 23456789101112131415 1234567891112131415
+Baseline 1 12 15 14 13 13 12 12 15 14 15 12 14 14 14 13 15 13 13 14 12 13 14 13 13 13 14 14 13 13
+Lowrural 13 15 14 12 14 11 13 14 14 13 11 13 14 13 13 14 13 13 13 10 14 13 12 13 13 13 13 13 13
+Highrural 14 14 13 14 13 14 14 14 13 14 11 13 14 12 12 13 15 13 12 9 14 13 12 14 12 13 13 14 13
+Baseline 2 14 13 13 14 13 13 14 13 14 14 11 13 14 13 13 14 14 14 12 9 15 13 13 14 11 13 13 14 13
+Lowtraffic 14 14 13 13 14 13 14 13 13 14 13 13 14 13 15 13 14 14 13 10 14 13 13 13 11 13 13 14 13
+Hightraffic 15 13 13 13 14 12 12 13 14 14 12 13 14 13 14 13 13 13 13 11 14 13 13 12 10 13 14 13 14
+Baseline 3 14 13 14 12 14 13 13 13 11 13 13 15 15 13 14 13 14 12 13 9 14 13 14 11 10 13 13 13 13
+Lowventilation 15 13 13 14 13 13 13 13 11 14 12 14 14 14 14 14 13 12 15 10 14 13 14 10 11 13 14 14 15
+HighVentilation 14 13 13 13 12 13 13 14 11 13 13 14 13 14 13 13 14 13 15 11 14 13 13 10 12 13 13 13 15
+Baseline 4 14 14 13 13 13 13 13 13 11 14 12 14 14 13 13 13 14 12 14 11 14 14 13 10 13 13 13 13 14
+Lowtalkingpeople 13 15 13 13 14 14 13 13 10 13 11 14 13 13 13 13 13 12 14 11 13 14 14 10 13 13 14 12 13
+Hightalkingpeople 13 14 13 13 14 14 12 13 10 14 11 14 12 13 13 13 13 12 15 13 13 13 14 11 13 12 15 13 13A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+19
+
+Appendix D
+Differences inperceptual assessments (acceptability) between thetwoexperiments
+D.1Atgroup-level percondition
+Condition P-value
+Low rural 0.03
+High rural 0.12
+Low traffic 0.0.9
+Low ventilation 0.27
+High ventilation 0.09
+Low talking people 0.29
+High talking people 0.34
+D.2Atindividual-level
+Student P-value
+1 0.40
+2 0.51
+4 0.50
+5 0.32
+9 0.74
+11 0.11
+12 0.40A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+20
+
+Appendix E
+Correlations between bodily responses andperceptual assessments atindividual-level: tests intestchambers.
+Physiological vs
+perceptualR P-value
+12345678910111213141512 3456 7 89101112131415
+ALvsAcceptability 0.7 0.0 0.2 0.4 0.4•0.80.8 0.1 0.1 0.1 0.3 0.1 0.0 0.4 0.3
+0.060.88 0.64 0.27 0.19 0.07 P<0.001 0.82 0.71 0.82 0.34 0.87 0.93 0.15 0.38
+ALvsPleasantness 0.2 0.3 0.4 0.1 0.5•0.70.9 0.2 0.2 0.2 0.2 0.1 0.20.7 0.1
+0.560.36 0.23 0.78 0.07 0.02 P<0.001 0.48 0.55 0.63 0.50 0.89 0.570.02 0.76
+ALvsStress level 0.4 0.0 0.4 0.4 0.4 0.40.7 0.2 0.1 0.1 0.5 0.0 0.1 0.5 0.3
+0.351.00 0.22 0.37 0.20 0.04 0.01 0.60 0.71 0.66 0.13 0.95 0.78 0.10 0.43
+MRL vsAcceptability 0.5 0.2 0.0•0.8 0.00.8 0.1 0.1 0.2 0.2 0.00.6 0.1 0.3 0.1
+0.200.63 0.880.02 0.90 0.33 0.75 0.77 0.50 0.63 0.89 0.14 0.73 0.34 0.70
+MRL vsPleasantness 0.1 0.2 0.4 0.3 0.40.9 0.1 0.0 0.0 0.3 0.3 0.3 0.0 0.1 0.1
+0.860.45 0.25 0.46 0.25 0.02 0.86 0.94 0.97 0.29 0.39 0.53 1.00 0.80 0.82
+MRL vsStress level 0.2 0.0 0.1•0.7 0.2 0.4 0.1 0.1 0.0 0.5 0.0 0.4 0.1 0.4 0.2
+0.680.94 0.71 0.07 0.63P<0.001 0.86 0.65 0.97 0.07 0.90 0.28 0.74 0.16 0.62
+HRvsAcceptability  0.5 -0.7 0.0•0.6 0.3 0.4 0.4 0.0 0.1 0.3 0.20.8 0.2 0.1 0.1
+0.230.02 0.88 0.15 0.43 0.38 0.24 0.91 0.68 0.38 0.590.02 0.58 0.68 0.73
+HRvsPleasantness  0.2 0.4 0.3 0.3 0.4 0.5 0.3 0.2 0.1 0.3 0.1 0.5 0.0 0.2 0.2
+0.680.25 0.35 0.46 0.21 0.29 0.41 0.58 0.71 0.41 0.67 0.26 0.91 0.45 0.62
+HRvsStress level 0.0 0.4 0.0 0.4 0.5 0.1 0.2 0.1 0.1 0.5 0.30.7 0.3 0.3 0.1
+0.930.23 0.88 0.27 0.12 0.25 0.52 0.65 0.85 0.14 0.410.04 0.51 0.41 0.79
+RRvsAcceptability 0.70.6 0.1 0.0 0.2 0.2 0.4 0.3 0.2•0.6 0.0 0.2 0.1 0.20.6
+0.060.06 0.73 0.98 0.61 0.76 0.16 0.40 0.440.04 0.90 0.60 0.73 0.470.03
+RRvsPleasantness 0.20.8 0.1 0.0 0.1 0.5 0.4 0.4 0.1 0.4 0.3 0.4 0.1 0.20.7
+0.68P<0.001 0.73 0.99 0.80 0.57 0.26 0.18 0.69 0.16 0.35 0.39 0.83 0.470.01
+RRvsStress level 0.20.7 0.2 0.0 0.1•0.8 0.2 0.2 0.3 0.4 0.2 0.3 0.0 0.3 0.4
+0.630.02 0.48 0.98 0.67 0.17 0.53 0.48 0.39 0.18 0.56 0.49 0.95 0.38 0.16A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+21
+
+Appendix F
+Correlations between bodily responses andperceptual assessments atindividual-level: tests intheExperience room.
+Physiological vsperceptual R P-value
+12345678911121314151234567891112131415
+ALvsAcceptability 0.1 0.1 0.1 0.5 0.30.80.7 0.5 0.4 0.3 0.2 0.1 0.1 0.4 0.89 0.80 0.86 0.20 0.300.030.01 0.15 0.27 0.41 0.61 0.87 0.83 0.24
+ALvsNoise level 0.1 0.3 0.2 0.1 0.4 0.2 0.30.6 0.2 0.4 0.2 0.4 0.4 0.1 0.82 0.30 0.54 0.75 0.18 0.63 0.430.03 0.54 0.23 0.69 0.34 0.27 0.79
+MRL vsAcceptability  0.1 0.0 0.3 0.2 0.4•0.7 0.1 0.4 0.3 0.2 0.0 0.2 0.0 0.5 0.87 0.94 0.39 0.60 0.280.04 0.75 0.17 0.43 0.50 0.98 0.63 0.89 0.16
+MRL vsNoise level  0.2 0.10.8 0.4 0.3 0.3 0.2 0.2 0.1 0.40.80.7 0.1 0.5 0.57 0.750.01 0.31 0.37 0.55 0.50 0.48 0.80 0.170.02 0.07 0.78 0.11
+HRvsAcceptability  0.1 0.1 0.2 0.2•0.6 0.3 0.4 0.5 0.4 0.3 0.4 0.2 0.0 0.1 0.78 0.77 0.50 0.640.05 0.54 0.17 0.14 0.27 0.37 0.32 0.65 0.94 0.68
+HRvsNoise level  0.2 0.0 0.2 0.3•0.6•0.6•0.7 0.4•0.7 0.1 0.2 0.5 0.3 0.3 0.65 0.91 0.52 0.540.05 0.110.02 0.260.01 0.74 0.66 0.22 0.31 0.40
+RRvsAcceptability 0.3 0.2 0.3 0.3 0.10.6•0.6 0.4 0.0 0.3 0.1 0.3 0.2 0.3 0.51 0.53 0.41 0.53 0.83 0.14 0.07 0.23 0.89 0.30 0.82 0.44 0.47 0.30
+RRvsNoise level 0.3 0.2 0.4 0.5 0.1 0.1 0.2 0.2 0.20.6 0.6 0.1 0.1 0.4 0.48 0.59 0.23 0.24 0.82 0.81 0.58 0.51 0.480.03 0.11 0.72 0.69 0.18A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+22
+
+References
+[1]R.Beckers, T.V.D. Voordt, G.Dewulf, Why dothey study there? Diary research into
+students ’learning space choices inhigher education, High. Educ. Res. Dev. 4360
+(2016), https://doi.org/10.1080/07294360.2015.1123230 .
+[2]V.Ramu, N.Taib, H.M. Massoomeh, Informal academic learning space preferences
+oftertiary education learners, J.Facil. Manag. (2021), https://doi.org/10.1108/
+JFM-05-2021-0047 .
+[3]S.Vanichvatana, Who uses home asinformal learning spaces, ABangk. Priv. Univ.
+case Study 6(2019) 109–119.
+[4]C.Wang, F.Zhang, J.Wang, J.K.Doyle, P.A. Hancock, C.M. Mak, S.Liu,How
+indoor environmental quality affects occupants ’cognitive functions: asystematic
+review, Build. Environ. 193(2021) 107647, https://doi.org/10.1016/j.
+buildenv.2021.107647 .
+[5]P.M. Bluyssen, Towards anintegrated analysis oftheindoor environmental factors
+anditseffects onoccupants, Intell. Build. Int.12(2020) 199–207.
+[6]P.E.Braat-eggen, A.vanHeijst, M.Hornikx, A.Kohlrausch, Noise disturbance in
+open-plan study environments: afield study onnoise sources, student tasks and
+room acoustic parameters, Ergonomics 0139 (2017) 1–18,https://doi.org/
+10.1080/00140139.2017.1306631 .
+[7]E.Tristan-Hernandez, I.Pavon-Garcia, I.Campos-Canton, L.J.Ontanon-Garcia, E.
+S.Kolosovas-Machuca, Influence ofbackground noise produced inuniversity
+facilities onthebrain waves associated with attention ofstudents andemployees,
+Perception 46(2017) 1105 –1117, https://doi.org/10.1177/0301006617700672 .
+[8]W.H.O. WHO, 2018, WHO environmental noise guidelines fortheEuropean
+Region.
+[9]P.M. Bluyssen, TheHealthy Indoor Environment, Routledge, 2014 .
+[10] J.L.McGaugh, Emotions andBodily Responses: APsychophysiological Approach,
+Academic Press, 2013 .
+[11] M.Awada, B.Becerik-Gerber, R.Liu,M.Seyedrezaei, Z.Lu,M.Xenakis, G.Lucas, S.
+C.Roll, S.Narayanan, Tenquestions concerning theimpact ofenvironmental stress
+onoffice workers, Build. Environ. 229(2023) 109964 .
+[12] A.Hamida, D.Zhang, M.A. Ortiz, P.M. Bluyssen, Indicators andmethods for
+assessing acoustical preferences andneeds ofstudents ineducational buildings: a
+review, Appl. Acoust. 202(2023) 109187, https://doi.org/10.1016/j.
+apacoust.2022.109187 .
+[13] J.J.Alvarsson, S.Wiens, M.E. Nilsson, Stress recovery during exposure tonature
+sound andenvironmental noise, Int.J.Environ. Res. Public Health 7(2010)
+1036 –1046, https://doi.org/10.3390/ijerph7031036 .
+[14] A.M. Abbasi, M.Motamedzade, M.Aliabadi, R.Golmohammadi, L.Tapak, Study of
+thephysiological andmental health effects caused byexposure tolow-frequency
+noise inasimulated control room, Build. Acoust. 25(2018) 233–248, https://doi.
+org/10.1177/1351010X18779518 .
+[15] H.Guan, S.Hu,M.Lu,M.He,X.Zhang, G.Liu,Analysis ofhuman
+electroencephalogram features indifferent indoor environments, Build. Environ.
+186(2020) 107328, https://doi.org/10.1016/j.buildenv.2020.107328 .
+[16] S.H. Park, P.J.Lee,Effects offloor impact noise onpsychophysiological responses,
+Build. Environ. 116(2017) 173–181, https://doi.org/10.1016/j.
+buildenv.2017.02.005 .
+[17] K.Hume, M.Ahtamad, Physiological responses toandsubjective estimates of
+soundscape elements, Appl. Acoust. 74(2013) 275–281, https://doi.org/10.1016/
+j.apacoust.2011.10.009 .
+[18] L.Rossi, A.Prato, L.Lesina, A.Schiavi, Effects oflow-frequency noise onhuman
+cognitive performances inlaboratory, Build. Acoust. 25(2018) 17–33,https://doi.
+org/10.1177/1351010X18756800 .
+[19] P.M. Bluyssen, 2009, TheIndoor Environment Handbook: How toMake Buildings
+Healthy andComfortable, Earthscan.
+[20] E.D.Walker, A.Brammer, M.G. Cherniack, F.Laden, J.M. Cavallari, Cardiovascular
+andstress responses toshort-term noise exposures —apanel study inhealthy males,
+Environ. Res. 150(2016) 391–397, https://doi.org/10.1016/j.
+envres.2016.06.016 .
+[21] J.Mu,Y.Wu, T.Wang, Impact ofthesoundscape onthephysical health andthe
+perception ofsenior adults insenior care facilities, Health Environ. Res. Des. J.16
+(2023) 155–173.
+[22] L.Keur-Huizinga, N.A. Huizinga, A.A. Zekveld, N.J.Versfeld, S.R.B. vandeVen, W.
+A.J.vanDijk, E.J.C. deGeus, S.E.Kramer, Effects ofhearing acuity on
+psychophysiological responses toeffortful speech perception, Hear. Res. 448
+(2024) 109031, https://doi.org/10.1016/j.heares.2024.109031 .
+[23] C.L.Mackersie, I.X.MacPhee, E.W. Heldt, Effects ofhearing lossonheart rate
+variability andskin conductance measured during sentence recognition innoise,
+EarHear. 36(2015) 145–154.
+[24] I.Alimohammadi, H.Ebrahimi, Comparison between effects oflowandhigh
+frequency noise onmental performance, Appl. Acoust. 126(2017) 131–135,
+https://doi.org/10.1016/j.apacoust.2017.05.021 .
+[25] P.J.Lee,J.Y.Jeon, Relating traffic, construction, andventilation noise tocognitive
+performances andsubjective perceptions, J.Acoust. Soc.Am.(2015) 2765, https://
+doi.org/10.1121/1.4818776 .
+[26] O.Medvedev, D.Shepherd, M.J. Hautus, Therestorative potential ofsoundscapes:
+aphysiological investigation, Appl. Acoust. 96(2015) 20–26,https://doi.org/
+10.1016/j.apacoust.2015.03.004 .
+[27] P.M. Bluyssen, Patterns andProfiles forunderstanding theindoor environment and
+itsoccupants, :CLIMA 2022 Conf. (2022) 1–7,https://doi.org/10.34641/
+clima.2022.417 .
+[28] D.Zhang, M.A. Ortiz, P.M. Bluyssen, Clustering ofDutch school children based on
+their preferences andneeds oftheIEQinclassrooms, Build. Environ. 147(2019)
+258–266, https://doi.org/10.1016/j.buildenv.2018.10.014 .[29] M.A. Ortiz, 2019, Home Occupant Archetypes: Profiling home occupants ’
+comfortand energy-related behaviours with mixed methods. https://doi.org
+/10.7480/abe.2019.5 .
+[30] A.Eijkelenboom, P.M. Bluyssen, Profiling outpatient staff based ontheir self-
+reported comfort andpreferences ofindoor environmental quality andsocial
+comfort insixhospitals, Build. Environ. 184(2020) 107220, https://doi.org/
+10.1016/j.buildenv.2020.107220 .
+[31] A.Hamida, A.Eijkelenboom, P.M. Bluyssen, Profiling students based onthe
+overlap between IEQandpsychosocial preferences ofstudy places, Buildings 13
+(2023) 231, https://doi.org/10.3390/buildings13010231 .
+[32] A.Hamida, A.Eijkelenboom, P.M. Bluyssen, Profiling university students based on
+their acoustical andpsychosocial preferences andcharacteristics oftheir home
+study places, Build. Environ. (2024) 111324 .
+[33] P.M. Bluyssen, F.V.Zeist, S.Kurvers, M.Tenpierik, S.Pont, B.Wolters, L.V.Hulst,
+D.Meertins, Thecreation ofSenseLab: alaboratory fortesting andexperiencing
+single andcombinations ofindoor environmental conditions, Intell. Build. Int.10
+(2018) 5–18,https://doi.org/10.1080/17508975.2017.1330187 .
+[34] Universit atDüsseldorf: G*Power, (n.d.). https://www.psychologie.hhu.de/
+arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower (Accessed
+October 18,2024).
+[35] M.Li,B.He,Z.Liang, C.-G. Zhao, J.Chen, Y.Zhuo, G.Xu,J.Xie,K.Althoefer, An
+Attention-controlled hand exoskeleton fortherehabilitation offinger extension
+andflexion using arigid-soft combined mechanism, Front. Neurorobot. 13(2019)
+34,https://doi.org/10.3389/fnbot.2019.00034 .
+[36] R.K. Reddy, R.Pooni, D.P. Zaharieva, B.Senf, J.ElYoussef, E.Dassau, F.J.Doyle
+Iii,M.A. Clements, M.R. Rickels, S.R.Patton, Accuracy ofwrist-worn activity
+monitors during common daily physical activities andtypes ofstructured exercise:
+evaluation study, JMIR MHealth UHealth 6(2018) e10338 .
+[37] W.H. Organization, World Report onHearing, World Health Organization, 2021 .
+[38] S.Torresin, F.Aletta, F.Babich, E.Bourdeau, J.Harvie-Clark, J.Kang, L.Lavia,
+A.Radicchi, R.Albatici, Acoustics forsupportive andhealthy buildings: emerging
+themes onindoor soundscape research, Sustain. (Switz. )12(2020) 1–27,https://
+doi.org/10.3390/su12156054 .
+[39] A.Bond, M.Lader, Theuseofanalogue scales inrating subjective feelings, Br.J.
+Med. Psychol. (1974) .
+[40] K.W. Mui, L.T.Wong, Amethod ofassessing theacceptability ofnoise levels inair-
+conditioned offices, Build. Serv. Eng. Res. Technol. 27(2006) 249–254, https://
+doi.org/10.1191/0143624406bse157tn .
+[41] N.Pellerin, V.Candas, Effects ofsteady-state noise andtemperature conditions on
+environmental perception andacceptability, Indoor Air14(2004) 129–136,
+https://doi.org/10.1046/j.1600-0668.2003.00221.x .
+[42] Y.Choi, M.Kim, C.Chun, Measurement ofoccupants ’stress based on
+electroencephalograms (EEG) intwelve combined environments, Build. Environ.
+88(2015) 65–72,https://doi.org/10.1016/j.buildenv.2014.10.003 .
+[43] V.Acun, S.Yilmazer, Understanding theindoor soundscape ofstudy areas interms
+ofusers ’satisfaction, coping methods andperceptual dimensions, Noise Control
+Eng. J.66(2018) 66–75,https://doi.org/10.3397/1/37667 .
+[44] A.Astolfi, G.E. Puglisi, S.Murgia, G.Minelli, F.Pellerey, A.Prato, T.Sacco, B.M.
+Shield, Influence ofclassroom acoustics onnoise disturbance andwell-being for
+firstgraders, Front. Psychol. 10(2019) 1–20,https://doi.org/10.3389/
+fpsyg.2019.02736 .
+[45] D.Zhang, M.Tenpierik, P.M. Bluyssen, Interaction effect ofbackground sound type
+andsound pressure level onchildren ofprimary schools intheNetherlands, Appl.
+Acoust. 154(2019) 161–169, https://doi.org/10.1016/j.apacoust.2019.05.007 .
+[46] D.Zhang, M.Tenpierik, P.M. Bluyssen, Individual control asanewwaytoimprove
+classroom acoustics: asimulation-based study, Appl. Acoust. 179(2021) 108066,
+https://doi.org/10.1016/j.apacoust.2021.108066 .
+[47] W.H.O. WHO, 2022, Compendium ofWHO andother UNguidance onhealth and
+environment.
+[48] S.H. Park, P.J.Lee, J.H. Jeong, Effects ofnoise sensitivity onpsychophysiological
+responses tobuilding noise, Build. Environ. 136(2018) 302–311, https://doi.org/
+10.1016/j.buildenv.2018.03.061 .
+[49] E.Fonseca, J.Pons Puig, X.Favory, F.Font Corbera, D.Bogdanov, A.Ferraro, S.
+Oramas, A.Porter, X.SerraFreesound datasets: aplatform forthecreation ofopen
+audio datasets, in:Proceedings ofthe18th International Society forMusic
+Information Retrieval Conference, ISMIR 2017, International Society forMusic
+Information Retrieval (ISMIR)2017.
+[50] Audacity, Audacity ®Free Audio editor, recorder, music making andmore!, (n.d.).
+https://www.audacityteam.org/ (Accessed August 12,2024).
+[51] Z.Guo, G.Yu,H.Zhou, X.Wang, Y.Lu,Q.Meng, Utilizing true wireless stereo
+earbuds inautomated pure-tone audiometry, Trends Hear. 25(2021),
+23312165211057370 .
+[52] M.Lorenzino, F.D. Agostin, S.Rigutti, M.Bovenzi, L.Bregant, M.Lorenzino, F.
+D.Agostin, S.Rigutti, M.Bovenzi, Acoustic comfort depends onthepsychological
+state oftheindividual, Ergonomics 63(2020) 1485 –1501, https://doi.org/
+10.1080/00140139.2020.1808249 .
+[53] A.Latini, S.Torresin, T.Oberman, E.DiGiuseppe, F.Aletta, J.Kang, M.D’Orazio,
+Virtual reality application toexplore indoor soundscape andphysiological
+responses toaudio-visual biophilic design interventions: anexperimental study in
+anoffice environment, J.Build. Eng. 87(2024) 108947, https://doi.org/10.1016/
+j.jobe.2024.108947 .
+[54] M.Erfanian, A.J.Mitchell, J.Kang, F.Aletta, Thepsychophysiological implications
+ofsoundscape: asystematic review ofempirical literature andaresearch agenda,
+Int.J.Environ. Res. Public Health 16(2019) 3533 .A.Hamida etal. Indoor  Environments  1 (2024)  100066  
+23

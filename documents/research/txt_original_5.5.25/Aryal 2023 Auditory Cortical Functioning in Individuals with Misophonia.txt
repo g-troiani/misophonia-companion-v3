@@ -1,0 +1,505 @@
+For any issues with this document, please contact your library.
+
+____________________________________________________________________________________
+
+Title: European archives of oto-rhino-laryngology.
+
+ArticleTitle: Auditory cortical functioning in individuals with misophonia: an electrophysiological
+
+investigation
+
+ArticleAuthor: Aryal
+
+OCLC - 42807337; ISSN - 09374477; LCN - 2008233033;
+
+Publisher: 2023-11-01
+
+Source: LibKeyNomad
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+## OTOLOGY
+
+## Auditory cortical functioning in individuals with misophonia: an electrophysiological investigation
+
+Sajana Aryal 1 · Prashanth Prabhu 1
+
+Received: 15 August 2023 / Accepted: 25 October 2023
+
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2023
+
+## Abstract
+
+Purpose Misophonia is characterized by a reduced tolerance for specific sound triggers. This aspect has been relatively underexplored in audiology, with limited research from the audiological angle. Our primary objective is to compare the auditory late latency response (ALLR) findings between individuals with misophonia and those without it.
+
+Methods A study compared individuals with significant misophonia to a healthy control group. Thirty misophonia participants were categorized into mild and moderate-to-severe groups based on their Amsterdam Misophonia Scale scores. The latency and amplitude of auditory response peaks were analyzed across the groups using the ALLR. Statistical tests included Shapiro-Wilk for data normality, one-way ANOVA for group differences, and Bonferroni post hoc analysis for detailed variation sources.
+
+Results The result showed a significant difference in latency of P1 and N1 peaks ( p &lt;  0.05) of ALLR between the groups in both ears. This suggests a deficit in auditory processing at the cortical level in individuals with misophonia.
+
+Conclusion Our study substantiates the potential utility of the ALLR as a valuable instrument for evaluating misophonia, particularly from the audiological standpoint.
+
+Keywords Misophonia · Audiology · ALLR · Diagnosis · Cortical response
+
+## Introduction
+
+Misophonia is characterized by a reduced ability to tolerate specific sounds or the stimuli connected to these sounds, referred to as triggers [1]. These triggers encompass a range of aversive sounds, including human-generated noises such as chewing, lip-smacking, breathing, and swallowing, as well as non-body-related sounds like pen clicking, rustling, and typing. The presence of misophonia can hinder an individual's cognitive processes and focus due to the irritation and disruption elicited by these triggers [2]. Positioned at the intersection of audiology, psychology, and neurology, misophonia constitutes a relatively recent and multidisciplinary disorder.
+
+to be established. In 2002, Jastreboff introduced the term 'misophonia' and defined it as a strong aversion to certain sounds [3]. Later, in 2014, Tyler and colleagues suggested that misophonia might be a form of heightened sensitivity to loudness [4]. Because a unanimous consensus is lacking on whether it should be categorized as an auditory disorder, psychiatric disorder, or a neurological issue, misophonia has not received official recognition as a distinct disorder in the Diagnostic and Statistical Manual of Mental Disorders (DSM-V), a guide utilized for diagnosing mental health conditions.
+
+Misophonia is a complex disorder that scientists are still working to fully understand. Various experts have explained misophonia in different ways, and a precise definition is yet
+
+* Sajana Aryal
+
+sajanaaryal5566@gmail.com
+
+1 Department of Audiology, All India Institute of Speech and Hearing, Mysore 570006, India
+
+The evaluation of misophonia demands a collaborative approach from a diverse team of experts, including audiologists,  neurologists,  psychologists,  and  occupational therapists. Presently, there is not a universally established protocol for the assessment of misophonia. Several questionnaires have been designed for this purpose, such as the Duke Misophonia Questionnaire [5], selective sound sensitivity syndrome scale (S-five) [6], Misophonia Questionnaires [7], Amsterdam misophonia scale [8], and Amsterdam misophonia scale-revised [9].
+
+Efforts directed at establishing diagnostic criteria for misophonia represent a significant area of research focus [10]. Schröder et al. [8] have defined misophonia as a psychiatric disorder and proposed diagnostic criteria. Neurologists are actively engaged in investigating the underlying pathophysiological mechanisms of misophonia through the utilization of neuroimaging techniques. Neurophysiological investigations have unveiled heightened activity within the non-classical auditory pathway in individuals affected by misophonia [11]. Functional magnetic resonance imaging (fMRI) neuroimaging data, acquired while subjects were exposed to misophonic video clips as opposed to neutral ones, showcased increased activity in the right insula, right anterior cingulate cortex, and right superior temporal lobe [12, 13]. Likewise, Kumar et al. have reported that misophonia correlates with altered brain activity in the auditory cortex [14].
+
+Similarly, Giorgi (2015) observed that exposure to misophonic triggers led to increased activity in the left Amygdala and bilateral auditory cortex when contrasted with the control group [15]. Schröder et al. [16] noted a decreased mean amplitude of the N1 peak in the misophonic group compared to the control group, indicating a potential deficit in low-level auditory information processing among those with misophonia. Nonetheless, there is a notable scarcity of research on this topic within the existing literature, particularly within the realm of audiology [17].
+
+Only a limited number of diagnostic investigations have approached misophonia from an audiological standpoint. Some studies have employed pure tone audiometry (PTA) to ascertain the hearing threshold of individuals with misophonia, revealing normal hearing levels among these individuals [8, 15, 16, 18]. Similarly, the study by Aryal et al. employed the auditory brainstem response (ABR) test to assess brainstem functioning and reported normal brainstem functioning among individuals with misophonia disorder [19]. Subjective questionnaires have indicated reduced sound tolerance among participants with misophonia [3]. Nevertheless, there remains a deficiency of objective evidence for a clinical correlation of misophonia. Hence, our objective is to establish a relationship between misophonia and auditory late latency response (ALLR) findings. This endeavor seeks to pave the way for the assessment and management of misophonia within the audiological domain, providing a valuable perspective on the matter.
+
+## Aim and rationale of the study
+
+Auditory late latency response (ALLR), also referred to as auditory evoked potentials, are neural reactions prompted by auditory stimuli, processed within and around the auditory cortex. These responses manifest as electrical patterns and offer insights into the functional integrity of the auditory
+
+system beyond the brainstem level. Specifically,  these are complex potentials occurring between 50 and 300 ms after the stimulus onset, characterized by P1-N1-P2-N2 sequences. The generators of these ALLRs emerge from distinct segments of the auditory cortex.
+
+The P1 peak originates from the thalamic projection within the auditory cortex, representing the specific sensory system. In parallel, the N1 peak arises from the non-specific poly-sensory system. P2 finds its source in the lateral-frontal supra-temporal cortex, and N2 emerges from the supra-temporal auditory cortex [20]. Given that neuroimaging studies have indicated heightened activity within these regions, we proposed a hypothesis that there would be noteworthy disparities in these late latency potentials between the misophonia group and the normal control group.
+
+Misophonia often presents in conjunction with other sound-related disorders like tinnitus and hyperacusis. Investigations focused on these auditory disorders have revealed atypical ALLR patterns, characterized by deviations in peak latencies and amplitudes [21-23]. Given the shared symptomatic features between misophonia and these auditory disorders, we formulated a hypothesis that individuals with misophonia might exhibit distinctive ALLR responses. Consequently, our study endeavors to contrast the auditory cortical functioning of individuals affected by misophonia with that of a healthy control group.
+
+## Methods
+
+The study was initiated following ethical clearance granted by the Institutional Review Board and the approval number was SH/ERB/2022-22/38. Prior to their inclusion in the study, each participant provided informed consent, having been duly apprised of the research procedures encompassing the study.
+
+A cross-sectional investigation was undertaken among individuals displaying clinically significant misophonia, with a parallel comparison drawn against a healthy control cohort. The survey aimed to ascertain the prevalence and severity of misophonia, targeting students from Mysore University. To achieve this, the Revised Amsterdam Misophonia Questionnaire [9], a recently updated version of the questionnaire originally devised by Schröder et.al [8], was employed. The survey encompassed 40 individuals exhibiting symptoms of misophonia, aged between 18 and 40 years, with an average age of 25 years (standard deviation = 7.8 years). Within the misophonia group, 36 participants (90%) were female, while 4 (10%) were male. All participants were educated and represented diverse academic backgrounds, including audiology, business, medicine, and speech-language pathology.
+
+All participants included in the study had experienced misophonia for a minimum of four years, and they exhibited
+
+no evidence of hearing impairment. For comparative analysis, a control group of 15 participants (mean age = 24 years, standard deviation = 6 years), devoid of misophonia and other ear/health-related symptoms, was recruited. To maintain gender balance for comparative purposes, the control group's gender distribution mirrored that of the misophonia group. In total, the study encompassed 55 participants.
+
+## Misophonia severity evaluation
+
+Before enrolling participants in the experimental study, it was ensured that they exhibited misophonia symptoms through the analysis of questionnaire responses collected during the survey phase. In participants where misophonia symptoms were reported, the Revised Amsterdam Misophonia Scale (RAMISO-S) [9] was re-administered in person to ascertain response consistency. This questionnaire comprises ten items, each scored between 0 and 40. The scale evaluates factors such as the amount of time spent preoccupied by misophonic sounds, the extent to which such sounds disrupt work and social functioning, the level of anger elicited by these sounds, the degree of resistance to impulsive reactions, control over emotional responses and thoughts, and the amount of time dedicated to avoiding misophonic situations. The scoring ranges from 0-10, indicative of subclinical misophonia symptoms, to 11-20 for mild misophonia, 21-30 for moderate to severe misophonia, and 31-40 for severe to extreme cases.
+
+Among the 40 participants initially invited to participate, 10 exhibited subclinical symptoms with scores below ten on the Revised Amsterdam Misophonia Scale and were consequently excluded from the study. This culminated in the final inclusion of 30 participants in the misophonia group. This cohort of 30 participants was further categorized into two subgroups: one consisting of mild misophonia ( N =  15) and the other comprising moderate to severe misophonia ( N =  15).
+
+## Audiological evaluation
+
+The audiological assessment encompassed several components, including case history, otoscopy, pure tone audiometry (PTA), high-frequency audiometry (HFA), immittance evaluation, and auditory late latency response (ALLR) conducted in that sequence. All these audiological evaluations were executed by an experienced audiologist with an eight-year tenure in the field. While our primary objective was to investigate the late latency response in individuals with misophonia, additional audiological tests such as PTA, HFA, and immittance evaluation were conducted before the ALLR examination for all participants. This preliminary step ensured that participants did not have any active external or middle ear conditions and that their hearing thresholds were within the normal range, as these factors can influence the ALLR response.
+
+A comprehensive case history was obtained from each participant, followed by a thorough otoscopic examination. Pure tone audiometry was conducted on all participants, encompassing both the misophonia and control groups. The Grason-Stadler (GSI) AudioStar Pro audiometer was utilized in a sound-treated environment, adhering to the guidelines outlined by the American National Standards Institute (ANSI) [24]. Prior to commencing the tests for each individual, a subjective calibration of the audiometer was performed. The air conduction (AC) threshold was ascertained within the frequency range of 250 Hz-8 kHz, utilizing the Supraaural TDH-50 headphones. Additionally, the bone conduction (BC) threshold was established across frequencies ranging from 250 Hz to 4 kHz, utilizing the B-71 bone vibrator. To determine the threshold, an average was computed for the four frequencies: 500 Hz, 1 kHz, 2 kHz, and 4 kHz. A criterion of an average air conduction value of 25 dB HL or less was employed to define normal hearing.
+
+High-frequency audiometry was conducted using the Sennheiser HDA 200 circumaural headphones, spanning from 9 to 16 kHz. To establish the threshold, an average was computed for six frequencies: 9 kHz, 10 kHz, 11.2 kHz, 12.5 kHz, 14 kHz, and 16 kHz.
+
+Tympanometry was executed using the GSI Tympstar Pro, employing a 226 Hz probe tone. The following admittance criteria were deemed normative: 0.5-1.75 cc for admittance, middle ear pressure ranging from 60 to - 100 dapa, tympanometric width between 51 and 114 daPa, and ear canal volume from 0.5 to 2.0 cc [25].
+
+## Auditory late latency response (ALLR)
+
+The ALLR was recorded for all participants using the Biologic Navigator Pro equipment situated within a soundtreated environment, adhering to the ANSI guidelines [24]. Before commencing the test procedure, clear instructions were provided to the participants, outlining the procedure's steps and objectives. Participants were comfortably seated in a reclining chair to ensure their ease during the test. Adequate preparation was undertaken, including appropriate cleaning measures, to ensure readiness for the test. Participants were advised to refrain from blinking during the test to minimize potential eye blink-related influences on the ALLR. Moreover, participants were informed about the potential impact of sleep on the ALLR response and were explicitly instructed to remain awake during the test procedure, to prevent any interference caused by sleep-related factors.
+
+A single-channel recording procedure was applied to all participants utilizing a vertical electrode montage. The inverting electrode site (-) was assigned to the test ear (A1 or A2), the non-inverting electrode (+) was positioned at the upper forehead (Fpz), and the common ground electrode site was placed on the contralateral ear of the test ear. This electrode arrangement adhered to the 10-20 international electrode site classification system [26]. The recording was executed using cup electrodes for all participants. Prior to commencing the test, it was verified that electrode impedance remained below 5 kΩ, and the inter-electrode disparity was within the threshold of 3 kΩ. A Radio Ear Insert3A transducer was employed to deliver the stimulus. The acoustic stimulus comprised a 500 Hz tone burst using a 2-1-2 cycle (2-ms rise time, 1-ms plateau, and 2-ms fall time) presented at an intensity of 80dBSPL. For two participants encountering difficulties with higher sound levels, the testing was conducted at 70dBSPL to ensure their comfort. The stimulus was presented at a rate of 1.1 stimuli per second, utilizing a rarefaction polarity. Some misophonic participants reported discomfort in response to the tone burst stimuli during testing. As a result, intervals were introduced between each recording to accommodate their comfort during the test.
+
+The acquisition parameters employed encompassed a filter setting spanning from 0.1 to 25 Hz, an amplification factor of 50,000, a time window of 533 ms, and an artifact rejection threshold of 50 µV. A total of 200 averages were compiled, ensuring consistency across all participants enrolled in the study. Throughout the entire testing process, vigilant monitoring was maintained to ensure that the electroencephalogram (EEG) readings adhered to the established standard limits. The recording process was executed for all participants, incorporating replication to ensure the reproducibility of results.
+
+Peak identification adhered to established criteria in the literature, involving the visualization of four successive peaks in the sequence P1-N1-P2-N2. This process was facilitated using the Bio-logic Auditory Evoked Potentials software (Version 7.2.1). Subsequently, the latency and amplitude of the respective peaks within the Auditory Late Latency Responses (ALLR), namely P1, N1, P2, and N2, were computed and subjected to analysis, comparing outcomes between the misophonia and control groups.
+
+## Statistical analyses
+
+For data analysis, the IBM SPSS program (version 25.0) was employed. The Shapiro-Wilk test was executed to determine the normality of the data. Given that the data exhibited a normal distribution, a parametric one-way ANOVA test was conducted to discern significant differences between the
+
+misophonia and control groups. Subsequently, a Bonferroni post hoc analysis was performed for pair-wise comparisons. The dependent variables encompassed latency and amplitude, while the severity of misophonia served as the independent variable. The threshold for statistical significance was set at a p value below 0.05, maintaining a confidence interval of 95%.
+
+## Results
+
+## Misophonia severity
+
+The outcomes of the Revised Amsterdam Misophonia Scale revealed distinct levels of misophonia severity within the participant pool. Of the total participants, 15 individuals exhibited mild misophonia, with scores falling in the range of 11-20. Another 10 participants displayed moderate to severe misophonia, as indicated by scores between 21 and 30. Moreover, 5 participants demonstrated severe to extreme misophonia, with scores ranging from 31 to 40. Additionally, a control group comprising 15 participants registered a score of zero on the Revised Amsterdam misophonia scale, serving as a baseline for comparison. Due to limitations in the available sample size, the misophonia-affected participants were categorized into two groups: a mild misophonia group ( N =  15) with an average score of 15.93 (SD = 2.89), and a moderate-severe misophonia group ( N =  15) with an average score of 25.86 (SD = 4.98).
+
+The duration of misophonia across all study participants was consistently recorded, indicating that the disorder persisted for at least 4.9 years. Individual variations were observed, with the duration ranging from 3 to 8 years and a mean duration of 4.93 years (SD = 1.52). Regarding the onset of misophonia, most participants (86.67%) reported a gradual development of their disorder. Notably, a significant majority (93.33%) indicated that they were triggered by multiple distinct sounds. Scratching emerged as the most frequently reported trigger, with 66.67% of participants acknowledging this as a source of distress. Other prevalent triggers encompassed loud sounds (50%) and chewing (46.67%).
+
+High-pitched sounds emerged as the predominant trigger type, with 86.67% of participants attributing their distress to such auditory stimuli. Collectively, these findings provide comprehensive insights into the distribution of misophonia severity, duration, onset patterns, and prominent trigger types among the study's participants. This information holds potential implications for refining interventions and treatments for individuals grappling with misophonia. The details of the misophonia characteristics are illustrated in Table 1 .
+
+Table 1 Misophonia characteristics of all the participants included in the study ( N =  30)
+
+| SN   | Mild group                         | Mild group                         | Mild group                   | Mild group                   | Moderate-severe group                | Moderate-severe group                | Moderate-severe group        | Moderate-severe group        |
+|------|------------------------------------|------------------------------------|------------------------------|------------------------------|--------------------------------------|--------------------------------------|------------------------------|------------------------------|
+| SN   | Revised Amsterdam Misophonia scale | Revised Amsterdam Misophonia scale | Misophonia charac- teristics | Misophonia charac- teristics | Revised Amsterdam Misopho- nia Scale | Revised Amsterdam Misopho- nia Scale | Misophonia Charac- teristics | Misophonia Charac- teristics |
+| SN   | Score                              | Severity                           | Onset                        | Duration (years)             | SCORE                                | Severity                             | Onset                        | Dura- tion (years)           |
+| 1    | 12                                 | Mild                               | Sudden                       | 3                            | 21                                   | Moderate-severe                      | Gradual                      | 4                            |
+| 2    | 13                                 | Mild                               | Gradual                      | 4                            | 24                                   | Moderate-severe                      | Gradual                      | 3                            |
+| 3    | 17                                 | Mild                               | Gradual                      | 6                            | 23                                   | Moderate-severe                      | Gradual                      | 5                            |
+| 4    | 19                                 | Mild                               | Gradual                      | 7                            | 24                                   | Moderate-severe                      | Gradual                      | 4                            |
+| 5    | 19                                 | Mild                               | Gradual                      | 6                            | 32                                   | Severe-extreme                       | Gradual                      | 8                            |
+| 6    | 15                                 | Mild                               | Gradual                      | 4                            | 31                                   | Severe-extreme                       | Gradual                      | 6                            |
+| 7    | 19                                 | Mild                               | Sudden                       | 3                            | 35                                   | Severe-extreme                       | Gradual                      | 6                            |
+| 8    | 17                                 | Mild                               | Gradual                      | 6                            | 33                                   | Severe-extreme                       | Gradual                      | 3                            |
+| 9    | 18                                 | Mild                               | Gradual                      | 6                            | 31                                   | Severe-extreme                       | Gradual                      | 4                            |
+| 10   | 11                                 | Mild                               | Gradual                      | 8                            | 22                                   | Moderate-severe                      | Gradual                      | 6                            |
+| 11   | 12                                 | Mild                               | Gradual                      | 5                            | 22                                   | Moderate-severe                      | Gradual                      | 7                            |
+| 12   | 16                                 | Mild                               | Gradual                      | 4                            | 21                                   | Moderate-severe                      | Gradual                      | 6                            |
+| 13   | 14                                 | Mild                               | Gradual                      | 5                            | 22                                   | Moderate-severe                      | Gradual                      | 4                            |
+| 14   | 19                                 | Mild                               | Sudden                       | 3                            | 22                                   | Moderate-severe                      | Sudden                       | 3                            |
+| 15   | 18                                 | Mild                               | Gradual                      | 4                            | 25                                   | Moderate-severe                      | Gradual                      | 4                            |
+
+## Audiological evaluation
+
+The otoscopic examination revealed that all participants exhibited a normal appearance of the external and middle ear. Furthermore, all individuals enrolled in the study selfreported having normal hearing abilities. In the mild misophonia group, the average air conduction threshold for all participants was 7.75 dB HL (SD = 7.58) for the right ear and 6.08 dB HL (SD = 4.60) for the left ear. Correspondingly, in the moderate-severe misophonia group, participants displayed an average air conduction threshold of 8.33 dB HL (SD = 6.58) for the right ear and 7.75 dB HL (SD  = 3.69) for the left ear. As for the control group, the respective values were 6.08 dB HL (SD = 3.07) for the right ear and 4.48 dB HL (SD = 3.55) for the left ear. Upon statistical analysis, no significant differences were observed in the air conduction threshold for both ears between the study and control groups. This outcome was supported by a lack of statistical significance in the right ear ( F (2.42)  =  0.587, p =  0.561) and the left ear ( F (2.42) = 2.540, p =  0.091).
+
+significant disparities were found in the bone conduction threshold for both ears when comparing the study and control groups. The statistical insignificance was evident in the right ear ( F (2.42) = 0.678, p =  0.66) and the left ear ( F (2.42)  =  1.540, p =  0.08). These findings collectively suggest that there were no substantial differences in air conduction and bone conduction thresholds between participants with misophonia and those in the control group. This information underscores the similarity in hearing capabilities among the groups, indicating that the observed misophonia symptoms were not inherently associated with variations in auditory thresholds.
+
+Regarding bone conduction, participants in the mild misophonia group demonstrated an average threshold of 3.2 dB HL (SD = 2.5) for the right ear and 4.5 dB HL (SD = 1.5) for the left ear. In a similar vein, the moderate-severe misophonia group exhibited respective thresholds of 4.0 dB HL (SD = 1.7) for the right ear and 4.5 dB HL (SD = 2.2) for the left ear. Comparatively, the control group's average thresholds were 3.5 dB HL (SD = 1.7) for the right ear and 4.8 dB HL (SD = 2.2) for the left ear. Again, no statistically
+
+Tympanometry was done to evaluate the compliance and mobility of the eardrum. The functioning of the eardrum can be interpreted based on different types of tympanograms. Type A is a normal tympanogram where the eardrum has normal compliance and indicates that the middle ear system is functioning normally, type Ad is a deep tympanogram that suggests increased compliance and may indicate a potential problem in the middle ear, such as ossicular chain discontinuity, and type As is a tympanogram with decreased compliance and may indicate a potential problem in the middle ear such as otosclerosis [27]. Within the control group, the distribution of tympanogram types revealed that nine participants (60%) displayed an 'A' type tympanogram, four participants (26.67%) exhibited an 'Ad' type, and two participants (13.33%) showcased an 'As' type tympanogram in both ears. Similarly, among individuals in the mild misophonia group, nine participants (60%) exhibited an 'A' type
+
+tympanogram, three participants (20%) displayed an 'Ad' type, and three participants (20%) showed an 'As' type in both ears. For the moderate-severe misophonia group, 12 participants (80%) had an 'A' type tympanogram, 2 participants (13.33%) showed 'As' type and 1 participant (6.67%) demonstrated an 'Ad' type in both ears.
+
+It is worth noting that none of the study participants exhibited a 'B' or 'C' type tympanogram. Notably, participants with 'As' tympanogram displaying low static admittance and those with 'Ad' tympanogram exhibiting high admittance did not present any symptoms of external and middle ear pathologies. Moreover, these participants had normal audiograms. Considering these observations, all 45 participants were included in the study, as the tympanogram findings, along with the absence of external and middle ear issues and normal audiograms, collectively indicated that these participants did not have any underlying ear-related pathologies that could confound the study results.
+
+The outcomes of the high-frequency audiometry revealed that all participants exhibited normal hearing within the high-frequency range spanning from 9 to 16 kHz. Specifically, within the mild misophonia group, the high-frequency average threshold was 8.33 dB HL (SD = 3.34) for the right ear and 10.72 dB HL (SD = 5.16) for the left ear. Similarly, in the moderate-severe misophonia group, the high-frequency average threshold was 8.43 dB HL (SD = 3.05) for the right ear and 11.28 dB HL (SD = 4.09) for the left ear. In comparison, the control group's high-frequency average thresholds stood at 7.47 dB HL (SD = 2.57) for the right ear and 8.36 dB HL (SD = 4.16) for the left ear.
+
+Applying ANOVA analysis, no statistically significant differences were observed in the mean high-frequency average across the participant groups. The analysis yielded a p -value of ( F (2.42)  =  3.401, p =  0.062) for the right ear and ( F (2.42)  =  1.769, p =  0.183) for the left ear. These outcomes suggest that, in terms of high-frequency hearing, there were no substantial distinctions between the study groups. The details of the audiological finding of all the participants are illustrated in Table 2.
+
+## Auditory late latency response findings
+
+Auditory late latency response was assessed to investigate cortical functioning in individuals with misophonia. The average latency of p1 in the control group was 64.23 ms (SD = 25.21) for the right ear and 59.41 ms (SD = 24.61) for the left ear. Similarly, for the mild misophonia group, the p1 latency was recorded at 52.46 ms (SD = 24.50) for the right ear and 51.92 ms (SD = 26.47) for the left ear. In the moderate-severe misophonia group, the p1 latency was notably shorter, measuring 29.61 ms (SD = 22.36) for the right ear and 29.75 ms (SD = 26.00) for the left ear. For a
+
+visual representation of the latency of P1 and N1 in both the right and left ears, refer to Figs. 1 and 2, respectively. These measurements provide insight into the timing of cortical responses and potential differences in auditory processing among the study's participant groups.
+
+The results of the one-way ANOVA indicated a significant disparity in P1 latency among the groups, yielding an ( F (2, 42) = 8.027, p =  0.01) for the right ear and ( F (2, 42) = 5.4, p =  0.008) for the left ear. These findings demonstrated that the P1 peaks occurred at earlier latencies in the misophonia group in comparison to the control group. Furthermore, upon subjective data analysis, a few individuals within the moderate-severe misophonia category exhibited an absence of the P1 peak.
+
+Upon conducting multiple comparisons between the groups using Bonferroni post hoc analysis, a noteworthy distinction was identified between the control and moderate-severe groups. Specifically, this distinction was supported by a significant p -value of 0.001 for the right ear and a p -value of 0.009 for the left ear. Conversely, no statistically significant disparity was detected between the control and mild misophonia groups in either ear, with p -values exceeding 0.05. In summary, the ANOVA outcomes pointed to a significant alteration in P1 latency across groups, revealing an earlier occurrence in the misophonia group compared to controls. The posthoc analysis underscored a substantial distinction between the control and moderate-severe misophonia groups. Conversely, no such significant variation was observed between the control and mild misophonia groups. These findings offer insights into potential cortical processing discrepancies associated with misophonia severity.
+
+The average latency of the N1 peak for the control group was measured at 102.58 ms (SD  = 32.85) for the right ear and 99.94 ms (SD = 25.52) for the left ear. Similarly, for the mild misophonia group, the N1 peak latency averaged 78.21 ms (SD = 36.07) for the right ear and 85.02 ms (SD  = 40.85) for the left ear. The moderate-severe misophonia group exhibited N1 peak latencies of 56.54 ms (SD  = 44.04) for the right ear and 54.59 ms (SD = 47.73) for the left ear. The results of the one-way ANOVA indicated a notable difference in N1 latency among the groups, revealing a ( F (2, 42)  =  5.52, p =  0.007) for the right ear and ( F (2, 42)  =  5.23, p =  0.009) for the left ear. These outcomes emphasized an earlier occurrence of N1 peaks in the misophonia group compared to the control group. Moreover, subjective data analysis unveiled the absence of N1 peaks in certain individuals with moderate-severe misophonia.
+
+The findings, however, did not reveal significant differences in the latency of the P2 and N2 peaks across the groups ( p -value &gt; 0.05). For a comprehensive overview of the ANOVA results comparing the latency of all peaks, refer to Table 3. These data collectively offer insights into
+
+Table 2 Audiological characteristics of all the participants included in the study ( N =  45)
+
+|                       | Audiological evaluation   | Audiological evaluation   | Audiological evaluation   | Audiological evaluation   | Audiological evaluation   | Audiological evaluation   | Audiological evaluation   |
+|-----------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|                       | S.N                       | Pure-tone average         | Pure-tone average         | High-frequency average    | High-frequency average    | Tympano- gram             | Tympano- gram             |
+|                       |                           | Right (dBHL)              | Left (dBHL)               | Right (dBHL)              | Left (dBHL)               | Right                     | Left                      |
+| Control group         | 1                         | 0                         | 0                         | 4.83                      | 2.5                       | A                         | A                         |
+|                       | 2                         | 10                        | 6.5                       | 5.83                      | 10.83                     | Ad                        | Ad                        |
+|                       | 3                         | 6.67                      | 0                         | 10.17                     | 2.5                       | A                         | A                         |
+|                       | 4                         | 6.25                      | 10                        | 3.33                      | 5                         | Ad                        | Ad                        |
+|                       | 5                         | 2.5                       | 1.25                      | 5.83                      | 5.83                      | A                         | A                         |
+|                       | 6                         | 1.25                      | 3.25                      | 10.83                     | 14.17                     | Ad                        | Ad                        |
+|                       | 7                         | 5                         | 7.5                       | 10.67                     | 10.67                     | A                         | A                         |
+|                       | 8                         | 7.5                       | 6                         | 8.83                      | 4.17                      | Ad                        | Ad                        |
+|                       | 9                         | 10                        | 6                         | 6.83                      | 10                        | As                        | As                        |
+|                       | 10                        | 3.75                      | 0                         | 4.17                      | 3.33                      | As                        | As                        |
+|                       | 11                        | 5                         | 6.67                      | 9.17                      | 12.5                      | A                         | A                         |
+|                       | 12                        | 8.75                      | 10                        | 10                        | 10.67                     | A                         | A                         |
+|                       | 13                        | 8.75                      | 5                         | 5.83                      | 12.5                      | A                         | A                         |
+|                       | 14                        | 7.5                       | 5                         | 10                        | 7.5                       | A                         | A                         |
+|                       | 15                        | 7.5                       | 0                         | 5.83                      | 13.33                     | A                         | A                         |
+| Mild group            | 1                         | 8.75                      | 7.5                       | 11.67                     | 5.83                      | Ad                        | Ad                        |
+|                       | 2                         | 8.75                      | 2.5                       | 14.17                     | 11.67                     | A                         | A                         |
+|                       | 3                         | 6.25                      | 8.75                      | 5.83                      | 8.33                      | Ad                        | Ad                        |
+|                       | 4                         | 0                         | 3.75                      | 11.67                     | 9.17                      | A                         | A                         |
+|                       | 5                         | 0                         | 1.25                      | 10.67                     | 12.5                      | Ad                        | Ad                        |
+|                       | 6                         | 10                        | 10                        | 10.67                     | 14.17                     | A                         | A                         |
+|                       | 7                         | 11.25                     | 11.25                     | 15.83                     | 22.5                      | As                        | As                        |
+|                       | 8                         | 1.25                      | 5                         | 5                         | 10                        | As                        | As                        |
+|                       | 9                         | 13.75                     | 11.25                     | 13.33                     | 15.83                     | As                        | As                        |
+|                       | 10                        | 7.5                       | 1.25                      | 10.67                     | 3.33                      | A                         | A                         |
+|                       | 11                        | 3.75                      | 8.75                      | 7.5                       | 8.33                      | A                         | A                         |
+|                       | 12                        | 5                         | 3.75                      | 13.33                     | 17.5                      | A                         | A                         |
+|                       | 13                        | 30                        | 15                        | 10.67                     | 4.17                      | A                         | A                         |
+|                       | 14                        | 10                        | 1.25                      | 5                         | 10                        | A                         | A                         |
+|                       | 15                        | 0                         | 0                         | 8.33                      | 7.5                       | A                         | A                         |
+| Moderate-severe group | 1                         | 18.75                     | 13.75                     | 3.5                       | 10.83                     | A                         | A                         |
+|                       | 2                         | 10                        | 11.25                     | 10                        | 1.67                      | A                         | A                         |
+|                       | 3                         | 15                        | 10                        | 6.67                      | 12.5                      | A                         | A                         |
+|                       | 4                         | 2.5                       | 12.5                      | 7.5                       | 16.67                     | A                         | A                         |
+|                       | 5                         | 11.25                     | 6.25                      | 10                        | 19.17                     | A                         | A                         |
+|                       | 6                         | 2.5                       | 6.25                      | 10.83                     | 10                        | A                         | A                         |
+|                       | 7                         | 15                        | 8.75                      | 9.17                      | 8.33                      | A                         | A                         |
+|                       | 8                         | 1.25                      | 2.5                       | 5                         | 13.33                     | A                         | A                         |
+|                       | 9                         | 8.75                      | 10                        | 10.83                     | 10.67                     | A                         | A                         |
+|                       | 10                        | -1.225                    | 5                         | 6.67                      | 12.5                      | As                        | As                        |
+|                       | 11                        | 2.5                       | 2.5                       |                           |                           | As                        | As                        |
+|                       | 12                        | 6.25                      | 7.5                       |                           |                           | A                         | A                         |
+|                       | 13                        | 18.75                     | 11.25                     |                           |                           | A                         | A                         |
+|                       | 14                        | 11.25 2.5                 | 6.25 2.5                  |                           |                           | A                         | A                         |
+|                       | 15                        |                           |                           |                           |                           | Ad                        | Ad                        |
+
+Fig. 1 Comparison of the mean latency of P1 and N1 peaks of ALLR between the groups ( N =  45) for the right ear (Error bar represents standard deviation)
+
+Fig. 2 Comparison of the mean latency of P1 and N1 peaks of ALLR between the groups ( N =  45) for the left ear ((Error bar represents standard deviation)
+
+Table 3 Illustration of results of one-way ANOVA for the latency of all the peaks of ALLR ( N =  45)
+
+|                | df   | F value   | Sig   |
+|----------------|------|-----------|-------|
+| Right ear P1   |      |           |       |
+| Between groups | 2    | 8.03      | 0.001 |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| N1             |      |           |       |
+| Between groups | 2    | 5.53      | 0.007 |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| P2             |      |           |       |
+| Between groups | 2    | 1.28      | 0.29  |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| N2             |      |           |       |
+| Between groups | 2    | 1.26      | 0.29  |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| Left ear       |      |           |       |
+| P1             |      |           |       |
+| Between groups | 2    | 5.40      | 0.008 |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| N1             |      |           |       |
+| Between groups | 2    | 5.23      | 0.009 |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| P2             |      |           |       |
+| Between groups | 2    | 0.17      | 0.84  |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+| N2             |      |           |       |
+| Between groups | 2    | 0.49      | 0.61  |
+| Within groups  | 42   |           |       |
+| Total          | 44   |           |       |
+
+alterations in cortical processing, particularly regarding the N1 peak latency, among the different misophonia severity groups in comparison to the control group.
+
+Performing multiple comparisons between the groups using Bonferroni's post hoc analysis yielded notable outcomes. A significant distinction emerged between the control and moderate-severe groups, marked by a p -value of 0.006 for the right ear and a p -value of 0.008 for the left ear. Conversely, no statistically significant differences were detected between the control and mild misophonia groups for both ears, as indicated by p -values exceeding 0.05. For
+
+Table 4 Result of post hoc Bonferroni test between  the group ( N =  45)
+
+|           | Multiple comparisons (Bonferroni)   | Multiple comparisons (Bonferroni)   | Multiple comparisons (Bonferroni)   | Multiple comparisons (Bonferroni)   |
+|-----------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+|           | Depend- ent vari- able              | (I) Group                           | (J) Group                           | Sig                                 |
+| Right ear | P1                                  | Control                             | Mild                                | 0.56                                |
+|           |                                     |                                     | Moderate to severe                  | 0.001                               |
+|           |                                     | Mild                                | Control                             | 0.56                                |
+|           |                                     |                                     | Moderate to severe                  | 0.038                               |
+|           |                                     | Moderate to                         | Control                             | 0.001                               |
+|           |                                     | severe                              | Mild                                | 0.04                                |
+|           | N1                                  | Control                             | Mild                                | 0.26                                |
+|           |                                     |                                     | Moderate to severe                  | 0.006                               |
+|           |                                     | Mild                                | Control                             | 0.26                                |
+|           |                                     |                                     | Moderate to severe                  | 0.38                                |
+|           |                                     | Moderate to                         | Control                             | 0.006                               |
+|           |                                     | severe                              | Mild                                | 0.38                                |
+|           | P2                                  | Control                             | Mild                                | 0.64                                |
+|           |                                     |                                     | Moderate to severe                  | 0.43                                |
+|           |                                     | Mild                                | Control                             | 0.64                                |
+|           |                                     |                                     | Moderate to severe                  | 1.00                                |
+|           |                                     | Moderate to                         | Control                             | 0.43                                |
+|           |                                     | severe                              | Mild                                | 1.00                                |
+|           | N2                                  | Control                             | Mild                                | 0.44                                |
+|           |                                     |                                     | Moderate to severe                  | 0.68                                |
+|           |                                     | Mild                                | Control                             | 0.43                                |
+|           |                                     |                                     | Moderate to severe                  | 1.00                                |
+|           |                                     | Moderate to                         | Control                             | 0.68                                |
+|           |                                     | severe                              | Mild                                | 1.00                                |
+| Left ear  | P1                                  | Control                             | Mild                                | 1.00                                |
+|           |                                     |                                     | Moderate severe                     | 0.009                               |
+|           |                                     | Mild                                | Control                             | 1.00                                |
+|           |                                     |                                     | Moderate to severe                  | 0.069                               |
+|           |                                     | Moderate to                         | Control                             | 0.009                               |
+|           |                                     | severe                              | Mild                                | 0.069                               |
+
+Table 4 (continued)
+
+| Multiple comparisons (Bonferroni)   | Multiple comparisons (Bonferroni)   | Multiple comparisons (Bonferroni)   | Multiple comparisons (Bonferroni)   |
+|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+| Depend- ent vari- able              | (I) Group                           | (J) Group                           | Sig                                 |
+| N1                                  | Control                             | Mild                                | 0.91                                |
+|                                     |                                     | Moderate to severe                  | 0.008                               |
+|                                     | Mild                                | Control                             | 0.91                                |
+|                                     |                                     | Moderate to severe                  | 0.12                                |
+|                                     | Moderate to severe                  | Control                             | 0.008                               |
+|                                     |                                     | Mild                                | 0.12                                |
+| P2                                  | Control                             | Mild                                | 1.00                                |
+|                                     |                                     | Moderate to severe                  | 1.00                                |
+|                                     | Mild                                | Control                             | 1.00                                |
+|                                     |                                     | Moderate to severe                  | 1.00                                |
+|                                     | Moderate to severe                  | Control                             | 1.00                                |
+|                                     |                                     | Mild                                | 1.00                                |
+| N2                                  | Control                             | Mild                                | 1.00                                |
+|                                     |                                     | Moderate to severe                  | 1.00                                |
+|                                     | Mild                                | Control                             | 1.00                                |
+|                                     |                                     | Moderate to severe                  | 1.00                                |
+|                                     | Moderate to                         | Control                             | 1.00                                |
+|                                     | severe                              | Mild                                | 1.00                                |
+
+a comprehensive breakdown of the results obtained from Bonferroni's posthoc analysis concerning all auditory late latency response (ALLR) peaks, please refer to Table 4. These findings further elucidate the nuances in cortical processing disparities among the various participant groups, particularly highlighting the significance of the observed differences between the control and moderate-severe misophonia groups.
+
+The amplitude of all the peaks in the auditory late latency response (ALLR) was subject to analysis across the participant groups. Within the control group, the mean amplitude of the p1 peak measured 1.36 (SD = 0.76) for the right ear and 1.39 (SD = 1.06) for the left ear. Similarly, the mild misophonia group displayed amplitudes of 0.73 (SD = 0.81) for the right ear and 1.12 (SD = 0.99) for the left ear. For the moderate-severe misophonia group,
+
+the amplitudes experienced a reduction to 0.59 (SD = 0.79) for the right ear and 0.88 (SD = 0.92) for the left ear.
+
+Notably, a similar reduction in mean amplitude was also observed for the N1 peak in the moderate-severe misophonia group when compared to the mild and control groups. The specifics regarding the mean amplitude of P1 and N1 for both the right and left ears are visually represented in Figs. 3 and 4, respectively. These amplitude measurements offer insights into the strength of cortical responses across different participant groups, emphasizing the amplitude reductions observed in the moderate-severe misophonia group, particularly concerning the P1 and N1 peaks.
+
+Despite the observed variations in the amplitude of P1 and N1 peaks across the participant groups, the statistical analysis did not reveal any significant differences in these amplitudes ( p value &gt; 0.05). Similarly, no notable distinctions were identified in the mean amplitudes of the P2 and N2 peaks between the groups for both ears, with p values exceeding 0.05. For a comprehensive breakdown of the results  obtained from the one-way ANOVA comparing the amplitude of all peaks, refer to Table 5. These findings emphasize that while amplitude differences were present, they did not reach the threshold of statistical significance across the participant groups, suggesting that the cortical responses in terms of amplitude were relatively consistent among the groups.
+
+## Discussion
+
+The evaluation of misophonia and its diagnostic protocols remains a subject of ongoing debate. Despite the dedicated efforts of numerous researchers in this field, a clear understanding of the disorder's exact pathophysiological mechanism remains elusive. In an attempt to address this issue, Swedo et al. (2022) formulated a consensus definition of misophonia [1], while Jager et al. (2020) established diagnostic criteria for the disorder [9]. A complementary model, known as the Dozier model, was also introduced, conceptualizing misophonia as an aversive physical and emotional reflex disorder [28]. The intricate nature of misophonia positions it at the intersection of audiology, neurology, and psychiatry [2]. Within this context, our study contributed to the exploration of cortical functioning among individuals with misophonia.
+
+This investigation was conducted by administering auditory late latency response (ALLR) assessments to individuals presenting varying degrees of misophonia. Additionally, our study delved into the hearing thresholds of individuals affected by misophonia, utilizing both pure-tone audiometry  (PTA)  and  high-frequency  audiometry  (HFA) approaches. By probing the complexities of misophonia and
+
+-5
+
+Fig. 3 Comparison of the mean amplitude of P1 and N1 peaks of ALLR between the groups ( N =  45)  for  the  right  ear  (Error  bar  represents standard deviation)
+
+Fig. 4 Comparison of the mean amplitude of P1 and N1 peaks of ALLR between the groups ( N =  45) for the left ear (Error bar represents standard deviation)
+
+Table 5 Illustration of results of one-way ANOVA for the amplitude of all the peaks of ALLR ( N =  45)
+
+| One-way ANOVA   | df   | F     | Sig   |
+|-----------------|------|-------|-------|
+| Right ear       |      |       |       |
+| P1              |      |       |       |
+| Between groups  | 2    | 4.01  | 0.06  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| N1              |      |       |       |
+| Between groups  | 2    | 1.16  | 0.32  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| P2              |      |       |       |
+| Between groups  | 2    | 0.43  | 0.65  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| N2              |      |       |       |
+| Between groups  | 2    | 0.886 | 0.42  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| Left ear        |      |       |       |
+| P1              |      |       |       |
+| Between groups  | 2    | 0.98  | 0.38  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| N1              |      |       |       |
+| Between groups  | 2    | 2.05  | 0.14  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| P2              |      |       |       |
+| Between groups  | 2    | 1.00  | 0.37  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+| N2              |      |       |       |
+| Between groups  | 2    | 0.26  | 0.77  |
+| Within groups   | 42   |       |       |
+| Total           | 44   |       |       |
+
+its underlying mechanisms through a multidisciplinary lens, our study aimed to shed light on the enigmatic aspects of the disorder. Through the assessment of cortical responses and hearing thresholds, we sought to contribute to the evolving understanding of misophonia and its intricate relationship with audiological, neurological, and psychiatric dimensions.
+
+Late latency auditory evoked potentials were initially explored by Picton &amp; Durieux Smith in 1978. These potentials, known as late latency response (LLR), are generated by auditory pathways including thalamocortical and corticocortical routes, the primary auditory cortex, and cortical association areas [29]. The P1 peak within the ALLR is
+
+unaffected by attention and is associated with a pre-attentive orientation toward novel auditory stimuli [30]. Notably, our study exhibited a significant difference in the P1 peak latency of ALLR between individuals with misophonia and control groups. Specifically, the latency of P1 peaks was observed to occur earlier in both ears of individuals with misophonia. The neural generators responsible for the P1 peak are predominantly situated in the superior temporal gyrus [31]. Moreover, the frontal lobe, which plays a role in auditory gating, also contributes to the P1 peak generation [32]. Additionally, animal studies have illustrated the participation of the hippocampus, a component of the limbic system, in sensory gating mechanisms [33]. In individuals experiencing misophonia, emotional outbursts may lead to hyperactivation of the non-classical auditory pathway, which maintains connections with the limbic system [34]. Consequently, misophonia could potentially trigger unfavorable responses to sounds due to heightened activity in various subcortical auditory regions. This underscores the hypothesis that the earlier evoked responses observed among individuals with misophonia might be attributable to increased neural activity around peak generators and other subcortical regions. The findings of our study are supported by the work of Brett-Green et al., who reported early evoked response potentials (ERPs) in the sensory cortex of children with sensory over-responsiveness, supporting our observations [35]. However, it is important to note that their study focused on autism spectrum disorder and incorporated visual and tactile stimuli. It is worth highlighting that our research represents a pioneering endeavor within the realm of misophonia. To our knowledge, this study is the first of its kind conducted among individuals with misophonia. Moving forward, future studies are crucial to validate and reproduce these findings, contributing significantly to the evolving understanding of this intricate disorder.
+
+Sensory gating refers to the brain's inherent ability to selectively modulate sensitivity to sensory stimuli [36]. The P1 peak has been closely linked to sensory gating, with its amplitude suppression noted in various disorder including autism [37], attention deficit hyperactivity disorder (ADHD), and Alzheimer's disease [38]. However, its involvement in individuals with misophonia has not been extensively explored. Notably, the findings of our study revealed no statistically significant disparity in the mean amplitude of the P1 peak among the groups ( p value &gt; 0.05). This aligns with the conclusions of Schroder et al.[16]. It is important to acknowledge that further studies are warranted, utilizing a well-designed methodology and a larger sample size, to replicate and confirm the results we obtained. Such efforts will contribute to a deeper comprehension of the P1 peak's role in misophonia and potentially unveil new insights into this intricate disorder.
+
+The N1 peak within the ALLR originates from both the primary auditory cortex, situated in the superior portion of the temporal lobe, and the secondary auditory cortex, which is associated with the attention directed toward the stimulus. Our study showed an earlier latency of the N1 peak in individuals with misophonia, with a significance level of p &lt;  0.05. Notably, Schröder et al. (2019) conducted a functional magnetic resonance imaging (fMRI) study, reporting heightened neuronal activity in the superior temporal cortex-an area involved in generating the N1 peak of the LLR [13]. Based on this, we can hypothesize that the early evoked potential of the N1 peak observed among individuals with misophonia could be attributed to heightened neuronal activity in the superior temporal cortex.
+
+Interestingly,  the  outcomes  of  our  study  contradict those reported by Schröder et al.[16], who found no differences in the latency of P1 and N1 peaks in individuals with misophonia. This discrepancy could potentially stem from differences in acoustic stimuli and methodologies used. Schröder et al. employed an oddball paradigm task to record evoked response potentials, which might have contributed to variations in the findings. Consequently, future research endeavors should encompass diverse stimuli to replicate and validate these findings. The quest for a more comprehensive understanding of misophonia warrants further investigation and consideration of different experimental approaches.
+
+The N1 peak stands out as the most consistent and reliable peak within the ALLR. In our study, we did not observe a statistically significant difference in the mean amplitude of the N1 peak among individuals with misophonia, even as the severity of misophonia increased. Interestingly, these findings differ from those of Schroder et al. [16] who, through electroencephalography (EEG), reported a decreased mean N1 peak amplitude in response to deviant stimuli within the misophonic group compared to the control group.
+
+Several factors could account for the absence of a statistically significant difference in our study. One plausible explanation could be the inclusion of individuals with less severe misophonia in our participant group. It is noteworthy that the majority of participants in our study presented with mild to moderate misophonia. Additionally, Schroder et al. employed an oddball paradigm involving standard and deviant stimuli to assess the N1 peak. In contrast, our study employed a continuous 500 Hz tone burst stimulus. The disparity in stimuli could potentially contribute to the lack of a statistically significant difference in N1 amplitude between our participant groups. Notably, Schroder et al. did not observe a significant difference in the mean amplitude of N1 in response to the standard stimulus, aligning with our findings. To establish more robust conclusions, future studies should adopt various stimuli and methodologies to replicate and validate these findings. The intricate nature of misophonia demands a multifaceted approach to comprehending its underlying mechanisms, and continued research efforts are crucial in this endeavor.
+
+The P2 and N2 peaks within the ALLR encompass endogenous potentials that exhibit a greater reliance on cognitive processes. Numerous cortical generators contribute to the generation of the P2 peak, including the reticular formation and Heschl's gyrus. Similarly, the N2 peak originates from various cortical sites, such as the left superior temporal gyrus and the bilateral medial temporal lobe area [39]. Interestingly, our study revealed no notable differences in the latency and amplitude of the P2 and N2 peaks ( p &gt;  0.05), signifying that auditory processing in these regions remains within the normal range among individuals with misophonia. This aligns with the conclusions drawn by Schröder et al. [16]. The absence of significant differences in these cognitive-dependent peaks suggests that higher-level auditory processing in individuals with misophonia is largely comparable to that of individuals without the disorder. This further highlights the complexity of misophonia and emphasizes the importance of exploring various aspects of auditory processing to gain a comprehensive understanding of the disorder.
+
+Misophonia, a unique disorder, can manifest either independently or in conjunction with other auditory disorders such as tinnitus and hyperacusis. Notably, research conducted on tinnitus has shown heightened P1 peak amplitude within the ALLR, with no observed disparities in the amplitude and latency of other peaks [22]. Similarly, studies documented in the literature have reported statistically significant differences in the mean latency of N1 and P300 in individuals with tinnitus [21]. Moreover, investigations into tinnitus and hyperacusis have revealed no significant distinctions in electrophysiological measures employing ALLR, particularly in tinnitus patients with or without hyperacusis [23]. These divergent outcomes across misophonia, tinnitus, and hyperacusis indicate that distinct neurophysiological mechanisms in these disorders. The varying results underscore the intricate and multifaceted nature of auditory disorders, urging a more targeted approach towards understanding their underlying pathophysiology. It is evident that these auditory disorders, while sharing certain auditory aspects, possess unique characteristics that necessitate separate investigations to unravel their complexities.
+
+Beyond the examination of cortical functioning, our study extended to the assessment of the hearing threshold in individuals with misophonia, utilizing both pure-tone audiometry (PTA) and high-frequency audiometry (HFA). The outcomes of our study showed no significant variations in the hearing threshold between participants with misophonia and those without the disorder. These findings are in alignment with the conclusions drawn by Aazh et al. [18]. Furthermore, the investigation into high-frequency hearing thresholds exhibited no statistically significant distinctions
+
+among participants with and without misophonia ( p &gt;  0.05). It's noteworthy that this study marks the first instance of high-frequency audiometry being employed within the context of individuals with misophonia.
+
+These insights contribute to the growing understanding of misophonia and provide an enhanced comprehension of the auditory characteristics associated with the disorder. The comprehensive evaluation is a valuable step toward unraveling the complexities of misophonia and its relationship with auditory processing.
+
+## Conclusion and limitation of the study
+
+The literature on misophonia from an audiological perspective remains sparse. Our study's findings of earlier P1 and N1 peak latencies within the ALLR implies the possible existence of abnormal auditory perception and processing within specific brain regions that generate these peaks among individuals with misophonia. The congruence between electrophysiological findings and the results of functional magnetic resonance imaging (fMRI) studies in the literature underscores the potential of ALLR as a clinical correlate for misophonia. To establish the robustness of our findings, future investigations should be conducted with larger sample sizes. Employing advanced EEG equipment and diverse stimuli could further enhance the precision of our findings.
+
+Additionally, our study utilized the widely accepted RAMISO-S questionnaire for evaluating misophonia and its severity. However, this tool has not been standardized for the native Indian language and population. Consequently, future studies should aim to address this limitation by employing a culturally adapted and standardized questionnaire. Overall, our study initiates a crucial line of inquiry into misophonia from an audiological perspective. As research progresses, it will be instrumental in building a comprehensive understanding of the disorder and its underlying mechanisms.
+
+Acknowledgements The authors acknowledge Director, All India Institute of Speech and Hearing for allowing to carry out this study. The authors acknowledge the participant for their co-operation.
+
+Author contributions SA: was involved in concept development, study design, stimulus preparation, analysis of the results, interpretation, and writing the manuscript; PP: was involved in concept development and study design, stimulus preparation, and writing the manuscript.
+
+Funding The study was funded by So Quiet Non-profit Organization.
+
+Data availability The datasets analyzed during the current study are available from the corresponding author upon reasonable request.
+
+## Declarations
+
+Conflict of interest There is no conflict of interest to disclose.
+
+Ethical statement The research followed ethical guidelines by the All India Institute of Speech and Hearing's review board, obtaining informed consent from all participants.
+
+## References
+
+- 1. Swedo SE et al (2022) Consensus definition of Misophonia: a Delphi study. Front Neurosci 16:841816
+- 2. Danesh A, Aazh H (2020) Misophonia: a neurologic, psychologic, and audiologic complex. Hearing J 73(3):20,22,23
+- 3. Jastreboff PJ, Jastreboff MM (2015) Decreased sound tolerance: hyperacusis, misophonia, diplacousis, and polyacousis. Handb Clin Neurol 129:375-387
+- 4. Tyler RS et al (2014) A review of hyperacusis and future directions:  part  I.  Definitions  and  manifestations.  Am  J  Audiol 23(4):402-419
+- 5. Rosenthal MZ et al (2021) Development and initial validation of the Duke Misophonia questionnaire. Front Psychol 12:709928
+- 6. Vitoratou S, Hayes C, Uglik-Marucha E and Gregory JC (2020) Selective Sound Sensitivity Syndrome Scale (S-Five): a psychometric tool for assessing misophonia. Summary on three waves of sampling and analysis
+- 7. Wu MS, Lewin AB, Murphy TK, Storch EA (2014) Misophonia: incidence, phenomenology, and clinical correlates in an undergraduate student sample. J Clin Psychol 70(10):994-1007
+- 8. Schröder A, Vulink N, Denys D (2013) Misophonia: diagnostic criteria for a new psychiatric disorder. PLoS One 8(1):e54706
+
+9.
+
+Jager I et al (2020) Misophonia: phenomenology, comorbidity and demographics in a large sample. PLoS One 15(4):e0231390
+
+- 10. Brout JJ et al (2018) Investigating Misophonia: a review of the empirical literature, clinical implications, and a research agenda. Front Neurosci 12:36
+- 11. Kumar S et al (2017) The Brain Basis for Misophonia. Curr Biol 27(4):527-533
+- 12. Aryal S, Prabhu P (2023) Understanding misophonia from an audiological perspective: a systematic review. Eur Arch Otorhinolaryngol 280(4):1529-1545
+- 13. Schröder A et al (2019) Misophonia is associated with altered brain activity in the auditory cortex and salience network. Sci Rep 9(1):7542
+- 14. Kumar S et al (2021) The motor basis for Misophonia. J Neurosci 41(26):5762-5770
+- 15. Schröder A et al (2015) P.1.i.015 Impulsive aggression in misophonia: results from a functional magnetic resonance imaging study. Eur Neuropsychopharmacol 25:S307-S308
+- 16. Schröder A et al (2014) Diminished n1 auditory evoked potentials to oddball stimuli in misophonia patients. Front Behav Neurosci 8:123
+- 17. Aryal S, Prabhu P (2023) Awareness and perspectives of audiologists on assessment and management of misophonia in India. J Otol 18(2):104-110
+- 18. Aazh H, Erfanian M, Danesh AA, Moore BCJ (2022) Audiological and other factors predicting the presence of misophonia symptoms among a clinical population seeking help for tinnitus and/or hyperacusis. Front Neurosci 16:900065
+- 19. Aryal S, Prabhu P (2023) Auditory brainstem functioning in individuals with misophonia. J Otol 18(3):139-145
+
+- 20. Billings CJ, Tremblay KL, Souza PE, Binns MA (2007) Effects of hearing aid amplification and stimulus intensity on cortical auditory evoked potentials. Audiol Neurootol 12(4):234-246
+- 21. Santos  Filha  VA,  Matas  CG  (2010)  Late  auditory  evoked potentials in individuals with tinnitus. Braz J Otorhinolaryngol 76(2):263-270
+- 22. Konadath S, Manjula P (2016) Auditory brainstem response and late latency response in individuals with tinnitus having normal hearing. Intractable Rare Dis Res 5(4):262-268
+- 23. Erinc M, Derinsu U (2022) Behavioural and electrophysiological evaluation of loudness growth in clinically normal hearing tinnitus patients with and without hyperacusis. Audiol Neurootol 27(6):469-477
+- 24. Frank T (1997) ANSI Update. Am J Audiol 6(3):29-32
+- 25. Roup CM, Wiley TL, Safady SH, Stoppenbach DT (1998) Tympanometric screening norms for adults. Am J Audiol 7(2):55-60
+- 26. Homan RW, Herman J, Purdy P (1987) Cerebral location of international 10-20 system electrode placement. Electroencephalogr Clin Neurophysiol 66(4):376-382
+- 27. Bredfeldt RC (1991) An introduction to tympanometry. Am Fam Physician 44(6):2113-2118
+- 28. Thomas HD, Kate LM (2017) Phenomenology of misophonia: initial  physical and emotional responses. Am J Psychol 130(4):431-438
+- 29. Ventura LM, Alvarenga Kde F, Costa Filho OA (2009) Protocol to collect late latency auditory evoked potentials. Braz J Otorhinolaryngol 75(6):879-883
+- 30. Picton TW, Hillyard SA (1974) Human auditory evoked potentials. II. Effects of attention. Electroencephalogr Clin Neurophysiol 36(2):191-199
+- 31. Huang MX et al (2003) Predicting EEG responses using MEG sources in superior temporal gyrus reveals source asynchrony in patients with schizophrenia. Clin Neurophysiol 114(5):835-850
+- 32. Weisser R et al (2001) Is frontal lobe involved in the generation of auditory evoked P50? NeuroReport 12(15):3303-3307
+- 33. Freedman R et al (1996) Inhibitory gating of an evoked response to repeated auditory stimuli in schizophrenic and normal subjects. Human recordings, computer simulation, and an animal model. Arch Gen Psychiatry 53(12):1114-1121
+- 34. Moller AR, Rollins PR (2002) The non-classical auditory pathways are involved in hearing in children but not in adults. Neurosci Lett 319(1):41-44
+- 35. Brett-Green BA, Miller LJ, Schoen SA, Nielsen DM (2010) An exploratory event-related potential study of multisensory integration in sensory over-responsive children. Brain Res 1321:67-77
+- 36. Yadon CA, Bugg JM, Kisley MA, Davalos DB (2009) P50 sensory gating is related to performance on select tasks of cognitive inhibition. Cogn Affect Behav Neurosci 9(4):448-458
+- 37. Buchwald JS et al (1992) Midlatency auditory evoked responses: P1 abnormalities in adult autistic subjects. Electroencephalogr Clin Neurophysiol 84(2):164-171
+- 38. Buchwald JS et al (1989) Midlatency auditory evoked responses: differential abnormality of P1 in Alzheimer's disease. Electroencephalogr Clin Neurophysiol 74(5):378-384
+- 39. Telles S, Deepeshwar S, Naveen KV, Pailoor S (2015) Long latency auditory evoked potentials during meditation. Clin EEG Neurosci 46(4):299-309
+
+Publisher's  Note Springer  Nature  remains  neutral  with  regard  to jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.

@@ -1,0 +1,861 @@
+“I’m sure Dr Jekyll had misophonia”: A Reflexive Thematic Analysis (RTA) examining lived experience 
+patterns in misophonia and the usefulness of Reddit as an online support network.  
+ 
+Paris A Ash1, 2, Rachel Collum2, Rebecca Owens2 
+1Bioscience Institute, Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, UK  
+2School of Psychology, University of Sunderland, Sunderland, UK  
+ 
+Corresponding author’s email: P.Ash2@ncl.ac.uk  
+ 
+Author contribution  
+Paris Arizona Ash conceptualised and de signed  the project. Material preparation, data collection, and analysis 
+was conducted by Paris Arizona Ash. The first draft of the manuscript was written as part of Paris Arizona Ash’s 
+dissertation, and all authors commented on subsequent versions of the manuscr ipt. All authors read and approved 
+the final version of the manuscript.  
+ 
+Acknowledgments  
+I would like to express my deepest gratitude to all individuals I have had the pleasure to work with during this 
+project. As well as my colleagues that I worked closely with outside this project, Sukhbinder Kumar, Joel Berger, 
+and Phillip Gander. All those  involved in this project provided me with extensive personal and professional 
+guidance that has informed my scientific career. Furthermore, I would like to express thanks to my family, who 
+without their love and support I would not be in the position I am  today.
+
+“I’m sure Dr Jekyll had misophonia”: A Reflexive Thematic Analysis (RTA) examining lived experience 
+patterns in misophonia and the usefulness of Reddit as an online support network.  
+ 
+Abstract  
+Misophonia, commonly referred to as the ‘hatred of sounds’ disorder (despite lack of official classification  in the 
+diagnostic tools ), has largely been investigated with the purpose of establishing a mechanism responsible for the 
+disorder. Perpetuating the emergence of two main gaps within the literature; i) lack of large -scale lived experience 
+research, and ii) lack of investigation t owards the online support networks that are becoming increasingly utilised 
+and available to misophonic individuals. To addre ss these gaps, this project utilised the r/misophonia subreddit as 
+a data collection source to examine the presence of lived experience patterns in people with misophonia, and to 
+assess the usefulness of online support networks. The dataset included 26 red dit posts (10 from the year 2021, and 
+16 from the year 2022) which were randomly sampled using an application programming interface (API), and 
+then analysed qualitatively using reflexive thematic analysis (RTA). Overall, the findings portrayed that 
+misopho nic individuals share a plethora of lived experiences , and regarding the use of online support networks, 
+such as the r/misophonia subreddit, these were represented as largely positive environments (via. Providing 
+support, freedom of expression, and a place to vent). However, there were also negative implications of using 
+online social networks, for example they can become environments of perpetuating negativity where discussions 
+of self -harm, and suicide may take place.  
+ 
+Keywords  
+Misophonia, Lived experience, Support groups, Online support networks.  
+ 
+Introduction  
+Misophonia, the ‘hatred of sounds’ (Jastreboff & Jastreboff, 2002) is traditionally  characterised by its tendency  
+to provoke unwanted negative emotional and/or behavioural responses to typical day -to-day sounds – these are 
+termed “trigger sounds” ( Jastreboff & Jastreboff, 2002; Kumar et al., 2014 ). Individuals with misophonia are often 
+regarded as sharing a common set of trigger sounds, such as those produced by people eating, drinking, chewing, 
+and breathing (Edelstein et al., 2013; Wu et al., 2014). With the common response to these trigger sounds including 
+anger, anxiety, irritation, and distress, combined with the overwhelming desire to escape the situation (Edelstein 
+et al., 2013; Schröder et al., 2013). Due to the emotional/behavioural impact, and larg ely inescapable nature of 
+trigger sounds, there is an established consensus within the literature that misophonia can have extremely 
+debilitating effects on an individual’s quality of life – particularly their occupational, familial, and social life 
+(Edels tein et al., 2013 ; Schröder et al., 2013 ). Jager et al., (2020) illustrated the impact of misophonia on an 
+individual’s mental health, particularly the socially isolating consequences, which in severe cases of misophonia 
+have been shown to result in suicide and/or suicide attempts. Coinciding with  Rouw and Erfanian’s, (2018) 
+observations that up to 20% of individuals with misophonia have experience suicidal ideation.  
+ 
+Despite the debilitating effects of misophonia, it is still a relatively unexplored disorder and does not have an 
+official classification in either the Diagnostic and Statistical Manual of Mental Disorders (DSM) or the 
+International Classification of Disea ses (ICD). As there are no official diagnostic criteria, the ‘full extent’ to which
+
+misophonia affects and individual’s life cannot accurately be presented to professionals, despite the fact it can be 
+seen to have devastating consequences. There have been some attempts to provide some unofficial diagnostic 
+criteria for misophonia (Dozier et al., 2017; Schröder et al., 2013 ), based largely on what is currently known about 
+misophonia, and the disorders misophonia has been evidenced to co -occur and share comorbidities with. More 
+recently, literature has begun to advocate for misophonia to be regarded as its own independent disorder 
+(potentially discrete disorder), with Jager et al., (2020) continually describing misophonia as its own psychiatric 
+disorder, advocating for further refinement of proposed  diagnostic criteria, to assist in establishing a more accurate 
+diagnosis for individuals.  In relation to treatment, tinnitus retraining therapy (TRT; Jastreboff & Jastreboff, 2014 ), 
+and cognitive behavioural therapy (CBT; Schröder et al., 2017)  are the ‘conventional treatments’ utilised for 
+misophonia. Less conventional treatments, which are growing in recognition, include, relaxation and 
+counterconditioning therapy (RCT ), and applied relaxation training  (Dozier, 2015) . Most highly appraised is CBT, 
+Jager et al., (2021) demonstrated using a randomised control trial that CBT has both short -term and long -term 
+efficacy when treating misophonic individuals.  Potgieter et al., (2019) highlighted that the current treatments for 
+misophonia are strong fou ndations for future literature wanting to establish diagnostic tools/methods, and trial 
+treatments.  
+ 
+To further inform diagnostic and treatment approaches, research should continue to expand and develop the 
+understanding of misophonia.  To date, a large majority of the literature has focused on investigating the causal 
+mechanism/s facilitating the disorder, with the ‘auditory processing framework’ in particular dominating the field, 
+regarding misophonia as a disorder of sound processing  (Jastreboff & Jastreboff, 2002; Kumar et al., 2014).  This 
+framework proposes that trigger sounds cause impaired processing  in the auditory and emotional parts of the brain, 
+subsequently driving the negative emotional response exhibited after a trigger event (Kumar et al., 2014, 2017). 
+Ash et al., (2023), highlighted the ‘detached’ nature of this framework, specifically its lack of acknowledgement 
+of contextual factors – particularly as misophonia has been demonstrated to be a highly socially impacting disorder 
+(Edelstein et al., 2013; Schr öder et al., 2013). Coinciding with Dozier et al., (2017) proposal that misophonia 
+should  be explored from a multi -sensory perspective. There are a plethora of studies illustrating that contextual 
+factors do indeed affect how the brain processes information, such as, social, and non -social signal cues (Molapour 
+et al., 2021). A newer emerging perspective attempting to explain misophonia is the ’motor basis for misophonia’, 
+primarily proposed by Kumar et al., (2021).  This perspective suggests that misophonic distress may potentially 
+link to the action of triggers (and therefore the people that p roduce the trigger sounds) as opposed to the sound 
+itself, which they suggest has been misinterpreted as the main trigger source – illustrating the re to be a  social 
+element involved in explaining misophonia  (Ash et al., 2023; Kumar et al., 2021) .  
+ 
+Numerous small -scale case studies, typically involving individual case descriptions or a series of case reports, 
+have also been used to develop and inform an understanding of misophonia (Dozier, 2015; Dozier & Morrison, 
+2017 ). Historically, case study literature has been perceived as lacking rigour and objectivity in comparison to 
+other research methods, however, regarding new research areas the use of case studies has been praised as being 
+well-suited and useful for exploratory  purposes (Eisenhardt, 1989).  Gilson, (2012) highlighted that health -related 
+research fields in particular lack an appreciation for case study approaches, when in actuality  case studies are 
+necessary for allowing more in depth and multi -faceted examinations of real -life complex issues. Although lived
+
+experience research has been produced in relation to misophonia typically through using small -sale case studies, 
+which while good and rich in information, these experiences are not widely generalisable and/or explored amongst 
+a plethora of individuals with  misophonia.  In support of this, Enzler et al., (2021) highlighted that the ‘true’ 
+understanding of misophonia from a lived experience standpoint is largely unexplored to date by the literature, 
+further implicating that without examining the subjective exp eriences of individuals (on a larger scale), this will 
+in turn hinder the progression of psychiatric tools, treatments, causal research, and overall understanding of 
+misophonia.  Furthermore, Vázquez et al., (2023) stressed the importance of including lived experience at all stages 
+of research development, as they argue that patients can offer ‘specialist expertise’ about their disorder, that most 
+researchers cannot, due to them li ving with their disorders daily. This prominently relates to the movement of 
+patient and public involvement (PPI) in the design and conduct of health research, as PPI has been demonstrated 
+to increase the value, integrity, and overall quality of literature (Biggane et al., 2019).  
+ 
+With the increasing examination of misophonia from a social perspective and the apparent importance of 
+examining lived experiences, it is essential to discuss the growing development/utilisation of online forums 
+designed to help people with misophonia cope and educate themselves about their disorder. Some prominent 
+forums include ‘Allergic to Sound’  (https://allergictosound.com ) which is an online resource developed for people 
+living with sensory processing disorder (SPD), misophonia, and misokinesia (‘hatred of movements’; Jaswal et 
+al., 2021), and the r/misophonia subreddit forum  (https://www.reddit.com/r/misophonia/ ) which is an online 
+support network exclusively for misophonia. Online social networks consist of a set of interconnected individuals 
+who interact using computer -based technologies as opposed to face -to-face interactions (American Psychological 
+Association , n.d.; APA). As misophonia can have detrimental effects on an individual’s ability to engage socially 
+(Edelstein et al., 2013; Schröder et al., 2013), these online social network tools in theory may allow for individuals 
+with misophonia to express themsel ves socially . Naslund et al., (2020), highlights that it is not uncommon for 
+people with mental health conditions to turn towards online platforms in search for online peer -to-peer 
+connections where they can share their experiences and gain advice. There i s overwhelming evidence that online 
+support networks provide positive and supportive environments that instil a sense of belonging within individuals 
+(Naslund et al., 2016). However, research also illustrates that there can be considerable risks of engagin g in online 
+support networks, perhaps most prominent is the risk of creating environments of perpetuating negativity, or 
+promoting unhealthy coping mechanisms, such as self -harm (Ziebland & Wyke, 2012). Contrastingly, Highton -
+Williamson and Giacco , (2015) indicates that these potential risks may not apply as heavily to people with mental 
+health issues as their review found limited evidence for extreme negative engagement.  
+ 
+In retrospect, there a ppears to be  two apparent gaps in misophonia literature: firstly, the lack of large -scale lived 
+experience literature, and secondly, the lack of research examining the social networks available to those with 
+misophonia. To address these gaps, this project aims to util ise one of, if not, the largest online support networks 
+currently being used exclusively for misophonia, this is the r/misophonia subreddit. The researcher decided to 
+utilise the r/misophonia subreddit as a source for data  collection as it could arguably provide the ‘raw’ lived 
+experience of misophonia, untampered by researcher involvement and therefore maintaining high ecological 
+validity. Reddit defines itself as a home for thousands of communities which promote endless c ommunication and 
+authentic human interaction. The r/misophonia subreddit was created on the 9th of March 2011, and currently has
+
+62.5k members (as of March 30th, 2023) subscribed to its page. In comparison, the misophonia Facebook support 
+network is a closed forum created on the 16th of January 2012, and only has 24.9k members (as of March 30th, 
+2023). Thus, illustrating the growth of this platform and its involvement in recording the experiences and 
+supporting people with misophonia. Through using the r/misophonia subreddit, this research will examine the 
+presence of lived experience patterns between those with misophonia, and the u sefulness of online support 
+networks, such as Reddit, therefore addressing these gaps and incorporating PPI , through showcasing  of 
+individuals ’ raw lived experiences  at the core of misophonia research.  
+ 
+Method  
+Participants  
+This dataset was comprised of 26 Reddit posts (10 posts from the year 2021, and 16 from the year 2022) that were 
+randomly sampled from the r/misophonia subreddit using an application programming interface (API). Initially, 
+100 posts (50 from the year 2021,  and 50 from the year 2022) were collected using the API, though this was 
+reduced when applying the exclusion criteria, which was: posts explicitly indicating that the user was under the 
+age of 18 -years -old (for example, “I am a 16 -year-old boy with misoph onia” ); and if the post URLs had expired. 
+URL expiration typically occurs if the Reddit posts have been removed by the user directly or removed by a 
+subreddit moderator, due to violating the r/misophonia subreddit’s rules (see Appendix A). Application of the 
+exclusion criteria resulted in 74 posts from the original 100 collected being removed from the analysis. 
+Demographic details could not be obtained for this project, due to Reddit being a platform which prioritises its 
+users anonymity, and thus has a lar gely anonymous user base.  
+ 
+Materials  
+Application Programming Interface (API) – An API is a library of coding functions that allow for a website or 
+application to be interacted with. In this project, the API interacted with the subreddit r/misophonia (website) to 
+extract Reddit post URLs and d irectly transfer them into an excel file, where they could then be cleaned in 
+accordance with the exclusion criteria, and then subjected to analysis.  
+ 
+Methodological approach  
+As this project was exploratory in nature, focusing on exploring individuals’ lived experience of misophonia, it 
+was organised around three guiding questions: 1. Are there patterns of lived experience between users? 2. How 
+can lived experiences in the r/mi sophonia subreddit be utilised to inform the existing literature surrounding 
+misophonia? and 3. What is the r/misophonia subreddit being used for?  
+ 
+The posts in this project largely indicate that they have been created by people that have misophonia themselves, 
+however posts on this subreddit can be made by anyone that interacts with misophonia to some degree in their 
+lives (for example, an individual  may be using the subreddit for a family member with misophonia).  
+ 
+A Reflexive Thematic Analysis (RTA) was used to analyse the data. This is theoretically a flexible method used 
+for developing, analysing, and interpreting patterns across a qualitative dataset, and therefore was deemed 
+appropriated for use in this project (Braun & Clarke, 2006). The data was analysed using a critical realist
+
+framework, which acknowledges that whilst all users will have differing experiences of the world, they all have 
+situated experience of misophonia and using the r/misophonia subreddit platform. The researcher was a 21 -year-
+old white cis -gendered woman who d oes not have misophonia but has been a member of the r/misophonia 
+subreddit for approximately two years for previous research purposes.  
+ 
+Procedure  
+Due to the nature of this project, consent did not need to be obtained, as Reddit data is public domain and according 
+to Reddit’s privacy policy users are aware that their posts may be accessed by external sources  
+(https://www.reddit.com/policies/privacy -policy ). However, out of consideration, an information sheet (see 
+Appendix B) was sent directly to the moderators of the r/misophonia subreddit informing them that the project 
+would be taking place and what it entailed. The r/misophonia subreddit moderators respo nded to this information 
+sheet, expressing that they were happy for the study to be conducted (thus illustrating a form of consent; see 
+Appendix C). This study was granted ethical approval by the Institution’s Research  Ethics Committee (see 
+Appendix D).  
+ 
+After receiving a response from the moderators, an API was coded using the programming language Python 
+(2009), to extract 100 posts from (specifically their URLs) from the r/misophonia subreddit and store them into a 
+singular excel file where they could be  systematically reviewed before including them in the dataset for analysis.  
+The API was not coded to exclude any specific topics from the r/misophonia subreddit, the only coded criteria 
+was that the posts would be from the years 2021 and 2022, this was to ensure that the dataset was a true 
+representation of current topics/issues that were important to individuals with misophonia. The r/misophonia 
+subreddit however does have some page rules (see Appendix A), advising users to avoid discussing certain topics,  
+such as, suicide, shaming, venting, rudeness etc. Once the URLs were stored into an excel file, systematically 
+each URL was opened individually to ensure they had not expired. After cleaning the excel file, 26 Reddit post 
+URLs remained, the content of the se posts was then screenshot and transferred into a word document where they 
+could be anonymised ready for analysis . 
+ 
+In relation to anonymity issues, Adams (2022) illustrated that one of the major ethical concerns of using data from 
+Reddit was that reverse engine searching on ‘Google’ (the copy and pasting of statements into google) could be 
+used to obtain the original Reddit post URLs, thus no longer maintain user anonymity. Therefore, to address this 
+ethical concern, the feature examples (sentences and words) used to illustrate information in relation to the themes 
+in this project have been re -worded only for the purpos e of the write -up – with the original features being used in 
+the data analysis stages. Importantly, these re -worded features have been reviewed externally by the project 
+supervisor to ensure the meaning of the original features has been maintained, and the refore is still an accurate 
+representation of the r/misophonia subreddit and its users. As well as this, the re -words were then typed into 
+Google using “r/misophonia [insert quote]”  and if the original URL no longer showed on the first page of Google 
+links , the re -word was considered effective and could then be included in the write -up of the project . 
+ 
+ 
+Data Analysis
+
+For data analysis, this RTA utilised Braun and Clarke’s (2006) six steps of thematic analysis framework. Braun 
+and Clarke (2006) highlight that for a thematic analysis to be considered ‘good’ it must maintain transparency to 
+its readers, thus the detailed process of each six step is provided below to ensure transparency.  
+ 
+Step 1: Familiarising yourself with your data.  
+Once data collection was completed, the researcher spent some time away from the data and revisited it again 
+later (specifically one month). This was done to ensure that the Reddit posts were examined using an impartial 
+perspective. To familiarise themselv es with the data, the researcher conducted multiple read throughs before 
+beginning the analysis. The first read through consisted of the first half (Reddit posts 1 -13) of Reddit posts being 
+read and then the second half (Reddit posts 14 -26) – without makin g notes. The second read through oppositely 
+consisted of the second half (Reddit posts 14 -26) being read first and then the first half (Reddit posts 1 -13) – again 
+without making notes. This was done to ensure that equal attention was applied to all the pos ts, which research 
+has stated to be a crucial step when examining qualitative research, as it promotes the use of a standardised 
+methodology (Braun & Clarke, 2006; Nowell et al., 2017) . This process was then repeated, this time with the 
+researcher making short notes in the margins, these notes demonstrate the researcher’s initial thoughts about the 
+data and demonstrate reflexivity.  
+ 
+Step 2: Generating initial codes.  
+Next, initial codes were generated by systematically reading the posts and extracting (copy and pasting into a 
+separate word document) features, which at this stage in the analysis appeared relevant to the research topic of 
+examining the lived experience of misophonia.  During this step, the researcher also began to look for initial 
+patterns amongst the features of the Reddit posts.  An example of some features which were coded into the same 
+initial code within the current dataset is, “I did some research on that earlier and didn’t turn up too many articles.”, 
+“I’ve done some resear ch, and this is what I have gathered.”, and “I’ve spent the last four hours looking at scholarly 
+sources and research of experts of misophonia,” are all features which have a pattern of individuals with 
+misophonia mentioning seeking to educate themselves f urther about misophonia, thus these features were coded 
+under the code ‘Education’.  By the end of step 2, there were 45 initial codes.  
+ 
+Step 3: Searching for themes.  
+Once the initial codes were finalised, the next step was to sort the codes into candidate themes  (as defined by 
+Braun & Clarke, (2006) ), that were all independent of each other, but similarly related to the projects research 
+aims. This was done by cutting out the initial codes and physically mapping them onto a cork board, sectioning 
+each area of the cork board for a new candidate theme.  The candidate themes and the corresponding initial codes 
+are listed in Appendix E, there were 19 candidate themes in total.  
+ 
+Step 4: Reviewing themes.  
+The candidate themes were then examined individually to determine whether they appropriately addressed the 
+three research questions; 1. Are there patterns of lived experience between users? 2. How can lived experiences 
+in the r/misophonia subreddit be utilised to inform the existing literature surrounding misophonia? and 3. What is 
+the r/misophonia subreddit being used for?  This was done in two parts; part one examined the codes and decided
+
+if they were logically related to each theme and then part two examined the full original dataset of 26 Reddit posts 
+looking for whether the themes could be effectively applied to the dataset. This review concluded that whilst all 
+candidate themes were rel evant there had to be a reduction in the number of themes, therefore this resulted in the 
+collation of many candidate themes. The review of these themes formed a final four themes with six subthemes 
+in total.  
+ 
+Step 5: Defining and naming themes.  
+The aim of this step is to capture the ‘essence’ of what each theme and its corresponding subthemes represent, 
+through defining and naming them appropriately. Braun and Clarke (2006) suggested that these names need to be 
+concise, punchy, and immediately demonstrate to readers what that theme is about.  See ‘Findings’ section for the 
+names and definitions of the themes.  
+ 
+Step 6: Producing the report.  
+This step involves the production and write up of the RTA report, see ‘Results’ section.  
+ 
+Results  
+An RTA of 26 Reddit posts from the r/misophonia subreddit  revealed four main themes; 1. Characteristics of 
+misophonia (containing three subthemes), 2. Effects on relationships (containing three subthemes), 3. Traumatic 
+experiences (containing no subthemes), and 4. The use for Reddit (containing no subthemes).  These main themes 
+and their subsequent subthemes are displayed in Table 1 below. All themes were generated with the aim to explore 
+and address the potential lived experience patterns of misophonia and the usefulness of reddit as a support 
+network.  Each main theme and subtheme are discussed in turn, providing quotes to support.  
+ 
+Table 1. Table of themes  
+Main Theme  Subtheme  
+Theme 1: Characteristics of misophonia  1.1 Triggers  
+1.2 Responses  
+1.3 Solutions  
+Theme 2: Effects on relationships  2.1 Relationship with others  
+2.2 Relationship with self  
+2.3 Relationship with academia/research  
+Theme 3: Traumatic experience  N/A 
+Theme 4: The use for Reddit  N/A 
+ 
+Theme 1: Characteristics of misophonia  
+This main theme encapsulated the various discussions that occurred between individuals (users) on the 
+r/misophonia subreddit, in which they shared information about their personal misophonia characteristics , such 
+as “I get paralyzed with anxiety ”, “My biggest trigger is my mam sniffing”, and “My worst trigger is loud noises”. 
+These discussions wholly centred around three topics; one topic being the types of triggers users experienced 
+misophonic distress to, another topic being the responses users elicited t o their triggers , and the third being the
+
+methods/techniques individuals implemented to help them cope with their misophonia. Thus, the three subthemes 
+were generated, 1.1 Triggers, 1.2 Responses, and 1.3 Solutions. Notably, it appeared second nature for users on 
+the r/misophonia subreddit to disc uss personal details about their misophonia characteristics with each other, and 
+there were many instances in which users directly prompted these types of discussions through the use of 
+questioning. For example, “Does anyone experience trigger sounds when they aren’t actually happening?”, “Do 
+doorbells trigger anyone?”,  “Anyone else experience this?”,  “Anyone else have thoughts on trigger formation?”, 
+and “Does anyone relate to this also?” . The apparent use of questioning illustrates that the r/misophonia is a 
+platform where individuals with misophonia feel comfortable to express and voice their various characteristics. 
+Furthermore, it suggests that the r/misophonia subreddit is an online platform misophonic individuals utilise to 
+seek out other people with misophonia that share similar characteristics – highlighting a desire for relatability 
+amongst use rs. 
+ 
+1.1 Triggers  
+This subtheme comprised the types of triggers that users on the r/misophonia subreddit associated as 
+characteristics of misophonia and personally reported experiencing. Many of the trigger sounds presented in the 
+dataset were consistent with the common trigger sounds highlighted in the current misophonia literature – with 
+eating related triggers being the most prevalent  in the dataset . Some reoccurring triggers were as follows , “Very 
+loud chewers”, “Reflux issues”, “Sticky mouth sounds”, “S and T sounds are  too harsh”, “I get bothered by all 
+stimuli”, “Bass sounds”, “Rhythmic ticking”, “Slurping and smacking” , and the list goes on. In relation to lived 
+experience, these triggers demonstrate that although people with misophonia may have differing individualised 
+sound sensitivities, for example some individuals may perceive repetitive tapping related sounds as more 
+triggering/intense than nasal related sounds, there is still a common set of trigger sounds that individuals with 
+misophonia are likely to experience  as characteristics of their misophonia – these trigger sounds being largely 
+consistent with those presented in the literature.  Thus, illustrating the first pattern of lived experience, that pattern 
+being that people with misophonia likely share the lived experience of enduring similar characteristics of 
+misophonia – specifically triggers in this instance.  
+ 
+Further to presenting triggers that were consistent with the literature , the dataset also brought forth new triggers 
+which have largely been unexplored by misophonia research to date. Most prominently, users discussed 
+experiencing auditory hallucinations of their typical triggers – sometimes referred to as “ghost triggers” by users. 
+One user stated “sometimes ghost sounds will get stuck in my head… they repeat like an echo each time triggering 
+me again. It can last a few minutes or a couple of hours”, with another user adding “I can hallucinate sounds 
+through my headphones when they aren’t even happening at all” , and another following up with “Triggers replay 
+in my mind anywhere from 30 seconds to 15 -30 minutes” . Parallel to these experiences, individuals with 
+misophonia described being fearful of appearing “crazy”  due to experiencing auditory hallucination as a 
+characteristic of their misophonia , with statements such as “I feel like normal people will think I’m going crazy 
+for hallucinating”  being direct evidence of this. Additionally, this statement illustrates that people with 
+misophonia do not regard themselves as "normal people".  In relation to what the r/misophonia subreddit is being 
+used for, the nature of the users conversations here arguably demonstrates  that the r/misophonia subreddit is
+
+somewhere that individuals with misophonia can express themselves freely, without the need to apply a filter, and 
+without fear of judgement – specifically a fear of being deemed “crazy ”. 
+ 
+Another trigger that became an apparent pattern in the dataset was visual triggers, which although have been 
+briefly discussed in the misophonia literature, there is no clear indication of the relationship between misophonia 
+and visual information. Instead, visual triggers have been more closely associated with misokinesia. Evidence of 
+the presence of visual triggers within the dataset include, “Visual triggers only add to my misophonic distress” , 
+“I try so hard, but my visual triggers are just too much to deal with” , and “My trigger intensifies when I can see 
+the action of that trigger” . Visual triggers appeared to be a great concern for many misophonic individuals, which 
+begs the question as to why research has not investigated this element of misophonia more closely. Especially as 
+the involvement of visual information would largely sugge st that misophonia is not solely a disorder of suffering 
+from sounds. These new trigger findings (both auditory hallucinations and visual triggers) within this subtheme 
+advocate for further exploration of misophonia characteristics, especially if research is to begin establishing an 
+accurate symptomology for the diagnostic criteria.  
+ 
+1.2 Responses  
+Moving on, this next subtheme investigated the emotional and/or behavioural reactions that users reported 
+experiencing in response to their triggers. Users within the dataset consistently portrayed their emotional and/or 
+behavioural responses as negative, for example “I am enraged every time I hear triggers”, “I just want to scream 
+what is wrong with you”, “That shit is paralyzing!”, “I have to leave immediately or I WILL lash out”, “It just 
+feels so inescapable”, and “Intense frustration, anger, and tensio n”. These findings propose that individuals with 
+misophonia largely share a similar set of negative emotional/behavioural response characteristics – presenting 
+another pattern of lived experience.  
+ 
+A particular statement that stood out in the dataset, due to many users resonating with it , through confirming 
+comments, such as “yes I get this!” and ‘upvotes’ , was as follows “Eyes glow red. Intense rage… I’m sure Dr 
+Jekyll had misophonia. Sound was the potion… he’d listen then BOOM! Mr Hyde” , referring to the novel the 
+‘Strange case of Dr Jekyll and Mr Hyde’ (Stevenson, 1886).  The intention of this novel was to illustrate the duality 
+of human nature, particularly through the utilisation of Freud’s (1923)  psychoanalytical structural theory of the 
+id, ego, and superego. The character Dr Jekyll is supposed to represent the ego; conscious and rational, acting in 
+accordance with the rules of society  (Singh & Chakrabarti, 2008) . Whereas Mr Hyde’s character is designed to 
+represent the id; fuelled by his aggressive instincts, with no moral and lack of regard for social norms  (Singh & 
+Chakrabarti, 2008) . A conflict between good and bad  (Yildirim, 2020) . Interestingly, this is how many users on 
+the r/misophonia subreddit felt best described their response to triggers, as a conflict between good and evil – their 
+id and ego – with their id response often winning, for instance  “I just want to punch the person and run away 
+haha ” and “I get wildly angry at the person ”. Towards the end of the novel, it is revealed that Dr Jekyll and Mr 
+Hyde are in fact the same person, with Dr Jekyll taking a potion which allows him to transform into Mr Hyde. It 
+could be deduced that like in the novel, Dr Jekyll slowly loses himself to Mr Hyde (eventually resulting in Dr 
+Jekyll’s suicide to stop Mr Hyde), and therefore does this mean tha t individuals with misophonia share this lived 
+experience pattern of feeling like they are losing themselves slowly due to their misophonia .
+
+1.3 Solutions  
+This subtheme referred to the methods/techniques that users on the r/misophonia subreddit used to best equip 
+themselves to cope with their misophonia, with many of these methods being shared as advice/tips between users. 
+Some common coping mechanisms detailed throughout the dataset were as follows, “I wear various  types of 
+headphone brands”, “Cover my ears with my hands/fingers”, “Remove myself from the situation by going for a 
+walk or to another room”, “Take care of your mental health to cope better”, “Use a box fan it is such a necessity”,  
+and “White noise… brown noise… pink noise… playing through my headphones” . This sharing of coping 
+mechanisms that occurs amongst users on the r/misophonia subreddit, displays that there is an established level 
+of support that the subreddit provides to its users. A s well as a shared set of common coping mechanisms (which 
+are consistent with the literature) that people with misophonia are likely to engage in to reduce their misophonic 
+distress.  
+ 
+A coping mechanism of notable importance that was presented within the dataset was mimicry, as illustrated by 
+the following statements “I mimic my mother’s sounds to cope. It helps me feel in control of the situation and 
+does an overall good job of bringing down my heart rate. But it probably isn’t the healthiest way to cope, and I 
+wouldn’t recommend it as it can be a hard habit to break” , “Mimicking helps, but I would avoid it as people can 
+take it really personal” , and “Others think I am crazy and are hos tile towards me when I mimic” . Which is a 
+coping behaviour consistent with recent literature which highlighted mimicry to be highly prevalent amongst 
+misophonic individuals (Ash et al., 2023). However, a lthough mimicking is being utilised amongst users, it is 
+interestingly a behaviour they “would not recommend” , as it is a “bad habit” , and an “unhealthy way to cope”  – 
+illustrating that people with misophonia regard mimicry as a maladaptive behaviour. Further to mimicry, users 
+also discussed engaging in othe r maladaptive coping mechanisms, for example “Try a primal scream and thrash 
+about” , “Mild self -harm to bare it” , “I just want to punch the person and run away haha” , and “I want to jump 
+out a window” . Thus, establishing another lived experience pattern that individuals with misophonia are likely to 
+engage in maladaptive behaviours to cope. It is essential to note that when referring to the r/misophonia subreddit 
+roles, under the ‘No Violence’ rule it states that suicide/suicidal ideation should not be discussed under any 
+circumstance and p rovides users with the contact detai ls for a suicide prevention hotline . Meaning  that the 
+presence of these suicidal and self -harm statements  within the dataset reflect negatively on the r/misophonia 
+subreddit, as it highlights that the subreddit riles are easily violated and therefore the platform is not accurately 
+protecting its userbase from exposure to destructive behaviours and thoughts li ke it arguably promises.  
+ 
+Finally, users also shared what they believed to be ‘long -term solutions’ for misophonia on the subreddit. Notably, 
+the two main solutions presented were again extremely destructive; one being permanent isolation and the second 
+being to become deaf (rangin g from non -permanent self -deafening techniques to permanent deafness). Some 
+examples of the desire for isolation were as follows, “The best and only universal solution to misophonia is 
+ultimately to isolate” , “I live in a fucking room 24 hours a day… only leaving for the bathroom” , “I have to 
+isolate from everything, so I don’t freak out over sound”  and “I’m going to move into the middle of the woods, so 
+I don’t have to hear sound” . Alongside this, users also praised the isolating consequences of the coronavirus  
+(Covid -19) pandemic, for example “it was a wonderful time”  and “Everything was remote, and when we met up
+
+in person we wore masks, so no one ate, and it was bliss” . Secondly, the desire for deafness is exhibited by the 
+following statements, “It is almost enough to wish I were deaf. How can something make me suffer like this?”  
+and “I’ve got my headphones on… hoping the volume will make me deaf” . Overall, this subtheme illustrates that 
+whilst some of the coping mechanisms for misophonia are  expected and consistent with the literature (such as, 
+“Remove myself from the situation …” and “Cover my ears …”), many of the solutions and/or coping mechanisms 
+for misophonia are maladaptive/destructive behaviours , and therefore, as this is a prevalent lived experience 
+pattern, indicates the importance of research working towards more constructive methods of coping and further 
+assessing  the appropriateness of these online support networks, such as Reddit, which arguably promote and/or 
+do not protect their users from being exposed to maladaptive/destructive behaviour discussions.  
+ 
+Theme 2: Effects on relationships  
+This main theme examined the effects of misophonia on an individual’s relationships, there were three subthemes 
+included within this main theme: 2.1 Relationship with others, 2.2 Relationship with self, and 2.3 Relationship 
+with academia/research. Some gen eral examples are, “My dad is beginning to resent me due to my misophonia, 
+and that hurts me so much” , “I told my mom, she took it personal, and even became very angry with me” , “Crying 
+in the bathroom at work is an everyday thing for me” , “The professiona l handling my diagnosis was not well -
+versed in misophonia”  and “Research is new and shaky” . In relation to the lived experience patterns indicated 
+within this main theme, there was an established consensus amongst users that misophonia has had an overall 
+negative effect on their various relationships – with lack of understanding displayed by othe rs (both in a personal 
+and academic situation) being a reoccurring complaint from users. In retrospect, this main theme largely 
+represented that due to the lack of understanding users received in their personal lives, the r/misophonia subreddit 
+was somewhere they could come to freely express themselves, with there being an established level of trust and 
+understanding exhibited amongst the r/misophonia subreddit userbase.  
+ 
+2.1 Relationship with others  
+This subtheme focused solely on investigating the effects of misophonia on an individual’s personal relationships, 
+specifically their familial and occupational relationships (as these were the most prevalent within the dataset). 
+Examining familial relation ships first, there was an established consensus amongst users that misophonia had 
+negatively impacted their relationships with family/partners, for example “I make my partner tense and stressed 
+because I am dramatic about noises that they don’t even notice ”, “My dad is beginning to resent me due to my 
+misophonia, and that hurts me so much” , and “My mother has COPD… I love her, but sometimes it is painful to 
+be around her” . With users also discussing having experienced a diminished quality of life due to their poor 
+familial relationships, as evidenced by the following statement “I wish our diminished quality of life caused by 
+our shitty familial relationships could be fixed” . Regarding patterns of lived experience, these findings suggest 
+that the majority of individual’s with misophonia have likely experienced a breakdown in their personal 
+relationships and potentially  feel that they  lack the ability to foster positive/meaningful relationships.  
+ 
+In relation to users’ occupational relationships, there was again a largely negative portrayal of the effects of 
+misophonia on these relationships, for example “It is like working in your absolute worst nightmare” , “Crying in 
+the bathroom at work is an everyday thing for me” , and “Since the mask mandate has been lifted and work feels
+
+like my own personal hell, our meetings have food and drink for the teams. I just absolutely cannot do it anymore… 
+it’s a multidisciplinary team though so I don’t know what accommodations they can make” . This is consistent 
+with t he perspective that personal relationships  are affected by misophonia. However, it is important to discuss 
+that there was an instance in which a user described that their fellow colleges have made some active attempts to 
+make the work environment more misophonia -friendly. For exampl e, “The two co -workers I’ve became friends 
+with eat in the back of the room and I am forever grateful to them”. These findings display contradictory evidence 
+to the perspective that people with misophonia are unable to foster good relationships, as when th ere is some level 
+of understanding displayed towards the misophonic individual (as shown by the “two co -workers”) there is greater 
+possibility for good relationships to form. Thus, highlighting that a potential factor that facilitates the rates of 
+which mi sophonia can impact an individual’s relationships is the levels of understanding that people with 
+misophonia are met with by others.  
+ 
+Users on the r/misophonia subreddit largely discussed having received low levels of understandings from others 
+in their personal lives – especially “loved ones” , such as family members and partners. For example, “My mother 
+took it personal and became very angry with me and started making fun of me, that isn’t understanding!” , “No 
+matter how much I asked them to stop, no one cared” , and “I asked them not to bring their glass water bottle full 
+of ice in my car… it causes anxiety for me… and they just got so m ad and said they weren’t going to come 
+anymore” . There were many users that attributed the lack of understating that they received from others as being 
+due to “pure ignorance” , with some prominent examples in the dataset being “People are ignorant of their noise 
+impact because quite frankly it is not a constant battle for them. It must be pure ignorance” , and “It is easily 
+stopped if a person wanted to stop” . In contrast to this perspective, there was another section of users on the 
+r/misophonia subreddit that were more empathetic, and attributed the lack of understanding displayed by others 
+to the fact that misophonia is a relatively new and difficult disord er to understand currently. For example, “It’s 
+difficult to convince people that misophonia is a  legitimate problem and I’m not just being a brat”  – thus, 
+presenting an expressed need from users for the diagnostic legitimisation of misophonia. Regarding lived 
+experience patterns of misophonia, these findings suggest that people with misophonia are largely met with little 
+understanding towards their disorder, and this in turn facilitates their negative relationships.  
+ 
+2.2 Relationship with self  
+This subtheme examined the effects of misophonia on users’ perceptions of themselves. Typically, when users 
+would refer to themselves in the dataset they would use self -deprecating language, such as “My misophonia leaves 
+me feeling guilty and intolerable” , “Just having misophonia makes me feel like a selfish person” , “The guilt piles 
+onto me because the only people I snap at are the ones I hold dearest” , and “Misophonia is like a constant 
+reminder that I am a burden to everyone I love” . Subsequently, propos ing the narrative that people with 
+misophonia see themselves as a “burden” , “intolerable” , “selfish” , as well as exhibiting a level of “guilt”  just 
+for merely having the disorder.  These findings within the dataset present that people with misophonia may share 
+the lived experience of having a negative self -image (low self -esteem and negative self -regard) as a result of their 
+misophonia, as well as undergoing reoccurring feelings of g uilt and selfishness for effecting both the lives of those 
+around them as we ll as their own. In relation to the r/misophonia subreddit, these findings demonstrate that the
+
+r/misophonia subreddit is a place where users can ruminate on their negative relationship with themselves – 
+perhaps again forming an environment of perpetuating negativity.  
+ 
+2.3 Relationship with academia/research  
+This subtheme focused solely on investigating how users felt towards the research that academics have produced 
+about misophonia, as well as their personal experiences when engaging with professionals. A prominent finding 
+within the dataset was that users o ften questioned the competence of both professionals and research, as 
+exemplified by the following “The professional handling my diagnosis was not well -versed in misophonia”, 
+“Research is new and shaky”,  “Misophonia is so confusing, especially since there is very little reputable scientific 
+literature about it”, and “I hope misophonia awareness increases in the future so we can develop better 
+treatments” . These findings demonstrate that users exhibit a lack of trust towards professionals, as well as 
+regarding current misophonia research as underdeveloped in comparison to other fields of research ( “new and 
+shaky”  and “very little reputable scientific literature” ). In relation to users’ expectations for future research, there 
+was a reoccurring hope that litera ture would focus on developing new treatment methods and work towards further 
+promoting misophonia awareness. Regarding, users experiences when seeking help from professionals, users 
+often detailed that their issues were met with dismissive remarks, for ex ample one user wrote “I mentioned 
+misophonia to my ps ychiatrist and he brushed it off reefing to it as a ‘pet peeve’… so I no longer press further… 
+I couldn’t talk about the fact that I have a sound related meltdown every day”, and another reported that 
+“Professionals did very little testing on my sound sensitivities… focusing more on my social interaction, repetitive 
+behaviours, tactile sensitivities etc” . These negative experiences reinforce the lack of trust between professionals 
+and users, demonstrating users’ inability to express their ‘true concerns’ to professionals – due to fear of 
+judgement and/or lack of regard.  
+ 
+Further to this, users displayed a strong desire to educate themselves about misophonia, using self -education 
+techniques, as exemplified by the following “I’ve spent the last four hours looking at scholarly sources and 
+research of experts of misophonia”, “I’ve done some research, and this is what I have gathered”, and “If you 
+research comorbidity and misophonia it may turn up a few articles to explain” . Demonstrating that whilst 
+misophonia research is regarded as somewhat underdeveloped, users are still abl e to utilise the research to develop 
+a greater understand of misophonia.  
+ 
+Interestingly, a prominent discussion that occurred between users on the r/misophonia subreddit centred around a 
+BBC iPlayer short film about misophonia that was produced by someone that had misophonia themselves. This 
+short film received an overwhelming a mount of support, some examples being “This made me so emotional”, “I 
+finally feel represented and understood”, and “This film nailed what misophonia is” . The intention of this short 
+film was to portray to a lay audience what misophonia is and the daily st ruggles that people go through when 
+suffering from this disorder – using both research and the producers own personal experiences of misophonia to 
+do so. As users want academia to increase misophonia awareness ( for example, “I hope misophonia awareness 
+increases” ), and the short film was intended to display misophonia to a lay audience, this perhaps explains the 
+overwhelming positive reactions displayed within the dataset to the short film. As well as presenting a potential
+
+solution to improving misophonic individual’s relationships with academia, through the utilisation of lay audience 
+techniques.  
+ 
+Theme 3: Traumatic experience  
+This main theme encapsulated the primary factor that users of the r/misophonia subreddit attributed to being the 
+cause of their misophonia and/or where their misophonia originated from. This factor being traumatic experiences 
+– typically traumatic experien ces that occurred during an individual’s childhood. For example, “Triggers 
+definitely have their origins in trauma”, “My triggers are related to sounds that occurred during my abuse”, 
+“When my dad would walk towards my room during childhood, I knew to expe ct a punishment… so when my 
+partner now enters a room when I don’t expect it I feel myself get worked up, without realising why”, “[heavily 
+detailed trauma redacted] I gradually learnt to dread dinner time, there would be verbal tirades, made obvious 
+by my  parents silence, eating, and nose blowing… now I will hate mouth and nasal sounds forever”, and “All of 
+my triggers can be pin pointed to a stressful time in my life” . To note, some of the specific details of users traumatic 
+experiences have been redacted  as they included too many identifying characteristics.  It appeared ‘second nature’ 
+within the dataset for users to discuss their traumatic experiences on the r/misophonia subreddit, again illustrated 
+through direct questioning, such as “Do people worry about having repressed trauma (childhood mainly) that has 
+caused their misophonia?”, and “I have trauma, does anyone else relate?” . Thus, presenting the r/misophonia 
+subreddit as a place where individuals with misophonia feel comfortable to express themselve s – even as far as 
+discussing personal traumas. In terms of lived experience patterns, these findings suggest that people with 
+misophonia may share the lived experience of undergoing a trauma at some point in their lives (potentially their 
+childhood), and typically regard these traumas as the causal factors and/or origins of their misophonia.  
+ 
+Theme 4: The use for Reddit  
+This main theme focused solely on answering the question ‘what is the r/misophonia subreddit being used for?’. 
+There was a common consensus amongst users that the r/misophonia subreddit was a place where users could feel 
+understood (which has been demonstr ated previously as something they lack in their personal lives), for example 
+“It is hard to be understood when suffering from misophonia… I think that’s why people come to the subreddit 
+and try to be nice and supportive” . Regarding users’ feelings towards the r/misophonia subreddit, there was an 
+overwhelming amount of praise expressed by users, for example “It is helpful reading your experiences because 
+it’s validating. Best of luck, my friends”, “Thank you for all the advice. I am so relieved I found this community; 
+everyone has been so helpful and supportive!”, “I was having a breakdown and found this subr eddit. It is such a 
+relief to know I am not alone”, and “I need to say thank you. I find comfort in forums like reddit as they help me 
+feel I’m no longer  alone” . These findings illustrate that users typically utilise the subreddit to receive, 
+“validation”, “help”, “advice”, and a reminder that they are not suffering “alone”  – essentially to receive 
+support. In addition to this, users could also be seen as using r/misophonia subreddit as a place to vent, as 
+exemplified through the following “Every once and a while it helps me to vent”, and “This is somewhere I can 
+vent my frustration” . Furthermore, r/misophonia subreddit is arguably aware of its purpose to provide support and 
+a place for users to vent as one of the permanent threads on the platform (that is consistently updated), is the 
+“Weekly Venting/Support Thread” . In retrospect, the r/misophonia subreddit represents itself and is considered 
+by users throughout the dataset as a safe space for people with misophonia.
+
+General Discussion  
+Ultimately , the aim of this project was to utilise the r/misophonia subreddit as a data collection source to examine 
+the presence of lived experience patterns in people with misophonia, and to assess the usefulness of online support 
+networks, such as Reddit. In rela tion to lived experience, the results demonstrated that misophonic individuals 
+share a variety of lived experience patterns with one another, with many of these experiences confirming findings 
+currently highlighted within the literature – as well  as presenting new areas of interest for research. Firstly, theme 
+1 (‘Characteristics of misophonia’ ) highlighted that people with misophonia  largely endure a shared set of 
+common misophonia characteristics (Edelstein et al., 2013; Schröder et al., 2013; Wu et al., 2014).  Next, theme 2 
+(‘Effects on relationships’ ) illustrated that misophonic individuals often had the shared lived experience of 
+misophonia negatively impacting their relationships (both with others, themselves, and professionals) – regularly 
+being met with a ‘lack of understanding’ towards their misophonia, and consequently resulting in a self -reported 
+diminished quality of life (Edelstein et al., 2013; Schröder et al., 2013).  Theme 3 (‘Traumatic experience’ ) 
+presented that misophonic users commonly attributed their misophonia to a traumatic experience . Finally, theme 
+4 (‘The use for Reddit’ ) established that misophonic individuals shared the desir e to be understood  and this is what 
+pushed them to online support networks such as the r/misophonia subreddit . 
+ 
+From a service user perspective, when examining the usefulness of the r/misophonia subreddit as an online support 
+network, the results are overwhelmingly positive. Users consistently regarded the r/misophonia subreddit as a 
+place where they felt comfortable to express themselves freely, seek advice/support from other users with 
+misophonia, and ultimately vent about their problems – without the fear of judgement.  As well as this, the results 
+also identified that users predominantly engaged in the r/misophoni a subreddit as they were often met with high 
+levels of understanding from others, which is something those with misophonia reported lacking in their personal 
+lives (as demonstrated throughout theme 2). Due to this, these findings suggest that online suppor t networks, such 
+as Reddit, may be useful for people with misophonia as they arguably equip users with the ability to combat the 
+socially isolating consequences of misophonia (Jager et al., 2020). Therefore, coinciding with previous literature, 
+outside of misophonia research, which represents that online support networks are positive environments, 
+especially for individuals suffering from mental health issues (Naslund et al., 2016), that allow for individuals to 
+foster healthy peer -to-peer connections and d evelop a sense of belonging in their lives (Naslund et al., 2020) – 
+which is essential as this is something people with misophonia have reported lacking in their personal lives (again 
+illustrated within theme 2). Overall, suggesting that online support net works are useful for individuals with 
+misophonia.  
+ 
+Contrastingly, outside of the service user perspective, it is important to acknowledge that it was common for 
+misophonic individuals to utilise  the r/misophonia subreddit as a place to vent and discuss maladaptive and 
+destructive coping mechanisms  (such as, self -harm, direct aggression, suicide, etc; as presented in theme 1). 
+According to Prescott et al., (2017), being able to vent online about issues (specifically mental health related 
+issues) can provide users of online support networks with feel ings of r elief. However, from a long -term usage 
+perspective, Zieband and Wyke (2012)  present that online support networks that harbour these persistent negative 
+orientated discussions can have detrimental effects on the long -term well -being of users, as oftentimes the
+
+maladaptive behaviours (such as, self -harm) discussed on online support networks are later ‘picked up’ by other 
+users.  Meaning that being able to vent and discuss negative topics on the r/misophonia subreddit although may 
+feel positive to users could have long -term detrimental effects unforeseen to the users. Another issue highlighted 
+in the dataset is that despite the r/ misophonia subreddit having presumably banned these destructive topics, 
+according to the subreddits rules (see Appendix A) , they still appear within the dataset and therefore implicates 
+that the r/misophonia subreddit may potentially lack proper moderation  as these posts are evidently ‘slipping 
+through the cracks’.  Thus, the use of online support networks for misophonia is questionable as they arguably 
+unintentionally promote and/or advocate for destructive behaviours. Perhaps to combat these issues and maintain 
+the positive value that these online support networks provide to users further moderation of the r/misophonia 
+subreddit should be implemented, or perhaps increa sing moderation transparency (Jhaver et al., 2019).  
+ 
+Progressively, this project provides an overall large -scale lived experience of what it is like to have misophonia – 
+highlighting various patterns within the dataset. Arguably, addressing Enzler et al’s., (2021) concerns of the ‘true 
+understanding’ of misophonia from a lived experience perspective being largely neglected by research. It is 
+important to recognise that when investigating misophonic individual’s subjective experiences on the 
+r/misophonia subreddit, not only did the results reinforce previous f indings within misophonia literature, but they 
+also presented new areas of interest for research, such as auditory hallucinations, visual triggers, the desire for 
+deafness, and mimicking behaviours . Coinciding with Vázquez et al., (2023) who suggested that incorporating 
+lived experience into research allows for academics to be presented with service -user ‘specialist expertise’, 
+consequently highlighting areas of interest that may not have previously been highlighted due to researchers 
+largely lacking these ‘specialist expertise’. In relation to the usefulness of online support networks, this 
+demonstrates that as well as online support networks, such as Reddit, being useful for providing users with 
+support, researchers could also potentially utilise these onl ine support networks to generate new research questions 
+etc. 
+ 
+Further to users discussing their misophonia experiences and presenting new areas of interest to academics, people 
+on the r/misophonia subreddit also demonstrated a shared need to theorise, using their own personal knowledge 
+(and sometimes research), about  the potential reasons for some of their misophonia characteristics. Theorisation 
+from users typically occurred when discussing the unexplored characteristics , and although many of the users’ 
+theories make logical sense, for example visual triggers potenti ally being facilitated by a relationship between 
+misophonia and misokinesia (Jaswal et al., 2021).  O’Sulivan et al., (2022) demonstrated that social media is one 
+of if not the largest contributors to the spread of misinformation, specifically in relation to health -related subjects.  
+Subsequently, Pennycook et al., (2021) illustrated that it is relatively easy for online users to spread and engage 
+with misinformation unknowingly, as approximately 50% of participants in their study did so. Meaning that whilst 
+on one hand these online support networks, such as Reddit, may be useful for identifying new areas of research 
+in misophonia, they may also be susceptible to becoming sources for spreading misinformation about misophonia 
+(primarily unintentionally).  
+ 
+Evaluating the strengths and limitations of this project, a prominent strength was that this project maintained high 
+ecological validity. According to the APA, ecological validity is defined as the extent to which the results of a
+
+research project can be regarded as representative to the conditions of the wider world. Arguably, by utilising the 
+r/misophonia subreddit platform this project was able to capture the ‘raw’ lived experience of misophonia, 
+untampered with by researcher inv olvement. As theme 2 presented, people with misophonia on this subreddit 
+displayed a lack of trust towards academics and professionals. Guillemin et al., (2018) stressed the importance of 
+developing trust with participants when conducting qualitative resea rch methods (especially for interviews), as 
+without an established level of trust the researcher runs the risk of dampening the fruitfulness/quality of the results. 
+This proposes that establishing a level of trust with misophonic individuals may have been difficult to achieve 
+due to their potentially already established lack of trust towards professionals (as highlighted in theme 2). 
+However, now that research is aware of this lack of trust it may be appropriate for future research to work towards 
+building a stronger trusting relationship with misophonic individuals. To do so, semi -structured interviewing 
+techniques could be utilised to address, firstly, the limitation that this project could not get users to elaborate upon 
+specific points, and secondly, inc orporates greater PPI (which misophonia research lacks) . 
+ 
+Another limitation of this project was that there was a noticeable lack of demographic details collected, such as 
+age, gender, sexuality, race etc. As Reddit is a platform which prioritises its users anonymity demographic details 
+could not be obtained in t his project. Hammer, (2011) illustrated that demographic details can be an integral aspect 
+within research, as these details can have important implications when it comes to interpreting results. An example 
+of how demographic details may have potentially i nfluenced some of the interpretations within this project is that 
+if the r/misophonia subreddit was predominantly made up of one dominant gender, for example males, that would 
+then completely change the tone for theme 4 which describes help -seeking behavio urs and a desire to be 
+understood, this is because research shows that males and females engage in help -seeking behaviours differently 
+(Liddon et al., 2018) – meaning that with demographic details the themes of this dataset may have been completely 
+differe nt. Therefore, this portrays that in future large -scale lived experience studies, an attempt should be made to 
+collect demographic details where possible.  
+ 
+Finally, it is essential to note that although this project examines one of, if not the largest, online support networks 
+available to misophonic individuals, and thus the lived experience findings are largely generalisable to the wider 
+misophonic populatio n. The findings related to the usefulness of online support networks can largely only be 
+applied to the r/misophonia subreddit (and the Reddit platform). Perhaps future misophonia research could utilise 
+several online misophonia support groups, for example  the r/misophonia subreddit, the ‘Allergic to Sound’ 
+forums, and the closed Facebook ‘Misophonia Support Group’ to investigate patterns of lived experience and the 
+usefulness of online support networks.  Doing so would arguably allow for there to be greater generalisability of 
+the results (cross -platform generalisability) and would also allow for researchers to identify if there were any 
+comparisons between the different online support networks available t o misophonic individuals – perhaps also 
+assessing whi ch support network was most effective in addressing misophonic individual’s concerns etc.  
+ 
+To conclude, it is apparent that those with misophonia share a plethora of lived experiences with one another, both 
+confirming previous literature findings (Edelstein et al., 2013 ; Schröder et al., 2013; Wu et al., 2014), and 
+suggesting new characteristics for research to investigate. In terms of the usefulness of Reddit as a support 
+network, from a service user perspective these forums were regarded with great positivity, allowing f or individuals
+
+to freely express themselves, seek advice/support, and ultimately vent about their problems – coinciding with 
+previous literature in support of online support networks (Naslund et al., 2016, 2020). As well as providing 
+academics with a deeper understanding  of misophonia. There were also some negative consequences of these 
+online support networks such as, the chance for them to become environments of perpetuating negativity (Ziebland 
+& Wyke, 2012).  Future research should continue to build from these findings  and work towards developing an 
+official diagnostic criterion for misophonia, ensuring lived experience is incorporated throughout to ensure 
+misophonic individual’s needs are being met by research.  Arguably, this project establishes the beginning for 
+large -scale lived experience research in misophonia, incorporating both PPI, and attributing a greater 
+understanding to the research question “what does it ‘truly’ mean to have misophonia?” – as this is something 
+researchers are still unsure of. This project is  merely a snippet of the lived experience research that is yet to follow.  
+ 
+Declarations  
+Compliance with Ethical Statement  
+All authors certify that they have no affiliation and/or involvement with any organisations or entity with any 
+financial and/or non -financial interest in the subject matter or materials discussed within this manuscript and thus 
+have no competing interests to declare. Informed consent was obtained by the moderators of the r/misophonia 
+subreddit allowing researchers to use an API to gather posts from the subreddit. The authors affirm that informed 
+consent was also obtained by the moderators regarding publishi ng the data from the subreddit . 
+ 
+Ethics approval  
+This study was performed in line with the British Psychological Society (BPS) Code of Human Research Ethics 
+and was granted ethical approval by the University of Sunderland’s Ethics Committee (see Appendix C ; Date 
+09/11/2022; No. 014934 ).  
+ 
+Data Availability  
+The data list of rewords that support the findings of this study are available upon request from the corresponding 
+author. The raw data set however  is not publicly  available due to the data containing information that could 
+compromise the privacy of participants.
+
+References  
+Adams, N. N. (2022). ‘Scraping’ Reddit posts for academic research? Addressing some blurred lines of consent  
+in growing internet -based research trend during the time of Covid -19. International Journal of Social 
+Research Methodology , 1–16. https://doi.org/10.1080/13645579.2022.2111816  
+American Psychological Association (n.d.). Online Social Network. APA Dictionary. Retrieved March 30, 
+2023, from, https://dictionary.apa.org/online -social -network  
+Ash, P. A., Benzaqu én, E., Gander, P. E., Berger, J. I., & Kumar, S. (2023). Mimicry in misophonia: A large‐
+scale survey of prevalence and relationship with trigger sounds. Journal of Clinical Psychology, 1 –12. 
+https://doi.org/10.1002/jclp.23605  
+Biggane, A. M., Olsen, M., & Williamson, P. R. (2019). PPI in research: a reflection from early stage 
+researchers. Research Involvement and Engagement , 5, 1–9. 
+Braun, V., & Clarke, V. (2006). Qualitative Research in Psychology Using thematic analysis in psychology 
+Using thematic analysis in psychology. Qualitative Research in Psychology , 3(2), 77 –101.  
+Dozier, T. H. (2015). Counterconditioning treatment for misophonia. Clinical Case Studies , 14(5), 374 –387. 
+https://doi.org/10.1177/1534650114566924  
+Dozier, T. H., Lopez, M., & Pearson, C. (2017). Proposed diagnostic criteria for misophonia: A multisensory 
+conditioned aversive reflex disorder. Frontiers in Psychology , 8(NOV), 2015 –2017. 
+https://doi.org/10.3389/fpsyg.2017.01975  
+Dozier, T. H., & Morrison, K. L. (2017). Phenomenology of misophonia: initial physical and emotional 
+responses. The American Journal of Psychology , 130(4), 431 –438. 
+Edelstein, M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013). Misophonia: Physiological investigations 
+and case descriptions. Frontiers in Human Neuroscience , 7(JUN), 1 –11. 
+https://doi.org/10.3389/fnhum.2013.00296  
+Eisenhardt, K. M. (1989). Building theories from case study research. Academy of Management Review , 14(4), 
+532–550. 
+Enzler, F., Loriot, C., Fournier, P., & Noreña, A. J. (2021). A psychoacoustic test for misophonia assessment. 
+Scientific Reports , 11(1), 1 –14. https://doi.org/10.1038/s41598 -021-90355 -8 
+Freud, S. (2019). The ego and the id.  Simon and Schuster.  
+Gilson, L. (2012). The case study approach. Health Policy and Systems Research. Geneva: Alliance for Health 
+Policy and Systems Research, World Health Organisation , 161–165. 
+Guillemin, M., Barnard, E., Allen, A., Stewart, P., Walker, H., Rosenthal, D., & Gillam, L. (2018). Do research  
+participants trust researchers or their institution?. Journal of Empirical Research on Human Research 
+Ethics, 13 (3), 285 -294. 
+Hammer, C. S. (2011). The importance of participant demographics. American Journal of Speech -Language  
+Pathology, 20 (4), 261.  
+Highton -Williamson, E., Priebe, S., & Giacco, D. (2015). Online social networking in people with psychosis: a 
+systematic review. International Journal of Social Psychiatry , 61(1), 92 –101. 
+Jager, I., de Koning, P., Bost, T., Denys, D., & Vulink, N. (2020). Misophonia: Phenomenology, comorbidity 
+and demographics in a large sample. PLoS ONE , 15(4), 1 –16. 
+Jager, I. J., Vulink, N. C. C., Bergfeld, I. O., van Loon, A. J. J. M., & Denys, D. A. J. P. (2021). Cognitive
+
+behavioral therapy for misophonia: A randomized clinical trial. Depression and Anxiety, 38 (7), 708 –718. 
+Jastreboff, M. M., & Jastreboff, P. J. (2002). Decreased sound tolerance and tinnitus retraining therapy (TRT).   
+Australian and New Zealand Journal of Audiology , 24(2), 74 –84. 
+https://doi.org/10.1375/audi.24.2.74.31105  
+Jastreboff, P. J., & Jastreboff, M. M. (2014). Treatments for decreased sound tolerance (hyperacusis and 
+misophonia). Seminars in Hearing , 35(2), 105 –120. https://doi.org/10.1055/s -0034 -1372527  
+Jaswal, S. M., De Bleser, A. K. F., & Handy, T. C. (2021). Misokinesia is a sensitivity to seeing others fidget 
+that is prevalent in the general population. Scientific Reports , 11(1), 17204. 
+https://doi.org/10.1038/s41598 -021-96430 -4 
+Jhaver, S., Bruckman , A., & Gilbert, E. (2019). Does transparency in moderation really matter? User behavior  
+after content removal explanations on reddit. Proceedings of the ACM on Human -Computer Interaction, 
+3(CSCW), 1 -27. 
+Kumar, S., Hancock, O., Cope, T., Sedley, W., Winston, J., & Griffiths, T. D. (2014). Misophonia: a Disorder of  
+Emotion Processing of Sounds. Journal of Neurology, Neurosurgery & Psychiatry , 85(8), e3 –e3. 
+https://doi.org/10.1136/jnnp -2014 -308883.38  
+Kumar, S, Tansley -Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., Cope, T. E., Gander, 
+P. E., Bamiou, D. E., & Griffiths, T. D. (2017). The Brain Basis for Misophonia. Current Biology , 27(4), 
+527–533. https://doi.org/10.1016/j.cub.2016.12.048  
+Kumar, S, Dheerendra, P., Erfanian, M., Benzaquén, E., Sedley, W., Gander, P. E., Lad, M., Bamiou, D. E., & 
+Griffiths, T. D. (2021). The motor basis for misophonia. Journal of Neuroscience , 41(26), 5762 –5770. 
+https://doi.org/10.1523/JNEUROSCI.0261 -21.2021  
+Liddon, L., Kingerlee, R., & Barry, J. A. (2018). Gender differences in preferences for psychological treatment, 
+coping strategies, and triggers to help‐seeking. British Journal of Clinical Psychology, 57 (1), 42 -58. 
+Molapour, T., Hagan, C. C., Silston, B., Wu, H., Ramstead, M., Friston, K., & Mobbs, D. (2021). Seven 
+computations of the social brain. Social Cognitive and Affective Neuroscience , 16(8), 745 –760. 
+https://doi.org/10.1093/scan/nsab024  
+Naslund, J. A., Aschbrenner, K. A., Marsch, L. A., & Bartels, S. J. (2016). The future of mental health care: 
+peer-to-peer support and social media. Epidemiology and Psychiatric Sciences , 25(2), 113 –122. 
+Naslund, J. A., Bondre, A., Torous, J., & Aschbrenner, K. A. (2020). Social media and mental health: benefits, 
+risks, and opportunities for research and practice. Journal of Technology in Behavioral Science , 5, 245 –
+257. 
+Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). Thematic Analysis: Striving to Meet the 
+Trustworthiness Criteria. International Journal of Qualitative Methods, 16 (1), 1 –13. 
+https://doi.org/10.1177/1609406917733847  
+O'Sullivan, N. J., Nason, G., Manecksha, R. P., & O'Kelly, F. (2022). The unintentional spread of misinformation  
+on 'TikTok'; A paediatric urological perspective. Journal of pediatric urology, 18 (3), 371 –375. 
+https://doi.org/10.1016/j.jpurol.2022.03.001  
+Pennycook, G., Epstein, Z., Mosleh, M., Arechar, A. A., Eckles, D., & Rand, D. G. (2021). Shifting attention to  
+accuracy can reduce misinformation online. Nature, 592 (7855), 590 –595. https://doi.org/10.1038/s41586 -
+021-03344 -2
+
+Potgieter, I., MacDonald, C., Partridge, L., Cima, R., Sheldrake, J., & Hoare, D. J. (2019). Misophonia: A 
+scoping review of research. Journal of Clinical Psychology , 75(7), 1203 –1218.  
+Prescott, J., Hanley, T., & Ujhelyi, K. (2017). Peer communication in online mental health forums for young  
+people: directional and nondirectional support. JMIR mental health, 4 (3), e6921.  
+Rouw, R., & Erfanian, M. (2018). A Large -Scale Study of Misophonia. Journal of Clinical Psychology , 74(3), 
+453–479. https://doi.org/10.1002/jclp.22500  
+Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: diagnostic criteria for a new psychiatric disorder. 
+PloS One , 8(1), e54706 –e54706. https://doi.org/10.1371/journal.pone.0054706  
+Schröder, A. E., Vulink, N. C., van Loon, A. J., & Denys, D. A. (2017). Cognitive behavioral therapy is 
+effective in misophonia: An open trial. Journal of Affective Disorders , 217(November 2016), 289 –294. 
+https://doi.org/10.1016/j.jad.2017.04.017  
+Singh, S. M., & Chakrabarti, S. (2008). A study in dualism: The strange case of Dr. Jekyll and  Mr. Hyde. Indian  
+Journal of psychiatry, 50(3), 221.  
+Stevenson, R. L. (1886). Strange case of Dr Jekyll and Mr Hyde and other tales . OUP Oxford.  
+Vázquez, E., Kim, M., & Santaella, M. E. (2023). Lived experience experts: a name created by us for us. In 
+Expert Review of Hematology  (Vol. 16, Issue sup1, pp. 7 –11). Taylor & Francis.  
+Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014). Misophonia: Incidence, phenomenology, and 
+clinical correlates in an undergraduate student sample. Journal of Clinical Psychology , 70(10), 994 –1007. 
+https://doi.org/10.1002/jclp.22098  
+Yildirim, H. N. (2020). The Evil Side of Human Nature in The Strange Case of Dr. Jekyll and  Mr. Hyde. Journal  
+of English Language and Literature Club, 2 (2), 9 -11. 
+Ziebland, S. U. E., & Wyke, S. (2012). Health and illness in a connected  world: how might sharing experiences 
+on the internet affect people’s health? The Milbank Quarterly , 90(2), 219 –249.
+
+Appendicies  
+Appendix A – r/misophonia Subreddit Rules  
+ 
+Appendix B – Moderator Consent  
+ 
+Appendix C – Ethical Approval
+
+Appendix A
+
+Appendix B
+
+Appendix C

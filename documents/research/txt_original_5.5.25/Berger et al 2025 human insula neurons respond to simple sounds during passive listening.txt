@@ -1,0 +1,289 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+1 **Human insula neurons respond to simple sounds during passive listening**
+
+2 **Joel I Berger, Hiroto Kawasaki, Matthew I Banks, Sukhbinder Kumar, Matthew A** 3 **Howard III, Kirill V Nourski**
+
+4
+
+5 **Contributions**
+
+6 **Berger** : Conceptualization, Methodology, Software, Formal analysis, Investigation, Data  7 Curation, Writing - Original Draft, Writing - Review &amp; Editing, Visualization; **Kawasaki** :  8 Investigation, Writing - Review &amp; Editing; **Banks** : Writing - Review &amp; Editing; **Kumar** :  9 Writing - Review &amp; Editing; **Howard** : Funding acquisition, Writing - Review &amp; Editing;
+
+10 **Nourski** : Conceptualization, Investigation, Visualization, Writing - Original Draft, Writing  11 - Review &amp; Editing
+
+12
+
+13 **Abstract**
+
+14 The insula is critical for integrating sensory information from the body with that arising  15 from the environment. Although previous studies suggest that posterior insula is  16 sensitive to sounds, auditory response properties of insula neurons have not previously  17 been reported. Here, we provide the first report of a population of human single neuron  18 data from the insula and provide comparative data from the primary auditory cortex,  19 recorded intracranially from human participants during passive listening. In each  20 condition, more than 330 single neurons were recorded in 11 participants. Almost a third  21 of neurons in posterior insula and a smaller subset in anterior insula responded to  22 simple tones and clicks. Responsive neurons were distributed throughout posterior and  23 anterior insula and showed preferred frequency tuning. Onset latencies in the insula  24 were similar to those in the primary auditory cortex but response durations were  25 significantly shorter. Overall, these data highlight that insula neurons respond to  26 auditory stimuli even in non-behaviorally relevant contexts and suggest an important  27 contribution of audition to the postulated integrative functions of insular cortex.
+
+28
+
+29 **Introduction**
+
+30 The insula, buried within the lateral fissure, is a key brain region involved in processing  31 of interoceptive signals [1-5] which includes sensations not only from within the interior  32 or viscera of body (e.g. cardiac, respiration, hunger) but also those arising from the skin  33 (e.g. pain, temperature and affective touch; [1, 6] for a review, see [7]). Theoretical  34 models of insula function suggest that these interceptive sensations form the basis for  35 subjective feelings [8] and sense of bodily self [9]. By contrast, empirical evidence for  36 the role of insula in processing of exteroceptive signals, such as sounds that are
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+37 external to the body and not associated with interoceptive signals, remains scant,  38 although there is some limited evidence implicating the insula in auditory processing.  39 Case reports have shown that damage to the insula region can cause alterations in  40 auditory perception [10-13], even without apparent damage to auditory cortex.  41 Additionally, studies in animals [14-18], human neuroimaging using functional magnetic  42 resonance imaging (fMRI) [19-22] and electrophysiology [23-29], suggest that activity  43 within the insula may be modulated by sound, particularly when it is emotionally  44 arousing (e.g. music) or behaviorally relevant (e.g. detection of an odd tone), while  45 recent intracranial local field potential data highlight that posterior insula represents  46 phonological features during both speech production and perception [30]. In  47 misophonia, a condition characterized as an intense emotional reaction to sounds of a  48 particular nature (e.g. chewing), the anterior insula is hyperactivated and  49 hyperconnected when listening to trigger sounds [31]. This finding has been interpreted  50 within the context of social cognition and interoceptive awareness [32, 33]. The insula  51 has also been implicated in auditory hallucinations [34], and intracranial stimulation of  52 this region can produce auditory sensations [35-37], although not always [38]. However,  53 electrophysiological and imaging data have almost always been obtained in behaviorally  54 salient contexts, such as music or speech, while lesion studies may not always be  55 specifically localized to insula exclusively, and there are currently no reports of single  56 neuron responses recorded in the human insula.
+
+57 Prior studies also do not address whether there is any tuning to basic acoustic sound  58 attributes in the insula [39]. For example, neurons in primary auditory cortex are tuned  59 to specific spectral and temporal features of acoustic stimuli [40-42]. Can activity of  60 individual neurons in the insula also be modulated according to these fundamental  61 acoustic properties even when stimuli are not behaviorally relevant? If so, what are the  62 latencies and tuning properties of these neurons, and where are these located?
+
+63 We addressed this gap in knowledge by recording extracellular single neuron activity  64 from the insula in eleven humans and comparing these recordings to those obtained  65 from the adjacent posteromedial portion of Heschl’s gyrus (HGPM), corresponding to
+
+66 primary auditory cortex [43]. Data were collected while participants passively listened to  67 auditory stimuli consisting of short click trains and pure tones of various frequencies.  68 This allowed us to determine (1) the extent of insula neurons that are responsive to  69 auditory stimulation; (2) whether these neurons showed frequency tuning; (3) the spatial  70 distribution of responsive neurons across posterior and anterior insula (InsP and InsA,  71 respectively); and (4) the latencies, magnitudes, and durations of these responses  72 compared to HGPM. Knowledge about the neuronal properties of this brain area in  73 response in audition is important for understanding how the human brain processes  74 sounds. This knowledge has additional relevance to auditory hallucinations and  75 disorders such as tinnitus [44].
+
+76
+
+77
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+78 **Results**
+
+79 Electrodes were implanted for clinical purposes of monitoring seizures and were  80 localized based on pre- and post-operative neuroimaging (see *Methods* ). Single neuron  81 responses to 40 ms 100 Hz click trains were recorded in a single 100-trial block.  82 Responses to 300 ms tones were recorded in a separate block while participants were  83 presented with pseudo-randomly ordered tones of varying frequency, from 0.25 kHz to 8  84 kHz, separated by octave steps. Each tone was presented 50 times, resulting in 300  85 trials total. Interstimulus intervals were 2 s in both experiments (see *Methods* for full  86 details of auditory stimulus presentation).
+
+87 **Figure 1a** displays the locations from which single neurons were successfully isolated,  88 shown on a template reconstruction of the insula. The size of each marker indicates the  89 number of neurons isolated at a particular location. For click stimuli, a total of 331  90 neurons were isolated (57 HGPM neurons, 161 InsP neurons and 113 neurons in InsA).  91 For pure tone stimuli, a total of 339 neurons were isolated (59 HGPM neurons, 156 InsP  92 neurons and 124 InsA neurons). **Figure 1b** shows spike waveforms, trial rasters, and  93 kernel-smoothed spike density functions for exemplar neurons in HGPM, InsP and InsA  94 (top to bottom panels, respectively) in response to click train stimuli. In these examples,  95 HGPM shows a sharp onset response to the click train, while the InsP neuron responds  96 consistently across trials with a slightly longer latency than HGPM, and the InsA neuron  97 responds with an even longer latency, with visibly less consistent timing across trials.  98 **Figure 1c** shows examples for three single neurons in these same brain locations in  99 response to pure tone stimuli of different frequencies. The neurons in HGPM and InsP
+
+100 showed clear evidence of frequency tuning (to 8 kHz and 0.25 kHz, respectively).  101 Tuning is less obvious in the InsA neuron, though significant suppression was observed  102 in response to tonal stimuli of 2 kHz.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+**Figure 1: Insula neurons respond to clicks and tones.**
+
+**a** , Locations and numbers of isolated putative single neurons in response to clicks and tones,  plotted on a template reconstruction of insula. **b** , Example responsive neurons in HGPM (top  panel), InsP (middle panel) and InsA (bottom panel). For each example, corresponding spike
+
+density functions are shown above raster plots. Codes under location names indicate neuron ID.  Grey horizontal bars indicate duration of the stimulus. Time on x-axis is relative to stimulus onset  (vertical line). **c** , Example responsive neurons for the same locations in response to tones of  differing frequencies. For these examples, the corresponding best frequencies were 8 kHz, 0.25  kHz and 2 kHz, respectively, with the InsA neuron exhibiting significant suppression to the tonal  stimulus. Throughout, red: HGPM, green: InsP, blue: InsA.
+
+103 Information such as response latencies can provide crucial information about the  104 position of a region within the hierarchy of an information processing network [45-48].  105 Thus, to characterize the properties of neuronal responses to clicks across the  106 population, we examined response magnitudes, latencies, and durations for modulated  107 neurons in each region. For each neuron, significant modulation in response to auditory  108 stimuli was determined by comparing the spike rates following the stimulus to the pre 109 stimulus baseline (see Methods). Trial-averaged raster plots for all significantly  110 modulated neurons in each of the three regions are shown in **Figure 2a** . These are  111 separated according to whether they increased or decreased their activity (indicated by  112 the arrow directions). The overall proportion of modulation response types is then  113 shown in **Figure 2b** . As is evident from both plots, the majority of modulated neurons  114 increased their firing rates in response to click-train stimuli. Across all recorded neurons,  115 30.4% of neurons in InsP were click-responsive (26.7% increasing, 3.73% decreasing)
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+116 and 15.9% were modulated to clicks in InsA (9.73% increasing, 6.19% decreasing). By  117 comparison, 84.2% of neurons in HGPM modulated significantly to clicks (77.2%  118 increasing their activity, 7.02% decreasing). Fisher’s Exact probability tests with the  119 Freeman–Halton extension (to allow for preserving modulation direction with a 2 x 3  120 test) revealed that there were significant differences in the proportions of modulated  121 neurons between HGPM and both InsP and InsA ( *p* &lt; 0.0001 for both comparisons),  122 and between InsP and InsA ( *p* = 0.001), highlighting that a significantly larger proportion  123 of neurons were modulated in InsP than in InsA, while both regions were proportionally  124 less modulated than HGPM.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+**a** , Averaged raster plots for all modulated neurons, organized by region and sorted according to  first peak latency. Arrows indicate neurons that either increased (up arrow) or decreased (down  arrow) in response to clicks. **b** , Proportion of response types to click-trains for the three different
+
+regions. *P* -values based on Fisher’s Exact probability tests. **c** , Violin plots showing response  magnitudes (left panel), latencies (middle panel) and durations (right panel) for all three regions,  across positively modulated neurons. White symbols denote medians, bars indicate Q1 and Q3,  and whiskers show the range of lower and higher adjacent values (i.e., values within 1.5  interquartile ranges below Q1 or above Q3, respectively). *P* -values based on linear mixed effects  models.
+
+125
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+126 The magnitudes, latencies and durations of all positively modulated responses to click 127 train stimuli are shown in **Figure 2c** . The average magnitudes of responses following  128 stimulus presentation (0 to 350 ms post-stimulus onset) in InsP and InsA were  129 significantly smaller than HGPM ( *p* = 0.00170 and *p* = 0.00360, respectively), with no  130 significant difference between InsP and InsA ( *p* = 0.424). Positively modulated InsP  131 neurons exhibited similar latencies to HGPM neurons ( *p* = 0.361), with median latencies  132 of 44.0 ms (interquartile range [IQR] = 48.8) and 48.5ms (IQR = 45.5), respectively  133 (middle panel of 2C), which is suggestive of parallel hierarchical auditory processing  134 between the two regions, while InsA latencies were notably slower (median = 67.0 ms,  135 IQR = 57.2). InsP and InsA responses were significantly more transient than HGPM  136 responses ( *p* = 0.008 and *p* = 0.003, respectively; right panel in **Figure 2c** ), with InsP  137 showing a median duration of 76 ms (IQR = 102.0) compared to a median of 153 ms  138 (IQR = 146.5) in HGPM, highlighting that there were differences in response patterns  139 between insula and HGPM neurons. InsA responses were even more transient (median  140 = 41 ms, IQR = 58.5), though there was no significant difference overall between the  141 response durations of InsP and InsA neurons ( *p* = 0.276). Modulated neurons were  142 distributed throughout each subregion of insula, though there was an absence of  143 modulation in the most ventral aspects of InsA (see **Supplementary Figure 2** ).
+
+144 Figure 3 shows the response properties of the different regions for tones. Approximately  145 one third of InsP were modulated by tones (30.8% total; 28.8% increasing, 1.92%  146 decreasing). A higher proportion of neurons in HGPM were modulated by tones (94.9%  147 total; 84.8% increasing, 10.2% decreasing), with a lower proportion in InsA modulated in  148 response to tones compared to clicks (8.07% total; 5.65% increasing, 2.42%  149 decreasing). As with click trains, there were significantly higher proportions of  150 modulated neurons in HGPM compared to both InsP and InsA ( *p* &lt; 0.0001 for both  151 comparisons) and in InsP compared to InsA ( *p* &lt; 0.0001). See **Supplementary Figure** 152 **3** for the spatial distribution of the proportion of tone-modulated neurons.
+
+153 We examined whether there were differences in frequency tuning for the different  154 regions by determining the proportion of neurons showing a preference to each of the  155 tone frequencies ( **Figure 3b** ). As the electrodes used in this study do not allow for  156 determining the precise spatial location of wires relative to one another (they only show  157 as a cluster of microwires on the magnetic resonance images [MRI] and do not clearly  158 map to particular channels), along with the relative sparsity of sampling of certain areas  159 of insula, we could not reliably obtain tonotopic maps for the individual electrode arrays.  160 However, as with clicks, there was an absence of response modulation in ventral  161 anterior insula. There was no clear preference for a particular tone frequency across  162 neurons, although fewer neurons in HGPM modulated maximally to 4 kHz than other  163 frequencies. To determine whether there were differences in how precisely tuned insula  164 neurons were, we assessed the bandwidth of responses to different tones (see
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+**Figure 3: Tuning properties of insula and HGPM neurons.**
+
+165 Methods). This is shown in **Figure 3c** for the three different regions, with the spatial  166 distribution shown in **Supplementary Figure 3** . The median bandwidth for positively  167 modulated neurons was 1.64 octaves for HGPM (IQR = 1.54), 1.81 octaves for InsP
+
+168 (IQR = 1.48) and 1.73 octaves for InsA (IQR = 0.75). There was no significant difference  169 in bandwidth between InsP and InsA ( *p* = 0.656), nor between either region and HGPM  170 ( *p* = 0.432 and 0.960, respectively), highlighting that the tuning properties to tones were  171 similar across the three regions.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+172 **Discussion**
+
+173 Our results demonstrate that neurons in the human insula significantly modulate their  174 activity in response to auditory stimuli that are passively presented, in the absence of  175 any obvious behavioral or emotional salience. Responses in insula had similar latencies  176 and bandwidths to HGPM, but were more transient. The highest proportion of these  177 responses were in InsP, though a smaller minority of neurons in InsA were also  178 modulated, albeit more weakly. Overall, these results suggest that processing of basic  179 properties of acoustic stimuli contribute to the postulated role of the insula.
+
+180 The insula, particularly InsA, is known to be part of a salience network [49, 50] which  181 detects and marks how behaviorally relevant the stimulus/events in the environment  182 are. Depending on the degree of saliency, the insula mediates further processing by
+
+183 directing attention or allocating working memory by coordinating between different brain  184 networks (e.g. activating a fronto-parietal network for attention and deactivating the  185 ‘mind wandering’ default mode network for a highly salient event). How does InsA  186 receive sensory inputs for marking their saliency? Theoretical models of insula function  187 [1, 50, 51] suggest that InsP receives sensory inputs which are then re-represented in  188 InsA. There is now ample evidence to support the idea that interoceptive signals from  189 the body do indeed reach InsP [1]. Whether this is also the case for exteroceptive  190 signals such as auditory, however, has historically been less certain. Our high spatial 191 temporal resolution single neuron data recorded from the insula highlights that – like  192 signals from the body – auditory signals from the external environment are received in  193 InsP. It should be noted that in the saliency model of insula function, stimuli need not be  194 salient or behaviorally relevant to reach InsP, and they were not in the case of the  195 presence study. The saliency of the stimuli is proposed to be marked in InsA. This  196 model may then explain why in our data the proportion of modulated neurons is less in  197 InsA compared to that in InsP when passively listening to sounds, as these sounds were  198 not required to be salient.
+
+199 Evidence showing that insula activity is modulated even during passive listening may  200 explain – at least in part – why lesions to the insula can cause altered auditory  201 processing, such as in cases of acquired amusia, temporal processing deficits or  202 hyperacusis after a stroke [52, 53]. The results of the current study are also consistent  203 with neuroanatomical studies showing that the insula receives direct projections from  204 auditory cortex [54, 55] and medial geniculate body [56], although as highlighted by  205 Remedios et al. [14], anatomical results do not give insight into the nature of the  206 involvement of the insula in auditory processing without corresponding physiological  207 data, which we have provided here.
+
+208 These results may also explain why stimulation of insula can produce auditory  209 perceptual experiences [35-37]. Contrasting with these other studies, Duong et al. [38]
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+210 did not find auditory responses from stimulation of the insula, which the authors  211 suggested was due to previous studies stimulating structures adjacent to rather than  212 within the insula proper. In the current study, our electrode locations were confirmed to  213 be in the insula based on individual participants’ MRIs, as well as plotted on a template  214 using MNI coordinates. While it is plausible that some studies may have stimulated  215 regions adjacent to the insula to produce auditory perceptual experiences, another  216 possibility is that an absence of behavioral response may be due to the still relatively  217 small fraction of neurons in this region being involved in auditory processing (about 1/3  218 in the current study). Thus, if particular neurons were not stimulated by electrodes within  219 the insula, then an auditory percept would likely not be produced. Further studies  220 utilizing both stimulation mapping and auditory presentation in the same neurons would  221 be invaluable for elucidating the dynamics of these auditory-responsive insula neurons.
+
+222 Reports of the tuning properties of single neurons in HGPM are rare, with only a handful  223 studies to date examining this [57-59]. In the first systematic study of individual neurons  224 in human auditory cortex, the bandwidth measured in a similar manner to the current  225 manuscript was at least 1 octave [58], consistent with what we found here. Contrastingly  226 though, the bandwidth of neuronal responses to tones here was considerably larger  227 than what was demonstrated previously when using an approach that estimates based  228 on spectro-temporal receptive fields derived from random-chord stimuli [59]. It is  229 therefore likely that basic tonal stimuli – although widely used historically to study the  230 function of the auditory system [60] – do not reveal the full extent of the precision of  231 stimulus encoding, and future studies should examine this with refined stimuli for both  232 the HGPM and the insula. Moreover, while this study represents a rich and unique  233 dataset, the spatial extent of electrode coverage was still somewhat limited, as  234 determined solely by the clinical needs of the patients. This work lays the foundation for  235 further, more comprehensive, studies aimed at understanding the full extent of auditory 236 related single neuron activation throughout the insula.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+237 **Methods**
+
+238 *Participants*
+
+239 Extracellular single neuron recordings were obtained from 11 adult neurosurgical  240 patients, implanted with electrodes for the purposes of monitoring epileptiform activity  241 prior to potential treatment. Research was conducted under approval of the University of  242 Iowa Institutional Review Board and written informed consent was obtained from all  243 participants prior to data collection. Recordings were made while subjects were reclined  244 in a hospital bed, in a custom-designed dedicated electromagnetically-shielded facility  245 within the University of Iowa Clinical Research Unit.
+
+246
+
+247 *Electrodes and recording system*
+
+248 Stereo electroencephalography (sEEG) depth electrodes (Ad-Tech Medical, Oak Creek,  249 WI) were placed in brain locations based solely on a clinical need to identify seizure foci  250 [61]. For the purposes of recording single neurons, sEEG electrodes included here in  251 the insula and HGPM were of a hybrid design [62]. These consisted of eight 39 µm  252 diameter platinum-iridium high-impedance microwires that were insulated plus one  253 uninsulated microwire. These microwires protruded from the end of the macro recording  254 probe and were prepared with a cut length between 2 to 4 mm, depending on the  255 distance of the most distal macro contact to the appropriate brain target. Each of these  256 microwires was individually separated in a splay pattern in the operating room  257 immediately prior to implantation. Electrode locations were confirmed based on post 258 operative MRI scans, preprocessed using Freesurfer [63] (see below for further details).  259 All neurophysiological data were recorded using a Neuralynx Atlas System (Neuralynx,  260 Bozeman, MT). High impedance recordings were first passed through a preamplifier  261 located on top of the patient’s head (ATLAS-HS-36-CHET-A9, Neuralynx, Bozeman,  262 MT) prior to interfacing with the ATLAS acquisition system. These were subsequently  263 recorded with a 32000 Hz sampling rate, filtered between 0.1 – 8000 Hz and referenced  264 online to the uninsulated microwire.
+
+265
+
+266 *Stimuli and procedure*
+
+267 Experimental stimuli were trains of acoustic clicks (used previously in [64]) and pure  268 tones (used previously in [65]). Clicks were digitally generated as rectangular pulses  269 (0.2 ms duration) and were presented in trains of five at a rate of 100 Hz (train duration  270 40 ms, 2 s inter-train interval). Tones were presented at six frequencies between 250  271 and 8 kHz in 1-octave steps (300 ms duration, 5 ms rise–fall time, 2 s interstimulus  272 interval). The six tones were presented 50 times each in a random order. The stimuli
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+273 were presented at a comfortable level, approximately 50-60 dB above hearing  274 threshold. Stimuli were delivered to both ears via insert earphones (ER4B, Etymotic  275 Research, Elk Grove Village, IL) that were integrated into custom-fit earmolds or foam  276 ear tips (for two participants). In each participant, the intensity difference between click  277 trains and pure tones was within 20 dB and varied depending on comfort. Inter-stimulus  278 intervals were chosen randomly within a Gaussian distribution (mean interval 2 s; SD =  279 10 ms) to reduce heterodyning in the recordings secondary to power line noise.  280 Stimulus delivery was controlled by a TDT RP2.1 and RZ2 real-time processor (Tucker  281 Davis Technologies, Alachua, FL).
+
+282
+
+283 *Imaging*
+
+284 A T1-weighted structural MRI scan of the brain was conducted for each participant both  285 before and after the implantation of electrodes. The images were captured using a 3T  286 Siemens TIM Trio scanner and a 12-channel head coil. MPRAGE images had a spatial  287 resolution of 0.78 × 0.78 mm, a slice thickness of 1.0 mm, and utilized a repetition time  288 (TR) of 2.53 s and an echo time (TE) of 3.52 ms. To locate the recording positions on  289 the preoperative structural MRI scans, these images were aligned with post 290 implantation structural MRIs. This alignment was achieved using a 3D linear registration  291 algorithm (Functional MRI of the Brain Linear Image Registration Tool; [66]) and custom 292 written MATLAB scripts (MathWorks, Natick, MA). Included microwire bundles were  293 verified to be within gray matter for either the insula or HGPM. Electrode locations were  294 co-registered for each participant to a template brain, in order to derive MNI coordinates  295 for the purposes of visualization. Coordinates of microwire locations were then  296 visualized on an fsaverage MRI template showing the insula and neighboring region of  297 HGPM, using custom-written MATLAB scripts.
+
+298
+
+299 *Data processing and analysis*
+
+300 Data from high impedance electrodes localized to the insula or HGPM were first  301 extracted using Matlab and denoised with an implementation of the demodulated band  302 transform [67]. These data were downsampled to 12 kHz and common average re 303 referenced to all high impedance contacts on the same assembly prior to spike sorting.  304 Spike sorting was performed using an automated procedure with manual curation,  305 utilizing an algorithm implementing high-order spectral decomposition to aid in pattern  306 recognition and identify individual features [68]. Briefly, filters were estimated for  307 potential candidate single neuron waveforms for each channel through a process  308 related to blind deconvolution. Extracted features were clustered using a gaussian  309 mixture model in Matlab (R2022a, Mathworks Inc) and spike times from these clustered
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+310 features were used to plot separate candidate waveforms. Single neurons were then  311 manually curated and defined based on classical waveform shapes, uniformity of  312 waveforms across different spike times for each cluster, and interspike interval  313 distributions that did not violate refractory periods (&lt;1% of interspike intervals occurring  314 within 1 ms). See **Supplementary Figure 1** for summarized curation details. Putative  315 single neuron spike times were then epoched around the stimuli for each trial (500 ms  316 before stimulus onset to 1000 ms post-stimulus onset). Raster plots were created to  317 show neuronal activity for each trial and spike density functions were estimated by  318 convolving single neuron spike times with a gaussian kernel (1 ms resolution, generally  319 5 ms standard deviation, though a standard deviation of 15 ms was used for display  320 purposes in **Figure 1** ).
+
+321
+
+322 *Statistical analysis*
+
+323 Single neuron modulation to auditory stimuli was determined using a two-tailed paired *t* 324 test against baseline, wherein spike rates across trials between 0 to 350 ms post 325 stimulus were compared to baseline firing rates from a pre-stimulus window of the same  326 duration (-400 to -50 ms). This was only considered for neurons that had a mean firing  327 rate ≥1 Hz across the baseline and post-stimulus windows. The *p* -value alpha for this  328 test was set at 0.05 for click stimuli and Benjamini-Hochberg false discovery rate (FDR)  329 correction [69, 70] was applied to tonal response *p* -values to account for multiple  330 comparisons (based on the six different tone frequencies presented). Magnitudes for all  331 responses were determined by averaging the z-scored firing rate across the post 332 stimulus window. The latency of significantly modulated neurons was then determined  333 according to the first peak in the baseline z-scored spike density function from 10 ms to  334 350 ms post-stimulus, wherein this peak was a minimum value of half of the maximum  335 peak within this time window. For neurons that suppressed their activity in response to  336 auditory stimuli, spike density functions were first inverted prior to finding the peak. For  337 tone stimuli, the best frequency of each neuron was defined as the tone that elicited the  338 maximum absolute value of the z-scored average, wherein this response was  339 significant. Bandwidth in octaves was determined based on the full width at half  340 maximum of this frequency, which was obtained after interpolation of both frequencies  341 and magnitudes to create 10000 discrete sampling points. Where the lowest or highest  342 frequencies were the maximum absolute value (i.e. showed the strongest modulation),  343 these were taken as the low or high cutoff for this calculation, respectively. Response  344 durations were determined based on the time after the first peak wherein the spike  345 density function was reduced to 5% of the maximum peak value. Regional differences in  346 response properties were examined using a linear mixed effects modeling approach.  347 Output (response magnitude, latency or duration) was modeled using region of interest
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+348 (ROI, i.e. HGPM, InsP, or InsA) as a categorical fixed effect, with random intercept of  349 channel nested within participant:
+
+350 Output ~ ROI + (1 | Participant : Channel) + (1 | Participant)  351
+
+352 **Data and code availability**
+
+353 Data and analysis scripts used in this manuscript are available upon reasonable request  354 from the authors.
+
+355
+
+356 **Acknowledgements**
+
+357 This work was supported by the National Institutes of Health (R01 DC004290, awarded  358 to M.A.H.). We are grateful to Haiming Chen, Phillip E Gander, Christopher M Garcia,  359 Christopher K Kovach and Ariane E Rhone for help with electrode preparation, data  360 collection and design of the spike sorting methodology.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+361 **References**
+
+362 1. Craig, A.D., *How do you feel? Interoception: the sense of the physiological* 363 *condition of the body.* Nature Reviews Neuroscience, 2002. **3** (8): p. 655-666.  364 2. Critchley, H.D. and J. Patchitt, *Interoception, Insula, and Autonomic Integration:* 365 *Relevance to the Expression and Treatment of Psychiatric Symptoms.* Curr Top  366 Behav Neurosci, 2024.
+
+367 3. Craig, A.D., *How do you feel--now? The anterior insula and human awareness.* 368 Nat Rev Neurosci, 2009. **10** (1): p. 59-70.
+
+369 4. Hassanpour, M.S., et al., *The Insular Cortex Dynamically Maps Changes in* 370 *Cardiorespiratory Interoception.* Neuropsychopharmacology, 2018. **43** (2): p. 426- 371 434.
+
+372 5. Khalsa, S.S., et al., *Interoception and Mental Health: A Roadmap.* Biol Psychiatry  373 Cogn Neurosci Neuroimaging, 2018. **3** (6): p. 501-513.
+
+374 6. Crucianelli, L. and H.H. Ehrsson, *The Role of the Skin in Interoception: A* 375 *Neglected Organ?* Perspect Psychol Sci, 2023. **18** (1): p. 224-238.  376 7. Wang, X., et al., *Anterior insular cortex plays a critical role in interoceptive* 377 *attention.* Elife, 2019. **8** .
+
+378 8. Damasio, A.R., et al., *Subcortical and cortical brain activity during the feeling of* 379 *self-generated emotions.* Nature neuroscience, 2000. **3** (10): p. 1049-1056.  380 9. Craig, A., *The sentient self.* Brain structure and function, 2010. **214** : p. 563-577.  381 10. Spreen, O., A.L. Benton, and R.W. Fincham, *Auditory agnosia without aphasia.* 382 Archives of Neurology, 1965. **13** (1): p. 84-92.
+
+383 11. Hyman, B.T. and D. Tranel, *Hemianesthesia and aphasia. An anatomical and* 384 *behavioral study.* Arch Neurol, 1989. **46** (7): p. 816-9.
+
+385 12. Griffiths, T.D., et al., *Spatial and temporal auditory processing deficits following* 386 *right hemisphere infarction. A psychophysical study.* Brain, 1997. **120 ( Pt 5)** : p.  387 785-94.
+
+388 13. Fifer, R.C., *Insular stroke causing unilateral auditory processing disorder: case* 389 *report.* J Am Acad Audiol, 1993. **4** (6): p. 364-9.
+
+390 14. Remedios, R., N.K. Logothetis, and C. Kayser, *An auditory region in the primate* 391 *insular cortex responding preferentially to vocal communication sounds.* J  392 Neurosci, 2009. **29** (4): p. 1034-45.
+
+393 15. Rodgers, K.M., et al., *Auditory, somatosensory, and multisensory insular cortex in* 394 *the rat.* Cereb Cortex, 2008. **18** (12): p. 2941-51.
+
+395 16. Sudakov, K., et al., *Unit study of exteroceptive inputs to claustrocortex in awake,* 396 *sitting, squirrel monkey.* Brain Res, 1971. **28** (1): p. 19-34.
+
+397 17. Bieser, A., *Processing of twitter-call fundamental frequencies in insula and* 398 *auditory cortex of squirrel monkeys.* Exp Brain Res, 1998. **122** (2): p. 139-48.  399 18. Bieser, A. and P. Muller-Preuss, *Auditory responsive cortex in the squirrel* 400 *monkey: neural responses to amplitude-modulated sounds.* Exp Brain Res, 1996.  401 **108** (2): p. 273-84.
+
+402 19. Platel, H., et al., *The structural components of music perception. A functional* 403 *anatomical study.* Brain, 1997. **120 ( Pt 2)** : p. 229-43.
+
+404 20. Ackermann, H., et al., *Rate-dependent activation of a prefrontal-insular* 405 *cerebellar network during passive listening to trains of click stimuli: an fMRI* 406 *study.* Neuroreport, 2001. **12** (18): p. 4087-92.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+407 21. Kiehl, K.A., et al., *Neural sources involved in auditory target detection and* 408 *novelty processing: an event-related fMRI study.* Psychophysiology, 2001. **38** (1):  409 p. 133-42.
+
+410 22. Herdener, M., et al., *Brain responses to auditory and visual stimulus offset:* 411 *shared representations of temporal edges.* Hum Brain Mapp, 2009. **30** (3): p. 725- 412 33.
+
+413 23. Liberati, G., et al., *Habituation of phase-locked local field potentials and gamma* 414 *band oscillations recorded from the human insula.* Sci Rep, 2018. **8** (1): p. 8265.  415 24. Liberati, G., et al., *Gamma-Band Oscillations Preferential for Nociception can be*
+
+416 *Recorded in the Human Insula.* Cereb Cortex, 2018. **28** (10): p. 3650-3664.  417 25. Liberati, G., et al., *Nociceptive Local Field Potentials Recorded from the Human* 418 *Insula Are Not Specific for Nociception.* PLoS Biol, 2016. **14** (1): p. e1002345.  419 26. Zhang, Y., et al., *The Roles of Subdivisions of Human Insula in Emotion* 420 *Perception and Auditory Processing.* Cereb Cortex, 2019. **29** (2): p. 517-528.  421 27. Woolnough, O., et al., *Uncovering the functional anatomy of the human insula* 422 *during speech.* Elife, 2019. **8** .
+
+423 28. Blenkmann, A.O., et al., *Auditory deviance detection in the human insula: An* 424 *intracranial EEG study.* Cortex, 2019. **121** : p. 189-200.
+
+425 29. Nourski, K.V., et al., *Gamma Activation and Alpha Suppression within Human* 426 *Auditory Cortex during a Speech Classification Task.* Journal of Neuroscience,  427 2022. **42** (25): p. 5034-5046.
+
+428 30. Kurteff, G.L., et al., *Spatiotemporal Mapping of Auditory Onsets during Speech* 429 *Production.* J Neurosci, 2024. **44** (47).
+
+430 31. Kumar, S., et al., *The Brain Basis for Misophonia.* Curr Biol, 2017. **27** (4): p. 527- 431 533.
+
+432 32. McGeoch, P.D. and R. Rouw, *How everyday sounds can trigger strong emotions:* 433 *ASMR, misophonia and the feeling of wellbeing.* Bioessays, 2020. **42** (12).  434 33. Berger, J.I., P.E. Gander, and S. Kumar, *A social cognition perspective on* 435 *misophonia.* Philos Trans R Soc Lond B Biol Sci, 2024. **379** (1908): p. 20230257.  436 34. Shergill, S.S., et al., *Modality specific neural correlates of auditory and somatic* 437 *hallucinations.* J Neurol Neurosurg Psychiatry, 2001. **71** (5): p. 688-90.  438 35. Mazzola, L., F. Mauguiere, and J. Isnard, *Functional mapping of the human* 439 *insula: Data from electrical stimulations.* Rev Neurol (Paris), 2019. **175** (3): p.  440 150-156.
+
+441 36. Mazzola, L., F. Mauguiere, and J. Isnard, *Electrical Stimulations of the Human* 442 *Insula: Their Contribution to the Ictal Semiology of Insular Seizures.* J Clin  443 Neurophysiol, 2017. **34** (4): p. 307-314.
+
+444 37. Pugnaghi, M., et al., *Features of somatosensory manifestations induced by* 445 *intracranial electrical stimulations of the human insula.* Clin Neurophysiol, 2011.  446 **122** (10): p. 2049-58.
+
+447 38. Duong, A., et al., *Subjective states induced by intracranial electrical stimulation* 448 *matches the cytoarchitectonic organization of the human insula.* Brain Stimul,  449 2023. **16** (6): p. 1653-1665.
+
+450 39. Bamiou, D.E., F.E. Musiek, and L.M. Luxon, *The insula (Island of Reil) and its* 451 *role in auditory processing. Literature review.* Brain Res Brain Res Rev, 2003.  452 **42** (2): p. 143-54.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+453 40. Romani, G.L., S.J. Williamson, and L. Kaufman, *Tonotopic organization of the* 454 *human auditory cortex.* Science, 1982. **216** (4552): p. 1339-40.  455 41. Weisz, N., et al., *Tonotopic organization of the human auditory cortex probed with* 456 *frequency-modulated tones.* Hear Res, 2004. **191** (1-2): p. 49-58.  457 42. Humphries, C., E. Liebenthal, and J.R. Binder, *Tonotopic organization of human* 458 *auditory cortex.* Neuroimage, 2010. **50** (3): p. 1202-11.
+
+459 43. Da Costa, S., et al., *Human primary auditory cortex follows the shape of Heschl's* 460 *gyrus.* J Neurosci, 2011. **31** (40): p. 14067-75.
+
+461 44. Chen, Q., et al., *Role of insula and its subregions in progression from recent* 462 *onset to chronic idiopathic tinnitus.* Brain Commun, 2023. **5** (5): p. fcad261.  463 45. Chen, C.M., et al., *Functional anatomy and interaction of fast and slow visual* 464 *pathways in macaque monkeys.* Cereb Cortex, 2007. **17** (7): p. 1561-9.  465 46. Zamarashkina, P., D.V. Popovkina, and A. Pasupathy, *Timing of response onset* 466 *and offset in macaque V4: stimulus and task dependence.* J Neurophysiol, 2020.  467 **123** (6): p. 2311-2325.
+
+468 47. Felleman, D.J. and D.C. Van Essen, *Distributed hierarchical processing in the* 469 *primate cerebral cortex.* Cereb Cortex, 1991. **1** (1): p. 1-47.
+
+470 48. Schmolesky, M.T., et al., *Signal timing across the macaque visual system.* J  471 Neurophysiol, 1998. **79** (6): p. 3272-8.
+
+472 49. Seeley, W.W., et al., *Dissociable Intrinsic Connectivity Networks for Salience* 473 *Processing and Executive Control.* The Journal of Neuroscience, 2007. **27** (9): p.  474 2349.
+
+475 50. Menon, V. and L.Q. Uddin, *Saliency, switching, attention and control: a network* 476 *model of insula function.* Brain Structure and Function, 2010. **214** (5): p. 655-667.  477 51. Damasio, A. and H. Damasio, *Feelings Are the Source of Consciousness.* Neural  478 Computation, 2023. **35** (3): p. 277-286.
+
+479 52. Boucher, O., et al., *Hyperacusis following unilateral damage to the insular cortex:* 480 *a three-case report.* Brain Res, 2015. **1606** : p. 102-12.
+
+481 53. Sihvonen, A.J., et al., *Neural Basis of Acquired Amusia and Its Recovery after* 482 *Stroke.* J Neurosci, 2016. **36** (34): p. 8872-81.
+
+483 54. Mesulam, M.M. and E.J. Mufson, *Insula of the old world monkey. III: Efferent* 484 *cortical output and comments on function.* J Comp Neurol, 1982. **212** (1): p. 38- 485 52.
+
+486 55. Augustine, J.R., *Circuitry and functional aspects of the insular lobe in primates* 487 *including humans.* Brain Res Brain Res Rev, 1996. **22** (3): p. 229-44.  488 56. Takemoto, M., et al., *The insular auditory field receives input from the lemniscal* 489 *subdivision of the auditory thalamus in mice.* J Comp Neurol, 2014. **522** (6): p.  490 1373-89.
+
+491 57. Howard, M.A., 3rd, et al., *A hybrid clinical-research depth electrode for acute and* 492 *chronic in vivo microelectrode recording of human brain neurons. Technical note.* 493 J Neurosurg, 1996. **84** (1): p. 129-32.
+
+494 58. Howard, M.A., 3rd, et al., *A chronic microelectrode investigation of the tonotopic* 495 *organization of human auditory cortex.* Brain Res, 1996. **724** (2): p. 260-4.  496 59. Bitterman, Y., et al., *Ultra-fine frequency tuning revealed in single neurons of* 497 *human auditory cortex.* Nature, 2008. **451** (7175): p. 197-201.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+498 60. Mizrahi, A., A. Shalev, and I. Nelken, *Single neuron and population coding of* 499 *natural sounds in auditory cortex.* Curr Opin Neurobiol, 2014. **24** (1): p. 103-10.  500 61. Nagahama, Y., et al., *Intracranial EEG for seizure focus localization: evolving* 501 *techniques, outcomes, complications, and utility of combining surface and depth* 502 *electrodes.* J Neurosurg, 2018. **130** (4): p. 1180-1192.
+
+503 62. Fried, I., et al., *Cerebral microdialysis combined with single-neuron and* 504 *electroencephalographic recording in neurosurgical patients. Technical note.* J  505 Neurosurg, 1999. **91** (4): p. 697-705.
+
+506 63. Fischl, B., *FreeSurfer.* Neuroimage, 2012. **62** (2): p. 774-81.
+
+507 64. Brugge, J.F., et al., *Functional localization of auditory cortical fields of human:* 508 *Click-train stimulation.* Hearing Research, 2008. **238** (1-2): p. 12-24.  509 65. Nourski, K.V., et al., *Spectral Organization of the Human Lateral Superior* 510 *Temporal Gyrus Revealed by Intracranial Recordings.* Cerebral Cortex, 2014.  511 **24** (2): p. 340-352.
+
+512 66. Jenkinson, M., et al., *FSL.* Neuroimage, 2012. **62** (2): p. 782-90.  513 67. Kovach, C.K. and P.E. Gander, *The demodulated band transform.* J Neurosci  514 Methods, 2016. **261** : p. 135-54.
+
+515 68. Kovach, C.K. and M.A. Howard, *Decomposition of higher-order spectra for blind* 516 *multiple-input deconvolution, pattern identification and separation.* Signal  517 Processing, 2019. **165** : p. 357-379.
+
+518 69. Benjamini, Y. and Y. Hochberg, *Controlling the False Discovery Rate - a Practical* 519 *and Powerful Approach to Multiple Testing.* Journal of the Royal Statistical  520 Society Series B-Statistical Methodology, 1995. **57** (1): p. 289-300.  521 70. Benjamini, Y. and D. Yekutieli, *The control of the false discovery rate in multiple* 522 *testing under dependency.* Annals of Statistics, 2001. **29** (4): p. 1165-1188.  523 71. Magland, J., et al., *SpikeForest, reproducible web-facing ground-truth validation* 524 *of automated neural spike sorters.* Elife, 2020. **9** .
+
+525
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+527 **Supplementary Figure 1.** Curation plots for all isolated putatitive single neurons. ISI: inter 528 spike interval. SNR: signal-to-noise ratio, calculated as the ratio of the peak of each single  529 neuron waveform divided by the median absolute value of the signal for that channel, based on  530 the method implemented in SpikeForest [71].
+
+531
+
+533 **Supplementary Figure 2.** Template reconstruction of insula showing for clicks (left to right) the  534 proportion of modulated neurons, mean magnitude of firing rate changes, latency of modulation  535 and duration of modulation.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2025.03.12.642819; this version posted March 13, 2025. The copyright holder for this preprint(which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made  available under aCC-BY-NC-ND 4.0 International license.
+
+537 **Supplementary Figure 3.** Template reconstruction of insula showing for tones the proportion of  538 modulated neurons (left panel) and mean bandwidth of tuning within a location (right panel).

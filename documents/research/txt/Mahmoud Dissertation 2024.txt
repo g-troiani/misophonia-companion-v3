@@ -1,0 +1,106 @@
+## UNIVERSITY OF OKLAHOMA
+
+GRADUATE COLLEGE
+
+Perseveration in Misophonia: A Neuropsychological Approach
+
+A THESIS
+
+SUBMITTED TO THE GRADUATE FACULTY
+
+In partial fulfillment of the requirements for the degree of
+
+MASTER OF SCIENCE
+
+By
+
+DANA MAHMOUD
+
+Norman, OK
+
+2024
+
+## A THESIS APPROVED FOR THE DEPARTMENT OF PSYCHOLOGY
+
+Dr. Lauren Ethridge, Chair
+
+Dr. Erin Freeman
+
+Dr. Carol Terry
+
+©Copyright by Dana Mahmoud 2024
+
+All Rights Reserved.
+
+## Acknowledgments
+
+This thesis would not have come together without the encouragement and contributions of so many people. There are not enough ways to accurately express the gratitude I feel for the wonderful people in my life, but I will try my best.
+
+First and foremost, I owe a heartfelt thanks to Dr. Lauren Ethridge, who gave me an opportunity to expand my knowledge and bring about a passion of science that I had not otherwise known I held. She gave me an academic home when I felt so lost and guided me through this project in ways that made everything that felt impossible possible.
+
+I would also like to thank my committee members, Dr. Carol Terry and Dr. Erin Freeman. Their insights were invaluable to this project. The enthusiasm they brought to every discussion of this project helped shape it.
+
+I am also deeply grateful for my lab, who took me in and were so eager to help during this project. A particular, hearty thank you needs to be given to my labmate and friend, Jordan. She continued to see a spark in me when I believed my light was out. She continued to feed that flame by nurturing my confidence with unwavering kindness and dedication. I will always cherish our Thursday morning 'GSS office hours'.
+
+To my incredible friends, Mariam, Jenna, Madison, and Madeline, thank you for standing by me during my toughest moments. I am so lucky to know so many strong, intelligent women who fight for the people they care for in the manner that I have watched all of you fight for me.
+
+None of this could have been remotely possible without the endless encouragement from my family. I am so fortunate to have a family that is loving and supportive of my efforts. Though things did not go as initially planned, you all reminded me that I am capable of achieving greater things.
+
+Finally, to Sido, thank you for always envisioning a better version of myself and teaching us to strive for the best. I miss you dearly. Allah yerhamak.
+
+## Table of Contents
+
+| Acknowledgments..........................................................................................................................             | iv   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| Abstract..........................................................................................................................................vii |      |
+| Background....................................................................................................................................        | 1    |
+| Co-occurring conditions.............................................................................................................2                 |      |
+| Cognitive Behavioral Findings in Misophonia..........................................................................                                 | 4    |
+| Perseveration..............................................................................................................................7          |      |
+| Purpose and Research Objectives............................................................................................                           | 10   |
+| Methods.........................................................................................................................................10    |      |
+| Participants...............................................................................................................................10         |      |
+| Procedure.................................................................................................................................            | 11   |
+| Spectrum Characteristics Survey.............................................................................................                          | 12   |
+| Misophonia Questionnaire.................................................................................................                             | 12   |
+| EEG Session.............................................................................................................................13            |      |
+| Auditory Learning Task.....................................................................................................                           | 13   |
+| Recording and Preprocessing.............................................................................................14                            |      |
+| Data Analysis...........................................................................................................................              | 14   |
+| Relation to EEG Variables of Interest......................................................................................                           | 18   |
+| Results...........................................................................................................................................    | 19   |
+| Perseveration analyses.............................................................................................................                   | 21   |
+| Lag distribution analysis....................................................................................................                         | 21   |
+| Perseveration probability analysis.....................................................................................                               | 24   |
+| Inter-trial coherence correlations.............................................................................................                       | 26   |
+| Discussion.....................................................................................................................................       | 32   |
+| Conclusion...............................................................................................................................             | 38   |
+| References.....................................................................................................................................       | 40   |
+
+## Abstract
+
+Misophonia is categorized by strong, negative reactions to auditory stimuli, often orofacial (e.g., chewing, throat clearing), which may significantly impact daily functioning. Research on how misophonia may affect cognitive functions remains limited, though it shares characteristics with conditions known to influence cognition (e.g., Autism Spectrum Disorder,
+
+Obsessive-Compulsive Disorder). Of particular interest, those who have these disorders may display perseverance, the repetition of an inappropriate behavior rather than adapting to new stimuli. Given the similarities between these disorders and evidence of behavioral rigidity in previous studies, perseveration may also be present in misophonia. Perseveration has typically been assessed using the Wisconsin Card Sorting Test, a visual task. The current study tested perseveration and behavioral rigidity through an auditory learning task to target the sensory domain implicated in misophonia. Students from the University of Oklahoma participated by completing a detailed online survey that gauges experiences and severity of misophonia, followed by an audiology workup, then battery of behavioral tasks while Electroencephalography (EEG) data was collected to correlate behavioral outcomes with neural markers of auditory sensory fidelity. While this study did not replicate behavioral rigidity, and neural markers did not correlate with behavioral measures as anticipated, one neural marker showed a relationship with a perseverative measure. Although explicit perseveration was not observed, correlations between perseverative and behavioral measures warrant the need for further investigation. This work may provide insight into the cognitive factors that influence misophonia.
+
+## Background
+
+Misophonia, the 'hatred of sounds' (M. M. Jastreboff &amp; Jastreboff, 2002), is described as a decreased tolerance to specific auditory stimuli, also known as triggers (Ferrer-Torres &amp; Giménez-Llort, 2022; Jager et al., 2020; Norris et al., 2022). Triggers may differ for people impacted by the condition; however, they fall into two broad categories: organic (e.g., breathing, chewing) and inorganic (e.g., typing on a keyboard, construction) sounds. It is neurophysiological and behavioral in nature. It is characterized by having strong, negative emotional and physical reactions; the main reported response to triggering sounds is anger, with some people admitting physical aggression towards objects. People with misophonia may feel anxiety at the anticipation of hearing a triggering sound (Ferrer-Torres &amp; Giménez-Llort, 2022). They have reported avoiding situations and environments where they believe they might encounter misophonic triggers, such as missing family events, avoiding restaurants or movie theaters leading to impairment of social functioning and quality of life (Abramovitch et al., 2024; Ferrer-Torres &amp; Giménez-Llort, 2022; Schröder et al., 2013; Wu et al., 2014). So far, the limited research in cognition in misophonia does not show evidence of impairments in general cognitive functioning when there is no trigger-related provocation (Daniels et al., 2020; Eijsker et al., 2019). The rate of occurrence in the general population is estimated to be about 3%; however, the estimated range can be as large as 6%, when counting the most severe cases, to 24% (Abramovitch et al., 2024; Andermane et al., 2023; Ferrer-Torres &amp; Giménez-Llort, 2022; Norris et al., 2022; Wu et al., 2014). This is in part due to a lack of clear diagnostic criteria for misophonia. Research regarding causes and biological factors in misophonia is relatively sparse, limiting current understanding on what mechanisms drive the behaviors seen in the disorder.
+
+## Co-occurring conditions
+
+There are physiological and psychological conditions that sometimes co-occur with misophonia. Due to the auditory nature of the disorder, it is seen as a co-occurring condition with tinnitus and hyperacusis, though it can be difficult to differentiate between those who have any of these disorders alone or any combination between the three (Palumbo et al., 2018). Tinnitus refers to a condition where there is a perception of a sound that does not have an external source and is most commonly described as ringing or buzzing sounds. This may potentially impact the quality of life for those who experience it. Some people may experience tinnitus due to an internally generated stimulus that stems from physiology, also known as objective tinnitus. Others may perceive a sound that has no identifiable acoustic source, externally or internally. This is known as subjective tinnitus (Atik, 2014; Norris et al., 2022). Misophonia may occur in approximately 10-60% of those who experience some form of tinnitus (Wu et al., 2014). It is still unclear whether experiences of tinnitus lead to misophonia or if they are co-occurring conditions with overlapping pathophysiology.
+
+Hyperacusis and misophonia are both considered conditions of decreased sound tolerance. Hyperacusis refers to a lower tolerance to certain frequencies and volume ranges of sounds that would not be considered loud to others (Palumbo et al., 2018). The responses that come from hyperacusis tend to be driven by the perceived 'loudness' of a sound (Raj-Koziak et al., 2021). The research suggests that people with misophonia have normal hearing sensitivities (Palumbo et al., 2018; Schröder et al., 2014). The behavioral reactions caused by misophonia and hyperacusis may be identical, making it difficult to identify the condition this way. Significant levels of hyperacusis will result in misophonia due to the discomfort of the sound. Once the
+
+association is made, the misophonic response may persist even after the hyperacusis itself decreases (P. J. Jastreboff &amp; Jastreboff, 2015).
+
+While the formalized diagnostic criteria are still under debate and have yet to be added to the Diagnostic and Statistical Manual of Mental Disorders (DSM 5), symptoms of misophonia co-occur with a variety of DSM diagnoses. Misophonia is associated with elevated levels of stress and anxiety that is produced by the triggers (Jager et al., 2020; Ward et al., 2022). These types of anxiety-related responses can be found in mood disorders, anxiety disorders, and obsessive compulsive-related disorders (Wu et al., 2014). It is important to distinguish between misophonia and phonophobia. Phonophobia refers to the fear of certain sounds. It may not be necessarily true that the same classes of sounds elicit a reaction in phonophobia. The main differentiation between the two is that phonophobia elicits a fear response to the triggering sounds, while misophonic triggers elicit anger (M. M. Jastreboff &amp; Jastreboff, 2001; Palumbo et al., 2018; Schröder et al., 2013). While there are many shared behaviors between these disorders and misophonia, the common differentiation between them tends to be the reaction that is elicited. For the fear and anxiety-related disorders mentioned, the fear and/or anxiety is the perceived emotion. Anxiety may mediate the relationship between the misophonic symptoms and rage; however, the most common reaction is anger which differentiates misophonia from other fear and anxiety-related disorders (Schröder et al., 2013; Wu et al., 2014).
+
+Misophonia, which by definition contains sensory components, also shows links to sensory processing impairment, which is symptomatic of autism spectrum disorder (ASD), schizophrenia (Norris et al., 2022), and attention deficit hyperactivity disorder (ADHD; Ghanizadeh, 2011). Misophonia is linked to having general sensory sensitivities. One study measured general sensory defensiveness using the Sensory Profile (Kinnealey &amp; Oliver, 2002),
+
+which covered sensitivities spanning olfactory, auditory, tactile, visual and gustatory (Wu et al., 2014). General sensory defensiveness is defined as a condition where individuals display heighted aversive reactions to sensory stimuli (Kinnealey et al., 1995). There was a strong association between the misophonia symptoms (as measured by the Misophonia Questionnaire; Wu et al., 2014) and general sensory sensitivities. General sensory defensiveness may be elevated from experiencing auditory sensory processing sensitivity (Wu et al., 2014). Additionally, general sensitivities may develop early in misophonia. Sensory sensitivities seem to be heighted in adolescents with misophonia as compared to children of the same age group without misophonia. These sensitivities include all of those tested in the Sensory Profile as well as vestibular. Specifically, children with misophonia display heightened sensitivity across all sensitivity types compared to their peers (Rinaldi et al., 2023). The auditory sensitivity in ASD or sensory processing disorders comes from unexpected and loud noises, whereas misophonic responses seem to be triggered by the same sounds, so much so that misophonic triggers can be predictable and avoidable (Schröder et al., 2013). Further, people with misophonia may react to visual stimuli that are related to a triggering sound as if they heard the sound itself. For example, those who find the sound of chewing to be triggering may have an aversive response to the sight of someone chewing, though they may not hear the sound of chewing (Ferrer-Torres &amp; Giménez-Llort, 2022).
+
+## Cognitive Behavioral Findings in Misophonia
+
+Due to overlap with co-occurring conditions that impact cognition, such as ASD, research has explored how different areas of cognition may be impacted by misophonia which may lead to its associated behaviors. It has been suggested that misophonia is more than just the physical perception of sound; rather, it is a relationship that is mediated by high-level cognitive

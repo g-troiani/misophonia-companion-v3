@@ -1,0 +1,1416 @@
+REVIEW
+published: 07 February 2018
+doi: 10.3389/fnins.2018.00036
+Frontiers in Neuroscience | www.frontiersin.org 1 February 2018 | Volume 12 | Article 36Editedby:
+IsabellePeretz,
+UniversitédeMontréal,Canada
+Reviewedby:
+AndreaEugenioCavanna,
+BirminghamandSolihullMental
+HealthNHSFoundationTrust,
+UnitedKingdom
+ClaudeAlain,
+RotmanResearchInstitute(RRI),
+Canada
+*Correspondence:
+M.ZacharyRosenthal
+mark.rosenthal@duke.edu
+Specialtysection:
+Thisarticlewassubmittedto
+AuditoryCognitiveNeuroscience,
+asectionofthejournal
+FrontiersinNeuroscience
+Received: 13July2017
+Accepted: 15January2018
+Published: 07February2018
+Citation:
+BroutJJ,EdelsteinM,ErfanianM,
+ManninoM,MillerLJ,RouwR,
+KumarSandRosenthalMZ(2018)
+InvestigatingMisophonia:AReviewof
+theEmpiricalLiterature,Clinical
+Implications,andaResearchAgenda.
+Front.Neurosci.12:36.
+doi:10.3389/fnins.2018.00036Investigating Misophonia: A Review
+of the Empirical Literature, Clinical
+Implications, and a Research Agenda
+JenniferJ.Brout1,MirenEdelstein1,2,MercedeErfanian1,3,MichaelMannino4,
+LucyJ.Miller1,5,RomkeRouw6,SukhbinderKumar1,7andM.ZacharyRosenthal1,8,9*
+1InternationalMisophoniaResearchNetwork,NewYork,NY,Un itedStates,2DepartmentofPsychology,CenterforBrainand
+Cognition,UniversityofCalifornia,SanDiego,SanDiego, CA,UnitedStates,3DepartmentofPsychologyandNeuroscience,
+MaastrichtUniversity,Maastricht,Netherlands,4CenterforComplexSystemsandBrainSciences,FloridaAtla nticUniversity,
+BocaRaton,FL,UnitedStates,5DepartmentofPsychology,BrainandCognition,AmsterdamU niversity,Amsterdam,
+Netherlands,6BrainandCognition,DepartmentofPsychology,University ofAmsterdam,Amsterdam,Netherlands,
+7AuditoryGroup,InstituteofNeuroscience,NewcastleUnive rsity,Newcastle,UnitedKingdom,8DepartmentofPsychiatry
+andBehavioralScience,DukeUniversityMedicalCenter,Du rham,NC,UnitedStates,9DepartmentofPsychologyand
+Neuroscience,DukeUniversity,Durham,NC,UnitedStates
+Misophonia is a neurobehavioral syndrome phenotypically c haracterized by heightened
+autonomic nervous system arousal and negative emotional re activity (e. g., irritation,
+anger, anxiety) in response to a decreased tolerance for spe ciﬁc sounds. The aims of
+thisreviewareto(a)characterizethecurrentstateoftheﬁ eldofresearchonmisophonia,
+(b) highlight what can be inferred from the small research li terature to inform treatment
+of individuals with misophonia, and (c) outline an agenda fo r research on this topic. We
+extend previous reviews on this topic by critically reviewi ng the research investigating
+mechanisms of misophonia and differences between misophon ia and other conditions.
+Inaddition,weintegratethissmallbut growing literature withbasicandappliedresearch
+from other literatures in a cross-disciplinary manner.
+Keywords: misophonia, sensory processing, sensory over-re sponsivity, fear circuitry, defensive motivational
+systems, emotion regulation
+INTRODUCTION
+Misophoniaisacomplexneurophysiologicalandbehavioralsyndr omecharacterizedbyheightened
+physiologicalresponsivityandahighmagnitudeofemotional reactivityresultingfromintolerance
+to speciﬁc auditory stimuli ( Jastreboﬀ and Jastreboﬀ, 2001, 2014; Møller, 2011; Wu et al., 20 14).
+Originally described by Jastreboﬀ and Jastreboﬀ (2001) , individuals with misophonia are believed
+todemonstrateincreasedsympatheticnervoussystemarousa l,accompaniedbyemotionaldistress
+inresponsetospeciﬁcpattern-basedsounds,irrespectiveofde cibellevel( JastreboﬀandJastreboﬀ,
+2001; Edelstein et al., 2013 ). Examples of these sounds include other people chewing, throa t
+clearing,slurping,ﬁngertapping,footshuﬄing,keyboardtappi ng,andpenclicking( Jastreboﬀand
+Jastreboﬀ,2001;Edelsteinetal.,2013;Schröderetal.,2013 ;Wuetal.,2014 ).Theacousticpatternof
+thesesoundsandtheirelicitedresponsevaryacrossindivid uals.Bothsoundsandreactionsappear
+totakeonidiosyncraticforms,suggestingthatindividual diﬀerences,learningandcontextmayplay
+aroleinaversiveresponding.
+Sounds are referred to as “triggers” and as “misophonic sound s” by suﬀerers in social media
+support forums and by researchers in the emerging scientiﬁc li terature. Similarly, responses to
+trigger sounds are often referred to as “misophonic responses .” Upon exposure to misophonic
+
+Brout et al. Investigating Misophonia
+trigger sounds, emotional responses frequently include ang er
+(ranging from irritation to rage), anxiety, disgust, avoid ance,
+escape behavior as well as a feeling of being overwhelmed
+and/or overloaded by auditory stimuli. As noted in the
+nascent literature, this newly deﬁned syndrome may, for som e
+individuals, lead to severe impairments in daily functionin g
+(e.g., occupationally, interpersonally, academically) and may
+contributetothedevelopmentofbehavioralhealthproblems.
+Although syndromal features have begun to be characterized
+empirically, misophonia has not been formally recognized as a
+speciﬁctypeofneurological,audiological,orpsychiatricdi sorder.
+Over-responsivity to auditory stimuli is a feature observed
+among a wide range of neurological, auditory, medical and
+psychiatric disorders such as tinnitus, hyperacusis ( Jastreboﬀ
+and Jastreboﬀ, 2001 ), migraine headaches ( Sullivan et al., 2013 ),
+autism spectrum disorder ( Ben-Sasson et al., 2009a; Danesh
+and Kaf, 2012; Lane et al., 2012 ), posttraumatic stress disorder
+(Attias et al., 1996; Finsterwald and Alberini, 2014 ), borderline
+personality disorder ( Rosenthal et al., 2016 ), bipolar disorder,
+and schizophrenia ( Cabranes et al., 2013 ). The precise nature
+of the relationship between misophonia and these disorders
+is unknown. However, intolerance to aversive sounds does
+not appear to be a phenomenon that co-occurs uniquely and
+speciﬁcally with any one disorder. Indeed, rigorously condu cted
+research is needed to elucidate whether misophonia is a uniqu e
+constellation of symptoms or a transdiagnostically co-occu rring
+syndromefoundacrossotherdisorders( Stansfeldetal.,1985 ).
+Thesmallbodyofresearchinvestigatingmisophoniainclude s
+studies conducted in the ﬁelds of audiology, otolaryngolog y,
+psychiatry, psychology, and the neurosciences. Although
+some promising research examining the neurobiological
+underpinnings of misophonia recently has been conducted,
+much of the early literature describes the phenotypic expressi on
+and preliminary associations between symptoms of misophonia
+andpsychiatricdisorders.
+The primary aim of this paper is to review research on
+misophonia using a cross-disciplinary approach, with the
+goal of generating testable hypotheses and advancing the
+conceptualization of this recently identiﬁed syndrome. In
+addition, recent neuroscience-based paradigms of emotion
+emphasizing the defense/fear circuitry are described to
+contextualize the extant research and inform future studie s.
+Speciﬁcally, we begin by detailing Jastreboﬀ and Jastreboﬀ
+(2001)original theoretical model of misophonia and related
+conditions. Next, we review the current research literatur e on
+misophonia, with a brief discussion of the early case studies a nd
+the small number of empirical studies that have followed. Last ,
+we synthesize the empirical literature, outline a research a genda,
+and highlight several key considerations in the treatment o f
+thosewithmisophonia.
+ORIGIN OF MISOPHONIA: THE
+JASTREBOFFS’ MODEL
+In this section, we trace the development of Jastreboﬀ and
+Jastreboﬀ’s ( Jastreboﬀ and Jastreboﬀ, 2001 ) conceptualizationof misophonia. Although other models of sound intolerance
+have been posited ( Pienkowski et al., 2014; Tyler et al., 2014 ),
+misophonia as a speciﬁc syndrome was initially described by
+the Jastreboﬀ’s ( Jastreboﬀ and Jastreboﬀ, 2001 ). The model
+began with Pawel Jastreboﬀ’s phantom model of tinnitus
+(Jastreboﬀ, 1990 ) and was inﬂuenced by Jastreboﬀ’s work
+with hyperacusis ( Jastreboﬀ and Jastreboﬀ, 2001, 2002, 2014 ).
+Tinnitus is a complex neurological condition with multiple
+potential etiological pathways ( Baguley, 2016 ). Individuals with
+tinnitus experience ringing in one or both of their ears, and
+the condition often is associated with hearing loss. Jastre boﬀ’s
+neurophysiological model of tinnitus as a phantom perception
+gained wide acceptance when he published it in 1990 ( Baguley,
+2016). According to this theory, tinnitus arises due to abnormal
+patterns of neural activity in auditory neural pathways. These
+abnormalactivitypatterns,possiblyoriginatingfromtheco chlea
+(or in the subcortical structures in the auditory neurologi cal
+pathway)aredetectedbytheneocortexwheretheyareperceive d
+as a ringing noise. Essential to this model of tinnitus is the
+diﬀerence between perception of tinnitus per seand emotional
+responses to these symptoms. Reacting negatively to tinnitus
+facilitates attention to it, which further ampliﬁes the percept of
+tinnitus. With repetition of such responses, associative lea rning
+betweentinnitusandthesenegativeemotionalresponsesocc urs.
+In other words, whereas the perception of tinnitus involves th e
+auditorysystem,theemotionalresponsetotinnitusismodul ated
+by a wider range of neural systems, including those within
+the limbic areas. Based on this, Pawel and Margaret Jastrebo ﬀ
+developed Tinnitus Retraining Therapy (TRT), which includes
+repeated exposure to low level, broadband noise in an eﬀort
+to facilitate habituation by interfering with the neural act ivity
+responsibleforgeneratingtinnitus( Jastreboﬀetal.,1996 ).
+Using a similar model, Jastreboﬀ and Jastreboﬀ (2001)
+purported that anatomical and functional links between the
+central auditory system and the limbic system were integral
+to the development of fear and anxiety related to hyperacusis
+(i.e., extreme sensitivity to loud noise or the perception that
+noises are much louder than they are). This model has been
+supported by observations that patients with hyperacusis may
+presentwithoutanyapparentdysfunctionorinvolvementwithi n
+theperipheralauditoryapparatus( HazellandJastreboﬀ,1990 ).In
+addition, Jastreboﬀ suggested that because of hyperacusis, ma ny
+individualsalsodevelopphonophobia(i.e.,apronouncedfearo f
+sound).Aswithtinnitus,theJastreboﬀs’( JastreboﬀandJastreboﬀ,
+2001, 2002, 2014 ) proposed using the same principles of TRT to
+helpindividualswithhyperacusisandphonophobia( Baguleyand
+McFerran,2011 ).
+Jastreboﬀ and Jastreboﬀ (2001) coined the term misophonia
+while working with hyperacusis patients. They noted that some
+hyperacusis patients reacted with aversion to sounds that hav e
+speciﬁc patterns regardless of decibel level and irrespective o f
+the physical characteristics of sounds ( Jastreboﬀ and Jastreboﬀ,
+2001). The Jastreboﬀs reported ( Jastreboﬀ and Jastreboﬀ,
+2001) that the sounds to which misophonics responded
+included, as examples, slurping, lip smacking, breathing, an d
+pencil tapping. In addition, unlike hyperacusis, misophonic
+triggers were variable across people and environmental
+Frontiers in Neuroscience | www.frontiersin.org 2 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+contexts. Consequently, theJastreboﬀs( JastreboﬀandJastreboﬀ,
+2001) hypothesized that these responses were developed and
+maintained, in part, via associative learning mechanisms
+activated in particular contexts. Accordingly, it could be
+hypothesized from this framework that misophonic responses
+to trigger cues were grounded in neurophysiological systems
+responsible for emotion, memory, and learning. From this
+perspective, misophonic responses to sounds may be inherently
+bothbiologicalandshapedbyenvironmentalinﬂuences.
+Thus, with higher cortical brain structures involved in the
+maintenanceofmisophonia,theJastreboﬀ’susedtheframewo rk
+of TRT to propose a treatment approach for misophonia.
+Speciﬁcally, they proposed a treatment model using repeated
+exposure to misophonic triggers with new and positively
+experienced conditioned responses temporarily following
+exposuretotriggers.Todate,thisretrainingintervention hasnot
+been experimentally tested using randomized controlled tri als,
+leavingtheeﬃcacyofthistreatmentwithoutempiricalevide nce.
+CASE STUDIES OF MISOPHONIA
+Most of the published literature exploring misophonia has
+been conducted using individual case descriptions or a serie s
+of case reports among small samples of adults self-reporting
+symptoms ( Neal and Cavanna, 2012; Bernstein et al., 2013;
+Ferreira et al., 2013; Johnson et al., 2013; Kluckow et al., 20 14;
+Webber et al., 2014; Dozier, 2015 ). Across these case studies,
+the speciﬁc symptoms vary. Although the Jastreboﬀs’ original
+conceptualizationofmisophoniaincludedaversiverespondin gto
+sounds generated by both living beings and inanimate object s,
+many case reports speciﬁcally indicate that trigger sounds ar e
+generated by other people (e.g., other people chewing, smacking
+lips, coughing, throat clearing; Webber et al., 2014 ). However,
+it is important to note that individuals also report aversion
+to mechanical noises, such as air-conditioners, refrigera tor
+humming, and/or noises emanating from pets ( Møller, 2011;
+Cavanna and Seri, 2015 ). In addition, some case studies indicate
+that individuals with misophonia describe experiencing aver sive
+responses to repetitively presented visual stimuli or movemen t,
+also known as misokinesia (e.g., seeing another person shaki ng
+theirleg).
+Thesecasereportshavebeenvaluableasinitialdocumentati on
+of misophonia as a clinical syndrome not previously described
+and found among patients presenting with other clinical
+problems. For example, Neal and Cavanna (2013) observed
+misophonia symptoms in one patient with Tourette’s syndrome.
+Webber et al. (2014) reported misophonia symptoms in
+a pediatric patient with Tourette’s syndrome and obsessive
+compulsive disorder (OCD). As another example, using a
+case series approach with three patients, Ferreira et al. (2013)
+reportedmisophoniasymptomsinpatientswithseveraldiﬀerent
+psychiatric disorders. Based on these case observations, Ferreira
+etal.(2013) speculatedthatmisophoniacouldbecharacterizedas
+asymptomofobsessive-compulsivedisorder,generalizedanxi ety
+disorder(GAD),andschizotypalpersonalitydisorder.Itisu seful
+to generate hypotheses from case descriptions. However, it ispremature to use such methods to draw causal inferences or to
+extrapolate results beyond the cases being described. For mo re
+deﬁnitive insights to be drawn from the empirical literature ,
+appropriately powered studies are needed using experimental
+methods with testable hypotheses to elucidate the mechanism s
+underlyingmisophonia.
+PHYSIOLOGICAL MEASURES AND
+MISOPHONIA
+Autonomic, Neurophysiological, and
+Neurobiological Studies
+A small number of studies have investigated the relationshi p
+between subjective and behavioral responses in misophonia and
+correspondingresponsesinthebrainandnervoussystem.Thes e
+studies are the ﬁrst to begin examining whether misophonic
+individuals respond in speciﬁc ways to misophonic trigger
+soundsascomparedtootheraversivesounds.Importantly,the se
+studies have begun to identify candidate neural and periphera l
+psychophysiologicalmechanismsunderlyingmisophonia.
+Edelstein et al. (2013) were the ﬁrst to apply
+psychophysiological measurements to study misophonia.
+They measured skin conductance response (SCR) to quantify
+sympathetic nervous system reactivity in misophonic and
+control participants using both unisensory1and multisensory2
+stimuli. The researchers used stimuli that ranged in emotio nal
+valence (e.g., children laughing, birds singing, gum chewi ng
+and lip smacking) and asked participants to rate each by their
+perceived level of aversion. These self-reports were compared
+withthephysiologicaldata.
+First, the subjectively reported autonomic (i.e., “ﬁght/ﬂig ht”)
+responsewaspresentintheSCRdata.Furthermore,theresponse
+was speciﬁc. Both aversiveness ratings and SCR data showed
+increased responses in auditory-only stimuli in misophonics
+as compared with controls, while no signiﬁcant diﬀerence was
+obtained in visual-only stimuli. Results showed a signiﬁcan t
+positive correlation between average level of aversiveness and
+mean SCR across all participants and across unisensory and
+multisensory trials. This ﬁnding suggests that subjective and
+physiological responses to stimuli were consistent with one
+another. Overall, the importance of this study is that it indic ates
+(a) misophonic responses can be measured in the autonomic
+nervoussystemand(b)misophoniaisassociatedwithheighte ned
+SCRresponsestomisophoniccues.
+The authors note that limitations of the study include
+small sample size, a lack of rigorous screening for psychiatric
+or psychological problems, and the fact that SCR measures
+autonomic arousal but does not describe the nature of the
+aﬀective state associated with autonomic arousal. In additi on,
+because this study lacked a clinical comparison group, it is
+unclear whether the ﬁndings can be attributed to misophonia
+speciﬁcally,ortootherclinicalconditions.Indeed,recom mended
+improvements for future studies using these methods includes
+(a) a larger sample size, (b) use of a clinical control group,
+1Unisensory(visualorauditoryalone).
+2Multisensory(visualandauditorytogether).
+Frontiers in Neuroscience | www.frontiersin.org 3 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+(c) use of psychometrically validated and structured psychia tric
+diagnostic evaluations, (d) more speciﬁc probing of trigger
+sounds (e.g., including a trigger vs. non-trigger contrast in the
+analyses), and (e) use of dependent measures that can more
+clearly specify and diﬀerentiate exact physiological or subje ctive
+responseselicitedbytriggersounds.
+Edelstein et al. (2013) suggest that the potential underlying
+mechanisms of misophonia may bear some similarities with
+those of synesthesia and suggest that the two conditions may
+informoneanother.Synesthesiaisaconditioninwhichasen sory
+stimulus or sensation (also known as an “inducer”) consiste ntly
+andautomaticallyevokes anotherseemingly unrelatedsens ation
+or association(alsoknown as a “concurrent”; Ward andSimner,
+2003; Saenz and Koch, 2008; Brang et al., 2010, 2011; Colizoli
+et al., 2013 ). Though unusual, it is possible for emotion to be
+a synesthetic concurrent, as indicated in previous research on
+tactile-emotionsynesthesia( RamachandranandBrang,2008 ).A
+diﬀerence between synesthesia and misophonia, however, is th at
+synesthetes have a more speciﬁc and complex set of inducer-
+to-concurrent associations (e.g., in a letter-color synes thete, the
+letter“A”maybebluewhiletheletter“R”ispurple).Furtherm ore,
+synesthetic responses remain constant over the years, and it is
+not yet clear if this is the case for misophonic responses. Stil l,
+the knowledge acquired in the past decade on the mechanisms
+involved in synesthesia does oﬀer a useful preliminary model
+for misophonic mechanisms. Speciﬁcally, Edelstein et al. sugg est
+that akin to the abnormal brain connectivity between induce r
+and concurrent brain areas obtained in synesthetes ( Rouw and
+Scholte, 2007 ), deviant anatomical or functional connections
+couldliebetweenauditoryandlimbicregionsinmisophonics .
+Schröder et al. (2014) published the ﬁrst EEG study on
+the neurobiological mechanisms involved in misophonia. The
+authors examined auditory event-related potentials (ERPs),
+including the P1, P2, and N1 components to explore the early
+auditory processing system in participants with misophonia.
+Notably, the N1 component is often associated with auditory
+attention and abrupt changes in the detection of sounds.
+Schröder et al. presented an oddball paradigm, wherein the
+participantlistenedtoasequenceofstandardtones,withdev iant
+tones randomly interspersed. Based on research indicating t hat
+attentionprocessinganomaliescorrelatewithseveral psych iatric
+disorders, Schröder et al. hypothesized that similar atypica l
+responses would be observed in misophonics. Indeed, the N1
+ERP peak evoked by the oddball tones was diminished in
+misophonics, as compared to that of controls. The misophonics
+did not diﬀer from controls in the P1 and P2 components of
+misophonicsandcontrolsduringoddballtones,norinanyoft he
+ERPcomponentsduringstandardtones.
+Schröder and colleagues suggest that the observed N1
+response may be a candidate neurophysiological marker for
+pathology related to misophonia. Although these results do
+not establish a deﬁnitive causal link between diminished N1
+and misophonia, they do represent an important early step
+toward understanding the neural underpinnings of misophonia .
+Speciﬁcally, this study suggests how misophonia may aﬀect
+earlyauditoryprocessingcomponents.Theﬁndingsfurthermo re
+suggest a role for atypical auditory attentional processes inmisophonia. As a limitation of the study, the authors note
+that the diminished N1 does not reveal the nature or level
+of the atypical processes. Further, the study results do not
+disconﬁrm the hypothesis that diminished N1 responding may
+reﬂect transdiagnostic impairment, rather than being uniqu e to
+misophonia per se. Accordingly, it is premature to conclude
+that atypical N1 responses are speciﬁc to misophonia. A
+study contrasting electrophysiological responses in misophoni cs
+with other clinical control groups is needed to address
+thisissue.
+A technique commonly used to oﬀer insight in the exact
+location of brain processes (due to higher spatial resolution ) is
+functional magnetic resonance imaging (fMRI). A recent study
+byKumar et al. (2017) performed a functional neuroimaging
+as well as psychophysiological [heart rate (HR) and galvanic
+skin response (GSR)] study with misophonic and age-matched
+controls. Participants were presented with three sets of soun ds:
+trigger sounds, unpleasant sounds (aversive non-misophonic
+sounds) and neutral sounds. As expected, trigger sounds evok ed
+a strong misophonic reaction in misophonic participants. The
+unpleasant sounds, although perceived as annoying, did not
+trigger a misophonic reaction, indicating a dissociation be tween
+generalannoyanceandmisophonicresponses.
+The group (misophonic vs. control) by sound type
+(misophonic, unpleasant, neutral) interaction was signiﬁca nt
+in the bilateral anterior insular cortex (AIC). Speciﬁcally , the
+misophonics showed increased activation in this region in
+response to trigger sounds. No diﬀerences between misophonics
+and controls were found for the unpleasant and neutral sounds .
+Activity in bilateral AIC furthermore correlated with mean
+misophonic ratings, with increased scores related to increa sed
+activation. Accordingly, one important conclusion from thi s
+study is that the AIC is a neural structure that may have a key
+roleintheprocessingofmisophonictriggers.
+The AIC is known to be a core hub of the “salience network”
+(Seeley et al., 2007 ) which detects personally relevant stimuli
+in the environment and directs attention to these cues. In th e
+Kumar et al. (2017) study, stronger activation of AIC to trigger
+sounds show that misophonic participants assigned higher
+salience to trigger sounds. Analysis of functional connecti vity
+of AIC showed hyper-connectivity, which was again speciﬁc to
+trigger sounds, to the default mode network (DMN) ( Raichle
+et al., 2001 ) in misophonic participants. The DMN is known
+to be active during internally directed thoughts and recall of
+memories. Stronger coupling of AIC to DMN in misophonic
+participantssuggeststhatprocessesrelatedtoassociativel earning
+and memory may have an important role in the heightened AIC
+activationtotriggersounds.
+In addition, analysis of structural brain data in Kumar et al.
+(2017)showed that misophonics had greater myelination in
+the gray matter of ventromedial prefrontal cortex (vmPFC),
+which forms a node of the DMN. This structural diﬀerence
+possiblyunderliestheabnormalfunctionalconnectivityofA ICto
+DMNinmisophonics.Finally,Kumaretal.observedheightened
+autonomic responses (HR and GSR) speciﬁc to trigger sounds
+in misophonic participants, and the analysis of sources of thes e
+responseswerelocalizedinAICareas.
+Frontiers in Neuroscience | www.frontiersin.org 4 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+Collectively, the ﬁndings from Kumar et al. point to
+the abnormal activation and functional connectivity of AIC ,
+shedding light on candidate regions and systems representin g
+the possible neural underpinnings of misophonia. Ultimately,
+these ﬁndings may have clinical signiﬁcance by oﬀering clini cal
+scientists key insights about possible biological mechanism s
+which can be targeted for change when developing ways to help
+peoplewithmisophonia.
+An important limitation of this study is the lack of a
+clinicalcontrolgroup.Withoutcomparingmisophonicresponse s
+to those of individuals without misophonia but with other
+clinical characteristics, it is not possible to conclude tha t the
+ﬁndings from this study are unique and speciﬁc to misophonia.
+Another limitation of this study is that obtaining correlat ions
+and relationships among neural patterns of activation and
+behavior does not warrant causal interpretations. Addition ally,
+in neuroimaging the problem of “reverse inference” makes it
+diﬃculttoassignaspeciﬁcanduniquefunctiontoobservedbr ain
+activity.Literatureshowinghowacertaincognitiveproces sleads
+to activation in a particular neural area, for example, does no t
+validate the conclusion that activation in that brain area a lways
+reﬂectsthatparticularcognitivefunction.However, Kumaretal.
+(2017)partially counters the latter issue by combining diﬀerent
+techniques (neuroimaging, physiology, behavior) so that th e
+diﬀerent analyses can create converging evidence on the same
+interpretationandoutcome.
+Several conclusions can be drawn when considering,
+collectively, the small number of reviewed studies using
+autonomic, neurophysiological, and neurobiological measu res.
+First, the subjective responses from misophonics are
+corroborated by physiological measurements of increased
+autonomic arousal in response to misophonic triggers. This
+research validates the experience of suﬀerers of misophonia by
+demonstratingthat,indeed,misophoniccuesdoelicitautom atic
+sympathetic arousal and negative aﬀective states. Similarly ,
+misophonics show atypical neuronal and physical responses
+in the brain and nervous system in response to their triggers.
+Second, current studies indicate a certain degree of speciﬁc ity:
+responses to misophonic stimuli are diﬀerent from “normal”
+aversivestimuli.Thestudiesalsopointataspecialroleforc entral
+auditoryprocessingimpairments.Althoughthisisaninteres ting
+notion, the eﬀects observed thus far may partially be due to
+choice of stimulus materials or selection bias in participant
+groups. Finally, these studies are not conclusive about the
+mechanisms underlying misophonia, but do highlight candida te
+processes for further research in both central and peripheral
+nervoussystems,includingspeciﬁcsaliencetoparticularst imuli,
+early eﬀects in the auditory system, the importance of physical
+(bodily) sensations and responses, and the integration of
+perceptual salience with atypical awareness of internal body
+states.
+SELF-REPORT MEASURES OF
+MISOPHONIA AND MENTAL HEALTH
+A small number of studies using self-report and interview
+measures have begun to characterize possible psychological an dpsychiatriccorrelatesofmisophonia.Manyofthesestudiessh are
+as aims the need to characterize (a) the subjective experienc es
+and responses to triggers in those with misophonia, (b) the
+relationship between misophonia and other conditions, and
+(c) whether misophonia should be considered unique and
+distinct from established psychiatric disorders. The ﬁrst of
+these studies was by Schröder et al. (2013) , who recruited 42
+Dutch adults from a mental health clinic who self-reported
+misophonia symptoms. A psychiatrist interviewed participants
+to assess psychiatric diagnoses. Results suggest that participa nts
+met criteria for a wide range of co-occurring psychiatric
+disorders. Speciﬁcally, the majority met criteria for obses sive-
+compulsivepersonalitydisorder(OCPD;52.4%),whereasother s
+met criteria for mood disorders (7.1%), ADHD 4.8%, panic
+disorder(2.4%),andobsessivecompulsivedisorder(OCD2.4%).
+Inaddition,participantsalsoself-reportedseveralcharacte ristics
+about their responsivity to misophonic sounds, including: (1)
+aversive and angry feelings evoked by particular sounds, (2)
+rare potentially aggressive responses, (3) recognition by th e
+misophonic individual that his/her behavior is excessive, ( 4)
+avoidancebehavior,and(5)distressandinterferenceindai lylife.
+Based on these results, Schröder et al. (2013) suggested the
+possibility that misophonia be considered a disorder under
+the broader classiﬁcation Obsessive and Compulsive Related
+Disorders in the DSM-5 ( American Psychiatric Association,
+2013). However, the authors also stated that it is premature
+to make ﬁrm conclusions about this possibility. Indeed, when
+considering the sampling approach from one clinic, the small
+sample size, the use of a single diagnostic assessor, and the
+lack of inter-rater reliability reported for psychiatric dia gnostic
+assessment, it is premature to conclude from this study wheth er
+misophonia is best categorized as an obsessive compulsive-
+related disorder. In addition, given that only 2.4% ( n=1) of
+the sample met criteria for OCD, and that most met criteria
+for OCPD, the results suggest that future research is needed
+to explore the co-occurrence of misophonia among those with
+OCPDsymptoms.
+Schröder et al. (2013) also suggest that misophonia be
+consideredasadiscretepsychiatricdisorder.However,ther esults
+from their study do not clearly point to misophonia being a
+featureofanyonepsychiatricdisorder.Indeed,limitations tothe
+designofthisstudyprecludeconclusionsabouttheclassiﬁca tion
+of misophonia as a discrete psychiatric disorder. Additional
+research is needed using, for example, larger and more diverse
+samples with rigorous methods of assessment and data analysis
+before it is reasonable to conclude that misophonia is best
+classiﬁedasadiscretepsychiatricdisorder.
+An additional consideration from Schröder et al. (2013) is
+the possible co-occurrence between misophonia and sensory
+over-responsivity, a syndromal subtype of sensory processing
+disorder (SPD). In noting the possible relationship between
+misophonia and SPD, the authors state that typical auditory
+sensitivity in SPD is only in response to loud and unexpected
+noises. However, research on sensory over-responsive childr en
+has not diﬀerentiated between loud or softer/patterned noises3.
+3OnmanyoftheSPD/SORscalesthereareitemsthatincludebothloudno isesand
+repetitivenoises(seeSPDfoundation.net).
+Frontiers in Neuroscience | www.frontiersin.org 5 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+Therefore, associations between these two conditions warr ants
+further exploration. More generally, results from Schröder
+et al. (2013) raise important questions about the expected co-
+occurrence between misophonia and other conditions. Indeed ,
+the ﬁndings from this study help pave the way for future studie s
+toinvestigateandfurthercharacterizingtherelationshi pbetween
+misophoniaandpsychiatricdisorders.
+In another study, Wu et al. (2014) investigated the
+incidence, phenomenology, correlates, and level of impairme nt
+associated with misophonia symptoms in 483 undergraduate
+students through self-report measures. In this sample, nearly
+20% of participants reported clinically signiﬁcant misophonic
+symptoms,asmeasuredbytheMisophoniaQuestionnaire(MQ),
+a newly developed self-report inventory. Psychometric data
+suggest that the measure had high internal consistency, and
+preliminary convergent validity was reported by a signiﬁcant
+correlation( r=0.50)betweenmisophoniasymptomsandaself-
+report item assessing auditory over-responsivity from the Ad ult
+SensoryQuestionnaire( KinnealeyandOliver,2002 ).Preliminary
+divergentvaliditywasreported,asmisophoniasymptomsonthe
+MQ were signiﬁcantly positively correlated with sensory over -
+responsivity across other sensory domains (e.g., olfactory ,r=
+0.28; tactile, r=0.34; visual, r=0.33). In addition, higher
+symptoms on the MQ were positively correlated with measures
+of general life impairment and were moderately associated
+with obsessive-compulsive ( r=0.47), anxiety ( r=0.39),
+and depressive ( r=0.30) symptoms. The authors report that
+the positive correlations between misophonia symptoms and
+sensorysensitivitiesmayindicatethatmisophoniasymptoms are
+associated with a more general defensive motivational respo nse
+acrosssensorysystems.
+In addition, the authors report that anxiety mediated the
+relationship between misophonia and anger outbursts4. This
+mediational ﬁnding, though preliminary and based on cross-
+sectional data, raises the possibility that the self-reporte d
+tendency to respond with anger may be a function of the
+magnitude of anxiety elicited by trigger cues. In other word s,
+the experience and expression of anger may be a secondary
+emotional response following the elicitation of acute anxie ty
+stemmingfromcentraldefensivemotivationalsystemrespon ses.
+To replicate and extend the mediational ﬁndings in Wu et al.
+(2014)future studies using prospective measurement should
+elucidatethedynamicunfoldingovertimeofaﬀectivestates and
+behavioralresponseselicitedbymisophonictriggers.Limit ations
+tothisstudynotwithstanding(e.g.,fewmaleparticipants,r eliance
+on self-report measures, use of undergraduates, preliminary
+validityandreliabilitydata),resultsfrom Wuetal.(2014) provide
+initialpsychometricdatafortheMQasanappropriateself-report
+measureofmisophoniasymptoms.
+In a recent replication and extension of Wu et al. (2014) ,
+Zhou et al. (2017) used the MQ to explore the relationship
+between misophonia and psychopathology in a sample of
+Chinese college students. Consistent with Wu et al. (2014) ,
+4Notably, studies that include the relationship of SOR and anxiet y (Ben-Sasson
+et al., 2009b, 2010; Lane et al., 2010, 2012 ) may inform how anxiety mediates
+misophoniaingeneralandinregardtoangeroutbursts.17% of the sample ( N=415) reported misophonia symptoms
+caused clinically signiﬁcant impairment in their daily live s.
+Higher MQ scores were signiﬁcantly positively correlated with
+symptoms of anxiety, depression, and OCD. This suggests
+misophonia is not uniquely associated with anxiety, depressio n,
+or OCD per se, but may instead be more generally correlated
+with higher levels of psychological distress. Additionally, h igher
+MQ scores were signiﬁcantly positively correlated with general
+sensory defensiveness (i.e., over-responsivity) across vi sual,
+tactile, olfactory, and auditory sensory domains. This sugge sts
+that misophonia symptoms may be related to sensory over-
+responsivity in general, and not to auditory over-responsivit y
+speciﬁcally.
+In another recent study, Dozier and Robinson (2017)
+explored self-reported responses to misophonic cues presented
+via teleconferencing technology to a sample of 27 adults.
+Participants self-reported emotional responses and associat ed
+behavioral response tendencies to trigger sounds, includin g but
+not limited to clenching of the hands, jaw, shoulders, and ch est.
+Most participants self-reported feeling anxiety (92.3%) or ange r
+(92.3%), with approximately half indicating a desire to escape
+(53.8%) from the trigger sounds and a disgust (46.2%) response.
+Based on their ﬁndings, the authors suggest that misophonia
+symptoms are conditioned physical and emotional responses. In
+the absence of any experimental research on misophonia using
+conditioning paradigms, however, it is too early to make such a
+conclusion. Indeed, the role of conditioning and learning i n the
+etiologyandmaintenanceofmisophonianeedstobeelucidated .
+Despitethelimitationsofasmallsamplesize,lackofacontro l
+group, lack of psychiatric or clinical interviews, and the absen ce
+of rigorously controlled experimental conditions, this stu dy
+helps informs the conceptualization of misophonia in several
+ways. For example, these ﬁndings provide empirical evidence
+that emotional responses to triggers cues are likely to includ e
+both subjective aﬀective states and associated behavioral u rges.
+Additionally, this study highlights the complexity of aﬀecti ve
+responses to misophonic cues, suggesting that the condition
+may not be only or best characterized by anger. Although
+more research is needed, one hypothesis is that activation
+of defensive motivational systems, which mediate behavior
+(e.g., ﬁght-ﬂight response) and aﬀective states, more genera lly
+characterize misophonia than any one speciﬁc subjectively
+experiencedaﬀectivestate.
+Rouw and Erfanian (2017) used an online recruitment
+approach to survey over 300 participants reporting misophonic
+complaints. Participants responded to questionnaire items
+assessing family and respondent history of misophonia,
+development of misophonia symptoms, and common responses
+to trigger sounds. Results revealed a pattern in the developmen t
+of misophonia, with symptoms starting in childhood/early
+adulthood and increasing in intensity with repeated exposure t o
+triggers. Approximately one third of the participants reported
+family members with misophonic symptoms. This ﬁnding
+underscores the need for research evaluating the environme ntal
+and genetic correlates of misophonia. In addition, there was
+diversity in the nature and intensity of misophonia symptoms,
+including heterogeneity in self-reported emotional, physical
+Frontiers in Neuroscience | www.frontiersin.org 6 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+and cognitive responses to triggering stimuli. This suggest s
+the possibility of individual diﬀerences in the underlying
+mechanismsofmisophonicresponses.
+Half of the participants reported presence of autonomous
+sensorymeridianresponsescharacterizedby“euphoric,rela xing,
+and tingling sensations with particular sounds or sights”. T his
+is particularly interesting in the light of recent ﬁndings by
+Kumaretal.(2017) reportingatypicalperceptionofinternalbody
+states in misophonia. Additionally, half of the participants i n
+thisstudyreportedmisophoniccomplaintswithoutcomorbidit y
+with another condition. The other half reported having a
+variety of psychiatric conditions. Only one clinical condit ion
+showedarelationshiptomisophonia:theseverityofmisophon ic
+complaintswerestrongeriftheparticipantsalsoreportedhavi ng
+adiagnosisofpost-traumaticstressdisorder(PTSD).
+Because there was no clear pattern of misophonia co-
+occurring with any psychiatric disorder across participants,
+the authors concluded that misophonia is a unique and
+independentcondition.However,itisimportanttohighlight that
+limitations in the study design (i.e., self-report via onlin e data
+collection) precluded the collection of diagnostic informa tion
+using structured interviews. In order for clearer conclusi ons
+to be made about the relationship between misophonia and
+psychiatric disorders, it is necessary to conduct research
+using psychometrically validated interview-based measure s of
+psychiatricdisorders.
+McKayetal.(2017) alsorecentlyinvestigatedtherelationship
+between misophonia and psychopathology in a large sample
+usinganonlinerecruitmentapproach.Inthisstudy,participan ts
+with(n=121)andwithout( n=507)highlevelsofmisophonia
+symptoms completed self-report instruments assessing clinic al
+features related to OCD, GAD, body perception, anxiety
+sensitivity, distress tolerance, depression, dissociatio n, anger,
+behavioralinhibition/activation,andanxiety.
+Using a multi-dimensional scaling approach, the authors
+reported obtaining a proﬁle of clinical features that signiﬁc antly
+accounted for 11% of the variance between those with and
+without high misophonia symptoms. This proﬁle broadly was
+characterized by higher scores across most of the measures o f
+psychopathology. More speciﬁcally, however, harm avoidance
+andorderingOCDsymptomswererelatedtohighermisophonia
+symptoms, whereas neutralizing, obsessions, and washing OC D
+symptoms were associated with lower misophonia symptoms.
+In addition, most the variance (70%) in the diﬀerences between
+groups with and without high symptoms of misophonia could
+not be attributed to any measures of psychopathology. This
+pattern of results suggests that misophonia may not be uniquely
+relatedtoOCD,ortoanyspeciﬁcpsychiatricdisorder.
+Overall, results from studies using self-report measures
+collectively indicate that misophonia symptoms (a) can be
+measured using self-report instruments, (b) vary in phenotypi c
+expression across individuals, and (b) do not appear to co-occu r
+with any one speciﬁc psychiatric disorder. Misophonia has been
+observed across a wide variety of disorders (e.g., PTSD, OCP D),
+raising the question of whether it is a separate and unique
+condition. Similarly, ﬁndings across multiple studies usin g self-
+reportmethodsconvergetosuggestthatmisophoniaiscorrela tedwith higher psychological distress and psychopathology in
+general, but is not associated with any one speciﬁc disorder per
+se. The research to date is beginning to point to the possibility
+that there are clear and distinct characteristics which may s et
+misophoniaapartfrompsychiatricdisorders.However,theexac t
+natureofwhatcharacterizesmisophoniasymptomsdiﬀerentially
+from existing psychiatric conditions remains unknown. Inde ed,
+the studies described above using self-report suﬀer from
+limitations (e.g., self-report biases) shared by all studie s using
+questionnaires and not using random sampling. Replication
+studiesandlargerstudiesusingstructuredpsychiatricdia gnostic
+interviews will help to clarify whether and to what extent
+misophonia may be correlated with other psychiatric disorders ,
+andwhethertherearesymptomsdiﬀerentiatingmisophoniabest
+fromotherdisorders.
+CROSS-DISCIPLINARY PERSPECTIVES
+Beyond studies with a primary aim of investigating misophonia,
+other bodies of research can be drawn upon that may oﬀer
+important insights. In particular, research examining audit ory
+gating, sensory processing, and neural processes underlying
+these can add to a foundation for the cross-disciplinary
+conceptualization of misophonia. Although a comprehensive
+review of all potential bodies of research that may contribut e to
+multidisciplinaryconceptualizationofmisophoniaisbeyondt he
+scope of this paper, we review these distinct areas, with some
+speciﬁcstudyexamples.
+AUDITORY GATING AND SENSORY OVER
+RESPONSIVITY
+Previous research has been conducted with children and adul ts
+who have diﬃculty modulating sensory stimuli in a graded
+manner ( Brown et al., 2001; Kisley et al., 2004; Davies and
+Gavin, 2007; Gavin et al., 2011 ). The sensory gating response is
+the brain’s capacity to selectively regulate sensitivity to s ensory
+stimuli (Yadon et al., 2009 ), and individuals gating impairments
+speciﬁc to the auditory modality have been studied across
+various samples ( Jeste and Nelson, 2009 ). Examples include
+children and adults with autism spectrum disorder ( Perry et al.,
+2007), SPD (Green and Ben-Sasson, 2010 ) and schizophrenia
+(McCarley et al., 1991; Brockhaus-Dumke et al., 2008 ). Previous
+research in this area consistently shows abnormal informat ion
+processing, measured in terms of early ERP5components in
+the sensory cortex ( Brett-Green et al., 2010 ). These results are
+consistentwiththosefrom Schröderetal.(2014) ,andsuggestthat
+atypical sensory processing may be observed among adults with
+misophoniaandchildrenwithsensorymodulationimpairments.
+In addition, children characterized by heightened sensory
+over-responsivity have demonstrated an increased number,
+frequency and higher magnitude of SCR responses to sensory
+cuesacrosssensorydomains,aswellasslowerratesofhabitu ation
+5ERP (event related potential) refers to positive and negative volta ge ﬂuctuations
+ofthebraininresponsetostimuliasmeasuredbyanelectroencephalogram (EEG).
+Frontiers in Neuroscience | www.frontiersin.org 7 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+to such cues compared to typically developing control children
+(McIntosh et al., 1999 ). Sensory over-responsive children also
+demonstrate greater levels of baseline arousal and higher
+reactivity in response to various types of sensory stimuli tha n
+childrenwithautismspectrumdisorders,althoughchildren with
+autismhavelowerbaselinearousal( Schoenetal.,2009 ).
+Whereas SPD, likemisophonia, is not delineatedas a discrete
+DSM-5 disorder or ICD-10 condition, and has commonly
+received attention in the ﬁeld of occupational therapy, audit ory
+sensory over-responsivity shares some similar phenotypic
+signs and symptoms to those expressed by individuals with
+misophonia.
+In addition, when one considers that many individuals with
+misophonia also report visual sensitivity to movement, it is
+appropriatetolookatstudiesrelatedtosensoryover-responsi vity
+across sensory domains in an eﬀort to develop hypotheses about
+possible mechanisms underlying misophonia. Accordingly, it
+is reasonable and appropriate to consider the research on
+sensory over-responsivity as part of a broadly construed cross -
+disciplinaryaccountofmisophonia.
+More speciﬁcally, although both Schröder and colleagues’
+work (Schröder et al., 2013 ) as well as studies of children with
+SPD (Davies and Gavin, 2007 ) demonstrate commonalities in
+auditory gating deﬁcits, these comparisons should be made
+somewhat tentatively, as the sensory processing studies did not
+parse out responsivity to loud vs. soft/pattern based auditory
+stimuli, and misophonia studies have not deconstructed the
+complexmisophonictriggersounds,norsampledthispopulation
+in large enough studies to determine how much aversive sound s
+vary from one individual to another. In view of these studies
+that relate to auditory gating, it is logical when returning to
+the Jastreboﬀs’ ( Jastreboﬀ and Jastreboﬀ, 2001 ) original theory
+of misophonia as related to pattern-based sounds, to include
+repetitionofauditorystimuliasapossiblesoundrelatedvar iable
+associated with lack of habituation to trigger sounds and/o r to
+consider individual diﬀerences with regard to auditory gati ng
+(or overall habituation) as a potential factor reactivity to speciﬁc
+sounds.
+Studies examining noise sensitivity (NS) and their neural
+basis oﬀer another cross-disciplinary avenue that may inform
+misophonia. In the context of NS, noise is any unwanted sound
+and the degree of aversive reaction to it deﬁnes NS. The avers ive
+reaction in NS does not depend on the loudness of sound and
+in that sense shares a similarity with misophonia. A few studi es
+in recent years have examined the neural basis of NS. Kliuchko
+etal.(2016) measuredmulti-featuremismatchnegativity(MMN)
+along with evoked responses by the sound onsets. They found
+that magnitude of P1 response was smaller in subjects with
+higher NS reﬂecting that representation of sound in the centr al
+auditory system was compromised in NS individuals. This bears
+some resemblance to a study in misophonia by Schröder et al.
+(2014)whofoundthatmagnitudeofN1peakinmisophonicswas
+smaller than that in controls, which also is suggestive of so und
+encodingdeﬁcitsinmisophonia.
+Kliuchko et al. (2016) suggest that the relatively recent
+concept in perception called predictive coding (PC; Pelt et al.,
+2016) could be oﬀered as a theoretical explanation for theirresults. In PC, the brain generates hypotheses or a model base d
+on expectations and predictions about what sensory stimuli
+are likely to be experienced ( Seth, 2013 ). The hypotheses are
+continually processed and updated based on new information.
+Combining both top-down and bottom up neural processes,
+sensory stimuli are matched against the predictions; when the
+incoming information matches predictions, the prediction err or
+is small, and when they do not match, error is high. It is
+possiblethatindividualswithhighNS(andthus,highuncertai nty
+regarding sensory expectations) have impairments in the top-
+down encoding of sound features and, accordingly, diﬃculti es
+predicting incoming sensory information. Thus, a low MMN
+responseforparticipantswithhighNSisconsideredtobeahigh
+predictionerror,andaneuralmarkerofthisphenomenoncould
+beasuppressedP1response( Friston,2005;Stefanicsetal.,2014 ).
+By turning to this literature, studies examining responses t o
+misophonictriggersoundsmayinvestigatehypothesesassoci ated
+withthemechanismsunderlyingNS.
+In a more recent study ( Kliuchko et al., 2017 ), gray matter
+volumewasmeasuredinanumberofsensory(e.g.,Heschlgyrus ,
+planum temporale) and emotion processing related areas (e.g.,
+anterior insula, amygdala). Interestingly, a positive corre lation
+between the volume and NS was measured in anterior insula, a
+region which has been shown to play a key role in misophonia
+(Kumar et al., 2017 ). Further collaborative work between the
+researchers studying misophonia and NS would be helpful to
+understand the similarities and diﬀerences between the two
+phenomena.
+NETWORK LEVEL APPLICATIONS TO
+MISOPHONIA
+The conceptual framework of network level neural models
+may be useful in the development of a model specifying
+candidate neural mechanisms of misophonia. This approach
+emphasizes the understanding of basic brain processes at the
+networklevel( BresslerandMenon,2010 ).Usinganetworklevel
+approach permits testable hypotheses about multiple spatially
+separatedbrainregionsworkinginanintegratedandcoordin ated
+manner. Although most of our understanding of how the brain
+implements perception, cognition and emotion processing is
+based on the assumption of assigning a unique role to each
+region of the brain, there is a growing realization that this
+approach is not fruitful in understanding brain function, as a
+given brain area can be involved in multiple functions. Instead,
+it has been proposed that functions of the brain should be
+understood at the network level ( Bressler and Menon, 2010 ). At
+this level a number spatially separated brain regions coordin ate
+and integrate to implement a function. In order to pinpoint
+the neural mechanisms behind misophonia, it will not be
+suﬃcienttodeterminewhichbrainareasareabnormallyacti vein
+misophonia, but also to understand how those brain areas work
+atanetworklevel.
+Speciﬁcally applied to misophonia, a network modeling
+approach may be used to elucidate underlying functional
+connectivity and neural pathways with impaired functioning
+Frontiers in Neuroscience | www.frontiersin.org 8 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+across disparate regions of the brain. Kumar et al. (2012)
+demonstrated the neural representation of aversive, salien t
+sounds perceived as unpleasant. Speciﬁcally, using functiona l
+magnetic resonance imaging fMRI. Kumar et al. (2012) revealed
+brain responses in the amygdala and the auditory cortex while
+listening to unpleasant sounds. Interestingly, this study r evealed
+that the amygdala encodes information concerning the valen ce
+and acoustic features of sounds, and that these characteris tics
+modulate the functional connectivity between the amygdala and
+auditorycortex.Thishasrelevancetomisophoniaasitpoints toa
+potential mechanism via which the auditory cortex may become
+hyperactive in misophonia, possibly accounting for abnormal
+perceptual responses in those with misophonia. That is, it is
+possible that the parts of the brain which extract salience fro m
+(or assign negative or positive valence to) sounds may respond
+abnormally to the typical misophonia trigger sounds. A high
+level of salience and negative valence may then modulate the
+activity of sensory (auditory) cortex. In addition, neural circuits
+coordinating defensive motivation systems, including emo tional
+processing(e.g.,amygdala,insula,etc.)alsolikelyareac tivatedas
+partabroadercascadeofneurobehavioralresponses.
+SUGGESTIONS FOR A RESEARCH
+AGENDA
+In order to advance a scientiﬁc understanding of misophonia
+that also can be understood by the public and those who suﬀer
+from misophonia, it is important to use clear and consistent
+terminology. For example, although misophonia translates to
+“hatred of sound,” the phenotype of this syndrome does not
+appeartobelimitedtotheexperienceand/orexpressionofanger
+alone. Indeed, the original conceptualization by Jastreboﬀ and
+Jastreboﬀ (2001) was one of decreased sound tolerance in which
+subconscious connections between auditory and emotional
+stimuli elicit misophonia symptoms maintained by principles
+and processes governing conditioning (e.g., associative le arning
+and memory). From this perspective, conditioned responses
+may vary across individuals and contexts. One implication of
+this model is that anger is not a required aﬀective response in
+misophonia. An important gap in the existing research is the
+need to precisely characterize the nature and dynamic tempora l
+unfolding of aﬀective, cognitive, and behavioral responses t o
+misophonictriggers.
+Research also could beneﬁt from improved clarity and
+consistencyinterminologyinthedescriptionofneuralproce sses
+associated with misophonia. For example, the term “limbic
+system” has been used to describe the central region responsi ble
+for mediating emotional responses in those with misophonia.
+However,thismaybeanoverlysimplisticexplanationthatisn ot
+well justiﬁed in light of contemporary aﬀective neuroscienti ﬁc
+research demonstrating the importance of models using varied
+and integrated processes across multiple areas of the brain. P ut
+diﬀerently, and in the context of network level neural models,
+emotional processes take place in many areas and on many
+levelswithinthebrain. LeDoux(2015) ,forexample,describesan
+emotionasanelusiveaggregateofmanysystemsandfunction sinthenervoussystemthatinvolvebothconsciousandunconsci ous
+(older and newer) brain structures. This is relevant both to
+the conceptualization of misophonia both diagnostically and in
+regard to how individuals with this form of decreased sound
+toleranceformattributionsabouttheirmisophonicresponses.
+Since we do not have suﬃcient evidence to make conclusions
+about the role of genetics in misophonia, or to ﬁrmly
+concludehowthisconditiondevelopsinregardstocondition ing
+and associated neurobiological processes, we suggest avoid ing
+language suggestive of a false dichotomy between nature and
+nurture. Describing disorders as “genetic” vs. “condition ed”
+gives way to a potentially false dichotomy that aﬀects both
+diagnosisandtreatment.Putdiﬀerently,misophoniaisacomple x
+neurophysiological phenomenon. There are no scientiﬁc data
+to support claims that it is speciﬁcally the result of any
+single etiological factor or process. Because attention, lea rning,
+memory,emotion,cognition,andotherbasicprocessesgerma ne
+to misophonia all are grounded in basic biological processes
+andinﬂuencedbyenvironmentalfactors,thedistinctionbet ween
+natureandnurtureisnotwarranted.
+There are several key areas of research needed to rapidly
+advanceascientiﬁcunderstandingofthiscomplexphenomenon .
+Chief among these needs are studies that add critical data to
+characterize the public health signiﬁcance of misophonia. For
+example, it is important to gain a more precise understanding
+of the clinical symptoms and features that occur among
+those who report impairment in functioning associated with
+misophonia. Case studies and preliminary research have begun
+to address this need, though such studies have used samples
+of limited size ( Schröder et al., 2014 ) and generalizability
+(Wu et al., 2014 ). Empirical research is needed to clarify
+whether,forexample,misophoniaisaconstellationofsymptoms
+that can be classiﬁed categorically and discriminated from
+other related conditions and syndromes. Some researchers
+have suggested that because misophonia symptoms have not
+been found to correlate speciﬁcally with any single psychiatr ic
+disorder, perhaps misophonia should be conceptualized among
+a class of psychiatric disorders or as a discrete psychiatric
+disorder ( Schröder et al., 2014 ). However, as has been noted
+by others ( Taylor, 2017 ), we believe that there is inadequate
+scientiﬁc research to warrant clear conclusions about the ex act
+nature of misophonia as a psychiatric disorder. Although the
+existing research does suggest that misophonia may not be
+better explained by an existing psychiatric disorder, whether
+misophonia is best classiﬁed as a discrete disorder or whether
+it is a syndrome that co-occurs with OCDs, personality
+disorders,anxietydisorders,orotherpsychiatricdisorder swillbe
+determinedthroughsystematicresearchusingmultiplemethod s
+and measures. Until this occurs, it is suggested that conclus ions
+from individual studies about how to classify misophonia be
+clearly identiﬁed as preliminary and used as hypotheses to test
+usingrigorousresearchmethods.
+In addition, as part of investigating whether misophonia
+is best understood empirically as a categorical or dimension al
+phenotype,advancementsareneededintheself-reportmeasure s
+used to collect information from patients. To date, there are
+several instruments that have been developed speciﬁcally for the
+Frontiers in Neuroscience | www.frontiersin.org 9 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+studyofmisophonia(e.g.,MQ)( Wuetal.,2014 ).Aspreliminary
+self-report inventories, these measures oﬀer value as they ha ve
+helped to begin characterizing the symptoms of misophonia.
+However, in order for the etiology, maintenance, and treatm ent
+of misophonia to be characterized rigorously using scientiﬁ c
+methods,additionalresearchusingprospectivemethodologi esis
+neededtofurthervalidateself-reportinventories.
+As self-report measures of misophonia symptoms continue
+to be developed and reﬁned, epidemiologic studies exploring
+the prevalence and incidence of misophonia will need to be
+conducted. Such research will help to elucidate (a) the exte nt
+to which varying levels of misophonia symptom severity can
+be expected to occur in the general population, (b) normative
+diﬀerences in misophonia symptoms across age sex, gender, and
+other demographic factors, and (c) population level estimates of
+the developmental, medical, and psychiatric factors associa ted
+with misophonia. In addition, prospective epidemiologic studi es
+would permit inferences about the relative contributions of
+genetic and environmental inﬂuences on the expression and
+developmentofmisophoniaovertime.
+In order to elucidate the neurophysiological mechanisms
+underlying misophonia, highly rigorous controlled researc h
+needs to be conducted using objective laboratory measures
+and appropriately powered sample sizes. As detailed above,
+preliminaryresearchhasinvestigatedmisophoniausingaﬀect ive
+and cognitive neuroscience methods. The work done by Kumar
+et al. (2012, 2017) andSchröder et al. (2014) , for example, oﬀers
+importantinsightsintowhichneuralsystemsareactivatedw hen
+misophonicshearcertaintriggersounds.Outsidethemisopho nia
+literature, extensive research has been conducted in anima l
+and human studies to characterize the primary and secondary
+nervoussystemstructures,functions,andfunctionalconn ectivity
+governing defensive motivational responses to aversive aud itory
+stimuli. We recommend that research with the primary aim of
+investigating the neural underpinnings of misophonia (a) be
+groundedinatheoreticalframeworkoﬀeringtestablehypothe ses
+and (b) leverage previous research exploring systems subserv ing
+sensory processing, emotional reactivity, and the regulati on
+of emotional arousal in clinical samples of individuals with
+heightenedanxiousarousal.Itisessentialthataudiologi sts,basic
+scientists and behavioral health researchers work togethe r in a
+cross-disciplinary manner using team-based science. This h as
+thepotentialtomorerapidlyidentifydiscoverieswithnear- term
+clinical signiﬁcance than would occur if researchers use a m ore
+siloedmodelwithnarrowconceptualizationsofmisophoniaas a
+phenomenonpertinenttoonedisciplineortheoreticalmodel.
+Finally,thesoundsthatpeoplewithmisophoniaﬁndaversive
+should be studied in great depth. This includes amplitude
+(loudness), pitch (or frequency of sound waves), and duratio n
+(time interval), and timber (a combination of frequency
+modulation, the rates of change in amplitude, and elements of
+harmony).Abetterunderstandingofthespeciﬁcsoundfeatur es,
+including studies of reactivity when sounds are presented in a
+bimodalandunimodalmanner(soundwithoutvisualsvs.soun d
+with visuals) as in the Edelstein et al. (2013) study, would be
+an important next step in research. Studying sound features
+and relating them to diﬀerent kinds of auditory processing, aswell as visual/auditory integrative processing, will bette r inform
+the research related to reactivity, and help to deﬁne both th e
+population and the disorder. Following this line of research
+in a logical order, rather than ﬁrst comparing misophonia to
+other disorders at a time in which science still redeﬁnes brai n
+functioning and the nature of psychiatric and neurological
+disorders,wouldlikelybemoreprudent.
+CLINICAL CONSIDERATIONS
+To date, no randomized controlled trials evaluating treatm ents
+formisophoniahavebeenpublished.Casestudies(e.g., Bernstein
+et al., 2013; Webber et al., 2014; McGuire et al., 2015; Schne ider
+and Arch, 2017 ) and an uncontrolled clinical trial ( Schröder
+et al., 2017 ) using cognitive and behavioral interventions have
+been reported. There are no published studies reporting the
+eﬀects of pharmacological treatments. In the absence of any
+empirically supported treatments for misophonia, how can
+healthcareprovidersprovidecaretoindividualswhoaresuﬀer ing
+with these symptoms? We believe there are several reasonable
+approachesthatclinicianscantakewhenapproachedbypatients
+orprovidersaboutinterventionsformisophonia.First,provid ers
+need to ethically characterize the state of empirical resear ch
+on treatments to patients. As an example, it is recommended
+that providers inform patients that there are few assessment
+measures to quantify misophonia symptoms, a lack of clarity in
+the etiology of misophonia, and no known treatments shown
+to work in controlled randomized trials. Second, providers ca n
+educate patients about the uncertainty with regard to how
+to categorize misophonia. It is inappropriate at this point,
+in the absence of suﬃcient research, to deﬁne misophonia
+as a psychiatric disorder. Similarly, despite the preliminary
+research identifying psychiatric diagnostic correlates, it remains
+speculative to describe misophonia as a feature or co-occurri ng
+syndrome related to any speciﬁc psychiatric disorder or class of
+disorders.
+Without empirical support to characterize the treatment of
+misophonia, a third clinical consideration is that providers
+adopt a multi-disciplinary approach to the assessment and
+intervention of misophonia and co-occurring physical and
+behavioral health problems ( Meltzer and Herzfeld, 2014 ). Such
+an approach would beneﬁt from being individualized, such
+that each patient’s unique history and symptoms be carefully
+considered by professionals across appropriate ﬁelds, such as
+neurology, audiology, occupational therapy, neuropsycholog y,
+psychiatry, and clinical psychology. Further, it is recommen ded
+that such a multi-disciplinary approach utilize a team-based
+approach with a shared electronic medical record and regular
+team meetings. This general framework can be described as a
+multi-disciplinarymisophoniacaremanagementmodel.
+Using a team-based management model, care pathways for
+misophonia can be delineated and individualized such that, fo r
+example, patients with co-occurring neurological condition s
+may receive appropriate care concurrent with care these same
+individuals might receive from a psychologist using behavioral
+methods to improve response patterns to misophonic triggers.
+Frontiers in Neuroscience | www.frontiersin.org 10 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+Alternately, as a diﬀerent example, a higher functioning
+patient with misophonia and co-occurring generalized
+sensory over-responsivity could receive sensory integrati on
+interventions with supportive counseling and education from
+an occupational therapist. For that patient, a psychiatric or
+psychological intervention may not be needed. However,
+for some patients with more severe misophonia, the care
+pathway might include neuropsychological testing, occupatio nal
+therapy, psychotropic medication, and/or empirically supported
+behavioral interventions shown to help reduce anxiety, ang er, or
+otheroutcomes.
+For patients with functional impairments and psychological
+distress associated with misophonia, it is recommended that
+the multi-disciplinary care pathway provide coping skills for
+patients to learn to prevent and respond more eﬀectively to
+their symptoms. Contemporary cognitive behavioral therapies
+oﬀer empirically supported principles of change that, although
+not tested directly for misophonia in controlled clinical tr ials,
+may be considered as reasonable strategies to use in a
+copingskills-basedapproach.Examplesincludeacceptance-[e. g.,
+mindfulness, cognitive defuse ( Hayes et al., 1999; Kabat-Zinn,
+2009);distresstoleranceskills( Linehan,2015 )andchange-based
+behavioral(e.g.,interpersonalskills)andcognitive(e.g .,cognitive
+reappraisal) interventions]. However, these skills utilize d in
+isolation may not be enough. Family counseling, practical
+strategies for knowing when and when not to avoid stimuli,
+as well as individually-driven methods for down-regulatin g the
+nervoussystemshouldalsobeincluded.
+Clinicalguidelinesforthemanagementofmisophoniashould
+emphasize the use of coping skills grounded in empiricallysupported principles of change, as there is no evidence-based
+behavioralorpharmacologicaltreatmentshowntobeeﬃcacio us
+for misophonia. While the study of misophonia is beginning, a
+clinician would be remiss to claim that any particular treatme nt
+is “standard” or “tested” or validated. However, this populat ion
+includes suﬀerers, including children and adults, and we
+recommend that coping skills used to manage misophonia
+be derived across disciplines such as psychology, psychiatry,
+audiology, occupational therapy and neurology. Clinicians f rom
+each discipline can work together in cross-disciplinary team s to
+implementindividualizedcopingskillsplansforclients/patient s.
+Using this approach, we recommend that clinicians from
+unique disciplines and training backgrounds work together t o
+educate each other about the neurophysiological, emotional,
+cognitive, and behavior manifestations of misophonia. Throu gh
+a collaborative and team-based model, clinical interventio ns
+and treatment plans can be thoughtfully tailored to each
+individual, with empirically supported principles of change
+(i.e., cognitive, emotional, behavioral, physiological) use d until
+treatmentsshowntoworkthroughrigorousscientiﬁctestin gare
+developed.
+AUTHOR CONTRIBUTIONS
+All author contributed to the intellectual development and
+writing of this manuscript. JB and MR conceptualized, wrote,
+revised, and synthesized revisions of this manuscript. LM, RR,
+SK, MEr, MEd, MM wrote sections and helped with revisions of
+themanuscript.
+REFERENCES
+American Psychiatric Association (2013). Diagnostic and Statistical Manual of
+MentalDisorders,5thEdn .Arlington,VA:AmericanPsychiatricPublishing.
+Attias,J.,Bleich,A.,Furman,V.,andZinger,Y.(1996).Event -relatedpotentialsin
+post-traumatic stress disorder of combat origin. Biol. Psychiatry 40, 373–381.
+doi:10.1016/0006-3223(95)00419-X
+Baguley, D. M., and McFerran, D. J. (2011). “Hyperacusis and disorde rs of
+loudness perception,” in Textbook of Tinnitus , eds A. R. Møller, B. Langguth,
+D.DeRidder,andT.Kleinjung(NewYork,NY:Springer),13–23.
+Baguley, J. (2016). Outsourcing Clinical Development: Strategies for Working w ith
+CROsandOtherPartners .NewYork,NY:CRCPress.
+Ben-Sasson, A., Carter, A. S., and Briggs-Gowan, M. J. (2009b) . Sensory over-
+responsivity in elementary school: prevalence and social-emotional co rrelates.
+J.Abnorm.ChildPsychol. 37,705–716.doi:10.1007/s10802-008-9295-8
+Ben-Sasson,A.,Carter,A.S.,andBriggs-Gowan,M.J.(2010). Thedevelopmentof
+sensoryover-responsivityfrominfancytoelementaryschool. J.Abnorm.Child
+Psychol.38,1193–1202.doi:10.1007/s10802-010-9435-9
+Ben-Sasson, A., Hen, L., Fluss, R., Cermak, S. A., Engel-Yeger, B. , and
+Gal, E. (2009a). A meta-analysis of sensory modulation symptoms in
+individuals with autism spectrum disorders. J. Autism Dev. Disord. 39, 1-11.
+doi:10.1007/s10803-008-0593-3
+Bernstein, R. E., Angell, K. L., and Dehle, C. M. (2013). A brief cou rse
+of cognitive behavioural therapy for the treatment of misophonia: a
+case example. Cogn. Behav. Ther. 6:e10. doi: 10.1017/S1754470X130
+00172
+Brang, D., Hubbard, E. M., Coulson, S., Huang, M., and Ramachandran,
+V. S. (2010). Magnetoencephalography reveals early activationof V4 in grapheme-color synesthesia. Neuroimage 53, 268–274.
+doi:10.1016/j.neuroimage.2010.06.008
+Brang, D., Rouw, R., Ramachandran, V. S., and Coulson, S. (2011). Similarly
+shaped letters evoke similar colors in grapheme–color synesthesia.
+Neuropsychologia 49,1355–1358.doi:10.1016/j.neuropsychologia.2011.01.00 2
+Bressler, S. L., and Menon, V. (2010). Large-scale brain networks in cognition:
+emerging methods and principles. Trends Cogn. Sci. 14, 277–290.
+doi:10.1016/j.tics.2010.04.004
+Brett-Green, B. A., Miller, L. J., Schoen, S. A., and Nielsen, D. M.
+(2010). An exploratory event-related potential study of multisensory
+integration in sensory over-responsive children. Brain Res. 1321, 67–77.
+doi:10.1016/j.brainres.2010.01.043
+Brockhaus-Dumke, A., Mueller, R., Faigle, U., and Klosterkoetter, J . (2008).
+Sensory gating revisited: relation between brain oscillations and auditory
+evoked potentials in schizophrenia. Schizophrenia Res. 99, 238–249.
+doi:10.1016/j.schres.2007.10.034
+Brown,C.,Tollefson,N.,Dunn,W.,Cromwell,R.,andFilion,D.(2001 ).Theadult
+sensory proﬁle: measuring patterns of sensory processing. Am. J. Occup. Ther.
+55,75–82.doi:10.5014/ajot.55.1.75
+Cabranes, J. A., Ancín, I., Santos, J. L., Sánchez-Morla, E., Ga rcía-Jiménez,
+M. A., Rodríguez-Moya, L., et al. (2013). P50 sensory gating is a trait
+marker of the bipolar spectrum. Eur. Neuropsychopharmacol. 23, 721-727.
+doi:10.1016/j.euroneuro.2012.06.008
+Cavanna, A. E., and Seri, S. (2015). Misophonia: current perspecti ves.
+Neuropsychiatr.Dis.Treat. 11,2117-2123.doi:10.2147/NDT.S81438
+Colizoli, O., Murre, J. M., and Rouw, R. (2013). A taste for words an d sounds: a
+caseoflexical-gustatoryandsound-gustatorysynesthesia. FrontPsychol .4:775.
+doi:10.3389/fpsyg.2013.00775
+Frontiers in Neuroscience | www.frontiersin.org 11 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+Danesh, A. A., and Kaf, W. A. (2012). DPOAEs and contralateral ac oustic
+stimulation and their link to sound hypersensitivity in children w ith autism.
+Int.J.Audiol. 51,345-352.doi:10.3109/14992027.2011.626202
+Davies, P. L., and Gavin, W. J. (2007). Validating the diagnos is of sensory
+processing disorders using EEG technology. Am. J. Occup. Ther. 61, 176-189.
+doi:10.5014/ajot.61.2.176
+Dozier, T. H. (2015). Etiology, composition, development and mainte nance of
+misophonia: a conditioned aversive reﬂex disorder. Psychol. Thought 30, 114-
+129.doi:10.5964/psyct.v8i1.132
+Dozier, T. H., and Robinson, K. L. (2017). Phenomenology of misoph onia:
+initial physical and emotional responses. Am. J. Psychol . 130, 431–438.
+doi:10.5406/amerjpsyc.130.4.0431
+Edelstein,M.,Brang,D.,Rouw,R.,andRamachandran,V.S.(2013 ).Misophonia:
+physiologicalinvestigationsandcasedescriptions. Front.Hum.Neurosci. 7:296.
+doi:10.3389/fnhum.2013.00296
+Ferreira, G. M., Harrison, B. J., and Fontenelle, L. F. (2013). Hatred of sounds:
+misophonicdisorderorjustanunderreportedpsychiatricsymptom? Ann.Clin.
+Psychiatry 25,271–274.
+Finsterwald, C., and Alberini, C. M. (2014). Stress and glucocortic oid
+receptor-dependent mechanisms in long-term memory: from adaptive
+responses to psychopathologies. Neurobiol. Learn. Mem. 112, 17–29.
+doi:10.1016/j.nlm.2013.09.017
+Friston, K. (2005). A theory of cortical responses. Philos. Trans. R. Soc. Lond. B
+Biol.Sci.360,815–836.doi:10.1098/rstb.2005.1622
+Gavin, W. J., Dotseth, A., Roush, K. K., Smith, C. A., Spain, H. D. , and Davies,
+P. L. (2011). Electroencephalography in children with and without se nsory
+processing disorders during auditory perception. Am. J. Occup. Ther. 65,
+370–377.doi:10.5014/ajot.2011.002055
+Green, S. A., and Ben-Sasson, A. (2010). Anxiety disorders and sensory
+over-responsivity in children with autism spectrum disorders: is
+there a causal relationship? J. Autism Dev. Disord. 40, 1495–1504.
+doi:10.1007/s10803-010-1007-x
+Hayes, S. C., Strosahl, K. D., and Wilson, K. G. (1999). Acceptance and
+Commitment Therapy: An Experiential Approach to Behavior Ch ange. New
+York,NY:GuilfordPress.
+Hazell,J.W.,andJastreboﬀ,P.J.(1990).Tinnitus.I:auditory mechanisms:amodel
+fortinnitusandhearingimpairment. J.Otolaryngol. 19,1–5.
+Jastreboﬀ, M. M., and Jastreboﬀ, P. J. (2001). Components of decre ased sound
+tolerance:hyperacusis,misophonia,phonophobia. ITHSNewsLett. 2,5–7.
+Jastreboﬀ, M. M., and Jastreboﬀ, P. J. (2002). Decreased sound t olerance
+and tinnitus retraining therapy (TRT). Aust. NZ J. Audiol. 24, 74-84.
+doi:10.1375/audi.24.2.74.31105
+Jastreboﬀ, P. J. (1990). Phantom auditory perception (tinnitus ):
+mechanisms of generation and perception. Neurosci. Res. 8, 221–254.
+doi:10.1016/0168-0102(90)90031-9
+Jastreboﬀ, P. J., Gray, W. C., and Gold, S. L. (1996). Neurophysiolo gical approach
+totinnituspatients. Otol.Neurotol. 17,236–240.
+Jastreboﬀ, P. J., and Jastreboﬀ, M. M. (2014). “Treatments for de creased sound
+tolerance (hyperacusis and misophonia),” in Seminars in Hearing , Vol. 35
+(NewYork,NY:ThiemeMedicalPublishers),105–120.
+Jeste, S. S., and Nelson, C. A. III. (2009). Event related potenti als in the
+understanding of autism spectrum disorders: an analytical revie w.J. Autism
+Dev.Disord. 39,495–510.doi:10.1007/s10803-008-0652-9
+Johnson,P.L.,Webber,T.A.,Wu,M.S.,Lewin,A.B.,Murphy,T. K.,andStorch,E.
+A.(2013).Whenselectiveaudiovisualstimulibecomeunbearable: acaseseries
+onpediatricmisophonia. Neuropsychiatry 3,569–575.doi:10.2217/npy.13.70
+Kabat-Zinn,J.(2009). FullCatastropheLiving:UsingtheWisdomofYourBodyand
+MindtoFaceStress,Pain,andIllness .NewYork,NY:Delta.
+Kinnealey, M., and Oliver, B. (2002). Adult Sensory Questionnaire . Unpublished
+raw data. Temple University, College of Allied Health Professionals,
+DepartmentofOccupationalTherapy3307.
+Kisley, M. A., Noecker, T. L., and Guinther, P. M. (2004). Compari son
+of sensory gating to mismatch negativity and self-reported perceptua l
+phenomena in healthy adults. Psychophysiology 41, 604–612.
+doi:10.1111/j.1469-8986.2004.00191.x
+Kliuchko, M., Heinonen-Guzejev, M., Vuust, P., Tervaniemi, M. , and Brattico, E.
+(2016).Awindowintothebrainmechanismsassociatedwithnois esensitivity.
+Sci.Rep.6:39236.doi:10.1038/srep39236Kliuchko, M., Puoliväli, T., Heinonen-Guzejev, M., Tervaniemi, M., Toiviainen,
+P., Sams, M. et al. (2017). Neuroanatomical substrate of noise sen sitivity.
+Neuroimage 167,309-315.doi:10.1016/j.neuroimage.2017.11.041
+Kluckow,H.,Telfer,J.,andAbraham,S.(2014).Shouldwescreenfor misophonia
+inpatientswitheatingdisorders?Areportofthreecases. Int.J.Eat.Disord. 47,
+558–561.doi:10.1002/eat.22245
+Kumar, S., Hancock, O. T., Sedley, W., Winston, J. S., Callaghan, M. F., Allen,
+M. et al. (2017). The brain basis for misophonia. Curr. Biol. 27, 527–533.
+doi:10.1016/j.cub.2016.12.048
+Kumar, S., von Kriegstein, K., Friston, K., and Griﬃths, T. D. (20 12).
+Features versus feelings: dissociable representations of the aco ustic
+features and valence of aversive sounds. J. Neurosci. 32, 14184–14192.
+doi:10.1523/JNEUROSCI.1759-12.2012
+Lane, S. J., Reynolds, S., and Dumenci, L. (2012). Sensory overres ponsivity and
+anxietyintypicallydevelopingchildrenandchildrenwithautismand attention
+deﬁcit hyperactivity disorder: cause or coexistence? Am. J. Occup. Ther. 66,
+595–603.doi:10.5014/ajot.2012.004523
+Lane, S. J., Reynolds, S., and Thacker, L. (2010). Sensory over -responsivity and
+ADHD: diﬀerentiating using electrodermal responses, cortisol, and an xiety.
+Front.Integr.Neurosci. 4:8.doi:10.3389/fnint.2010.00008
+LeDoux, J. (2015). Anxious: Using the Brain to Understand and Treat Fear and
+Anxiety.NewYork,NY:Penguin.
+Linehan, M. M. (2015). DBT Skills Training Manual . New York, NY: Guilford
+Publications.
+McCarley, R. W., Faux, S. F., Shenton, M. E., Nestor, P. G., and A dams, J.
+(1991). Event-related potentials in schizophrenia: their biologi cal and clinical
+correlatesandnewmodelofschizophrenicpathophysiology. SchizophreniaRes.
+4,209–231.doi:10.1016/0920-9964(91)90034-O
+McGuire, J. F., Wu, M. S., and Storch, E. A. (2015). Cognitive- behavioral
+therapy for 2 youths with misophonia. J. Clin. Psychiatry 76, 573–574.
+doi:10.4088/JCP.14cr09343
+McIntosh, D. N., Miller, L. J., Shyu, V., and Hagerman, R. J. (1999 ). Sensory-
+modulation disruption, electrodermal responses, and functional beha viors.
+Dev.Med.ChildNeurol. 41,608–615.doi:10.1017/S0012162299001267
+McKay,D.,Kim,S.K.,Mancusi,L.,Storch,E.A.,andSpankovic h,C.(2017).Proﬁle
+analysisofpsychologicalsymptomsassociatedwithmisophonia:aco mmunity
+sample.Behav.Ther. doi:10.1016/j.beth.2017.07.002.[Epubaheadofprint].
+Meltzer, J., and Herzfeld, M. (2014). “Tinnitus, hyperacusis, and misophonia
+toolbox,” in Seminars in Hearing , Vol. 35 (New York, NY: Thieme Medical
+Publishers),121–130.
+Møller,A.R.(2011).“Misophonia,phonophobia,and‘explodinghead ’syndrome,”
+inTextbook of Tinnitus , eds A. R. Møller, B. Langguth, D. DeRidder, and
+T.Kleinjung(NewYork,NY:Springer),25–27.
+Neal, M., and Cavanna, A. E. (2012). P3 selective sound sensiti vity syndrome
+(misophonia) and Tourette syndrome. J. Neurol. Neurosurg. Psychiatry 83,
+e1–e1.doi:10.1136/jnnp-2012-303538.20
+Neal, M., and Cavanna, A. E. (2013). Selective sound sensitivi ty syndrome
+(misophonia) in a patient with Tourette syndrome. J. Neuropsychiatr. Clin.
+Neurosci. 25,E01–E01.doi:10.1176/appi.neuropsych.11100235
+Pelt, S. V., Heil, L., Kwisthout, J. H., Ondobaka, S., van Rooij, I . J., and
+Bekkering, H. (2016). Beta-and gamma-band activity reﬂect predict ive coding
+in the processing of causal events. Soc. Cogn. Aﬀect. Neurosci. 11, 973–980.
+doi:10.1093/scan/nsw017
+Perry, W., Minassian, A., Lopez, B., Maron, L., and Lincoln, A. (20 07).
+Sensorimotorgatingdeﬁcitsinadultswithautism. Biol.Psychiatry 61,482–486.
+doi:10.1016/j.biopsych.2005.09.025
+Pienkowski, M., Tyler, R. S., Roncancio, E. R., Jun, H. J., Brozo ski, T.,
+Dauman, N. et al. (2014). A review of hyperacusis and future directio ns:
+part II. Measurement, mechanisms, and treatment. Am. J. Audiol. 23, 420-36.
+doi:10.1044/2014_AJA-13-0037
+Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gu snard, D. A., and
+Shulman,G.L.(2001).Adefaultmodeofbrainfunction. Proc. Natl.Acad.Sci.
+U.S.A.98,676–682.doi:10.1073/pnas.98.2.676
+Ramachandran, V. S., and Brang, D. (2008). Tactile-emotion synes thesia.
+Neurocase 14,390–399.doi:10.1080/13554790802363746
+Rosenthal, M. Z., Neacsiu, A. D., and Geiger, P. J. (2016). Emot ional reactivity
+to personally-relevant and standardized sounds in borderline persona lity
+disorder. Cogn.Ther.Res. 40,314–327.doi:10.1007/s10608-015-9736-y
+Frontiers in Neuroscience | www.frontiersin.org 12 February 2018 | Volume 12 | Article 36
+
+Brout et al. Investigating Misophonia
+Rouw, R., and Erfanian, M. (2017). A large-scale study of misopho nia.J. Clin.
+Psychol.doi:10.1002/jclp.22500.[Epubaheadofprint].
+Rouw,R.,andScholte,H.S.(2007).Increasedstructuralconnect ivityingrapheme-
+colorsynesthesia. Nat.Neurosci. 10,792–797doi:10.1038/nn1906
+Saenz, M., and Koch, C. (2008). The sound of change: visually-i nduced auditory
+synesthesia. Curr.Biol. 18,R650–R651.doi:10.1016/j.cub.2008.06.014
+Schneider, R. L., and Arch, J. J. (2017). Case study: a novel a pplication of
+mindfulness-and acceptance-based components to treat misophonia.
+J. Context. Behav. Sci. 6, 221-225. doi: 10.1016/j.jcbs.2017.
+04.003
+Schoen, S. A., Miller, L. J., Brett-Green, B. A., and Nielsen, D. M. (2009).
+Physiological and behavioral diﬀerences in sensory processing: a comparison
+of children with autism spectrum disorder and sensory modulation dis order.
+Front.Integr.Neurosci. 3:29.doi:10.3389/neuro.07.029.2009
+Schröder,A.E.,Vulink,N.C.,vanLoon,A.J.,andDenys,D.A.( 2017).Cognitive
+behavioral therapy is eﬀective in misophonia: an open trial. J. Aﬀect. Disord.
+217,289-294.doi:10.1016/j.jad.2017.04.017
+Schröder, A., van Diepen, R., Mazaheri, A., Petropoulos-Petalas, D ., de Amesti,
+V., Vulink, N., et al. (2014). Diminished n1 auditory evoked poten tials
+to oddball stimuli in misophonia patients. Front. Behav. Neurosci. 8:123.
+doi:10.3389/fnbeh.2014.00123
+Schröder, A., Vulink, N., and Denys, D. (2013). Misophonia: dia gnostic
+criteria for a new psychiatric disorder. PLoS ONE 8:e54706.
+doi:10.1371/journal.pone.0054706
+Seeley, W. W., Menon, V., Schatzberg, A. F., Keller, J., Glover, G . H.,
+Kenna, H. et al. (2007). Dissociable intrinsic connectivity net works for
+salience processing and executive control. J. Neurosci . 27, 2349–2356.
+doi:10.1523/JNEUROSCI.5587-06.2007
+Seth,A.K.(2013).Interoceptiveinference,emotion,andtheemb odiedself. Trends
+Cogn.Sci. 17,565–573.doi:10.1016/j.tics.2013.09.007
+Stansfeld, S. A., Clark, C. R., Jenkins, L. M., and Tarnopolsky, A. ( 1985).
+Sensitivity to noise in a community sample: I. Measurement of psychia tric
+disorderandpersonality. Psychol.Med. 15,243–254.doi:10.1017/S0033291700
+023527
+Stefanics, G., Kremlácek, J., and Czigler, I. (2014). Visual misma tch
+negativity: a predictive coding view. Front. Hum. Neurosci. 8:666.
+doi:10.3389/fnhum.2014.00666Sullivan, J. C., Miller, L. J., Nielsen, D. M., and Schoen, S. A. (20 13). The
+presence of migraines and its association with sensory hyperreactiv ity and
+anxiety symptomatology in children with autism spectrum disorder. Autism
+18,743-747.doi:10.1177/1362361313489377
+Taylor, S. (2017). Misophonia: a new mental disorder?. Med. Hypotheses 103,
+109-117.doi:10.1016/j.mehy.2017.05.003
+Tyler,R.S.,Pienkowski,M.,Roncancio,E.R.,Jun,H.J.,Brozo ski,T.,Dauman,N.
+et al. (2014). A review of hyperacusis and future directions: part I. D eﬁnitions
+andmanifestations. Am.J.Audiol. 23,402-419.doi:10.1044/2014_AJA-14-0010
+Ward, J., and Simner, J. (2003). Lexical-gustatory synaesthesi a:
+linguistic and conceptual factors. Cognition 89, 237–261.
+doi:10.1016/S0010-0277(03)00122-7
+Webber,T.A.,Johnson,P.L.,andStorch,E.A.(2014).Pedia tricmisophoniawith
+comorbidobsessive–compulsivespectrumdisorders. Gen.Hosp.Psychiatry 36,
+231-e1.doi:10.1016/j.genhosppsych.2013.10.018
+Wu, M. S., Lewin, A. B., Murphy, T. K., and Storch, E. A. (2014). M isophonia:
+incidence,phenomenology,andclinicalcorrelatesinanundergradu atestudent
+sample.J.Clin.Psychol. 70,994–1007.doi:10.1002/jclp.22098
+Yadon, C. A., Bugg, J. M., Kisley, M. A., and Davalos, D. B. (2009 ). P50 sensory
+gating is related to performance on select tasks of cognitive inhib ition.Cogn.
+Aﬀect.Behav.Neurosci. 9,448–458.doi:10.3758/CABN.9.4.448
+Zhou, X., Wu, M. S., and Storch, E. A. (2017). Misophonia symptoms
+among Chinese university students: incidence, associated i mpairment,
+and clinical correlates. J. Obsess. Compuls. Relat. Disord. 14, 7-12.
+doi:10.1016/j.jocrd.2017.05.001
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relations hips that could
+beconstruedasapotentialconﬂictofinterest.
+Copyright © 2018 Brout, Edelstein, Erfanian, Mannino, Miller, R ouw, Kumar and
+Rosenthal. This is an open-access article distributed unde r the terms of the Creative
+Commons Attribution License (CC BY). The use, distribution or reproduction in
+other forums is permitted, provided the original author(s) a nd the copyright owner
+are credited and that the original publication in this journ al is cited, in accordance
+with accepted academic practice. No use, distribution or re production is permitted
+whichdoesnotcomplywiththeseterms.
+Frontiers in Neuroscience | www.frontiersin.org 13 February 2018 | Volume 12 | Article 36

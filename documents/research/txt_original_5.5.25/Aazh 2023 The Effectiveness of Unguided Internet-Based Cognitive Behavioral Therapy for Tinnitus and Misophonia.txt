@@ -1,0 +1,958 @@
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service 
+to our customers we are providing this early version of the manuscript. The manuscript will 
+undergo copyediting, typesetting, and review of the resulting proof before it is published in its 
+final form. Please note that during the production process errors may be discovered which could 
+affect the content, and all legal disclaimers that apply to the journal pertain.Accepted Manuscript
+Journal of the American Academy of Audiology
+The Effectiveness of Unguided Internet-Based Cognitive Behavioral Therapy for 
+Tinnitus for Patients with Tinnitus Alone or Combined with Hyperacusis and/or 
+Misophonia: A Preliminary Analysis
+Hashir Aazh, Lauren Taylor, Ali A Danesh, Brian C Moore. 
+Affiliations below.
+DOI: 10.1055/a-2087-0262 
+Please cite this article as:  Aazh H, Taylor L, Danesh A A et al. The Effectiveness of Unguided Internet-Based Cognitive Behavioral Thera -
+py for Tinnitus for Patients with Tinnitus Alone or Combined with Hyperacusis and/or Misophonia: A Preliminary Analysis. Journal of the 
+American Academy of Audiology 2023. doi: 10.1055/a-2087-0262 
+Conflict of Interest:  HA is the developer and owner of the iCBT(T) program. No conflicting interests are declared for the other authors. 
+This study was supported by  Blakeley Foundation  
+Abstract:
+Background: In the UK, audiologist-delivered cognitive behavioral therapy (CBT) is a key intervention to alleviate the distress 
+caused by tinnitus and its comorbid hyperacusis.  However, the availability of face-to-face CBT is limited, and such therapy 
+involves significant costs. CBT provided via the internet provides a potential solution to improve access to CBT for tinnitus. 
+Purpose: The aim was to perform a preliminary assessment of the effect of a specific program of non-guided internet-based 
+CBT for tinnitus, denoted iCBT(T), in alleviating the problems caused by tinnitus alone or tinnitus combined with hyperacusis.      
+Research Design: This was a retrospective cross-sectional study.
+Study Sample: The data for 28 people with tinnitus who completed the iCBT(T) program and answered a series of questions 
+about their tinnitus and hearing status were included in the study. Twelve patients reported also having hyperacusis (including 
+five also with misophonia). 
+Data collection and analysis: The iCBT(T) program has seven self-help modules. Anonymous data were collected retrospectively 
+from patients’ answers to the questions in the iCBT(T) initial and final assessment modules. Questionnaires administered wit-
+hin the iCBT(T) program were: 4C Tinnitus Management Questionnaire (4C), Screening for Anxiety and Depression in Tinnitus 
+(SAD-T), and the CBT Effectiveness Questionnaire (CBT-EQ). 
+Results: Responses to the 4C showed a significant improvement from pre- to post-treatment, with a medium effect size. The 
+mean improvement was similar for those with and without hyperacusis. Responses to the SAD-T questionnaire also showed a 
+significant improvement from pre- to post-treatment with a medium effect size. The improvement was significantly greater 
+for participants with tinnitus alone than for participants who also had hyperacusis. For both the 4C and the SAD-T, the impro -
+vements were not significantly related to age or gender. Participants’ views of the effectiveness of the iCBT(T) program were 
+assessed using the CBT-EQ. The mean score was 50 out of a maximum of 80, indicating moderately high effectiveness. CBT-EQ 
+scores did not differ for those with and without hyperacusis.
+Conclusions: Based on this preliminary analysis, the iCBT(T) program showed promising result in improving the ability to ma-
+nage tinnitus and decreasing symptoms of anxiety and depression. Future studies with larger samples and control group(s) are 
+required to further assess various aspects of this program.   
+Corresponding Author: 
+Dr. Hashir Aazh, The Royal Surrey County Hospital NHS Foundation Trust, Audiology, Egerton Road, GU2 7XX  Surrey, United Kingdom  Submission Date: 2022-08-21
+ Accepted Date: 2023-01-10
+ Accepted Manuscript online: 
+2023-05-05
+
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service 
+to our customers we are providing this early version of the manuscript. The manuscript will 
+undergo copyediting, typesetting, and review of the resulting proof before it is published in its 
+final form. Please note that during the production process errors may be discovered which could 
+affect the content, and all legal disclaimers that apply to the journal pertain.of Great Britain and Northern Ireland, hashir.aazh@nhs.net  
+Affiliations: 
+Hashir Aazh, The Royal Surrey County Hospital NHS Foundation Trust, Audiology, Surrey, United Kingdom of Great Britain and Northern 
+Ireland
+Lauren Taylor, University of Surrey, Guildford, United Kingdom of Great Britain and Northern Ireland
+Ali A Danesh, Florida Atlantic University, Boca Raton, United States
+Brian C Moore, University of Cambridge, CAMBRIDGE, United Kingdom of Great Britain and Northern Ireland
+
+The Effectiveness of Unguided Internet-Based Cognitive Behavioral Therapy for 
+Tinnitus for Patients with Tinnitus Alone or Combined with Hyperacusis and/or 
+Misophonia: A Preliminary Analysis  
+Hashir Aazh1,2,3 
+Lauren Taylor4
+Ali A. Danesh2
+Brian C. J. Moore5 
+1Hashir Clinics for Tinnitus, Hyperacusis and Misophonia, Farnham Road, Guildford, 
+Surrey, UK
+2 Department of Communication Sciences & Disorders, Florida Atlantic University, USA 
+3Faculty of Engineering and Physical Sciences, University of Surrey, UK
+4 School of Psychology, Faculty of Health and Medical Sciences, University of Surrey, 
+Guildford, Surrey, UK
+5Cambridge Hearing Group, Department of Psychology, University of Cambridge, Downing 
+Street, Cambridge, UK
+Address for correspondence:  Dr. Hashir Aazh, Hashir Clinics for Tinnitus, Hyperacusis and
+Misophonia, 1 Farnham Road Guildford, Surrey GU2 4RG, United Kingdom
+E-mail: info@hashirtinnitusclinic.com 
+Abstract
+Background: In the UK, audiologist-delivered cognitive behavioral therapy (CBT) is a key 
+intervention to alleviate the distress caused by tinnitus and its comorbid hyperacusis.  
+However, the availability of face-to-face CBT is limited, and such therapy involves 
+significant costs. CBT provided via the internet provides a potential solution to improve 
+access to CBT for tinnitus. 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+Purpose: The aim was to perform a preliminary assessment of the effect of a specific 
+program of non-guided internet-based CBT for tinnitus, denoted iCBT(T), in alleviating the 
+problems caused by tinnitus alone or tinnitus combined with hyperacusis.      
+Research Design: This was a retrospective cross-sectional study.
+Study Sample: The data for 28 people with tinnitus who completed the iCBT(T) program 
+and answered a series of questions about their tinnitus and hearing status were included in the
+study. Twelve patients reported also having hyperacusis (including five also with 
+misophonia). 
+Data collection and analysis:  The iCBT(T) program has seven self-help modules. 
+Anonymous data were collected retrospectively from patients’ answers to the questions in the
+iCBT(T) initial and final assessment modules. Questionnaires administered within the 
+iCBT(T) program were: 4C Tinnitus Management Questionnaire  (4C), Screening for Anxiety
+and Depression in Tinnitus (SAD-T), and the CBT Effectiveness Questionnaire (CBT-EQ). 
+Results: Responses to the 4C showed a significant improvement from pre- to post-treatment, 
+with a medium effect size. The mean improvement was similar for those with and without  
+hyperacusis. Responses to the SAD-T questionnaire also showed a significant improvement 
+from pre- to post-treatment with a medium effect size. The improvement was significantly 
+greater for participants with tinnitus alone than for participants who also had hyperacusis. For
+both the 4C and the SAD-T, the improvements were not significantly related to age or 
+gender. Participants’ views of the effectiveness of the iCBT(T) program were assessed using 
+the CBT-EQ. The mean score was 50 out of a maximum of 80, indicating moderately high 
+effectiveness. CBT-EQ scores did not differ for those with and without hyperacusis.
+Conclusions: Based on this preliminary analysis, the iCBT(T) program showed promising 
+result in improving the ability to manage tinnitus and decreasing symptoms of anxiety and 
+depression. Future studies with larger samples and control group(s) are required to further 
+assess various aspects of this program.    
+Tinnitus is the perception of sound without any acoustic stimulus external to the body. It can 
+significantly affect the sufferer’s mental health, and up to 60% of patients seeking help for 
+their tinnitus show symptoms of anxiety and mood disorders (1). Hyperacusis is the 
+perception of certain everyday sounds, such as domestic noise or noise in public places, as 
+too loud or painful (2). Misophonia is the perception of certain sounds produced by human 
+beings or animals, such as eating and breathing noises, as disgusting or offensive (3, 4). 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+Hyperacusis and misophonia often lead to intolerance of certain day-to-day sounds and cause 
+significant distress and impairment in the sufferers’ social, occupational, recreational, and 
+other activities (5, 6). Tinnitus, hyperacusis and misophonia sometimes co-occur. Twelve 
+percent or more of patients with misophonia also suffer from tinnitus (7, 8). Hyperacusis is 
+present for about 40% of patients with moderately severe tinnitus and for up to 80% of those 
+with severe tinnitus (9, 10).   
+In the UK, audiologist-delivered cognitive behavioral therapy (CBT) is a key intervention to 
+alleviate the distress caused by tinnitus and its comorbid hyperacusis and misophonia (11-
+16). CBT is often delivered over 6 to 14 face-to-face individual sessions. However, the 
+availability of face-to-face therapy under the UK National Health Service is limited, and such
+therapy involves significant costs. In many developing countries, tinnitus therapy is not 
+available or is unaffordable. Even in developed countries, tinnitus therapy may not be  
+covered by health insurance (15). CBT provided via the internet (iCBT) provides a potential 
+solution to these issues. 
+There are several different approaches to iCBT. However, they mostly use an internet 
+platform similar to that for online educational training courses and utilize a mix of 
+educational videos and audio recordings, text, puzzles, games, and assignments for 
+participants to complete (17, 18). The contents are often developed based on existing self-
+help materials or on methods that are used in face-to-face therapy sessions, modified for 
+delivery in a self-help format. A recent meta-analysis that reviewed nine randomized 
+controlled trials (RCT) of iCBT for tinnitus reported that iCBT led to a medium overall effect
+size (ES) in reducing tinnitus-related distress, with Cohen’s d = 0.50 (95% confidence 
+interval, CI: 0.37–0.63) over studies using both passive and active control groups (19).     
+There are several guided and unguided iCBT approaches that have been used for treating 
+people with bothersome tinnitus, with varied success (19). Participants who use guided iCBT 
+benefit from additional support from a clinician or therapist who can encourage them and 
+help them to engage with the program as well as answering questions. Unguided iCBT does 
+not involve additional support from a therapist, and it appears to be somewhat less effective 
+than guided iCBT (19). However, unguided iCBT is less costly and therefore has the potential
+to be scaled up and used when face-to-face therapy is not easily accessible.    
+Several studies have reported that patients who have tinnitus combined with hyperacusis or 
+misophonia exhibit a more severe impact of their tinnitus and more marked symptoms of 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+anxiety and depression than those with tinnitus alone (1, 8, 20, 21). Therefore, it is not clear if
+iCBT for tinnitus is as effective for patients with comorbid hyperacusis and/or misophonia as 
+for patients with tinnitus alone.   
+This study assessed of a specific unguided iCBT program for tinnitus with seven self-help 
+modules. Hereafter, the program is designated as iCBT(T). The program was developed by 
+the first author in 2020, with input from the third and fourth authors (22). The aims of this 
+study were: (1) to perform a preliminary assessment of the effectiveness of the iCBT(T) by 
+retrospectively comparing pre- and post-treatment scores on self-report questionnaires that 
+were integrated into the program; (2) to assess participant’s views about the effectiveness of 
+the iCBT(T) program; and (3) to perform a preliminary comparison of the effectiveness of the
+iCBT(T) program for participants with tinnitus alone and for those with tinnitus combined 
+with hyperacusis or misophonia.   
+  
+Method  
+Ethics
+All participants agreed that their anonymized data could be used for service improvement and
+research purposes. The study was approved by the University of Surrey ethics committee 
+(Project ID: FHMS 21-22 147 EGA). 
+Study Design and Participants 
+This was an exploratory study with a retrospective cross-sectional design using anonymized 
+data from 28 consecutive participants who completed the iCBT(T) program between October 
+and December 2020. The participants were self-selected rather than being recruited by the 
+authors. Presumably, the participants found the program via internet search or were directed 
+to the iCBT(T) website by audiologists who were aware of the program. Anonymized data 
+collection was built into the program in order to create personalized reports for the 
+participants and to assess their feedback about the effectiveness of the iCBT(T) program. The
+preliminary assessment of the effectiveness of the iCBT(T) program in this study was 
+evaluated using these data. Anonymous d emographic data about the participants, 
+characteristics of their tinnitus, ear and hearing history, and the outcomes of their self-report 
+questionnaires were imported from their answers to the questions in the iCBT(T) initial and 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+final assessment modules.       
+The Content of the iCBT(T) Program
+The iCBT(T) program (version 1.1, 2020) has seven modules that were designed based on a 
+specialized CBT program for tinnitus management that has been used for over a decade by 
+audiologists in the UK and elsewhere (11-14, 16, 23). Table 1 gives details of the content and
+objectives of each module. Participants are advised to start from the first module 
+(Assessment) and go on to completing the other modules in order. The amount of time 
+needed for each module ranges from 45 to 90 minutes. Participants are informed that they 
+need to allocate time to complete assignments between modules. The suggested interval 
+between each of the first six modules is 3-4 days. This is intended to allow time to practice 
+specific exercises between each module. The final assessment (module 7) needs to be 
+completed one month after completing the iCBT(T) program. The iCBT(T) program is self-
+explanatory and does not require any intervention from a therapist. Figure 1 illustrates the 
+structure of the program. Audiologists or therapists also can choose to guide their patients in 
+completing the modules if required, changing the program to guided iCBT. However, the data
+included in this study are for a cohort of participants who completed iCBT(T) without 
+guidance from a therapist.  
+**insert Table 1 and Figure 1 here** 
+For internet therapy programs, especially those for which a therapist or clinician is not 
+providing additional support and guidance, it is important to use strategies to increase each 
+participant’s engagement and willingness to persist. This can be facilitated by persuasive 
+system design, which is a framework proposed by Oinas-Kukkonen and Harjumaa (24) . It 
+includes 28 recommendations for making the design of an internet therapy program more 
+persuasive and engaging. Examples of such principles are reducing complex behavior into 
+simple tasks, personalized content, offering praise, reminders, and visually attractive design. 
+Some of the persuasive system design principles are utilized in the iCBT(T) program and 
+these are listed in Table 2. 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+**insert table 2 here** 
+Self-report Questionnaires 
+All questionnaires described here were integral parts of the iCBT(T) program and were not 
+chosen for the purpose of this study. The data collected using these questionnaires were 
+analyzed retrospectively. In what follows we describe the questionnaires and the reasons why
+they were included in the iCBT(T) program.     
+There can be significant differences between paper and electronic versions of a given 
+questionnaire (25, 26). Therefore, it is recommended to re-measure the reliability of a 
+questionnaire when it is used in  different format (27). In this study, Cronbach's alpha was 
+estimated for each of the online versions of the questionnaires incorporated in the iCBT(T) 
+program.   
+4C Tinnitus Management Questionnaire  
+The 4C questionnaire was chosen for use in the iCBT(T) program because, in addition to 
+being a validated measure of how well an individual is coping with their tinnitus (28), the 4C 
+is intended to motivate the participant in engaging with the therapy process by encouraging 
+them to think about how they can become more confident in managing their day-to-day life 
+events despite having tinnitus. Unlike other commonly used tinnitus questionnaires, the 4C is 
+focused on the individual’s ability to manage the problem. For example, instead of asking 
+“How often did your tinnitus make it difficult to fall asleep or stay asleep?” which is a 
+question from the Tinnitus Functional Index (TFI) (29), the 4C asks “How confident are you 
+that you are able to rest and relax, even with tinnitus?”. Instead of asking “Does your tinnitus 
+make it difficult to enjoy life?”, which is a question from the Tinnitus Handicap Inventory 
+(THI) (30), the 4C asks “How confident are you that you can enjoy your life fully, even with 
+tinnitus?”. The change in focus from the problem to the individual’s ability to manage the 
+problem can help the patient to assess their strengths and weaknesses and to think about how 
+to develop more confidence in dealing with the problem (31, 32). The 4C questionnaire is 
+partly consistent with the Self-Efficacy for Tinnitus Management Questionnaire (SETMQ, 
+(Smith & Fagelson 2011), which also focuses on assessing a participant’s confidence in their 
+ability to control their reaction to their tinnitus and to implement tinnitus management 
+strategies. However, the 4C has only 4 items compared to 40 items in the SETMQ. The 4C is 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+designed to be used for CBT intervention  (28), while the SETMQ has items that are not 
+relevant to CBT and are related to the use of masking and sound-generating devices.     
+The 4C asks participants to select a number based on how they feel now for each question
+(28). The 4C items are: (1) How confident are you that you are able to carry out your day-to-
+day tasks, even with tinnitus? (2) How confident are you that you are able to rest and relax, 
+even with tinnitus? (3) How confident are you that you can enjoy your life fully, even with 
+tinnitus? (4) How confident are you that you can do all the above without using any 
+avoidance behavior?  The response choice range is from 0 to 10. 0 means “Not confident at 
+all” and 10 means “Very confident”. To calculate the overall score for the 4C questionnaire, 
+the sum of the scores for the first three questions (Q1-Q3) is multiplied by the score for the 
+fourth question (Q4). Then the result is divided by 3. The highest possible score is 100, so the
+total score can be regarded as a percentage. 4C scores between 57 percent and 100 percent 
+indicate a high level of confidence. Scores between 52 percent and 57 percent indicate a fair 
+degree of confidence, scores between 37 percent and 52 percent indicate slight confidence, 
+and scores between 0 and 37 percent indicate low confidence. Cronbach's alpha for the 4C 
+questionnaire in pen and paper format is 0.91 (28). 
+Screening for Anxiety and Depression in Tinnitus (SAD-T)
+The SAD-T contains four items that match those for the physical health questionnaire (PHQ-
+4; 33). Each item is rated on a four-point scale. Two items relate to experiences of anxiety 
+and two relate to experiences of depression. The overall score ranges from 0 to 12. Scores ≥4 
+indicate symptoms of anxiety and/or depression. Cronbach’s alpha for the SAD-T in pen and 
+paper format is 0.91 (34). This questionnaire was used in the iCBT(T) program in order to 
+identify participants who might benefit from further psychological evaluations and to make 
+such a recommendation in their assessment reports for modules one and seven.   
+CBT Effectiveness Questionnaire (CBT-EQ)  
+The CBT-EQ has eight questions asking about the effectiveness of the iCBT(T) program and 
+its components, as judged by the participant. This questionnaire was included in the iCBT(T) 
+program to provide a measure of the effectiveness of the program and each of its components 
+from the participant’s perspective. Seeking users’ feedback is common for most clinical 
+services (35).   
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+The pen and paper version of the CBT-EQ has been used in a study evaluating patients’ 
+perspectives about the effectiveness of face-to-face CBT for tinnitus management (11). For 
+each question, the participant is asked to choose a number between 0 and 10. The total score 
+ranges from 0 to 80. The questions are:    
+1) How effective was iCBT in helping you manage your tinnitus? Number 0 is “Not effective 
+at all” and number 10 is “Very effective”.
+2) Are you able to manage your tinnitus differently compared to before you started the iCBT?
+Number 0 is “No” and number 10 is “Yes, a lot”.
+Please rate the effectiveness of each of the iCBT modules in helping you manage your 
+tinnitus? Number 0 is “Not effective at all” and number 10 is “Very effective”.
+3) Doing a “Behavioral Experiment” and reflecting on its outcome. 
+4) Filling in the “Diary of Thoughts” and reflecting on them.
+5) Completing the Assessment & 4C questions.
+6) Learning about Positive Psychology.
+7) General learning about CBT for tinnitus.
+8) Learning how to challenge your negative thoughts. 
+  
+Other Questions
+Other questions that were included in the iCBT(T) program are shown in Table 1. 
+Participant’s answers to these questions were needed to develop their module one assessment 
+report. They responded by selecting among a range of response options. The questions were 
+related to: whether they had hearing difficulties, hyperacusis and misophonia; when the 
+tinnitus started relative to when they started the iCBT(T) program; where the tinnitus 
+appeared to be located; what the tinnitus sounded like; and what the likely cause of the 
+tinnitus was. 
+Analysis 
+Descriptive statistics, medians, means, standard deviations (SD), and 95% CIs of the scores 
+for the self-report questionnaires are reported. The reliability of the 4C, SAD-T and CBT-EQ 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+questionnaires were re-assessed using Cronbach’s alpha (36), which is a standard measure of 
+reliability. To be considered as reliable, the value of alpha was required to be greater than 0.7.
+Paired t-tests were used to compare pre- and post-treatment scores for the 4C and SAD-T 
+questionnaires. Welch's t-tests (37) for unequal samples were used to compare the changes in 
+4C and SAD-T scores and the scores for the CBT-EQ between patients with and without 
+hyperacusis and/or misophonia, between males and females and between patients with a 
+duration of tinnitus 1 month versus ≥6 months prior to enrolling in the iCBT(T) program.   
+For ordinal data (i.e., categories of participants with abnormal SAD-T scores), Wilcoxon 
+matched-pairs signed-ranks tests were used to compare the medians of the variables before 
+and after treatment. Pearson correlation was used to assess factors related to changes in 4C 
+and SAD-T scores (before and after treatment) as well as the CBT-EQ total scores (after 
+treatment). 
+ES values, Cohen’s d, were used to assess the changes in 4C and SAD-T scores pre- and 
+post-treatment. These were calculated using equation 8 of Morris and DeShon (38) . This 
+takes into account the correlation between pre- and post-treatment scores that occurs in a 
+within-subjects design. The resulting ES values are called “corrected” ES values. ES values 
+between 0.2 and 0.5 are considered as small, those between 0.5 and 0.8 as medium, and those
+above 0.8 as large (39). The p-value required for statistical significance was set at p<0.05. 
+The Stata program (version 13) (40) was used for statistical analyses. 
+ 
+Results 
+Characteristics of the Participants    
+All 28 participants reported having bothersome tinnitus. Their a verage age was 52 years (SD 
+= 16.5 years, range 18 to 75 years) and 17 were male. Based on their responses to questions 
+10 and 11 listed in Table 1, twelve participants reported experiencing hyperacusis and five 
+reported misophonia. All participants who reported misophonia also reported hyperacusis. 
+Eighteen participants reported having some hearing difficulties in addition to their tinnitus.    
+The following are the numbers of participants who reported hearing their tinnitus in the 
+specified location(s): two outside their head; sixteen in both ears; two in one ear only; three in
+the back of their head as well as in both ears; one in the back of their head as well as in their 
+right ear; two in the front of their head in addition to both ears; one in the front of their head 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+only; and one in the front and back of their head.  
+None of the participants reported discharge from their ears. Three participants reported ear 
+pain and three reported balance problems. Twenty-three participants reported that their 
+tinnitus started six months or more prior to starting the iCBT(T) program. For the remaining 
+five participants, the onsets of tinnitus relative to starting the iCBT(T) program were: one 
+month for one participant, one week for two participants and in the last 24 hours for two 
+participants. Participants were asked to select the likely cause of their tinnitus from several 
+options. They were allowed to choose more than one option. The number of participants 
+selecting each cause of tinnitus was sixteen for stress, eight for loud noise, eight for 
+infections, six for drugs, five for ear wax, and one for an accident. Eight selected 
+miscellaneous other causes, and nine reported that they did not know what might have caused
+their tinnitus. 
+Participants were asked to select from various options what their tinnitus sounded like. They 
+were allowed to choose as many options as they liked. Twenty participants described their 
+tinnitus as a high-pitched sound, nine as a hissing noise, eight as white noise, seven as 
+buzzing, seven as ringing, five as a whistle, five as a pulsing sound, two as a humming noise, 
+two as a heartbeat, one as clicks, one as beeps, and one as a plane taking off. Three 
+participants did not find a description that matched their tinnitus and selected the option 
+“others”.          
+Depending on their responses, some participants were recommended to see their healthcare 
+providers. The criteria used to generate a recommendation to seek medical help are 
+summarized in Table 1, in the initial “Assessment” module.     
+Sixteen participants had symptoms of anxiety and depression based on their scores for the 
+SAD-T. They received a recommendation to discuss their mood with their healthcare 
+provider and explore the possibility of being referred for psychological support (if they had 
+not done that already). They were also given information about general mental health support
+organizations in the UK, USA and Australia and were given the contact details of those 
+organizations.   
+   
+Reliability of the Questionnaires Used in the iCBT(T) Program   
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+Cronbach’s alpha was 0.98 for the CBT-EQ, 0.88 for the 4C, and 0.91 for SAD-T, indicating 
+good internal consistency for all three questionnaires in online format, as used in the iCBT(T)
+program. 
+Pre- and Post-Treatment Comparison  
+Table 3 shows the mean pre-and post-treatment scores for the 4C and SAD-T across all 
+participants. Corrected ES values were medium in size and were significant for both 
+questionnaires. The  differences between pre-and post-treatment in 4C scores were not 
+significantly correlated with age ( r = 0.26, p = 0.18) or with pre-treatment SAD-T scores ( r = 
+0.16, p = 0.42).  Similarly, the differences between pre-and post-treatment in SAD-T scores 
+were not significantly correlated with age or pre-treatment 4C scores ( r = 0.09, p = 0.63; r = 
+0.22, p = 0.26, respectively). There was no significant difference in the change in 4C and 
+SAD-T scores between men and women ( p = 0.1 and 0.2, respectively).  
+The number of participants who had scores ≥4 for the SAD-T, indicating symptoms of 
+anxiety and depression, reduced from sixteen before treatment to nine after treatment, and a 
+Wilcoxon signed-rank test showed that this difference was significant (Z = 2.11, p = 0.034). 
+**insert Table 3 here** 
+The change in SAD-T score was on average 2.5 points larger (95% CI: 0.35 to 4.6) for the 
+sixteen participants with tinnitus alone than for the twelve who had tinnitus combined with 
+hyperacusis, and this difference was significant ( p = 0.024).     
+The mean changes in 4C and SAD-T scores for participants whose tinnitus started one month 
+or less before starting the iCBT(T) program (N=5) were 33 (SD=25) and 4 (SD=2.5), 
+respectively. These changes were larger than the changes for the participants whose tinnitus 
+started six months or more before starting the iCBT(T) program (N=23), which were 13 
+(SD=28) for the 4C and 1.4 (SD=2.9) for the SAD-T, but the differences in change were not 
+significant (p = 0.16 and 0.075, respectively), possibly because of the small sample sizes.     
+Participants’ Views About the Effectiveness of the iCBT(T) Program    
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+The average total CBT-EQ score was 50 out of 80 (95% CI: 43 to 58). The average total 
+CBT-EQ score for the twelve participants with tinnitus combined with hyperacusis was 52 
+(SD = 21). This did not differ significantly ( p = 0.77) from the average score of 49.5 (SD = 
+19) for the sixteen participants who had tinnitus alone. There was no significant difference in 
+total CBT-EQ scores between men and women ( p = 0.2). 
+CBT-EQ total scores were not significantly correlated with age ( r = 0.23, p = 0.24), pre-
+treatment 4C scores ( r = 0.27, p = 0.16), or pre-treatment SAD-T scores ( r = 0.37, p = 
+0.055). However, CBT-EQ total scores were significantly correlated with post-treatment 4C 
+scores (r = 0.66, p = 0.0001) and post-treatment SAD-T scores ( r = 0.43, p = 0.02). 
+For the question asking “How effective was iCBT in helping you manage your tinnitus?”, the 
+median response was 6/10 (SD = 2.6). For the question asking “Are you able to manage your 
+tinnitus differently compared to before you started the iCBT?”, the median response was 7/10
+(SD = 3.0). The medians and SDs of responses to the questions asking for a rating of the 
+effectiveness of each of the iCBT modules in helping them manage their tinnitus were: 6/10 
+(SD = 2.5) for the “Behavioral Experiment”, 6/10 (SD = 2.6) for the “Diary of Thoughts”, 
+5.5/10 (SD = 2.3) for the assessment module, 6/10 (SD = 2.5) for the “Positive Psychology” 
+module, 7/10 (SD = 2.5) for general learning about CBT for tinnitus, and 7/10 (SD = 2.4) for 
+learning how to challenge negative thoughts. 
+Discussion 
+The results of this study need to be interpreted bearing in mind its methodological limitations.
+The analysis was retrospective and hence was limited to data collected as an integral part of 
+the iCBT(T) program. We do not know how many people started the program without 
+finishing it. This may have led to selection bias, since the analysis was based only on 
+participants who completed the program (41). It is possible that only those who perceived 
+some initial benefit from the program chose to continue to completion. Future studies should 
+explore the dropout rate from the iCBT(T) program, reasons for dropouts, how much time 
+was spent on each module, and if the participants completed the assignments and adhered to 
+the program.  
+The study lacked a control group. Therefore, it is difficult to assess the extent to which the 
+measured improvements were produced specifically by the iCBT(T) as opposed to being a 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+more general effect of receiving treatment (placebo effect) (42). Studies with an RCT design 
+are required to assess the efficacy of iCBT(T) for the management of tinnitus. 
+The study had a small sample size, so the lack of statistical significance for some of the 
+analyses could reflect a type II error. Another limitation of this study is the fact it was 
+conducted by the developer of the iCBT(T) program, although any biases introduced by this 
+could not have influenced the responses of the participants. Future studies addressing these 
+points and conducted independently of the developer of the iCBT(T) program are needed. 
+Clinicians involved with the treatment of tinnitus often wonder why many of their patients 
+have been told that “nothing can be done” for their tinnitus. It is unfortunate that, despite the 
+enormous progress in tinnitus management, there are still patients who develop a great level 
+of stress and anxiety about their tinnitus because someone, often a healthcare provider, told 
+them it is not curable. For many patients with tinnitus, the cost of management is a significant
+factor. In countries with insurance-based health system, tinnitus management is not covered 
+by many insurance companies. The introduction of iCBT(T) is an important step in providing
+a non-invasive, supportive and affordable method of tinnitus management. The results 
+showed that the iCBT(T) program for tinnitus had a medium ES for improving participants’ 
+confidence in managing their tinnitus as measured via the 4C and a medium ES for reducing 
+symptoms of anxiety and depression as measured via the SAD-T. 
+As noted above, part of these improvements may have been due to the “participation effect”
+(43, 44) or placebo effect. It is known that almost any acceptable intervention for tinnitus 
+tends to result in a reduction in the severity of tinnitus as assessed using questionnaires. The 
+magnitude of the participation effect can be estimated by comparing ES values in improving 
+tinnitus distress for iCBT studies involving inactive (passive) control groups (e.g., being put 
+on a waiting list) and studies involving active control groups (involving some plausible type 
+of treatment other than iCBT); the participation effect is likely to influence the former but not
+the latter. In a meta-analysis of trials of iCBT, Beukes, Manchaiah (19)  found mean ES 
+values for reducing tinnitus distress of 0.59 for studies with inactive control groups and 0.32 
+for studies with active control groups. This suggests that the participation effect increased the
+ES by about 0.27. The corrected ES for improvement in tinnitus distress as measured by the 
+change in 4C scores in the present study was 0.69, which is much larger than would be 
+expected from the participation effect alone. Hence it seems likely that a substantial part of 
+the beneficial effect of the iCBT(T) program found in the present study was not caused by the
+participation effect.  
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+The magnitude of the ES found here for the SAD-T is comparable to those found in 
+controlled trials of various forms of iCBT in the management of mental illness and chronic 
+conditions. For example, Mehta, Peynenburg (45)  reviewed 25 RCTs that assessed the effects
+of iCBT on anxiety and depression symptoms for participants with various chronic conditions
+(tinnitus, fibromyalgia, pain, rheumatoid arthritis, cardiovascular disease, and diabetes). Their
+meta-analysis showed that iCBT resulted in significant improvements in anxiety and 
+depression scores, with small to medium ES. It seems likely that reduction of the distress 
+caused by tinnitus resulting from participation in the iCBT(T) program led to the observed 
+reductions in anxiety and depression. 
+There was a non-significant trend for participants whose tinnitus started one month or less 
+before commencing the iCBT(T) program to show greater improvements in their 4C and 
+SAD-T scores than participants whose tinnitus started six months or more before 
+commencing. This may partly reflect spontaneous recovery from tinnitus among those with a 
+recent onset of tinnitus. Future studies should explore the effectiveness of the iCBT(T) 
+program among participants with different durations of tinnitus, using a larger sample of 
+participants.     
+The improvement in SAD-T score was on average 2.5 points larger (95% CI: 0.3 to 4.6) for 
+the sixteen participants with tinnitus alone than for the twelve who had tinnitus combined 
+with hyperacusis, and this difference was significant. It is possible that the smaller 
+improvement for the participants who had tinnitus combined with hyperacusis was a 
+consequence of the fact that the iCBT(T) program was specifically targeted at helping the 
+participant to deal with their tinnitus. It is likely that the iCBT(T) program did not markedly 
+reduce the distress caused by hyperacusis and/or misophonia, and hence was less effective in 
+producing overall reductions in anxiety and depression. Another explanation is that we relied 
+on the single questions that were used in the iCBT(T) assessment module to detect 
+hyperacusis and misophonia. Although  other researchers have also used single questions to 
+diagnose hyperacusis and misophonia (10, 46), this is not ideal. To address this limitation, 
+future studies should use validated measures to further explore the presence and severity of 
+hyperacusis and misophonia and their relationships with treatment outcome.  
+The improvement in scores for the 4C and SAD-T questionnaires produced by participating 
+in the iCBT(T) program was not significantly related to the gender or age of the participants. 
+Similarly, ratings of the effectiveness of the iCBT(T) program obtained using the CBT-EQ 
+questionnaire were not significantly related to gender or age. These outcomes suggest that the
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+iCBT(T) program seem to be equally effective for men and women and is effective regardless
+of age over the range 18-75 years.
+CBT-EQ total scores were significantly correlated with post-treatment 4C scores ( r = 0.66, p 
+= 0.0001) and post-treatment SAD-T scores ( r = 0.43, p = 0.02). In other words, the better 
+the final outcome as measured by the 4C and SAD-T questionnaires, the higher were the 
+ratings of effectiveness of the iCBT(T) program. This supports the convergent validity of the 
+CBT-EQ questionnaire. The modules of the iCBT(T) program that were judged as most 
+effective were “general learning about CBT for tinnitus” and “learning how to challenge 
+negative thoughts”, both of which received median scores of 7/10. The module judged least 
+effective was the assessment module, which received a median score of 5.5/10. This is not 
+surprising since the assessment module is not primarily about therapy, although it is intended 
+to allow participants to see that they have made progress.
+Several of the persuasive system design principles were used in the development of the 
+iCBT(T) program, as shown in Table 2. McCall, Hadjistavropoulos (47)  reviewed 46 RCTs 
+that used unguided iCBT for treatment of anxiety and depression symptoms. On average, the 
+iCBT programs utilized about five of the persuasive design principles (the range was from 1 
+to 13). The meta-analysis showed that use of a greater number of persuasive design principles
+was associated with greater efficacy of iCBT for depression. Future studies should evaluate if
+inclusion of more of the persuasive design principles will improve the efficacy of iCBT(T). 
+The most frequent cause of tinnitus reported by the patients was stress. This may reflect the 
+common observation that the distress caused by tinnitus becomes worse in stressful situations
+(48). It seems unlikely that tinnitus is directly caused by stress, but it may be the case that 
+some participants first became aware of their tinnitus when they were in a stressful situation 
+or were first bothered by their tinnitus when they were stressed. 
+Conclusions
+This study had a small sample size, no control group, and the data collection was 
+retrospective and hence limited to what was collected as an integral part of the iCBT(T) 
+program. Therefore, the results need to be considered as exploratory and interpreted with 
+caution. The results showed that the iCBT(T) program was moderately effective in improving
+the ability to manage tinnitus as measured via the 4C questionnaire and in decreasing 
+symptoms of anxiety and depression as measured via the SAD-T. The ES reported here for 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+the iCBT(T) program are comparable to those found in controlled trials of various forms of 
+iCBT in the management of mental illness and chronic conditions. 
+From the participant’s perceptive the modules of the iCBT(T) program that were judged as 
+most effective, as measured via the CBT-EQ questionnaire, were “general learning about 
+CBT for tinnitus” and “learning how to challenge negative thoughts”, both of which received 
+median scores of 7/10 (0 is “Not effective at all” and 10 is “Very effective”). 
+Data Availability 
+The raw data will be made available on reasonable request to the corresponding author.
+Conflict of Interest
+HA is the developer and owner of the iCBT(T) program. No conflicting interests are declared
+for the other authors.
+Acknowledgments 
+This research was partially supported via a grant to AD from the Blakeley Foundation. We 
+thank two reviewers for helpful comments on an earlier version of this paper.  
+References 
+1.Aazh H, Moore BCJ. Factors associated with depression in patients with tinnitus and 
+hyperacusis. American journal of audiology. 2017;26:562-9.
+2.Aazh H, McFerran D, Salvi R, Prasher D, Jastreboff M, Jastreboff P. Insights from the
+First International Conference on Hyperacusis: causes, evaluation, diagnosis and treatment. 
+Noise & health. 2014;16(69):123-6.
+3.Jastreboff MM, Jastreboff PJ. Decreased sound tolerance and tinnitus retraining 
+therapy (TRT). Australian and New Zealand Journal of Audiology. 2002;24(2):74-84.
+4.Aazh H, Knipper M, Danesh AA, Cavanna AE, Andersson L, Paulin J, et al. Insights 
+from the third international conference on hyperacusis: causes, evaluation, diagnosis, and 
+treatment. Noise & health. 2018;20(95):162-70.
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+5.Aazh H, Moore BCJ, Lammaing K, Cropley M. Tinnitus and hyperacusis therapy in a 
+UK National Health Service audiology department: Patients' evaluations of the effectiveness 
+of treatments. International journal of audiology. 2016;55(9):514-22.
+6.Aazh H. Hyperacusis and Misophonia In: Deshpande AK, Hall III JW, editors. 
+Tinnitus: Advances in prevention, assessment, and managment San Diego, USA: Plural 
+Publishing, Inc. ; 2022. p. 287-310.
+7.Rouw R, Erfanian M. A Large-Scale Study of Misophonia. Journal of clinical 
+psychology. 2018;74(3):453-79.
+8.Aazh H, Erfanian M, Danesh A, Moore BCJ. Audiological and other factors 
+predicting the presence of misophonia symptoms among a clinical population seeking help 
+for tinnitus and/or hyperacusis. Frontiers in neuroscience. 2022;16.
+9.Aazh H, Moore BCJ. Factors related to Uncomfortable Loudness Levels for patients 
+seen in a tinnitus and hyperacusis clinic. International Journal of Audiology 2017;56(10):793-
+800.
+10.Cederroth CR, Lugo A, Edvall NK, Lazar A, Lopez-Escamez J-A, Bulla J, et al. 
+Association between Hyperacusis and Tinnitus. Journal of Clinical Medicine 2020;9(8):2412.
+11.Aazh H, Bryant C, Moore BCJ. Patients’ perspectives about the acceptability and 
+effectiveness of audiologist-delivered cognitive behavioral therapy for tinnitus and/or 
+hyperacusis rehabilitation. American journal of audiology. 2020;28(4):973-85.
+12.Aazh H, Moore BCJ. Proportion and characteristics of patients who were offered, 
+enrolled in and completed audiologist-delivered cognitive behavioural therapy for tinnitus 
+and hyperacusis rehabilitation in a specialist UK clinic. International journal of audiology. 
+2018;57(6):415-25.
+13.Aazh H, Moore BCJ. Effectiveness of audiologist-delivered cognitive behavioral 
+therapy for tinnitus and hyperacusis rehabilitation: outcomes for patients treated in routine 
+practice. American journal of audiology. 2018;27(4):547-58.
+14.Aazh H, Landgrebe M, Danesh A, Moore BCJ. Cognitive behavioral therapy for 
+alleviating the distress caused by tinnitus, hyperacusis and misophonia: Current perspectives. 
+Psychology Research and Behavior Management 2019;23(12):991-1002.
+15.Henry JA, Goodworth MC, Lima E, Zaugg T, Thielman EJ. Cognitive Behavioral 
+Therapy for Tinnitus: Addressing the Controversy of Its Clinical Delivery by Audiologists. 
+Ear and hearing. 2021;43(2):283-9.
+16.Aazh H, Moore BCJ. Living Well with Tinnitus: A Self-help Guide Using Cognitive 
+Behavioural Therapy: Little, Brown Book Group; 2022.
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+17.Andersson G, Strömgren T, Ström L. Randomised controlled trial of Internet based 
+cognitive behavior therapy for distress associated with tinnitus. Psychosomatic Medicine 
+2002;64:810-6.
+18.Beukes EW, Vlaescu G, Manchaiah V, Baguley DM, Allen PM, Kaldo V, et al. 
+Development and technical functionality of an Internet-based intervention for tinnitus in the 
+UK. Internet interventions. 2016;6:6-15.
+19.Beukes EW, Manchaiah V, Allen PM, Baguley DM, Andersson G. Internet-Based 
+Interventions for Adults With Hearing Loss, Tinnitus, and Vestibular Disorders: A 
+Systematic Review and Meta-Analysis. Trends in hearing. 2019;23:1-22.
+20.Aazh H, Moore BCJ. Usefulness of self-report questionnaires for psychological 
+assessment of patients with tinnitus and hyperacusis and patients' views of the questionnaires.
+International journal of audiology. 2017;56(7):489-98.
+21.Schecklmann M, Landgrebe M, Langguth B, TRI Database Study Group. Phenotypic 
+characteristics of hyperacusis in tinnitus. PloS one. 2014;9(1):e86944.
+22.Aazh H, Danesh A. Internet-based Cognitive Behavioral Therapy for Tinnitus: 
+Insights from Health Care Professionals The Hearing Journal. 2021;74(2):20-2.
+23.Aazh H, Allott R. Cognitive behavioural therapy in management of hyperacusis: a 
+narrative review and clinical implementation. Auditory and Vestibular Research. 
+2016;25(2):63-74.
+24.Oinas-Kukkonen H, Harjumaa M. Persuasive systems design: Key issues, process 
+model, and system features. Communications of the Association for Information Systems. 
+2009;24(1):486-500.
+25.Juniper EF, Langlands JM, Juniper BA. Patients may respond differently to paper and 
+electronic versions of the same questionnaires. Respir Med. 2009;103(6):932-4.
+26.Caro JJ, Sr., Caro I, Caro J, Wouters F, Juniper EF. Does electronic implementation 
+of questionnaires used in asthma alter responses compared to paper implementation? Quality 
+of life research : an international journal of quality of life aspects of treatment, care and 
+rehabilitation. 2001;10(8):683-91.
+27.Bowling A, Ebrahim S. Handbook of health research methods: investigation, 
+measurement and analysis: McGraw-Hill International; 2005.
+28.Aazh H, Kartsonaki C, Moore BCJ. Psychometric evaluation of the 4C Tinnitus 
+Management Questionnaire Using a Clinical Population of Adult Patients with Tinnitus 
+Alone or Combined with Hyperacusis. International journal of audiology. 2022;[under 
+review]   
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+29.Meikle MB, Henry JA, Griest SE, Stewart BJ, Abrams HB, McArdle R, et al. The 
+tinnitus functional index: development of a new clinical measure for chronic, intrusive 
+tinnitus. Ear and hearing. 2012;33(2):153-76.
+30.Newman CW, Sandridge SA, Jacobson GP. Psychometric adequacy of the Tinnitus 
+Handicap Inventory (THI) for evaluating treatment outcome. Journal of the American 
+Academy of Audiology. 1998;9(2):153-60.
+31.Miller WR, Rollnick S. Motivational Interviewing: Helping People Change. 3rd ed. 
+New York, London: The Guilford Press; 2013.
+32.Ryan RM, Deci EL. Self-determination theory: Basic psychological needs in 
+motivation, development, and wellness: Guilford Publications; 2017.
+33.Kroenke K, Spitzer RL, Williams JB, Lowe B. An ultra-brief screening scale for 
+anxiety and depression: the PHQ-4. Psychosomatics. 2009;50(6):613-21.
+34.Aazh H, Hayes C, Moore BCJ, Danesh AA, Vitoratou S. Psychometric Evaluation of 
+the Hyperacusis Impact Questionnaire (HIQ) and Sound Sensitivity Symptoms Questionnaire
+(SSSQ) Using a Clinical Population of Adult Patients with Tinnitus Alone or Combined with 
+Hyperacusis. Journal of American Academy of Audiology. 2022;[Online ahead of print](Feb 
+23).
+35.Aazh H, Ballinger J, Hayes C, Pepler A, Lammaing K, Moore BCJ, et al. 
+Psychometric Evaluation of a Patient Experience Questionnaire (PEQ) for Outpatient 
+Appointments: Analysis Using Data from a UK National Health Service Audiology 
+Department. Journal of the American Academy of Audiology. 2022.
+36.Cronbach LJ. Test reliability; its meaning and determination. Psychometrika. 
+1947;12(1):1-16.
+37.Delacre M, Lakens D, Leys C. Why psychologists should by default use Welch’s t-
+test instead of Student’s t-test. International Review of Social Psychology. 2017;30(1):92-
+101.
+38.Morris SB, DeShon RP. Combining effect size estimates in meta-analysis with 
+repeated measures and independent-groups designs. Psychological Methods 2002;7(1):105-
+25.
+39.Cohen J. Statistical power analysis for the behavioral sciences. New Jersey: Lawrence
+Erlbaum Associates, Inc. Publishers; 1988.
+40.StataCorp. Stata Statistical Software: Release 13. TX, USA: StataCorp LP; 2013.
+41.Pannucci CJ, Wilkins EG. Identifying and avoiding bias in research. Plastic and 
+reconstructive surgery. 2010;126(2):619-25.
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+42.Pocock SJ. Clinical trials: a practical approach. UK: Wiley Chichester; 1983.
+43.McCambridge J, Kypri K, Elbourne D. Research participation effects: a skeleton in 
+the methodological cupboard. Journal of clinical epidemiology. 2014;67(8):845-9.
+44.Aazh H. Patients' experience of motivational interviewing for hearing aid use: A 
+qualitative study embedded within a pilot randomised controlled trial. Journal of Phonetics & 
+Audiology. 2016;2(1):1-13.
+45.Mehta S, Peynenburg VA, Hadjistavropoulos HD. Internet-delivered cognitive 
+behaviour therapy for chronic health conditions: a systematic review and meta-analysis. 
+Journal of behavioral medicine. 2019;42(2):169-87.
+46.Jaswal SM, De Bleser AKF, Handy TC. Misokinesia is a sensitivity to seeing others 
+fidget that is prevalent in the general population. Scientific reports. 2021;11(1):17204.
+47.McCall HC, Hadjistavropoulos HD, Sundström CRF. Exploring the Role of 
+Persuasive Design in Unguided Internet-Delivered Cognitive Behavioral Therapy for 
+Depression and Anxiety Among Adults: Systematic Review, Meta-analysis, and Meta-
+regression. Journal of medical Internet research. 2021;23(4):e26939.
+48.Elarbed A, Fackrell K, Baguley DM, Hoare DJ. Tinnitus and stress in adults: a 
+scoping review. International Journal of Audiology 2021;60(3):171-82.
+Figure 1. Flowchart illustrating the structure of the iCBT(T) program. The program 
+comprises assessment and therapy modules. The program automatically develops email 
+reports for users at different stages of the treatment. The typical structure of the therapy 
+modules is shown under “iCBT Modules”. The two assessment modules are shown in boxes 
+with gray coloring. 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+Table 1. Summary of the interventions provided in each iCBT(T) module.  
+Modules Description 
+Assessment The assessment module comprised a list of questions about tinnitus, ear and 
+hearing problems, and two short questionnaires: the 4C tinnitus management and 
+the screening for anxiety and depression in tinnitus (SAD-T). 
+After completing the assessment module, a report is developed automatically and
+sent to the email address that the participant provided. The report contains 
+recommendations for further medical evaluations and/or psychological support 
+(if indicated based on their answers to the questions). The criteria used to 
+generate a recommendation for seeking medical help are described below. A 
+recommendation to seek help from mental health professionals is generated when
+the SAD-T score is ≥ 4, indicating symptoms of anxiety and/or depression. 
+The questions in the assessment module are listed below: 
+Demographic questions 
+Age and gender
+Tinnitus questions 
+1-When did your tinnitus start? 
+For this question, if the answer is less than 6 months, then the following 
+recommendation is included in the report:   
+“Given the relatively recent onset of your tinnitus, if you have not seen an Ear, 
+Nose and Throat (ENT) specialist recently then we would recommend you to 
+arrange an appointment with them in order to discuss the underlying cause(s) of 
+your tinnitus.” 
+2-What do you think caused your tinnitus? 
+3-What does your tinnitus sound like?  
+If the answer is clicks, pulsing, or heartbeat, then the following recommendation 
+is included in the report:   
+“Tinnitus that sounds like clicks, pulsing, or heartbeat may be related to 
+problems associated with the muscles or blood vessels in the head and neck. If 
+you have not seen an Ear, Nose and Throat (ENT) specialist recently then we 
+recommend you to arrange an appointment with them in order to discuss the 
+underlying cause(s) of your tinnitus.”       
+4-Where is your tinnitus perceived? 
+If the answer is in one ear only then the following recommendation is included in
+the report: 
+“Tinnitus which is only perceived in one ear may be associated with some 
+disorders of the auditory system. If you have not seen an Ear, Nose and Throat 
+(ENT) specialist recently then we recommend you to arrange an appointment 
+with them in order to discuss the underlying cause(s) of your tinnitus.” 
+Ear and hearing questions 
+5-Do you suffer from ear pain?  
+6-Do you have any ear discharge? 
+7-Do you have any balance problems? 
+8-Do you feel that you have any hearing difficulties? 
+If the answer to any of the above questions is “yes” then the following 
+recommendation is included in the report:   
+“If you have not seen an Ear, Nose and Throat (ENT) specialist recently then we 
+recommend you to arrange an appointment with them in order to discuss your 
+*the item(s) chosen from the above list*.”   
+9-Do you have any medical conditions that might be relevant to your 
+tinnitus? 
+If the answer is “yes” then the following recommendation is included in the 
+report: 
+“If you have not seen a medical doctor about this relevant medical history then 
+we recommend you to do so.”      
+10-Do you have hyperacusis? 
+Hyperacusis is intolerance of certain everyday sounds. The sounds may be 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+perceived as uncomfortably loud, painful, frightening or annoying.   
+11-Do you have misophonia? 
+Misophonia is a strong emotional reaction to certain sounds, such as sounds 
+created by chewing food, swallowing, tapping, breathing, lip smacking, nose 
+sniffing, and other man-made noises.       
+Introduction to CBT for 
+tinnitusIn this module, patients learn about CBT and its relevance to tinnitus distress. 
+Objectives
+By the end of this session, the participant should be able to:
+•Describe what tinnitus is.
+•Describe CBT and its relevance to tinnitus distress.   
+•Apply a simple CBT model to tinnitus distress.    
+•Differentiate between events, thoughts and emotions.  
+•Create a CBT model explaining their own experience of tinnitus distress
+and describe how this model can be used in guiding their tinnitus management.    
+Behavioral experiment 
+for tinnitusThis module provides an opportunity to explore and challenge tinnitus-related 
+negative thoughts by testing out different behaviours and how they influence any 
+anxiety and negative emotions. This module has two sections. When section one 
+has been completed, an email is sent to the participant with a link to section two.
+Objectives
+By the end of this session, participants should be able to:
+•Describe what a behavioural experiment is.
+•Explore their irrational thoughts and predictions about tinnitus and its 
+impact on them. 
+•Analyse the link between automatic thoughts and emotions.     
+•Differentiate between literal facts and thoughts. 
+•Design a behavioural experiment to test the validity of their tinnitus-
+related thoughts.
+•Challenge their unhelpful thoughts.    
+•Create some counter-statements (more helpful and rational thoughts).  
+•Use the counter-statements in real life scenarios.      
+Challenge your negative 
+thoughtsIn this module participants learn about common forms of cognitive distortions 
+and develop the skills to identify errors of judgment in their own tinnitus-related 
+thoughts.
+Objectives 
+By the end of this module, participants should be able to: 
+•Describe the relationship between tinnitus, anxiety and negative 
+thoughts. 
+•Differentiate the levels of thoughts: automatic thoughts, rules of life and
+core beliefs. 
+•Explain the mechanism by which tinnitus perception can lead to distress 
+based on the level of thoughts.         
+•List the 10 common forms of cognitive distortion. 
+•Differentiate different forms of cognitive distortion.
+•Identify errors of judgment in their own tinnitus-related thoughts. 
+Diary of thoughts and 
+feelings This module provides a tool for combining the different techniques that have 
+been learned in the previous modules so as to identify and challenge negative 
+automatic thoughts.
+Objectives
+By the end of this module, participants should be able to 
+•Identify tinnitus-related distress in their day-to-day life.  
+•Distinguish between tinnitus-related distress and the distress caused by 
+other underlying psycho-social and medical factors. 
+•Explore and record what goes through their mind when they are 
+bothered by their tinnitus. 
+•Identify their thought distortions.
+•Identify and record their emotional reactions to tinnitus-related thoughts.
+•Develop a wide range of counter-statements that can substitute for 
+tinnitus-related negative thoughts.           
+Positive psychology in The idea of this module is to use the power of positive psychology in generating 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+tinnitus management realistic optimism, which is important for improving mental health.
+Objectives
+By the end of this module, participants should be able to 
+•Describe how acceptance can help them in managing their tinnitus.  
+•List common human character strengths and virtues.  
+•Identify their own character strengths and discuss how they can help 
+them in accepting of tinnitus.  
+•Use their character strengths in generating optimism and resilience.   
+Final assessment The final assessment module helps to (1) establish the progress each participant 
+has made in tinnitus management, and (2) enhance their confidence and 
+motivation in using CBT skills for tinnitus management. 
+The SAD-T and 4C tinnitus management questionnaires are administered again 
+in this module. 
+Participants also complete a questionnaire exploring their views about the 
+effectiveness of the iCBT(T) program.   
+Table 2.     Recommendations of the persuasive systems design framework (15 categories) 
+used in the iCBT(T) program. 
+Categories Description How these are met in iCBT(T) 
+Reduction A system that reduces complex behavior 
+into simple tasks helps users perform the 
+target behavior, and it may increase the 
+benefit/cost ratio of a behavior.Each module introduces one task. For 
+example, developing a dairy for 
+tinnitus-related thoughts or performing 
+a behavioral experiment.   
+Tunneling Using the system to guide users through a 
+process or experience provides 
+opportunities to persuade along the way.Each module has an introductory video 
+that guides the participant on what to 
+do. 
+Personalization A system that offers personalized content 
+or services has a greater capability for 
+persuasion.The program takes into consideration 
+the participant’s answers to the 
+questions. For example, the 4C module 
+ask questions about the reasons for the 
+choices and what can help them to make
+an improvement.  
+Self-monitoring A system that keeps track of one’s own 
+performance or status supports the user in 
+achieving goals.Participants can monitor their progress 
+by comparing the assessment and 
+treatment progress reports.  
+Rehearsal A system providing means with which to 
+rehearse a behavior can enable people to 
+change their attitudes or behavior in the 
+real world.The behavioral experiment module 
+helps the participant to test the results of
+a change in a particular behavior. 
+Praise By offering praise, a system can make 
+users more open to persuasion.The program acknowledges the correct 
+answers in quizzes.  
+Reminders If a system reminds users of their target 
+behavior, the users will more likely 
+achieve their goals.After completing each module, a 
+reminder is sent to the participant with a
+summary of the tasks that they need to 
+complete before moving on to the next 
+module. 
+Suggestion Systems offering fitting suggestions will 
+have greater persuasive powers.The program gives examples and 
+suggestions about how to analyze and 
+modify tinnitus-related thoughts and 
+behaviors. 
+Liking A system that is visually attractive for its 
+users is likely to be more persuasive.Most pages in the program have images 
+that are matched with the text. 
+Trustworthiness A system that is viewed as trustworthy will
+have increased powers of persuasion.The program is designed by a trusted 
+source. 
+Expertise A system that is viewed as incorporating 
+expertise will have increased powers of The program is designed by experts in 
+tinnitus field. 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+persuasion.
+Surface credibility People make initial assessments of the 
+system credibility based on a firsthand 
+inspection.The program is designed based on 
+audiologist-delivered CBT for tinnitus, 
+which has been tested in several 
+research studies and used for treating 
+thousands of tinnitus participants in the 
+UK and elsewhere in the world.   
+Real-world feel A system that highlights people or 
+organization behind its content or services 
+will have more credibility.The creator and collaborators of the 
+program are introduced at the beginning
+of each module. 
+Authority A system that leverages roles of authority 
+will have enhanced powers of persuasion.The program is designed by experts in 
+tinnitus field.
+Recognition By offering public recognition for an 
+individual or group, a system can increase 
+the likelihood that a person/group will 
+adopt a target behavior.The program issues a certificate of 
+completion after each module. 
+Table 3.  Means (SDs) of scores for the 4C tinnitus management questionnaire and screening 
+for anxiety and depression in tinnitus (SAD-T) before and after undertaking the iCBT(T) 
+program. The p values and corrected effect sizes (ES) are also reported. 
+QuestionnairePre-treatment
+Mean (SD)Post-treatment
+Mean (SD)p valueCorrecte
+d ES
+4C 24.4 (25)41.0 (31.5)0.004-0.6
+SAD-T 4.8 (3.9)3.0 (3.5)0.0030.62
+ 
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript
+
+This article is protected by copyright. All rights reserved.
+Accepted Manuscript

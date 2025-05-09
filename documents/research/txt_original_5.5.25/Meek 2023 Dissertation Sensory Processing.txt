@@ -1,0 +1,1318 @@
+## SENSORY PROCESSING SENSITIVITY AMONG MENTAL HEALTH GRADUATE STUDENTS AND MENTAL HEALTH PROFESSIONALS
+
+## A DISSERTATION
+
+SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY IN THE GRADUATE SCHOOL OF THE TEXAS WOMAN'S UNIVERSITY
+
+SCHOOL OF SOCIAL WORK, PSYCHOLOGY, AND PHILOSOPHY COLLEGE OF ARTS AND SCIENCES
+
+BY
+
+CHRISTIAN MEEK, M.A.
+
+DENTON, TEXAS AUGUST 2023
+
+Copyright © 2023 by Christian Meek
+
+## DEDICATION
+
+This work is dedicated to the most courageous women in my life. For my wife, Evelyn Sinclair, my mother, Donna Sorensen, my grandmother, Delores Meek, and my chair, Dr. Sally Stabb. Thank you for supporting me, inspiring me, and encouraging me with never ending patience and love.
+
+## ACKNOWLEDGEMENTS
+
+I would like to express my deepest appreciation to my committee: Dr. Sally Stabb, Dr. Danica Harris, and Dr. Marlene Williams for their guidance, support, and suggestions contributing to this project. Special thanks to Dr. Danica Harris for introducing to me the concept of Highly Sensitive People and for continuous guidance, advice, support, and mentorship. Thanks also to Dr. Debra Mollen for holding me to expectations I was not able to meet, helping me learn that it's okay to fail, and introducing me to self-compassion. I also had the great pleasure of working with Dr. Marcus Fagan and am endlessly thankful for his explaining statistics like I'm five and not making me feel incompetent. I would also like to extend my deepest gratitude to my mother, Donna Sorensen, for everything she has ever done to raise a human capable of completing a project like the one that follows. I cannot begin to express my thanks to my wife, Evelyn Sinclair, for unwavering unconditional love, support, patience, and encouragement. I am also grateful to Clair Rae Gonzales for smidgens of wisdom, endless hysterical laugher, and an endless lack of bull****. Special thanks to Wesley Kobashigawa for fly by profanity. Finally, I must acknowledge Marcus Allen McKinney for saying 'I hope your degree keeps you warm at night.' It does.
+
+## ABSTRACT
+
+## CHRISTIAN MEEK
+
+## SENSORY PROCESSING SENSITIVITY AMONG MENTAL HEALTH GRADUATE STUDENTS AND MENTAL HEALTH PROFESSIONALS
+
+## AUGUST 2023
+
+Sensory processing sensitivity (SPS), a biological trait, impacts about 20% of the general population. Previous research has focused on characteristics of the trait and mental health outcomes. This study investigated whether mental health graduate students and mental health professionals had higher SPS than students and professionals in other fields. It also explored what variables might moderate the relationship between SPS and general wellbeing, career wellbeing, and mental health wellbeing for this population. Two hundred and sixty participants completed an online survey to measure SPS and wellbeing. In addition to descriptive statistics, a frequency distribution was conducted to measure the prevalence of low, medium, and high sensitivity individuals among the sample. SPS was compared to trait negative emotionality to explore differentiating the two traits. SPS scores for participants who identified as graduate students or professionals in a mental health field were compared to those who were not. Gender was tested as a moderator of the relationship between SPS and the three domains of wellbeing, and additional analyses were conducted exploring demographics variables as moderators of the relationship between SPS and the three domains of wellbeing. Significant results were found for (1) the relationship between SPS and trait negative emotionality, (2) the comparison between mental health students and professionals and students and professionals not in these fields, and (3) the direct impact of gender, sexual orientation, age, income, years of education, degree earned, status as a student or professional in a mental health field, years of service in a mental health field, and all three domains of wellbeing on SPS. Age and years of service were
+
+significant as moderators of the relationship between SPS and mental health wellbeing, and years of service in combination with mental health wellbeing also significantly moderated the relationship between SPS and mental health wellbeing.  When participants had higher DASS (higher depression, anxiety, and stress) and higher years of service, then they also had higher SPS scores. Results are integrated with prior literature and implications for research, practice, and policy are noted. Strengths and limitations of the study are discussed.
+
+Keywords : Sensory processing sensitivity, highly sensitive people, mental health, wellbeing, career
+
+## TABLE OF CONTENTS
+
+| DEDICATION................................................................................................................................ ii        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ACKNOWLEDGEMENTS........................................................................................................... iii                      |
+| ABSTRACT................................................................................................................................... iv       |
+| LIST OF TABLES...........................................................................................................................x           |
+| LIST OF FIGURES ....................................................................................................................... xi           |
+| I. INTRODUCTION........................................................................................................................1             |
+| Definition of Terms..........................................................................................................................3       |
+| Career Wellbeing .................................................................................................................3                  |
+| Highly Sensitive Person.......................................................................................................3                      |
+| Mental Health Wellbeing.....................................................................................................3                        |
+| Resources .............................................................................................................................3             |
+| Sensory Processing Sensitivity ............................................................................................3                         |
+| Understanding......................................................................................................................4                 |
+| Wellbeing.............................................................................................................................4              |
+| II. LITERATURE REVIEW............................................................................................................5                   |
+| Definitions........................................................................................................................................5 |
+| Depth of Processing and Sensing the Subtle........................................................................6                                  |
+| Overstimulation....................................................................................................................6                 |
+| Emotional Reactivity and Empathy .....................................................................................7                              |
+| Background......................................................................................................................................7    |
+| Prevalence........................................................................................................................................9  |
+| Differentiating SPS From Other Traits..........................................................................................10                    |
+
+| Methods of Assessment .................................................................................................................12           |                                                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Adjustment of Persons With SPS ..................................................................................................13                 |                                                                                                                               |
+| Mental Health.....................................................................................................................13                |                                                                                                                               |
+| Environment, Resources, and Support...............................................................................14                                |                                                                                                                               |
+| Relationships......................................................................................................................15               |                                                                                                                               |
+| Development......................................................................................................................15                 |                                                                                                                               |
+| Subjective Wellbeing.....................................................................................................................16         |                                                                                                                               |
+| Career Satisfaction.........................................................................................................................16      |                                                                                                                               |
+| Work Relationships............................................................................................................17                    |                                                                                                                               |
+| Work Environment.............................................................................................................18                     |                                                                                                                               |
+| Vocational Fields                                                                                                                                   | ...............................................................................................................19             |
+| Work Values                                                                                                                                         | ......................................................................................................................20      |
+| Highly Sensitive Mental Health Graduate Students and Professionals                                                                                  | .........................................20                                                                                   |
+| Who Are Mental Health Practitioners?..............................................................................21                                |                                                                                                                               |
+| Mental Health for Mental Health Students and Professionals...........................................23                                             |                                                                                                                               |
+| Summary and                                                                                                                                         | Rationale.................................................................................................................25  |
+| III. METHODOLOGY..................................................................................................................28                |                                                                                                                               |
+| Participants.....................................................................................................................................28 |                                                                                                                               |
+| Instruments.....................................................................................................................................31  |                                                                                                                               |
+| Demographics                                                                                                                                        | ....................................................................................................................31        |
+| Understanding....................................................................................................................31                 |                                                                                                                               |
+| Sensory Processing Sensitivity                                                                                                                      | ..........................................................................................32                                  |
+| Resources                                                                                                                                           | ...........................................................................................................................32 |
+
+| Wellbeing...........................................................................................................................33         |                                                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Career Wellbeing                                                                                                                               | ...............................................................................................................33                         |
+| Mental Health Wellbeing...................................................................................................34                   |                                                                                                                                           |
+| Differentiation....................................................................................................................34          |                                                                                                                                           |
+| Procedure                                                                                                                                      | .......................................................................................................................................35 |
+| Hypotheses and Analyses                                                                                                                        | ..............................................................................................................36                          |
+| Phase One...........................................................................................................................37         |                                                                                                                                           |
+| Phase Two..........................................................................................................................37          |                                                                                                                                           |
+| Phase Three........................................................................................................................37          |                                                                                                                                           |
+| Phase Four..........................................................................................................................38         |                                                                                                                                           |
+| IV. RESULTS................................................................................................................................39  |                                                                                                                                           |
+| Descriptive Statistics......................................................................................................................39 |                                                                                                                                           |
+| Primary Hypotheses.......................................................................................................................40    |                                                                                                                                           |
+| Hypothesis                                                                                                                                     | One..................................................................................................................40                   |
+| Hypothesis                                                                                                                                     | Two.................................................................................................................40                    |
+| Hypothesis Three                                                                                                                               | ...............................................................................................................41                         |
+| Hypothesis                                                                                                                                     | Four.................................................................................................................41                   |
+| Hypothesis Five                                                                                                                                | .................................................................................................................42                       |
+| Hypothesis Six                                                                                                                                 | ...................................................................................................................44                     |
+| Hypothesis                                                                                                                                     | Seven...............................................................................................................50                    |
+| Hypothesis                                                                                                                                     | Eight................................................................................................................50                   |
+| V. DISCUSSION...........................................................................................................................52     |                                                                                                                                           |
+| Significant Findings; Integration with Current Scholarship                                                                                     | ..........................................................52                                                                              |
+
+| Strengths and Limitations ..............................................................................................................57         |                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Implications for Practice and Future Directions ............................................................................58                     |                                                                                                                                  |
+| Conclusion .....................................................................................................................................61 |                                                                                                                                  |
+| REFERENCES                                                                                                                                         | ..............................................................................................................................63 |
+| APPENDICES                                                                                                                                         |                                                                                                                                  |
+| A. Demographics Questionnaire....................................................................................................76                |                                                                                                                                  |
+| B. Understanding of Sensory Processing Sensitivity.....................................................................77                          |                                                                                                                                  |
+| C. Highly Sensitive Person Scale...................................................................................................78              |                                                                                                                                  |
+| D. Self-Care Assessment for Psychologists...................................................................................79                     |                                                                                                                                  |
+| E. Multicultural Quality of Life Index...........................................................................................80                |                                                                                                                                  |
+| F. Professional Quality of Life Scale.............................................................................................81               |                                                                                                                                  |
+| G. Depression, Anxiety, and Stress Scale......................................................................................82                   |                                                                                                                                  |
+| H. Big Five Inventory-2-Short Form-Negative Emotionality Subscale ......................................83                                         |                                                                                                                                  |
+| I. Informed Consent .......................................................................................................................84      |                                                                                                                                  |
+| J. Counseling Referral Resources ..................................................................................................86              |                                                                                                                                  |
+
+## LIST OF TABLES
+
+| 1. Participant   | Categorical Demographics......................................................................................28                 |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| 2. Participant   | Continuous Demographics......................................................................................30                  |
+| 3. Research      | Hypotheses and Statistical Analysis..........................................................................38                  |
+| 4. Descriptive   | Statistics for Study Measures.................................................................................39                 |
+| 5. Sensory       | Procesing Sensitivity by Group...................................................................................40              |
+| 6. Direct        | Effects of Gender on SPS With General Wellbeing.......................................................43                         |
+| 7. Direct        | Effects of Gender on SPS With Career Wellbeing.........................................................43                        |
+| 8. Direct        | Effects of Gender on SPS With Mental Health Wellbeing ............................................43                             |
+| 9. Correlations  | Between Demographics and SPS .........................................................................44                         |
+| 10. Age as a     | Moderator of the Relationship Between SPS and Mental Health Wellbeing .. ........45                                              |
+| 11.              | Years of Service in a Mental Health Profession as a Moderator of the Relationship Between                                        |
+| SPS              | and Mental Health Wellbeing .........................................................................................48          |
+| 12.              | Age and Years of Service as Joint Moderators of the Relationship Between SPS and Mental                                          |
+| Health           | Wellbeing ....................................................................................................................50 |
+
+## LIST OF FIGURES
+
+| 1. SPS Moderated by the Interaction Between Age and Mental Health Wellbeing......................47                               |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| 2. SPS Moderated by the Interaction Between Years of Service in a Mental Health Profession                                        |
+| and Mental Health Wellbeing....................................................................................................49 |
+
+## CHAPTER I
+
+## INTRODUCTION
+
+Sensory processing sensitivity (SPS) is a biological trait that exists on a spectrum and that approximately 20% of individuals in the general population experience (Acevedo, 2020; Aron, 2010). The most notable researcher of SPS, Elaine Aron, created an acronym to describe individuals with SPS also known as highly sensitive people or person (HSPs; Aron, 2016). The acronym DOES stands for Depth of Processing, Overstimulation, Emotional Reactivity, and Sensing the Subtle, and it outlines the overall core traits of being highly sensitive. Depth of processing includes cognitively processing information and stimuli more deeply both consciously and unconsciously compared to individuals without the trait (Aron, 2016). Often because of their depth of processing, HSPs can feel more easily fatigued by stimuli; this is frequently the characteristic with which HSPs notice and struggle most (Aron, 2016). HSPs have been shown to have more mirror neuron brain activity indicating a stronger ability to understand and empathize with others (Aron, 2016). HSPs also show higher activity in the areas of the brain responsible for deciding to act, indicating their increased emotional reactivity (Acevedo et al., 2014).
+
+SPS was formally identified in 1997 and some research already exists exploring the trait (Aron &amp; Aron, 1997). Women often score higher on SPS than men (Aron, 2010), though debate exists about the underlying nature of this difference. It is known that individuals with SPS are lower in general wellbeing, career wellbeing, and mental health wellbeing than those without SPS (Acevedo, 2020). There are also many positive outcomes reported for individuals with SPS (Acevedo, 2020; Jagiellowicz et al., 2016). HSPs have been shown to benefit more from positive experiences, especially if they have had mostly positive childhood experiences, than those
+
+without the trait (Jagiellowicz et al., 2016). HSPs are also more able to benefit from positive interpersonal environments giving them higher levels of empathy, creativity, positive emotions, and improved communication (Acevedo, 2020). Some research has focused on differentiating SPS from other similar characteristics like negative emotionality (formerly neuroticism on the Big Five Inventory) and other sensory processing and related psychological diagnoses (Acevedo et al., 2017; Acevedo, 2020; Costa &amp; McCrae, 1992; Smolewska et al., 2006).
+
+To date, SPS has not been explored in a population of graduate students and professionals specifically in mental health fields. Therefore, I have explored the prevalence of SPS among this population, and their report of the impact of SPS on their general, career, and mental health wellbeing.
+
+Mental health graduate students and mental health professionals are known to experience significant mental health concerns (Boyd et al., 2016; Butler et al., 2017; Rummell, 2015). This psychological distress is often due to the nature of their work and studies (Boyd et al., 2016; Butler et al., 2017). These mental health concerns have a serious impact on this population and in some cases have led to suicide (Gerada, 2018). It is not known how SPS may interact with domains of wellbeing for this population. Understanding the potential relationships between SPS and various forms of wellbeing may have implications for improving mental health outcomes for those who are training for and working in these stressful occupations. The research is a step in that direction.
+
+Therefore, I have investigated whether SPS is both more frequent in mental health graduate students and mental health professionals compared to students and professionals from other fields, as well as if SPS scores are higher among mental health graduate students and professionals. Additionally, I have explored what variables might moderate the relationship
+
+between SPS and general wellbeing, career wellbeing, and mental health wellbeing specifically in a population of mental health graduate students and mental health professionals. I have included measures for differentiation of SPS from negative emotionality to add to existing research in this area.
+
+## Definition of Terms
+
+## Career Wellbeing
+
+Career wellbeing is an individual's vocational satisfaction. For the purposes of this study, career wellbeing was operationalized by measuring compassion satisfaction and compassion fatigue for individuals in mental health fields (Stamm, 2010).
+
+## Highly Sensitive Person
+
+A HSP is an individual who is identified as possessing SPS as a trait.
+
+## Mental Health Wellbeing
+
+Mental health wellbeing is an individual's quality of overall mental health. For the purposes of this study, mental health wellbeing was operationalized by an individual's experience of stress, anxiety, and depression (Lovibond &amp; Lovibond, 1995).
+
+## Resources
+
+Resources are professional and mental health assets that individuals have at their disposal. For the purposes of this study, this variable was operationalized by five domains of self-care relevant to mental health professionals and included professional support, professional development, life balance, cognitive strategies, and daily balance (Dorociak et al., 2017).
+
+## Sensory Processing Sensitivity
+
+SPS is a biological baseline trait that differentiates an individual from the rest of the population through enhanced depth of processing stimuli from the environment, higher
+
+sensitivity to overstimulation, greater emotional reactivity, and increased ability to sense subtleties in their environment (Aron, 2016).
+
+## Understanding
+
+Understanding is an individual's awareness of and level of comprehension of the trait of SPS.
+
+## Wellbeing
+
+Wellbeing is an individual's general quality of life. For the purposes of this study, wellbeing was operationalized by using the 10 dimensions outlined by Mezzich et al. (2011) including physical wellbeing, psychological/emotional wellbeing, self-care and independent functioning, occupational functioning, interpersonal functioning, social emotional support, community and services support, personal fulfillment, spiritual fulfillment, and overall quality of life.
+
+## CHAPTER II
+
+## LITERATUE REVIEW
+
+In this chapter, SPS and HSP are described in detail including definitions, background, prevalence, adjustment, and methods of assessment for these populations. Sections outlining what we currently know about the mental health, subjective wellbeing, career satisfaction, coping, and self-care of those who experience SPS or who identify as HSP are also included. This chapter correspondingly covers the definition, prevalence, and adjustment, of both graduate students in mental health fields as well as professionals in mental health and those among these populations who experience SPS or identify as HSP. The literature review concludes with a rationale for the study.
+
+## Definitions
+
+The experience of an enhanced awareness, sensitivity, and responsivity to the environment and other individuals resulting from the strategy of processing stimuli before acting is known by many descriptors and theories (Acevedo, 2020; Aron, 2010). SPS, biological sensitivity to context, vantage sensitivity, differential susceptibility, and high environmental sensitivity are all terms that describe the experience of HSP (Acevedo, 2020). SPS also includes the experience of deeper processing of information and stimuli, greater awareness of subtleties, increased empathy, creativity, conscientiousness, self-reflection, intuition, an attraction to aesthetics, and higher sensitivity to overstimulation. High sensitivity is not categorized as a disorder or illness; rather, it is a biological baseline trait, which exists on a spectrum that some, but not all, individuals' experience (Acevedo, 2020; Aron, 2010). In addition to being a human trait, SPS has been identified in over 100 animal species. (Acevedo, 2020).
+
+In 2011, Elaine Aron created the acronym DOES to describe the sensory experience of a HSP (Aron, 2016). This acronym stands for Depth of Processing, Overstimulation, Emotional Reactivity, and Sensing the Subtle, and it outlines the overall core traits of being highly sensitive. Depth of Processing and Sensing the Subtle
+
+Processing information and stimuli more deeply both consciously and unconsciously is at the core of identifying traits of HSPs (Aron, 2016).  Individuals with SPS also perform better at visual search tasks, are quicker at these tasks, and have fewer errors (Gerstenberg, 2012; Jagiellowicz et al., 2011). HSPs do more with the information they take in from their environment, considering it in multiple ways including noticing subtle details, relating, comparing, noticing similarities, and assessing meaning (Aron, 2016). Many individuals do this but HSPs do it more quickly and with less effort compared to others (Aron, 2016; Aron et al., 2010). Research supports these differences in highlighting that HSPs use more of the processing centers of the brain when considering stimuli compared to those without the trait (Jagiellowicz et al., 2011). HSPs also demonstrate more activation in parts of the brain that processes 'momentto-moment knowledge of inner states and emotions, bodily position, and outer events' (Aron, 2016, p. 19).
+
+## Overstimulation
+
+Often because of their depth of processing trait, HSPs can feel fatigued by stimuli much more easily than non-sensitive individuals (Aron, 2016). This is often the characteristic with which HSPs notice and struggle most (Aron, 2016). Overstimulation can be a result of sensitivity to light, sound, social interaction, clutter, and the length, intensity, or complexity of the stimuli or information they consume, both internal (e.g., emotions) and external (Aron, 2016). This experience also often results in increased stress (Aron, 2016). This aspect of SPS is also
+
+commonly compared to or confused with common sensory disorders like autism spectrum disorder (ASD); however, the neurological mechanisms are distinctly different (Aron, 2016). This will be discussed subsequently.
+
+## Emotional Reactivity and Empathy
+
+Individuals with SPS compared to those without have been shown to have more mirror neuron brain activity when viewing emotion in the face of others (Acevedo et al., 2014). Activation in this area means that HSPs have a stronger ability to understand and empathize with others (Aron, 2016). In addition to this neural activation, HSPs also showed higher activity in the areas of the brain responsible for deciding to act, specifically when viewing loved ones' unhappy facial expressions (Acevedo et al., 2014). HSPs compared to non-sensitive individuals have also been shown to benefit more from positive experiences, especially if they have had mostly positive childhood experiences (Jagiellowicz et al., 2016).
+
+## Background
+
+In 1997, Aron and Aron identified, based on previous research on childhood temperament, introversion, inhibition, and shyness, that there was evidence to suggest that humans respond to stimuli in one of two manners: action or process. Many individuals think and process first before acting while others take quick action and process their thoughts afterward. This differential response occurs during the transmission or processing of sensory stimulation. HSP tend to spend more time processing than those without SPS (Aron &amp; Aron, 1997). The authors discussed whether SPS was continuous and attempted to define its core characteristics, constructs, and possible subgroups. This was the initial exploration of what is now commonly called SPS, or individuals labeled as HSP. They concluded that SPS is a unidimensional construct encompassing high sensitivity to stimulation and related emotional arousal independent
+
+from introversion and emotionality.  Aron and Aron (1997) also developed the currently used HSP Scale
+
+Similar research on environmental sensitivity followed in 2008. Wolf et al. (2008) theorized about the possibility of differential responses to stimuli and discussed the possible advantages and disadvantages of environmental sensitivity. They concluded that the benefits of a higher sensitivity to stimuli is dependent on the frequency of the stimuli, meaning that if the stimuli is rare, additional processing before action could be helpful, but if common, it could be overwhelming (Wolf et al., 2008). This argument supported the likelihood that environmental sensitivity and thus SPS as an evolutionary advantage and a form of natural selection we see in individuals today. Research by Belsky et al. (2009) suggested that genetic factors can either help or hinder mental health outcomes based on the environment of the individual. This research also suggests that some individuals are more responsive or sensitive to the environment (Belsky et al., 2009).  Ellis et al. (2011) reviewed the most current research covering differential susceptibility theory (Belsky et al., 2009) and biological sensitivity to context theory (Boyce &amp; Ellis, 2005), which are closely related to SPS. They outlined that both theories posit that individuals, like those who experience SPS, are neurobiologically sensitive to both positive and negative environments, which can enhance their ability to developmentally adjust in response, giving them an evolutionary advantage compared to others. Belsky and Pluess (2009) outlined in their vantage sensitivity theory that sensitivity can be considered an evolutionary advantage, unlike differential susceptibility theory (Belsky et al., 2009), which posits that sensitivity may explain disproportionately negative outcomes.
+
+The primary difference between Aron and Aron's (1997) original SPS theory and those outlined here is that SPS theory was developed from studying individual differences in
+
+perspective, cognitive responses, and emotional reactivity to the environment whereas other theories were based on childhood development theories. SPS theory is also the first approach to categorize environmental sensitivity as a personality trait. All theories emphasize differential susceptibility to stimuli including the sensitivity and reactivity to both positive and negative environments (Acevedo, 2020). Environmental sensitivity theory (Pluess, 2015) was developed to integrate many of these theories and encompasses the neurosensitivity hypothesis; this hypothesis posits that the central nervous system's sensitivity spectrum is shaped by a combination of childhood environment, genetics, indexing sensitivity and the interactions between these, which then is expressed both physiologically and psychologically (Pluess, 2015). Additionally, several sensitivity theories converge on the position that such an evolutionary advantage would only have to be found in a small subset of the population to remain advantageous (Acevedo, 2020).
+
+In sum, theories involving sensitivity and reactivity to external and internal stimuli have been conceptualized from several perspectives. Aside from SPS, many other individual characteristics have been investigated and shown to impact reactivity to the environment and have often been confused with SPS (Acevedo, 2020; Aron &amp; Aron, 1997). In particular, the relationship between SPS and neuroticism, misophonia, and psychological disorders has been of note.
+
+## Prevalence
+
+Initial estimates of the prevalence of a sensitivity temperament trait were reported by Kagan (1994). Kagan (1994) estimated that 15 to 25% of the population would fall into this temperament category. The trait was later investigated further by Aron and Aron (1997) in their development of the HSP Scale. They found that about 15 to 20% of the population reported
+
+experiencing a higher-than-average sensitivity to stimuli. Most research from this point tends to reflect the same prevalence for SPS in the general human population (Aron et al., 2012; Greven et al., 2019) as well as in many animal species (Aron, 2010). Among those who do possess the trait, Lionetti et al. (2018) found that there were three sub-groups that span a continuum of sensitivity from low to high. Lionetti et al.'s (2018) research reported that about 31% of HSPs fell into the highly sensitive group, about 40% were medium sensitivity, and about 29% reported low sensitivity.
+
+Many studies focused on SPS have small sample sizes and thus their findings are often not generalizable to the greater population. Similarly, there have yet to be any studies with enough of a sample to obtain a measurable prevalence statistic. There have also not been many studies that break down prevalence rates by demographic data. Aron (2010) mentioned that there are no significant differences in the reporting of SPS between men and women, though men do tend to have lower scores on the HSP scale. This is often cited as a product of gender socialization rather than an actual difference in sensitivity (Aron, 2010). Little research with a focus on culture differences exists; however, Chen et al. (1992) found that HSP children from China were valued by their peers in contrast to HSP children from Canada who were not. There are no reported prevalence statistics for HSPs among mental health professionals or graduate students studying mental health.
+
+## Differentiating SPS From Other Traits
+
+Having reviewed theories of SPS, related literature concerning the differentiation of SPS from other traits is an equally important area of review. This is an area of research that remains underdeveloped (Acevedo, 2020). At present, the primary focus of differentiation research has
+
+been on separating SPS from the big five personality traits (Smolewska et al., 2006) as well as related sensory processing diagnoses and psychopathology.
+
+The five-factor model of personality (FFM) represents an empirically validated understanding of basic personality traits exhibited by individuals (Costa &amp; McCrae, 1992). Neuroticism, Extraversion, Openness to Experience, Agreeableness, and Conscientiousness constitute the five factors (Costa &amp; McCrae, 1992). The FFM is often used to evaluate job applicant personality traits that employers deem favorable as well as to predict job performance (Hurtz &amp; Donovan, 2000; Smith et al., 2001). FFM traits are also positively correlated at .41 when using a multiple correlation of the five variables to predict job satisfaction (Judge et al., 2002).
+
+While investigating the psychometric properties of the HSP Scale, Smolewska et al. (2006) found that rather than being unidimensional, the scale could also be described with three components. Aesthetic Sensitivity (AES), Ease of Excitation (EOE), and Low Sensory Threshold (LST) made up these components and were found to be closely related to facets of the big five (Costa &amp; McCrae, 1992) personality traits. Associations with the big five were strongest between AES and Openness to Experience, as well as between LST and EOE and Neuroticism. Despite these associations with neuroticism, factors on the HSP scale were not found to be equal to this trait and correlations between AES and neuroticism were small (Smolewska et al., 2006). Bröhl et al. (2020) also found results like Smolewska et al. (2006) that SPS was closely related to several facets of the FFM of personality (Costa &amp; McCrae, 1992). This includes neuroticism, though they clarify that SPS should be perceived as a blending of personality traits across domains of neuroticism rather than an equivalent to it.
+
+In addition to these personality factor associations, Acevedo et al. (2017) compared fMRI imaging of individuals with ASD, schizophrenia (SZ), posttraumatic stress disorder (PTSD) and SPS and found SPS to be distinct from these similar disorders. Individuals with SPS displayed activity in brain regions differentially from ASD, SZ, and PTSD, specifically in the areas of memory, processing of reward stimuli, physiological homeostasis, processing the relation of self to others, empathy, and awareness (Acevedo et al., 2017).
+
+The similarities between SPS and misophonia have also been investigated. Misophonia is a condition in which an individual experiences a severe sensitivity to specific sounds or images (Misophonia Institute, 2016). Acevedo's (2020) review of the research summarized that the neurological reactivity associated with the two are distinct in nature. Misophonia is associated with negative reactivity and aversion to triggering stimuli whereas those with SPS experience a range of positive and negative reactivity to stimuli. While there is some overlap in the brain regions activated by stimuli for both, including the processing of emotions, visceral reactions, and memories, there are distinct differences in the activation of areas which regulate physical homeostasis. This evidence indicates that while similar, individuals with SPS compared to those with misophonia are not having the same experience.
+
+## Methods of Assessment
+
+As previously reviewed, the first assessment of SPS was developed and introduced by Aron and Aron in 1997. The scale was considered to measure a unidimensional construct. However, after further research (Smolewska et al., 2006) three factors were identified (AS, EOE, &amp; LST). There is currently still a need to distinguish what these factors are specifically measuring as well as a need to identify a factor that measures depth of processing. It has been reported that these are currently under investigation. Most recently a bifactor model has been
+
+proposed, which accounts for both a single HSP composite score as well as an additional three factor breakdown of EOE, AES, and LST components (Acevedo, 2020).
+
+Psychometrically, the HSP scale and the 12-item short version have both been found to be sound and have been adapted to several languages. Smith et al. (2019) recently reviewed nearly 30 articles using the HSP scale and evaluated its psychometric properties. They found that the scale was strongly internally consistent (α = .87). Both the unidimensional and three factor models were supported though there was low reliability on the subscales and the authors supported the one factor model. Convergent validity was strong among 12 other similar measures (Smith et al., 2019).
+
+## Adjustment of Persons With SPS
+
+Much of the SPS research focuses on psychological wellbeing and clinical outcomes (Acevedo, 2020). SPS has been shown to be associated with higher levels of stress, physical ailments, and lower subjective wellbeing (Acevedo, 2020; Benham, 2006; Engel-Yeger &amp; Dunn, 2011). Individuals with SPS also report lower satisfaction in their work (Acevedo, 2020). There is also evidence to indicate that SPS can lead to positive outcomes (Acevedo, 2020; Jagiellowicz et al., 2016). These topics will be reviewed subsequently.
+
+## Mental Health
+
+HSPs often present to therapy with concerns about setting healthy boundaries, feeling burned out, overstimulated, and overstressed especially during transitional periods in life (Acevedo, 2020). Individuals with SPS often struggle most with overstimulation, and difficulty regulating emotion. They are prone to lower self-esteem, higher sensitivity to criticism, shyness, difficulty committing, and tend to struggle with accommodating their lifestyles to their traits
+
+(Aron, 2010). Overstimulation can result in significant discomfort, reduced performance and be a substantial contributing factor toward the mental health of HSPs (Aron, 2010).
+
+Anxiety, depression, internalization, low emotion regulation, low self-esteem, and trouble managing stress are all negative mental health outcomes associated with SPS (Acevedo, 2020; Aron et al., 2010; Bakker &amp; Moulding, 2012; Brindle et al., 2015; Engel-Yeger &amp; Dunn, 2011). When someone with SPS is experiencing repeated and aversive internal overstimulation (stress, anxiety), their awareness, acceptance, and confidence in self-regulation is significantly impacted and can lead to continued negative affect, emotional exhaustion, depression, or other mental health concerns (Brindle et al., 2015; Evers et al., 2008; Lindsey, 2017).
+
+## Environment, Resources, and Support
+
+HSPs are at a particular risk of developing stress-related problems in response to negative environments; however, they also benefit more than those without SPS from positive and supportive environments (Greven et al., 2019). Individuals with SPS have a stronger response to both positive and negative images and those with positive developmental environments in childhood had increased responses to positive images (Jagiellowicz et al., 2016).
+
+Perceived stress can mediate the negative symptoms of SPS (Andresen et al., 2018; Engel-Yeger &amp; Dunn 2011). Emotional awareness, low emotion regulation, and distress intolerance partially mediate the impact of SPS on symptoms of depression, anxiety, and perceived stress (Brindle et al., 2015). Developing mindfulness and acceptance can moderate anxiety for SPS individuals (Bakker &amp; Moulding, 2012). Increasing coherence (defined as 'an individual's perception that stressors are comprehensible, manageable, and meaningful for their life') as well as physical activity and exercise may mitigate the negative impact of SPS on depression (Yano &amp; Oishi, 2018; Yano et al., 2019). SPS is also correlated with lower coherence,
+
+comprehensibility, manageability, and meaningfulness of work (Evers et al., 2008). These studies imply that raising awareness and understanding of the SPS trait may moderate the relationship between SPS and wellbeing, but no studies have explored this relationship. Additionally, the research indicates that increasing resources for managing symptoms of SPS might moderate the relationship between SPS and wellbeing (Bakker &amp; Moulding, 2012; Yano &amp; Oishi, 2018; Yano et al., 2018). No studies currently exist that explore these topics.
+
+## Relationships
+
+HSPs are also more able to benefit from positive interpersonal environments than nonsensitive individuals giving them higher levels of empathy, creativity, positive emotions, and improved communication (Acevedo, 2020). Acevedo et al. (2014) found that individuals with SPS in relationships show higher empathy-related brain activity to their spouses and may have a higher neurological reward impact when they view their partner's happy facial expressions. Negative impact on relationships has also been associated with SPS with some individuals reporting lower romantic and platonic love, and less happiness in overall relationships (Acevedo et al., 2014). Individuals with SPS also struggle with apprehension around communicating (Gearhart &amp; Bodie, 2012).  While some research suggests that HSPs would be good listeners, other research suggests that if a social environment is overstimulating to an HSP that their listening and communication skills may be negatively impacted subsequently hindering their social relationships (Acevedo, 2020).
+
+## Development
+
+Stage of development and age can impact the experience of SPS. It is likely that HSPs will be less sensitive during adolescence and mature at a slower pace. In middle adulthood they may struggle with self-assurance, and in late adulthood they will likely find themselves with
+
+either a very positive or very negative outlook on life and aging (Aron, 2010). HSPs who experienced childhood neglect may neglect their self-care later in life (Acevedo, 2020). This may also impact how their experience of overstimulation is expressed; a highly sensitive child who was praised for their resilience may be less in tune when their body is overstimulated. Children who experienced abuse may have learned to suppress their need to self-care after overstimulation which may present as an uptick in physical symptoms (Acevedo, 2020).
+
+## Subjective Wellbeing
+
+Individuals with SPS generally report lower satisfaction with life and lower happiness; however, as previously mentioned regarding mental health, these factors are also moderated by stress management skills, emotion regulation, childhood experiences, developmental environment, and current life stress (Acevedo, 2020; Bakker &amp; Moulding, 2012; Benham, 2006; Brindle et al., 2015). Positive experiences in childhood and positive developmental environments are also linked to more moderate levels of life satisfaction (Bakker &amp; Moulding, 2012; Benham, 2006). Perceiving subtleties in the environment can also influence an SPS individual's level of perceived stress (Wachs, 2013). The SPS trait of noticing aesthetics tends to have a more positive impact on HSPs and may enhance personal wellbeing (Sobocko &amp; Zelenski, 2015). Individuals with SPS may greatly benefit from practicing mindfulness. Takahashi et al. (2019) found that facets of meditation including nonreactivity, nonjudgement, observation, and acting based on awareness, mitigated the impact of ease of excitation and low sensory threshold on anxiety.
+
+## Career Satisfaction
+
+Individuals with SPS experience more overall work-related stress including lower work satisfaction, higher burnout, higher emotional exhaustion, and report needing more time to
+
+recover after work duties (Acevedo, 2020, Andresen et al., 2018; Evers et al., 2008; Jaeger, 2004; Lindsay, 2017; Redfearn et al., 2020; Vander Elst et al., 2019). HSPs may have a longer history of career changes or prefer to be self-employed (Acevedo, 2020; Aron, 2010; Cooper, 2014; Jaeger, 2004). Workers with SPS are also reported to be more empathetic, conscientious, and respond better to supportive work environments (Andresen et al., 2018; Jaeger, 2004; Vander Elst et al., 2019).
+
+## Work Relationships
+
+Interpersonal conflicts and discomfort with coworkers are often the most stressful career related concerns of HSPs (Jaeger, 2004). An HSPs increased empathy and stronger reaction to emotional stimuli may imply better communication and rapport with others in a work environment (Acevedo, 2020). HSPs may also struggle setting healthy boundaries at work (Acevedo, 2020; Jaeger, 2004). They may have trouble saying no to new projects when they need to balance their workload or struggle to explain why working longer hours impacts their wellbeing or productivity (Acevedo, 2020). Acevedo (2020) theorized that these individuals may benefit from psychoeducation on turning down a request without explaining as well as from negotiating rest time after a project to which they agreed. It is also likely that these individuals had fewer chances to practice healthy boundaries during childhood (Acevedo, 2020).
+
+HSPs are also more sensitive to both positive and negative feedback, which could likely impact how they interact with supervisors and authority figures in a work environment (Acevedo, 2020). The aversion to feedback that many HSPs experience may negatively impact their perspective of social and work relationships. Their negative reactions may imply to others that feedback is not wanted, and thus, HSPs find themselves confused when they feel that they may be doing okay at work but are continuously overlooked for promotion (Acevedo, 2020).
+
+HSPs often speak more quietly than others and may become overstimulated when surrounded by louder or more boisterous coworkers (Acevedo, 2020). They may also feel alienated (Evers et al., 2008). HSPs may need to become skilled at sharing important interpersonal feedback with others who could be triggering as well as learn to speak up to have their voices heard. Sensitive individuals may benefit from taking breaks to rest and rebalance during a conflict or uncomfortable interpersonal encounter (Acevedo, 2020). HSPs may also have to work hard to increase their volume and self-promotion in work settings, to fit in better with more extrovert-accommodating work atmospheres and individuals. Obtaining additional training or credentials may give them more influence, increase their credibility, and give their voice more confidence (Aron, 2010). Otherwise, HSPs may be conceptualized as loners, troublemakers, less intelligent, lazy, or mentally ill if they do not conform to the social expectations of the office atmosphere (Aron, 2010; Jaeger, 2004).
+
+HSPs may benefit from strategic disclosure of their trait in a work setting. When doing so, it could be advantageous to disclose a strength of the trait in conjunction with expressing a need (Acevedo, 2020; Aron, 2010). For example, HSPs may have more creative solutions to work problems through deeper processing and greater attention to detail (Acevedo, 2020). Relating their creativity to the need for a quiet, distraction free work environment like a personal office, or working from home may provide a meaningful request that has a higher likelihood of being granted (Acevedo, 2020; Aron, 2010).
+
+## Work Environment
+
+HSPs are likely to be troubled by their work environment including the lighting, personal space, and noise and may have to incorporate creative solutions to these if they do not have enough influence to ask for accommodation (Aron, 2010; Jaeger, 2004). They may often
+
+consider self-employment as an alternative (Aron, 2010; Cooper, 2014). Some HSPs, specifically those who may also suffer from mental health concerns, may experience somatic ailments or physical health issues in response to unfavorable work environments. These individuals may need to take breaks from working and make their focus working on themselves before they are ready to face the extrovert-centered atmospheres in workplaces. Some HSPs may never acclimate to working and may subsequently experience shame (Aron, 2010).
+
+In their work environment, HSPs prefer natural light, organization and order, spacious work areas, but not open office layouts, and a lack of noise, strong smells, or extreme temperatures (Cooper, 2014). They also prefer fewer social interactions in work environments. HSPs also reported dislike of superficiality in social interactions and experiencing social fatigue when interacting with coworkers for too long. One on one interactions, and quiet atmospheres to focus on work absent social interactions were also preferred. Supervisors who attended to creating positive work atmospheres were preferred. Aggression and high competitiveness in coworkers were disliked by HSPs. HSPs prefer autonomy, flexibility in time management, meaningful and mentally stimulating tasks, and dislike micromanagement and repetition in their work structure. HSPs need work to be fulfilling and meaningful and include themes like altruism, conscientiousness, and a lack of superficiality (Cooper, 2014; Jaeger, 2004). Many HSPs in one study had transitioned to working from home or to self-employment, which seems common for people with the trait (Acevedo, 2020; Aron, 2010; Cooper, 2014).
+
+## Vocational Fields
+
+Aron (2010) posited that HSPs were at one point best suited for careers in helping fields, advocacy fields, education, spirituality, art, and history. These fields have become more and more grueling both in their standards of education and practice. Doctors, lawyers, teachers, and
+
+artists all experience significant strife, and these fields are known to be difficult either in their training or practice (or both). Presently, HSPs tend to work well in consulting, strategizing, supportive roles, or training roles for career fields they may find difficult or overstimulating to take part in themselves (Aron, 2010).
+
+## Work Values
+
+Work that carries meaning is very important to the HSP (Jaeger, 2004). If in a position that does not stimulate them meaningfully, HSPs may feel less coherence about their work, less comprehensibility, and that tasks are less manageable (Evers et al., 2008; Jaeger, 2004).  HSPs may also experience boredom easily if they find themselves in a career where they feel their abilities are underutilized or where they experience less fulfillment and meaning (Acevedo, 2020; Jaeger, 2004).
+
+In Jaeger's (2004) book, Making Work Work for the Highly Sensitive Person , the author explores three states that HSPs experience regarding work: 'Drudgery, Craft, and Calling' (Jaeger, 2004, p. 6). Drudgery is described as work that feels burdensome and draining and may lead to burnout, depression, or hopelessness about one's career. Craft is work that is both not too bad and not quite good. Jaeger notes that Craft 'lacks both the vast passion of Calling or the acute pain and suffering of Drudgery' (Jaeger, 2004, p. 98). Individuals who label their work as Craft may experience their job as mostly positive, but they may also walk away from it at any time.  Calling is described by Jaeger (2004) as work that a person cannot seem to stop doing, about which they are enthusiastic and passionate, and that brings joy and energy to their life.
+
+## Highly Sensitive Mental Health Graduate Students and Professionals
+
+The present study focused on highly sensitive graduate students studying to be mental health professionals as well as highly sensitive mental health professionals who have completed
+
+their education. These populations are known to face significant stress caused by the nature of their work (Boyd et al., 2016; Butler et al., 2017). Not much is known about the interaction of SPS and those who study and work in mental health fields.
+
+## Who Are Mental Health Practitioners?
+
+Practitioners in the mental health field encompass several different specific disciplines, each with a range of academic degree requirements and licensure processes. For example, the term psychologist is defined as an individual with a doctoral degree in psychology from an accredited program (American Psychological Association [APA] et al., 1987). The American Counseling Association (ACA) defined counseling as a 'professional relationship that empowers diverse individuals, families, and groups to accomplish mental health, wellness, education, and career goals' (ACA, 2010). Counselors are typically mental health professionals with a master level degree in counseling, mental health counseling, or a related field (National Alliance on Mental Illness [NAMI], 2020). A social worker is defined as a master level health professional whose focus is therapeutic intervention, case management, and client advocacy (NAMI, 2020). The National Association of Social Workers (NASW) requires that professionals with this title possess degree in social work and a knowledge of 'human development and behavior, social, economic, and cultural institutions; and of the interaction of all these factors' (NASW, 2021). Psychiatric nurses provide clients with a range of care focused on "nursing, psychosocial, and neurobiological expertise" and help individuals improve their wellbeing "through prevention and education, assessment, diagnosis, care, and treatment of mental health and substance use disorders' (American Psychiatric Nurses Association, 2021).  Psychiatric nurses obtain an associate degree or a bachelor of science degree in nursing. A psychiatrist is a medical doctor with a specification in mental health and "specializes in the evaluation and treatment of mental,
+
+addictive, and emotional disorders...mood disorders, anxiety disorders, substance-related disorders, sexual and gender identity disorders, and adjustment disorders' (American Medical Association, 2021).
+
+According to the APA, in 2017 there were just under 500,000 students with a graduate level degree in applied psychology (Conroy et al., 2019). Thirteen percent of these hold a master level degree and 4% hold a doctoral level degree (Conroy et al., 2019). These statistics reduce further for the applied fields. For the 2020 - 2021 school year, APA reported that from a total of 834 doctoral degree programs, an average of 39 doctoral students enrolled in each clinical psychology program, 30 in counseling, 22 in school psychology and 13 in other applied psychology programs (APA, 2021). In the same year, from 459 master programs, there was an average of 24 students enrolled in each clinical psychology, 33 in counseling master programs, 28 in school psychology, and 18 listed in other applied master programs (APA, 2021). In 2019, the Council on Social Work Education (CSWE) reported that approximately 68,000 students pursued a master's degree in social work and about 1,500 pursued a doctoral level degree (CSWE, 2019). The American Association of Colleges of Nursing (2021) reported over 150,000 nursing students enrolled in master level programs, and nearly 40,000 students in doctoral level programs. No statistics were reported for how many of these students might be studying mental health or psychiatric nursing. In 2020, out of nearly 18,000 senior medical doctors, 14% applied to a psychiatry residency (National Resident Matching Program, 2021).
+
+Moving from students to established professionals, there are currently nearly 180,000 professional psychologists and about 28,000 psychiatrists in the workforce (United States Bureau of Labor Statistics [USBLS], 2021). There are approximately 327,000 counselors employed in the United States (USBLS, 2021). Social workers have about 715,000 professionals working in
+
+the field (USBLS, 2021). It is estimated that about 33,000 nursing professionals specialize in psychiatric care (Smiley et al., 2021). Taken together, it is clear there are large numbers of students and professionals in mental health fields. If prior estimates are accurate regarding the percentages of HSPs (Aron &amp; Aron, 1997), it would be expected that 15-20% of these students and professionals to fall in the HSP category, but there currently is no information to confirm or refute that.
+
+## Mental Health for Mental Health Students and Professionals
+
+Both graduate students and professionals in the mental health industry experience significant mental health concerns of their own (Boyd et al., 2016; Butler et al., 2017; Rummell, 2015).  These individuals find themselves in various stressful work atmospheres that can be chaotic and overstimulating (Dorociak et al., 2017; Mackie &amp; Bates, 2019). This sensitivity to these environments may be a contributing factor to mental health workers' psychological distress but manner and strength is unknown (Vander Elst et al., 2019).
+
+Many factors have been shown to negatively contribute to the mental health of doctoral level students studying psychology (Ayala et al., 2017; Butler et al., 2017; Drake, 2010; Mackie &amp; Bates, 2019; Maton, et al., 2011; Rummell, 2015; Wilcox et al., 2019). Among these are negative relationships with supervisors, lack of mentorship, lack of support, lack of university process transparency, high student workload, secondary traumatic stress from practicum or clinical work, burnout, lack of work-life balance, lack of financial stability, lack of diversity and acceptance, and career outlook concerns (Mackie &amp; Bates, 2019; Maton, et al., 2011, Rummell, 2015; Wilcox et al., 2019). Graduate students studying mental health and psychology report higher rates of physical and mental health issues which increase alongside workload requirements (Ayala et al., 2017; Rummell, 2015). In Rummell's (2015) study, nearly half of the
+
+119 participants reported anxiety at a clinically significant level and almost 40% reported significant depression (Rummell, 2015). Women in health service psychology graduate programs reported significantly higher stress and lower quality of life 'compared to other populations' (Ayala et al., 2017, p. 18). Psychology graduate students also report experiencing vicarious trauma as well as symptoms of PTSD in their work while in school (Ergas, 2012). Many participants in Ergas' study reported social withdrawal, isolation, and reduced contact with close others as a result of their training experiences (Ergas, 2012). To date, this researcher can find no such research which assesses the mental health, adjustment, or life satisfaction of graduate students who are also HSPs.
+
+Early career psychologists also report significant work stress, lack of resources, and little time for self-care (Dorociak et al., 2017). Research reflects similar outcomes across mental health professions (Boyd et al., 2016; Butler et al., 2017). Psychologists, social workers, nurses, and psychiatrists all face significant prejudice and stigma regarding their own mental health, are just as vulnerable to mental illness as their clients, and often do not seek help as a result of this stigma (Banerjee et al., 2020; Boyd et al., 2016; Byrne et al., 2021; Elliott &amp; Ragsdale, 2020; Turgoose &amp; Maddox, 2017; Ventriglio et al., 2020; Vierthaler &amp; Elliott, 2020). Psychiatrists are among the list of professions associated with a higher risk for suicide (Gerada, 2018). Due to the nature of their work, psychologists and other mental health professionals often experience vicarious or secondary trauma, complex trauma, compassion fatigue, depression, anxiety, and burnout, which can adversely impact their work and life satisfaction (Banerjee et al., 2020; Ivicic &amp; Motta, 2017; O'Conner et al., 2018; Sciberras &amp; Pilkington, 2018; Turgoose &amp; Maddox, 2017; Ventriglio et al., 2020; Yang &amp; Hayes, 2020). In a recent meta-analysis, 40% of the approximately 9,400 mental health professionals reported emotional exhaustion, 19% reported a
+
+low sense of personal accomplishment, and 22% reported experiencing depersonalization (O'Conner et al., 2018). Work-related factors associated with burnout were increased workload and having less autonomy and job control (O'Conner et al., 2018). Professionals working in community mental health and in acute inpatient ward settings reported the highest levels of emotional exhaustion (O'Conner et al., 2018). Social workers and nurses reported the highest emotional exhaustion compared to other mental health professionals (O'Conner et al., 2018). As noted earlier, this researcher can find no current research that assesses the mental health, adjustment, or life satisfaction of mental health professionals who are also HSPs.
+
+## Summary and Rationale
+
+In conclusion, while a good deal is currently known about HSPs and there is also a welldeveloped literature regarding mental health practitioners' and mental health graduate students' stressors and mental health struggles, the possible relationships between SPS, subjective wellbeing, career satisfaction, and mental health of this population have not yet been examined. Therefore, this exploratory study sought to understand the prevalence of SPS among a population of mental health graduate students and mental health professionals compared to those not in mental health studies or fields, and identified factors that moderated the relationship between SPS and wellbeing, career wellbeing, and mental health wellbeing.
+
+This study identified seven distinct variables for examination: SPS, Profession (P), Wellbeing (WB), Career Wellbeing (CWB), Mental Health Wellbeing (MHWB), Understanding of SPS trait (U), and available resources to manage symptoms of the trait (R). It was predicted that the general distribution of SPS among all participants would be approximately 30% low, 40% medium, and 30% high sensitivity as demonstrated in previous research (Lionetti et al., 2018).  It was predicted that SPS would not significantly correlate with trait negative affectivity
+
+(alternatively labeled Neuroticism vs. Emotional Stability on the Big Five Inventory) based on previous research (Smolewska et al., 2006).
+
+Based on their strengths in empathy and sensing the subtle, HSPs may find themselves more commonly in mental health related fields (Aron, 2010). Therefore, it was believed that mental health graduate students and mental health professionals would have higher SPS scores in comparison to individuals not in mental health fields. Since previous research has shown that men tend to score lower on SPS compared to women, gender was predicted to be a significant moderator of the relationship between SPS and WB, CWB, and MHWB (Aron, 2010). Gender socialization and expression may vary across gender, which could inform an individual's reporting of their sensitivity as well as intersect with their domains of wellbeing (Aron, 2010). This study also explored what, if any, demographic variables might significantly moderate the relationship between SPS and WB, CWB, and MHWB. Research has indicated that increasing an individual's understanding of SPS as well as increasing resources to manage symptoms have been shown to improve outcomes for HPSs (Bakker &amp; Moulding, 2012; Brindle et al., 2015; Evers et al., 2008; Greven et al., 2019; Yano &amp; Oishi, 2018; Yano et al., 2018). Therefore, this study also explored whether an understanding of the SPS trait, resources to manage SPS symptoms, and profession would significantly moderate the effects between SPS and the three domains of wellbeing.
+
+This work is important for many reasons. Compared to other topics, SPS is a relatively understudied topic. This study sought to add to the existing research by confirming some of the recent findings regarding the distribution of SPS (Lionetti et al., 2018). The study also sought to understand if SPS is higher in individuals working in mental health fields as this is currently a gap in the literature though theoretically predicted (Aron, 2010).
+
+The above outlines how SPS has had a significant impact on wellbeing of those individuals with the trait, sometimes positively and sometimes negatively (Acevedo, 2020; Benham, 2006; Engel-Yeger &amp; Dunn, 2011; Jagiellowicz et al., 2016). This study sought to better understand this impact in order to ultimately reduce stigma experienced by graduate students and professionals in the mental health field who have SPS, to educate those with SPS as well as their employers, educators, and mentors, and to contribute to improved wellbeing outcomes (Banerjee et al., 2020; Boyd et al., 2016; Byrne et al., 2021; Elliott &amp; Ragsdale, 2020; Turgoose &amp; Maddox, 2017; Ventriglio et al., 2020; Vierthaler &amp; Elliott, 2020). HSP often struggle most at work (Acevedo, 2020; Andresen et al., 2018; Evers et al., 2008; Jaeger, 2004; Lindsay, 2017; Redfearn et al., 2020; Vander Elst et al., 2019) This research could contribute to job training that accommodates SPS symptoms, helps HSPs feel more comfortable in their work environments, and to enhance outcomes in vocational environments for this population. The methods for this investigation have been detailed in the next chapter.
+
+## CHAPTER III
+
+## METHODOLOGY
+
+## Participants
+
+The study had a total of 260 participants who were over the age of 18, understood written English, and possessed the motor ability to engage with computer hardware and software. Table 1 displays the categorical demographic variables of the full sample, and Table 2 displays the continuous demographic variables of the full sample.
+
+Table 1 Participant Categorical Demographics
+
+|                     | n   | %   |
+|---------------------|-----|-----|
+| Gender              |     |     |
+| Cisgender Women     | 205 | 79  |
+| Cisgender Men       | 27  | 10  |
+| Other               | 28  | 11  |
+| Sexual Orientation  |     |     |
+| Non-heterosexual    | 91  | 35  |
+| Heterosexual        | 167 | 64  |
+| NA                  | 2   | 1   |
+| Relationship Status |     |     |
+| Non-partnered       | 66  | 25  |
+| Partnered           | 192 | 74  |
+| NA                  | 2   | 1   |
+
+|                                 | n   | %    |
+|---------------------------------|-----|------|
+| Ethnicity                       |     |      |
+| Black/African American          | 15  | 6    |
+| Asian/Hawaiian/Pacific Islander | 10  | 4    |
+| Hispanic/Latinx                 | 28  | 11   |
+| Native American                 | 3   | 1    |
+| Mixed/Other/NA                  | 16  | 6    |
+| White/Caucasian/European        | 188 | 72   |
+| College                         |     |      |
+| No college                      | 20  | 8    |
+| Trade/Vocational                | 2   | 1    |
+| Undergraduate                   | 111 | 43   |
+| Graduate                        | 127 | 49   |
+| License                         |     |      |
+| No License                      | 108 | 42   |
+| License                         | 152 | 59   |
+| Mental Health Student           |     |      |
+| Yes                             | 50  | 19   |
+| No                              | 210 | 81   |
+| Mental Health Graduate Student  |     |      |
+| Yes                             | 35  | 13.5 |
+| No                              | 225 | 86.5 |
+| Mental Health Professional      |     |      |
+
+|                  | n   | %   |
+|------------------|-----|-----|
+| Yes              | 58  | 22  |
+| No               | 202 | 78  |
+| Knowledge of SPS |     |     |
+| Yes              | 194 | 75  |
+| No               | 66  | 25  |
+
+Note. SPS = SPS
+
+There were a range of reported gender identities including AFAB, agender, cisgender man, cisgender woman, demigirl, demiguy, gender fluid, nonbinary, transgender man, and transgender woman; however, for the purposes of power in analyses, they were compressed in to three categories: cisgender men, cisgender women, and other.
+
+Table 2 Participant Continuous Demographics
+
+|                           | Mean      | SD         | Range         |
+|---------------------------|-----------|------------|---------------|
+| Age                       | 35        | 13         | 18-79         |
+| Income                    | 73,010.06 | 124,941.69 | 0 - 1,750,000 |
+| Years of Education        | 18        | 3.08       | 10 - 28       |
+| Years of Experience in MH | 10        | 11         | 1 - 50        |
+| Hour per week in MH       | 10        | 11         | 1 - 50        |
+| Understanding of SPS      | 3.7       | .93        | 2 - 6         |
+
+Note. MH = Mental Health, SPS = SPS, Income is in United States Dollars per year.
+
+An examination of Tables 1 and 2 reveals that this sample was largely comprised of White, cisgender women, and about two thirds heterosexual, and three quarters partnered. Most individuals were in their mid-30s and made higher than the U.S. national average in salary. Nearly all participants were educated beyond a high school level, and more than half held a professional vocational license. Graduate students in mental health specialties made up a little over 10% of the sample and mental health professionals were nearly a quarter of the sample. Mental health professionals had on average about a decade of experience working in their field and generally worked less than part time. Most had heard of the concept of SPS previously and of those who had knowledge, their understanding of the concept was above average.
+
+## Instruments
+
+## Demographics
+
+The demographics questionnaire was developed by the primary researcher for the purposes of this study (see Appendix A). It consists of 13 questions measuring the various identity variables of each participant, education level, and employment information. There are a range of answer formats, including open ended questions so that participants may self-identify their social locations. Samples include 'What is your age,' and 'Are you currently working in a mental health related job?'
+
+## Understanding
+
+Questions gauging the level of understanding and coherence of the trait of SPS were developed for the purposes of the present study by the researcher, thus there are no validity or reliability measures to report (see Appendix B). The first question asked participants 'have you ever heard of the concept of Highly Sensitive People or SPS,' and gave them a yes or no response choice. Respondents who answered yes were also be asked to rate their level of
+
+understanding of this concept from 1 ( very low ) to 6 ( very high ) and given the following definition on a Likert scale: 1 - I have never heard of these concepts before, 2 - I have heard of, but know nothing about these concepts, 3 - I have heard of and have a minimal knowledge of these concepts, 4 - I have heard of and have a moderate knowledge of these concepts, 5 - I know a lot about these concepts, and 6 - I have expert knowledge about these concepts.
+
+## Sensory Processing Sensitivity
+
+The HSP Scale (HSPS; Aron, &amp; Aron, 1997; see Appendix C) was used to assess individuals for SPS. The HSPS is a 27-item scale consisting of items such as 'Do you have a rich, complex inner life,' and 'Are you conscientious?' Respondents were asked to rate their answers on a Likert scale ranging from 1 ( Not at All ) to 7 ( Extremely ). Scores were totaled and interpreted on a continuum of strength from low to high sensitivity (Aron, 2018). Psychometric analyses for the HSPS have recently reported that it has an aggregated internal consistency of .87 across 29 studies, strong convergent validity compared to similar scales, and structural validity for both 1 and 3 factor models (Smith et al., 2019; Smolewska et al., 2006). A unidimensional interpretation is recommended as subscales show low reliability (Smith et al., 2019).
+
+## Resources
+
+The Self-Care Assessment for Psychologists (SCAP; Dorociak et al., 2017; see Appendix D) was used to assess the professional and mental health resources that participants have available to them. The SCAP uses 21 items to assess five domains of self-care relevant for mental health professionals personal and professional functioning (Dorociak at al., 2017). These domains are professional support, professional development, life balance, cognitive strategies, and daily balance (Dorociak at al., 2017). Items include questions like 'I take part in workrelated social events,' and 'I find ways to foster a sense of social connection and belonging in
+
+my life.' Participants were instructed to rate the frequency of their engagement in these behaviors on a Likert scale from 1 ( never ) to 7 ( always ). Higher scores indicated healthier selfcare behaviors. Previous research supports the internal consistency and validity (.70 - .83 across the five) of this scale (Dorociak at al., 2017).
+
+## Wellbeing
+
+The Multicultural Quality of Life Index (MQLI; Mezzich et al., 2011; see Appendix E) was used to assess 10 dimensions of participants' quality of life. Respondents were asked 10 items to rate the quality of their physical and psychological wellbeing on a Likert scale with answers ranging from 1 ( poor ) to 10 ( excellent ; Mezzich et al., 2011). Scores were totaled and then averaged to obtain a final score which is interpreted on a continuum of low to high overall quality of life (Mezzich et al., 2011). Each dimension of wellbeing was asked using a single item like 'Physical Well-being (feeling energetic, free of pain and physical problems)' (Mezzich et al., 2011). The MQLI has a .87 test -retest reliability and a .92 internal consistency.
+
+## Career Wellbeing
+
+The Professional Quality of Life Scale (PQOL; see Appendix F) was used to measure participants' career satisfaction and wellbeing. It assesses compassion satisfaction and compassion fatigue, the latter hypothesized to include components of both burnout and secondary trauma. The 30-item questionnaire asked respondents to rate the frequency of their experiences of work-related situations within the last 30 days (Stamm, 2010). Ratings range from 1 ( never ) to 5 ( very often ) and include items like 'I like my work as a helper,' and 'I am proud of what I can do to help' (Stamm, 2010). Scoring involved reversing answers to five of the items, then totaling scores for each of three domains: Compassion Satisfaction items, and 30, Burnout items, and Secondary Traumatic Stress items (Stamm, 2010). Scores for each subscale
+
+were interpreted using cutoffs including 22 or fewer meaning low, 23 to 41 meaning average, and 42 or more meaning high (Stamm, 2010).  There has been controversy regarding the internal factor structure of the instrument, with Stamm (2010) originally proposing three factors. Recent studies have shown that the PQOL is best interpreted as a bifactor model with an overall dimension of satisfaction in addition to a second factor, which showed compassion fatigue and compassion satisfaction to essentially be different levels of the same construct (Geoffrion et al., 2019). This bifactor model has moderate to strong convergent and discriminant validity compared to other scales (Geoffrion et al., 2019). While it is possible for these two factors to be analyzed separately, for the purposes of this study, the PQOL was interpreted as a single overall career satisfaction score as suggested by Geoffrion et al. (2019).
+
+## Mental Health Wellbeing
+
+The Depression, Anxiety, and Stress Scale (DASS-21; Lovibond, &amp; Lovibond, 1995; see Appendix G) measures an individual's experience of stress, anxiety, and depression within the last 7 days using 21 items. Answers were on a Likert scale ranging from 0 ( Did not apply to me at all ) to 3 ( Applied to me very much or most of the time ). Sample items include 'I found it difficult to relax,' and 'I felt I was close to panic.' Scores were combined to encompass depression, anxiety, and stress as one combined measure of mental health wellbeing. The DASS has excellent reliability and demonstrates internal consistency, temporal stability, and sensitivity to measure dimensions of change over time (Cunningham et al., 2013). Convergent and discriminant validity for the DASS is also reported to be strong (Cunningham et al., 2013).
+
+## Differentiation
+
+The Negative Emotionality Subscale of the Big Five Inventory-2-Short Form (BFI-2-S; Soto &amp; John, 2017; see Appendix H) was used in this study to differentiate SPS from trait
+
+negative emotionality. The subscale of the short version was chosen to broadly compare SPS to those who meet criteria for negative emotionality on this scale (Soto &amp; John, 2017). This subscale consists of six items asking respondents to rate statements such as 'Worries a lot,' and 'Tends to feel depressed, blue' on a Likert scale from 1 ( Disagree strongly ) to 5 ( Agree strongly ). Scores were totaled for an overall score of the personality domain. The BFI-2-S is considered 90% as reliable and valid as the BFI-2 full scale (Soto &amp; John, 2017). The negative emotionality subscale demonstrated a satisfactory alpha reliability of .83 in Soto and John's (2017) initial work, though the authors recommended obtaining larger samples (approximately 400 or more) if using subscales alone or administering the entire inventory if samples are smaller. Due to the length of the survey, researchers opted to use the short form despite this guidance primarily to reduce fatigue and retain participants.
+
+## Procedure
+
+Participants were recruited through a combination of sampling strategies.  Because the primary population being studied was mental health graduate students and mental health professionals, electronic invitations to complete the online survey were shared with the researcher's colleagues through personal email or Facebook, and these individuals were encouraged to circulate the survey among their colleagues as well. Regional and national nonprofit and professional organizations were also contacted and invited to distribute the survey to their members. For example, professional organizations like the Council for the Accreditation of Counseling and Related Educational Programs (CACREP) were utilized for their directory of applied psychology masters counseling programs; directors of these programs were contacted and invited to distribute the survey to their students. Graduate applied psychology program training directors were also targeted to share the invitation with students in their programs.
+
+Organizations such as the ACA, The Association of Counseling Center Training Agencies (ACCTA), and various divisions of the APA allowed research postings as well. No incentives were offered for participation and results were not distributed. Data were stored on an encrypted, password protected flash drive and destroyed upon completion of the research.
+
+Participants were presented with an informed consent document (appendix I) upon clicking on the survey link which was hosted by PsychData. Upon confirmation of their consent and their age, they were prompted to share demographic information using questions created for this study by the primary researcher. Following this, participants were asked questions to measure their understanding of the SPS trait, then completed the HSPS (Aron &amp; Aron, 1997), the SCAP (Dorociak et al., 2017), the MQLI (Mezzich et al., 2011), the PQOL (Stamm, 2010), the DASS-21 (Lovibond, &amp; Lovibond, 1995), and the BFI-2-S (Soto, &amp; John, 2017). A final screen thanked participants for their time and provided a list of counseling referral resources (see Appendix J) as per the informed consent document.
+
+## Hypotheses and Analyses
+
+After completion of data collection, all data were cleaned, checked for normality, and missing or invalid data was removed (e.g., duplicates, impossible survey duration, impossible values) to prepare the data set for analysis. Descriptive statistics were computed for all continuous variables (all scales; relevant demographics). Frequencies and percentages were analyzed for categorical demographic variables.
+
+Primary analysis for this study occurred in four phases (see Table 3). Phase one focused on validating findings from previous research on SPS. It explored the distribution of low, medium, and high scores on the SPS scale to compare to previous research (Lionetti et al., 2018) as well as provided data to differentiate SPS from trait negative emotionality (Smolewska et al.,
+
+2006). Phase two explored how the SPS scores of mental health graduate students and mental health professionals compared to the SPS scores of participants not in mental health fields. Phase three explored identifying demographic moderators of the relationship between SPS and WB, CWB, and MHWB. Phase four explored to what extent any identified moderators from phase three, and the expected moderators (U, R, and P), significantly moderated the relationship between SPS and the three domains of wellbeing (WB, CWB, and MHWB). Three separate analyses were conducted with each of the well-being variables.
+
+## Phase One
+
+A frequency distribution was conducted on the HSPS scores using cutoffs identified in Lionetti et al. (2018) to categorize scores as low (0 - 3.71), medium (3.71 - 4.66), or high (4.66 and above) and identified percentages of individuals in each. Following this, a Pearson correlation was run to explore the relationship between SPS and negative emotionality.
+
+## Phase Two
+
+Independent samples t-tests were completed to explore how SPS scores compared between mental health graduate students and non-mental health graduate students. Another independent samples t-test was completed to compare SPS scores for mental health professionals and non-mental health professionals.
+
+## Phase Three
+
+A moderated multiple regression was completed to identify whether gender was a moderator of the relationship between SPS and the three domains of wellbeing. Exploratory analyses, using linear regression were completed to identify whether any additional demographics variables existed as significant moderators of the relationship between SPS and the three domains of wellbeing.
+
+## Phase Four
+
+Three separate linear regressions (WB, CWB, and MHWB) were conducted to explore the relative contribution of all significant moderators in earlier analyses. All research hypotheses and their corresponding analysis are noted in Table 3.
+
+Table 3 Research Hypotheses and Statistical Analysis
+
+|     | Hypothesis                                                                                                                                                                                                                      | Analysis                      |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| H1: | Distribution for SPS will be approximately 30% low, 40% medium, and 30% high sensitivity.                                                                                                                                       | Frequency Distribution        |
+| H2: | SPS scores will not be significantly correlated with trait negative emotionality.                                                                                                                                               | Pearson Correlation           |
+| H3: | Mental Health Graduate Students will have significantly higher SPS scores compared to students of other fields.                                                                                                                 | Independent Samples T-Test    |
+| H4: | Mental Health Professionals will have significantly higher SPS scores compared to professionals in other fields.                                                                                                                | Independent Samples T-Test    |
+| H5: | Gender is predicted to significantly moderate the relationship between SPS and wellbeing, career wellbeing, and mental health wellbeing.                                                                                        | Moderated Multiple Regression |
+| H6: | One or more demographics variables will significantly moderate the relationship between SPS and wellbeing, career wellbeing, and mental health wellbeing.                                                                       | Moderated Multiple Regression |
+| H7: | One or more of the identified moderators from H5 and H6, in addition to, the variables of understanding, resources, and profession will significantly moderate the relationship between SPS and the three domains of wellbeing. | Moderated Multiple Regression |
+| H8: | One or more of the identified significant moderators from H5 - H7 will jointly moderate the relationship between SPS and the three domains of wellbeing.                                                                        | Moderated Multiple Regression |
+
+## CHAPTER IV RESULTS
+
+## Descriptive Statistics
+
+Descriptive statistics for all measures are presented below. Table 4 shows the ranges, average scores, standard deviations, and Cronbach's alpha for each of the instruments used.
+
+Table 4 Descriptive Statistics for Study Measures
+
+|                                        | Mean   | SD   | Range       | α   |
+|----------------------------------------|--------|------|-------------|-----|
+| HSP Scale                              | 4.63   | 1.07 | 1 - 7       | .93 |
+| Self-Care Assessment for Psychologists | 5      | 1    | 1.95 - 7    | .90 |
+| Multicultural Quality of Life Index    | 7      | 1.63 | 1.1 - 10    | .88 |
+| Professional Quality of Life Scale     | 2.78   | .4   | 1.67 - 4.17 | .79 |
+| Depression, Anxiety, and Stress Scale  | 1.87   | .62  | 1 - 3.86    | .94 |
+| Big Five Inventory - 2 - Short Form -  | 2.9    | .9   | 1 - 5       | .82 |
+| Negative Emotionality Subscale         |        |      |             |     |
+
+On the HSPS, participants scored on average above the scale midpoint on the HSPS indicating that in this sample, moderately high levels of sensitivity were evident. Similar moderate elevations were evident on the SCAP, MQLI, and PQOL reflecting better self-care practices and generally higher wellbeing across the sample. On the DASS as well as the BFI-2-S Negative Emotionality Subscale, participants scored on average above the midpoint again indicating this sample endorsed higher depression, anxiety, stress, and neuroticism.
+
+## Primary Hypotheses
+
+## Hypothesis One
+
+The distribution for SPS was predicted to be approximately 30% low, 40% medium, and 30% high sensitivity across the sample. A frequency distribution showed that HSPS scores in this sample were 22.3% low ( n = 58), 23.8% medium ( n = 62), and 53.8% high ( n = 140) sensitivity. Chi-Square analyses also compared SPS scores with the full sample, mental health graduate students, and mental health professionals (see Table 5). This hypothesis was not supported.
+
+Table 5 Sensory Process Sensitivity by Group
+
+|                                     |   n | χ 2     |
+|-------------------------------------|-----|---------|
+| All                                 | 260 | 67.46** |
+| Mental Health Graduate Students     |  35 | 10.05*  |
+| Non-Mental Health Graduate Students | 103 | 16.83** |
+| Mental Health Professionals         |  58 | 25.43** |
+| Non-Mental Health Professionals     | 202 | 47.67** |
+
+Note. * p &lt; .05, ** p &lt; .001
+
+## Hypothesis Two
+
+No correlation was predicted between SPS scores and trait negative emotionality. A Pearson correlation showed a moderate, positive correlation,  (258) = .49, r p &lt; .001, between SPS scores and trait negative emotionality on the BFI-2-S.
+
+## Hypothesis Three
+
+Mental health graduate students were predicted to have significantly higher SPS scores compared to students of other fields. The Levene's test was not significant F = .312, p = .577, indicating that the two groups meet the assumption of equal variances. An independent samples T-test showed that graduate students majoring in mental health fields ( M = 4.80, SD = 1.11) had statistically significantly higher SPS scores compared to students who were not majoring in mental health fields ( M = 4.39, SD = 1.04),  (136) = 2, t p = .047. The effect size was small with Cohen's d = .39. Hypothesis three was supported.
+
+## Hypothesis Four
+
+Mental health professionals were predicted to have significantly higher SPS scores compared to professionals in other fields. The Levene's test was not significant F = .889, p = .347, indicating that the two groups meet the assumption of equal variances. Results showed that professionals working in mental health fields had statistically significantly higher SPS scores ( M = 4.88, SD = 1.13) compared to professionals who were not working in mental health fields ( M = 4.51, SD = 1.03),  (216) = 2.30, t p = .023. The effect size was small with a Cohen's d of d = .35. Hypothesis four was supported.
+
+Additional comparison analyses were conducted to identify further differences between individuals in mental health and those who are not. While comparing the ages of mental health graduate students and non-mental health graduate students, the Levene's test was significant p = &lt;.001, indicating that the two groups did not meet the assumption of equal variances. An independent samples T-test showed that graduate students majoring in mental health fields ( M = 38.98, SD = 6.72) were significantly younger compared to students who were not majoring in mental health fields ( M = 36.85, SD = 11.86),  (105) = -4.84, t p = &lt;.001. The effect size was
+
+medium with Cohen's d = -.73. More mental health graduate students ( M = .89, SD = .32) compared to non-mental health graduate students ( M = .66, SD = .48) had heard of SPS prior to participating,  (136) = 3.13, t p = .001. Levene's test was significant p = &lt;.001, and the groups did not have equal variances, and Cohen's d = .51 with a medium effect size. Mental health graduate students ( M = 4.13, SD = .96) had more knowledge of SPS compared to non-mental health graduate students ( M = 3.46, SD = .80),  (97) = 3.65, t p = &lt;.001. Levene's test was not significant p = .88, the groups have equal variances, and Cohen's d = .79 with a medium effect size.
+
+While comparing the ages of mental health professionals and non-mental health professionals, no significant age difference was identified. More mental health professionals ( M = .97, SD = .18) compared to non-mental health professionals ( M = .66, SD = .47) had heard of SPS prior to participating,  (215) = 6.79, t p = &lt;.001. Levene's test was significant p = &lt;.001, and the groups did not have equal variances, and Cohen's d = .73 with a medium effect size. Mental health professionals ( M = 4.11, SD = .93) had more knowledge of SPS compared to non-mental health professionals ( M = 3.47, SD = .90),  (160) = 4.24, t p = &lt;.001. Levene's test was not significant p = .80, the groups have equal variances, and Cohen's d = .70 with a medium effect size.
+
+## Hypothesis Five
+
+Gender was predicted to significantly moderate the relationship between SPS and WB, CWB, and MHWB. While significant relationships were found in the simple associations between gender and SPS, gender was not found to be a significant moderator of the relationship between SPS and the three domains of wellbeing. Hypothesis five was not supported. There were direct effects of gender on SPS. In addition, there were direct effects of all forms of wellbeing on SPS (see Tables 6-8).
+
+Table 6 Direct Effects of Gender on SPS With General Wellbeing
+
+|                          | R 2   | b      | β    | P        |
+|--------------------------|-------|--------|------|----------|
+| Model 1                  | .22   |        |      | < .001** |
+| Cisgender Women          |       | -.54   |      | .76      |
+| Cisgender Men            |       | -16.36 | -.17 | .002*    |
+| Other Genders            |       | 20.82  | .22  | <.001**  |
+| General Wellbeing (MQLI) |       | -.58   | -.33 | <.001**  |
+
+Note. MQLI = Multicultural Quality of Life Index, * p &lt; .05, ** p &lt; .01
+
+Table 7 Direct Effects of Gender on SPS With Career Wellbeing
+
+|                         | R 2   | b      | β    | P        |
+|-------------------------|-------|--------|------|----------|
+| Model 1                 | .24   |        |      | < .001** |
+| Cisgender Women         |       | -1.16  |      | .51      |
+| Cisgender Men           |       | -10.90 | -.12 | .04*     |
+| Other Genders           |       | 21.31  | .23  | <.001**  |
+| Career Wellbeing (PQOL) |       | .88    | .37  | <.001**  |
+
+Note. PQOL = Professional Quality of Life Index. * p &lt; .05, ** p &lt; .01
+
+Table 8 Direct Effects of Gender on SPS With Mental Health Wellbeing
+
+|                 | R 2   | b    | β   | P       |
+|-----------------|-------|------|-----|---------|
+| Model 1         | .34   |      |     | <.001** |
+| Cisgender Women |       | -.86 |     | .60     |
+
+|                                |    R 2 |     b | β   | P       |
+|--------------------------------|--------|-------|-----|---------|
+| Cisgender Men                  | -12.06 | -0.13 |     | .01*    |
+| Other Genders                  |  19.58 |  0.21 |     | <.001** |
+| Mental Health Wellbeing (DASS) |   1.07 |  0.49 |     | <.001** |
+
+Note. Reference category = Cisgender Women. DASS = Depression, Anxiety, and Stress Scale.
+
+* p &lt; .05, ** p &lt; .01
+
+## Hypothesis Six
+
+Demographics were explored to determine if they significantly moderated the relationship between SPS and the three domains of wellbeing. Simple correlations were run between SPS and demographics to determine which of those demographic variables might be tested as moderators. The results of point biserial and Pearson correlations showed significant associations in the relationships between several demographics and SPS (see Table 9).
+
+Table 9 Correlations Between Demographics and SPS
+
+|                                   |     r | p       |
+|-----------------------------------|-------|---------|
+| Sexual Orientation                | -0.27 | <.001** |
+| Age                               | -0.2  | <.001** |
+| Income                            | -0.13 | .04*    |
+| Years of Education                | -0.15 | .01*    |
+| Degree Earned                     | -0.13 | .03*    |
+| Student in Mental Health          | -0.14 | .02*    |
+| Professional in Mental Health     | -0.15 | .02*    |
+| Years of Service in Mental Health | -0.3  | .03*    |
+
+Correlations Between Demographics and SPS
+
+|                             |     r | p       |
+|-----------------------------|-------|---------|
+| Relationship Status         |  0.07 | .30     |
+| Ethnicity                   |  0.05 | .45     |
+| Professional License        |  0.03 | .60     |
+| Currently Employed          |  0.03 | .60     |
+| Hours Worked Per Week in MH | -0.2  | .14     |
+| Knowledge of SPS            | -0.29 | <.001** |
+| Understanding of SPS        |  0.24 | <.001** |
+
+Note. Reference category = SPS. Point biserial correlations conducted for categorical variables and Pearson correlations for continuous variables. MH = Mental Health. * p &lt; .05, ** p &lt; .01
+
+All demographic variables that had significant simple correlations with SPS were tested as moderators of the relationship between SPS and each of the three domains of wellbeing. Only age and years of service were significant moderators, and only for mental health wellbeing. Notably, age and years of service were also strongly positively correlated r (55) = .88, p = &lt;.001. Results are displayed in Tables 10 and 11.
+
+Table 10 Age as a Moderator of the Relationship Between SPS and Mental Health Wellbeing
+
+|         | R 2   | b    | β    | P       |
+|---------|-------|------|------|---------|
+| Model 1 | .28   |      |      | <.001** |
+| SPS     |       | 2.92 |      | .54     |
+| Age     |       | -.08 | -.04 | .51     |
+
+Note . DASS = Depression, Anxiety, and Stress Scale. * p &lt; .05, ** p &lt; .01
+
+|                                      | R 2   | b    | β   | P       |
+|--------------------------------------|-------|------|-----|---------|
+| Mental Health Wellbeing (DASS)       |       | 1.13 | .51 | <.001** |
+| Model 2                              | .30   |      |     | .01*    |
+| SPS                                  |       | -.68 |     | .89     |
+| Age                                  |       | .06  | .03 | .65     |
+| Mental Health Wellbeing (DASS)       |       | .16  | .07 | .67     |
+| Age x Mental Health Wellbeing (DASS) |       | .03  | .49 | .01*    |
+
+A hierarchical moderated multiple regression found that the interaction between age and mental health wellbeing was a significant moderator of the relationship between SPS (see Table 10). Figure 1 displays this interaction.
+
+Figure 1 SPS Moderated by the Interaction Between Age and Mental Health Wellbeing
+
+A hierarchical moderated multiple regression found that the interaction between years of service in a mental health vocation and mental health wellbeing was a significant moderator of SPS (see Table 11). Figure 2 displays this interaction.
+
+Table 11 Years of Service in a Mental Health Profession as a Moderator of the Relationship Between SPS and Mental Health Wellbeing
+
+|                                      | R 2   | b     | β    | P       |
+|--------------------------------------|-------|-------|------|---------|
+| Model 1                              | .26   |       |      | <.001** |
+| SPS                                  |       | 14.29 |      | .01*    |
+| Years of Service                     |       | -.36  | -.13 | .31     |
+| Mental Health Wellbeing (DASS)       |       | 1.31  | .44  | <.001** |
+| Model 2                              | .37   |       |      | <.001** |
+| SPS                                  |       | 3.65  |      |         |
+| Years of Service                     |       | 1.57  | .57  | .05*    |
+| Mental Health Wellbeing (DASS)       |       | .37   | .13  | .44     |
+| YOS x Mental Health Wellbeing (DASS) |       | .18   | .94  | .01*    |
+
+Note. YOS = Years of Service; DASS = Depression, Anxiety, and Stress Scale. * p &lt; .05, ** p &lt; .001
+
+Figure 2
+
+SPS Moderated by the Interaction Between Years of Service in a Mental Health Profession and Mental Health Wellbeing
+
+## Hypothesis Seven
+
+U, R, and P were explored to determine if they significantly moderate the relationship between SPS and the three domains of wellbeing. Among the variables of knowledge of SPS, understanding of SPS, level of resources, and profession, none were found to be significant moderators. Therefore, no further moderation analyses were conducted for hypothesis seven, and it is not supported. There were however significant simple relationships found between knowledge of the concept of SPS and SPS as well as level of understanding of SPS and SPS (see Table 8).
+
+## Hypothesis Eight
+
+Significant moderators from prior hypotheses (age and years of service) were predicted to jointly moderate the relationship between SPS and the three domains of wellbeing. A moderated multiple regression demonstrated that when accounting for the moderation of the relationship between MHWB and SPS, neither age nor years of service was a significant predictor of SPS (Model 1), but when accounting for the relationship between MHWB and years of service, there is a significant interaction (YOS x DASS in Model 2). When participants had higher DASS (higher depression, anxiety, and stress) and higher years of service, then they also had higher SPS scores. Hypothesis eight was partially supported (see Table 12).
+
+Table 12 Age and Years of Service as Joint Moderators of the Relationship Between SPS and Mental Health Wellbeing
+
+|         | R 2   | b     | β   | p    |
+|---------|-------|-------|-----|------|
+| Model 1 | .12   |       |     | .04* |
+| SPS     |       | -6.62 |     | .72  |
+
+|                                      | R 2   | b      | β    | p       |
+|--------------------------------------|-------|--------|------|---------|
+| Age                                  |       | .82    | .34  | .22     |
+| Years of Service                     |       | -1.64  | -.60 | .03*    |
+| Model 2                              | .39   |        |      | <.001** |
+| SPS                                  |       | -19.13 |      |         |
+| Age                                  |       | .80    | .33  | .16     |
+| Years of Service                     |       | .96    | .35  | .28     |
+| Age x Mental Health Wellbeing (DASS) |       | .01    | .06  | .78     |
+| YOS x Mental Health Wellbeing (DASS) |       | .18    | 1.02 | .01*    |
+
+Note . YOS = Years of Service; DASS = Depression, Anxiety, and Stress Scale. * p &lt; .05, ** p .01
+
+&lt;
+
+## CHAPTER V
+
+## DISCUSSION
+
+A discussion of significant findings integrated with current research is included below. This study's strengths and limitations are also reviewed. Implications for practice and suggestions for future research are outlined and a closing statement finishes the present work.
+
+## Significant Findings; Integration With Current Scholarship
+
+One of the goals of this research was to look at the distribution of HSPs across occupations and educational majors and to consider mental health occupations and majors in particular. In general, this study had fewer low and medium sensitivity individuals and more high sensitivity individuals compared to previous research (Lionetti et al., 2018). This study also compared mental health graduate students and mental health professionals to those not in mental health and identified significant differences between expected and actual distribution based on Lionetti et al. (2018; see Table 5). In all comparisons, fewer than expected low and medium sensitivity individuals and higher than expected numbers of high sensitivity individuals were identified (see Table 5). This was likely a product of having a sample with more individuals involved in mental health graduate studies or professions, as these individuals were also found to have significantly higher SPS scores in the current study. Though this study contradicts previous findings, having a sample that was not representative or random, these data add valuable information to what we know about SPS in a population of mental health students and professionals.
+
+Aron's (2010) supposition that, due to their strengths in empathy and sensing the subtle, highly sensitive individuals may find themselves more commonly drawn to mental health related fields, is supported by this study. These individuals may self-select into careers where their trait
+
+can be utilized as a strength. HSPs tend to need their work to be meaningful in some way and may do best in careers focused on creating, strategizing, supporting, training, consulting, and problem solving, all of which are important parts of mental health vocations (Aron, 2010). Additionally, given that graduate students in mental health often struggle with their own mental health concerns (Rummell, 2015), knowing that SPS may play a role in their mental health wellbeing could provide students evidence to advocate for their self-care and should also encourage systemic support both in graduate programs and professional environments.
+
+This study found a significant relationship between SPS and trait negative emotionality. This adds to the growing research that SPS is associated with traits like neuroticism but does not provide support for differentiating these two traits from one another. In prior research, association was strongest between trait negative emotionality on the Big Five Inventory and SPS. The findings in the present study confirmed this relationship. The differentiation of SPS from other traits is still an area of research that remains underdeveloped (Acevedo, 2020); however, a few studies have recently emerged. Bröhl et al. (2020) found that participants in their study who were more sensitive were also more inclined to report anxiety, self-consciousness, and depression. Bröhl et al. (2022) found similar results in that the highly sensitive participants in their study also consistently reported higher anxiety and depression, but that none of the SPS traits overlapped completely with any of the FFM traits. Attary and Ghazizadeh (2021) suggested that SPS as a trait may cause a higher predisposition for associated traits like neuroticism. Higher sensitivity seems to lend itself to a higher likelihood of developing mental health concerns so these domains may need to be considered jointly, especially for individuals who grew up in environments that were less supportive or negative (Aron, 2010; Greven et al., 2019). Attary and Ghazizadeh (2021) found that in their comparison to 10 other similar traits, SPS was closest in
+
+comparison to neuroticism, but also distinct from it. SPS was present in two trait clusters where AES was associated with several positive traits and LST and EOE were noted as negative and neighbors to neuroticism (Attary &amp; Ghazizadeh, 2021). Some of the current literature also suggests that SPS should be perceived as a blending of personality traits across domains of neuroticism rather than an equivalent to it (Smolewska et al., 2006). Bas et al. (2021) provided additional support for this conceptualization by recently suggesting SPS as its own distinct profile of personality characteristics rather than a combination of existing characteristics based on qualitatively identified themes (e.g., emotional responding, relatedness to others, thinking, overstimulation, perceiving details, and global SPS characteristics) that were more complex than describing SPS as a combination of negative emotionality and openness. Conversely, Hellwig and Roth (2021) suggested that SPS can be fully explained by neuroticism and openness to experiences. Despite conflicting findings in recent research, it is likely that we will continue to see SPS and neuroticism present themselves together.
+
+While a significant relationship between gender and SPS was identified in this study, gender was not found to be a significant moderator, despite prior research implying this relationship might exist and commonly reporting gender differences in SPS (Aron, 2010). Had the sample in the present study had more men, this hypothesis may have been supported. There were also statistically significant gender differences in reports of SPS in this study that are reflective of previous research (Aron, 2010). In all domains of wellbeing, cisgender men consistently reported lower SPS compared to cisgender women and other gendered individuals consistently reported higher SPS compared to cisgender women.
+
+These gender differences continue to be identified in current research as well. More recently, Smith et al. (2022) found that the distribution of sensitivity among men was 11% high
+
+sensitivity, 69% medium, and 20% low, though they noted these were still lower ratings than the women in their study. Visnes et al. (2022) and Pérez-Chacón et al. (2023) also found that the men in their studies reported lower scores on SPS compared to women. Rock's (2022) qualitative study of highly sensitive gender diverse persons (including transgender, non-binary, and gender-fluid individuals) identified gender differences among SPS individuals centered around gendered socialization of emotional expression or suppression (e.g., more emotional expression if feminine, less if masculine), hormonal cycles, and social expectations for emotional expression in workplaces, romantic relationships, and parenting roles. An additional qualitative study reported that highly sensitive men often face stigmatization, marginalization, devaluation, and conflation with homosexuality in relation to their identity as HSPs (Miller, 2021). It would make sense that with so many factors contributing to a negatively skewed perspective of sensitivity, men consistently under report their SPS. However, sensitive men are not viewed negatively in all cultures. In Denmark, Thailand, and India, sensitive boys were not stigmatized for their sensitivity, though they did report feeling something was wrong with them because they were unlike other boys in their communities (Acevedo, 2020; Zeff, 2010). Other group differences also seem to exist. This study found that heterosexual individuals had slightly lower SPS scores than those who were non-heterosexual. Aside from this finding, no known information about the relationship between sexual orientation and SPS has been reported in prior or current research.
+
+There were several significant relationships found between demographics and SPS scores in this study. Older individuals as well as individuals with more years of service working in the mental health industry tended to have lower SPS scores. (Age and years of service were also highly correlated, as expected). Mental health graduate students were also significantly younger
+
+than students studying other majors but there were not significant differences in age among the two groups of professionals.
+
+Conversely, individuals who had more years of service and lower mental health wellbeing tended to have higher SPS. Years of service in combination with mental health wellbeing also significantly moderated SPS in that as these two variables increased together, SPS also increased indicating higher sensitivity. The impact of SPS may reduce over time as individuals may learn more about the trait as well as new coping strategies and better resources to manage their SPS experiences. However, when negative mental health is also considered, it seems that sensitivity increases instead. It is also possible that since our sample had higher than average resources (e.g., higher education, higher income), that they showed less SPS as adults. Prior research implied that raising awareness and understanding of the SPS trait may moderate the relationship between SPS and wellbeing (Bakker &amp; Moulding, 2012; Evers et al., 2008; Yano &amp; Oishi, 2018; Yano et al., 2019). While the present data were unable to provide evidence for a moderating relationship, the data did support that greater knowledge and understanding of SPS was associated with lower SPS scores. Both mental health graduate students and mental health professionals reported significantly more knowledge and understanding of SPS compared to their non-mental health counterparts. This could be a product of our findings that these groups experience higher sensitivity as well as SPS is a growing area of research in mental health so their major or profession may have increased the likelihood they would have heard of SPS compared to individuals not in mental health.
+
+More recently, participants in another study expressed that if they had known about their SPS earlier in life, that some of their stress related problems might have been prevented (Bas et al., 2021). Similarly, Roth et al. (2023) found that individuals experienced relief after identifying
+
+that they were highly sensitive. This indicates that resources and understanding of SPS still play an important role in managing the negative impact of SPS. It is important to note that the present study only evaluated resources with a single measure relating to self-care practices.
+
+In this study, individuals who reported higher income and those who earned higher level academic degrees also tended to have lower SPS scores. No previous or current literature is known to exist on these topics. Generally, individuals with more education tend to earn higher annual income, thus, having more financial resources and privilege (Piao &amp; Managi, 2023). Individuals with higher resources are likely to be more able to control their environment (e.g., personal office space, workload flexibility). More research is needed to better understand the impact of these variables on SPS.
+
+## Strengths and Limitations
+
+The sample was moderate in size and yielded some statistically significant results. It was generally representative of the population in the United States regarding ethnicity, age, and sexual orientation (U.S. Census Bureau, 2022). Participants were slightly more diverse than the general population in their report of sexual orientation (U.S. Census Bureau, 2022). Conversely, this study had many more women than the general population, was more partnered, had more education, and higher income (U.S. Census Bureau, 2022). The higher-than-average income and education may have biased results in the areas of sensitivity, resources, and wellbeing as income and education often provide more privilege to an individual and these individuals generally experience less overall stress and greater wellbeing along with those privileges. Most participants had heard of the concept of SPS and had a higher-than-average understanding of the concept, which may have skewed their report of SPS scores. This may also indicate response bias and could have skewed the results. Given that the study was advertised as being focused on
+
+SPS, this could have influenced response bias too. Future research should take steps to balance this possible bias. Specific items assessing knowledge and understanding of SPS were also developed solely for this study and not standardized measures.
+
+## Implications for Practice and Future Directions
+
+Despite these limitations, several important implications can be gleaned from this data. HSPs have needs that are different from and sometimes in conflict with the needs of the general population. The present format of our society, with its heavy focus on quantitative productivity and timeliness, is not an environment in which HSPs are easily able to thrive (Jaeger, 2004). Today's mental health workforce may be much more highly sensitive than the general population and they are working in an environment not acclimated to their needs.
+
+Investigation of the moderating factors of the relationship between SPS and domains of wellbeing should continue. Increased understanding of these factors will contribute significantly to our understanding of what is needed to ensure HSPs are able to fully engage with the strengths of their SPS and reduce negative impact so that society is able to fully benefit from the contributions of these individuals (Acevedo, 2020). Per the present study, we know that SPS scores reduce with age, but other than time, it would be valuable to identify and confirm what other mitigating factors exist. This will allow for additional evidence to support tailored recommendations for this population to increase their success. In this study, HSPs with more financial and academic privilege had lower scores, so future research should also investigate what aspects of these factors lower SPS. It may be helpful to explore SPS in a population of gender queer individuals to see if gender differences like the ones seen in this study arise within individuals who do not identify with the gender binary. Qualitative data may also continue to
+
+provide a more in depth understanding of the relationships between demographics and SPS identified in this study.
+
+Research focused on differentiating SPS from other similar traits should also continue. This study supported associations with related traits, but more evidence is needed to better understand how these traits overlap and interact. Currently, a separate comprehensive questionnaire is being developed to measure SPS and this should be analyzed and compared to the HSPS to further understand what we are measuring, how we are measuring it, and if specific factors overlap between these tools (De Gucht et al., 2022). In addition to these research suggestions, the results of this study have clinical ramifications as well.
+
+Acevedo (2020) has articulated several important implications for working with HSPs in therapy. Lack of skills to mitigate overstimulation, difficulty setting boundaries, emotion regulation, and sensitivity to criticism are primary presenting concerns for HSPs. It is important to educate HSPs on how to self-regulate before, during, and after overstimulation experiences. Of equal importance is learning to say 'no' effectively. HSPs have particular difficulty accepting their emotions, feeling ashamed of negative emotions, believing in their ability to cope, fearing negative emotions will last forever, and fearing nothing can be done to feel better about regulating emotions, so these are areas that should be targeted. Specific focus on the validity of critical feedback and evaluating their level of trust in the source of feedback are important for HSP clients as well. Demonstrating genuine respect for a HSP while providing critical feedback is key to reducing the likelihood the feedback will result in lower self-esteem, shame, or defensiveness (Acevedo, 2020).
+
+While research has found that general vulnerability to anxiety, depression, burnout, and reduced wellbeing is associated with SPS, these findings must be interpreted in the context that
+
+individuals with SPS who had negative childhood experiences or current unsupportive environments are more likely to experience these negative mental health outcomes, but that those who had positive childhoods or currently supportive environments may not be predisposed to these outcomes (Aron, 2010; Attary &amp; Ghizizadeh, 2021; Bröhl et al., 2020; Bröhl et al., 2022; Greven et al., 2019; Jaeger, 2004; Jagiellowicz et al., 2016). Focus should be placed on creating comfortable and supportive environments for HSPs academically and vocationally (Acevedo, 2020).
+
+Furthermore, research reporting negative mental health outcomes for HPSs may not have factored in that if participants knew of SPS, they may have made appropriate life changes to accommodate their trait. Many HSPs report that their life changed with new knowledge of their trait, indicating that raising awareness of the trait in general society and especially with individuals who are struggling with the negative impact of SPS is vital (Acevedo, 2020).
+
+Kindness is the most important orientation to have when relating to an HSP. Generally, HSPs tendency toward lower self-esteem will predispose them to process communication or other stimuli as more negative, thus, kindness, compassion, patience, validation, and regular check ins are warranted. Open discussion about sensitivity and its impact is also essential for improving communication, though HSPs may choose to strategically disclose their trait in vocational settings as misunderstanding and lack of accommodation of the trait can often lead to devaluation of the HSP within the work environment (Acevedo, 2020).
+
+Rampelli (2023) argued that a paradigm shift is needed to make space for SPS individuals to thrive and to reduce stigma and increase support systems for HSPs. Based on the current study and previous findings, the following are recommendations for a healthy work and educational environment for HSPs in mental health fields:
+
+- · Psychoeducation should be provided for all students and employees about SPS and its impact on academic and professional work (Acevedo, 2020; Yano &amp; Oishi, 2018; Yano et al., 2019).
+- · Increased resources should be provided for all employees (i.e., extended deadlines, paid time off, work from home options, flexible hours, reduced workload, increased access to general and mental healthcare, increased financial aid; Acevedo, 2020; Bakker &amp; Moulding, 2012; Yano &amp; Oishi, 2018; Yano et al., 2018).
+- · Psychoeducation and support in setting healthy and reasonable boundaries should be provided to graduate students and employees (Acevedo, 2020; Jaeger, 2004).
+- · Recovery time, especially after major projects, should be provided to students and employees (Acevedo, 2020; Jaeger, 2004).
+- · Breaks to rest and rebalance during interpersonal conflict or major projects should be offered for students and employees (Acevedo, 2020; Jaeger, 2004).
+- · Flexibility to control work and study environments should be included for students and employees (Acevedo, 2020; Jaeger, 2004).
+- · Regular assessment of mental health including burnout, compassion fatigue, sense of fulfillment from work, etc. should be conducted for graduate students and employees (Acevedo, 2020; Jaeger, 2004).
+
+These recommendations are particularly needed for students and professionals in mental health fields but serve as general recommendations for any HSPs in any profession as well.
+
+## Conclusion
+
+This work provides evidence for the impact of several variables on SPS. Those variables included WB, CWB, MHWB, gender, sexual orientation, age, income, years of education, degree
+
+earned, status as a student or professional in a mental health field, and years of service in a mental health field. Identifying these factors helps increase our understanding of SPS and individual differences among highly sensitive individuals. We now have evidence that age and years of service in a mental health profession moderates the relationship between MHWB and SPS. This data allows HSPs to understand that there is a higher likelihood the intensity of their SPS symptoms may reduce over time. There continues to be overlap between SPS and neuroticism which contributes to growing evidence that more investigation is needed in this area.
+
+Graduate students and professionals in the mental health field tend to have higher SPS and graduate programs and employers need to understand and support these individuals. Psychological and counseling professionals with high SPS are working toward supporting the mental health of our society and just like anyone else, but they cannot do so with an empty cup. HPSs have needs different from the majority of individuals and the present findings provide evidence to support advocating for these needs to be met. By ensuring the ability for HSPs to fully access the strengths of their trait, we all benefit.
+
+## REFERENCES
+
+Acevedo, B. P. (2020). The highly sensitive brain: Research, assessment, and treatment of SPS. Elsevier/Academic Press.
+
+Acevedo, B. P., Jagiellowicz, J., Aron, E., Marhenke, R., &amp; Aron, A. (2017). SPS and childhood quality's effects on neural responses to emotional stimuli . Clinical Neuropsychiatry, 14 (6), 359-373
+
+Acevedo, B., Aron, E., Aron, A., Sangster, M., Collins, N., &amp; Brown, L. (2014). The highly sensitive brain: An fMRI study of SPS and response to others' emotions. Brain and Behavior, 4 (4), 580-594.
+
+American Association of College of Nursing. (2021, April 1) . Student enrollment surged in U.S. schools of nursing in 2020 despite challenges presented by the pandemic .
+
+https://www.aacnnursing.org/News-Information/Press-
+
+Releases/View/ArticleId/24802/2020-survey-data-student-enrollment American Counseling Association. (2010, March). 20/20: Consensus definition of counseling. https://www.counseling.org/about-us/about-aca/20-20-a-vision-for-the-future-ofcounseling/consensus-definition-of-counseling
+
+American Medical Association. (2021). Psychiatry specialty . https://freida.amaassn.org/specialty/psychiatry
+
+American Psychiatric Nurses Association. (2021). About psychiatric mental health nursing . https://www.apna.org/about-psychiatric-nursing/
+
+American Psychological Association. (2021). Graduate education data tool: Applications, acceptances and enrollments. https://www.apa.org/education-career/grad/surveydata/graduate-education-data-tools
+
+American Psychological Association, Board of Professional Affairs, Committee on Professional Standards. (1987). General guidelines for providers of psychological services . https://www.apa.org/about/policy/guidelines-providers.pdf Andresen, M., Goldmann, P., &amp; Volodina, A. (2018) Do overwhelmed expatriates intend to leave? The effects of SPS, stress, and social capital on expatriates' turnover intention. European Management Review, 15 (3), 315- 328. Aron E. N., &amp; Aron, A. (1997). Sensory-processing sensitivity and its relation to introversion and emotionality . Journal of Personality Social Psychology, 73 (2), 45-68. Aron, A., Ketay, S., Hedden, T., Aron, E. N., Rose Markus, H., &amp; Gabrieli, J. D. (2010). Temperament trait of SPS moderates cultural differences in neural response. Social Cognitive and Affective Neuroscience , 5 (2-3), 219-226. Aron, E. (2010). Psychotherapy and the HSP. Routledge. Aron, E. (2016). The HSP: How to thrive when the world overwhelms you. Harmony Books. Aron, E. (2018, July 6). SPS: Review of the research [Conference Presentation]. Highly Sensitive Therapists' Retreat. https://hsperson.com/research/summaries-of-research-easy-reads/ Aron, E., Aron, A., &amp; Jagiellowicz, J. (2012) SPS: A review in the light of the evolution of biological responsivity. Personality and Social Psychology Review, 16 (3), 262-282. Attary, T., &amp; Ghazizadeh, A. (2021). Localizing SPS and its subdomains within its relevant trait space: A data-driven approach . Scientific Reports, 11 (1), 1-12. Ayala, E. E., Ellis, M. V., Grudev, N., &amp; Cole, J. (2017). Women in health service psychology Training and Education in Professional programs: Stress, self-care, and quality of life. Psychology, 11 (1), 18-25.
+
+Bakker, K. &amp; Moulding, R. (2012) . Sensory-processing sensitivity, dispositional mindfulness and negative psychological symptoms . Personality and Individual Differences, 53 (3), 341-346.
+
+Banerjee, D., Varshney, P., &amp; Vajawat, B. (2020). 'Guarding the Gatekeepers': Suicides among mental health professionals and scope of prevention, a review. Psychiatry Research, 294 , 1-7.
+
+Bas, S., Kaandorp, M., de Kleijn, Z. P. M., Braaksma, W. J. E., Bakx, A. W. E. A., &amp; Greven, C. U. (2021). Experiences of adults high in the personality trait SPS: A qualitative study.
+
+Journal of Clinical Medicine, 10 (21), 4912. https://doi.org/10.3390/jcm10214912 Belsky, J. &amp; Pluess, M. (2009) . Beyond diathesis stress: Differential susceptibility to environmental influences. Psychological Bulletin, 135 (6), 885-908.
+
+Belsky, J., Jonassaint, C., Pluess, M., Stanton, M., Brummett, B., &amp; Williams, R. (2009).
+
+Vulnerability genes or plasticity genes? Molecular Psychiatry, 14 (8), 746-754. Benham, G. (2006). The HSP: Stress and physical symptom reports. Personality and Individual Differences, 40 (7), 1433-1440.
+
+Boyce, W. T., &amp; Ellis, B. J. (2005). Biological sensitivity to context: I. An evolutionarydevelopmental theory of the origins and functions of stress reactivity. Development and Psychopathology, 17 (2), 271-301.
+
+Boyd, J. E., Zeiss, A., Reddy, S., &amp; Skinner, S. (2016). Accomplishments of 77 VA mental health professionals with a lived experience of mental illness. American Journal of Orthopsychiatry, 86 (6), 610-619.
+
+Brindle, K., Moulding, R., Bakker, K., &amp; Nedeljkovic, M. (2015) . Is the relationship between sensory-processing sensitivity and negative affect mediated by emotional regulation? Australian Journal of Psychology, 67 (4), 214-221.
+
+Bröhl, A. S., Van Leeuwen, K., Pluess, M., De Fruyt, F., Bastin, M., Weyn, S., Goossens, L., &amp; Bijttebier, P. (2020). First look at the five-factor model personality facet associations with SPS . Current Psychology. Advance online publication. https://doi.org./10.1007/s12144-020-00998-5
+
+Bröhl, A. S., Van Leeuwen, K., Pluess, M., De Fruyt, F., Van Hoof, E., Weyn, S., &amp; Bijttebier, P. (2022). Personality profile of the self-identified HSP: A lay theory approach. Journal of Individual Differences, 43 (2), 95-104.
+
+Butler, L. D., Carello, J., &amp; Maguin, E. (2017). Trauma, stress, and self-care in clinical training: Predictors of burnout, decline in health status, secondary traumatic stress symptoms, and compassion satisfaction. Psychological Trauma: Theory, Research, Practice, and Policy, 9 (4), 416-424.
+
+Byrne, L., Roennfeldt, H., Davidson, L., Miller, R., &amp; Bellamy, C. (2021). To disclose or not to disclose? Peer workers impact on a culture of safe disclosure for mental health professionals with lived experience. Psychological Services . Advance Online Publication. https://doi.org/10.1037/ser0000555
+
+Chen, X., Rubin, K. H., &amp; Sun, Y. (1992). Social reputation and peer relationships in Chinese and Canadian children: A cross-cultural study. Child Development , 63 (6), 1336-1343.
+
+Conroy, J., Christidis, P., Fleischmann, M., &amp; Lin, L. (2019) . Datapoint: How many psychology majors go on to graduate school? American Psychological Association.
+
+https://www.apa.org/monitor/2019/09/datapoint-grad-school
+
+Cooper, T. (2014). The integral being: A qualitative investigation of HSPs and temperament appropriate careers (Publication No. 3643098) [Doctoral Dissertation, California Institute of Integral Studies). ProQuest Dissertation Publishing.
+
+Costa, P., &amp; McCrae, R. (1992). The five-factor model of personality and its relevance to personality disorders. Journal of Personality Disorders, 6(4), 343-359.
+
+Council on Social Work Education. (2019). Research Briefs and Publications.
+
+https://www.cswe.org/Research-Statistics/Research-Briefs-and-Publications.aspx Cunningham, N., Brown, P., Brooks, J., &amp; Page, A. (2013). The structure of emotional symptoms in the postpartum period: Is it unique? Journal of Affective Disorders, 151 (2), 686-694.
+
+De Gucht, V., Woestenburg, D. H. A., &amp; Wilderjans, T. F. (2022). The different faces of (high) sensitivity, toward a more comprehensive measurement instrument. Development and validation of the SPS questionnaire (SPSQ). Journal of Personality Assessment, 104 (6), 784-799.
+
+Dorociak, K. E., Rupert, P. A., Bryant, F. B., &amp; Zahniser, E. (2017). Development of a self-care assessment for psychologists. Journal of Counseling Psychology, 64 (3), 325-334. Psychology graduate student well-being: The relationship between stress,
+
+Drake, K. (2010). coping, and health outcomes. (Publication No. 3438907) [Doctoral Dissertation, University of Cincinnati]. ProQuest Dissertation Publishing.
+
+Elliott, M., &amp; Ragsdale, J. M. (2020). Mental health professionals with mental illnesses: A qualitative interview study. American Journal of Orthopsychiatry, 90 (6), 677-686.
+
+Ellis, B. J., Boyce, W. T., Belsky, J., Bakermans-Kranenburg, M. J., &amp; Van Ijzendoorn, M. H. (2011). Differential susceptibility to the environment: An evolutionaryneurodevelopmental theory. Development and Psychopathology, 23 (1), 7-28.
+
+Engel-Yeger B., &amp; Dunn, W. (2011). The relationship between sensory processing difficulties and anxiety level of healthy adults. British Journal of Occupational Therapy, 74 (5), 210216.
+
+Ergas, J. (2012). An exploration of the experience of vicarious traumatization among clinical psychology graduate students in training (Publication No. 3545613) [Doctoral Dissertation, California Institute of Integral Studies]. ProQuest Dissertation Publishing. Evers, A., Rasche, J. &amp; Schabracq, M. (2008). High sensory-processing sensitivity at work. International Journal of Stress Management, 15 (2), 189-198.
+
+Gearhart, C., &amp; Bodie, G. (2012). Sensory-processing sensitivity and communication apprehension: Dual influences on self-reported stress in a college student sample. Communication Reports. 25 (1), 27-39.
+
+Geoffrion, S., Lamothe, J., Morizot, J., &amp; Giguère, C. É. (2019). Construct validity of the professional quality of life (ProQoL) scale in a sample of child protection workers. Journal of Trauma Stress, 32 (4), 566-576.
+
+Gerada, C. (2018). Doctors, suicide, and mental illness. BJPsych Bulletin, 42 (4), 165-168. Gerstenberg, F. X. (2012). Sensory-processing sensitivity predicts performance on a visual search task followed by an increase in perceived stress. Personality and Individual Differences, 53 (4), 496-500.
+
+Greven, C., Lionetti, F., Booth, C., Aron, E., Fox, E., Schendan, H., Pluess, M., Bruining, H., Acevedo, B., Bijttebier, P., &amp; Homberg, J. (2019). SPS in the context of environmental
+
+sensitivity: A critical review and development of research agenda. Neuroscience and Biobehavioral Reviews, 98, 287-305.
+
+Hellwig, S., &amp; Roth, M. (2021). Conceptual ambiguities and measurement issues in SPS. Journal of Research in Personality, 93 . https://doi.org/10.1016/j.jrp.2021.104130 Hurtz, G. M., &amp; Donovan, J. J. (2000). Personality and job performance: The big five revisited.
+
+Journal of Applied Psychology, 85 (6), 869-879.
+
+Ivicic, R., &amp; Motta, R. (2017). Variables associated with secondary traumatic stress among mental health professionals. Traumatology, 23 (2), 196-204.
+
+Jaeger, B. (2004). Making work work for the HSP . McGraw-Hill.
+
+Jagiellowicz, J., Aron, A., &amp; Aron, E. N. (2016). Relationship between the temperament trait of SPS and emotional reactivity. Social Behavior and Personality: An International Journal, 44 (2), 185-200.
+
+Jagiellowicz, J., Xu, X., Aron, A., Aron, E., Cao, G., Feng, T., &amp; Weng, X. (2011). The trait of SPS and neural responses to changes in visual scenes. Social Cognitive and Affective Neuroscience, 6 (1), 38-47.
+
+Judge, T. A., Heller, D., &amp; Mount, M. K. (2002). Five-factor model of personality and job satisfaction: A meta-analysis. Journal of Applied Psychology, 87 (3), 530-541.
+
+Kagan, J. (1994). Galen's prophecy: Temperament in human nature . Basic Books.
+
+Lindsay, J. (2017). The highly sensitive teacher: Sensory-processing sensitivity, burnout, and self-efficacy in urban public-school teachers (Publication No. 10286115) [Doctoral Dissertation]. University of California, Los Angeles.
+
+Lionetti, F., Aron, A., Aron, E., Burns, G., Leonard, S., Jagiellowicz, J., &amp; Pluess, M. (2018).
+
+Dandelions, tulips and orchids: Evidence for the existence of low-sensitive, mediumsensitive and high-sensitive individuals. Translational Psychiatry, 8 (24), 1-11.
+
+Depression, anxiety, and stress scale. Manual for
+
+Lovibond, S., &amp; Lovibond, P. (1995). depression anxiety &amp; stress scales. (2 nd Ed.) Psychology Foundation.
+
+Mackie, S. &amp; Bates, G. (2019). Contribution of the doctoral education environment to PhD candidates' mental health problems: A scoping review. Higher Education Research &amp; Development, 38 (3), 565 - 579.
+
+Maton, K. I., Wimms, H. E., Grant, S. K., Wittig, M. A., Rogers, M. R., &amp; Vasquez, M. J. T. (2011). Experiences and perspectives of African American, Latina/o, Asian American, and European American psychology graduate students: A national study. Cultural Diversity and Ethnic Minority Psychology, 17 (1), 68-78.
+
+Mezzich, J. E., Cohen, N. L., Ruiperez, M. A., Banzato, C. E. M., &amp; Zapata, V. M. I. (2011). The multicultural quality of life index: Presentation and validation. Journal of Evaluation in Clinical Practice, 17 (2), 357-364.
+
+Miller, D. (2021). The identity development and gender socialization experiences of highly sensitive men [Doctoral Dissertation, University of Rochester]. ProQuest Dissertations &amp; Theses Global.
+
+National Alliance on Mental Illness. (2020). Types of mental health professionals .
+
+https://www.nami.org/About-Mental-Illness/Treatments/Types-of-Mental-Health-
+
+## Professionals
+
+National Association of Social Workers. (2021). Practice.
+
+https://www.socialworkers.org/Practice
+
+National Resident Matching Program. (2021). Main residency match data .
+
+https://www.nrmp.org/main-residency-match-data/
+
+O'Connor, K., Muller Neff, D., &amp; Pitman, S. (2018). Burnout in mental health professionals: A systematic review and meta-analysis of prevalence and determinants. European Psychiatry, 53, 74-99.
+
+Pérez-Chacón, M., Borda-Mas, M., Chacón, A., &amp; Avargues-Navarro, M. (2023). Personality traits and coping strategies as psychological factors associated with health-related quality of life in HSPs. International Journal of Environmental Research and Public Health, 20 (9), 5644.
+
+Piao, X., &amp; Managi, S. (2023). The international role of education in sustainable lifestyles and economic development. Scientific Reports, 13 (1), 1-12.
+
+Pluess, M. (2015). Individual differences in environmental sensitivity. Child Development Perspectives, 9 (3), 138-143.
+
+Rampelli, M. (2023). The hysteric and the HSP. Journal of Medical Humanities, 44 , 145-165. Redfearn, R. A., van Ittersum, K. W., &amp; Stenmark, C. K. (2020, April 2). The impact of SPS on stress and burnout in nurses. International Journal of Stress Management. Advance online publication. http://doi.org/10.1037/str0000158
+
+Rock, S. (2022). Experiences of transformation in highly sensitive people: A narrative hermeneutical analysis through the lens of gender diversity
+
+(Order No. 29168929) [Doctoral Dissertation, California Institute of Integral Studies]. ProQuest Dissertations &amp; Theses Global.
+
+Roth, M., Gubler, D., Janelt, T., Kolioutsis, B., &amp; Troche, S. (2023). On the feeling of being different - an interview study with people who define themselves as highly sensitive . Plos One, 18 (3). https://doi.org/10.1371/journal.pone.0283311
+
+Rummell, C. M. (2015). An exploratory study of psychology graduate student workload, health, and program satisfaction. Professional Psychology: Research and Practice, 46 (6), 391399.
+
+Sciberras, A., &amp; Pilkington, L. (2018). The lived experience of psychologists working in mental health services: An exhausting and exasperating journey. Professional Psychology: Research and Practice, 49 (2), 151-158.
+
+Smiley, R., Ruttinger, C., Oliveira, C., Hudson, L., Allgeyer, R., Reneau, K., Silvestre, J., &amp; Alexander, M. (2021). The 2020 national nursing workforce survey. Journal of Nursing Regulation, 12 (1), S1 - S96.
+
+Smith, D. B., Hanges, P. J., &amp; Dickson, M. W. (2001). Personnel selection and the five-factor model: Reexamining the effects of applicant's frame of reference. Journal of Applied Psychology, 86 (2), 304-315.
+
+Smith, H. L., Sriken, J., &amp; Erford, B. T. (2019). Clinical and research utility of the highly sensitive person scale. Journal of Mental Health Counseling, 41 (3), 221-241.
+
+Smith, H. L., Sriken, J., Sherman, M., Erford, B. T., &amp; Beck, S. K. (2022). Furthering the clinical and research utility of the highly sensitive person scale: Cluster analysis of gender differences and risks for depression and anxiety. Journal of Mental Health Counseling, 44 (3), 245-265.
+
+Smolewska, K., McCabe, S., &amp; Woody, E. (2006). A psychometric evaluation of the highly sensitive person scale: The components of sensory-processing sensitivity and their
+
+relation to the BIS/BAS and 'Big Five.' Personality and Individual Differences, 40 (6), 1269-1279.
+
+Sobocko, K., &amp; Zelenski, J. M. (2015). Trait sensory-processing sensitivity and subjective wellbeing: Distinctive associations for different aspects of sensitivity. Personality and Individual Differences, 83, 44-49.
+
+Soto, C. J., &amp; John, O. P. (2017). Short and extra-short forms of the big five inventory-2: The BFI-2-S and BFI2-XS. Journal of Research in Personality, 68, 69-81.
+
+Stamm, B. H. (2010). The concise ProQOL manual (2nd ed). ProQOL.org https://proqol.org/proqol-measure
+
+Takahashi, T., Kawashima, I., Nitta, Y., &amp; Kumano, H. (2019). Dispositional mindfulness mediates the relationship between sensory-processing sensitivity and trait anxiety, wellbeing, and psychosomatic symptoms. Psychological Reports, 123 (4), 1083-1098.
+
+Visnes Trå, H., Volden, F., &amp; Watten, G. (2022). High sensitivity: Factor structure of the HSP scale and personality traits in a high and low sensitivity group. Two gender matched studies. Nordic Psychology. https://doi.org/10.1080/19012276.2022.2093778
+
+Turgoose, D., &amp; Maddox, L. (2017). Predictors of compassion fatigue in mental health professionals: A narrative review. Traumatology, 23 (2), 172-185.
+
+Unites States Bureau of Labor Statistics. (2021, September 8). Occupational outlook handbook:
+
+Psychologists. https://www.bls.gov/ooh/life-physical-and-social- science/psychologists.htm#tab-6
+
+United States Census Bureau. (2022). Quick facts.
+
+https://www.census.gov/quickfacts/fact/table/US#
+
+Vander Elst, T., Sercu, M., Van den Broeck, A., Van Hoof, E., Baillien, E., &amp; Godderis, L. (2019). Who is more susceptible to job stressors and resources? Sensory-processing sensitivity as a personal resource and vulnerability factor. PLOS ONE, 14 (11), e0225103. https://doi.org/10.1371/journal.pone.0225103
+
+Ventriglio, A., Watson, C., &amp; Bhugra, D. (2020). Suicide among doctors: A narrative review. Indian Journal of Psychiatry, 62 (2), 114-120.
+
+Vierthaler, J. M., &amp; Elliott, E. C. (2020). A shared lived experience of a psychologist battling a mental health crisis. Psychological Services . Advance online publication.
+
+https://doi.org./10.1037/ser0000489
+
+Wachs, T. (2013). Relation of maternal personality to perceptions of environmental chaos in the home. Journal of Environmental Psychology, 34, 1-9.
+
+What is Misophonia?. (2016). Misophonia Institute. https://misophoniainstitute.org/what-ismisophonia/
+
+Wilcox, M. M., Barbaro-Kukade, L., Pietrantonio, K. R., Franks, D. N., &amp; Davis, B. L. (2019) . It takes money to make money: Inequity in psychology graduate student borrowing and financial stressors. Training and Education in Professional Psychology. Advance online publication. http://doi.org/10.1037/tep0000294
+
+Wolf, M., &amp; van Doorn, S. &amp; Weissing, F. (2008). Evolutionary emergence of responsive and unresponsive personalities. Proceedings of the National Academy of Sciences of the United States of America, 105 (41), 15825-15830.
+
+Yang, Y., &amp; Hayes, J. A. (2020). Causes and consequences of burnout among mental health professionals: A practice-oriented review of recent empirical literature. Psychotherapy, 57 (3), 426-436.
+
+Yano, K., Kase, T., &amp; Oishi, K. (2019). The effects of sensory-processing sensitivity and sense of coherence on depressive symptoms in university students. Health Psychology Open, 6 (2), 1-5.
+
+Yano, K., &amp; Oishi, K. (2018). The relationships among daily exercise, sensory-processing sensitivity, and depressive tendency in Japanese university students. Personality and Individual Differences, 127, 49-53.
+
+Zeff, T. (2010). The strong sensitive boy: Help your son become a happy, confident man. Prana Publishing.
+
+## APPENDIX A
+
+## DEMOGRAPHIC QUESTIONNAIRE
+
+- 1. In a few words, describe your gender identity.
+- 2. In a few words, describe your sexual orientation.
+- 3. In a few words, describe your relationship or marital status.
+- 4. What is your age?
+- 5. What is your ethnicity?
+- 6. What is your race(s)?
+- 7. What is your annual income?
+- 8. How many completed years of education do you have?
+- 9. What is your highest-level degree?
+- 10. What licenses, if any, do you currently hold?
+- 11. Are you currently a student in a mental health related major (e.g., psychology, counseling, social work, mental health nursing, psychiatry etc.)?
+- a. If yes: 11b, no - 11c
+- b. In what mental health related discipline are you majoring?
+- c. What is your major?
+- 12. Are you currently working?
+- a. If yes: Q13. If no, skip to HSPS.
+- 13. Are you currently working in a mental health related job (e.g., psychology, counseling, social work, mental health nursing, psychiatry etc.)?
+- a. If yes then 13b, then 13c, and 13d. If no, then 13e.
+- b. What is your Job Title?
+- c. How long have you worked in the mental health field?
+- d. How many hours per week do you work?
+- e. In which field are you currently employed?
+
+## APPENDIX B
+
+## UNDERSTANDING OF SENSORY PROCESSING SENSITIVITY
+
+- 1. Have you ever heard of the concept of Highly Sensitive People or SPS?
+- □ Yes
+- □ No
+
+## If yes:
+
+- 2. What is your level of understanding of the concept of Highly Sensitive People or SPS?
+- □ 1 - I have never heard of these concepts before
+- □ 2 - I have heard of, but know nothing about these concepts
+- □ 3 - I have heard of and have a minimal knowledge of these concepts
+- □ 4 - I have heard of and have a moderate knowledge of these concepts
+- □ 5 - I know a lot about these concepts
+- □ 6 - I have expert knowledge about these concepts.
+
+Respondents who answer no to question one will be skipped to the HSP Scale (Appendix C).
+
+## APPENDIX C
+
+## HIGHLY SENSITIVE PERSON SCALE
+
+Answer each question according to the way you personally feel, using the following scale: 1 (Not at all) to 7 (Extremely).
+
+- 1. Are you easily overwhelmed by strong sensory input?
+- 2. Do you seem to be aware of subtleties in your environment?
+- 3. Do other people's moods affect you?
+- 4. Do you tend to be more sensitive to pain?
+- 5. Do you find yourself needing to withdraw during busy days, into bed or into a darkened room or any place where you can have some privacy and relief from stimulation?
+- 6. Are you particularly sensitive to the effects of caffeine?
+- 7. Are you easily overwhelmed by things like bright lights, strong smells, coarse fabrics, or sirens close by?
+- 8. Do you have a rich, complex inner life?
+- 9. Are you made uncomfortable by loud noises?
+- 10. Are you deeply moved by the arts or music?
+- 11. Does your nervous system sometimes feel so frazzled that you just have to go off by yourself?
+- 12. Are you conscientious?
+- 13. Do you startle easily?
+- 14. Do you get rattled when you have a lot to do in a short amount of time?
+- 15. When people are uncomfortable in a physical environment do you tend to know what needs to be done to make it more comfortable (like changing the lighting or the seating)?
+- 16. Are you annoyed when people try to get you to do too many things at once?
+- 17. Do you try hard to avoid making mistakes or forgetting things?
+- 18. Do you make a point to avoid violent movies and TV shows?
+- 19. Do you become unpleasantly aroused when a lot is going on around you?
+- 20. Does being very hungry create a strong reaction in you, disrupting your concentration or mood?
+- 21. Do changes in your life shake you up?
+- 22. Do you notice and enjoy delicate or fine scents, tastes, sounds, works of art?
+- 23. Do you find it unpleasant to have a lot going on at once?
+- 24. Do you make it a high priority to arrange your life to avoid upsetting or overwhelming situations?
+- 25. Are you bothered by intense stimuli, like loud noises or chaotic scenes?
+- 26. When you must compete or be observed while performing a task, do you become so nervous or shaky that you do much worse than you would otherwise?
+- 27. When you were a child, did parents or teachers seem to see you as sensitive or shy?
+
+## APPENDIX D
+
+## SELF-CARE ASSESSMENT FOR PSYCHOLOGISTS
+
+Please rate the following statements on a scale from 1 (never) to 7 (always).
+
+- 1. I cultivate professional relationships with my colleagues.
+- 2. I avoid workplace isolation.
+- 3. I share work-related stressors with trusted colleagues.
+- 4. I share positive work experiences with colleagues.
+- 5. I maintain a professional support system.
+- 6. I participate in activities that promote my professional development.
+- 7. I connect with organizations in my professional community that are important to me.
+- 8. I take part in work related social and community events.
+- 9. I find ways to stay current in professional knowledge.
+- 10. I maximize time in professional activities I enjoy.
+- 11. I spend time with people whose company I enjoy.
+- 12. I spend time with family or friends.
+- 13. I seek out activities or people that are comforting to me.
+- 14. I find ways to foster a sense of social connection and belonging in my life.
+- 15. I try to be aware of my feelings and needs.
+- 16. I monitor my feelings and reactions to clients.
+- 17. I am mindful of triggers that increase professional stress.
+- 18. I make a proactive effort to manage the challenges of my professional work.
+- 19. I take breaks throughout the workday.
+- 20. I take some time for relaxation each day.
+- 21. I avoid overcommitment to work responsibilities.
+
+## APPENDIX E
+
+## MULTICULTURAL QUALITY OF LIFE INDEX
+
+Instructions: Please indicate the quality of your health and life at present, from 1 (poor) to 10 (excellent), for each of the following items:
+
+- 1. Physical Well-being (feeling energetic, free of pain and physical problems).
+- 2. Psychological/Emotional Well-being (feeling good, comfortable with yourself).
+- 3. Self-Care and Independent Functioning (carrying out daily living tasks; making own decisions).
+- 4. Occupational Functioning (able to carry out work, school and homemaking duties).
+- 5. Interpersonal Functioning (able to respond and relate well to family, friends, and groups).
+- 6. Social-Emotional Support (availability of people you can trust and who can offer help and emotional support).
+- 7. Community and Services Support (pleasant and safe neighborhood, access to financial, informational, and other resources).
+- 8. Personal Fulfillment (experiencing a sense of balance, dignity, and solidarity; enjoying sexuality, the arts, etc.).
+- 9. Spiritual Fulfillment (experiencing faith, religiousness, and transcendence beyond ordinary material life).
+- 10. Global Perception of Quality of Life (feeling satisfied and happy with your life in general).
+
+## APPENDIX F
+
+## PROFESSIONAL QUALITY OF LIFE SCALE
+
+When you help people, you have direct contact with their lives. As you may have found, your compassion for those you help can affect you in positive and negative ways. Below are some questions about your experiences, both positive and negative, as a helper. Consider each of the following questions about you and your current work situation. Select the number that honestly reflects how frequently you experienced these things in the last 30 days.
+
+- 1. I am happy.
+- 2. I am preoccupied with more than one person I help.
+- 3. I get satisfaction from being able to help people.
+- 4. I feel connected to others.
+- 5. I jump or am startled by unexpected sounds.
+- 6. I feel invigorated after working with those I help.
+- 7. I find it difficult to separate my personal life from my life as a helper.
+- 8. I am not as productive at work because I am losing sleep over traumatic experiences of a person I help.
+- 9. I think that I might have been affected by the traumatic stress of those I help.
+- 10. I feel trapped by my job as a helper.
+- 11. Because of my helping, I have felt "on edge" about various things.
+- 12. I like my work as a helper.
+- 13. I feel depressed because of the traumatic experiences of the people I help.
+- 14. I feel as though I am experiencing the trauma of someone I have helped.
+- 15. I have beliefs that sustain me.
+- 16. I am pleased with how I am able to keep up with helping techniques and protocols.
+- 17. I am the person I always wanted to be.
+- 18. My work makes me feel satisfied.
+- 19. I feel worn out because of my work as a helper.
+- 20. I have happy thoughts and feelings about those I help and how I could help them.
+- 21. I feel overwhelmed because my case workload seems endless.
+- 22. I believe I can make a difference through my work.
+- 23. I avoid certain activities or situations because they remind me of frightening experiences of the people I help.
+- 24. I am proud of what I can do to help.
+- 25. As a result of my helping, I have intrusive, frightening thoughts.
+- 26. I feel "bogged down" by the system.
+- 27. I have thoughts that I am a "success" as a helper.
+- 28. I can't recall important parts of my work with trauma victims.
+- 29. I am a very caring person.
+- 30. I am happy that I chose to do this work.
+
+## APPENDIX G
+
+## DEPRESSION, ANXIETY, AND STRESS SCALE
+
+Please read each statement and circle a number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past week. There are no right or wrong answers. Do not spend too much time on any statement. The rating scale is as follows:
+
+- 0 Did not apply to me at all
+- 1 Applied to me to some degree, or some of the time
+- 2 Applied to me to a considerable degree or a good part of time
+- 3 Applied to me very much or most of the time
+- 1. I found it hard to wind down.
+- 2. I was aware of dryness of my mouth.
+- 3. I couldn't seem to experience any positive feeling at all.
+- 4. I experienced breathing difficulty (e.g., excessively rapid breathing, breathlessness in the absence of physical exertion).
+- 5. I found it difficult to work up the initiative to do things.
+- 6. I tended to over-react to situations.
+- 7. I experienced trembling (e.g., in the hands).
+- 8. I felt that I was using a lot of nervous energy.
+- 9. I was worried about situations in which I might panic and make a fool of myself.
+- 10. I felt that I had nothing to look forward to.
+- 11. I found myself getting agitated.
+- 12. I found it difficult to relax.
+- 13. I felt downhearted and blue.
+- 14. I was intolerant of anything that kept me from getting on with what I was doing.
+- 15. I felt I was close to panic.
+- 16. I was unable to become enthusiastic about anything.
+- 17. I felt I wasn't worth much as a person.
+- 18. I felt that I was rather touchy.
+- 19. I was aware of the action of my heart in the absence of physical exertion (e.g., sense of heart rate increase, heart missing a beat).
+- 20. I felt scared without any good reason.
+- 21. I felt that life was meaningless.
+
+## APPENDIX H
+
+## BIG FIVE INVENTORY - 2 - SHORT FORM - NEGATIVE EMOTIONALITY SUBSCALE
+
+Here are a number of characteristics that may or may not apply to you. For example, do you agree that you are someone who likes to spend time with others? Please choose a number next to each statement to indicate the extent to which you agree or disagree with that statement using the following rating system: 1 (Disagree strongly), 2 (Disagree a little), 3 (Neutral; no opinion), 4 (Agree a little), 5 (Agree strongly).
+
+- 1. Worries a lot.
+- 2. Tends to feel depressed, blue.
+- 3. Is emotionally stable, not easily upset.
+- 4. Is relaxed, handles stress well.
+- 5. Feels secure, comfortable with self.
+- 6. Is temperamental, gets emotional easily.
+
+## APPENDIX I
+
+## INFORMED CONSENT
+
+## TEXAS WOMAN'S UNIVERSITY (TWU) CONSENT TO PARTICIPATE IN RESEARCH
+
+Title: SPS among Mental Health Graduate Students and Mental Health Professionals
+
+Principle Investigator: Christian Meek, MA……………...cmeek@twu.edu 940-268-3780
+
+Faculty Advisor: Sally D. Stabb, PhD…………………….sstabb@twu.edu 940-898-2149
+
+## Summary of the Study:
+
+We invite you to participate in a research study of SPS. This study is part of Ms. Meek's dissertation at Texas Woman's University. The purpose of this research is to explore SPS among graduate students and professionals in the mental health fields. The requirements to participate in this study are to be 18 years of age or older, to be a student or a professional in a mental health field, understand written English, and possess the motor ability to engage with computer hardware and software.
+
+Your participation is completely voluntary. All the information you provide will be anonymous. All data will be reported in an aggregate form, and no individual data will be reported. If you have questions, please contact the researchers; their contact information provided at the top of this page.
+
+## Description of Procedures
+
+You will be asked to spend about 20 - 25 minutes answering an online survey composed of 3 sections. The first section is about demographic information, the second section is about SPS, and the third section is about wellbeing.
+
+## Potential Risks
+
+There is minimal risk of emotional discomfort that might arise from answering questions about your personal experiences. However, if intense or uncomfortable emotions arise during your participation, you can take breaks or withdraw completely if you feel the need to do so. You also might experience such emotions after taking the questionnaire; in both instances, please feel free to contact the researchers using the e-mail addresses or phone numbers provided above. You will also be provided with a list of counseling referral resources.
+
+Another potential risk is loss of confidentiality, which is a concern in all research studies. There is a potential risk of loss of confidentiality in all email, downloading, electronic meeting, and internet transactions. Confidentiality will be protected to the extent allowed by law. Your name is not requested in the questionnaire, and all data will be reported in an aggregate form. No one will know your individual answers. All data gathered will be kept in a secure location and will be destroyed after 5 years from the date of your participation. The researchers will try to prevent any problem that could happen because of this research. You should let the researchers know at once if there is a problem and they will help you. However, TWU does not provide medical
+
+services or financial assistance for injuries that might happen because you are taking part in this research.
+
+## Participation and Benefits
+
+Your participation is completely voluntary, and you may withdraw from the study at any time. Some of the benefits researchers foresee you might experience by answering questions about yourself is an increase in awareness about your behaviors and feelings. Your participation in this research will potentially help science to advance knowledge in SPS. If you would like to know the results of this study, you will have the opportunity to let us know where you want them to be sent at the end of the survey.
+
+## Questions Regarding the Study
+
+If you have any questions about the research study, please ask the researchers; their contact information is at the top of this form. If you have questions about your rights as a participant in this research or the way this study has been conducted, you may contact the TWU Office of Research and Sponsored Programs at 940-898-3378 or via e-mail at IRB@twu.edu.
+
+Do you agree with these statements AND consent to voluntarily participate in this study?
+
+□ Yes
+
+□ No
+
+Link to Survey
+
+## APPENDIX J
+
+## COUNSELING REFERRAL RESOURCES
+
+| American Psychological Association Psychologist Locator http://locator.apa.org/                             |
+|-------------------------------------------------------------------------------------------------------------|
+| National Register of Health Service Psychologists http://www.findapsychologist.org/                         |
+| Mental Health of America Referrals http://www.nmha.org/go/searchMHA                                         |
+| Psychology Today Find a Therapist http://therapists.psychologytoday.com/rms/                                |
+| National Board for Certified Counselors https://www.nbcc.org/search/counselorfind                           |
+| HSP Knowledgeable Therapist Locator https://hsperson.com/therapists/seeking-an-hsp-knowledgeable-therapist/ |

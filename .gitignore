@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment and secrets
+.env
+.env.*
+server/.env
+server/server/.env
+netlify/functions/.env
+# SSH keys
+*.pem
+*.key
+*.pub
+/git push -u origin main
+/git push -u origin main.pub
+
+# Local Netlify folder
+.netlify
+misophonia-companion/
+node_modules/

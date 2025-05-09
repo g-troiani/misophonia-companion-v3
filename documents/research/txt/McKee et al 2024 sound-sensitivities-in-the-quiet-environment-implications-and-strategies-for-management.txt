@@ -1,0 +1,115 @@
+Industrial and Organizational Psychology (2024), 17 , 360 -365 doi:10.1017/iop.2024.25
+
+COMMENTARY
+
+## Sound sensitivities in the ' quiet ' environment: Implications and strategies for management
+
+Rob Austin McKee , Zahir I. Latheef , and Whitney Botsford Morgan
+
+University of Houston Downtown, Houston, TX, USA
+
+Corresponding author: Rob Austin McKee; Email: mckeer@uhd.edu
+
+The focal article (Asselineau et al., 2024) observes that noise can diminish cognitive performance, productivity, motivation, health, and well-being. Quiet can have opposing effects. We delve deeper into these issues by considering that terms like quiet and noisy are at least somewhat subjective. Importantly, we contend that any two people may perceive the same sound environment differently with respect to the degree of quiet and noise. Indeed, people with sound sensitivities may be acutely affected by an array of seemingly benign sounds that emerge within apparently quiet environments. Sound sensitivities are more common than might be expected and warrant greater attention by organizations and researchers.
+
+Based on these considerations, our commentary defines key terms associated with sound sensitivities, including crucial terms not explicitly defined in the focal article (e.g., noise, quiet). Wediscuss the prevalence of these conditions and some common triggers and reactions. We cover some legal concerns. Finally, we build upon suggestions provided in the focal article, sharing our recommendations for organizations to mitigate the effects of sound sensitivities on their workforces, including actions some forward-thinking organizations are already taking in related realms.
+
+## Overview of sound sensitivities
+
+Let s start with some basic terms to extend those provided in the focal article. Silence is the absence ' of sound. Quiet is the perception of very little sound. Noise is the perception of loud, disruptive, or otherwise unpleasant sound(s). Crucially, noise is not simply an issue of sound amplitude (i.e., loudness). We likely have all experienced qualitatively quiet noises (e.g., a ticking clock, dripping faucet) that stood in stark contrast to the relatively unobtrusive background sounds. Now imagine that experience was pervasive and disruptive enough to warrant accommodations or a clinical diagnosis.
+
+Sound sensitivities encompass a range of conditions and symptoms whereby individuals find it difficult to endure certain aspects of the auditory environment. As discussed by Henry et al. (2022), there are four primary diagnoses within the decreased sound tolerance framework. Hyperacusis refers to physical pain or discomfort when sound reaches a level of loudness (that is generally well below the level) that most people would find tolerable. Misophonia literally means hatred of sound; it refers to an intense negative emotional reaction to certain trigger sounds often related to bodily noises, particularly emanating from the mouth and nose, independent of their loudness. Noise sensitivity is defined as a physiological or psychological state (i.e., discomfort, annoyance, feeling overwhelmed or threatened) that makes an individual more reactive to noise in general, irrespective of loudness. Finally, phonophobia literally means fear of sound; in the auditory profession, it refers to a fear that sound(s) will occur that cause pain, discomfort, or
+
+© The Author(s), 2024. Published by Cambridge University Press on behalf of Society for Industrial and Organizational Psychology.
+
+anxiety. It is estimated that up to 20 -40% of the population is affected at least one of these conditions (Henry et al., 2022; Potgieter et al., 2019; Ren et al., 2021).
+
+Per the focal article, conversational noise is considered the most distractive, and natural sounds (e.g., flowing water) can promote better mood and cognition. We do not contest the general validity of that statement but contend it may be untrue for many people. The misophonia literature yields some interesting insights into the breadth of sounds that can cause distress. Table 1 adapts statistics from Vitoratou et al. (2021) to showcase some of these findings. The first column reveals a variety of trigger sounds, many of which are human in origin, often emanating from the mouth and nose. The rankings are listed in order of the emotional intensity felt by study respondents to a given trigger sound. Items with the same numerical ranking in the table were rated identically in the original study (i.e., they had the same mean intensity). The numbers beneath the five emotional states (e.g., irritation) represent the percentage of respondents for whom the target emotion was evoked for a given trigger sound. For visual clarity of response patterns, the emotional responses are color coded, with darker colors indicating that the emotion was evoked in a higher percentage of respondents for a given trigger sound. Two patterns are revealed through this color coding. First, some emotions are more likely to be evoked than others (e.g., irritation is generally darker than panic and thus more common). Second, it shows that certain types and categories of sounds are associated with certain emotional reactions (e.g., oral/ nasal sounds often evoke anger). Overall, this table reveals that many sounds (undoubtedly many more than those listed in the table), evoke an array of negative reactions that can disrupt people s ' lives. Many of these sounds emanate from other people and are self-controllable, at least to some degree. Ultimately, the table aspires to help people without sound sensitivities comprehend the range of potential triggers and reactions, which may engender some sympathy and self-restraint (in terms of sound production) on their behalf. This table also provides a reference to organizations looking to enact strategies to support employees with sound sensitivities as discussed later in this paper.
+
+## Legal and inclusivity considerations
+
+Given the prevalence and potential impact of sound sensitivities, we seek to understand the implications of these conditions in the workplace, drawing on perspectives related to law and inclusivity. Legally, employees with sound sensitivities may be protected by the Americans with Disabilities Act (ADA). ' Under the ADA, a person has a disability if he has a physical or mental impairment that substantially limits a major life activity ' (Equal Employment Opportunity Commission (EEOC), 2020). The ADA does not specify a list of impairments. However, an employee with one or more sound sensitivities may be eligible for disability if that person undergoes an assessment by a healthcare professional and provides a letter to the employer explaining the condition(s) and any resultant impact(s) on work performance, and so on.
+
+' Title I requires employers with 15 or more employees to provide qualified individuals with disabilities an equal opportunity to benefit from the full range of employment-related opportunities available to others. ' (Equal Employment Opportunity Commission (EEOC), 2020). Like other invisible identities (e.g., sexual orientation, mental illness), people with sound sensitivities would have to disclose their status to their employers to be eligible for accommodations (e.g., noise-canceling headphones, adjustments to proximity to noisy areas, remote work). Under the ADA, employers must provide reasonable accommodations to qualified individuals unless the accommodations result in undue hardship to the organization. Most accommodations are reported as no cost or low cost (i.e., less than $300) to employers (U.S. Department of Labor, 2023). It is reasonable to believe that accommodations for employees with sound sensitivities would fall into these categories.
+
+Table 1. List of Sound Triggers, Ranked by Respondents ' Reaction Intensity and by Percent of Respondents Selecting Each Emotional Reaction (Based on Vitoratou et al., 2021)
+
+| Trigger sounds          | Source     |   Rank |   Irritation (%) |   Distress (%) |   Disgust (%) |   Anger (%) |   Panic (%) |
+|-------------------------|------------|--------|------------------|----------------|---------------|-------------|-------------|
+| Loud chewing            | Oral/nasal |      1 |                4 |              9 |            18 |          43 |          23 |
+| Chewing gum             | Oral/nasal |      2 |               10 |              6 |            16 |          43 |          22 |
+| Slurping                | Oral/nasal |      3 |               17 |              7 |            29 |          34 |          10 |
+| Crunching               | Oral/nasal |      3 |               20 |             12 |            10 |          34 |          15 |
+| Normal eating sounds    | Oral/nasal |      5 |               25 |             15 |            18 |          30 |           7 |
+| Lip smacking            | Oral/nasal |      5 |               19 |             10 |            19 |          36 |           9 |
+| Blocked nose            | Oral/nasal |      7 |               28 |             12 |            16 |          28 |           9 |
+| Repetitive sniffing     | Oral/nasal |      7 |               28 |             10 |            14 |          32 |           9 |
+| Snoring                 | Oral/nasal |      9 |               32 |             13 |             3 |          28 |           9 |
+| Cutlery                 |            |     10 |               30 |             22 |             6 |          20 |           9 |
+| Mushy foods             |            |     11 |               22 |             11 |            23 |          21 |           5 |
+| Teeth sucking           | Oral/nasal |     12 |               28 |              6 |            27 |          16 |           5 |
+| Tapping                 |            |     13 |               42 |             12 |             1 |          25 |           7 |
+| Repetitive coughing     | Oral/nasal |     14 |               39 |             11 |            11 |          21 |           4 |
+| Muffled sounds          |            |     15 |               34 |             14 |             1 |          20 |           7 |
+| Throat clearing         | Oral/nasal |     16 |               37 |              8 |            16 |          16 |           3 |
+| Swallowing              | Oral/nasal |     17 |               28 |              9 |            23 |          14 |           2 |
+| Repetitive barking      |            |     18 |               44 |              9 |             1 |          19 |           4 |
+| Whistling sound         | Oral/nasal |     19 |               34 |             10 |             2 |          16 |           6 |
+| Sound of clipping nails |            |     20 |               29 |              9 |            11 |          13 |           4 |
+| Keyboard tapping        |            |     21 |               39 |             10 |             1 |          15 |           3 |
+| Rustling plastic/paper  |            |     21 |               36 |             10 |             2 |          15 |           5 |
+| Mobile phone            |            |     23 |               41 |              7 |             2 |          14 |           2 |
+| Baby crying             |            |     24 |               34 |             16 |             1 |           7 |           6 |
+| Normal breathing        | Oral/nasal |     25 |               34 |              9 |             4 |           7 |           2 |
+| Clock ticking           |            |     26 |               36 |             10 |             0 |           5 |           3 |
+| Joint cracking          |            |     27 |               29 |              8 |            10 |           6 |           1 |
+| Kissing                 | Oral/nasal |     28 |               21 |              4 |            21 |           3 |           2 |
+| Repetitive engine       |            |     28 |               29 |              9 |             0 |          11 |           3 |
+| Certain letter sounds   |            |     30 |               24 |              6 |             4 |           8 |           2 |
+| Yawning                 | Oral/nasal |     31 |               27 |              4 |             5 |           4 |           0 |
+| Humming                 | Oral/nasal |     31 |               29 |              6 |             0 |           4 |           2 |
+| Sneezing                | Oral/nasal |     31 |               24 |              4 |             7 |           4 |           2 |
+| Hiccups                 | Oral/nasal |     34 |               35 |              5 |             2 |           3 |           1 |
+| Certain accents         |            |     35 |               26 |              3 |             3 |           3 |           1 |
+| Certain words           |            |     35 |               25 |              5 |             4 |           4 |           1 |
+| Footsteps               |            |     35 |               23 |              5 |             1 |           4 |           4 |
+
+Given the range of sound sensitivities, triggers, and reactions, employees occupying the same work environment may have dissimilar aural experiences there. Some employees will be unaffected by the soundscape. Others may have only moderate or transitory sensitivities. Still others may have clinically diagnosable conditions protected by the ADA. Such cases are significant even if those employees do not pursue formal diagnoses or disability rights for whatever reason(s) (e.g., they do not know of these options, they fear stigmatization). Sound sensitivity is an invisible condition, and its prevalence and impact may be underestimated. As such, we urge companies to consider issues related to sound sensitivities from an inclusivity perspective, ensuring all employees have a safe and obliging workplace even when they are not entitled to formal accommodations under the ADA.
+
+## What can organizations do
+
+Employees with sound sensitivities are a large and diverse group representing key elements of an organization s ' competitive advantage. We propose the following strategies to better support sound-sensitive employees and provide examples of what a few companies are already doing in related areas. Even small steps can make a meaningful difference.
+
+## Increase understanding and acceptance
+
+Any organizational efforts to support sound-sensitive employees must be built upon an inclusive culture that recognizes differences, not deficits. Organizational leaders should openly advocate for these employees (while being mindful not to divulge their identities unless they have so consented). As an example, companies increasingly recognize commemorative events like Autism Awareness Day (April 2) and Neurodiversity Celebration Week (March) to emphasize that commitment to culture. Given that many of the sound triggers listed in Table 1 are caused by people, employers should educate personnel to understand that they may be inadvertently contributing to the challenges faced by their sound-sensitive colleagues. This understanding can be achieved through employee storytelling (though some may be hesitant to share their stories if a supportive culture does not already exist). Another strategy is to use virtual reality simulations that amplify sounds, helping employees without sound sensitivities hear how seemingly benign sounds may overwhelm some of their colleagues. These efforts may engender empathy and more considerate workplace behaviors.
+
+## Listen and assess
+
+Part of an inclusive culture is to ask, not assume. Sound-sensitive employees need channels through which they can communicate their needs and share feedback with the organization. Employee resource groups have helped other marginalized groups and could be an effective mechanism for organizations to learn how to better support sound-sensitive employees while also fostering a sense of community and shared experience. Through listening, organizations can learn which jobs are most impacted by sound, how workplace sounds influence productivity and which strategies employees find helpful (or not) in addressing sound intolerances. Assessment is not a one-and-done activity, though. To be effective, it should be an iterative process of intervention and learning to generate continuous improvement. As an example, Wal-Mart piloted sensory-sensitive hours each Saturday for 2 months. Based on feedback from the pilot, they adopted the program in all 5,000 + stores.
+
+## Offer flexibility and accommodations
+
+Put simply, organizations should provide whatever flexibility they can in terms of where, when, and how employees work. Such flexibility can be realized through work-from-home arrangements
+
+that allow workers more control over their sound environments. When such arrangements are infeasible, companies should be thoughtful when designing offices and offer employees options in their work settings. Obviously, furnishing workers with private offices would help, but those spaces are costly and thus usually reserved for more senior and highly paid workers. Activitybased workspaces are an option, empowering employees to move away from stationary desks and choose where they work, whether in private (e.g., soundproof booths) or collaborative spaces per their preferences and the nature of the work to be done. Meditation or quiet rooms are emerging in many offices. As the focal article notes, contemporary office spaces often overlook the benefits that quiet spaces may have on performance. Such spaces may be especially advantageous to those with sound sensitivities.
+
+Sounds-sensitive employees may similarly benefit from altering the timing of their work hours. Shifting their schedules a couple of hours earlier or later would likely provide many of these workers with a quieter experience at the office. Companies like Chuck E. Cheese follow a similar model to serve patrons on their Sensory-Sensitive Sundays, allowing neurodiverse families to arrive 2 hours earlier so they can enjoy the space with reduced noise. In addition to offering flexibility regarding place and time, thoughtfulness about how employees collaborate can further help sound-sensitive employees. Meetings, including video conferences, can result in sensory overload for some workers. Incorporating meeting-free days, such as those adopted by Meta and Shopify, may help.
+
+## Partner with experts
+
+Changing an organization, particularly in how it offers inclusivity and support for a segment of the workforce not well understood, can feel daunting and overwhelming. Fortunately, help is available. Many companies ' successful initiatives for autistic employees and customers resulted from collaborations with experts who understand the nuances of autism. For example, AMC theaters partnered with the Autism Society to develop a sensory friendly movie experience with reduced sound and more lighting. Hart Schaffner Marx, the suit manufacturer, partnered with Autism Workforce to transform their hiring practices. Some of the adjustments included job descriptions outlining environmental sensory levels (e.g., sound, light, smell) and prehire factory tours that helped initiate conversations around sound tolerance in the hiring process. In doing so, they normalized, not stigmatized, these employees ' needs. Within the realm of sound sensitivities, partnering with experts like soQuiet, Misophonia Association, Sensory Friendly Solutions, and Specialisterne can help move companies toward more inclusive and supportive cultures, policies, and practices because they understand the unique needs of this diverse group of people.
+
+## Conclusion
+
+Organizations should recognize that sound sensitivities are common, reactive to many triggers, and likely affect the lives and workplace experiences of their employees. Supporting soundsensitive employees requires a compassionate culture and accommodating policies at all levels of the organization. Employer-provided accommodations, whether per the ADA or simply to foster inclusivity, are unlikely to be even moderately burdensome. Sound sensitivities need not be a barrier to employees ' abilities to contribute to their organizations and to benefit from their inclusion there.
+
+## References
+
+Asselineau, A., Grolleau, G., &amp; Mzoughi, N. (2024). Quiet environments and the intentional practice of silence: Toward a new perspective in the analysis of silence in organizations. Industrial and Organizational Psychology , 17 , 326 -340. Equal Employment Opportunity Commission (EEOC) . (2020, Februarry 28). Guide to disability rights laws. https://www.a da.gov/resources/disability-rights-guide/#americans-with-disabilities-act-ada
+
+- Henry, J. A., Theodoroff, S. M., Edmonds, C., Martinez, I., Myers, P. J., Zaugg, T. L., &amp; Goodworth, M. C. (2022). Sound tolerance conditions (hyperacusis, misophonia, noise sensitivity, and phonophobia): Definitions and clinical management. American Journal of Audiology , 31 (3), 513 -527. https://doi.org/10.1044/2022_AJA-22-00035
+- Potgieter, I., MacDonald, C., Partridge, L., Cima, R., Sheldrake, J., &amp; Hoare, D. J. (2019). Misophonia: A scoping review of research. Journal of Clinical Psychology , 75 (7), 1203 -1218. https://doi.org/10.1002/jclp.22771
+- Ren, J., Xu, T., Xiang, T., Pu, J., Liu, L., Xiao, Y., &amp; Lai, D. (2021). Prevalence of hyperacusis in the general and special populations: A scoping review. Frontiers in Neurology , 12 , 706555. https://doi.org/10.3389/fneur.2021.706555
+- U.S. Department of Labor . (2023, May 4). US Department of Labor announces report finding nearly half of accommodates for disabled workers have no cost. https://www.dol.gov/newsroom/releases/odep/odep20230504
+- Vitoratou, S., Uglik-Marucha, N., Hayes, C., &amp; Gregory, J. (2021). Listening to people with misophonia: Exploring the multiple dimensions of sound intolerance using a new psychometric tool, the S-Five, in a large sample of individuals identifying with the condition. Psych , 3 (4), 639 -662. https://doi.org/10.3390/psych3040041

@@ -1,0 +1,1048 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=oamh20Cogent Mental Health
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/oamh20
+Existential concerns in psychopathology: a
+transdiagnostic network analysis existential
+concerns in psychopathology
+UnYoung Chavez-Baldini, Karin J.H. Verweij, Jessy Bergamin, Judy Luigjes,
+Roel J.T. Mocking, Damiaan Denys, Dorien H. Nieman & Nienke C. Vulink
+To cite this article:  UnYoung Chavez-Baldini, Karin J.H. Verweij, Jessy Bergamin, Judy Luigjes,
+Roel J.T. Mocking, Damiaan Denys, Dorien H. Nieman & Nienke C. Vulink (2024) Existential
+concerns in psychopathology: a transdiagnostic network analysis existential concerns in
+psychopathology , Cogent Mental Health, 3:1, 1-23, DOI: 10.1080/28324765.2024.2313869
+To link to this article:  https://doi.org/10.1080/28324765.2024.2313869
+© 2024 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 07 Feb 2024.
+Submit your article to this journal 
+Article views: 9
+View related articles 
+View Crossmark data
+
+RESEARCH ARTICLE
+Existential concerns in psychopathology: 
+a transdiagnostic network analysis existential 
+concerns in psychopathology
+UnYoung Chavez-Baldini
+ , Karin J.H. Verweij
+ , Jessy Bergamin, 
+Judy Luigjes
+ , Roel J.T. Mocking
+ , Damiaan Denys
+ , 
+Dorien H. Nieman
+ and Nienke C. Vulink
+Amsterdam UMC, University of Amsterdam, Department of Psychiatry, Meibergdreef 9 
+Amsterdam, Netherlands
+ABSTRACT
+Existential concerns, such as autonomy and identity, are often overlooked 
+although they play an important role in psychopathology and clinical practice. 
+The aims of this study are to investigate how existential concerns relate to 
+psychopathological symptoms and to identify important existential concerns. 
+This study used a cross-sectional quantitative design with a transdiagnostic 
+sample. A mixed graphical model of 4 existential and 3 symptom domains with 
+4 covariates was estimated in a sample of 996 individuals with various psychia -
+tric disorders. Symptom nodes were derived from questionnaires on psycho -
+pathological symptoms and existential nodes from questionnaires on 
+transdiagnostic psychiatric dimensions and self-esteem. The centrality metric, 
+expected influence, was calculated to determine nodes’ cumulative influence in 
+the network. Existential concerns were related to worse psychopathology over -
+all, but most strongly to depressive and anxiety symptoms. The strongest cross- 
+domain relationship was between anxiety and recognition of psychiatric dis-
+order. Of the existential concerns, autonomy and identity were the most central 
+nodes in the network. Our results advocate the need to address existential 
+concerns in clinical practice and research. Conveying individual responses to 
+experiencing psychopathology, such as recognition of disorder, and supporting 
+autonomy or positive identity formation may be areas for intervention.
+ARTICLE HISTORY Received: 18 May 2023; Accepted: 30 January 2024 
+KEYWORDS Transdiagnostic; psychopathology; existential concerns; network approach
+CONTACT UnYoung Chavez-Baldini 
+ u.y.chavezbaldini@amsterdamumc.nl ; u.chavezbaldini@gmail.com 
+Amsterdam University Medical Centers (location AMC), Department of Psychiatry, Meibergdreef 5, 1105 AZ 
+Amsterdam, the Netherlands
+Shared last author = Dorien H. Nieman and Nienke C. Vulink contributed equally to this paper.COGENT MENTAL HEALTH                               
+2024, VOL. 3, NO. 1, 2313869 
+https://doi.org/10.1080/28324765.2024.2313869
+© 2024 The Author(s). Published with license by Taylor & Francis Group, LLC.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License 
+(http://creativecommons.org/licenses/by-nc/4.0/ ), which permits unrestricted non-commercial use, distribution, and 
+reproduction in any medium, provided the original work is properly cited. The terms on which this article has been 
+published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+Introduction
+Existential concerns have psychological, medical, and philosophical signifi -
+cance, but the increased focus on behavioral psychology and biomedical 
+models over the past decades has largely ignored existential concerns in 
+psychiatry (Koole et al., 2006 ). Existential psychology is derived from existen -
+tialism and largely concerns itself with how people face and cope with the 
+experience of human existence (Koole, 2010 ; Yalom, 1980 ). The existential 
+dimension then can broadly refer to the way we relate to and reflect on our 
+experiences and conflicts that may arise thereof (de Haan, 2017 ; Koole et al.,  
+2006 ). The existential dimensions can also consist of spiritual, religious, and 
+secular components (Hvidt et al., 2022 ; Whitley & Drake, 2010 ). According to 
+existentialism-inspired psychology and psychotherapy, death, freedom, iso-
+lation, identity, and meaning are the major overarching existential concerns 
+that humans face, and it is posited that these concerns can have a significant 
+impact on well-being (Greenberg et al., 2004 ; Yalom, 1980 ). Existential con-
+cerns are complex to define, often encompass a wide range of themes, and 
+can have intricate relationships with psychopathology. For instance, they can 
+play a constitutive or modulatory role in or be an integral part of psycho -
+pathology (de Haan, 2017 ). In this study, we are guided by the conceptualiza -
+tions of existential concerns from existential psychology and therapy (e.g., 
+Koole, 2010 ; Yalom, 1980 ).
+Everyone contends with existential concerns to some degree, but more so 
+individuals with psychiatric disorders who express feelings of loneliness and 
+yearning for social connection and belonging, feeling a loss of dignity and 
+self, fearing change and responsibility, needs for personal development, and 
+searching for meaning (Damsgaard et al., 2021 ; Huguelet, 2014 ; Søberg et al.,  
+2018 ; Wagner & King, 2005 ). Some individuals also report religiosity as an 
+important component of existential concerns, such as faith contributing to 
+meaning of life (Søberg et al., 2018 ). As such, one could argue that many if not 
+all of the existential concerns are transdiagnostic constructs, meaning that 
+they are not specific to a particular condition or psychiatric disorder. For 
+example, death anxiety (Iverach et al., 2014 ), existential suffering (Yager,  
+2021 ), and emptiness (Herron & Sani, 2022 ) have been shown to be trans -
+diagnostic existential concerns related to many psychiatric conditions. Of the 
+existential concerns identified by existential psychology, we focus on identity 
+(e.g., the struggle of maintaining a clear sense of who one is while facing 
+uncertainties surrounding self-perception), freedom (e.g., the experience of 
+free will versus constraints and the responsibility of one’s choices), and 
+isolation (e.g., the need for social connection versus experiences of rejection 
+and feeling isolated in one’s subjective experience of reality) (Koole et al.,  
+2006 ; Yalom, 1980 ). Individuals with psychiatric disorders often describe a loss 
+of self and identity and of struggling with reconciling with their illness 2
+ U. CHAVEZ-BALDINI ET AL.
+
+identity (Kaite et al., 2015 ; Wisdom et al., 2008 ). While identity problems can 
+be a risk factor for psychopathology (Persike et al., 2020 ), psychopathology 
+can also impact identity as one may question if the psychiatric disorder is part 
+of the self (de Haan, 2017 ). Additionally, a compromised or lack of autonomy 
+(e.g., Bergamin et al., 2022 ; Hill & Pettit, 2013 ; van Bergen & Saharso, 2016 ) as 
+well as social isolation and loneliness (e.g., Chou et al., 2011 ; Leigh-Hunt et al.,  
+2017 ; Yalom, 1980 ) can be associated with psychopathology. Associated with 
+a sense of will and responsibility, compromised autonomy can have conse -
+quences on one’s ability to act in accordance with one’s goals or desires (Ryan 
+& Deci, 2004 ). Threats to freedom and autonomy may often be considered 
+external, but psychopathology can itself also be a barrier to autonomy 
+(Bergamin et al., 2022 ). Lastly, social isolation can be both interpersonal and 
+existential in a way that reflects a lack of social connections or worth therein 
+but also a sense of feeling different from others, misunderstood, or alone in 
+one’s experiences (Pinel et al., 2017 ). Connectedness is often considered 
+necessary for mental health (e.g., Saeri et al., 2018 ), but connectedness 
+could be hindered by psychopathology, such as through shame of having 
+a psychiatric disorder (de Haan, 2017 ).
+Given that psychopathology can itself be considered an existential experi -
+ence and entails how patients “evaluatively relate to their disorder” (e.g., de 
+Haan, 2017 ; Yalom, 1980 ), we also included the recognition of that experience 
+as an existential concern. In this regard, recognizing a psychiatric disorder is 
+different from experiencing or having a disorder. For instance, the recogni -
+tion of a mental illness often causes extra stress and suffering since it 
+compromises hope and positive outcome of mental well-being. Although 
+there is no validated instrument or measurement of the experience of psy-
+chopathology as an existential concern, capturing this aspect of the lived 
+experience of patients with psychiatric symptoms remains important, espe -
+cially as this study specifically aims to explore existential themes in 
+a psychiatric population.
+Studies that more directly investigate the interrelations between various 
+existential concerns and symptoms are sparse but demonstrate that they are 
+indeed related (Chawla et al., 2022 ; Kretschmer & Storm, 2018 ). It remains 
+therefore necessary to further explore relationships between existential con-
+cerns and symptoms and do so with a transdiagnostic approach. Depressive, 
+anxious, and psychotic symptoms can be considered core symptom dimen -
+sions, and they have been shown to be transdiagnostic in nature. For 
+instance, anxiety and depression can occur in numerous disorders, such as 
+misophonia (Quek et al., 2018 ), obsessive-compulsive disorder (Nestadt et al.,  
+2001 ), and psychosis (Wilson et al., 2020 ), and psychotic symptoms have also 
+been reported in non-psychotic disorders (Hanssen et al., 2003 ).
+Individuals with psychiatric disorders have expressed that recovery 
+and remission are more than the reduction of symptoms (Binder et al.,  COGENT MENTAL HEALTH
+ 3
+
+2010 ; Zimmerman et al., 2006 ) and that existential concerns are as—or 
+even more—important and urgent than symptom reduction (Kogstad 
+et al., 2011 ; Wagner & King, 2005 ). Consequently, there has been renewed 
+recognition that these concerns should be acknowledged and addressed 
+as part of routine care (Koslander et al., 2009 ; Søberg et al., 2018 ; Ulland & 
+DeMarinis, 2014 ) and that the existential dimension should be empha -
+sized in the bio-psycho-social model (de Haan, 2017 ; Moore & Goldner- 
+Vukov, 2009 ; van Os et al., 2019 ). Further understanding of the role of 
+existential concerns in psychiatry and their relation with psychopatholo -
+gical symptoms is therefore of importance. There remains however 
+a dearth of quantitative research on the relationship between psycho -
+pathology and existential concerns, especially in a transdiagnostic 
+manner.
+A network approach could be useful for investigating how these exis -
+tential concerns and symptoms interrelate. This approach posits that psy-
+chopathology manifests due to a complex interplay of symptoms and 
+other clinically-relevant biopsychosocial factors, such as cognitions and 
+daily functioning (Borsboom & Cramer, 2013 ), which is represented by 
+a network of nodes (variables) and edges (relationships between nodes). 
+Rather than treating symptoms as passive underlying indicators of a latent 
+disorder with equal weight, the network approach conceptualizes symp -
+toms as individual active agents that can have differential (causal) impacts 
+on other symptoms and the overall psychopathology (Borsboom, 2008 ; 
+Borsboom & Cramer, 2013 ). Coupled with the transdiagnostic approach, 
+a network model can be expanded to not only include symptoms but also 
+other elements relevant for psychopathology (McNally, 2021 ), which also 
+aligns with going beyond just symptom reduction. Although cross- 
+sectional network analyses do not allow for causal inference, they can 
+elucidate numerous relationships between nodes in one model as well as 
+nodes that are most central, or most strongly connected, in the network, 
+and can be useful for hypothesis generation. In this case, we can examine 
+which existential concerns are most influential in the network and how 
+individual existential concerns interact with symptom dimensions within 
+a network model.
+The present study aims to explore cross-sectional relationships between 
+existential concerns (i.e., autonomy, identity, recognition of psychiatric dis-
+order, and social connection) and psychopathological symptoms (i.e., depres -
+sive, anxiety, and psychotic symptoms) in a transdiagnostic sample of 
+individuals with psychiatric disorders by estimating a network model of 
+existential and symptom domains and performing centrality analysis to 
+detect which variables are important within the network. Considering the 
+agnostic and exploratory nature of the network approach, there were no 
+hypotheses regarding specific relationships or centrality. It was however 4
+ U. CHAVEZ-BALDINI ET AL.
+
+generally expected that stronger existential concerns (e.g., lower autonomy) 
+would be related to worse symptom severity (e.g., worse depressive 
+symptoms).
+Methods
+Sample
+The sample consists of 996 patients with psychiatric disorders recruited 
+during intakes at the outpatient clinic of the Department of Psychiatry 
+at the Amsterdam University Medical Centers (UMC), location Academic 
+Medical Center (AMC), which is a public tertiary care medical institution. 
+The Department of Psychiatry is an expertise center for anxious and 
+obsessive-compulsive related disorders, depressive disorders, psychosis, 
+and misophonia and offers a variety of evidenced-based and experi -
+mental treatments (e.g., cognitive, behavioral, and trauma therapies, 
+medication, electroconvulsive therapy, deep brain stimulation) as well 
+as supplementary interventions (e.g., creative therapies, lifestyle inter -
+ventions, and reintegration support). Inclusion criteria were: age 14–75  
+years, ability to give informed consent, a DSM-IV-TR or DSM-5 diagnosis 
+as determined by a trained psychiatrist, and fluent in Dutch. Exclusion 
+criteria were: acute high risk of suicide (i.e., suicidal behavior requiring 
+immediate and urgent attention), premorbid IQ < 70, history of seizure 
+or clinically significant abnormality of the neurological system.
+Procedure
+The Across study is an ongoing, longitudinal research project that col-
+lects data on cognitive functioning, psychopathology symptoms, and 
+biological parameters. The full study and procedure are described in 
+Nieman et al. (2020) . After an intake at the Department of Psychiatry, 
+patients were invited to participate after being briefed about the study, 
+and written informed consent was obtained from participants if they 
+agreed to participate. Participants were able to participate at any point 
+of their clinical trajectory (e.g., before, during, or after treatment); note 
+that one-third to one-half of patients who have an intake at the 
+Department of Psychiatry do not start treatment. Participants could 
+discontinue participation from the study or parts of the study at any 
+time.
+The current study used data from baseline questionnaires on psycho -
+pathological symptoms and other clinically-relevant factors, such as self- 
+esteem. Questionnaires were administered on a computer during 
+a research session, which took about 30 minutes to an hour to complete. COGENT MENTAL HEALTH
+ 5
+
+The study protocol was approved by the Medical Ethical Review 
+Committee of the Amsterdam UMC (no. NL55751.018.15), and data are 
+stored according to European privacy laws.
+Measures
+At the time the Across study was designed, there was not a validated ques -
+tionnaire that comprehensively covered different existential concerns. 
+Therefore, items related to existential domains of identity, autonomy, recog -
+nition of psychiatric disorder, and social functioning and connection were 
+selected from the Psychiatric Dimensions Questionnaire and the Self-esteem 
+Rating Scale- Short Form (SERS-SR) to create a limited inventory of existential 
+concerns. Given that the authors have backgrounds in psychiatry and (clin -
+ical) psychology, the existential concerns are based on the definitions from 
+existential psychology and psychiatry, such as the “Big Five Existential 
+Concerns” (Koole et al., 2006 ).The Psychiatric Dimensions Questionnaire 
+assesses a variety of transdiagnostic concepts that are commonly affected 
+in patients with a psychiatric disorder: affect, volition, identity, cognition, 
+reality, and vitality (Nieman et al., 2020 , 2021 ). It was developed at the 
+Amsterdam UMC (Nieman et al., 2021 ) and consists of 26 items. We specifi -
+cally used items from the volition, identity, and vitality subscales to tap into 
+themes on autonomy/freedom, identity, and recognition of disorder. The 
+SERS-SR measures self-esteem in relation to self-worth, social competence, 
+abilities, self-competence, and worth compared with others (Lecomte et al.,  
+2006 ). It consists of 20 items that are rated on a scale from 0 (strongly 
+disagree) to 6 (strongly agree). The SERS-SR demonstrates high internal 
+consistency for the positive and negative scales (respectively, α = 0.91 and 
+α = 0.87) and good test-retest reliability for each scale (respectively, r = 0.90 
+and r = 0.91) (Lecomte et al., 2006 ). We specifically selected items relating to 
+feeling accepted versus rejected and navigating interpersonal relationships 
+to tap into the existential concern of isolation.
+Psychopathological symptoms included in this study were assessed 
+with the Hamilton Anxiety Scale (HAM-A), the Inventory of Depressive 
+Symptomatology Self-Report (IDS-SR 30), and Prodromal Questionnaire 16 
+(PQ-16), which are validated and psychometrically-sound questionnaires. 
+The HAM-A measures the severity of somatic, cognitive, and affective 
+symptoms of anxiety (Hamilton, 1959 ). It consists of 13 items that are 
+rated on a scale of 0 (not present) to 4 (severe). The HAM-A demon -
+strates satisfactory interrater reliability and concurrent validity (Maier 
+et al., 1988 ). The IDS-SR measures the severity of depressive symptoms 
+pertaining to mood, cognition, arousal, suicidality, and sleep (Rush et al.,  
+1986 ). It consists of 30 items that are rated on a scale from 0 (symptom is 
+not present) to 3 (strongest impairment). The IDS-SR also demonstrates 6
+ U. CHAVEZ-BALDINI ET AL.
+
+good internal consistency (α = 0.85) and satisfactory psychometric prop -
+erties (Rush et al., 1996 ). Because a number of items from the IDS- SR30 
+and HAM-A overlap (e.g., both ask about depressed and anxious mood), 
+total scores of the shortened versions which focus on core symptoms of 
+each domain were used to avoid multicollinearity: Quick IDS-SR (QIDS-SR 
+-16; Rush et al., 2003 ) and HAM-A 6 (Bech, 2012 ). Both the QIDS-SR (Rush 
+et al., 2003 ) HAM- A6 (Bech, 2011 ) also demonstrate satisfactory psycho -
+metric properties. The PQ-16 assesses the occurrence and severity of At 
+Risk Mental State symptoms for a first psychosis (Ising et al., 2012 ). It 
+consists of 16 items (2 negative symptoms, 5 unusual thought content/ 
+delusional ideas/paranoia, and 9 on perceptual abnormalities/hallucina -
+tions) which participants first endorse the presence of a symptom (true 
+or false) and then rate the severity from 0 (no distress) to 3 (severe 
+distress). The PQ-16 demonstrates an all item-total correlations of at least 
+0.31 and good internal consistency (α =  0.77) (Ising et al., 2012 ). Anxious, 
+depressive, and subclinical psychotic symptoms were included in this 
+study because they align with the expertise of the study’s institution 
+and were the questionnaires from the Across Study that were adminis -
+tered to all participants regardless of diagnosis, symptomology or other 
+demographic or clinical factor, such as treatment status or illness 
+severity.
+Age, gender, diagnostic category, and use of psychotropic medication 
+were included as covariates in the network. Age and gender were obtained 
+from a demographic questionnaire. Diagnostic category and treatment were 
+obtained from the participants’ medical records. The diagnosis is determined 
+by a psychiatrist and categorized into 7 categories: schizophrenia spectrum 
+and other psychotic disorders, depressive disorders, anxiety disorders, obses -
+sive-compulsive and related disorders, misophonia (impulse-control disorder 
+NOS), bipolar disorder, and other disorders. Use of psychotropic medication 
+includes antidepressants, antipsychotics, benzodiazepines, psychostimulants, 
+and mood stabilizers and is coded as a binary variable of 0 (no) and 1 (yes).
+Nodes that were included in the network can be viewed in Table 1, 
+excluding covariates. Each node represents either an existential factor or 
+a symptom domain. To create the existential concerns nodes, individual 
+items were collapsed with content-based selection and weighted topological 
+overlap approach using the R-package EGAnet (Golino et al., 2020 ), which 
+helps determined which items have a high degree of conceptual overlap 
+based on correlations and can be collapsed together. Nodes in networks 
+usually reflect individual items, and because these items are often taken 
+from questionnaires that are meant to measure a latent construct, node 
+reduction is suggested to reduce the degree of conceptual overlap between 
+items and ensure that nodes represent “autonomous causal agents” and 
+facilitate interpretability of results (Wysocki et al., 2022 ).COGENT MENTAL HEALTH
+ 7
+
+Data analyses
+Analyses were conducted using R version 3.6.1 (R Core Team, 2020 ). We 
+estimated cross-sectional regularized networks of existential concerns 
+(continuous), psychopathological symptoms (continuous), and covari -
+ates (continuous and categorical). In a network, variables are repre -
+sented by nodes and the relationship between variables are 
+represented by edges. To account for continuous and categorical vari -
+ables, we estimated mixed graphical models (MGM) using the 
+R-package mgm (Haslbeck & Waldorp, 2020 ), in which edges are statis -
+tically defined by the nodewise regression coefficient. Due to the 
+categorical variables in this model, a correlation matrix or partial corre -
+lation network would not be suitable. MGM uses casewise deletion for 
+analyses (Haslbeck & Waldorp, 2020 ), so participants with at least one 
+missing data point were removed. To create sparse networks, models 
+were estimated with the least absolute shrinkage and selection opera -
+tor (LASSO), using the Extended Bayesian Information Criterion (EBIC) 
+and a gamma of 0.5, which reduces false positive edges by shrinking all 
+edge weights and setting the smallest to zero. This produces a network 
+with non-zero edges, or edges that have a weight greater than zero as 
+an edge weight of zero indicates that there is no edge. Due to this Table 1. Nodes and labels
+Node Label ItemsMeasure (item 
+no.)
+Aut Autonomy Do you feel you are in control of yourself? (reversed); 
+Do you feel that you can choose freely when you 
+have to make a decision? (reversed); Do you have 
+the motivation and drive to start new activities? 
+(reversed)Dimensions (3  
++ 8 + 9)
+Rec Recognition of 
+psychiatric 
+disorderDo you suffer because of your current mental state?; 
+I have a psychiatric disorderDimensions (7  
++ 16)
+Id Identity Do you feel like you are a stranger to yourself?; I wish 
+that I were someone elseDimensions 
+(17) + SERS- 
+SR (20)
+Soc Social I feel confident in my ability to deal with people 
+(reversed); My friends value me a lot (reversed)SERS-SR (2 + 14)
+Anx Anxiety 
+symptomsTotal score HAM-A 6 (total 
+score)
+Dep Depression 
+symptomsTotal score QIDS-SR (total 
+score)
+Psy (Subclinical) 
+psychotic 
+symptomsTotal score (severity) PQ-16 (severity 
+score)
+Note : In the “Measure (item no.)” column, the questionnaire and the item number that each node 
+represents is noted. Variables are coded so that a higher score on an item implies greater severity. 
+Abbreviations : Dimensions = Psychiatric Dimensions Questionnaire, QIDS-SR= Quick Inventory of 
+Depressive Symptomatology Self-Report, HAM-A= Hamilton Anxiety Scale, PQ-16 = Prodromal 
+Questionnaire 16, SERS-SR= Self-esteem Rating Scale- Short Form.8
+ U. CHAVEZ-BALDINI ET AL.
+
+regularization process, a mixed graphical model is more appropriate 
+than a simple correlation matrix, which does not reduce false positives, 
+for investigating the relationships between numerous variables. After 
+estimation, networks were visualized as undirected networks with the 
+R-package qgraph (Epskamp et al., 2012 ), using the “circle” layout and 
+colorblind theme.
+The centrality metric of expected influence (EI) was computed using 
+the R-packages qgraph (Epskamp et al., 2012 ). EI assesses a node’s 
+cumulative influence in a network and is calculated as the summed 
+weight of its edges while taking into account negative edges 
+(Robinaugh et al., 2016 ). By summing up the strengths of its edges, EI 
+can give insight into a node’s role in the “activation, persistence, and 
+remission of the network” (Robinaugh et al., 2016 ) and indicates which 
+node has the most overall impact in the network. Clinically, this may be 
+used to guide hypotheses on potential treatment targets. To check for 
+the influence of variable properties on centrality, EI was correlated with 
+infrequency of endorsement, means, variance, and standard deviations 
+of variables (Spiller et al., 2020 ; Terluin et al., 2016 ).
+To assess the accuracy of edge weights, differences between edges and 
+centralities, and the stability of centralities, stability checks were con -
+ducted using bootnet as detailed in Epskamp et al. (2018) . This results in 
+bootstrapped non-parametric 95% confidence intervals based on 1,000 
+bootstrap samples, which are used to indicate the accuracy of the edge 
+weights and differences between edges and centralities. The width of the 
+interval indicates the accuracy of the edge weights. Whether or not an 
+interval contains a zero indicates if there are differences between edges 
+and centralities of nodes. For example, if the interval does not contain 
+zero, this means that the edges or centralities differ at the α = 0.05 level. 
+Case-drop bootstrapping, in which a certain percentage of the sample is 
+randomly removed in an iterative manner, based on 1,000 bootstrap 
+samples produces a correlation-stability (CS) coefficient, which indicate 
+the stability of centralities. A CS coefficient should not be below 0.25 
+and preferably above 0.5 (Epskamp et al., 2018 ).
+As sensitivity analyses, a control network without misophonia was esti-
+mated, given that it was the largest group (35.7% of the sample) and may 
+impact the whole sample estimates. Centralities were computed and stability 
+checks were conducted for this control network. Given differences in estima -
+tion methods (i.e., differing diagnostic variable levels), a network comparison 
+test cannot be used to compare the main and control network. Therefore, 
+similarities between the main and control network were evaluated using the 
+correlation between edge lists as a global measure of network similarity, the 
+percentage of individual edges that are replicated, correlations of centralities 
+between networks, and replication of the most central symptoms.COGENT MENTAL HEALTH
+ 9
+
+Results
+Sample characteristics
+Data from 996 participants collected between 2012 and 2022 were 
+included in the analyses. 1155 patients participated in the study, but 
+159 were excluded because of missing data. Data was determined to be 
+missing at random (MAR) through inspection and according to Little’s 
+Missing Completely at Random (MCAR) test (χ2 = 36.7, DF = 32, p =  
+0.261). The distribution of the primary diagnosis reflects the naturalistic 
+patient population of the Amsterdam UMC. Sample characteristics can 
+be seen in Table 2. Variables’ scores are shown in Table S2 in the 
+Supplementary materials.Table 2. Demographic and clinical characteristics of participants
+CharacteristicsWhole sample 
+(N = 996)
+Age (years), mean (SD) 34.8 (14.0)
+Gender, women, No. (%) 548 (55)
+Completed educationa, No. (%)
+Low 99 (9.9)
+Middle 311 (31.2)
+High 585 (58.7)
+Unknown 1 (0.1)
+DSM diagnostic categoryb, No. (%)
+Schizophrenia spectrum and other psychotic disorders 139 (14.0)
+Depressive disorder 125 (12.6)
+Anxiety disorder 49 (4.9)
+Obsessive-compulsive and related disorders 218 (21.9)
+Misophonia 356 (35.7)
+Bipolar disorder 33 (3.31)
+Other disorders 76 (7.6)
+Comorbidity, No. (%) 260 (26.1)
+Medication use, No. (%)
+Antidepressants 247 (24.8)
+Antipsychotics 126 (12.7)
+Benzodiazepines 27 (2.7)
+Psychostimulants 9 (0.9)
+Mood stabilizers 8 (0.8)
+Other (non-psychotropic)c165 (16.6)
+None 414 (41.6)
+Note: DSM= Diagnostic and Statistical Manual of Mental Disorders. 
+aBased on the Dutch Verhage scale (Verhage, 1964 ): low (1 through 4: less than or equal to primary 
+education or low-level secondary education), middle (5: average-level secondary education), high 
+(6 and 7: high-level secondary education or university degree). 
+bDiagnostic category is only for the primary diagnosis. Specific diagnoses can be viewed in Table S1 
+in the Supplementary Materials. 
+cOther medication includes: anti-inflammatory, anti-histamines, anti-epilepsy, contraceptives, cho-
+lesterol medication, corticosteroids, dopamine-agonists, and various supplements.10
+ U. CHAVEZ-BALDINI ET AL.
+
+Network analysis
+The network of existential concerns and symptoms is visualized in Figure 1.
+The whole sample network contained 14 non-zero edges out of 21 
+possible edges (excluding edges with and between covariates), 100% of 
+which were positive. This indicates that existential concerns were over -
+all related to worse psychopathology. Generally, the network appears to 
+be stable as indicated by the generally narrow confidence intervals of 
+the edge weights (Figure S1 in the Supplementary materials). The 
+strongest cross-domain edge was between recognition of psychiatric 
+Figure 1. Transdiagnostic networks of existential concerns and psychopathological 
+symptoms. Nodes represent the variables included in the network and edges indicate 
+an association between two nodes. Blue edges represent positive associations whereas 
+red edges represent negative associations, and thickness of an edge represents the 
+strength of association between two nodes. The color of each node indicates to which 
+overarching domain it belongs: existential concerns (yellow) and symptoms (blue). 
+Abbreviations: Anx = Anxiety symptoms, Aut= Autonomy, Dep= Depressive symptoms, 
+Id= Identity, Psy= (Subclinical) psychotic symptoms, Rec= Recognition of psychiatric 
+disorder, Soc= Social.COGENT MENTAL HEALTH
+ 11
+
+disorder and anxiety (weight= .28), in which stronger recognition of 
+psychiatric disorder was related to worse anxiety. This edge was sig-
+nificantly different from 9 other edges (Figure S2 in the Supplementary 
+materials). Existential concerns were most strongly related to depressive 
+and anxiety symptoms whereas psychosis was related to identity. The 
+edge matrix for the network can be viewed in Table S3 and results of 
+stability checks can be viewed in Figures S1-S4 in the Supplementary 
+materials.
+The centrality plot of EI can be viewed in Figure 2. Anxiety had the highest 
+EI overall, meaning that it had the highest cumulative influence in the net-
+work as determined by the summed weight of its edges, and the existential 
+factor with the highest EI was autonomy with identity as a close second. 
+Autonomy and identity were significantly different from 4 other nodes, but 
+were not significantly different from each other (Figure S3 in the 
+Supplementary Materials). EI is highly stable with a CS coefficient of 0.75, 
+meaning that 75% of the data could be dropped and retain a correlation of 
+0.7 with the original dataset with 95% certainty. Furthermore, EI was not 
+significantly correlated with infrequency of endorsement (r= −.07, p = .88), 
+mean (r = .64, p = .12), variance (r = .59, p = .16), or standard deviation (r = .63, 
+p = .13) of nodes, indicating the EI was not influenced by variable properties.
+Effects of covariates can also be viewed in Table S3. Across all networks, 
+diagnosis had the most relationships with the existential concerns and 
+Figure 2. Centrality plots of expected influence. The nodes are denoted on the y-axis 
+and the standardized centrality coefficients are denoted on the x-axis. Higher z-scores 
+indicate higher centrality. Abbreviations: Anx = Anxiety symptoms, Aut= Autonomy, 
+Dep= Depressive symptoms, Id= Identity, Psy= (Subclinical) psychotic symptoms, 
+Rec= Recognition of psychiatric disorder, Soc= Social.12
+ U. CHAVEZ-BALDINI ET AL.
+
+symptoms. Diagnosis had the strongest relationship with recognition of 
+psychiatric disorder and depressive symptoms.
+The control network without misophonia (n = 640) resulted in 13 non- 
+zero edges, 100% of which were positive. The control network also 
+appears to be stable as indicated by the narrow confidence intervals of 
+the edge weights (Figure S7 in the Supplementary materials). The edges of 
+the main and control network were strongly correlated (r = .96, p < .001). 
+91% of the edges in the control network were replicated in the main 
+network and 86% of the edges in the main network were replicated in 
+the control network. The edge between recognition of psychiatric disorder 
+and anxiety as the strongest (weight= .32) was replicated, which was 
+significantly different from 9 other edges (Figure S8 in the 
+Supplementary materials). Autonomy and identity also had the highest EI 
+out of the existential concerns, which were significantly different from 3 
+other nodes, but were not significantly different from each other (Figure 
+S9 in the Supplementary materials), and the overall EI is significantly 
+correlated between the main and control networks (r = .98, p < .001). EI 
+demonstrated high stability (CS coefficient = .75). The control network, 
+centrality plots, and stability and difference tests can be viewed in the 
+Supplementary materials (Figures S5-S10).
+Discussion
+This study for the first time investigated existential concerns and symptoms in 
+patients with various psychiatric disorders from a transdiagnostic perspective 
+using network analysis. In a large naturalistic cohort, we found that worse 
+symptom severity was related to worse existential concerns and that auton -
+omy and identity were highly influential nodes in the network. The findings 
+highlight the importance of including existential concerns in psychiatric 
+research.
+Overall, we found that existential concerns were mostly related to 
+anxiety and depressive symptoms. This is in line with previous existential 
+works in which existential concerns are an integral part of psychiatric 
+suffering and especially deeply intertwined with anxiety and depression 
+(Bygstad Landro & Giske, 2018 ; Yalom, 1980 ). The literature on the general 
+population and patients with cancer also shows a clear relation between 
+existential concerns and negative emotional states, such as anxiety and 
+depression (e.g., Berman et al., 2006 ; Chen et al., 2022 ; Mascaro & Rosen,  
+2005 ; Vehling & Kissane, 2018 ). Some consider anxiety and depression to 
+be existential states in and of themselves and numerous existential philo -
+sophers and psychiatrists (e.g., Paul Tillich (1952 ), Viktor Frankl (1985 ), Irvin 
+Yalom (1980 ), and Martin Heidegger (1927 ), among others) have posited 
+that psychopathology is a reaction to or extension of existential concerns. COGENT MENTAL HEALTH
+ 13
+
+For instance, anxiety can manifest when one confronts existential con-
+cerns, such as death (e.g., Tillich, 1952 ), or depression can be an outcome 
+of a sense of meaninglessness (e.g., Frankl, 2005 ). Over time, these experi -
+ences of anxiety or depression can become pathological and pathologized 
+(Nieman, 2016 ). However, not all psychopathology results from existential 
+concerns. Experiencing a chronic illness, including a psychiatric disorder, 
+can make one more acutely aware of existential concerns as one grapples 
+with what it means to live with a disorder, though (Kaite et al., 2015 ; 
+Yalom, 1980 ).
+The strongest cross-domain relationship was between recognition of psy-
+chiatric disorder and anxiety symptoms. This could potentially reflect the 
+“insight paradox”, in which increased insight can have positive effects, such 
+as better clinical and psychosocial outcomes, while also having negative 
+effects, such as decreased well-being and depression (Gonzalez, 2008 ; 
+Lysaker et al., 2006 ; Sorgaard et al., 2011 ). Shame and self-stigma can be 
+related to insight (Buchman-Wildbaum et al., 2020 ), and studies have shown 
+relationships between shame, self-stigma, and anxiety symptoms (Busby 
+Grant et al., 2016 ; Szentágotai-Tătar et al., 2020 ). As observed in the clinic, 
+recognition could increase also anxiety as patients realize the severity of their 
+situation and the uncertainty of their trajectory and outcomes, especially if 
+they have a family history of mental illness- an observation that merits further 
+investigation. Additionally, psychopathology can cause suffering beyond 
+symptomology due to negative effects, such as impaired functioning, losses 
+in several life domains, and thwarted motivations (Yager, 2021 ). For instance, 
+one can perceive oneself as worthless for being depressed or worry about 
+potential consequences of having a disorder (Hanson & Young, 2012 ). 
+Suffering due to psychopathology can be considered transdiagnostic and 
+related to negative mood and anxious apprehension (Yager, 2021 ). 
+Altogether, this finding further supports the importance of targeting not 
+only symptoms but the behaviors, thoughts, and outcomes in response to 
+the symptoms and their meaning to the patient.
+Autonomy and identity had the highest expected influence and were 
+nodes that most strongly related to all other existential concerns and symp -
+toms, except for (subclinical) psychotic and anxiety symptoms, respectively. 
+Autonomy can be described as the capacity of an individual that enables 
+them to live a meaningful life of their own making (Bergamin et al., 2022 ) and 
+is considered a basic psychological need to function effectively and for well- 
+being (Deci & Ryan, 2000 ). Compromised autonomy, including perceived lack 
+of control and avolition, can be related to depression and negative affect 
+(Rouse et al., 2020 ; Vansteenkiste et al., 2006 ). Additionally, a possible relation 
+is seen between autonomy and mental disorders, in which autonomy can be 
+differently affected in mental disorders according to the underlying psycho -
+pathology (Bergamin et al., 2022 ).14
+ U. CHAVEZ-BALDINI ET AL.
+
+As found in previous literature, many individuals with psychiatric disorders 
+struggle with a loss of self and identity (Kaite et al., 2015 ; Wisdom et al., 2008 ). 
+Identity disturbance has been associated with numerous psychiatric disorders 
+(Kaufman et al., 2015 ; Neacsiu et al., 2015 ) and could be considered 
+a transdiagnostic construct. It has also been shown to be specifically related 
+to depression severity (Sokol & Eisenheim, 2016 ) and psychosis or psychotic- 
+like experiences (Cicero, 2017 ; Cowan et al., 2021 ). Bergamin et al. (2022) posit 
+that in depression and psychosis, a loss of autonomy relates more to an 
+affected sense of identity and motivations. Interestingly, autonomy and 
+identity were the most strongly related of all other existential concerns. 
+Supporting autonomy and positive identity formation may therefore be 
+areas for intervention. For instance, self-stigma can thwart both autonomy 
+and identity (Bergamin et al., 2022 ; Buchman-Wildbaum et al., 2020 ) and 
+could be a potential mechanism to intervene on.
+Whether existential concerns overlap with, lead to or arise from psycho -
+pathology, addressing these concerns in psychiatric research and practice is 
+important (Moore & Goldner-Vukov, 2009 ), especially because many patients 
+find that symptom-reduction alone is insufficient as treatment outcome 
+(Binder et al., 2010 ; Zimmerman et al., 2006 ). Addressing existential concerns 
+may sometimes fall out of the scope or capacity of conventional care. 
+Existential psychotherapy and social prescribing are examples of supplemen -
+tary or alternative interventions that address existential and social needs (e.g., 
+South et al., 2008 ; Yalom, 1980 ). Third-wave therapies, such as Acceptance 
+and Commitment therapy (ACT), and the emerging process-based therapies 
+and approaches are also turning their attention to more existential themes. 
+Recovery-oriented frameworks and interventions may also prove fruitful, such 
+as the CHIME model, which focuses on empowerment and meaning in life 
+(Van Weeghel et al., 2019 ). There has also been an increased attention to 
+considering religiosity or spirituality of patients within care to aid recovery 
+(Koslander et al., 2009 ). It could also be possible to address existential con-
+cerns in standard psychotherapy by targeting underlying psychological con-
+structs (e.g., self-efficacy for autonomy) (Bergamin et al., 2022 ). Existential 
+concerns should be treated as part of the lived experience and not patholo -
+gized, however. Peer support workers can in this case be instrumental in 
+aiding existential recovery (Whitley & Drake, 2010 ). Further research is neces -
+sary to differentiate between general existential concerns and psychopathol -
+ogy to avoid overtreatment and give opportunity for personal growth 
+(Nieman, 2016 ).
+The main strengths of the study pertain to the naturalistic and transdiag -
+nostic nature of the sample and instruments and the relatively large sample 
+size. Our results were stable, and we included some demographic and clinical 
+characteristics as covariates to limit confounding effects. Furthermore, we 
+performed sensitivity and control analyses to check for the effect of COGENT MENTAL HEALTH
+ 15
+
+misophonia and variable properties on our main findings, lending support to 
+the validity of our results.
+Nonetheless, the results of this study should be interpreted with a number 
+of limitations. First, the cross-sectional design prevents any directional or causal 
+interpretations of relationships and decreases robust interpretation of centrality 
+as it does not always translate to mechanisms of change nor can we ascertain 
+directionality of influence (Spiller et al., 2020 ). However, cross-sectional net-
+works have exploratory value and may be useful to investigate the co- 
+occurrence of symptoms or other clinical factors and generate hypotheses 
+(Bos et al., 2017 ; von Klipstein et al., 2021 ). Furthermore, existential concerns 
+were not derived from questionnaires specifically measuring existential con-
+cerns, which may reduce validity of the items included in this network. The 
+Across study was also not specifically designed to investigate existential 
+themes, meaning that our operationalization of these themes is not thorough 
+and that not all potential existential themes are included in this study. It also 
+remains necessary to further investigate existential themes that specifically 
+pertain to patients with psychiatric disorders, such as the experience of psy-
+chopathology itself, and develop validated instruments. As a result, our hypoth -
+eses and analyses of these themes remained exploratory. Sum scores of 
+symptom questionnaires were also used, which can lead to a loss of informa -
+tion about relationships between individual items. This was done to reduce the 
+number of nodes in the network due to the exploratory nature of this study.
+Additionally, sample bias may have played a role, such that those with 
+worse psychopathology were less likely to participate. The overrepresenta -
+tion of misophonia in the sample could be a reflection of this, but we 
+conducted a sensitivity analysis for this. Lastly, while the sample size was 
+relatively large, the diagnostic categories were not large enough to compare 
+individual diagnosis networks. Support for the transdiagnostic nature of our 
+findings is therefore less robust. We did however include diagnosis as 
+a covariate in the network in order to control for potential diagnostic effects. 
+Lastly, we were not able to take into account the potential impact of somatic 
+diseases and conditions, such as cancer, which have been shown to affect 
+existential concerns. As psychiatric disorders and somatic diseases regularly 
+co-occur, it is necessary for future research on existential concerns and 
+psychopathology to include somatic diseases as a potential factor. Another 
+factor we were not able to take into account was religiosity. As existential 
+concerns can have a religious or spiritual component or be impacted by one’s 
+religiosity or spirituality, investigating these factors in future research is 
+necessary to gain a more comprehensive understanding on the relationship 
+between existential concerns and psychopathology.
+Overall, the findings of this study further support the importance of including 
+existential concerns in psychiatric research. While there is evidence that indivi -
+duals with psychiatric disorders grapple with existential concerns, further 16
+ U. CHAVEZ-BALDINI ET AL.
+
+research is needed to investigate the interplay of existential concerns and 
+dimensions of psychopathology, especially with dynamic and longitudinal 
+designs to determine directionality of relationships and more robustly elucidate 
+potential treatment targets.
+Acknowledgments
+We would like to thank all the participants for partaking in the study and all 
+psychiatry staff and interns responsible for recruitment and data collection. We 
+would also like to thank the Across Consortium, which among others include 
+Claudi L.H. Bockting, Anja Lok, Dirk J. Smit, Guido van Wingen, Arjen 
+L. Sutterland, and Pelle de Koning. K.J.H.V. is supported by the Foundation 
+Volksbond Rotterdam.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+This research did not receive any specific grant from funding agencies in the public, 
+commercial, or not-for-profit sectors.
+ORCID
+UnYoung Chavez-Baldini 
+ http://orcid.org/0000-0001-5613-513X
+Karin J.H. Verweij 
+ http://orcid.org/0000-0001-9868-7821
+Judy Luigjes 
+ http://orcid.org/0000-0002-9395-9426
+Roel J.T. Mocking 
+ http://orcid.org/0000-0003-3543-3810
+Damiaan Denys 
+ http://orcid.org/0000-0002-3191-3844
+Dorien H. Nieman 
+ http://orcid.org/0000-0002-9846-4254
+Nienke C. Vulink 
+ http://orcid.org/0000-0001-8991-9627
+Data availability statement
+The data that support the findings of this study are available on request from the 
+Across Consortium Scientific Coordinator at across@amsterdamumc.nl. The data 
+requests will be discussed in the Across Executive board. The data are not publicly 
+available due to the clinical and confidential nature of the data.
+Geolocation information
+Amsterdam, The NetherlandsCOGENT MENTAL HEALTH
+ 17
+
+Statement of contribution
+UCB : Conceptualization, Formal analysis, Data Curation, Writing—Original Draft, 
+Project administration. KJHV : Writing—Review & Editing, Project administration. JB, 
+JL, & RJTM : Writing—Review & Editing. DD: Supervision, Funding acquisition, Writing 
+—Review & Editing. DHN & NCV : Supervision, Writing—Original Draft, Project admin -
+istration. All authors contributed to the final manuscript.
+References
+Bech, P. (2011 ). Measuring states of anxiety with clinician-rated and patient-rated scales. 
+Different Views of Anxiety Disorders Rijeka, New York, Shanghai: InTech , 4(2), 169–184.
+Bech, P. (2012 ). Clinical psychometrics . John Wiley & Sons.
+Bergamin, J., Luigjes, J., Kiverstein, J., Bockting, C. L., & Denys, D. (2022 ). Defining 
+autonomy in psychiatry [conceptual analysis]. Frontiers in Psychiatry , 13, 13. https:// 
+doi.org/10.3389/fpsyt.2022.801415  
+Berman, S. L., Weems, C. F., & Stickle, T. R. (2006 ). Existential anxiety in adolescents: 
+Prevalence, structure, association with psychological symptoms and identity 
+development. Journal of Youth and Adolescence , 35(3), 285–292. https://doi.org/10. 
+1007/s10964-006-9032-y  
+Binder, P.-E., Holgersen, H., & Nielsen, G. H. S. (2010 ). What is a “good outcome” in 
+psychotherapy? A qualitative exploration of former patients’ point of view. 
+Psychotherapy Research , 20(3), 285–294. https://doi.org/10.1080/10503300903376338  
+Borsboom, D. (2008 ). Psychometric perspectives on diagnostic systems. Journal of 
+Clinical Psychology , 64(9), 1089–1108. https://doi.org/10.1002/jclp.20503  
+Borsboom, D., & Cramer, A. O. (2013 ). Network analysis: An integrative approach to the 
+structure of psychopathology. Annual Review of Clinical Psychology , 9(1), 91–121.  
+https://doi.org/10.1146/annurev-clinpsy-050212-185608  
+Bos, F. M., Snippe, E., de Vos, S., Hartmann, J. A., Simons, C. J. P., van der Krieke, L., de 
+Jonge, P., & Wichers, M. (2017 ). Can we jump from cross-sectional to dynamic? 
+Interpretations of networks implications for the network perspective in psychiatry. 
+Psychotherapy and Psychosomatics , 86(3), 175–177. https://doi.org/10.1159/000453583  
+Buchman-Wildbaum, T., Váradi, E., Schmelowszky, Á., Griffiths, M. D., Demetrovics, Z., & 
+Urbán, R. (2020 ). The paradoxical role of insight in mental illness: The experience of 
+stigma and shame in schizophrenia, mood disorders, and anxiety disorders. Archives 
+of Psychiatric Nursing , 34(6), 449–457. https://doi.org/10.1016/j.apnu.2020.07.009  
+Busby Grant, J., Bruce, C. P., & Batterham, P. J. (2016 ). Predictors of personal, perceived 
+and self-stigma towards anxiety and depression. Epidemiology and Psychiatric 
+Sciences , 25(3), 247–254. https://doi.org/10.1017/S2045796015000220  
+Bygstad Landro, M., & Giske, T. (2018 ). Risking existence: The experience and handling of 
+depression. Journal of Clinical Nursing , 27(3–4), e514–e522. https://doi.org/10.1111/jocn. 
+14056  
+Chawla, S., Menzies, R. E., & Menzies, R. G. (2022 ). Existential concerns in OCD with 
+aggressive and sexual obsessions. Journal of Obsessive-Compulsive and Related 
+Disorders , 32, 100710. https://doi.org/10.1016/j.jocrd.2022.100710  
+Chen, W., Chen, Y., & Xiao, H. (2022 ). Existential distress in cancer patients: A concept 
+analysis. Cancer Nursing , 45(2), E471–E486. https://doi.org/10.1097/ncc.0000000 
+000000925  
+Chou, K.-L., Liang, K., & Sareen, J. (2011 ). The association between social isolation and 
+DSM-IV mood, anxiety, and substance use disorders: Wave 2 of the National 18
+ U. CHAVEZ-BALDINI ET AL.
+
+Epidemiologic Survey on alcohol and related conditions. The Journal of Clinical 
+Psychiatry , 72(11), 0–0. https://doi.org/10.4088/JCP.10m06019gry  
+Cicero, D. C. (2017 ). Self-concept clarity and psychopathology. In J. Lodi-Smith & K. G. 
+DeMarree (Eds.), Self-concept clarity (pp. 219–242). Springer.
+Cowan, H. R., Mittal, V. A., & McAdams, D. P. (2021 ). Narrative identity in the psychosis 
+spectrum: A systematic review and developmental model. Clinical Psychology 
+Review , 88, 102067. https://doi.org/10.1016/j.cpr.2021.102067  
+Damsgaard, J. B., Overgaard, C. L., & Birkelund, R. (2021 ). Personal recovery and 
+depression, taking existential and social aspects into account: A struggle with 
+institutional structures, loneliness and identity. International Journal of Social 
+Psychiatry , 67(1), 7–14. https://doi.org/10.1177/0020764020938812  
+Deci, E. L., & Ryan, R. M. (2000 ). The“what” and“why” of goal pursuits: Human needs 
+and the self-determination of behavior. Psychological Inquiry , 11(4), 227–268.  
+https://doi.org/10.1207/S15327965PLI1104_01  
+de Haan, S. (2017 ). The existential dimension in psychiatry: An enactive framework. 
+Mental Health, Religion & Culture , 20(6), 528–535. https://doi.org/10.1080/13674676. 
+2017.1378326  
+Epskamp, S., Borsboom, D., & Fried, E. I. (2018 ). Estimating psychological networks and 
+their accuracy: A tutorial paper. Behavior Research Methods , 50(1), 195–212. https:// 
+doi.org/10.3758/s13428-017-0862-1  
+Epskamp, S., Cramer, A. O., Waldorp, L. J., Schmittmann, V. D., & Borsboom, D. (2012 ). 
+Qgraph: Network visualizations of relationships in psychometric data. Journal of 
+Statistical Software , 48(4), 1–18. https://doi.org/10.18637/jss.v048.i04  
+Frankl, V. (2005 ). On the theory and therapy of mental disorders: An introduction to 
+logotherapy and existential analysis . Routledge.
+Frankl, V. E. (1985 ). Man’s search for meaning . Simon and Schuster.
+Golino, H., Christensen, A., & Moulder, R. (2020 ). R Package Version 0.9.
+Gonzalez, V. M. (2008 ). Recognition of mental illness and suicidality among individuals 
+with serious Mental illness. The Journal of Nervous and Mental Disease , 196(10), 
+727–734. https://doi.org/10.1097/NMD.0b013e3181879deb  
+Greenberg, J., Koole, S. L., & Pyszczynski, T. A. (2004 ). Handbook of experimental 
+existential psychology . Guilford Press.
+Hamilton, M. (1959 ). The assessment of anxiety states by rating. British Journal of Medical 
+Psychology , 32(1), 50–55. https://doi.org/10.1111/j.2044-8341.1959.tb00467.x  
+Hanson, B., & Young, M. A. (2012 ). Why depressive symptoms cause distress: The clients’ 
+perspective. Journal of Clinical Psychology , 68(7), 860–874. https://doi.org/10.1002/jclp. 
+21872  
+Hanssen, M., Peeters, F., Krabbendam, L., Radstake, S., Verdoux, H., & Van Os, J. (2003 ). 
+How psychotic are individuals with non-psychotic disorders? Social Psychiatry and 
+Psychiatric Epidemiology , 38(3), 149–154. https://doi.org/10.1007/s00127-003-0622-7  
+Haslbeck, J. M. B., & Waldorp, L. J. (2020 ). mgm: Estimating Time-Varying Mixed 
+Graphical Models in High-Dimensional Data. Journal of Statistical Software , 93(8), 
+1–46. https://doi.org/10.18637/jss.v093.i08  
+Heidegger, M. (1927 ). Sein und Zeit [Being and time] (p. 458). Max Niemeyer.
+Herron, S. J., & Sani, F. (2022 ). Understanding the typical presentation of emptiness: 
+A study of lived-experience. Journal of Mental Health (Abingdon, England) , 31(2), 
+188–195. https://doi.org/10.1080/09638237.2021.1922645  
+Hill, R. M., & Pettit, J. W. (2013 ). The role of autonomy needs in suicidal ideation: Integrating 
+the interpersonal-psychological theory of suicide and self-determination Theory. COGENT MENTAL HEALTH
+ 19
+
+Archives of Suicide Research: Official Journal of the International Academy for Suicide 
+Research , 17(3), 288–301. https://doi.org/10.1080/13811118.2013.777001  
+Huguelet, P. (2014 ). The contribution of existential phenomenology in the 
+recovery-oriented care of patients with severe mental disorders. The Journal of 
+Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine , 39(4), 
+346–367. https://doi.org/10.1093/jmp/jhu023  
+Hvidt, N. C., Assing Hvidt, E., & la Cour, P. (2022 ). Meanings of “the existential” in 
+a Secular country: A survey study. Journal of Religion and Health , 61(4), 3276–3301.  
+https://doi.org/10.1007/s10943-021-01253-2  
+Ising, H. K., Veling, W., Loewy, R. L., Rietveld, M. W., Rietdijk, J., Dragt, S., Klaassen, R. M., 
+Nieman, D. H., Wunderink, L., & Linszen, D. H. (2012 ). The validity of the 16-item 
+version of the prodromal questionnaire (PQ-16) to screen for ultra high risk of 
+developing psychosis in the general help-seeking population. Schizophrenia 
+Bulletin , 38(6), 1288–1296. https://doi.org/10.1093/schbul/sbs068  
+Iverach, L., Menzies, R. G., & Menzies, R. E. (2014 ). Death anxiety and its role in 
+psychopathology: Reviewing the status of a transdiagnostic construct. Clinical 
+Psychology Review , 34(7), 580–593. https://doi.org/10.1016/j.cpr.2014.09.002  
+Kaite, C. P., Karanikola, M., Merkouris, A., & Papathanassoglou, E. D. E. (2015 ). “An 
+ongoing struggle with the self and illness”: Α meta-synthesis of the studies of the 
+lived experience of severe mental illness. Archives of Psychiatric Nursing , 29(6), 
+458–473. https://doi.org/10.1016/j.apnu.2015.06.012  
+Kaufman, E. A., Cundiff, J. M., & Crowell, S. E. (2015 ). The development, factor structure, 
+and validation of the self-concept and identity measure (SCIM): A self-report 
+assessment of clinical identity disturbance. Journal of Psychopathology and 
+Behavioral Assessment , 37(1), 122–133. https://doi.org/10.1007/s10862-014-9441-2  
+Kogstad, R. E., Ekeland, T. J., & Hummelvoll, J. K. (2011 ). In defence of a humanistic 
+approach to mental health care: Recovery processes investigated with the help of 
+clients’ narratives on turning points and processes of gradual change. Journal of 
+Psychiatric and Mental Health Nursing , 18(6), 479–486. https://doi.org/10.1111/j. 
+1365-2850.2011.01695.x  
+Koole, S. L. (2010 ). Existential Psychology. In I. B. Weiner, &W. E. Craighead (Eds.), Corsini 
+Encyclopedia of Psychology (pp. 1–2). https://doi.org/10.1002/9780470479216. 
+corpsy0329 
+Koole, S. L., Greenberg, J., & Pyszczynski, T. (2006 ). Introducing science to the psychology of 
+the Soul: Experimental existential psychology. Current Directions in Psychological Science , 
+15(5), 212–216. https://doi.org/10.1111/j.1467-8721.2006.00438.x  
+Koslander, T., da Silva, A. B., & Roxberg, Å. (2009 ). Existential and spiritual needs in 
+mental health care: An ethical and holistic perspective. Journal of Holistic Nursing , 27 
+(1), 34–42. https://doi.org/10.1177/0898010108323302  
+Kretschmer, M., & Storm, L. (2018 ). The relationships of the five existential concerns 
+with depression and existential thinking. Int J Existent Psychol Psychother , 7(1), 20.
+Lecomte, T., Corbière, M., & Laisné, F. (2006 ). Investigating self-esteem in individuals 
+with schizophrenia: Relevance of the self-esteem rating scale-short form. Psychiatry 
+Research , 143(1), 99–108. https://doi.org/10.1016/j.psychres.2005.08.019  
+Leigh-Hunt, N., Bagguley, D., Bash, K., Turner, V., Turnbull, S., Valtorta, N., & Caan, W. (2017 ). 
+An overview of systematic reviews on the public health consequences of social isolation 
+and loneliness. Public Health , 152, 157–171. https://doi.org/10.1016/j.puhe.2017.07.035  
+Lysaker, P. H., Roe, D., & Yanos, P. T. (2006 ). Toward understanding the insight paradox: 
+Internalized Stigma moderates the association between insight and social 20
+ U. CHAVEZ-BALDINI ET AL.
+
+functioning, hope, and self-esteem among people with schizophrenia spectrum 
+disorders. Schizophrenia Bulletin , 33(1), 192–199. https://doi.org/10.1093/schbul/ 
+sbl016  
+Maier, W., Buller, R., Philipp, M., & Heuser, I. (1988 ). The Hamilton Anxiety Scale: reliability, 
+validity and sensitivity to change in anxiety and depressive disorders. Journal of Affective 
+Disorders , 14(1), 61–68. https://doi.org/10.1016/0165-0327(88)90072-9  
+Mascaro, N., & Rosen, D. H. (2005 ). Existential meaning’s role in the enhancement of 
+hope and prevention of depressive symptoms. Journal of Personality , 73(4), 
+985–1014. https://doi.org/10.1111/j.1467-6494.2005.00336.x  
+McNally, R. J. (2021 ). Network analysis of psychopathology: Controversies and 
+challenges. Annual Review of Clinical Psychology , 17(1), 31–53. https://doi.org/10. 
+1146/annurev-clinpsy-081219-092850  
+Moore, L. J., & Goldner-Vukov, M. (2009 ). The existential way to recovery. Psychiatria 
+Danubina , 21(4), 453–462.
+Neacsiu, A. D., Herr, N. R., Fang, C. M., Rodriguez, M. A., & Rosenthal, M. Z. (2015 ). Identity 
+disturbance and problems with emotion regulation are related constructs across 
+diagnoses. Journal of Clinical Psychology , 71(4), 346–361. https://doi.org/10.1002/jclp. 
+22141  
+Nestadt, G., Samuels, J., Riddle, M. A., Liang, K. Y., Bienvenu, O. J., Hoehn-Saric, R., Grados, M., 
+& Cullen, B. (2001 ). The relationship between obsessive–compulsive disorder and 
+anxiety and affective disorders: Results from the Johns Hopkins OCD family study. 
+Psychological Medicine , 31(3), 481–487. https://doi.org/10.1017/S0033291701003579  
+Nieman, D. H. (2016 ). Prevention in mental health care: Time for a new approach . Routledge.
+Nieman, D. H., Chavez-Baldini, U., Vulink, N. C., Smit, D. J. A., van Wingen, G., de Koning, P., 
+Sutterland, A. L., Mocking, R. J. T., Bockting, C., Verweij, K. J. H., Lok, A., & Denys, D. (2020 ). 
+Protocol across study: Longitudinal transdiagnostic cognitive functioning, psychiatric 
+symptoms, and biological parameters in patients with a psychiatric disorder. BMC 
+Psychiatry , 20(1), 212. https://doi.org/10.1186/s12888-020-02624-x  
+Nieman, D. H., Vulink, N. C., Chavez-Baldini, U., Verweij, K., & Denys, D. (2021 ). 
+Psychiatric Dimensions Questionnaire . https://osf.io/6s48a/ 
+Persike, M., Seiffge-Krenke, I., Cok, F., Głogowska, K., Pavlopoulos, V., Tantaros, S., 
+Perchec, C., Rohail, I., & Saravia, J. C. (2020 ). Emerging adults’ psychopathology in 
+seven countries: The impact of identity-related risk factors. Emerging Adulthood , 8 
+(3), 179–194. https://doi.org/10.1177/2167696818791108  
+Pinel, E. C., Long, A. E., Murdoch, E. Q., & Helm, P. (2017 ). A prisoner of one’s own mind: 
+Identifying and understanding existential isolation. Personality and Individual 
+Differences , 105, 54–63. https://doi.org/10.1016/j.paid.2016.09.024  
+Quek, T. C., Ho, C. S., Choo, C. C., Nguyen, L. H., Tran, B. X., & Ho, R. C. (2018 ). Misophonia in 
+Singaporean psychiatric patients: A cross-sectional study. International Journal of 
+Environmental Research and Public Health , 15(7), 1410. https://doi.org/10.3390/ 
+ijerph15071410  
+R Core Team. (2020 ). R: A language and environment for statistical computing . In 
+R Foundation for Statistical Computing. https://www.R-project.org 
+Robinaugh, D. J., Millner, A. J., & McNally, R. J. (2016 ). Identifying highly influential 
+nodes in the complicated grief network. Journal of Abnormal Psychology , 125(6), 
+747–757. https://doi.org/10.1037/abn0000181  
+Rouse, P. C., Turner, P. J. F., Siddall, A. G., Schmid, J., Standage, M., & Bilzon, J. L. J. (2020 ). 
+The interplay between psychological need satisfaction and psychological need frus-
+tration within a work context: A variable and person-oriented approach. Motivation 
+and Emotion , 44(2), 175–189. https://doi.org/10.1007/s11031-019-09816-3  COGENT MENTAL HEALTH
+ 21
+
+Rush, A. J., Giles, D. E., Schlesser, M. A., Fulton, C. L., Weissenburger, J., & Burns, C. 
+(1986 ). The inventory for depressive symptomatology (IDS): Preliminary findings. 
+Psychiatry Research , 18(1), 65–87. https://doi.org/10.1016/0165-1781(86)90060-0  
+Rush, A. J., Gullion, C. M., Basco, M. R., Jarrett, R. B., & Trivedi, M. H. (1996 ). The inventory 
+of depressive symptomatology (IDS): Psychometric properties. Psychological 
+Medicine , 26(3), 477–486. https://doi.org/10.1017/s0033291700035558  
+Rush, A. J., Trivedi, M. H., Ibrahim, H. M., Carmody, T. J., Arnow, B., Klein, D. N., 
+Markowitz, J. C., Ninan, P. T., Kornstein, S., & Manber, R. (2003 ). The 16-item quick 
+inventory of depressive symptomatology (QIDS), clinician rating (QIDS-C), and 
+self-report (QIDS-SR): A psychometric evaluation in patients with chronic major 
+depression. Biological Psychiatry , 54(5), 573–583. https://doi.org/10.1016/s0006- 
+3223(02)01866-8  
+Ryan, R. M., & Deci, E. L. (2004 ). Autonomy is No Illusion: Self-determination theory and 
+the empirical study of authenticity, awareness, and Will. In J. Greenberg, S. L. Koole, 
+& T. Pyszczynski (Eds.), Handbook of experimental existential psychology (pp. 
+449–479). Guilford Press.
+Saeri, A. K., Cruwys, T., Barlow, F. K., Stronge, S., & Sibley, C. G. (2018 ). Social connect -
+edness improves public mental health: Investigating bidirectional relationships in 
+the New Zealand attitudes and values survey. The Australian and New Zealand 
+Journal of Psychiatry , 52(4), 365–374. https://doi.org/10.1177/0004867417723990  
+Søberg, A. I. B., Kjørven Haug, S. H., Danbolt, L. J., Lien, L., & Sørensen, T. (2018 ). 
+Existential themes in the treatment of people at suicide risk. Understandings and 
+practices of specialist healthcare professionals. Mental Health, Religion & Culture , 21 
+(6), 588–600. https://doi.org/10.1080/13674676.2018.1524860  
+Sokol, Y., & Eisenheim, E. (2016 ). The relationship between continuous identity dis-
+turbances, negative mood, and suicidal ideation. The Primary Care Companion for 
+CNS Disorders , 18(1), 26150. https://doi.org/10.4088/PCC.15m01824  
+Sorgaard, K. W., Nivison, M., Hansen, V., & Øiesvold, T. (2011 ). Acknowledging illness 
+and treatment needs in first-time admitted psychiatric patients. European 
+Psychiatry , 26(7), 446–451. https://doi.org/10.1016/j.eurpsy.2011.02.006  
+South, J., Higgins, T. J., Woodall, J., & White, S. M. (2008 ). Can social prescribing provide 
+the missing link? Primary Health Care Research & Development , 9(4), 310–318.  
+https://doi.org/10.1017/S146342360800087X  
+Spiller, T. R., Levi, O., Neria, Y., Suarez-Jimenez, B., Bar-Haim, Y., & Lazarov, A. (2020 ). On the 
+validity of the centrality hypothesis in cross-sectional between-subject networks of 
+psychopathology. BMC Medicine , 18(1), 297. https://doi.org/10.1186/s12916-020- 
+01740-5  
+Szentágotai-Tătar, A., Nechita, D.-M., & Miu, A. C. (2020 ). Shame in anxiety and 
+obsessive-compulsive disorders. Current Psychiatry Reports , 22(4), 16. https://doi. 
+org/10.1007/s11920-020-1142-9  
+Terluin, B., de Boer, M. R., & de Vet, H. C. W. (2016 ). Differences in connection strength 
+between mental symptoms might be explained by differences in variance: 
+Reanalysis of network data did not confirm staging. PloS One , 11(11), e0155205.  
+https://doi.org/10.1371/journal.pone.0155205  
+Tillich, P. (1952 ). The courage to be. Yale University Press.
+Ulland, D., & DeMarinis, V. (2014 ). Understanding and working with existential information 
+in a Norwegian adolescent psychiatry context: A need and a challenge. Mental Health, 
+Religion & Culture , 17(6), 582–593. https://doi.org/10.1080/13674676.2013.871241  22
+ U. CHAVEZ-BALDINI ET AL.
+
+van Bergen, D. D., & Saharso, S. (2016 ). Suicidality of young ethnic minority women 
+with an immigrant background: The role of autonomy. European Journal of 
+Women’s Studies , 23(3), 297–311. https://doi.org/10.1177/1350506815609740  
+van Os, J., Guloksuz, S., Vijn, T. W., Hafkenscheid, A., & Delespaul, P. (2019 ). The 
+evidence-based group-level symptom-reduction model as the organizing principle 
+for mental health care: Time for change? World Psychiatry , 18(1), 88–96. https://doi. 
+org/10.1002/wps.20609  
+Vansteenkiste, M., Lens, W., Soenens, B., & Luyckx, K. (2006 ). Autonomy and related -
+ness among Chinese Sojourners and applicants: Conflictual or Independent pre-
+dictors of well-being and adjustment? Motivation and Emotion , 30(4), 273–282.  
+https://doi.org/10.1007/s11031-006-9041-x  
+Van Weeghel, J., van Zelst, C., Boertien, D., & Hasson-Ohayon, I. (2019 ). 
+Conceptualizations, assessments, and implications of personal recovery in mental 
+illness: A scoping review of systematic reviews and meta-analyses. Psychiatric 
+Rehabilitation Journal , 42(2), 169. https://doi.org/10.1037/prj0000356  
+Vehling, S., & Kissane, D. W. (2018 ). Existential distress in cancer: Alleviating suffering 
+from fundamental loss and change. Psycho-Oncology , 27(11), 2525–2530. https:// 
+doi.org/10.1002/pon.4872  
+Verhage, F. (1964 ). Intelligentie en leeftijd: Onderzoek bij Nederlanders van twaalf tot 
+zevenenzeventig jaar. van Gorcum.
+von Klipstein, L., Borsboom, D., & Arntz, A. (2021 ). The exploratory value of 
+cross-sectional partial correlation networks: Predicting relationships between 
+change trajectories in borderline personality disorder. PloS One , 16(7), e0254496.  
+https://doi.org/10.1371/journal.pone.0254496  
+Wagner, L. C., & King, M. (2005 ). Existential needs of people with psychotic disorders in 
+Pôrto Alegre, Brazil. British Journal of Psychiatry , 186(2), 141–145. https://doi.org/10. 
+1192/bjp.186.2.141  
+Whitley, R., & Drake, R. E. (2010 ). Recovery: A dimensional approach. Psychiatric 
+Services , 61(12), 1248–1250. https://doi.org/10.1176/ps.2010.61.12.1248  
+Wilson, R. S., Yung, A. R., & Morrison, A. P. (2020 ). Comorbidity rates of depression and 
+anxiety in first episode psychosis: A systematic review and meta-analysis. Schizophrenia 
+Research , 216, 322–329. https://doi.org/10.1016/j.schres.2019.11.035  
+Wisdom, J. P., Bruce, K., Auzeen Saedi, G., Weis, T., & Green, C. A. (2008 ). ‘Stealing me 
+from myself’: Identity and recovery in personal accounts of mental illness. Australian 
+and New Zealand Journal of Psychiatry , 42(6), 489–495. https://doi.org/10.1080/ 
+00048670802050579  
+Wysocki, A., van Bork, R., Cramer, A., & Rhemtulla, M.(2022 ). Cross-lagged network 
+models. https://doi.org/10.31234/osf.io/vjr8z 
+Yager, J. (2021 ). Addressing suffering in patients with psychiatric disorders. The Journal 
+of Nervous and Mental Disease , 209(9), 615–621. https://doi.org/10.1097/nmd. 
+0000000000001348  
+Yalom, I. D. (1980 ). Existential psychotherapy . Basic Books.
+Zimmerman, M., McGlinchey, J. B., Posternak, M. A., Friedman, M., Attiullah, N., & 
+Boerescu, D. (2006 ). How should remission from depression Be defined? The 
+depressed Patient’s perspective. American Journal of Psychiatry , 163(1), 148–150.  
+https://doi.org/10.1176/appi.ajp.163.1.148COGENT MENTAL HEALTH
+ 23

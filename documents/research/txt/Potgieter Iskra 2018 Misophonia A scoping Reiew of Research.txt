@@ -1,0 +1,723 @@
+Received: 17 January 2018 |Revised: 2 December 2018 |Accepted: 16 February 2019
+DOI: 10.1002/jclp.22771
+REVIEW ARTICLE
+Misophonia: A scoping review of research
+Iskra Potgieter1,2|Carol MacDonald3|Lucy Partridge4|
+Rilana Cima5|Jacqueline Sheldrake6|Derek J. Hoare1
+1National Institute for Health Research
+(NIHR) Nottingham Biomedical Research
+Centre, University of Nottingham,Nottingham, UK
+2Otology and Hearing Group, Division of
+Clinical Neuroscience, School of Medicine,University of Nottingham, Nottingham, UK
+3Department of Psychology, University of
+Stirling, Stirling, UK
+4Nuffield Hearing & Speech Centre, Royal
+National Throat Nose and Ear Hospital,London, UK
+5Department of Clinical Psychological
+Science, Maastricht University, Maastricht,The Netherlands
+6The Tinnitus and Hyperacusis Centre,
+London, UK
+Correspondence
+Derek J. Hoare, National Institute for HealthResearch (NIHR) Nottingham BiomedicalResearch Centre, Ropewalk House, 113 The
+Ropewalk, Nottingham NG1 5DU, UK.
+Email: derek.hoare@nottingham.ac.ukAbstract
+Objective: To scope the literature describing misophonia
+populations, management, and research opportunities.
+Method: Literature searches for research studies describing
+patients diagnosed with misophonia, defining a patientprofile, or outlining development or testing of an interven-
+tion for misophonia. A data extraction form was developed
+and piloted before data from each article were indepen-
+dently charted by two researchers. Researchers then agreed
+on a final data set for each article.Results: Thirty ‐one records were included. The misophonia
+population was described in terms of onset age, triggers,
+reaction, coping strategies, and comorbid conditions. We
+identified nine outcome measure s. Case studies on treatments
+included cognitive behavioral therapy, counterconditioning,mindfulness and acceptance, dialectical behavioral therapy,
+and pharmaceuticals. Future research priorities identified
+included clarifying the phenomenology and prevalence of
+misophonia, and randomized controlled trials of treatments.
+Conclusion: Misophonia is under ‐researched but there are
+strong foundations for future research to finalize diagnostic
+criteria, validate outcome measures, and trial treatments.
+KEYWORDS
+diagnosis, outcome measures, psychotherapy, research priorities
+1|INTRODUCTION
+Misophonia, literally meaning hatred of sound, was fir st referred to in research literature in 2002 to describe
+a consistent set of symptoms and has since been increasingly encountered by clinicians (Bernstein, Angell, &Dehle, 2013; M. M. Jastreboff & Jastreboff, 2002, 2003; Kumar et al., 2017; McFerran, 2016). The initial
+J. Clin. Psychol . 2019;75:1203 –1218. wileyonlinelibrary.com/journal/jclp © 2019 Wiley Periodicals, Inc. |1203
+
+definition of misophonia was “an abnormally strong reaction occurr i n gt oas o u n dw i t has p e c i f i cp a t t e r n
+and/or meaning to an individual ”(P. J. Jastreboff & Jastreboff, 2014). Typically, patients suffer a strong
+negative emotional and autonomic “fight or flight ”reaction triggered by specific sound stimuli termed
+“trigger sounds ”(Edelstein, Brang, Rouw, & Ramachandran, 2013; P. J. Jastreboff & Jastreboff, 2013;
+Schröder, Vulink & Denys 2013; Wu, Lewin, Murphy, & Storch, 2014). Although variations exist, most
+commonly the patient experiences a disproportionate l evel of hate, anger, rage, an d disgust toward a person
+producing sounds associated with eating (e.g., chewing and swallowing) or breathing (Edelstein et al., 2013).
+The symptoms usually occur irrespective of sound spe ctrum and intensity and are exacerbated within a
+familiar context (Edelstein et al., 2013). An important exception is self ‐produced similar sounds, which have
+the same spectrum and intensity but do not usually evoke these abnormal reactions. Disturbed by theinappropriateness of his or her reaction, the patient engages in maladaptive coping mechanisms such as
+avoiding social situations in which the trigger sounds might occur. Ultimately, this results in an interpersonal
+and occupational impairment, anxiety, and obsessive c ompulsions. Patients with severe misophonia suffer
+from the intrusive and unwanted preoccupation with trigger ‐stimuli, as well as compulsive stress ‐reducing
+and avoidance behaviors (Cavanna & Seri, 2015; Webbe r & Storch, 2015), which are t ypically seen in patients
+with obsessive compulsive disorder (OCD; Bruxner, 2016). Moreover, th ese reactions are, in some cases,
+equally evoked by repetitive visual person ‐related triggers (e.g., leg ‐rocking or watching somebody chew)
+termed misokinesia, suggesting the disorder expands beyond merely audiological symptoms, and confirming
+a strong likeness to OCD and Tourette syndrome. Oth er less frequent comorbid conditions include mood
+disorder, panic disorder, attention deficit hyperactivi ty disorder, hypochondria, trichotillomania, and skin
+picking (Ferreira, Harrison, & Fontenelle, 2013; Haze n et al., 2008; Johnson et al., 2013; McGuire, Wu, &
+Storch, 2015; Schröder, Vulink et al., 2013; Taylor, C onelea, McKay, Crowe, & Abramowitz, 2014; Taylor
+et al., 2014; Webber, Johnson, & Storch, 2014).
+Misophonia has no official diagnostic formulation with in the Diagnostic and Statistical Manual of Mental
+Disorders Fifth Edition (DSM ‐V) or the International Statistical Classification of Diseases and Related Health
+Problems 10th revision (ICD ‐10; Kumar et al., 2017). Considering the parallels to OCD, it has been proposed
+that misophonia can be categorized within the obse ssive compulsive spectrum of disorders in the DSM ‐V
+(Schröder, Vulink, et al. 2013). In contrast, as it borde rs both psychiatry and audiology, misophonia is also
+considered to be categorizable with disorders in audiolog y, including tinnitus (percep tion of constant internally
+perceived abstract sounds), hyperac usis (discomfort/pain experience d due to everyday sounds of a normal or
+louder intensity), phonophobia (extreme fear toward spec ific trigger sounds). Misophonia is distinct from these
+disorders although there is some overlap in symptom s and an individual may present with more than one
+condition (Fackrell et al., 2017; Jastreboff, 2000; Jastreboff & Jastreboff, 2003; Schwartz, Leyendecker, &
+Conlon, 2011).
+Currently, little is known about the etiology of misophonia (Jastreboff & Jastreboff, 2014). Propositions of the
+psychiatric nature of misophonia (Ferreira et al., 2013) are found on the basis that it is not an auditory disorder
+caused by neurological dysfunction. This is evidenced as misophonia patients typically have normal hearing
+thresholds (Schröder, Vulink, et al., 2013). Instead, misophonia is associated with an increased number of
+connections, or strength of connections, between the limbic and sympathetic nervous systems, which can cause
+abnormal processing of sound stimuli (Møller, 2011; Jastreboff & Hazell, 2008; Jastreboff & Jastreboff, 2013). Case
+studies also suggest a hereditary component in misophonia (Cavanna, 2014).
+Treatments for misophonia include tinnitus retraining therapy and sound therapy (Formby, Sherlock, & Gold,
+2003, Jastreboff & Jastreboff, 2013) and cognitive behavioral therapy (CBT; Bernstein et al., 2013; McGuire et al.,
+2015; Reid, Guzick, Gernand, & Olsen, 2016; Schröder, Vulink, van Loon, & Denys, 2017). Other less documented
+cognitive treatments for misophonia include counterconditioning (Dozier, 2015a), applied relaxation (Martz, 2013),
+and the intake of serotonergic or antidopaminergic agents, which have been shown to have some efficacy for
+misophonia when it is within an OCD diagnosis (Neal & Cavanna, 2013; Eddy & Cavanna 2013).1204 |POTGIETER ET AL.
+
+1.1 |Rationale for the review
+The research literature has noted a steady increase in the number of misophonia cases over the last decade
+(Hadjipavlou, Baer, Lau, & Howard, 2008; Schwartz et al., 2011; Wu et al., 2014). Consequently, there has also been
+a rise in the number of relevant research studies (Duddy & Oeding, 2014), gradually compiling an evidence base for
+this new and independent condition. A point has now been reached where the literature on misophonia needs to becataloged purposefully to provide an account of the current research position and guide future research priorities.
+This review on misophonia is the first to apply a scoping review methodology to the subject.
+1.2 |Aims
+This scoping review aimed to collate the research evidence to date on the definition, patient profile, assessment,and treatment of misophonia, such that research gaps and opportunities could be identified. Specifically, our
+objectives relate to (a) how misophonia and the populations it affects are described in research literature, (b) what
+research has been conducted to date on the assessment and treatment of misophonia, and (c) in both cases, what
+are priority research questions.
+2|METHODS
+This review is reported according to the PRISMA checklist extension for scoping reviews (PRISMA ‐ScR; Tricco
+et al., 2018). No protocol for the review was published. A methodological framework for scoping reviews was
+followed (Arksey & O ’Malley, 2005, Levac, Colquhoun, & O ’Brien, 2010; Khalil et al., 2016; Peters et al., 2015)
+involving six stages, whereby (1) the purpose and research questions were defined, (2) relevant studies were
+identified using a three ‐step literature search to balance the breadth and 0comprehensiveness, (3) studies were
+selected using an iterative team approach to study selection and data extraction, (4) the data were charted
+incorporating qualitative thematic analysis where necessary, (5) the results were collated, summarized, and
+reported, including the implications for policy, practice or research, and (6) the findings were reviewed by clinical
+experts in the field who did not take part in Stages 1 –5.
+2.1 |Eligibility criteria
+Records were included if they (a) reported research studies (including studies of etiology, symptomatology/patient
+profiles, prevalence, incidence, cohort, and case ‐control studies) and focused on describing the population of
+patients diagnosed with misophonia, or (b) reported case studies, case series, cohort, feasibility, or pilot studies
+where the purpose was to define a patient profile or outline or develop an intervention for patients with a primary
+complaint of misophonia, or (c) reported randomized controlled trials (RCTs), non ‐RCT, case or cohort studies or
+case series where the effectiveness of an intervention for misophonia was tested and misophonia was the primary
+complaint or part of a symptom set.
+Records were excluded if they were not peer ‐reviewed, were reviews (our searches confirm there are no
+previous related scoping or systematic reviews), that were personal/expert opinions and editorials, manuals or
+guidelines, patents, not available in English, or were reporting animal studies.
+2.2 |Information sources and search strategy
+Initial searches were conducted in July 2016. Searches were conducted in Embase, PsychINFO, PubMed CENTRAL,Scopus, Web of Science, Cochrane CENTRAL, Cochrane Ear Nose, and Throat Disorders Group Trials Register,POTGIETER ET AL. |1205
+
+Clinical Trials.gov, the International Standard Randomized Controlled Trial Number registry (ISRCTN), the
+International Clinical Trials Registry Platform (ICTRP), Cumulative Index to Nursing and Allied Health Literature
+(CINAHL PLUS) and Google Scholar. We applied a specific search term strategy in each search engine (Table 1),
+searching in article topics, titles, abstracts, and keywords. Where possible, filters were applied to retrieve articles in
+the English language and with human participants only. There was no restriction in the search period. Table of
+contents of the most common journals (determined using the interquartile rule for outliers) and the reference lists
+of any relevant review articles identified throughout the process, which had misophonia in the title were also
+screened. Searches were last updated in June 2018.
+2.3 |Study selection
+Using an iterative approach, all abstracts were assessed independently by two researchers as meeting the reviewcriteria or not. Records were first screened by title and abstract and in the next stage by full text. There were nodisagreements between authors regarding the inclusion or exclusion of a record for this review.
+2.4 |Data extraction
+A data extraction form was created in Excel and was piloted by two reviewers on two records before finalizing.Data were then extracted independently by two reviewers (I. P. and D. J. H.) according to the following items: First
+Author; Year of Publication; Title of study; Publication Type; Publication type: other; Country study aim;
+Misophonia definition; Study design; Methods; If combination methods we specified; Sample size; percentage of
+participants with misophonia; Study population; Setting; Age; Gender; Misophonia primary or secondary complaint;
+Age at onset; Trigger sounds; Response to the trigger sounds; Aggressive reaction use menu; Coping mechanisms;
+Other comorbidities; Assessment time points; Eligibility screening methods; Assessments/Outcome measures;
+Treatment aimed primarily at misophonia; Nature of therapeutic intervention (components); Main outcomes of
+study —empirical; Main outcomes of study —anecdotal; Study limitations; Further research; Notes. Disagreement on
+the extracted data was minimal and generally related to omissions rather than errors. Where these occurred bothauthors revisited the record to agree on a final data set. The final datasets were then charted by topic according toTABLE 1 Search term strategies for misophonia outcome measures and interventions
+Search engine Search terms
+Embase and PsycINFO misophon* OR sensory intolerance OR
+sound sensitivity OR selective sound sensitivity ORselective sound sensitivity syndrome OR
+soft sound sensitivity syndrome OR aversive sounds
+OR decreased sound tolerance OR trigger sounds)AND [(assess* OR measure* OR test* OR diagnos*OR outcom* OR therap* OR interv* OR treat*OR manag*) OR (population OR prevalence OR incidenceOR epidemiology)
+Web of Science, Scopus, PubMed Central,
+CINAHL PlusMisophon* AND [(assess* OR measure* OR test* OR
+diagnos*
+OR outcom* OR therap* OR interv* OR treat* OR
+manag*) OR
+Population OR prevalence OR incidence OR epidemiology)
+Cochrane Central Misophon*
+Google Scholar Misophonia1206 |POTGIETER ET AL.
+
+the aims of the review, namely the definition, patient profile, assessment (diagnosis and measurement), and
+treatment of misophonia. We, additionally, cataloged research priorities nominated in the literature.
+3|RESULTS
+Figure 1 displays the flow of records identified, screened, included, or excluded, with reasons for exclusion. Thirty ‐
+one records were included in this review; 17 were case studies or case series, six were nonrandomized controlledtrials, two were online surveys, and six were cohort studies. The earliest study was published in 2008 and one ‐third
+of them were published in 2017. Fourteen studies were conducted in the United States, eight in the Netherlands,
+two in Australia, two in the UK, two in Brazil, one in China, one in Turkey, and one in Canada. Six studies included
+children (aged under 18 years old) only, 17 studies included adults only, and six studies had a mixed population.
+Two studies could not be classified according to age as only mean sample ages were reported. Further study details
+are available in Supporting Information Materials 1 and 2.
+3.1 |Definitions of misophonia
+Common terminology was observed in most definitions of misophonia used in the literature. Most commonly it wasdescribed as a disproportionately extreme, aversive, and irrational emotional reaction (Bernstein et al., 2013;
+Boyce, 2015; Colucci, 2015; Dozier 2015a, 2015b; Edelstein et al., 2013; Erfanian, Brout, & Keshavarz, 2017;
+Kumar et al., 2014, 2017; McKay, Kim, Mancusi, Storch, & Spankovich, 2017; Rouw & Erfanian, 2017; Sanchez & da
+Silva, 2017; Schneider & Arch, 2017; Tunç & Ba şbuğ, 2017; Vidal, Vidal, & Lage, 2017; Webber et al., 2014) to
+specific (Boyce, 2015, Colucci, 2015, Edelstein et al., 2013, Giorgi, 2015; McKay et al., 2017; Reid et al., 2016; Rouw
+& Erfanian, 2017; Sanchez & da Silva, 2017; Schneider & Arch, 2017; Schröder et al., 2017; Tunç & Ba şbuğ, 2017;
+Vidal et al., 2017; Webber et al., 2014; Wu et al., 2014), common human innocuous sounds (Dozier 2015b, 2015c;
+Johnson et al., 2013; Kumar et al., 2017; Schröder, Mahazeri, et al., 2013; Schröder et al., 2017; Schröder, San
+Giorgi, Van Wingen, Vulink, & Denys, 2015; Schneider & Arch, 2017), and sometimes animal sounds (Schneider &
+Arch, 2017). Some authors described in detail the eliciting stimuli of this reaction. Two authors mentioned in their
+FIGURE 1 Flow chart of record selectionPOTGIETER ET AL. |1207
+
+definitions the term “trigger sounds ”(Dozier, 2015a; Webber et al., 2014) and some explained what these were
+exactly: breathing, wheezing, chewing, eating, slurping, lip smacking, pen clicking/tapping, typing, or cracking
+knuckles (Kumar et al., 2017; McKay et al., 2017; Sanchez & da Silva, 2017; Schneider & Arch, 2017;
+Schröder, Mahazeri, et al., 2013; Schröder et al., 2014, 2015, 2017). Two authors (Hadjipavlou et al., 2008; Wu
+et al., 2014) described misophonia as a condition of decreased sound tolerance, and six authors mentioned selective
+sound sensitivity syndrome (4S) as a synonym of misophonia (Kluckow, Telfer, & Abraham, 2014; McGuire et al.,
+2015; Sanchez & da Silva, 2017; Webber et al., 2014; Wu et al., 2014; Zhou, Wu, & Storch, 2017). The literal
+meaning of misophonia, hatred of sound, was used in the definition provided by some authors (Edelstein et al.,
+2013; Giorgi, 2015; Kumar et al., 2014; Schröder, Vulink, et al., 2013; Wu et al., 2014).
+Most authors described emotional reactivity commonly experienced by patients, as part of their working
+definition. It is reported that emotional reactions “range or escalate ”(Dozier, 2015a) from discomfort (Wu et al.,
+2014), anxiety, distress (Johnson et al., 2013; Wu et al., 2014) to irritation, disgust, hate, anger, and loss of self ‐
+control (Boyce, 2015; Colucci, 2015; Dozier 2015a, 2015b, 2015c; Giorgi, 2015; Kumar et al., 2014, 2017; Reid
+et al., 2016; Schröder, Mahazeri, et al., 2013, Schröder et al., 2015, 2017; Webber et al., 2014; Wu et al., 2014).
+Some authors also referred to aggressive outbursts as a central hallmark of the condition (Kluckow et al., 2014;
+McGuire et al., 2015; Schröder, Mahazeri, et al., 2013; Schröder et al., 2014; Tunç & Ba şbuğ, 2017; Webber et al.,
+2014). In addition to an emotional reaction, some authors referred to physiological or autonomic arousal (in terms
+of a trigger) in their definitions of misophonia (Bernstein et al., 2013; Edelstein et al., 2013; Vidal et al., 2017). Some
+definitions also noted the presence of coping mechanisms, typically avoidance strategies (Kumar et al., 2014;
+McGuire et al., 2015; McKay et al., 2017; Schröder et al., 2015; Webber et al., 2014).
+3.2 |The misophonia population
+3.2.1 |Onset
+Almost all studies that reported onset age of misophonia found that symptoms emerged in childhood (Dozier
+2015a, 2015b, 2015c; Johnson et al., 2013) or adolescence (i.e., up to 18 years of age; Bernstein et al., 2013;
+Hadjipavlou et al., 2008; Johnson et al., 2013; Kamody & Del Conte, 2017; Kluckow et al., 2014; Kumar et al., 2014;
+McGuire et al., 2015; Reid et al., 2016; Schneider & Arch, 2017; Schröder, Vulink, et al., 2013). Two studies
+reported that the onset was in adulthood (i.e., 18 years and over; Boyce, 2015; Tunç & Ba şbuğ, 2017) and two
+studies reported an onset age that can spread over the lifespan (Sanchez & da Silva, 2017; Zhou et al., 2017).
+3.2.2 |Triggers and context
+Person ‐related sounds reported to trigger misophonic responses included oral sounds, especially those made by
+people eating, such as chewing, lip smacking, swallowing noises, and throat noises (Bernstein et al., 2013; Boyce,
+2015; Colucci, 2015; Dozier, 2015a, 2015b, 2015c; Hadjipavlou et al., 2008; Johnson et al., 2013; Kamody & Del
+Conte, 2017; Kumar et al., 2014, 2017; Reid et al., 2016; Sanchez & da Silva, 2017; Schneider & Arch, 2017;
+Schröder, Vulink, et al., 2013; Schröder et al., 2014, 2015, 2017; Tunç & Ba şbuğ, 2017; Vidal et al., 2017; Wu et al.,
+2014; Zhou et al., 2017), nasal sounds, such as breathing, blowing nose, sniffling, coughing (Dozier, 2015a, 2015c;
+Johnson et al., 2013; Kamody & Del Conte, 2017; Kumar et al., 2017; Sanchez & da Silva, 2017; Schröder, Vulink,
+et al., 2013; Schröder et al., 2014; 2015; Wu et al., 2014; Zhou et al., 2017), and in single cases, nail picking
+(Hadjipavlou et al., 2008), or sneezing (Dozier, 2015c). Specific spoken sounds, such as /s/, /t/, /ch/, /k/ (Colucci,
+2015; Wu et al., 2014), or consonants and/or vowels (Zhou et al., 2017) and specific voices (Boyce, 2015;
+Hadjipavlou et al., 2008; Webber et al., 2014) were also reported as triggers. The context in which the triggers are
+experienced also appears important. Authors observed that triggers experienced within a familiar context, that is, a
+family, friends, and occupational, or educational setting were more likely to cause a stronger misophonia reaction1208 |POTGIETER ET AL.
+
+(Bernstein et al., 2013; Boyce, 2015; Dozier, 2015a, 2015b, 2015c; Edelstein et al., 2013; Johnson et al., 2013;
+Kluckow et al., 2014; McGuire et al., 2015; Schneider & Arch, 2017).
+Other common trigger sounds include repetitive clicking and tapping (Colucci, 2015; Johnson et al., 2013;
+McGuire et al., 2015; Reid et al., 2016; Schröder et al., 2014; Vidal et al., 2017; Wu et al., 2014; Zhou et al., 2017),
+or sounds produced by using utensils, keys, or ice in a glass (Dozier 2015b, 2015c; Johnson et al., 2013; Sanchez &
+da Silva, 2017). Individual cases also describe bird chirps (Dozier, 2015b; Johnson et al., 2013), dog barking
+(Kluckow et al., 2014; Sanchez & da Silva, 2017), rustling (Sanchez & da Silva, 2017; Schröder et al., 2014; Zhou
+et al., 2017), and conversations in Spanish in a Hispanic individual who spoke both Spanish and English, as triggers
+(McGuire et al., 2015).
+In some cases (Dozier 2015a, 2015b; Hadjipavlou et al., 2008; Schröder et al., 2014; Vidal et al., 2017), triggers
+included person ‐related visual stimuli accompanying the auditory stimuli, such as swinging arms or legs, jiggling, or
+rubbing hands together, which can fall under the term misokinesia.
+3.2.3 |The misophonic reaction
+All authors describe the misophonic reactions of their participants as various combinations of discomfort, distress,
+anxiety, annoyance, disgust, panic, extreme irritation, anger, hate, or sometimes rage with aggressive outbursts or
+involuntary violence (Bernstein et al., 2013; Colucci, 2015; Dozier, 2015a, 2015b, 2015c; Edelstein et al., 2013;
+Hadjipavlou et al., 2008; Johnson et al., 2013; Kamody & Del Conte, 2017; Kluckow et al., 2014; Kumar et al., 2014,
+2017; McGuire et al., 2015; Reid et al., 2016; Rouw & Erfanian, 2017; Sanchez & da Silva, 2017; Schneider & Arch,
+2017; Schröder, Vulink, et al., 2013; Schröder et al., 2017; Tunç & Ba şbuğ, 2017; Vidal et al., 2017; Webber et al.,
+2014). A larger qualitative study based on 42 people with misophonia (Schröder, Vulink, et al., 2013) reported that
+physical aggression was present as a reaction in five of them. A physical reaction to trigger sounds appeared
+common and included contraction, tension, or sensation in specific muscles (Bernstein et al., 2013; Dozier, 2015a,2015b, 2015c; Kamody & Del Conte, 2017; Kluckow et al., 2014); and/or heavy breathing (Kluckow et al., 2014;
+McGuire et al., 2015). Edelstein et al. (2013) stated that the most common reaction reported in their sample was
+pressure experienced in the chest, arms or head, muscle tension, or a “fight or flight ”reaction (i.e., an autonomic
+stress response). One single case was noted to experience intrusive images of mouths and urges to mimic this
+(Hadjipavlou et al., 2008); another described feelings of shame and remorse (Bernstein et al., 2013).
+3.2.4 |Coping strategies
+Patients managed their symptoms through avoidance behavior, for example, leaving the situation, wearing
+earphones, or avoiding situations where the trigger might occur, including quitting work (Boyce, 2015; Colucci,
+2015; Dozier, 2015a, 2015b, 2015c; Edelstein et al., 2013; Hadjipavlou et al., 2008; Johnson et al., 2013; Kamody &
+Del Conte, 2017; Kluckow et al., 2014; Kumar et al., 2014; McGuire et al., 2015; Reid et al., 2016; Schneider & Arch,
+2017; Schröder, Vulink, et al., 2013; Webber et al., 2014). Other strategies included confrontation, that is,
+demanding the offender (e.g., family member) to stop producing the trigger sound (Dozier 2015a, 2015b; Edelsteinet al., 2013; Johnson et al., 2013; Kluckow et al., 2014; Reid et al., 2016; Sanchez & da Silva, 2017; Webber et al.,
+2014), also mimicking the offensive sound (Edelstein et al., 2013; Hadjipavlou et al., 2008; Schröder, Vulink, et al.,
+2013), engaging in a positive internal dialogue (Edelstein et al., 2013, Kluckow et al., 2014; Reid et al., 2016), or
+distracting themselves from the sound (Kluckow et al., 2014) by producing antisounds (Schröder, Vulink, et al.,
+2013) or diverting their thoughts (Schröder et al., 2017). Two single cases reportedly managed their symptoms
+using muscle relaxation exercises (Dozier, 2015b). One case restrained herself from aggressive verbal outbursts by
+keeping her mouth full of food at meal times (Kluckow et al., 2014).POTGIETER ET AL. |1209
+
+3.2.5 |Comorbid conditions
+Misophonia was noted to be comorbid with OCD (Erfani an et al., 2017; Johnson et al ., 2013; Kluckow et al.,
+2014; Reid et al., 2016; Schröder, Vulink, et al., 2013, 2017; Webber et al., 2014; Wu et al., 2014), depression
+(Dozier, 2015a; Johnson et al ., 2013; Reid et al., 2016; Wu et al., 2014; Schröder et al ., 2017; Erfanian et al.,
+2017), attention deficit hyperactiv ity disorder (ADHD; Reid et al., 2016 ; Schröder, Vulink, et al., 2013;
+Schröder et al., 2014), asthma (Dozier 2015a, 2015b; Kluckow et al., 2014), Tourette Syndrome (Schröder,
+Vulink, et al., 2013, Schröder et al., 2017; Wu et al., 2014 ), dysthymic disorder (Erfanian et al., 2017; Schröder
+et al., 2017), eating disorders (Kluckow et al., 2014; Sc hröder et al., 2017), postt raumatic stress disorder
+(PTSD; Dozier, 2015b; Erfanian et al., 2017), social phobia (Erfanian et al., 2017; Hadj ipavlou et al., 2008), body
+dysmorphic disorder (Hadjipavlou et al., 2008; Schröder et al., 2017), and panic disor der (Erfanian et al., 2017;
+Hadjipavlou et al., 2008).
+Individual cases were also reported that had borderline personality dis order (Boyce, 2015), tinnitus and
+hearing loss (Colucci, 2015), specific phobia (Reid et al., 2016), agoraphobia (Erfanian et al., 2017), generalized
+anxiety disorder (Dozier, 2015c), Kawasaki disease ( Johnson et al., 2013), hypoc hondria (Schröder, Vulink,
+et al., 2013), skin picking (Schröder, Vulink, et al., 2013 , Schröder et al., 2017), and bipolar disorder (Schröder
+et al., 2013; Schröder et al., 2017). It is important to note that although these various conditions were present
+alongside misophonia there is no evidence, as yet, to suggest any association. A future study should examine
+the prevalence of these comorbid cond itions to evaluate which, if any, are in fact more prevalent in people with
+misophonia.
+3.2.6 |Neurobiological findings
+Six records included neurobiological data from patients with misophonia. Edelstein et al. (2013) and Kumar et al.
+(2017) measured skin conductance during exposure to a range of trigger sounds in people with misophonia and
+healthy controls. They found that those with misophonia assign higher aversion, distress, and annoyance ratings,
+and have higher skin conductance or galvanic skin responses to auditory but not visual stimuli.
+Giorgi (2015) used fMRI to explore brain areas involved in the misophonia reaction. They found hyperactivation
+in the bilateral auditory cortex and the left amygdala in patients with misophonia when exposed to misophoniatriggers but not when the stimuli were neutral. Another fMRI experiment by Schröder et al. (2015) also found
+increased activity in the auditory cortex and the left amygdala. Schröder, Mahazeri, et al. (2013) measured the
+mismatch negativity response —an objective test of automatic central auditory processing, finding it to be reduced
+in patients with misophonia compared with controls outside of any audiological distortions. The most recent work
+in this area (Kumar et al., 2017) suggests that misophonia is directly associated with an abnormal function of the
+anterior insular cortex (AIC) and a network of regions responsible for processing and regulation of emotions,
+including the ventromedial prefrontal cortex, posteromedial cortex, hippocampus, and amygdala. Kumar et al.
+(2017) also found that triggers elicited heightened heart rate and galvanic skin response in misophonia subjects,
+which were mediated by AIC activity. Questionnaire data indicated that patients with misophonia had higher
+interoceptive sensibility than controls, consistent with abnormal functioning of anterior insular cortex. Brain
+structural measurements implied greater myelination within ventromedial prefrontal cortex (vmPFC) in misophonicindividuals.
+Schröder et al. (2014) used EEG and an oddball paradigm to measure differences in auditory event ‐related
+potentials (ERPs) evoked by pure tones, between patients with misophonia and control participants. They found
+that the mean amplitude of the auditory N1, a marker linked to early attention and detection of abrupt sensory
+changes, was significantly diminished in patients with misophonia. Notably, their patient group exhibited a higher
+total mood disturbance score than the controls, which the authors suggest may reflect a general state of
+hyperarousal in patients ’emotional state.1210 |POTGIETER ET AL.
+
+3.3 |Prevalence
+Two studies provide some prevalence data on misophonia. Wu et al. (2014) reported that in their sample of 483
+undergraduate students 20% were classed as having clinically significant misophonia symptoms that cause
+interference in their lives. Another study with a sample size of 415 also suggested a prevalence rate of 20% of
+“often ”or“always ”experiencing sound sensitivity to triggers. However, this rate dropped to 6% for significantly
+interfering misophonia symptoms (Zhou et al., 2017). Kluckow et al. (2014) reported that in a sample of 15 patients
+with eating disorders three also had misophonia, as determined from the Amsterdam Misophonia Scale (A ‐Miso ‐S;
+Schröder, Vulink, et al., 2013) and the Misophonia Activation Scale (MAS ‐1; Fitzmaurice, 2010).
+3.4 |Diagnosis and measurement
+Most studies used an unstructured clinical interview to assess misophonia (Bernstein et al., 2013, Boyce, 2015,
+Dozier, 2015b, Edelstein et al., 2013, Hadjipavlou et al., 2008, Reid et al., 2016; Kamody & Del Conte, 2017; Giorgi,
+2015; Johnson et al., 2013; Kluckow et al., 2014; Sanchez & da Silva, 2017; Schneider & Arch, 2017; Schröder,
+Vulink, et al., 2013; Schröder et al., 2017; Vidal et al., 2017; Webber et al., 2014). Three studies specified use of the
+structured clinical interview for DSM IV Axis I or Axis II to diagnose patients with misophonia (Bernstein et al.,
+2013; Schröder, Vulink, et al., 2013; Tunç & Ba şbuğ, 2017), and one used the M.I.N.I. International Neuropsychiatric
+Interview for the diagnosis of affective disorders (Erfanian et al., 2017).
+Different questionnaire measures of misophonia sever ity were used across studies. The most commonly
+used was the Amsterdam Misophonia Scale ( A‐Miso ‐S; Giorgi, 2015; Kamody & Del Conte, 2017; Kluckow et al.,
+2014; Reid et al., 2016; Rouw & Erfanian, 2017; Schneider & Arch, 2017; Schröder, Vulink, et al., 2013;
+Schröder et al., 2014, 2015, 2017; Tunç & Ba şbuğ, 2017), which is based on the Yale Brown Obsessive
+Compulsive Scale (Y ‐BOCS). Dozier (2015a, 2015b) used the Misophonia Assessment Questionnaire ( MAQ )a n d
+the Misophonia Coping Responses Survey ( MCR ), which, anecdotally, were both proposed by audiologist
+Marsha Johnson, although no information is available to v erify this, or how the questionnaires were developed.
+Dozier (2015b, 2015c) used the Mis ophonia Trigger Severity Scale ( MTS) by Natan Bauman (no reference
+identified). Kluckow et al. (2014) and Dozier ( 2015b) used the Misophonia Activation Scale ( MAS ‐1;
+Fitzmaurice, 2010). The Misophonia Physiological Scale ( MPS) was used by Dozier (2015c) and developed by
+Natan Bauman (no reference identified).
+The most recently published questionnaires are the Misophonia Emotional Response ( MER; Dozier et al., 2015b,
+2015c) and the Misophonia Questionnaire ( MQ; Wu et al., 2014; also used in Dozier, 2015b; McGuire et al., 2015;
+McKay et al., 2017; Zhou et al., 2017). The Misophonia Severity Scale ( MSS), a subscale of the MQ, was adapted
+from the NIMH Global Obsessive ‐Compulsive Scale ( NIMH GOCS ; Murphy, Pickar, & Alterman, 1982). The MSS was
+used in two other studies (Dozier, 2015b; McGuire et al., 2015). None of the available questionnaires have yet been
+subjected to formal psychometric evaluation.
+3.5 |Treatment approaches for misophonia
+Twelve studies explored treatments for misophonia. Three studies investigated a CBT method (Bernstein et al.,2013; McGuire et al., 2015; Schröder et al., 2017). In one study, a CBT subtype called Exposure and Response
+Prevention (ERP) was documented for a patient with a primary complaint of OCD (Reid et al., 2016). Three studies
+investigated counterconditioning treatment (Dozier et al., 2015a, 2015b, 2015c). One study used mindfulness and
+acceptance to treat misophonia (Schneider & Arch, 2017) and one used dialectical behavior therapy (DBT; Kamody
+& Del Conte, 2017). One study (Hadjipavlou et al., 2008) documented two cases treated with a combination ofexposure therapy, relaxation, and medication. Three studies (McGuire et al., 2015; Tunç & Ba şbuğ, 2017; Vidal
+et al., 2017) reported the results of using medication alone to treat misophonia.POTGIETER ET AL. |1211
+
+Bernstein et al. (2013) described a case where CBT treatment comprised of challenging dysfunctional automatic
+thoughts, and a behavioral component to interrupt and subst itute maladaptive and avoidant coping strategies with
+helpful ones. These included redirecting attention and talking openly with people producing the triggers in a
+nonoffensive manner. There was also a physiological component involving exercise before meals to recalibrate
+autonomic reactivity. At the end of treatment, the case still found chewing noises unpleasant, but the triggers no longer
+impaired her social or occupational functioning and this effect was maintained at a 4 ‐month follow ‐up assessment.
+In McGuire et al. (2015), CBT included psychoeducation and achieving “habituation ”through a combination of
+exposure and cognitive restructuring. More specifically, the two cases were exposed to triggers titrated upward in
+frequency and intensity to habituate them to the distress caused by the triggers. The process was then switched
+from the therapist to family members. To restructure dysfunctional beliefs about the triggers, the cognitiverestructuring was practiced during the exposures. Relapse prevention strategies were also introduced toward the
+end of treatment. Both cases showed improvement in misophonia symptoms based on their scores on the MQ and
+MSS and anecdotal patient reports.
+Schröder et al. (2017) tested an adaptation of group CBT on 9 0 patients. Components included task concentration
+exercises to train patients to shift their attention to neutral stimuli during exposures; counterconditioning was also used
+to break the association patients had between trigger sounds an d experiencing negative emotions. Stimulus manipulation
+was the third component of this therapy. Patients were taug ht how to assume a sense of control over their responses by
+manipulating the trigger sounds they exposed themselves to on a computer at home as part of homework. Relaxation
+exercises were also included to help patients manage fee ling of anger and rage, on the assumption that misophonia
+patients ’irritability is related to increased general arousal. Thi s version of therapy significantly reduced misophonia
+symptoms in nearly half of the patients and was found use ful, especially for more severe cases of misophonia.
+Reid et al. (2016) investigated a single patient who had misophonia and comorbid OCD, depression, and specific
+phobia. In this case, only two of the 14 sessions of CBT exposure relapse prevention (CBT ERP) treatment were
+aimed at managing the misophonia problem. CBT ERP involved working with the patient through imaginal and in ‐
+vivo exposures to the stimulus. The structure of the two sessions for misophonia was not specified in the record so
+it is unclear whether these two sessions used ERP to treat the misophonia symptoms, or whether it was standard
+CBT. The two misophonia sessions occurred in the middle of treatment for OCD. The patient also completed two
+related homework sessions. At the end of treatment, this patient ’s misophonia reduced from severe to mild/
+subclinical based on her A ‐Miso ‐S score, and this improvement was maintained at 3 ‐month follow ‐up.
+Schneider and Arch (2017) applied mindfulness and a cceptance methods to treat misophonia in one case.
+Components were derived from acceptance and commitment t herapy; ACT (acceptance, mindfulness, diffusion, and
+values) and DBT (acceptance, mindfulness, “nonjudgmentalness, ”and opposite action) perspectives, although several
+techniques could also be conceptualized from a classic CBT pe rspective (e.g., identifying the link between thoughts,
+feelings, and behaviors). Treatment consisted of 10 × 50 ‐min sessions. Specific techniques included diffusion exercises
+(being aware of one ’s thoughts to create distance between the patient and the thoughts rendering them less
+overwhelming); DBT ‐style chain analyses to compare situations eliciting stronger and weaker reactions. A component of
+removing judgment was also included where the patient practi ced noticing his judgmental thoughts and redescribing the
+situation objectively (just the facts). This method was effective 2 months later, and 6 months posttreatment, whereby
+the patient ’s scores across all measures, including the A ‐Miso ‐Sa n dY ‐BOCS, continued to decrease. The patient was
+better able to accept and tolerate the discomfort triggered by his misophonia.
+DBT was used in one case (Kamody & Del Conte, 2017) suffering comorbid anxiety and misophonia. DBT
+sessions were weekly for 7 weeks. The essence of the treatment was to acquire DBT skills of mindfulness and
+distress tolerance; to understand one ’s ability to transact differently with the environment despite his/her
+predisposition to anger, find alternative strategies to dealing with anger and guilt, and reduce behavioral
+engagement in behavioral urges. During treatment, the patient was also given paroxetine hydrochloride (an SSRI) of
+25 mg (no frequency given) to simultaneously manage misophonic and anxiety symptoms. The authors reported a
+symptom reduction from severe to mild based on the A
+‐Miso ‐S.1212 |POTGIETER ET AL.
+
+“Exposure therapy ”was investigated in two cases (Hadjipavlou et al., 2008). The authors did not give
+information as to what the “exposure therapy ”constituted, or whether it was part of CBT. This kind of therapy had
+limited effects in both cases due to noncompliance and perceived lack of benefit. The authors reported that
+alongside “exposure therapy ”the two cases also received medication and relaxation treatment —although it is
+unclear if it was simultaneous. In the first case, the selective serotonin reuptake inhibitors (fluoxetine; dose not
+specified) combined with relaxation techniques provided symptomatic relief. In the other case (a 25 ‐year ‐old
+woman with multiple morbidities), antidepressants, anxiolytics, antipsychotics, stimulants, and mood stabilizers
+were all ineffective, as were sound generators. McGuire et al. (2015) reported that a regimen of venlafaxine
+(150 mg/day; a serotonin ‐norepinephrine reuptake inhibitor) and lisdexamfetamine (70 mg/day; a central nervous
+system stimulant) led to moderate improvement in misophonia symptoms. However, the case had still sufferedsignificant functional impairment and subsequently received CBT treatment.
+Counterconditioning is a treatment, which involves the pairing of a powerful positive stimulus with a
+conditioned trigger stimulus causing the conditioned reflex to cease or die out. This method was specifically
+adapted to treat misophonia and was tested in three studies (Dozier 2015a, 2015b, 2015c). It involves multiple
+treatment sessions in which a low intensity, short duration trigger stimulus was intermittently provided during a
+continuous positive stimulus such as music. Patients were encouraged to practice muscle relaxation during the
+treatments and to complete homework sessions using appropriate devises. Two studies testing this methodology
+were case studies, and one was a case series. Anecdotal patient reports suggest some improvement in patient
+symptoms; no empirical data were provided.
+Two studies used medication alone to treat misophonia. Vidal et al. (2017) report on a single case of misophonia
+and obsessional symptoms treated with escitalopram (SSRI; no dose detail was given). Evaluation after 30 daysshowed partial relief from misophonia symptoms. In Tunç and Ba şbuğ(2017) a case was treated with alprazolam
+(a benzodiazepine; 0.5 mg/day) for 3 days to which the patient had responded well although misophonia persisted.
+3.6 |Research priorities nominated in the literature
+Suggestions for future research on misophonia in the literature included the need to confirm the phenomenology
+and prevalence of misophonia (Hadjipavlou et al., 2008), and its genetic and neurological mechanisms (Dozier,
+2015a; Edelstein et al., 2013; Giorgi, 2015; Hadjipavlou et al., 2008; McKay et al., 2017; Schröder et al., 2014; Tunç
+&B a şbuğ, 2017; Webber et al., 2014). Edelstein et al. (2013) also suggests investigating the natural history of
+misophonia and the evolution of triggers over time. There are also suggestions for further research into hereditary
+factors in misophonia (Rouw & Erfanian, 2017; Sanchez & da Silva, 2017) and its comorbidities (Erfanian et al.,
+2017). There appears to be a consensus that conducting RCTs of the available treatments for misophonia is urgent
+(Dozier 2015b, 2015c; Edelstein et al., 2013; Hadjipavlou et al., 2008; Kamody & Del Conte, 2017; Reid et al., 2016;
+Schneider & Arch, 2017; Schröder et al., 2017). Dozier (2015b) proposed that a set of validated assessment
+instruments for misophonia should be established. The effectiveness of CBT and how it links with brain responseswere specifically suggested (Giorgi, 2015; McGuire et al., 2015; Reid et al., 2016). Finally, investigating misophonia
+within certain populations (i.e., pediatric, autism spectrum disorder, eating disorders, and tinnitus) to garner a
+better clinical picture of misophonia, and to clarify its association with tinnitus, was mentioned by a number of
+authors (Kluckow et al., 2014; McGuire et al., 2015; Wu et al., 2014; Zhou et al., 2017).
+4|DISCUSSION
+This scoping review catalogs the research describing misophonia, its population, methods of assessment,treatments, and future research priorities. Inherent to scoping review methodology, we included all the relevant
+and available research studies on misophonia treatments. We found that most studies used methodologies thatPOTGIETER ET AL. |1213
+
+provide low ‐level evidence, with over half of the current research on misophonia taking the form of case studies.
+This finding highlights the need for controlled studies and clinical trials on misophonia.
+Misophonia is a condition only described as such in the last two decades and no official diagnostic criteria have
+yet been formulated. Although Schröder, Vulink, et al. (2013) proposed a set of diagnostic criteria, this has not been
+formalized. We scoped the available definitions of misophonia used by researchers and found a high level of
+common terms and statements. Still, some definitions were broad and did not seem to differentiate misophonia
+from hyperacusis. The collation of definitions presented here can be used in finding consensus on a single definition
+and description of misophonia. It also serves as a starting point to consider the validity of existing or new
+misophonia measurement questionnaires. These measures will, in turn, allow more rigorous diagnostic profiling and
+evaluation of available treatments for misophonia.
+Descriptions of the misophonia population consistently identified that its onset is in childhood or early
+adolescence at 12 or 13 years. There can also be individual cases where misophonia begins in childhood or middle ‐
+age. As reported in a previous review (Bruxner, 2016), the triggers of the misophonia symptoms are almost always
+produced by humans and most commonly involve oral and nasal sounds, with the level of familiarity of the context
+within which the triggers are experienced playing a significant role. Over the course of their condition, some
+patients can develop intolerance to certain visual stimuli that accompany the audible ones, such as movement of
+mouths, and these can become triggers on their own. A few studies also report that repetitive noises, such as
+clicking and tapping can also trigger misophonia symptoms. This suggests a possible continuum between
+misophonia and misokinesia (hatred of movement; Schröder, Vulink, et al., 2013). Misokinesia is not currently
+known to exist as a discrete condition but is rather a less common misophonia symptom.
+Evidence on the prevalence of misophonia is only available from two student populations. Authors report a rate
+of 20% of people “often ”or“always ”experiencing sensitivity to triggers with 6% experiencing impairment. This
+could mean that while many may experience sound sensitivity to some triggers, a relatively low percentage suffer.
+Few studies have been dedicated, so far, to studying the neurological correlates of misophonia. Of those
+conducted, most used MRI or EEG and skin conductance. The findings are all considered preliminary but
+consistently suggest that misophonia involves abnormal functioning of the amygdala, an area of the brain
+commonly associated with negative emotions, aversive learning, and processes of attention and vigilance (Davidson
+& Irwin, 1999; Davis & Whalen, 2001; Holland & Gallagher, 1999). The most recent study reported here (Kumar
+et al., 2017) provides further evidence that it is the AIC and its connection to the amygdala, and other regions
+involved in emotion that are malfunctioning in patients with misophonia. Currently, it is still unclear whether theAIC malfunction is a cause or consequence of misophonia. The study found that patients also displayed a generally
+heightened baseline emotional state or hyperarousal, though there was evidence too that they had a lowered
+automatic central auditory processing mechanism. Further research is required to confirm these findings and how
+they link to the etiology, progress, and maintenance of misophonia.
+Some of the cases we reviewed could potentially be classed as being “extreme ”and not representative of the
+typical misophonia population. However, the current evidence base on the symptomatology of misophonia cannot
+differentiate these for certain. On the whole, we found that the misophonic reaction frequently reported in
+research involves intense negative feelings, which can vary from anxiety, disgust, panic, discomfort, annoyance,
+frustration, and rage, with the latter reported as a key characteristic (Dozier 2015a, 2015b, 2015c; Kumar et al.,
+2014; Schröder et al., 2013b; Schröder et al., 2014). Patients may experience anxiety in anticipation of hearing the
+trigger sounds, and then anger and disgust when they actually hear them. The literature we reviewed suggests thatthe dominant misophonia reaction involved intense negative feelings (Dozier 2015a, 2015b, 2015c; Kumar et al.,
+2014; Schröder, Vulink, et al., 2013), but also anxiety or fear of being unable to control the intolerance (Edelstein
+et al., 2013; Hadjipavlou et al., 2008; Kumar et al., 2014). Research also showed that the misophonic reaction is
+commonly associated with muscle tension in various body regions, symptoms related to anxiety (Ginsburg, Riddle, &
+Davies, 2005; Sainsbury & Gibson, 1954), as well as abnormal physical stress (Rouw & Erfanian, 2017). In line with
+this, Wu et al. (2014) and Zhou et al. (2017) found that it is indeed anxiety, which mediates the link between sound1214 |POTGIETER ET AL.
+
+intolerance and anger outbursts. This idea is also supported by the model proposed by Webber and Storch (2015)
+highlighting the central role of anxiety, which is negatively reinforced by behavioral responses and sheds light on
+the treatment of misophonia. Therefore, it appears that although anger is the dominant misophonic reaction,
+anxiety caused by the anger, affects the consequent behavioral responses, such as intrusive compulsions or safety
+behaviors. These behavioral consequences may lead to interpersonal and occupational dysfunction (Cavanna, 2014;
+Schwartz et al., 2011) causing decreased quality of life which, in turn, causes more anxiety. Further highlighting the
+role of anxiety in misophonia, we found that the condition most commonly reported to be comorbid with
+misophonia was the anxiety disorder OCD. Schröder, Vulink, et al. (2013) highlighted that both disorders share the
+intrusive and unwanted preoccupation and compulsive stress ‐reducing and avoidance behaviors. For this reason, he
+proposed that misophonia could be classified within the obsessive compulsive spectrum of disorders of the DSM IV.The parallels between misophonia and OCD also informed the development of the A ‐MISO ‐S and the MSS.
+However, the psychometric properties of these two measures as well as other less commonly used outcome
+measures for misophonia are yet to be established.
+Evidence on effective treatments for misophonia is scarce. Less than half of the available studies on misophonia
+focused on treatment, and all but one were case studies. Hence, in reviewing, one must be conscious of the
+potential “file drawer effect, ”whereby only cases of effective treatment get published. The most researched type of
+treatment for misophonia was CBT in various adaptations, whereby achieving habituation to the triggers through
+in‐vivo exposures, was the common component among them. These proved effective in all studies, as did
+counterconditioning (a type of behavioral treatment where controlled exposure to triggers to achieve habituation is
+also central but lacks the cognitive counseling element of CBT). Although these positive findings are based on
+anecdotal reports, there is a good foundation to conduct RCTs to ascertain the most effective format of CBTtreatment. Other cognitive treatments, such as mindfulness and acceptance and DBT also showed promising results
+and warrant further research. Certain medication, such as fluoxetine, venlafaxine, lisdexamfetamine, paroxetine
+hydrochloride, escitalopram, and alprazolam were used either in combination with cognitive therapy or alone.
+Future research should compare and assess the exact effect of these drugs on misophonia. It is crucial to highlight
+that although such medication has been tested with misophonia patients this does not amount to evidence of
+effectiveness. RCTs are required to assess the safety dosages and whether or not they are effective. Currently, only
+one clinical trial on the neural and self ‐reported effect of CBT has been identified as ongoing (ISRCTN:12571777).
+4.1 |Limitations
+First, although this is a review of misophonia research, the definitions of misophonia used in the included records
+are varied and so the participants and patients described may not represent a homogenous population. Second,
+although we undertook the optional Stage 6 (consultation) of scoping reviews (Levac, Colquhoun, & O ’Brien, 2010),
+there is currently a lack of guidance on how this is best conducted. We chose to incorporate the clinicians ’
+interpretations of the results from their experience within the discussion section. A more systematic process ofconducting and reporting the consultation stage could enhance the value of this stage of the scoping review
+process.
+5|CONCLUSION
+Although no formal nosology of misophonia has yet been finalized, research to date shows consistency in terms of thecharacteristics of misophonia that are described. To date, there are no studies that provide a reliable estimate of the
+prevalence of misophonia in the general population, nor in spe cific patient populations. Demographic data would inform
+t h et r u es c a l eo ft h ed i s o r d e ra n db e t t e rd e f i n et h es c a l eo f need for health care. Nevertheless, research in misophonia
+has progressed in the last decade, in that outcome measures of misophonia have been developed and some possiblePOTGIETER ET AL. |1215
+
+treatments have been shown effective, in providing relie f in case studies. Authors in the field agree on the need for
+studies that validate existing outcome measures, RCTs of tre atments, and studies to determine the etiology and natural
+history of misophonia. The current evidence base on misophonia is not yet substantial enough to consider a systematic
+review. However, we suggest that RCTs testing possible tre atments for misophonia is a vital next step for patients.
+Epidemiological research and consensus ‐based research is necessary for demographic estimations and to ascertain
+diagnostic criteria.
+ACKNOWLEDGMENTS
+I. P. and D. J. H. are funded through the National Institute for Health Research (NIHR) Biomedical Research Centre
+programme. The opinions expressed are those of the authors and not necessarily those of the NIHR, the NHS, or
+the Department of Health and Social Care.
+ORCID
+Derek J. Hoare http://orcid.org/0000-0002-8768-1392
+REFERENCES
+Arksey, H., & O ’Malley, L. (2005). Scoping studies: Towards a methodological framework. International Journal of Social
+Research Methodology ,8(1), 19 –32.
+Bernstein, R. E., Angell, K. L., & Dehle, C. M. (2013). A brief course of cognitive behavioural therapy for the treatment of
+Misophonia: A case example. The Cognitive Behaviour Therapist ,6, e10.
+Boyce, P. M. (2015). A young woman with noise intolerance. Medicine Today ,16(7), 46 –47.
+Bruxner, G. (2016). ‘Mastication rage ’: A review of misophonia —an under ‐recognized symptom of psychiatric relevance.
+Australian Psychiatry ,24(2), 195 –197. https://doi.org/10.1177/1039856215613010
+Cavanna, A. E. (2014). What is Misophonia and how can we treat it? Neurotherapeutics ,14(4), 357 –359.
+Cavanna, A. E., & Seri, S. (2015). Misophonia: Current perspectives. Neuropsychiatric Disease and Treatment ,11, 2117.
+Colucci, D. A. (2015). A case of amplified misophonia? The Hearing Journal ,68(2), 40.
+Davidson, R. J., & Irwin, W. (1999). The functional neuroanatomy of emotion and affective style. Trends in Cognitive Sciences ,
+3(1), 11 –21.
+Davis, M., & Whalen, P. J. (2001). The amygdala: Vigilance and emotion. Molecular Psychiatry ,6(1), 13 –34.
+Dozier, T. H. (2015a). Counterconditioning treatment for Misophonia. Clinical Case Studies ,14(5), 374 –387.
+Dozier, T. H. (2015b). Treating the initial physical reflex of Misophonia with the neural repattering technique. Psychological
+Thought ,8(2), 189 –210.
+Dozier, T. H. (2015c). Etiology, composition, development and maintenance of Misophonia: A conditioned aversive reflex
+disorder. Psychological Thought ,8(1), 114 –129.
+Duddy, D.F., & Oeding, K.A. (2014). Misophonia: An overview. Seminars in hearing ,35(2), 84 –91.
+Eddy, C. M., & Cavanna, A. E. (2013). Premonitory urges in adults with complicated and uncomplicated Tourette syndrome.
+Behaviour Modification ,38(2), 264 –275.
+Edelstein, M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013). Misophonia: Physiological investigations and case
+descriptions. Frontiers in Human Neuroscience ,7, 296.
+Erfanian, M., Brout, J. J., & Keshavarz, A. (2017). Misophonia and affective disorders: The relationship and clinical
+perspective. European Psychiatry ,41, S471.
+Fackrell, K., Potgieter, I., Shekhawat, G. S., Baguley, D. M., Sereda, M., & Hoare, D. J. (2017). Clinical interventions for
+hyperacusis in adults: A scoping review to assess the current position and determine priorities for research. BioMed
+Research International ,2017 ,1–22.
+Ferreira, G. M., Harrison, B. J., & Fontenelle, L. F. (2013). Hatred of sounds: Misophonic disorder or just an underreported
+psychiatric symptom? Annals of Clinical Psychiatry ,25(4), 271 –274.
+Fitzmaurice, G. (2010). Misophonia Activation Scale (MAS ‐1). Retrieved from http://www.misophonia ‐uk.org/the ‐
+misophonia ‐activation ‐scale.html
+Formby, C., Sherlock, L. P., & Gold, S. L. (2003). Adaptive plasticity of loudness induced by chronic attenuation and
+enhancement of the acoustic background. Journal of the Acoustical Society of America ,114,5 5–58.1216 |POTGIETER ET AL.
+
+Ginsburg, G. S., Riddle, M. A., & Davies, M. (2005). Somatic symptoms in children and adolescents with anxiety disorders.
+Journal of the American Academy of Child and Adolescent Psychiatry ,45(10), 1179 –1187.
+Giorgi, R. S. (2015). Hyperactivity in amygdala and auditory cortex in Misophonia: Preliminary results of a functional
+magnetic resonance imaging study. Amsterdam Brain and Cognition Journal ,2, p221.
+Hadjipavlou, G., Baer, S., Lau, A., & Howard, A. (2008). Selective sound intolerance and emotional distress: What every
+clinician should hear. Psychosomatic Medicine ,70(6), 739 –740.
+Hazen, E. P., Reichert, E. L., Piacentini, J. C., Miguel, E. C., Do Rosario, M. C., Pauls, D., & Geller, D. A. (2008). Case series:
+Sensory intolerance as a primary symptom of paediatric OCD. Annals of Clinical Psychiatry ,20(4), 199 –203.
+Holland, P. C., & Gallagher, M. (1999). Amygdala circuitry in attentional and representational processes. Trends in Cognitive
+Sciences ,3(2), 65 –73.
+Jastreboff, M. M., & Jastreboff, P. J. (2002). Decreased sound tolerance and tinnitus retraining therapy (TRT). Australian and
+New Zealand Journal of Audiology ,24(2), 74 –81.
+Jastreboff, P. J. (2000). Tinnitus habituation therapy (THT) and tinnitus retraining therapy (TRT). Tinnitus Handbook ,
+357 –376.
+Jastreboff, P. J., & Hazell, J. W. (2008). Tinnitus retraining therapy: Implementing the neurophysiological model . Cambridge:
+Cambridge University Press.
+Jastreboff, P. J., & Jastreboff, M. M. (2003). Tinnitus retraining therapy for patients with tinnitus and decreased sound
+tolerance. Otolaryngologic Clinics of North America ,36(2), 321 –336.
+Jastreboff, P. J., & Jastreboff, M. M. (2013). Using TRT to treat hyperacusis, misophonia and phonophobia. ENT Audiol News ,
+21(6), 88 –90.
+Jastreboff, P. J., & Jastreboff, M. M. (2014). Treatment for decreased sound tolerance (hyperacusis and misophonia).
+Seminars in Hearing ,35(2), 105 –120.
+Johnson, P. L., Webber, T. A., Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2013). When selective audiovisual
+stimuli become unbearable: A case series on pediatric misophonia. Neuropsychiatry ,3(6), 569 –575.
+Kamody, R. C., & Del Conte, G. C. (2017). Using dialectical behavior therapy to treat misophonia in adolescence. The Primary
+Care Companion for CNS Disorders ,19(5), 17l02105.
+Khalil, H., Peters, M., Godfrey, C. M., McInerney, P., Soares, C. B., & Parker, D. (2016). An evidence ‐based approach to
+scoping reviews. Worldviews on Evidence ‐Based Nursing ,13(2), 118 –123.
+Kluckow, H., Telfer, J., & Abraham, S. (2014). Should we screen for misophonia in patients with eating disorders? A report of
+three cases. International Journal of Eating Disorders ,47(5), 558 –561.
+Kumar, S., Hancock, O., Cope, T., Sedley, W., Winston, J., & Griffiths, T. D. (2014). Misophonia: A disorder of emotion
+processing of sounds. Journal of Neurology, Neurosurgery & Psychiatry ,85(8), e3 –e3.
+Kumar, S., Tansley ‐Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., & Griffiths, T. D. (2017). The brain
+basis for misophonia. Current Biology ,27,1–7.
+Levac, D., Colquhoun, H., & O'Brien, K. K. (2010). Scoping studies: Advancing the methodology. Implementation Science ,
+5(1), 69.
+Martz, K. (2013). Patient panel . Presentation at the annual conference of the Misophonia Association, Portland, OR.
+McFerran, D. (2016). Misophonia and phonophobia. In D. M. Baguley, & M. Fagelson (Eds.), Tinnitus: Clinical and Research
+Perspectives (pp. 245 –259). San Diego, CA: Plural Publishing. 364 pp.
+McGuire, J. F., Wu, M. S., & Storch, E. A. (2015). Cognitive ‐behavioral therapy for 2 youths with misophonia. The Journal of
+Clinical Psychiatry ,76(5), 573 –574.
+McKay, D., Kim, S. K., Mancusi, L., Storch, E. A., & Spankovich, C. (2017). Profile analysis of psychological symptoms
+associated with misophonia: A community sample, Behaviour Therapy 49, 286 –294.
+Murphy, D. L., Pickar, D., & Alterman, I. S. (1982). Methods for the quantitative assessment of depressive and manic
+behavior, The behaviour of psychiatric patients (355 –392). New York, NY: Marcel Dekker.
+Møller, A. R. (2011). Misophonia, phonophobia, and “exploding head ”syndrome. In A. R. Møller, B. Langguth, D. De Ridder,
+& T. Kleinjung (Eds.), Textbook of tinnitus (pp. 25 –27). New York, NY: Springer.
+Neal, M., & Cavanna, A. E. (2013). Selective sound sensitivity syndrome (misophonia) in a patient with Tourette syndrome.
+The Journal of Neuropsychiatry and Clinical Neurosciences ,25(1), E01.
+Peters, M. D., Godfrey, C. M., Khalil, H., McInerney, P., Parker, D., & Soares, C. B. (2015). Guidance for conducting
+systematic scoping reviews. International Journal of Evidence ‐Based Healthcare ,13(3), 141 –146.
+Reid, A. M., Guzick, A. G., Gernand, A., & Olsen, B. (2016). Intensive cognitive ‐behavioral therapy for comorbid misophonic
+and obsessive ‐compulsive symptoms: A systematic case study. Journal of Obsessive ‐Compulsive and Related Disorders ,10,
+1–9.
+Rouw, R., & Erfanian, M. (2017). A large ‐scale study of misophonia. Journal of Clinical Psychology ,74, 453 –479.
+Sainsbury, P., & Gibson, J. G. (1954). Symptoms of anxiety and tension and the accompanying physiological changes in the
+muscular system. Journal of Neurology, Neurosurgery and Psychiatry ,17, 216 –224.POTGIETER ET AL. |1217
+
+Sanchez, T. G., & da Silva, F. E. (2017). Familial misophonia or Selective Sound Sensitivity Syndrome: Evidence for autosomal
+dominant inheritance? Brazilian Journal of Otorhinolaryngology ,84, 553 –559.
+Schneider, R. L., & Arch, J. J. (2017). Case study: A novel application of mindfulness ‐and acceptance ‐based components to
+treat misophonia. Journal of Contextual Behavioral Science ,6, 221 –225.
+Schröder, A., van Diepen, R., Mazaheri, A., Petropoulos ‐Petalas, D., de Amesti, V. S., Vulink, N., & Denys, D. (2014).
+Diminished n1 auditory evoked potentials to oddball stimuli in misophonia patients. Frontiers in Behavioural
+Neuroscience ,8, 123.
+Schröder, A., San Giorgi, R., Van Wingen, G., Vulink, N., & Denys, D. (2015). P.1.i.015 Impulsive aggression in misophonia:
+Results from a functional magnetic resonance imaging study. European Neuropsychopharmacology ,25(25), S307 –S308.
+Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: Diagnostic criteria for a new psychiatric disorder. PLOS One ,8(1),
+e54706.
+Schröder, A. E., Mahazeri, A., Petropoulos, D., Soto, V., Smolders, Z., Vulink, N. C. C., & Denys, D. (2013). A diminished
+mismatch negativity response in misophonia, a potential marker for aggressive impulsivity. European Neuropsycho-
+pharmacology ,23, S177.
+Schröder, A. E., Vulink, N. C., van Loon, A. J., & Denys, D. A. (2017). Cognitive behavioral therapy is effective in misophonia:
+An open trial. Journal of Affective Disorders ,217, 289 –294.
+Schwartz, P., Leyendecker, J., & Conlon, M. (2011). Hyperacusis and misophonia: The lesser ‐known siblings of tinnitus.
+Minnesota Medicine ,94(11), 42 –43.
+Taylor, S., Conelea, C. A., McKay, D., Crowe, K. B., & Abramowitz, J. S. (2014). Sensory intolerance: Latent structure and
+psychopathologic correlates. Comprehensive Psychiatry ,55(5), 1279 –1284.
+Tricco, A. C., Lillie, E., Zarin, W., O ’Brien, K. K., Colquhoun, H., Levac, D., …Hempel, S. (2018). PRISMA extension for scoping
+reviews (PRISMA ‐ScR): Checklist and explanation. Annals of Internal Medicine ,169(7), 467 –473.
+Tricco, A. C., Lillie, E., Zarin, W., O ’Brien, K., Colquhoun, H., Kastner, M., & Kenny, M. (2016). A scoping review on the
+conduct and reporting of scoping reviews. BMC Medical Research Methodology ,16(1), 15.
+Tunç, S., & Ba şbuğ, H. S. (2017). An extreme physical reaction in misophonia: Stop smacking your mouth! Psychiatry and
+Clinical Psychopharmacology ,27(4), 416 –418.
+Vidal, C., Vidal, L. M., & Lage, M. A. (2017). Misophonia: Case report. European Psychiatry ,41, S644.
+Webber, T. A., Johnson, P. L., & Storch, E. A. (2014). Pediatric misophonia with comorbid obsessive ‐compulsive spectrum
+disorders. General Hospital Psychiatry ,36(2), 231 –e1.
+Webber, T. A., & Storch, E. A. (2015). Toward a theoretical model of misophonia. General Hospital Psychiatry ,37(4),
+369 –370.
+Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014). Misophonia: Incidence, phenomenology, and clinical correlates
+in an undergraduate student sample. Journal of Clinical Psychology ,70(10), 994 –1007.
+Zhou, X., Wu, M. S., & Storch, E. A. (2017). Misophonia symptoms among Chinese university students: Incidence, associated
+impairment, and clinical correlates. Journal of Obsessive ‐Compulsive and Related Disorders ,14,7–12.
+SUPPORTING INFORMATION
+Additional supporting information may be found online in the Supporting Information section at the end of the
+article.
+How to cite this article: Potgieter I, MacDonald C, Partridge L, Cima R, Sheldrake J, Hoare DJ. Misophonia:
+A scoping review of research. J. Clin. Psychol . 2019;75:1203 –1218. https://doi.org/10.1002/jclp.227711218 |POTGIETER ET AL.
+
+Copyright
+of
+Journal
+of
+Clinical
+Psychology
+is
+the
+property
+of
+John
+Wiley
+&
+Sons,
+Inc.
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

@@ -1,0 +1,262 @@
+## Right hemisphere ventral stream for emotional prosody identi /uniFB01 cation
+
+## Evidence from acute stroke
+
+Shannon M. Sheppard, PhD, Lynsey M. Keator, MA, CCC-SLP, Bonnie L. Breining, PhD, Amy E. Wright, BA, Sadhvi Saxena, MS, MHS, Donna C. Tippett, MPH, MA, CCC-SLP, MPH, and Argye E. Hillis, MD, MA
+
+Neurology ® 2020;94:e1013-e1020. doi:10.1212/WNL.0000000000008870
+
+## Abstract
+
+## Objective
+
+To determine whether right ventral stream and limbic structures (including posterior superior temporal gyrus [STG], STG, temporal pole, inferior frontal gyrus pars orbitalis, orbitofrontal cortex, amygdala, anterior cingulate, gyrus, and the sagittal stratum) are implicated in emotional prosody identi /uniFB01 cation.
+
+## Methods
+
+Patients with MRI scans within 48 hours of unilateral right hemisphere ischemic stroke were enrolled. Participants were presented with 24 sentences with neutral semantic content spoken with happy, sad, angry, afraid, surprised, or bored prosody and chose which emotion the speaker was feeling based on tone of voice. Multivariable linear regression was used to identify individual predictors of emotional prosody identi /uniFB01 cation accuracy from a model, including percent damage to proposed right hemisphere structures, age, education, and lesion volume across all emotions (overall emotion identi /uniFB01 cation) and 6 individual emotions. Patterns of recovery were also examined at the chronic stage.
+
+## Results
+
+The overall emotion identi /uniFB01 cation model was signi /uniFB01 cant (adjusted r 2 = 0.52; p = 0.043); greater damage to right posterior STG ( p = 0.038) and older age ( p = 0.009) were individual predictors of impairment. The model for recognition of fear was also signi /uniFB01 cant (adjusted r 2 = 0.77; p = 0.002), with greater damage to right amygdala ( p = 0.047), older age ( p &lt; 0.001), and less education ( p = 0.005) as individual predictors. Over half of patients with chronic stroke had residual impairments.
+
+## Conclusions
+
+Right posterior STG in the right hemisphere ventral stream is critical for emotion identi /uniFB01 cation in speech. Patients with stroke with damage to this area should be assessed for emotion identi /uniFB01 cation impairment.
+
+From the Departments of Neurology (S.M.S., L.M.K., B.L.B., A.E.W., S.S., D.C.T., A.E.H.), Physical Medicine and Rehabilitation (D.C.T., A.E.H.), and Otolaryngology -Head and Neck Surgery (D.C.T.), Johns Hopkins University School of Medicine; and Department of Cognitive Science (A.E.H.), Krieger School of Arts and Sciences, Johns Hopkins University, Baltimore, MD.
+
+Go to Neurology.org/N for full disclosures. Funding information and disclosures deemed relevant by the authors, if any, are provided at the end of the article.
+
+## Correspondence
+
+Dr. Sheppard sheppard@jhmi.edu
+
+## Glossary
+
+DWI = di /uniFB00 usion-weighted imaging; IFG = inferior frontal gyrus; OFC = orbitofrontal cortex; RH = right hemisphere; STG = superior temporal gyrus; STS = superior temporal sulcus.
+
+Comprehending the intended meaning of a speaker requires understanding both the content of what is said and the emotional prosody (expression of emotion in speech). The same words shouted in anger have a very di /uniFB00 erent meaning when exclaimed with joy (e.g., ' It s ' you! ). Damage to right hemi-' sphere (RH) regions is associated with di /uniFB03 culty understanding emotional prosody, 1 -5 termed emotional or a /uniFB00 ective receptive aprosodia. Poststroke aprosodia is associated with decreased marital satisfaction 6 and increased caregiver burden. 7
+
+patients had a history of hypertension prior to stroke (15/23), several patients were tobacco users at time of stroke (8/23), and a small number of patients (3/23) had diabetes.
+
+Schirmer and Kotz 8 proposed RH ventral (sound-to-meaning) and dorsal (sound-to-articulation) streams for processing emotional prosody, analogous to left hemisphere streams for language processing. 9,10 The proposed RH ventral stream projects from the superior temporal gyrus (STG) to the anterior superior temporal sulcus (STS) and subsequently to frontal regions where evaluative judgments are made; subcortical structures also subserve emotional prosody identi /uniFB01 cation.
+
+Wepropose that identi /uniFB01 cation of emotional prosody relies on a right ventral stream and limbic structures, including posterior STG, STG, temporal pole, inferior frontal gyrus (IFG) pars orbitalis, orbitofrontal cortex (OFC), amygdala, anterior cingulate gyrus, and the sagittal stratum. We evaluated this hypothesis by examining relationships between damage to these structures and performance on an emotional prosody recognition task in a group of 23 patients with acute stroke. Studying the acute stage o /uniFB00 ers the advantage of examining lesion e /uniFB00 ects before any functional reorganization occurs during recovery. 11,12 We also hypothesized that not all patients recover from acute de /uniFB01 cits in emotional prosody identi /uniFB01 cation by the time of reevaluation at 6-12 months, suggesting that interventions are needed to address this de /uniFB01 cit.
+
+## Methods
+
+## Participants
+
+Weenrolled 23 patients (mean age 55.09 years, SD 17.22) with acute RH ischemic stroke who provided informed consent to participate in the study. The patients included 11 women and 12 men; 69.6% were African American and 30.4% were white. The majority of strokes were within the middle cerebral artery territory (78%), but also included were strokes within the posterior cerebral artery territory (13%), as well as 1 (4%) lenticulostriate stroke, and 1 (4%) stroke involving multiple territories. Stroke etiology was determined to be embolic in 43% of patients. At the acute stage of stroke 4 of the 23 patients were determined to have visual neglect, and 4 patients experienced cognitive and communication de cits /uniFB01 (other than prosodic de /uniFB01 cits) including impaired empathy and dysarthria. Many
+
+|
+
+All of the patients met the following criteria: (1) never had a previous symptomatic stroke (2 patients had experienced a single TIA previously; 1 patient was found to have small cerebellar infarcts, which were asymptomatic, as the patient was unaware that she had experienced any previous stroke); (2) were premorbid /uniFB02 uent speakers of English; (3) were right-handed; (4) did not have a neurologic disease other than stroke; (5) did not have reduced level of consciousness or receive ongoing sedation; and (6) had normal or corrected-to-normal auditory and visual acuity based on neurologic examination. At the acute time point, 23 patients were tested within 5 days of stroke. We conducted follow-up testing on 9 of these patients (mean age 47 years, SD 17.65; 2 women and 7 men) at the chronic time point, which was de /uniFB01 ned as at least 6 months after stroke. Performance on recognizing emotional prosody was compared to a group of 10 age-matched healthy control participants (mean age 53.33 years, SD 18.43; 8 women and 2 men).
+
+## Standard protocol approvals, registrations, and patient consents
+
+All of the participants in this study, or their legally authorized representative, provided informed consent using methods approved by the Johns Hopkins Institutional Review Board (protocol NA_00042097).
+
+All patients were evaluated with MRI di /uniFB00 usion-weighted imaging (DWI) and /uniFB02 uid-attenuated inversion recovery to rule out old lesions, susceptibility-weighted imaging to rule out hemorrhage, and T2-weighted imaging to check for other structural lesions. Scans were acquired clinically within 48 hours of admission on a 3.0T Siemens (Munich, Germany) Trio scanner. Whole-brain DWI had 40 slices with a 2.0 mm 3 voxel size. Technicians blinded to the prosody evaluation results identi /uniFB01 ed the presence or absence of tissue dysfunction, which was de/uniFB01 ned as dense ischemia/infarct (bright on DWI maps). These areas of tissue dysfunction were traced using MRIcron software 13 and were coregistered to the Johns Hopkins University atlas using SPM12 (nitrc.org/projects/clinicaltbx/). In this way, comparisons can be made across the participants in the study while preserving individual local features of each brain. 14
+
+Lesion overlap maps were created for all participants included at the acute time point using normalized DWI trace images and the corresponding lesion tracings (see lesion overlap map in /uniFB01 gure 1). The percent damage to each of the areas in the proposed RH ventral stream and underlying white matter
+
+Mapshowsthenumberofpatients with damage to each area. The color scale indicates the number of patients with damage to each area, ranging from 2 to 8 patients.
+
+structures (posterior STG, STG, temporal pole, IFG pars orbitalis, lateral OFC, amygdala, anterior cingulate gyrus, and the sagittal stratum) was calculated for each participant using NiiStat software (github.com/neurolabusc/NiiStat).
+
+As a control, we also evaluated the extent to which damage to dorsal stream structures could account for impaired identi /uniFB01 -cation of emotion in speech, independently of age, education, and lesion volume. Dorsal stream and underlying white matter structures include angular gyrus, supramarginal gyrus, posterior STG, premotor cortex, IFG opercularis, arcuate fasciculus, caudate nucleus, and putamen.
+
+were included in the analysis; thus, the model did not include the anterior cingulate gyrus. Next, we evaluated di /uniFB00 erences between patients with and without damage to any brain regions that were revealed as individual predictors in the model of overall emotion identi /uniFB01 cation in terms of age, education, and accuracy on recognizing 6 emotions using unpaired t tests. Multivariable linear regression was then repeated using the same model (percent accuracy on individual emotion recognition, age, education, lesion volume, percent damage to posterior STG, STG, temporal pole, IFG pars orbitalis, lateral OFC, amygdala, and sagittal stratum) for each of the 6 emotions individually.
+
+## Emotional prosody identification testing
+
+Participants listened to 24 prerecorded semantically neutral sentences (e.g., ' We walked through the park to get here. ) ' spoken by a female speaker with happy, sad, angry, afraid, surprised, or bored emotional prosody. After each sentence, the participants were presented with a screen on a laptop that displayed each of the 6 possible emotion words and were asked to select the emotion they believed the speaker was feeling based on the tone of voice. The 6 emotion words were presented in 2 vertical columns presented in the center of the screen. Emotion words were presented in the same order for each item. Prior to the emotional prosody task, patients were tested for presence of visual neglect, and in those cases the emotion words were presented on the patients ' non-neglect side. Patients were not given a time limit for a response. In cases where they were not sure about their answer, they were encouraged to select 1 emotion from the 6 emotions before moving to the next item. This task was given at the acute (n = 23) and chronic (n = 9) time points. Impaired performance was de /uniFB01 ned as performance 1 SD below the mean of the control group s performance. ' 15,16
+
+## Statistical analysis
+
+Multivariable linear regression was used to identify the independent predictors of overall emotional prosody identi /uniFB01 cation impairment (percent accuracy on overall emotion recognition task). The following independent variables were entered into the initial model: percent damage to each of 7 regions of interest (posterior STG, STG, temporal pole, IFG pars orbitalis, lateral OFC, amygdala, sagittal stratum), overall lesion volume, age, and education. Only regions from the proposed ventral stream where at least 2 participants had damage
+
+As a control, we also repeated the same analyses, including percent accuracy on the emotion recognition task, age, education, and lesion volume, along with percent damage to dorsal stream structures in place of ventral stream structures (angular gyrus, supramarginal gyrus, posterior STG, premotor cortex, IFG opercularis, arcuate fasciculus, caudate nucleus, and putamen).
+
+## Data availability
+
+Anonymized data not published within this article will be made available by request from any quali /uniFB01 ed investigator.
+
+## Results
+
+## Healthy controls
+
+## Overall emotional prosody identification and individual emotions
+
+The controls attained a mean accuracy (SD) of 82.50% (5.20%) for overall emotional prosody identi /uniFB01 cation. The accuracy for each individual emotion was 95.00% (10.54%) for happy, 95.00% (15.81%) for sad, 97.22% (8.33%) for angry, 27.78% (31.73%) for afraid, 100% (0%) for surprised, and 80.56% (16.67%) for bored sentences. The controls were best able to identify surprised prosody and had the most di /uniFB03 culty with identifying fearful prosody.
+
+## Patients with RH stroke
+
+## Acute time point
+
+Overall emotional prosody identification
+
+Overall emotional prosody identi /uniFB01 cation was impaired relative to controls in 16/23 patients with acute RH stroke. The group of 23 patients achieved a mean accuracy (SD) of
+
+Table 1 Multivariable model for percent accuracy of overall emotion identification
+
+|                    | Unstandardized coefficients   | Unstandardized coefficients   | Standardized coefficient   | Standardized coefficient   |         |
+|--------------------|-------------------------------|-------------------------------|----------------------------|----------------------------|---------|
+| Variable           | β                             | Standard error                | β                          | t                          | p Value |
+| Constant           | 72.280                        | 19.150                        | 0.000                      | 3.775                      | 0.004 a |
+| Age, y             | - 0.852                       | 0.263                         | - 0.798                    | - 3.243                    | 0.009 a |
+| Education, y       | 2.562                         | 1.539                         | 0.453                      | 1.665                      | 0.127   |
+| Lesion volume      | 4.881e-05                     | 3.934e-04                     | 0.104                      | 0.124                      | 0.904   |
+| Posterior STG      | - 0.903                       | - 0.378                       | - 1.046                    | - 2.391                    | 0.038 a |
+| STG                | 0.379                         | 0.650                         | 0.448                      | 0.583                      | 0.573   |
+| Temporal pole      | - 1.216                       | 0.918                         | - 1.284                    | - 1.325                    | 0.215   |
+| IFG pars orbitalis | 0.354                         | 0.979                         | 0.341                      | 0.362                      | 0.725   |
+| Lateral OFC        | 0.612                         | 1.164                         | 0.354                      | 0.526                      | 0.611   |
+| Amygdala           | - 2.296                       | 2.367                         | - 0.617                    | - 0.970                    | 0.355   |
+| Sagittal stratum   | 2.310                         | 1.428                         | 1.051                      | 1.617                      | 0.137   |
+
+Abbreviations: IFG = inferior frontal gyrus; OFC = orbitofrontal cortex; STG = superior temporal gyrus.
+
+- a Significant at an α level of p &lt; 0.05.
+
+57.25% (19.67%) vs 82.50% (5.20%) in age-matched controls. The model for overall emotion identi /uniFB01 cation was signi /uniFB01 cant, F10,10 = 3.15, p = 0.043, and accounted for approximately 52% of the variance ( r 2 = 0.76, adjusted r 2 = 0.52) (table 1). Individual predictors of overall emotion identi /uniFB01 cation impairment were older age ( p = 0.009) and greater damage to posterior STG ( p = 0.038) ( /uniFB01 gure 2A). Wecompared patients with and without damage to posterior STG on age, education, lesion volume, and percent accuracy identifying happy, sad, angry, afraid, surprised, and bored emotions in speech. Patients with right posterior STG lesions had signi /uniFB01 cantly larger lesion volume ( t = 3.07, p = 0.006) and were signi /uniFB01 cantly worse at recognizing happy ( t = 4.32, p &lt; 0.001), sad ( t = 3.48, p = 0.001), angry ( t = 2.90, p = 0.004), and bored ( t = 2.12, p = 0.023) emotional prosody (table 2). In addition, the multivariable model evaluating dorsal stream structures in place of ventral stream structures, along with age, education, and lesion volume, was not signi /uniFB01 cant.
+
+## Identification of individual emotions in speech
+
+The mean accuracy (SD) for identifying each individual emotion was 66.25% (30.65%) for happy, 73.75% (29.77%) for sad, 53.75% (36.52%) for angry, 11.25% (15.12%) for afraid, 78.75% (23.33%) for surprised, and 43.75% (29.10%) for bored. The patients displayed the same pattern as controls, with highest accuracy identifying surprised prosody and lowest accuracy identifying fearful sentences. Their accuracy was lower for each individual emotion when compared to controls.
+
+Of the multivariable linear regression models evaluating emotion identi /uniFB01 cation in each of the 6 emotions, only the
+
+|
+
+fear identi /uniFB01 cation model was signi /uniFB01 cant, F10,10 = 7.61, p = 0.002. This model accounted for approximately 77% of the variance ( r 2 = 0.88, adjusted r 2 = 0.77). Individual independent predictors of lower accuracy of fearful prosody identi /uniFB01 cation were percent damage to the right amygdala ( p = 0.047) ( /uniFB01 gure 2B), older age ( p &lt; 0.001), and less education ( p = 0.005). No other predictors were independently associated with the error rate of emotion identi /uniFB01 cation in fearful speech. Furthermore, no models evaluating emotion identi /uniFB01 cation in each of the 6 emotions using dorsal stream structures were signi /uniFB01 cant.
+
+## Chronic time point
+
+Nine patients were also tested at the chronic time point (at least 6 months poststroke) to test the hypothesis that only a subset of people with RH ischemic stroke recover emotional prosody identi /uniFB01 cation without speci /uniFB01 c intervention directed toward this de /uniFB01 cit. Five of these patients had impaired overall emotional prosody identi /uniFB01 cation acutely and 4 patients were impaired at the chronic time point. Two patients with impaired overall emotional prosody identi /uniFB01 cation acutely recovered to normal at the chronic stage. However, one patient who performed within normal limits acutely experienced a decline in emotional prosody identi /uniFB01 cation and was impaired at chronic follow-up testing. Imaging obtained at the chronic stage con /uniFB01 rmed that she did not have an extension of her infarct or a new infarct that could explain her decline. Three of the 5 patients with unimpaired emotion identi /uniFB01 cation at the chronic stage were also unimpaired at the acute time point, meaning only 2 patients with impairment at baseline recovered to normal performance. One additional patient improved but still had impaired overall emotion identi /uniFB01 cation.
+
+Table 2 Comparing participants with and without posterior superior temporal gyrus (STG) lesions
+
+| Variable           |   Without posterior STG lesions |   With posterior STG lesions | t      | p Value   |
+|--------------------|---------------------------------|------------------------------|--------|-----------|
+| Age, y             |                           54.08 |                        56.4  | - 0.31 | 0.378     |
+| Education, y       |                           14.08 |                        15.22 | - 0.75 | 0.231     |
+| Happy %correct     |                           82.69 |                        35.1  | 4.32   | <0.001 a  |
+| Sad %correct       |                           88.46 |                        50.1  | 3.48   | 0.001 a   |
+| Angry %correct     |                           73.08 |                        32.6  | 2.90   | 0.004 a   |
+| Afraid %correct    |                            7.69 |                        15.03 | - 1.19 | 0.123     |
+| Surprised %correct |                           82.69 |                        67.6  | 1.32   | 0.100     |
+| Bored %correct     |                           55.77 |                        30.1  | 2.12   | 0.023 a   |
+
+- a Significant at an α level of p &lt; 0.05.
+
+## Discussion
+
+We con rmed that identi /uniFB01 /uniFB01 cation of emotional prosody is often impaired in patients with acute RH strokes. This result is in line with previous studies showing that RH damage often results in di /uniFB03 culty recognizing emotional tones of voice. 3,5,17 More importantly, we tested the hypothesis that damage to the RH ventral stream would explain impairment in emotional prosody identi /uniFB01 cation, independently of demographics and overall lesion volume. We con /uniFB01 rmed that our model including RH ventral stream structures, as well as age, education, and lesion volume, predicted performance on an emotion recognition task. Older age and greater damage to the right posterior STG were independent predictors of impairment in overall emotion identi /uniFB01 cation. The analyses of individual emotions only revealed a signi /uniFB01 cant model for the identi /uniFB01 -cation of fearful speech. Signi /uniFB01 cant individual predictors of impaired identi /uniFB01 cation of fear in speech included greater percent damage to the amygdala, older age, and less education.
+
+Schirmer and Kotz 8 proposed a 3-stage model for the identi /uniFB01 cation of emotion in speech, of which STG and amygdala play essential roles. Stage 1 (sensory processing) consists of processing speech in bilateral auditory processing areas. Stage 2 (integration) consists of integrating emotionally meaningful acoustic cues along the auditory ' what ' processing stream from STG to anterior STS. During this stage, the emotional signi /uniFB01 cance of vocalizations is encoded. Finally, in stage 3 (cognition), emotionally signi /uniFB01 cant information is made available for higher-order cognitive processing, including evaluative judgments, in the right IFG and OFC. The integration of emotional prosody with language also engages the left IFG. Schirmer and Kotz 8 also proposed that subcortical structures, including the amygdala, are also important to emotional prosody identi /uniFB01 cation. For example, they suggested that the amygdala mediates the processing of speci /uniFB01 c emotional expressions that are either unexpected or important, such as changes in prosody signaling a threat.
+
+Our /uniFB01 ndings speci /uniFB01 cally implicate the right posterior STG in overall emotional prosody identi /uniFB01 cation. The right posterior STG is part of the proposed ventral stream for identifying emotional prosody and has been associated with emotional prosody identi /uniFB01 cation in several previous studies. For example, Fr¨hholz et al. u 18 investigated white matter /uniFB01 ber connectivity between regions responding to emotional prosody in neurologically healthy participants, and found that right posterior STG was sensitive to variations in pitch and intensity in emotional prosody. The /uniFB01 nding that older age was an individual predictor of impaired emotion identi /uniFB01 cation was not surprising given that both pitch identi /uniFB01 cation 19 and emotion identi /uniFB01 cation 20,21 skills decline as individuals age even in neurologically unimpaired adults, and that older age is associated with poorer functional and cognitive outcomes following stroke. 22 -25 However, our results are novel in showing that right posterior STG damage is independent of age and total lesion volume.
+
+Our /uniFB01 ndings also suggest that the right amygdala is essential for the recognition of fearful speech. This is intriguing, since functional neuroimaging studies in neurologically healthy participants 26,27 and lesion studies 28,29 have implicated the amygdala in recognizing fear in facial expressions. However, in a study of patients with acute stroke, Tippett et al. 30 found a strong association between lesions in right amygdala and impaired recognition of happy and angry facial expressions, but not fearful expressions. They proposed that the role of the amygdala is more complex than simply the recognition of fear in facial expression alone. This conclusion corresponds with the /uniFB01 ndings of Phillips et al., 31 who found that the amygdala is involved in more than just the identi /uniFB01 cation of fearful facial expressions, and was also activated by fearful speech in an fMRI study. Furthermore, Leitman et al., 32 using MRI in neurologically unimpaired participants, found an RH ventral temporo-frontal network activated in emotional prosody recognition. In addition, increased activation in the right amygdala and temporal cortex was found when the stimuli
+
+contained rich emotional prosodic cues, whereas increased activation in IFG was observed when the emotional prosody was more ambiguous. Our results lend further support to the /uniFB01 nding that the right amygdala is essential for identifying fear in speech. Furthermore, our results indicated that education was also an independent predictor of recognizing fear. Both patients and controls had the most di /uniFB03 culty recognizing fearful speech. Perhaps a higher education level was an independent predictor of fearful speech recognition, and not overall emotion recognition, because it helped patients overcome this more di /uniFB03 cult task. Several studies have found that education may be neuroprotective against cognitive decline or may promote neuroplasticity following stroke, making people with higher education more resilient to damage. 33,34
+
+targeting emotional recognition from prosody might be warranted.
+
+Testing of 9 patients at the chronic time point revealed that 2 patients improved to normal emotional prosody identi /uniFB01 cation from the acute to chronic stages, 3 patients remained impaired, 3 patients remained unimpaired, and 1 patient had weaker emotional prosody recognition skills at follow-up testing. These results are comparable to studies of change in language 35 and cognition 22,36,37 after stroke, which show that up to 25% show decline in performance after the acute stage of stroke (possibly due to vascular dementia triggered by the stroke). While there were a small number of patients at the chronic time point, these data suggest that a large portion of patients with acute de /uniFB01 cits will experience chronic receptive emotional aprosodic de /uniFB01 cits, indicating that intervention
+
+|
+
+It should be noted that our study had several limitations. There were a relatively small number of participants with longitudinal data at both the acute and chronic stages, which prevented us from conducting brain-behavior mapping in chronic patients. Moreover, while posterior STG was implicated at the acute stage, only 1 of the 9 patients at the chronic stage had a lesion in posterior STG. We therefore were not able to determine whether a posterior STG lesion would also be implicated in chronic de /uniFB01 cits. Future research will need to examine longitudinal changes in emotional prosody identi /uniFB01 -cation in a larger group of participants to gain a better understanding of whether and how these de /uniFB01 cits evolve over time. Furthermore, we do not have information about the e /uniFB00 ect of emotional prosody identi /uniFB01 cation de /uniFB01 cits on patients and their families. Future studies will examine the functional nature of emotional prosody impairments.
+
+Overall, our results suggest that patients with damage to the RH ventral stream and underlying subcortical structures (particularly right STG and amygdala) should be assessed for their ability to perceive emotion in speech. This assessment can be done at bedside by instructing patients to try to judge the emotional tone of voice of sentences (e.g., happy, sad, angry) spoken by a clinician. The clinician could then produce a neutral content sentence (e.g., ' He left. ' ) with happy, angry,
+
+and sad tone of voice. Clinically identifying patients with impaired emotional prosody identi /uniFB01 cation would bene /uniFB01 t both patients and their families, particularly since research demonstrates that emotional prosody disorders negatively a /uniFB00 ect quality of life in patients and families. 38,39 If patients are found to have a de /uniFB01 cit, they can be made aware that they will have di /uniFB03 culty interpreting others ' emotions, and should ask people to explicitly state their emotions. It would be bene /uniFB01 cial to educate family members by explaining that the patient may have di /uniFB03 culty with emotional prosody identi /uniFB01 cation and recommend they explicitly state their feelings and emotions whenever possible to avoid confusing and frustrating communication breakdowns. Finally, future studies should develop interventions to improve emotional prosody recognition after RH stroke.
+
+## Study funding
+
+This work was supported by the NIH (National Institute of Deafness and Other Communication Disorders) (R01 DC015466).
+
+## Disclosure
+
+S. Sheppard, L. Keator, B. Breining, A. Wright, S. Saxena, and D. Tippett report no disclosures relevant to the manuscript. A. Hillis receives compensation from the American Heart Association as associate editor of Stroke and from Elsevier as associate editor of Practice Update Neurology and has received compensation from Axovant as a member of a data safety monitoring board. Go to Neurology.org/N for full disclosures.
+
+## Publication history
+
+Received by Neurology December 24, 2018. Accepted in /uniFB01 nal form September 4, 2019.
+
+## Appendix Authors
+
+| Name                          | Location                                                   | Role   | Contribution                                                                                       |
+|-------------------------------|------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------------|
+| Shannon M. Sheppard, PhD      | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Study design, acquisition of data, analyzed data, drafted the manuscript for intellectual content. |
+| Lynsey M. Keator, MA, CCC-SLP | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Acquisition of data, critical revision of the manuscript for important intellectual content.       |
+| Bonnie L. Breining, PhD       | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Interpreted the data, critical revision of manuscript for important intellectual content.          |
+| Amy E. Wright, BA             | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Major role in acquisition of data.                                                                 |
+
+## Appendix (continued)
+
+| Name                               | Location                                                   | Role   | Contribution                                                                                                         |
+|------------------------------------|------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
+| Sadhvi Saxena, MS, MHS             | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Acquisition of data, critical revision of the manuscript for important intellectual content.                         |
+| Donna C. Tippett, MPH, MA, CCC-SLP | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Interpreted the data, critical revision of manuscript for important intellectual content.                            |
+| Argye E. Hillis, MD                | Johns Hopkins University School of Medicine, Baltimore, MD | Author | Study concept and design, critical revision of the manuscript for important intellectual content, study supervision. |
+
+## References
+
+- 1. Dara C, Bang J, Gottesman RF, Hillis AE. Right hemisphere dysfunction is better predicted by emotional prosody impairments as compared to neglect. J Neurol Transl Neurosci 2014;2:1037.
+- 2. Wright AE, Davis C, Gomez Y, et al. Acute ischemic lesions associated with impairments in expression and recognition of a /uniFB00 ective prosody. Perspect ASHA Spec Interest Groups 2016;1:82 -95.
+- 3. Wright A, Saxena S, Sheppard SM, Hillis AE. Selective impairments in components of a /uniFB00 ective prosody in neurologically impaired individuals. Brain Cogn 2018;124:29 -36.
+- 4. Ross ED, Monnot M. A /uniFB00 ective prosody: what do comprehension errors tell us about hemispheric lateralization of emotions, sex and aging e /uniFB00 ects, and the role of cognitive appraisal? Neuropsychologia 2011;49:866 -877.
+- 5. Ross ED, Monnot M. Neurology of a /uniFB00 ective prosody and its functional -anatomic organization in right hemisphere. Brain Lang 2008;104:51 -74.
+- 6. Blonder LX, Pettigrew LC, Kryscio RJ. Emotion recognition and marital satisfaction in stroke. J Clin Exp Neuropsychol 2012;34:634 -642.
+- 7. Sheehan O, Hillis A. Impairments in communicating emotions through prosody of speech and facial expression are associated with reduced quality of life and increased caregiver burden after stroke. Submitted.
+- 8. Schirmer A, Kotz SA. Beyond the right hemisphere: brain mechanisms mediating vocal emotional processing. Trends Cogn Sci 2006;10:24 -30.
+- 9. Hickok G, Poeppel D. Dorsal and ventral streams: a framework for understanding aspects of the functional anatomy of language. Cognition 2004;92:67 -99.
+- 10. Hickok G, Poeppel D. The cortical organization of speech processing. Nat Rev Neurosci 2007;8:393 -402.
+- 11. Marsh EB, Hillis AE. Recovery from aphasia following brain injury: the role of reorganization. In: Moller AR, ed. Progress in Brain Research: vol 157: Reprogramming of the Brain. Amsterdam: Elsevier; 2006:143 -156.
+- 12. Jarso S, Li M, Faria A, et al. Distinct mechanisms and timing of language recovery after stroke. Cogn Neuropsychol 2013;30:454 -475.
+
+13.
+
+Rorden C, Karnath HO, Bonilha L. Improving lesion-symptom mapping. J Cogn
+
+Neurosci 2007;19:1081
+
+-
+
+1088.
+
+- 14. Rorden C, Brett M. Stereotaxic display of brain lesions. Behav Neurol 2000;12: 191 -200.
+- 15. Mike A, Strammer E, Aradi M, et al. Disconnection mechanism and regional cortical atrophy contribute to impaired processing of facial expressions and theory of mind in multiple sclerosis: a structural MRI study. PLoS One 2013;8:e82422.
+- 16. Ganguli M, Dodge H, Shen C, DeKosky S. Mild cognitive impairment, amnestic type: an epidemiologic study. Neurology 2004;63:115 -121.
+- 17. Davis CL, Oishi K, Faria AV, et al. White matter tracts critical for recognition of sarcasm. Neurocase 2016;22:22 -29.
+- 18. Fr¨hholz S, Gschwind M, Grandjean D. Bilateral dorsal and ventral u /uniFB01 ber pathways for the processing of a /uniFB00 ective prosody identi /uniFB01 ed by probabilistic /uniFB01 ber tracking. NeuroImage 2015;109:27 -34.
+- 19. Clinard CG, Tremblay KL, Krishnan AR. Aging alters the perception and physiological representation of frequency: evidence from human frequency-following response recordings. Hearing Res 2010;264:48 -55.
+- 20. Halberstadt J, Ru /uniFB00 man T, Murray J, Taumoepeau M, Ryan M. Emotion perception explains age-related di /uniFB00 erences in the perception of social ga /uniFB00 es. Psychol Aging 2011; 26:133 -136.
+- 21. Ryan M, Murray J, Ru /uniFB00 man T. Aging and the perception of emotion: processing vocal expressions alone and with faces. Exp Aging Res 2009;36:1 -22.
+- 22. Gottesman RF, Hillis AE. Predictors and assessment of cognitive dysfunction resulting from ischaemic stroke. Lancet Neurol 2010;9:895 -905.
+- 23. Jehkonen M, Ahonen JP, Dastidar P, et al. Visual neglect as a predictor of functional outcome one year after stroke. Acta Neurol Scand 2000;101:195 -201.
+
+- 24. Klimkowicz-Mrowiec A, Dziedzic T, S owik A, Szczudlik A. Predictors of poststroke ł dementia: results of a hospital-based study in Poland. Dement Geriatr Cogn Disord 2006;21:328 -334.
+- 25. Wade DT, Hewer RL. Stroke: associations with age, sex, and side of weakness. Arch Phys Med Rehabil 1986;67:540 -545.
+- 26. Fusar-Poli P, Placentino A, Carletti F, et al. Functional atlas of emotional faces processing: a voxel-based meta-analysis of 105 functional magnetic resonance imaging studies. J Psychiatry Neurosci 2009;34:418 -432.
+- 27. Gur RC, Schroeder L, Turner T, et al. Brain activation during facial emotion processing. NeuroImage 2002;16(3, part A):651 -662.
+- 28. Adolphs R, Tranel D, Damasio H, Damasio A. Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. Nature 1994; 372:669 -672.
+- 29. Calder AJ. Facial emotion recognition after bilateral amygdala damage: di /uniFB00 erentially severe impairment of fear. Cogn Neuropsychol 1996;13:699 -745.
+- 30. Tippett DC, Godin BR, Oishi K, et al. Impaired recognition of emotional faces after stroke involving right amygdala or insula. Semin Speech Lang 2018;39:87 -100.
+- 31. Phillips ML, Young AW, Scott SK, et al. Neural responses to facial and vocal expressions of fear and disgust. Proc R Soc Lond B: Biol Sci 1998;265: 1809 -1817.
+
+|
+
+- 32. Leitman DI, Wolf DH, Ragland JD, et al. ' It s not what you say, but how you say it : ' ' a reciprocal temporo-frontal network for a /uniFB00 ective prosody. Front Hum Neurosci 2010;4:19.
+- 33. Gonzalez-Fernandez M, Davis C, Molitoris JJ, Newhart M, Leigh R, Hillis AE. Formal education, socioeconomic status, and the severity of aphasia after stroke. Arch Phys Med Rehabil 2011;92:1809 -1813.
+- 34. Hillis AE, Tippett DC. Stroke recovery: surprising in /uniFB02 uences and residual consequences. Adv Med 2014;2014:378263.
+- 35. Sebastian R, Long C, Purcell JJ, et al. Imaging network level language recovery after left PCA stroke. Restorative Neurol Neurosci 2016;34:473 -489.
+- 36. Ojala-Oksala J, Jokinen H, Kopsi V, et al. Educational history is an independent predictor of cognitive de /uniFB01 cits and long-term survival in postacute patients with mild to moderate ischemic stroke. Stroke 2012;43:2931 -2935.
+- 37. Brainin M, Tuomilehto J, Heiss W-D, et al. Post-stroke cognitive decline: an update and perspectives for clinical research. Eur J Neurol 2015;22:229 -238.
+- 38. Heilman K. Matter of Mind: A Neurologist s View of Brain ' -Behavior Relationships. New York: Oxford University Press; 2002.
+- 39. Ross E. Right hemisphere syndromes and the neurology of emotions. In: Behavioral Neurology and the Legacy of Norman Geschwind. Philadelphia: Lippincott-Raven; 1997.

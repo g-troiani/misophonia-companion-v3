@@ -1,0 +1,544 @@
+For any issues with this document, please contact your library.
+
+____________________________________________________________________________________
+
+Title: Journal of affective disorders.
+
+ArticleTitle: Network analysis of misophonia symptoms using the Duke Misophonia Questionnaire
+
+ArticleAuthor: Shan
+
+Date: 2024
+
+OCLC - 38911953; ISSN - 01650327; LCN - 2004233074;
+
+Publisher: 2024-10-01
+
+Source: LibKeyNomad
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+## Journal Pre-proof
+
+Network analysis of misophonia symptoms using the Duke Misophonia Questionnaire
+
+Yanyan Shan, Marta Siepsiak, Kibby McMahon, Rachel Guetta, Lisalynn Kelley, Tao Chen, M. Zachary Rosenthal
+
+PII:
+
+S0165-0327(24)01794-4
+
+DOI:
+
+https://doi.org/10.1016/j.jad.2024.10.105
+
+Reference:
+
+JAD 18478
+
+To appear in:
+
+Received date:
+
+17 June 2024
+
+Revised date:
+
+12 October 2024
+
+Accepted date:
+
+20 October 2024
+
+Please cite this article as: Y . Shan, M. Siepsiak, K. McMahon, et al., Network analysis of misophonia symptoms using the Duke Misophonia Questionnaire, (2024), https://doi.org/ 10.1016/j.jad.2024.10.105
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version will undergo additional copyediting, typesetting and review before it is published in its final form, but we are providing this version to give early visibility of the article. Please note that, during the production process, errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+© 2024 Published by Elsevier B.V.
+
+## Journal Pre-proof
+
+## Network Analysis of Misophonia Symptoms Using the Duke Misophonia Questionnaire
+
+Yanyan Shan a,b , Marta Siepsiak , Kibby McMahon a,b c , Rachel Guetta a,b , Lisalynn Kelley a,b ,
+
+Tao Chen d , M. Zachary Rosenthal a,b
+
+- a Department of Psychiatry &amp; Behavioral Sciences, Duke University Medical Center, Durham,
+
+North Carolina, United States of America;
+
+b Department of Psychology &amp; Neuroscience, Duke University, Durham, North Carolina,
+
+Department of Psychology and Neuroscience, Duke University. Email: yanyan.shan@duke.edu.
+
+Journal Pre-proof United States of America; c Department of Psychology in Warsaw, SWPS University, Warsaw, Poland; d Brain and Mind Centre, University of Sydney, Sydney, Australia. Declaration of Interest Statement Dr. Rosenthal receives book royalties from the American Psychological Association and is a consultant for several digital health companies (Odin, RealizedCare). All of this work is unrelated to misophonia. In addition, Dr. Rosenthal provides clinical training workshops about misophonia to community clinicians for a fee. We have no other conflicts of interest to disclose. *Correspondence concerning this article should be addressed to Yanyan Shan,
+
+## Abstract
+
+Background : Misophonia is a complex disorder characterized by a strong aversion to specific sounds, leading to significant distress and  impairment.  While  the  Duke  Misophonia Questionnaire (DMQ) is one of the most comprehensive and validated measures for assessing misophonia, the relative importance of specific subscales and items within the DMQ remains unclear. Network analysis enables an understanding of the interconnections among subscales, providing insights into which parts of the measure are most central to the others. This study employed  network  analysis  to  examine  the  interconnections  among  DMQ  subscales  and identify the most central components of misophonia symptomatology.
+
+Journal Pre-proof Methods : Network analysis was conducted on DMQ data from 144 adults with varying levels of misophonia symptoms. Four network models were examined: overall misophonia, symptoms, beliefs, and impairment. Sex differences were also explored. Results : The Impairment subscale emerged as the most central in the overall network for both males and females. Key items included cognitive reactions ("I need to get away from the sound," "I thought about physically hurting the person making the sound") as well as affective reactions (panic, anger) in the symptom sub-network, non-acceptance of misophonia beliefs ("I hate being like this") in the belief sub-network, and deterioration of self-esteem due to misophonia in the impairment sub-network. Females reported more severe cognitive and physiological symptoms than males.
+
+Conclusions : The DMQ Impairment subscale and specific items identified as most central in each network may represent key aspects of misophonia symptomatology. Prioritizing these components in assessment and intervention efforts may be beneficial when appropriate.
+
+Keywords : Misophonia, questionnaire, network analysis, impairment, symptom
+
+## 1. Introduction
+
+Misophonia is a complex and multifaceted disorder first defined by Jastreboff and Jastreboff (2001) to describe a particular aversion or decreased tolerance to specific sounds. Although the exact prevalence of misophonia remains unclear, studies estimate that close to 20% of the population may be affected (Vitoratou et al., 2021), with around 6% exhibiting clinically significant misophonia symptoms accompanied by associated impairment across work, school, social, and family domains (Dixon et al., 2024; Jakubovski et al., 2022; Kılıç et al., 2021; Zhou et al., 2017). Despite its relatively high prevalence and substantial impairments, misophonia remains significantly understudied.
+
+Journal Pre-proof The recent publication of a consensus definition of misophonia by an expert committee (Swedo et al., 2022) characterizes misophonia as a disorder in which specific sounds, such as repetitive human-produced (e.g., chewing) or environmental stimuli (e.g., clock ticking), evoke strongly aversive responses across multiple domains, including attentional (e.g., difficulty distracting), behavioral (e.g., avoidance, escape), physiological (e.g., increased heart rate, muscle tension) and affective (e.g., anger, disgust) reactions. However, it is essential to acknowledge that this definition is not conclusive, given the limited evidence available for this relatively newly discovered condition. Indeed, it is notable that (a) the research relied upon to determine the expert definition of misophonia largely was done using measures of misophonia with modest to minimal established psychometric support; and (b) the volume of research publications examining misophonia has rapidly increased during the three years since the expert definition was published. As our understanding of misophonia continues to evolve, particularly through research employing psychometrically validated measures and rigorous methodologies, it is likely that the definition will be refined and modified accordingly. To further our understanding of
+
+## Journal Pre-proof
+
+misophonia, it is crucial to utilize psychometrically sound instruments that can provide finegrained insights into the core features and underlying mechanisms of this condition.
+
+Several psychometrically validated self-report measures have been developed to assess misophonia, including the MisoQuest (Siepsiak et al., 2020), the Selective Sound Sensitivity Syndrome Scale (S-Five; Vitoratou et al., 2020), the Berlin Misophonia Questionnaire (BMQ; Remmert et al., 2022), the Duke-Vanderbilt Misophonia Screening Questionnaire (DVMSQ; Williams et al., 2022), the Sussex Misophonia Scale (SMS; Rinaldi et al., 2022; Simner et al., 2024), and the Misophonia Response Scale (MRS; Dibb et al., 2021). These measures all are valuable and can be used as self-report measures of misophonia.
+
+Journal Pre-proof The Duke Misophonia Questionnaire (DMQ; Rosenthal et al., 2021) is a psychometrically validated instrument that is used to comprehensively assess self-reported experiences related to misophonia with scales similar to the other validated measures as well as others that provide different information that may be useful in the context of treatment for misophonia. Its development involved a grassroots approach that generated and refined items based on input from a broad range of key stakeholders, including individuals with misophonia, their family members, clinicians, and scientists. This collaborative approach was conducted so that the DMQ would comprehensively capture the lived experiences and diverse perspectives of those affected by misophonia. Additionally, the DMQ underwent an extensive, iterative, and rigorous analytic process involving factor analysis and item response theory, lending strong support to its internal validity and reliability. The DMQ has nine subscales that cover a wide range of misophonic experiences, including trigger frequency, cognitive, affective, and physiological reactions, beliefs about misophonia, coping responses to misophonic triggers before, during, and after exposure, and impairments in functioning. It is currently being used by clinicians globally and is the process of being translated into several
+
+## Journal Pre-proof
+
+languages. However, because of its wide scope, the total DMQ is somewhat long with 86 items. Rosenthal et al. (2021) suggested that depending on the needs of researchers or clinicians, the DMQ may be used in its full form or selected derived composite scales. If research can identify which items or subscales of the DMQ play central roles in misophonia, clinicians and researchers would be more informed about how to use this measure with misophonia patients.
+
+Journal Pre-proof Network analysis offers a novel and elegant statistical approach to identifying the most important subscales and items in the DMQ, complementing the insights gained from previous psychometric analyses (Rosenthal et al., 2021). Whereas factor analysis and item response theory used in the development of the DMQ were crucial for establishing its internal validity and reliability, these methods focus on identifying latent constructs by examining the correlations among individual items. In contrast, network analysis can explore the complex interrelationships and direct interactions among the various elements within a measure such as the DMQ (Borsboom, 2017; Roefs et al., 2022). By conceptualizing the DMQ as measuring a network of interconnected symptoms and constructs related to misophonia, network analysis can reveal which components are most important within the overall structure of the disorder. Centrality measures, such as strength and expected influence, quantify the importance of each element based on its connections to other elements in the network (Borsboom &amp; Cramer, 2013). Subscales or items with high centrality are likely to have a more significant impact on the overall misophonia syndrome, as changes in these central elements may affect the connected components (Robinaugh et al., 2016, 2020; Rodebaugh et al., 2018). By identifying these central components, network analysis can guide researchers and clinicians in prioritizing specific subscales or items when using the DMQ to identify targets of intervention. This targeted approach may enhance the efficiency of
+
+## Journal Pre-proof
+
+treatment, as focusing on the most influential aspects of misophonia may yield more significant improvements in overall symptom severity and quality of life.
+
+The present study aims to provide clinicians and researchers with guidance on which DMQ subscales and items are most closely related to the rest of the measure and can be prioritized when appropriate. We also anticipate that our findings will contribute to a more comprehensive understanding of misophonia symptomatology. We conducted four network analyses to explore the intricate interrelationships among various symptoms, beliefs, and impairments associated with misophonia. This information may enhance the efficiency of the DMQ in both research and clinical settings and potentially inform more targeted intervention approaches.
+
+Journal Pre-proof 2. Methods 2.1 Participants A total of 144 participants were drawn from a larger parent study, which investigated mental health features among adults with misophonia symptoms (Rosenthal et al., 2022). In the parent study, individuals aged 18 to 65 years old were recruited through an online screening process hosted on the Duke Center for Misophonia and Emotion Regulation's website. Recruitment and screening was conducted utilizing the REDCap platform (Harris et al., 2009). Ethical approval (Pro00102579) for the study was obtained from the Duke Health Institutional Review Board, and all participants provided informed consent by signing an econsent form within REDCap (Lawrence et al., 2020). Participants primarily learned about the study through online channels related to misophonia, such as web searches, the Duke Center for Misophonia and Emotion Regulation's website, social media platforms, and news coverage. While our recruitment strategy did not specifically target non-misophonic individuals, participants included those with varying levels of misophonia severity-from clinical to subclinical to asymptomatic. This approach allowed for a comprehensive
+
+## Journal Pre-proof
+
+examination of the condition. Some participants may have been drawn to the study out of general curiosity about sound sensitivity, even if they did not report misophonia symptoms.
+
+Participants were excluded from the study if they met at least one of the following criteria: a current diagnosis of a psychotic disorder, current mania, current anorexia, or an inability to read English. These criteria were assessed through the online screening survey and the Structured Clinical Interview for DSM-5 (SCID-5; First et al., 2015).
+
+## 2.2. Measures
+
+Journal Pre-proof The Duke Misophonia Questionnaire (DMQ; Rosenthal et al., 2021) is a self-report measure that comprehensively assesses various aspects of misophonia and aligns well with the components outlined in the recent "consensus definition" by Swedo et al. (2022). The DMQ has demonstrated robust psychometric properties, including good discriminant validity with an Area Under the Curve (AUC) of 0.82, effectively distinguishing between clinical and sub-clinical misophonia. It also shows strong convergent validity, with correlations ranging from 0.43 to 0.67 among its composite scales and 0.43 to 0.87 with existing misophonia measures (Rosenthal et al., 2021). In the current study, the DMQ exhibited excellent internal consistency reliability, with Cronbach's alpha coefficients as follows: affective responses, α = 0.83; physiological responses, α = 0.75; cognitive responses, α = 0.88; coping strategies before triggers, α = 0.80; coping strategies during triggers, α = 0.75; coping strategies after triggers, α = 0.77; impairment, α = 0.92; beliefs, α = 0.94. The Cronbach's alpha for the entire DMQ was α = 0.97, indicating excellent overall internal consistency reliability.
+
+The DMQ consists of 86 items organized into nine distinct subscales, including (1) trigger category and frequency, (2) affective responses, (3) physiological responses, (4) cognitive responses, (5) coping before, (6) coping during, and (7) coping after exposure to triggering sounds, (7) impairment, and (8) beliefs. Additionally, it includes two composite scales: (1) a composite symptoms scale, which combines the affective, physiological, and
+
+## Journal Pre-proof
+
+cognitive responses subscales, and (2) a composite coping scale, which integrates the three coping subscales.
+
+## 2.3 Data Analysis
+
+We performed descriptive and comparative analyses using IBM SPSS Statistics 26.0 and conducted network analysis using R software and JASP (Jeffrey's Amazing Statistics Program) (Version 0.17.2.1). For the descriptive and comparative analyses, independent samples t-tests were conducted to compare misophonia symptoms between males and females.
+
+The network analysis was performed using the extended Bayesian information criterion (EBIC) glasso model, with a tuning parameter of 0.5 for parsimony and interpretability, consistent with previous studies (McNally et al., 2017; Oliva et al., 2024; Zhao et al., 2022). Although we report all four centrality measures (i.e., betweenness, closeness, strength, and expected influence) to align with common practices in the field, our primary focus is on expected influence (Opsahl et al., 2010), based on recommendations from researchers for psychological networks (Bringmann et al., 2019; McNally, 2021). This choice
+
+Journal Pre-proof In network analysis, 'nodes' represent individual variables (in our case, misophonia symptoms), while 'edges' are the connections between these nodes, indicating the strength and direction of their relationships. The resulting network visually represents the complex interactions among symptoms. Our study encompassed four main network analyses. First, we conducted an overall network analysis integrating trigger frequency, Symptoms (i.e., affective, physiological, and cognitive responses), Impairment, and Beliefs subscales. In addition, to explore potential sex differences, we conducted separate network analyses for males and females, comparing the overall network structure and centrality measures between sexes. Second, we performed three item-level network analyses focusing separately on the Symptoms subscale, the Beliefs subscale, and the Impairment subscale.
+
+## Journal Pre-proof
+
+is based on the limitations of betweenness and closeness centrality measures when analyzing correlational networks. These measures treat correlations or associations as distances, assuming that information or influence flows along the shortest paths in the network. However, in a partial correlation network, edges represent conditional associations rather than physical distances or causal flow, making the interpretation of shortest paths as meaningful for centrality problematic (Borsboom et al., 2021). Strength centrality, which quantifies a node's connections and indicates its influence and connectivity, is often more robust. Expected influence centrality goes a step further by considering whether the interactions are positive or negative, providing a more accurate estimation of a node's influence, particularly in networks with negative correlations (McNally, 2021). Expected influence centrality provides critical insights into the most influential factors (Bringmann et al., 2019; McNally, 2021).
+
+Journal Pre-proof Sample size considerations in network analyses prioritize stability and accuracy over a specific number (Epskamp et al., 2018; Zeiler et al., 2021). Network stability was evaluated using the case-dropping subset bootstrap approach, which involves repeatedly estimating the network while dropping increasing proportions of cases and correlating the centrality measures of the original network with those of the subsetted networks. We used the correlation stability coefficient (CS-coefficient) to assess node centrality stability, aiming for values above 0.5, which indicate that the centrality estimates are stable under subsetting cases (Epskamp et al., 2018). Edge weight accuracy was determined using 95% confidence intervals calculated with non-parametric bootstrapping (1,000 iterations). Wide confidence intervals suggest that edge strength should be interpreted with caution, as they indicate less precision in the edge weight estimates (Epskamp et al., 2018).
+
+## 3. Results
+
+- 3.1. Demographic and clinical characteristics
+
+## Journal Pre-proof
+
+A total of 144 participants completed the eligibility screening and enrolled in the years (SD = 12.8). See Table 1 for the demographic characteristics of the sample.
+
+study, of whom 70.1% (n = 101) were female. The average age of the participants was 36.8 DMQ symptom scores of these participants ranged from 0 to 83 ( M = 43.46, SD = 18.04), with 53.5% reporting high misophonia symptoms (&gt; 41). For impairment, 55.6% reported minimal-mild (0-13), 41.6% moderate (14-38), and 2.8% severe impairment (39-48) ( M =
+
+13.35, SD = 10.19).
+
+The first network analysis examined the interrelationships among six misophonia subscales: Trigger Frequency, Affective, Physiological, Cognitive, Impairment, and Beliefs. Figure 1 presents the network plot for the overall misophonia network. Centrality measures (see Figure S1 in the supplemental material) indicated that Impairment had the highest expected influence (  = 1.23), suggesting it is the most influential variable in the network. z Cognitive Responses exhibited moderate expected influence (  = .76), while Physiological z Reactions showed the lowest expected influence (  = -1.44). Strong positive partial z correlations were observed between Impairment and Beliefs (  = .47), and Cognitive r Responses and Affective Responses (  = .46). r
+
+Journal Pre-proof Significant sex differences were found for Cognitive and Physiological Responses. Females reported significantly higher levels of Cognitive Responses ( M = 20.46, SD = 8.13) than males ( M = 16.42, SD = 9.22),  (142) = -2.62, t p = .010, d = 0.47, and higher Physiological Responses ( M = 7.63, SD = 4.44) than males ( M = 5.37, SD = 4.45),  (142) = t 2.79, p = .006, d = 0.51. However, no significant sex differences were observed for Affective Responses,  (142) = -0.98, t p = .331, d = 0.18, Impairment,  (142) = -0.48, t p = .632, d = 0.09, or Beliefs,  (142) = -0.95, t p = .344, d = 0.17. 3.2. The central factors and interrelationships in the overall misophonia network
+
+## Journal Pre-proof
+
+To explore potential sex differences in misophonia symptomatology, we conducted separate network analyses for males ( n = 43) and females ( n = 101). The overall network structure was similar for both sexes, with Impairment showing the highest expected influence (males:   = .901; females: z z = 1.377), followed by Cognitive Responses (males:   = .901; z females:   = .591). Physiological Responses demonstrated the least expected influence for z both sexes (males:   = -1.557; females: z z = -1.401).
+
+Journal Pre-proof Notable differences emerged in the expected influence of Affective Responses (males: z = .881; females: z = .173) and in the associations between symptom domains. The Trigger Frequency-Impairment partial correlation was stronger for females (  = .391) than for males r ( r = .237), while the Trigger Frequency-Affective Responses partial correlation was stronger for males (  = .415) than for females ( r r = .116). 3.3. The central factors and interrelationships in the symptom network The second network analysis investigated the interrelationships among 23 misophonia symptoms, including affective, cognitive and physiological reactions. The network plot for misophonia symptoms is presented in Figure 2, and centrality indices are displayed in Figure S2 (see supplemental material). The internalizing cognitive response "I need to get away from the sound" (Cog6;   = 1.92) and affective response "I felt panic" (Affect5; z z = 1.41) demonstrated the highest expected influence, followed by the externalizing cognitive response "I thought about physically hurting the person making the sound" (Cog10;   = .99) z and affective response "I felt angry" (Affect1; z = .92). In contrast, "I felt disgusted" (Affect3; z = -2.12) and "I trembled or shuddered" (Physio2;   = -1.61) exhibited the lowest expected z influence. Strong positive partial correlations were found between "I thought about pushing, poking, shoving, etc. the person making the sound" (Cog9) and "I thought about physically hurting the person making the sound" (Cog10) (  = .58), and "I felt angry" (Affect1) and "I r felt hateful" (Affect4) ( r = .44).
+
+## Journal Pre-proof
+
+## 3.4. The central factors and interrelationships in the belief network
+
+The third network analysis explored the interrelationships among 14 misophoniarelated beliefs. Figure 3 depicts the network plot for misophonia-related beliefs, and centrality indices are shown in Figure S3 (see supplemental material). The belief "I hate being like this" (Belief1) exhibited the highest expected influence ( z = 2.05), followed by "I am weak" (Belief8;   = 1.03). "I should have known how to cope earlier" (Belief11) z demonstrated the lowest expected influence (  = -1.93). Strong positive partial correlations z were observed between "I should get over it" (Belief6) and "I should be able to control my reaction to these sounds." (Belief9) ( r = .41).
+
+Strong positive partial correlations were found between "My self-esteem" (Imp7) and "My ability to be myself" (Imp12) (  = .47), and "My ability to be with other people" (Imp1) r and "How much I enjoy spending time with my family" (Imp5) (  = .42). r
+
+Journal Pre-proof 3.5. The central factors and interrelationships in the impairment network The fourth network analysis assessed the interrelationships among 12 misophoniarelated impairments. The network plot for misophonia-related impairments is shown in Figure 4, and centrality indices are presented in Figure S4 (see supplemental material). "My self-esteem" (Imp7) demonstrated the highest expected influence (  = .95), followed by "The z quality of my relationships with my friends" (Imp9;   = .81). "The quality of my romantic z relationship" (Imp3;   = -2.12) and "My ability to function in daily activities without help" z (Imp4;   = -1.56) exhibited the lowest expected influence. z
+
+## 3.6. Edge stability and centrality stability
+
+The case-dropping bootstrap analysis, as shown in Figure S5 in the supplemental material, evaluates the stability of centrality indices in the network model. The strength centrality's CS-coefficient remains above 0.7, even when up to 70% of the sample is excluded. This finding suggests that the rank order of the nodes, based on their strength centrality, is
+
+## Journal Pre-proof
+
+relatively stable and not significantly affected by the removal of a large portion of the sample. In this case, the strength centrality measure demonstrates excellent stability, implying that the most influential nodes in the network (i.e., those with the highest strength centrality) are likely to remain influential even if the study were repeated with a different subset of the original sample.
+
+The bootstrapping demonstrates the stability and reliability of the edge weights in the network model. The narrow CIs, as shown in Figure S6 in the supplemental material, indicate that the edge weights were precisely estimated and are not significantly influenced by sampling variability. In other words, the relationships between the nodes in the network are likely to remain consistent even if the study were replicated with different samples from the same population.
+
+Our results from the overall network analysis revealed that the Impairment subscale plays the most influential role for both males and females, compared to the Trigger Frequency, Affective Responses, Physiological Responses, Cognitive Responses, and Beliefs subscales. Notably, sex differences were observed in the more specific aspects of the misophonia network.
+
+Journal Pre-proof 4. Discussion To the best of our knowledge, this study is the first to employ network analysis to identify the most central items and subscales of the Duke Misophonia Questionnaire (DMQ), focusing specifically on misophonia symptomatology. The primary aim was to enhance the DMQ's efficiency in appropriate contexts and promote a more comprehensive understanding of misophonia symptoms.
+
+The item-level network analyses revealed that in the symptom network, the most central symptoms involved internalizing cognitive and affective symptoms (i.e., "I need to get away from the sound" and panic), as well as externalizing affective and cognitive responses
+
+## Journal Pre-proof
+
+(i.e., anger and "I thought about physically hurting the person making the sound"). In the impairment network, the most influential aspect was the deterioration of self-esteem. In the belief network, the most central beliefs were non-acceptance of misophonia ("I hate being like this") and the self ("I am weak"). These results underscore the complexity of misophonia and offer guidance for the efficient use of the DMQ.
+
+Our approach differs from Andermane et al. (2023), who first conducted a network analysis integrating misophonia questionnaire factors with clinical comorbidities (e.g., anxiety sensitivity, autistic traits). Their study identified sensory sensitivity as a central hub linking misophonia to these comorbidities, providing a broad psychopathological framework. In contrast, our study focused exclusively on misophonia-specific symptoms, offering detailed insights into internal symptom dynamics and interrelationships.
+
+Journal Pre-proof 4.1. The central factors and interrelationships in the overall misophonia network The prominence of impairment in the network suggests that the extent to which trigger sounds disrupt an individual's daily life is a key factor in the maintenance and severity of misophonia. This finding aligns with previous research that has consistently highlighted the significant impact of misophonia on daily functioning, including difficulties in social, occupational, and academic settings (Brout et al., 2018; Guetta et al., 2022; Möllmann et al., 2023; Zhou et al., 2017). The DMQ Impairment subscale has demonstrated strong convergent validity by high correlations (ranging from 0.39 to 0.67) with other misophonia measures (e.g., Amsterdam Misophonia Scale, Misophonia Questionnaire; Rosenthal et al., 2021). Clinicians and researchers may prioritize the DMQ Impairment subscale when appropriate as a brief way to use the DMQ efficiently. In terms of clinical practice, monitoring changes in impairment throughout the course of treatment can provide valuable insights into the effectiveness of interventions and guide treatment adjustments. Furthermore, the emphasis on functional impairment in the context of misophonia aligns with the broader conceptualization
+
+## Journal Pre-proof
+
+of mental health disorders. The Diagnostic and Statistical Manual of Mental Disorders (DSM) considers functional impairment a crucial criterion for diagnosing psychiatric disorders (American Psychiatric Association, 2013). Although the current study does not aim to make specific recommendations regarding the classification of misophonia within diagnostic systems, the centrality of impairment in the misophonia network suggests that it is a key factor to consider in future discussions about the categorization of misophonia as a credible, distinct clinical entity within current diagnostic frameworks.
+
+Journal Pre-proof Our findings regarding the central role of cognitive responses in the misophonia network and their strong relationship with affective responses align well with the principles of treatments within the family of cognitive behavioral therapies (CBT; e.g., Beck &amp; Haigh, 2014; Hupp et al., 2008; Thoma et al., 2015). The strong correlation between impairment and misophonia-related beliefs also aligns with cognitive theories of psychopathology (Beck &amp; Haigh, 2014). Cognitive theories posit that our cognitive processes actively shape our emotional and behavioral responses and psychological dysfunctions are often closely linked to maladaptive beliefs. These findings underscore the importance for clinicians to address both the cognitive responses related to affective reactions and the cognitive beliefs individuals with misophonia hold about their condition. Previous research has shown promising results for CBT-based interventions in managing misophonia symptoms (Lewin et al., 2021; McGuire et al., 2015; McMahon et al., 2024), and our findings provide further indirect support for the careful use of these approaches.
+
+Interestingly, the current study's findings showed that physiological responses had the least influence within the overall misophonia network. However, it does not imply that they are insignificant in the overall experience of misophonia. A holistic approach should not overlook the role of physiological responses due to their high prevalence and established significance in other research and clinical contexts (e.g., Brout et al., 2018; Edelstein et al.,
+
+## Journal Pre-proof
+
+2013; Jastreboff &amp; Jastreboff, 2001; Schröder et al., 2013; Wu et al., 2014). Our findings align with an expert committee's perspective (Swedo et al., 2022), which challenges the definition of misophonia as primarily a physical reflex condition (Dozier, 2015; Dozier et al., 2017), highlighting the complex interplay of factors.
+
+- 4.2. The central factors and interrelationships in the symptom network
+
+Journal Pre-proof The symptom sub-network analysis revealed that affective responses, such as panic and anger, along with cognitive symptoms, such as the need to escape from the sound and thoughts of physically harming the person making the sound, were highly influential. These findings align with previous research on the diverse symptomatology of misophonia. Rouw &amp; Erfanian (2018) reported that panic and rage are common emotional responses among individuals with misophonia, and other studies have identified both internalizing and externalizing symptoms in misophonia (Armstrong et al., 2023; Guzick et al., 2023; Möllmann et al., 2023). The centrality of the affective response "panic" is particularly noteworthy, as it supports the consensus definition proposed by the misophonia expert committee, which emphasizes that misophonia should not be merely defined as "hatred of sound," as individuals with misophonia may experience a range of emotions beyond hatred (Swedo et al., 2022), including panic. The interplay between affective and cognitive reactions highlights the need for further research to investigate the underlying reasons for the emergence of different internalizing and externalizing symptoms in patients with misophonia. Future studies should explore the temporal order of symptom appearance and whether these symptoms are independent or complementary. This information could help develop targeted interventions that account for the heterogeneity of misophonia symptomatology and optimize treatment outcomes for patients with different symptom profiles.
+
+- 4.3. The central factors and interrelationships in the belief network
+
+## Journal Pre-proof
+
+Within the belief network, non-acceptance of misophonia ("I hate being like this") and negative self-perception ("I am weak") emerged as the most influential factors. These findings suggest that these beliefs may represent core cognitive structures that either arise from or exacerbate misophonic experiences, making them critical targets for therapeutic interventions. Non-acceptance of misophonia may intensify distress and hinder the development of adaptive coping strategies, while negative self-beliefs can erode self-esteem and contribute to broader emotional difficulties (Beck &amp; Haigh, 2014).
+
+The low public awareness of misophonia, with only 11% of individuals in the US recognizing the condition (Dixon et al., 2023), underscores the need to investigate how social reactions influence patients' beliefs about misophonia and themselves. The lack of understanding, invalidation, and potential stigmatization from others may reinforce negative beliefs and non-acceptance of the condition. Future research should employ both qualitative and quantitative methods to explore these social dynamics. Qualitative studies could examine individuals' experiences with misophonia in social contexts, identifying themes related to stigma, support, and the impact of others' reactions on misophonia-related beliefs. Quantitative research could investigate relationships between perceived stigma, social
+
+Journal Pre-proof Addressing these maladaptive cognitions through evidence-based approaches could potentially mitigate the impact of misophonia and improve overall psychological well-being. For instance, cognitive restructuring techniques could help modify negative self-beliefs, For instance, cognitive restructuring techniques could help modify negative self-beliefs, while Acceptance and Commitment Therapy (ACT) could foster a more accepting stance towards misophonic experiences by promoting acceptance of distressing sounds, reducing the influence of unhelpful thoughts through cognitive defusion, encouraging mindfulness of emotions, potentially reducing symptom severity and improving quality of life (Kamody &amp; Del Conte, 2017; Lewin et al., 2021; Petersen &amp; Twohig, 2023; Schneider &amp; Arch, 2017).
+
+## Journal Pre-proof
+
+support, misophonia symptom severity, and the moderating roles of acceptance and psychological flexibility.
+
+## 4.4. The central factors and interrelationships in the impairment network
+
+The impairment network analysis highlighted the substantial influence of the extent to negative correlation between self-esteem and Misophonia Response Scale scores in a study of
+
+Journal Pre-proof which misophonia negatively affected self-esteem, a factor not typically emphasized in misophonia research. This observation aligns with the limited but insightful research conducted in this area. Dibb et al. (2021), utilizing the Rosenberg Self-Esteem Scale, found a 347 individuals with self-diagnosed misophonia. In addition, Dibb and Golding (2022) observed that individuals with higher misophonia symptoms experienced not only a range of negative emotions and a decreased quality of life but also significantly lower self-esteem. These findings suggest a complex interplay where the effects on self-esteem are deeply intertwined with the broader impairment caused by misophonia. The importance of addressing self-esteem in misophonia is further underscored by the recognition of low selfesteem as a transdiagnostic factor influencing various mental health disorders (e.g., depression, anxiety disorders, personality disorders,) and broader societal issues (e.g., early school dropout, poor employment outcomes; Hoven et al., 2023; Kresznerits et al., 2022). Given the high comorbidity rates between misophonia and other mental disorders that frequently intersect with self-esteem problems (Jager et al., 2020; Norris et al., 2022; Rosenthal et al., 2022; Siepsiak et al., 2022), targeting self-esteem in misophonia interventions could potentially lead to improvements in overall mental health and functioning.
+
+## 4.5. Sex Differences
+
+The sex differences identified in our study highlight the nuanced ways in which misophonia manifests in males and females. While both sexes experience similar levels of impairment and affective symptoms, the pathways through which misophonia affects them
+
+## Journal Pre-proof
+
+Journal Pre-proof may differ. Our findings suggest that women may experience misophonia with more severe cognitive and physiological symptoms, leading to greater functional disruptions when exposed to triggers, while men may experience misophonia primarily through heightened emotional reactivity. Possible explanations include sociocultural factors that influence symptom expression, such as societal norms encouraging emotional openness in women and emotional restraint in men (Berke et al., 2018). Differing coping strategies may also play a role, where women are more likely to engage in rumination and internalization, exacerbating cognitive and physiological symptoms, whereas men might utilize avoidance or suppression, intensifying emotional responses (Nolen-Hoeksema, 2012). Additionally, neurobiological differences in sensory processing and emotional regulation could contribute to these sexspecific symptom patterns (Kemp et al., 2004; Weis &amp; Hausmann, 2019). Understanding these sex-specific patterns can inform tailored interventions and underscores the importance of considering biological sex and gender effects in misophonia research and clinical practice. Future research should further explore these differences and their underlying mechanisms to inform the development of personalized therapeutic approaches. 4.6. Advantages and Limitations of the Network Analysis Approach
+
+The network analysis approach employed in this study offers unique advantages in understanding misophonia as measured by the DMQ, but it also has important limitations that warrant discussion. By providing a nuanced view of the interrelationships among different aspects of misophonia, network analysis allows us to identify central symptoms and impairments that may be key targets for intervention. This approach moves beyond traditional factor analytic methods by highlighting the complex interactions between symptoms, which can inform more targeted and efficient treatment strategies. Additionally, network analysis facilitates the visualization of these relationships, making the results more intuitive and accessible to clinicians and researchers.
+
+## Journal Pre-proof
+
+Journal Pre-proof Despite these advantages, it is essential to acknowledge the limitations of applying network analysis to the DMQ in this study. First, the cross-sectional nature of our data precludes causal inferences or temporal dynamics between misophonia symptoms. Longitudinal network studies are necessary to understand how these relationships evolve over time and in response to treatment. Second, while network analysis can identify central symptoms, it does not guarantee that targeting these symptoms in treatment will lead to overall symptom reduction. This remains an empirical question requiring further investigation (Rodebaugh et al., 2018, 2020). Third, our sample included adults with varying levels of misophonia symptoms, which may have influenced the network structure and centrality measures. Future research should aim to replicate these findings in well-defined, treatment-seeking samples and diverse populations to ensure generalizability. Fourth, while our results highlight the relevance of specific DMQ subscales and items, additional research is needed to cross-validate the measure and examine its reliability over time in diverse, crosscultural samples. Lastly, network analysis, while powerful, should be considered complementary to other analytical approaches in psychopathology research. Future studies could benefit from combining network analysis with other methodologies to provide a more comprehensive understanding of misophonia. 5. Conclusions
+
+This study is the first to use network analysis to identify the most central factors of the DMQ and examine their interrelationships, providing new insights and empirical evidence for optimizing the use of the DMQ in clinical and research settings. The findings highlight the central role of impairment among other subscales, with specific internalizing and externalizing cognitive and affective symptoms, non-acceptance beliefs, and self-esteem deterioration due to misophonia emerging as the most critical components within their respective networks.
+
+## Journal Pre-proof
+
+These findings not only enhance our understanding of the internal structure of misophonia but also provide practical guidance for clinicians and researchers in applying the DMQ, suggesting a prioritized use of the most relevant subscales and items when appropriate. Additionally, future research should continue to explore how these centrally positioned factors manifest across different groups of misophonia patients and test the effectiveness of interventions targeting these key elements.
+
+Journal Pre-proof This study affirms the value of the DMQ in assessing misophonia and highlights the potential of network analysis as a tool for refining and optimizing diagnostic measures. By doing so, we can more accurately target the symptoms and beliefs that most significantly affect patients, thereby improving treatment outcomes and enhancing the quality of life for sufferers.
+
+Table 1. Demographic data.
+
+| Sex (n, %)                                                 |             |
+|------------------------------------------------------------|-------------|
+| Male                                                       | 43 (29.9%)  |
+| Female                                                     | 101 (70.1%) |
+| Gender Identity (n,%)                                      |             |
+| Male                                                       | 43 (29.9%)  |
+| Female                                                     | 98 (68.1%)  |
+| Transgender male                                           | 0           |
+| Transgender female                                         | 0           |
+| Genderqueer                                                | 1 (.7%)     |
+| Additional gender category                                 | 1 (.7%)     |
+| Choose not to disclose                                     | 1 (.7%)     |
+| Sexual Orientation (n,%)                                   |             |
+| Straight or heterosexual                                   | 110 (76.4%) |
+| Pre-proof Lesbian, gay, or homosexual                      | 8 (5.6%)    |
+| Bisexual                                                   | 14 (9.7%)   |
+| Something else                                             | 6 (4.2%)    |
+| Don't know                                                 | 5 (3.5%)    |
+| Choose not to disclose                                     | 1 (.7%)     |
+| Age (mean, SD)                                             | 36.8 (12.8) |
+| Ethnicity (n, %)                                           |             |
+| Hispanic or Latino                                         | 23 (16.0%)  |
+| Non-Hispanic                                               | 121 (84.0%) |
+| Race (n,%)                                                 |             |
+| White/Caucasian                                            | 106 (73.6%) |
+| Black/African American                                     | 6 (4.2%)    |
+| Chinese or Chinese American                                | 8 (5.6%)    |
+| Journal Native American, American Indian, or Alaska Native | 2 (1.4%)    |
+| Korean or Korean American                                  | 1 (.7%)     |
+| Other Asian or other Asian American                        | 5 (3.5%)    |
+| Other                                                      | 3 (2.1%)    |
+| More than one racial group                                 | 13 (9.0%)   |
+| Marital Status (n, %)                                      |             |
+| Single (Never Married)                                     | 59 (41.0%)  |
+| Married                                                    | 61 (42.4%)  |
+| Separated                                                  | 4 (2.8%)    |
+| Divorced                                                   | 4 (3.5%)    |
+| Living with partner                                        | 14 (9.7%)   |
+
+## Journal Pre-proof
+
+| Choose not to disclose                                                            | 1 (.7%)                                                                           |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Education (n, %)                                                                  |                                                                                   |
+| High school graduate                                                              | 5 (3.5%)                                                                          |
+| Business/Technical training                                                       | 3 (2.1%)                                                                          |
+| Some college                                                                      | 24 (16.7%)                                                                        |
+| College graduate                                                                  | 49 (34.0%)                                                                        |
+| Some graduate school                                                              | 17 (11.8%)                                                                        |
+| Master's degree                                                                   | 37 (25.7%)                                                                        |
+| Doctoral degree                                                                   | 9 (6.3%)                                                                          |
+| Income Range (n, %)                                                               |                                                                                   |
+| 0-10,000$                                                                         | 21 (14.6%)                                                                        |
+| 10,001$-20,000$                                                                   | 7 (4.9%)                                                                          |
+| 20,001$-40,000$                                                                   | 16 (11.1%)                                                                        |
+| 40,001$-65,000$                                                                   | 17 (11.8%)                                                                        |
+| 65,001$-100,000$                                                                  | 25 (17.4%)                                                                        |
+| More than 100,000$                                                                | 58 (40.3%)                                                                        |
+| Pre-proof Have you been diagnosed with mental health or addiction problems (n, %) | Pre-proof Have you been diagnosed with mental health or addiction problems (n, %) |
+| Yes                                                                               | 72 (50.0%)                                                                        |
+| No                                                                                | 72 (50.0%)                                                                        |
+
+Journal Pre-proof
+
+Figure 1 . EBIC gLASSO Network Plots of Overall Misophonia Network. Nodes represent variables from the Duke Misophonia Questionnaire subscales. Edges depict partial correlations (blue = positive correlation, red = negative correlation). Thicker edges indicate stronger associations.
+
+Journal Pre-proof
+
+Cog 1 = 'I am helpless.' Cog 2 = 'I want to cry.' Cog 3 = 'How do I make this sound stop?' Cog 4 = 'Everything is awful.' Cog 5 = 'I cannot handle this' Cog 6 = 'I need to get away from the sound.' Cog 7 = 'I would do anything to make it stop.' Cog 8 = 'I thought about screaming at, yelling at, or telling off the person making the sound.' Cog 9 = 'I thought about pushing, poking, shoving, etc. the person making the sound.' Cog 10 = 'I thought about physically hurting the person making the sound.' Affect 1 = 'I felt angry.' Affect 2 = 'I felt anxious.' Affect 3 = 'I felt disgusted.' Affect 4 = 'I felt hateful.' Affect 5 = 'I felt panic.' Affect 6 = 'I felt hostile.' Affect 7 = 'I felt jittery.' Affect 8 = 'I felt frustrated.' Physio1 = 'I became rigid or stiff.' Physio2 = 'I trembled or shuddered.' Physio3 = 'My
+
+Journal Pre-proof Figure 2 . EBIC gLASSO Network Plots of Misophonia Symptoms. Nodes represent variables from the Duke Misophonia Questionnaire Symptoms Subscale. Edges depict partial correlations (blue = positive correlation, red = negative correlation). Thicker edges indicate stronger associations.
+
+heart pounded or raced.' Physio4 = 'I started breathing intensely or forcefully.' Physio5 = 'I reflexively jumped.'
+
+Figure 3 . EBIC gLASSO Network Plots of Misophonia-Related Beliefs. Edges depict partial correlations (blue = positive correlation, red = negative correlation). Thicker edges indicate stronger associations.
+
+Belief 1 = 'I hate being like this.' Belief 2 = 'People do not understand me.' Belief 3 = 'I will be rejected if people find out.'  Belief 4 = 'I am crazy.' Belief 5 = 'My reactions to sounds are irrational.' Belief 6 = 'I should get over it.' Belief 7 = 'This is unfair.' Belief 8 = 'I am weak.' Belief 9 = 'I should be able to control my reaction to these sounds.' Belief 10 = 'I am a burden on others.' Belief 11 = 'I should have known how to cope earlier.' Belief 12
+
+- = 'My sound issues will only get worse with time.' Belief 13 = 'No one can help me.' Belief
+
+14 =  'My whole life will be affected by sound issues.'
+
+Figure 4 . EBIC gLASSO Network Plots of Misophonia-Related Impairments. Nodes represent variables from the Duke Misophonia Questionnaire Impairment subscales. Edges depict partial correlations (blue = positive correlation, red = negative correlation). Thicker edges indicate stronger associations.
+
+Imp1 = 'My ability to be with other people.'  Imp2 = 'My performance at work or school.' Imp3 = 'The quality of my romantic relationships.' Imp4 = 'My ability to function in daily activities without help.' Imp5 = 'How much I enjoy spending time with my family.' Imp6 = 'My ability to work with others.' Imp7 = 'My self-esteem.' Imp8 = 'My ability to maintain employment.' Imp9 = 'The quality of my relationships with my friends.' Imp10 = 'How
+
+## Journal Pre-proof
+
+connected I feel to other people.' Imp11 = 'My ability to live with other people (e.g. roommate, partner).' Imp12 = 'My ability to 'be myself.'
+
+## References
+
+,
+
+Journal Pre-proof Andermane, N., Bauer, M., Simner, J., &amp; Ward, J. (2023). A symptom network model of misophonia: From heightened sensory sensitivity to clinical comorbidity. Journal of Clinical Psychology , 79(10), 2364-2387. https://doi.org/10.1002/jclp.23552 American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders: DSM-5 (Vol. 5). American psychiatric association Washington, DC. https://www.academia.edu/download/38718268/csl6820_21.pdf Armstrong, G. M., Greenberg, R. L., Smárason, O., Frederick, R. M., Guzick, A. G., Schneider, S. C., Spencer, S. D., Cervin, M., &amp; Storch, E. A. (2023). Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia. Journal of Obsessive-Compulsive and Related Disorders , 39 , 100831. https://doi.org/10.1016/j.jocrd.2023.100831 Beck, A. T., &amp; Haigh, E. A. P. (2014). Advances in cognitive theory and therapy: The generic cognitive model. Annual Review of Clinical Psychology , 10 , 1-24. https://doi.org/10.1146/annurev-clinpsy-032813-153734 Berke, D. S., Reidy, D., &amp; Zeichner, A. (2018). Masculinity, emotion regulation, and psychopathology: A critical review and integrated model. Clinical Psychology Review 66, 106-116. https://doi.org/10.1016/j.cpr.2018.01.004 Borsboom, D. (2017). A network theory of mental disorders. World Psychiatry , 16 (1), 5-13. https://doi.org/10.1002/wps.20375 Borsboom, D., &amp; Cramer, A. O. J. (2013). Network analysis: An integrative approach to the structure of psychopathology. Annual Review of Clinical Psychology , 9 , 91-121. https://doi.org/10.1146/annurev-clinpsy-050212-185608
+
+## Journal Pre-proof
+
+Borsboom, D., Deserno, M. K., Rhemtulla, M., Epskamp, S., Fried, E. I., McNally, R. J., Robinaugh, D. J., Perugini, M., Dalege, J., Costantini, G., Isvoranu, A.-M., Wysocki, A. C., van Borkulo, C. D., van Bork, R., &amp; Waldorp, L. J. (2021). Network analysis of multivariate data in psychological science. Nature Reviews Methods Primers , 1 (1), 118. https://doi.org/10.1038/s43586-021-00055-w
+
+Bringmann, L. F., Elmer, T., Epskamp, S., Krause, R. W., Schoch, D., Wichers, M., Wigman,
+
+J. T. W., &amp; Snippe, E. (2019). What do centrality measures measure in psychological https://doi.org/10.3389/fnins.2022.900474
+
+Journal Pre-proof networks? Journal of Abnormal Psychology , 128 (8), 892-903. https://doi.org/10.1037/abn0000446 Brout, J. J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L. J., Rouw, R., Kumar, S., &amp; Rosenthal, M. Z. (2018). Investigating Misophonia: A Review of the Empirical Literature, Clinical Implications, and a Research Agenda. Frontiers in Neuroscience , 12 , 36. https://doi.org/10.3389/fnins.2018.00036 Cowan, E. N., Marks, D. R., &amp; Pinto, A. (2022). Misophonia: A psychological model and proposed treatment. Journal of Obsessive-Compulsive and Related Disorders , 32 , 1-9. https://doi.org/10.1016/j.jocrd.2021.100691 Dibb, B., &amp; Golding, S. E. (2022). A longitudinal investigation of quality of life and negative emotions in misophonia. Frontiers in Neuroscience , 16 .
+
+Dibb, B., Golding, S. E., &amp; Dozier, T. H. (2021). The development and validation of the Misophonia response scale. Journal of Psychosomatic Research , 149 , 110587.
+
+https://doi.org/10.1016/j.jpsychores.2021.110587
+
+Dixon, L. J., Schadegg, M. J., Clark, H. L., Sevier, C. J., &amp; Witcraft, S. M. (2024). Prevalence, phenomenology, and impact of misophonia in a nationally representative
+
+## Journal Pre-proof
+
+sample of U.S. adults. Journal of Psychopathology and Clinical Science , No Pagination Specified-No Pagination Specified. https://doi.org/10.1037/abn0000904 Dixon, Laura. J., Schadegg, Mary. J., Clark, Heather. L., &amp; Perry, Megan. M. (2023). Public awareness of Misophonia in U.S. adults: A Population-based study. Current Psychology , 42 (36), 32417-32426. https://doi.org/10.1007/s12144-022-04180-x conditioned aversive reflex disorder. Psychological Thought , 8 (1).
+
+Guetta, R. E., Cassiello-Robbins, C., Trumbull, J., Anand, D., &amp; Rosenthal, M. Z. (2022). Examining emotional functioning in misophonia: The role of affective instability and difficulties with emotion regulation. Plos One , 17 (2), e0263230.
+
+Journal Pre-proof Dozier, T. H. (2015). Etiology, composition, development and maintenance of misophonia: A https://www.psycharchives.org/en/item/361437b7-a180-4196-8b7a-9963a1fd5d20 Dozier, T. H., Lopez, M., &amp; Pearson, C. (2017). Proposed Diagnostic Criteria for Misophonia: A Multisensory Conditioned Aversive Reflex Disorder. Frontiers in Psychology , 8 , 1975. https://doi.org/10.3389/fpsyg.2017.01975 Edelstein, M., Brang, D., Rouw, R., &amp; Ramachandran, V. S. (2013). Misophonia: Physiological investigations and case descriptions. Frontiers in Human Neuroscience , 7 , 296. https://doi.org/10.3389/fnhum.2013.00296 Epskamp, S., Borsboom, D., &amp; Fried, E. I. (2018). Estimating psychological networks and their accuracy: A tutorial paper. Behavior Research Methods , 50 (1), 195-212. https://doi.org/10.3758/s13428-017-0862-1
+
+Guzick, A. G., Cervin, M., Smith, E. E., Clinger, J., Draper, I., Goodman, W. K., Lijffijt, M., Murphy, N., Lewin, A. B., &amp; Schneider, S. C. (2023). Clinical characteristics, impairment, and psychiatric morbidity in 102 youth with misophonia. Journal of Affective Disorders , 324 , 395-402.
+
+## Journal Pre-proof
+
+Harris, P. A., Taylor, R., Thielke, R., Payne, J., Gonzalez, N., &amp; Conde, J. G. (2009). Research electronic data capture (REDCap)-A metadata-driven methodology and workflow process for providing translational research informatics support. Journal of Biomedical Informatics , 42 (2), 377-381.
+
+Hoven, M., Luigjes, J., Denys, D. a. J. P., Rouault, M., &amp; Holst, R. J. van. (2023). How do confidence and self-beliefs relate in psychopathology: A transdiagnostic approach.
+
+Nature Mental Health , 1 , 337-345.
+
+Kemp, A. H., Silberstein, R. B., Armstrong, S. M., &amp; Nathan, P. J. (2004). Gender
+
+Journal Pre-proof Hupp, S. D. A., Reitman, D., &amp; Jewell, J. D. (2008). Cognitive-behavioral theory. In Handbook of clinical psychology, vol 2: Children and adolescents (pp. 263-287). John Wiley &amp; Sons, Inc. Jakubovski, E., Müller, A., Kley, H., de Zwaan, M., &amp; Müller-Vahl, K. (2022). Prevalence and clinical correlates of misophonia symptoms in the general population of Germany. Frontiers in Psychiatry , 13 , 1012424. https://doi.org/10.3389/fpsyt.2022.1012424 Jastreboff, M. M., &amp; Jastreboff, P. J. (2001). Components of decreased sound tolerance: Hyperacusis, misophonia, phonophobia. ITHS News Lett , 2 (5-7), 1-5. Kamody, R. C., &amp; Del Conte, G. S. (2017). Using Dialectical Behavior Therapy to Treat Misophonia in Adolescence. The Primary Care Companion for CNS Disorders , 19 (5), 17l02105. https://doi.org/10.4088/pcc.17l02105
+
+differences in the cortical electrophysiological processing of visual emotional stimuli. Kılıç, C., Öz, G., Avanoğlu, K. B., &amp; Aksoy, S. (2021). The prevalence and characteristics of
+
+NeuroImage , 21(2), 632-646. https://doi.org/10.1016/j.neuroimage.2003.09.055 misophonia in Ankara, Turkey: Population-based study. BJPsych Open , 7 (5), e144. https://doi.org/10.1192/bjo.2021.978
+
+## Journal Pre-proof
+
+Kresznerits, S., Rózsa, S., &amp; Perczel-Forintos, D. (2022). A transdiagnostic model of low self-esteem: Pathway analysis in a heterogeneous clinical sample. Behavioural and Cognitive Psychotherapy , 50 (2), 171-186.
+
+https://doi.org/10.1017/S1352465821000485
+
+Lawrence, C. E., Dunkel, L., McEver, M., Israel, T., Taylor, R., Chiriboga, G., Goins, K. V., Rahn, E. J., Mudano, A. S., Roberson, E. D., Chambless, C., Wadley, V. G., Danila, M. I., Fischer, M. A., Joosten, Y., Saag, K. G., Allison, J. J., Lemon, S. C., &amp; Harris, P. A. (2020). A REDCap-based model for electronic consent (eConsent): Moving toward a more personalized consent. Journal of Clinical and Translational Science , 4 (4), 345-353. https://doi.org/10.1017/cts.2020.30
+
+McMahon, K., Cassiello-Robbins, C., Greenleaf, A., Guetta, R., Frazer-Abel, E., Kelley, L., &amp; Rosenthal, M. Z. (2024). The unified protocol for transdiagnostic treatment of emotional disorders for misophonia: A pilot trial exploring acceptability and efficacy. Frontiers in Psychology , 14 . https://doi.org/10.3389/fpsyg.2023.1294571
+
+Journal Pre-proof Lewin, A. B., Dickinson, S., Kudryk, K., Karlovich, A. R., Harmon, S. L., Phillips, D. A., Tonarely, N. A., Gruen, R., Small, B., &amp; Ehrenreich-May, J. (2021). Transdiagnostic cognitive behavioral therapy for misophonia in youth: Methods for a clinical trial and four pilot cases. Journal of Affective Disorders , 291 , 400-408. https://doi.org/10.1016/j.jad.2021.04.027 McGuire, J. F., Wu, M. S., &amp; Storch, E. A. (2015). Cognitive-behavioral therapy for 2 youths with misophonia. The Journal of Clinical Psychiatry , 76 (5), 573-574. https://doi.org/10.4088/JCP.14cr09343
+
+McNally, R. J. (2021). Network Analysis of Psychopathology: Controversies and Challenges. Annual Review of Clinical Psychology , 17 , 31-53. https://doi.org/10.1146/annurevclinpsy-081219-092850
+
+## Journal Pre-proof
+
+McNally, R. J., Mair, P., Mugno, B. L., &amp; Riemann, B. C. (2017). Co-morbid obsessivecompulsive disorder and depression: A Bayesian network approach. Psychological Medicine , 47 (7), 1204-1214. https://doi.org/10.1017/s0033291716003287 symptom severity and associated characteristics for functional impairment in misophonia. Frontiers in Psychiatry , 14 , 1112472.
+
+Journal Pre-proof Möllmann, A., Heinrichs, N., Illies, L., Potthast, N., &amp; Kley, H. (2023). The central role of https://doi.org/10.3389/fpsyt.2023.1112472 Nolen-Hoeksema, S. (2012). Emotion regulation and psychopathology: The role of gender. Annual Review of Clinical Psychology , 8, 161-187. https://doi.org/10.1146/annurevclinpsy-032511-143109 Norris, J. E., Kimball, S. H., &amp; Ethridge, L. E. (2022). Toward a Multidimensional Understanding of Misophonia Using Cluster-Based Phenotyping. Frontiers in Neuroscience , 16 . https://doi.org/10.3389/fnins.2022.832516 Oliva, V., Roberto, N., Andreo-Jover, J., Bobes, T., Canal Rivero, M., Cebriá, A., CrespoFacorro, B., de la Torre-Luque, A., Díaz-Marsá, M., Elices, M., Fernández-Rodrigues, V., Gonzalez-Pinto, A., Palao Tarrero, A., Pérez-Diez, I., Rodríguez-Vega, B., RuizVeguilla, M., Saiz, P. A., Seijo-Zazo, E., Toll-Privat, A., … Pérez-Solà, V. (2024). Anxious and depressive symptoms and health-related quality of life in a cohort of people who recently attempted suicide: A network analysis. Journal of Affective Disorders , 355 , 210-219. https://doi.org/10.1016/j.jad.2024.03.109 Opsahl, T., Agneessens, F., &amp; Skvoretz, J. (2010). Node centrality in weighted networks: Generalizing degree and shortest paths. Social Networks , 32 (3), 245-251. https://doi.org/10.1016/j.socnet.2010.03.006
+
+## Journal Pre-proof
+
+Petersen, J. M., &amp; Twohig, M. P. (2023). Acceptance and commitment therapy for a child with misophonia: A case study. Clinical Case Studies , 22 (3), 211-223. https://doi.org/10.1177/15346501221126136
+
+Rinaldi, L. J., Smees, R., Ward, J., &amp; Simner, J. (2022). Poorer well-being in children with misophonia: evidence from the Sussex misophonia scale for adolescents. Frontiers in psychology , 13, 808379. https://doi.org/10.3389/fpsyg.2022.808379
+
+Journal Pre-proof Remmert, N., Schmidt, K. M. B., Mussel, P., Hagel, M. L., &amp; Eid, M. (2022). The Berlin Misophonia Questionnaire Revised (BMQ-R): Development and validation of a symptom-oriented diagnostical instrument for the measurement of misophonia. PloS One 17 , (6), e0269428. https://doi.org/10.1371/journal.pone.0269428 Robinaugh, D. J., Hoekstra, R. H. A., Toner, E. R., &amp; Borsboom, D. (2020). The network approach to psychopathology: A review of the literature 2008-2018 and an agenda for future research. Psychological Medicine , 50 (3), 353-366. https://doi.org/10.1017/s0033291719003404 Robinaugh, D. J., Millner, A. J., &amp; McNally, R. J. (2016). Identifying highly influential nodes in the complicated grief network. Journal of Abnormal Psychology , 125 (6), 747-757. https://doi.org/10.1037/abn0000181
+
+Rodebaugh, T. L., Tonge, N. A., Piccirillo, M. L., Fried, E., Horenstein, A., Morrison, A. S., Goldin, P., Gross, J. J., Lim, M. H., Fernandez, K. C., Blanco, C., Schneier, F. R., Bogdan, R., Thompson, R. J., &amp; Heimberg, R. G. (2018). Does centrality in a crosssectional network suggest intervention targets for social anxiety disorder? Journal of Consulting and Clinical Psychology , 86 (10), 831-844.
+
+https://doi.org/10.1037/ccp0000336
+
+Roefs, A., Fried, E. I., Kindt, M., Martijn, C., Elzinga, B., Evers, A. W. M., Wiers, R. W., Borsboom, D., &amp; Jansen, A. (2022). A new science of mental disorders: Using
+
+## Journal Pre-proof
+
+personalised, transdiagnostic, dynamical systems to understand, model, diagnose and treat psychopathology. Behaviour Research and Therapy , 153 , 104096. https://doi.org/10.1016/j.brat.2022.104096
+
+Rosenthal, M. Z., Anand, D., Cassiello-Robbins, C., Williams, Z. J., Guetta, R. E., Trumbull,
+
+J., &amp; Kelley, L. D. (2021). Development and Initial Validation of the Duke Misophonia Questionnaire. Frontiers in Psychology , 12 , 709928.
+
+https://doi.org/10.3389/fpsyg.2021.709928
+
+Frontiers in
+
+Schröder, A., Vulink, N., &amp; Denys, D. (2013). Misophonia: Diagnostic Criteria for a New Psychiatric Disorder. PLoS ONE 8 , (1). https://doi.org/10.1371/journal.pone.0054706 Siepsiak, M., Rosenthal, M. Z., Raj-Koziak, D., &amp; Dragan, W. (2022). Psychiatric and audiologic features of misophonia: Use of a clinical control group with auditory overresponsivity. Journal of Psychosomatic Research , 156 , 110777.
+
+Journal Pre-proof Rosenthal, M. Z., McMahon, K., Greenleaf, A. S., Cassiello-Robbins, C., Guetta, R., Trumbull, J., Anand, D., Frazer-Abel, E. S., &amp; Kelley, L. (2022). Phenotyping misophonia: Psychiatric disorders and medical health correlates. Psychology , 13 , 941898. https://doi.org/10.3389/fpsyg.2022.941898 Rouw, R., &amp; Erfanian, M. (2018). A Large-Scale Study of Misophonia. Journal of Clinical Psychology , 74 (3), 453-479. https://doi.org/10.1002/jclp.22500 Schneider, R. L., &amp; Arch, J. J. (2017). Case study: A novel application of mindfulness- and acceptance-based components to treat misophonia. Journal of Contextual Behavioral Science , 6 (2), 221-225. https://doi.org/10.1016/j.jcbs.2017.04.003
+
+https://doi.org/10.1016/j.jpsychores.2022.110777
+
+Siepsiak, M., Śliwerski, A., &amp; Łukasz Dragan, W. (2020). Development and Psychometric Properties of MisoQuest-A New Self-Report Questionnaire for Misophonia.
+
+## Journal Pre-proof
+
+International Journal of Environmental Research and Public Health , 17 (5), 1797.
+
+https://doi.org/10.3390/ijerph17051797
+
+Simner, J., Rinaldi, L. J., &amp; Ward, J. (2024). An Automated Online Measure for Misophonia:
+
+The Sussex Misophonia Scale for Adults. Assessment
+
+, 10731911241234104.
+
+https://doi.org/10.1177/10731911241234
+
+Smit, D. J. A., Bakker, M., Abdellaoui, A., Hoetink, A. E., Vulink, N., &amp; Denys, D. (2023). Frontiers
+
+Vitoratou, S., Hayes, C., Uglik-Marucha, E., &amp; Gregory, J. (2020). Listening to People with Misophonia: Exploring the Multiple Dimensions of Sound Intolerance Using a New Psychometric Tool, the S-Five, in a Large Sample of Individuals Identifying with the Conditio . https://doi.org/10.31234/osf.io/4dzqn
+
+Journal Pre-proof A genome-wide association study of a rage-related misophonia symptom and the genetic link with audiological traits, psychiatric disorders, and personality. in Neuroscience , 16 . https://doi.org/10.3389/fnins.2022.971752 Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., Kumar, S., Rosenthal, M. Z., Rouw, R., Schiller, D., Simner, J., Storch, E. A., Taylor, S., Werff, K. R. V., Altimus, C. M., &amp; Raver, S. M. (2022). Consensus Definition of Misophonia: A Delphi Study. Frontiers in Neuroscience , 16 . https://www.frontiersin.org/articles/10.3389/fnins.2022.841816 Thoma, N., Pilecki, B., &amp; McKay, D. (2015). Contemporary Cognitive Behavior Therapy: A Review of Theory, History, and Evidence. Psychodynamic Psychiatry , 43 (3), 423461. https://doi.org/10.1521/pdps.2015.43.3.423
+
+Vitoratou, S., Uglik-Marucha, N., Hayes, C., &amp; Gregory, J. (2021). Listening to People with Misophonia: Exploring the Multiple Dimensions of Sound Intolerance Using a New Psychometric Tool, the S-Five, in a Large Sample of Individuals Identifying with the Condition. Psych , 3 (4), Article 4. https://doi.org/10.3390/psych3040041
+
+## Journal Pre-proof
+
+Weis, S., Hodgetts, S., &amp; Hausmann, M. (2019). Sex differences and menstrual cycle effects in cognitive and sensory resting state networks. Brain and Cognition , 131, 66-73. https://doi.org/10.1016/j.bandc.2017.09.003
+
+Williams, Z. J., Cascio, C. J., &amp; Woynaroski, T. G. (2022). Psychometric validation of a brief self-report measure of misophonia symptoms and functional impairment: The dukevanderbilt misophonia screening questionnaire. Frontiers in Psychology , 13 , 897901. https://doi.org/10.3389/fpsyg.2022.897901
+
+Zhao, Y.-J., Zhang, S.-F., Li, W., Zhang, L., Guo, T., Cheung, T., Jackson, T., Yang, B. X., among residents of Wuhan, China during the later stage of the COVID-19 pandemic: A network analysis. Journal of Affective Disorders , 318 , 456-464. https://doi.org/10.1016/j.jad.2022.08.104
+
+Journal Pre-proof Wu, M. S., Lewin, A. B., Murphy, T. K., &amp; Storch, E. A. (2014). Misophonia: Incidence, Phenomenology, and Clinical Correlates in an Undergraduate Student Sample: Misophonia. Journal of Clinical Psychology , 70 (10), 994-1007. https://doi.org/10.1002/jclp.22098 Zeiler, M., Philipp, J., Truttmann, S., Waldherr, K., Wagner, G., &amp; Karwautz, A. (2021). Psychopathological Symptoms and Well-Being in Overweight and Underweight Adolescents: A Network Analysis. Nutrients , 13 (11), 4096. https://doi.org/10.3390/nu13114096 &amp; Xiang, Y.-T. (2022). Associations between depressive symptoms and quality of life
+
+Zhou, X., Wu, M. S., &amp; Storch, E. A. (2017). Misophonia symptoms among Chinese university students: Incidence, associated impairment, and clinical correlates. Journal of Obsessive-Compulsive and Related Disorders , 14 , 7-12. https://doi.org/10.1016/j.jocrd.2017.05.001
+
+## Author Statement
+
+## Funding sources
+
+Funding was provided by both the REAM Foundation and anonymous donors.
+
+## Author contributions
+
+Yanyan Shan: Conceptualization, Methodology, Formal analysis, Investigation, Writing - original draft, Writing - review &amp; editing, Visualization, Project administration.
+
+Marta Siepsiak: Conceptualization, Investigation, Writing - review &amp; editing.
+
+Ethical approval (Pro00102579) for the study was obtained from the Duke Health
+
+## Journal Pre-proof Kibby McMahon: Conceptualization, Investigation, Writing - review &amp; editing. Rachel Guetta: Investigation, Resources, Data curation, Writing - review &amp; editing. Lisalynn Kelley: Investigation, Resources, Data curation, Writing - review &amp; editing. Tao Chen: Methodology, Validation, Writing - review &amp; editing. M. Zachary Rosenthal: Conceptualization, Funding acquisition, Methodology, Resources, Supervision, Writing - review &amp; editing. Data availability The data files underlying the results presented in the study are available via the Duke Data Research Repository: https://doi.org/10.7924/r4mp57d4n (in plain text is 10.7924/r4mp57d4n). Ethics approval
+
+Institutional Review Board.
+
+## Consent to participate
+
+Informed consent was obtained from all individual participants included in the study.
+
+## Consent for publication
+
+The participants provided informed consent for the publication of their anonymized data.
+
+## Acknowledgements
+
+The authors would like to thank all the participants who took part in this study and contributed to the advancement of our understanding of misophonia.
+
+## Declaration of Interest Statement
+
+Journal Pre-proof Dr. Rosenthal receives book royalties from the American Psychological Association and is a consultant for several digital health companies (Odin, RealizedCare). All of this work is unrelated to misophonia. In addition, Dr. Rosenthal provides clinical training workshops about misophonia to community clinicians for a fee.
+
+## Journal Pre-proof
+
+## Highlights
+
+- ·  The first network analysis of the Duke Misophonia Questionnaire (DMQ) was conducted
+- ·  Impairment subscale was the most central in the overall network
+- ·  Central items included cognitive reactions ("I need to get away," "I thought about hurting
+
+them"), affective reactions (panic, anger), non-acceptance beliefs ("I hate being like this"), and self-esteem deterioration
+
+- ·  Females reported more severe cognitive and physiological symptoms than males.
+- ·  Prioritizing central components may benefit assessment and intervention
+
+Journal Pre-proof

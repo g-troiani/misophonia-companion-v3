@@ -1,0 +1,2430 @@
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+Available online 8 November 2022
+0149-7634/© 2022 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).First few seconds for flow: A comprehensive proposal of the neurobiology 
+and neurodynamics of state onset 
+Steven Kotlera, Michael Manninoa, Scott Kelsob,c, Richard Huskeyd,e,f,* 
+aFlow Research Collective, United States 
+bHuman Brain & Behavior Laboratory, Center for Complex Systems and Brain Sciences, Florida Atlantic University, United States 
+cIntelligent Systems Research Centre, Ulster University, Derry~Londonderry, North Ireland 
+dCognitive Communication Science Lab, Department of Communication, University of California Davis, United States 
+eCognitive Science Program, University of California Davis, United States 
+fCenter for Mind and Brain, University of California Davis, United States   
+ARTICLE INFO  
+Keywords: 
+Flow 
+Psychology 
+Network neuroscience 
+Altered consciousness 
+Systems neuroscience ABSTRACT  
+Flow is a cognitive state that manifests when there is complete attentional absorption while performing a task. 
+Flow occurs when certain internal as well as external conditions are present, including intense concentration, a 
+sense of control, feedback, and a balance between the challenge of the task and the relevant skillset. Phenom -
+enologically, flow is accompanied by a loss of self-consciousness, seamless integration of action and awareness, 
+and acute changes in time perception. Research has begun to uncover some of the neurophysiological correlates 
+of flow, as well as some of the state ’s neuromodulatory processes. We comprehensively review this work and 
+consider the neurodynamics of the onset of the state, considering large-scale brain networks, as well as dopa-
+minergic, noradrenergic, and endocannabinoid systems. To accomplish this, we outline an evidence-based hy-
+pothetical situation, and consider the flow state in a broader context including other profound alterations in 
+consciousness, such as the psychedelic state and the state of traumatic stress that can induce PTSD. We present a 
+broad theoretical framework which may motivate future testable hypotheses.   
+1.Introduction 
+Flow is an altered state of consciousness that is thought to occur 
+when we are fully engaged in a relatively challenging task or activity 
+that is matched to our skills. The phenomenon has been scientifically 
+investigated for nearly fifty years, after first being elucidated by Mihaly 
+Csikszentmihalyi in the 1970 s (Csikszentmihalyi, 1975 ), who studied 
+the state from a psychological framework (Csikszentmihalyi, 1990 ). 
+While researchers built upon this framework for nearly five decades, 
+investigations into the state ’s underlying neurophysiology are relatively 
+recent. Yet, it is known that flow is associated with specific alterations in 
+brain activity, including changes in neural oscillation, 
+neuro-modulatory processes, dynamic activations of specific brain re-
+gions, as well as alterations in large-scale brain connectivity. 
+Additionally, both cognitively and neurobiologically, the state of 
+flow shares overlap with other altered states of consciousness, including 
+meditative and psychedelic states, states of traumatic stress, and so- 
+called peak or optimal experiences (Carhart-Harris et al., 2012, 2014; Brandmeyer et al., 2019; Wheeler and Dyer, 2020 ). While scientists have 
+explored some of the neurobiological changes beneath the aforemen -
+tioned altered states (Brewer et al., 2011; Nash et al., 2018; Yanes and 
+Loprinzi, 2018 ), the precise neural mechanisms underpinning the onset 
+of flow and the state itself remain unclear, both empirically and theo-
+retically. In addition, a comprehensive theoretical account of flow ’s 
+neural dynamics is missing from the literature, yet exists for other 
+altered states (Preller et al., 2019; Girn et al., 2017; Travis, 2020 ). Thus, 
+the current research leaves open many questions: How does the brain 
+transition into a flow state? What is the temporal nature of this transi -
+tion, including how long do the changes that facilitate state onset last, 
+and what neural dynamical processes mark the transition into the state 
+itself? From a neuroscientific perspective, how is flow distinct from, or 
+similar to, other altered states of consciousness? 
+In order to answer the aforementioned questions, we compare and 
+contrast the neurobiological mechanisms for flow with other profound 
+alterations in consciousness, including both psychedelic states and the 
+traumatic stress that can produce Post-Traumatic Stress Disorder 
+*Corresponding author at: Cognitive Communication Science Lab, Department of Communication, University of California Davis, United States. 
+E-mail address: rwhuskey@ucdavis.edu (R. Huskey).  
+Contents lists available at ScienceDirect 
+Neuroscience and Biobehavioral Reviews 
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2zo�lt{ ~o�!
+https://doi.org/10.1016/j.neubiorev.2022.104956 
+Received 3 July 2022; Received in revised form 22 October 2022; Accepted 6 November 2022
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+2(PTSD). We argue that this comparative approach is helpful when 
+considering factors such as mood states, fear inhibition, emotional 
+arousal, hyper-vigilance, and contextual cue processing. We propose a 
+comprehensive empirical and theoretical account of the onset of flow. 
+This account includes a number of clear and measurable brain signals 
+that precede the onset of the state, and suggests that there is a large-scale 
+brain network associated with flow. 
+The goals of this paper are five-fold: First, we review current research 
+on flow, laying the groundwork for a rigorous exploration of the flow’s 
+neurobiology, including establishing the criteria that any viable expla -
+nation of flow’s neural dynamics should meet. The purpose of this paper 
+is to comprehensively draw upon the relevant literature in order to 
+rigorously propose and justify a novel framework for the onset of flow, 
+as well as establish an agenda for future flow research. Second, we 
+outline a conceptual scenario where two fundamental outcomes can 
+occur: the onset of flow, or the onset of traumatic stress that may lead to 
+PTSD. Third, we propose a neural mechanism for the onset of flow that 
+involves selected activation of a large-scale network and a set of brain 
+regions with specific patterns of networked communication. Fourth, by 
+drawing upon recent studies of the neural dynamics of the psychedelic 
+state, we construct a proposal for the brain dynamics of flow, and further 
+suggest that this proposal may yield a computational modeling 
+approach. Fifth, given our comprehensive account of a possible flow 
+network and its dynamics, we link flow’s neurobiology with its phe-
+nomenology, then compare those dynamics with both trauma, and the 
+psychedelic state. In doing so, we lay a foundation for generating new, 
+testable hypotheses that can add to the empirical literature on the 
+neurobiology of flow. 
+Finally, given the complexity of the brain and the contextual inter-
+action between the body and environment during flow, a comprehensive 
+explanation of the neurobiology of flow onset must incorporate concepts 
+from a number of neuroscientific domains, explained at multiple levels 
+(Huskey et al., 2020). These include behavioral, theoretical, molecular 
+and systems neuroscience. Thus, our proposal offers a first accounting of 
+relevant mechanisms involved in flow: neurotransmitter systems, neural 
+oscillation, and large-scale functional connectivity, and links each with 
+the phenological characteristics of flow. 
+2.An overview of flow research 
+The formal study of flow began in the 1970 s, with Mihaly Csiks -
+zentmihalyi’s systematic investigations. Csikszentmihalyi defined flow 
+as “an optimal state of consciousness where we feel our best and perform 
+our best” and discovered that flow is a universal phenomenon in 
+humans, arising globally, independent of task, and regardless of class, 
+culture, or creed (Csikszentmihalyi, 1990). 
+Additionally, Csikszentmihalyi identified six phenomenological 
+characteristics that are commonly present during flow: Hyper-focused, 
+task-specific attention; the merger of action-and-awareness leading to 
+total absorption in task-engagement; the diminishment of self-reflective 
+cognition and awareness of bodily processes; an altered perception of 
+time; a heightened level of task-performance accompanied by a feeling 
+of complete control; and significant positive affect, including high levels 
+of intrinsic reward, enjoyment, pleasure, euphoria and, often, increased 
+feelings of meaning and purpose. Psychometrically, these six charac -
+teristics have become the way researchers both define and measure flow. 
+Whether these characteristics are necessary as well as sufficient condi -
+tions for the experience of flow remains an open question. In fact, to our 
+knowledge, no research into the neurobiological mechanisms involved 
+in flow have confirmed the presence of all six characteristics. What has 
+been shown is that the intensity of each characteristic helps researchers 
+determine where an experience sits on the spectrum between micro- 
+flow, a low intensity flow experience, or macro-flow, a high intensity 
+flow experience (Csikszentmihalyi, 1975; Csikszentmihalyi and Naka -
+mura, 2002; Engeser, 2012). While this research is based on 
+self-reported subjective assessments, it appears to be largely consistent as a categorization of the “spectrum” of flow experiences. 
+More broadly, flow is an altered state of consciousness (Dietrich, 
+2004; Csikszentmihalyi and Nakamura, 2014; Lee et al., 2016). Altered 
+states of consciousness (Wittmann, 2018) are characterized as signifi -
+cant deviations from normal waking states of consciousness. For 
+instance, flow has been shown to be associated with phenomena found 
+in other altered states, including disassociation, the feeling of oneness 
+with everything, and out-of-body experiences (for disassociation, 
+Wanner et al., 2006; for oneness, see: Newberg et al., 2001; Tsaur et al., 
+2013; Yaden et al., 2017; Kotler, 2006, 2013; for out of body experi -
+ences, see: Kotler, 2006). 
+Several excellent recent systematic and scoping reviews have been 
+published on flow, which address psychology, physiology, and neuro -
+biology, for both individual as well as group flow, including van der 
+Linden et al. (2021), Knierim et al. (2018), Khoshnoud et al. (2020), 
+Kryston et al. (2018), Fisher et al. (2021), Weber et al., (2016, 2020), 
+Gold and Ciorciari, 2020; Pels et al., 2018, and Peifer et al. (2022). Our 
+review and proposal draws on this existing work and extends it in two novel 
+ways. First, we elucidate the underlying neural dynamics of flow, in 
+terms of network and coordination dynamics, something which has not 
+been previously discussed. And second, also for the first time, we discuss 
+the neural dynamics of flow in the context of the dynamics of trauma, 
+and the psychedelic state. 
+Any viable explanation of flow’s underlying neurobiology needs to 
+satisfy several criteria. First, it must account for the altered state of 
+consciousness that characterizes flow. Second, it must link flow’s 
+phenomenological characteristics with neurobiological processes. 
+Finally, any viable explanation of flow’s underlying neurobiology and 
+neural dynamics must consider both prior research and satisfy an 
+additional number of explanatory requirements, including flow’s widely 
+documented impact on performance and the currently theorized “flow 
+triggers,” the pre-conditions that have been proposed to produce, or at 
+very least, be correlated with, flow. Although the literature on flow is 
+becoming extensive, the neurobiology underlying the concept and its 
+antecedent causes, much like hypnosis (Landry et al., 2017), are not yet 
+fully explained. Flow neuroscience faces many of the same challenges 
+that face the general scientific study of consciousness, creating a unified 
+objective theory of subjective experience (Seth and Bayne, 2022). 
+Nevertheless, the fact that flow and its well-documented effects can be 
+successfully investigated from a psychological and phenomenological 
+perspective (Melnikoff et al., 2022) suggests an optimistic outlook for 
+the neurobiological elucidation of flow. In what follows, we briefly 
+outline currently theorized flow triggers, their possible causal role, and 
+the resulting performance enhancements associated with flow. 
+2.1. The Functionality of Flow’s Triggers 
+Previous theorizing argues that several “triggers” are causally linked 
+with individual and group flow (Sawyer, 2017; Csikszentmihalyi and 
+Nakamura, 2002; and for a full overview, see Kotler, 2021). As this 
+paper concerns individual flow, it is only the individual flow triggers 
+that are discussed herein. These triggers include: (a) clear goals, im-
+mediate feedback and the challenge/skills balance where both the task’s 
+challenge and an individual’s skills are high (Csikszentmihalyi, 1990; 
+Csikszentmihalyi and LeFevre, 1989, 2012; Nakamura and Csikszent -
+mihalyi, 2005), (b) novelty, complexity, unpredictability, and insight 
+(Kotler, 2006, 2021; Teng, 2011), (c) risk (Martin and Priest, 1986; 
+Celsi, 1993; Kotler, 2013; Schüler and Nakamura, 2013), (d) deep 
+embodiment or the hyper-awareness of cross sensory modalities 
+(Csikszentmihalyi, 1990; Chavez, 2008; Jaque et al., 2020), major 
+intrinsic motivators such as curiosity, autonomy, passion, purpose and 
+mastery (Bakker and Geurts, 2004; Quinn, 2005; Salanova et al., 2006; 
+Kotler, 2021). Additionally, while this idea remains speculative, some 
+researchers have argued that flow triggers operate via independent yet 
+often overlapping mechanisms that govern the allocation of attention to 
+the task-at-hand: the activation of dopaminergic and/or noradrenergic S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+3pathways and/or the perceived low-levels of cognitive load, even when 
+objective measures show otherwise (Harris et al., 2017a, 2017b; Kotler, 
+2021 ). 
+2.2. A hypothetical situation: flow versus PTSD 
+In order to examine the neurobiological processes that may occur 
+during the onset of flow, consider the following hypothetical situation: A 
+highly skilled motorcycle rider is speeding down the freeway and sud-
+denly gets cut off by a car (the “event ”). While other mental states are 
+possible (mind-wandering, for example), assume that pre-event, the 
+motorcyclist is actively engaged in the task of driving down the freeway, 
+with concurrent increases in focus and alertness. Next, to avoid collision, 
+the motorcyclist has an immediate response, swerving around the 
+offending car. Now consider two possible and frequently reported out-
+comes of high-risk situations, each with their own distinct yet over-
+lapping psychological characteristics. 
+In one possible outcome, the motorcycle rider starts to swerve, 
+rapidly transitions into flow and skillfully avoids the car. The motor -
+cyclist draws upon prior experience and skills and performs a series of 
+perfectly timed motor actions with a high level of task proficiency. More 
+specifically, the situation elicits the flow ’s theorized triggers and should 
+be associated with psychological characteristics that are present during 
+the experience, including complete concentration on the task-at-hand, 
+the merger of action and awareness, an altered sense of time (dilation 
+or acceleration), a diminishment in sense of self, a heightened sense of 
+control over the situation, and a post-event increase in positive affect 
+and mood. 
+Alternatively, the motorcycle rider starts to swerve, feels a sense of 
+overwhelm and panic, yet manages to maneuver around the car and 
+avoid an accident. In this case, the motorcyclist is likely to experience 
+traumatic stress, including heightened anxiety, feelings of terror and 
+powerlessness, and a post-event increase in negative affect, hyper- 
+vigilance and the distinct possibility of Post-Traumatic Stress Disorder 
+(PTSD). In order to motivate a discussion concerning the transition into 
+a flow state, we emphasize that, in this situation and before the event 
+takes place, the driver is not yet in flow; rather in a state of appropriate 
+arousal and alertness (and valence). The transition into flow may occur 
+when an event takes place that could potentially lead to flow —that is, an 
+event with a confluence of flow triggers. 
+While these scenarios are not the event ’s only possible psychological 
+outcomes, both are frequently reported phenomena in high-risk situa-
+tions, including those found in adventure activities, sports and combat 
+(for flow, see: Allen-Collinson et al., 2018; Jackson, 1992 , for trauma, 
+see: Ozer et al., 2003; Van der Kolk and Van der Hart, 1989) . We also 
+note that the comparison between flow and the precursors of PTSD in 
+this hypothetical situation may generalize most readily to high-risk 
+situations. Admittedly, not all flow experiences are high-risk (e.g., aca-
+demic achievement, work productivity, media use, artistry, mental 
+health). Nevertheless, we emphasize that this particular hypothetical 
+situation is useful in that it allows for a broader theoretical investigation 
+concerning flow experiences and an opportunity to consider their rela-
+tion to PTSD and the psychedelic state. Moreover, we expect the same 
+sequence of neurobiological events should result in flow for both high- 
+and low-risk circumstances. Therefore, we pose this hypothetical situ-
+ation to underscore a crucial question: What precise alterations in brain 
+function and neural dynamics distinguish these two outcomes, either the 
+transition into flow or the transition into traumatic stress? 
+Consider that, neurobiologically, the pre-flow/pre-trauma initial 
+conditions are identical. The motorcyclist is experiencing heightened 
+focus and alertness, reflecting increased activity in large scale brain 
+networks, including executive attention, salience, motor action planning 
+and execution. Next, as the “event ” begins, the motorcyclist is cut off by 
+the car. Neurobiologically, this produces an immediate increase in ac-
+tivity in the brain ’s salience network (SN), which is charged with the 
+detection of novel and relevant stimuli (Menon and Uddin, 2010; Weber and Fisher, 2020 ). Whether the motorcyclist ’s experience becomes 
+ecstatic (flow) or traumatic is likely to depend on what happens next. If 
+the experience is overwhelming, terrifying, or there are physical or 
+mental constraints that inhibit the execution of action plans, then the 
+swerve is likely to result in traumatic stress. However, if flow ’s triggers 
+are present, then we theorize that this should result in a sequence of 
+neural responses that elicit flow, and the corresponding psychological, 
+phenomenological, and behavioral responses. 
+This emphasis on “action ” is particularly important to our discussion. 
+In the literature surrounding both flow and PTSD, action or the inability 
+to act consistently plays a crucial role. “Flow is triggered during a task, 
+thereby implying motor execution ” (Michailidis et al., 2018 ). Addi-
+tionally, in flow, this action has two phenomenological qualities: 
+effortlessness and empowerment. Effortlessness implies automatic pro-
+cessing (Dietrich and Stoll, 2010 ), while empowerment refers to one of 
+the flow ’s core psychological characteristics: a “sense of control. ” 
+Moreover, the “inability to act” is one of the causal factors involved in 
+PTSD (Van der Kolk and Van der Hart, 1989 ) and learned helplessness 
+(Miller and Norman, 1979; Seligman, 1972 ). This suggests that the 
+heightened sense of control in flow may be the opposite of learned 
+helplessness or what could be termed “learned powerfulness, ” and 
+considered as a possible pre-condition for resiliency and post-traumatic 
+growth, a term coined by Tedeschi and Calhoun (2004) to describe 
+“positive psychological change experienced as a result of the struggle 
+with highly challenging life circumstances ”. 
+Similarly, researchers have found that many of flow ’s performance 
+benefits, including increases in well-being, meaning, empathy, motiva -
+tion, grit, and environmental awareness are also characteristic of post- 
+traumatic growth (Jayawickreme et al., 2022; Maitlis, 2020; Tedeschi 
+and Calhoun, 2004; Waters et al., 2022 ). This overlap in performance 
+benefits suggests that flow and post-traumatic growth may share un-
+derlying neurobiological mechanisms , an idea that aligns with Selye ’s 
+(1956) division between eustress (beneficial stress) and distress 
+(harmful stress) and lends additional support to our comparison of flow 
+and trauma (for linkages between flow and eustress, see Hargrove et al., 
+2013 ). 
+As a way to explore these changes, we examine the event temporally, 
+breaking the incident into nine “sequence-coded ” sections —starting 
+with T 0, the moment before the rider is cut off in traffic, and pro-
+ceeding to T 9, the post-event moment when the rider drives down the 
+freeway in either flow or traumatic stress —and detail the precise 
+neurobiological changes that underpin each step in the sequence. This 
+framework both allows us to see when, where and why the experiences 
+of flow and trauma overlap then diverge, while further serving to 
+elucidate flow ’s phenomenology, its performance benefits and the 
+functionality of known flow triggers. 
+2.3. T 0: Pre-Flow Events 
+The specific neurobiological pre-conditions that elicit flow comprise 
+a vast state space. Nevertheless, people get into flow doing all sorts of 
+tasks, suggesting that the exact details of pre-event neurobiology are less 
+important than the increase in salience that marks the onset of the event. 
+Therefore, we maintain our motorcycle hypothetical situation. At the 
+start of the event, our motorcyclist is speeding down the freeway in a 
+state of alert focus. Neurobiologically, the executive attention network 
+(EAN) is engaged, as this network has been shown to facilitate attention 
+while driving (Ball et al., 1993; Clay et al., 2005 ), including when 
+drivers experience a sudden road hazard then drive away safely, which 
+accurately describes our hypothetical situation (Åkerstedt et al., 2005 ). 
+At T 0, an “unexpected stimulus ” arrives, requiring amplification 
+in SN connectivity (Seeley et al., 2007 , Menon and Uddin, 2010 ; Srid-
+haran et al., 2008 ). This is significant because the SN has been theorized 
+to be involved in facilitating shifts into flow (Huskey et al., 2018, 2021 ; 
+Weber and Fisher, 2020 ). Moreover, the SN is involved in the initiation 
+of cognitive control (Botvinick et al., 2004 ), the coordination of S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+4behavioral responses (Medford and Critchley, 2010 ) and the mainte -
+nance and implementation of task-sets —(Nelson et al., 2010 ) a term 
+that describes the configuration of cognitive processes that are actively 
+maintained for subsequent task performance (for a review, see Sakai, 
+2008) . Once that unexpected stimulus is detected, the key SN regions 
+that are active in both our flow and trauma scenarios likely include the 
+dorsal anterior cingulate cortex (dACC), the anterior right insula (aRI), 
+the presupplementary motor area (PSA), amygdala, ventral striatum and 
+ventral tegmental area (VTA). 
+The dorsal anterior cingulate cortex (dACC) is an important cognitive 
+control structure (Holroyd et al., 2004 ) and is likely involved in 
+detecting the unexpected stimulus (the car), as the dACC is associated 
+with conflict detection and error identification (Carter and Van Veen, 
+2007 ; for review: Falkenstein et al., 2000) . In conflict detection, the ACC 
+monitors attentional conflicts to signal whenever additional resources 
+are required. In predictive-coding, a series of reciprocal connections 
+between the ACC and the medial prefrontal cortex (mPFC) are involved 
+in the prediction and processing of error messages (Alexander and 
+Brown, 2019 ). In addition, the aRI may be involved, as this region is also 
+active during performance monitoring and error processing (Ullsperger 
+et al., 2010 ). In this scenario, the aRI initiates the process, acting as a 
+“cortical outflow hub” that coordinates activity changes across multiple 
+brain networks in response to error detection (Chang et al., 2013, 2012 ). 
+Beyond the dACC and aRI, there are three additional regions of in-
+terest. The presupplementary motor area (pre-SMA) facilitates the se-
+lection of action plans and the suppression of conflicting action plans 
+(Nachev, 2007 ), allowing the motorcyclist to decide to, say, swerve left 
+instead of right. The amygdala plays, among other things, a role in threat 
+detection (Ohman, 2005 ; Phelps and LeDoux, 2005 ), responding to 
+novel events in the environment, though it is especially sensitive to 
+novel dangers —like the motorcyclist being cut off by that car. Finally, 
+the dopaminergic regions including the ventral striatum and the ventral 
+tegmental area are involved in motivation, reward and the reinforce -
+ment of behavior (Beier et al., 2015 ), including unpredictable, high-risk 
+behaviors such as swerving a motorcycle in traffic. 
+2.4. T 1: Error Signaling 
+Moving forward in our sequence, once the salience network detects a 
+perceptual change, the brain generates an error signal that helps lock 
+attention on target. This requires many of the regions involved in the 
+orienting of attention to a perceptual event, including the posterior 
+parietal cortex, as well as the frontal and subcortical control systems of 
+spatial attention (Husain and Rorden, 2003; Mesulam, 1999 ). Addi-
+tionally, the dACC remains active, as this region is partially responsible 
+for reorienting. 
+It is likely that there is an event-related potential (ERP) associated 
+with this error detection. Based on the relevant literature, candidates 
+include an error-relative negativity signal appearing 80–100 ms after the 
+stimulus (Muzammel et al., 2018 ) or the N200, a negative deflection 
+appearing 200 ms after the stimulus reflecting either conscious attention 
+or an unexpected stimulus or both (Muzammel et al., 2018; Patel and 
+Azzam, 2005 ). Relatedly, Grahek et al. (2022) have shown that the P3b 
+(a signature of prediction error updating) tracks perceived efficacy at 
+achieving rewards. In short, there is a stronger P3b response when 
+people update from a low-efficacy of achieving a reward to a 
+high-efficacy prediction. Together, these error signals may help guide 
+the allocation of selective attention and control necessary for experi -
+encing flow. 
+2.5. T 2: selective attention 
+At this stage in our scenario, the motorcyclist recognizes the car and 
+its potential danger. A central, but still somewhat unanswered question 
+is how the brain, in a high-risk situation, is able to appropriately filter 
+out an enormous amount of incoming information in order to perform the correct action and make adaptive decisions. This neurobiological 
+filtering phenomenon is known as sensory gating (Jones et al., 2016 ; 
+Zabelina et al., 2015 ), and is a core component of cognitive control 
+wherein prepotent stimuli are downregulated to facilitate flexible and 
+adaptive pursuit of a specific goal (Cole et al., 2013; Miller and Cohen, 
+2001 ). 
+This process functions as an attentional regulation mechanism and 
+appears involved in the transition into both flow and PTSD. Importantly, 
+recent research in mice has shown that executive attention —as related 
+to sensory gating —rather than acting as spotlight, is actually regulated 
+by inhibition, similar to a filtering process (Wimmer et al., 2015 ). In this 
+process, the thalamus serves as a bottom-up relay hub, communicating 
+selected information to large areas within the cortex, including the 
+attentional system in the prefrontal cortex. This process is heavily 
+influenced by motivation and reward processing, which guide control 
+deployment (Botvinick and Braver, 2014 ). 
+Yet this is not solely a bottom-up process, as Wimmer et al. (2015) 
+found a top-down feedback loop wherein changes in PFC activity inhibit 
+sensory components of the thalamic reticular nucleus (TRN). Thus, the 
+PFC regulates thalamic activity by allowing relevant information to be 
+processed, while suppressing irrelevant information via various sub-
+networks. In follow up research, Nakajima et al. (2019) , discovered that 
+the relevant inhibitory pathway extends from the PFC to basal ganglia 
+(BG) to TRN. 
+In the PFC-BG-TRN pathway, the BG inhibits distracting and irrele -
+vant information, while enhancing appropriate cues. In our motorcyclist 
+example, it is likely that the driver experiences the dampening of 
+auditory information in favor of the highlighting of visual information, a 
+commonly reported phenomenon in high-risk situations (Parr and Fris-
+ton, 2018; Kotler, 2013 ). This is a form of goal-directed sensory filtering 
+that impacts attention and, via additional BG connections, motor per-
+formance. This also means that cognition is intimately tied to action and 
+further underscores the “ability to act” versus the "inability to act” as a 
+key differentiator between experience outcomes (flow or PTSD). Addi-
+tionally, during threat recognition, two other processes involving the BG 
+are important to this discussion: the phasic response in dopamine (DA), 
+signaling a reward-prediction error (Schultz, 2016 ; see T 3 for further 
+discussion), and the inhibition of impulsive behaviors (see below). 
+On the flow side of our motorcyclist scenario, the selection of 
+appropriate motor plans must correlate with a specific neurobiological 
+mechanism, with the subthalamic nucleus (STN) the likely candidate. 
+Ballanger et al. (2009) found that stimulation of the subthalamic nucleus 
+(STN), via connections with the motor cortex, increases impulsive 
+behavior during high-conflict decision making, while an opposing 
+“proactive inhibition ” response (braking, in the motorcyclist ’s scenario) 
+hinders performance in high-risk situations that demand an immediate 
+motor response. The authors appropriately refer to this model as 
+“release your horses. ” 
+2.6. T 3: task engagement verses disengagement 
+Concurrent with events described in T 2, core neuromodulatory 
+processes are likely engaged as the motorcyclist ’s reorienting response 
+activates noradrenergic and dopaminergic pathways as well as the 
+endocannabinoid system (ECS) in order to enhance executive attention, 
+motor response and reward. We will address these systems individually. 
+As a core hub in the salience network, the dACC helps focus attention 
+on a single target by triggering the release of norepinephrine from the 
+locus coeruleus (LC), the brainstem nucleus responsible for most of the 
+brain ’s norepinephrine (Seeley et al., 2007; Berridge and Waterhouse, 
+2003; Mather et al., 2016; Ventura et al., 2008; Menon and Uddin, 
+2010 ). Connections running between the LC and the amygdala and be-
+tween the LC and the PFC are centrally involved in fear processing, 
+attention switching, task-engagement, and increased learning (Corbetta 
+and Shulman, 2002 ). Further connections run between the LC and the 
+motor cortex (M1) that extend to our facial muscles and eyes (Ferrucci S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+5et al., 2013 ). This could explain why changes in facial expression have 
+been repeatedly correlated with flow and trauma (for flow: de Manzano 
+et al., 2010 ; for trauma: Garrett et al., 2012 ). 
+In the amygdala, the arrival of NE begins the process of threat 
+assessment (Gu et al., 2019;LeDoux, 2015 ). It appears that NE arrives 
+first in the basolateral amygdala (BLA), which is both critical for forming 
+stimulus outcome value representations (Pizzagalli et al., 2011 ), and as 
+an adaptive response that primes learning. As both flow and trauma 
+result in rapid learning, the presence of NE in the BLA might help explain 
+this phenomenon. 
+In the PFC, NE increases signal-to-noise ratios in cortical networks 
+(Xing et al., 2016 ) and triggers many of the top-down processes asso-
+ciated with executive attention. NE projections in the PFC are 
+well-distributed but are particularly active in the medial prefrontal 
+cortex (mPFC). While the amygdala-LC pathway is critical for creating 
+aversive memories, the LC-mPFC pathway is crucial to extinguishing 
+aversive memories, suggesting that this is an important division between 
+flow and PTSD. Additionally, pharmacological targeting of the LC-NE 
+pathways in both the amygdala and mPFC has provided symptomatic 
+relief for people suffering from PTSD (Taylor et al., 2008 ). 
+In high-risk situations such as our motorcyclist ’s, NE is also involved 
+in decreasing and suppressing working memory in favor of flexible 
+attention (Berridge and Spencer, 2016 ). In times of stress, Snyder et al. 
+(2012) have shown that corticotropin-releasing factor (CRF) acts as a 
+neurotransmitter in the LC, shifting discharge from phasic to tonic in 
+order to promote behavioral flexibility. As there are bidirectional con-
+nections between the LC and mPFC and orbital frontal cortex (OFC), this 
+shift from phasic to tonic carries information up to the PFC (Berridge and 
+Waterhouse, 2003 ). According to Adaptive-Gain Theory (Aston-Jones 
+and Cohen, 2005 ), this shift reflects a change from the exploitation of a 
+known strategy for producing behavioral outcomes (a phasic process) to 
+an exploration of a novel strategy for new and potentially preferential 
+outcomes (a tonic process). 
+Inversely, Sadacca et al. (2017) has shown that depletion of tonic NE 
+in the OFC and, possibly, the mPFC, can result in a lack of attentional 
+flexibility —which could help explain why experiences become either 
+trauma or flow. Based on this evidence, we suggest that, if the motor -
+cyclist does not have enough tonic NE in their system, they may not have 
+enough attentional flexibility to solve the swerve problem, resulting in 
+traumatic stress. Further evidence for this can be found in the fMRI work 
+of Naegeli et al. (2018) who found PTSD patients have exaggerated 
+behavioral and autonomic responses to loud sounds, suggesting sensi-
+tized phasic responses of LC neurons (for a review of NE-LC-PTSD 
+research, see: Borodovitsyna et al., 2018) . 
+Another line of evidence for the causal role of the LC-NE system in 
+attentional control, particularly goal-directed attention and impulse 
+control, comes from Bari et al. (2020) . Using optogenetics, the authors 
+demonstrate that the LC targets two different areas of the PFC, the 
+dorsal-medial PFC (dmPFC), known to be involved in enhancing focus 
+and performance, and the ventrolateral orbitofrontal cortex (vlOFC), 
+known to be involved in impulse reduction, with each area acting 
+independently, yet synergistically, via ascending efferent connections 
+from the LC (Corbetta and Shulman, 2002 ). In mice, separately stimu -
+lating the LC-NE pathways to the dmPFC and the vlOFC produces two 
+distinct behavioral outcomes, either improved correct performance or 
+impulse control, respectively. Moreover, the LC-NE system also acts as 
+global modulator for arousal in response to a threat or stressor (Morris 
+et al., 2020 ), which further emphasizes this systems role in the motor -
+cyclist scenario. The LC-NE system has been theorized to play an 
+important role in flow, particularly task engagement verses disengage -
+ment (van der Linden et al., 2021 ). Taken together, the LC-NE system 
+responds to threats during high-stakes situations, regulates the decision 
+to engage or disengage a task, and modulates two distinct attentional 
+pathways, one involved in reducing distracting information and the 
+other in reducing impulsive behaviors. 
+Interestingly, researchers have also found that both flow and traumatic stress are associated with out-of-body experiences (Blanke 
+and Thut, 2007; Rabeyron and Caussie, 2016 ; Kotler, 2006 ), a phe-
+nomenon that might be partially explained by NE activity in the tem-
+poral parietal junction. In the TPJ, NE is normally linked to failure 
+tracking, but the region (and especially the right TPJ) is also important 
+in empathy, perspective-taking and out-of-body experiences (Sha-
+may-Tsoory et al., 2005 ; Saxe and Kanwisher, 2003 ; Blanke and Arzy, 
+2005 ). This suggests that an out of body experience might be a 
+NE-triggered radical form of perspective-taking that arises early in 
+perceived crisis situations, arguably during the pre-action plan selection 
+phase, perhaps to aid in that selection. 
+When the brain detects a salient signal, there is also activity in the 
+mesocorticolimbic dopamine system anchored by the ventral tegmental 
+area (VTA). The VTA provides signals related to novelty, error and 
+reward, yet there is growing evidence that there are two different kinds 
+of DA neurons and that each responds to a specific kind of “reward ” 
+(Bromberg-Martin, 2010 ). The first are value-coding neurons that are 
+activated by unexpected rewarding events and inhibited by unexpected 
+aversive events. These value-coding neurons are found in the substantia 
+nigra (SN) and the VTA, while their projections end in the NAcc shell, 
+dorsal striatum (caudate and putamen) and vmPFC (Schultz, 2007 ). 
+The second class of DA neurons are saliency-coding neurons that 
+originate in the substantia nigra and VTA and project to the NAcc core, 
+dorsal striatum, and dorsolateral PFC (dlPFC). In both classes of DA 
+neurons in the VTA, activity is both phasic and tonic and relates to both 
+expectation of reward and errors in reward prediction (Schultz, 2016 ). 
+Additionally, DeYoung (2013) proposed these saliency-neurons are 
+activated by the incentive value of new information; while Di Domenico 
+and Ryan (2017) argue that these neurons alone could underpin intrinsic 
+motivation —two ideas that are relevant to flow ’s phenomenological 
+characteristics and impact on performance. 
+Yet, in our motorcycle example, the value-coding DA neurons are 
+activated first, as the unexpected aversive event —the car’s arrival in the 
+motorcyclist ’s visual field —would produce a reward prediction error 
+and a phasic decline in DA activity (Schultz, 2016 ). This may be the 
+original error signal that starts the entire flow or trauma process (dis-
+cussed in T 1). However, this phasic DA decline must be brief, as flow 
+has been consistently linked to heightened dopaminergic activity (Berns, 
+2005; Weber et al., 2009 ). Moreover, DA-producing experiences such as 
+risk, unpredictability, complexity, novelty, and insight, appear to pre-
+cipitate flow (Kotler, 2006, 2021 ). Finally, flow-proneness is associated 
+with availability of D2 receptors in the dorsal striatum (de Manzano 
+et al., 2013 ) and increased dorsal striatum gray matter volume (Kavous 
+et al., 2019 ). 
+At this step in the sequence, the phenomenology of time perception 
+comes into play. In crisis situations, both anecdotal and empirical evi-
+dence (Kotler, 2013 ) show that time appears to slow down or speed up 
+very early in high-risk situations. Similarly, Arstila (2012) argues that 
+this effect occurs due to a distortion of the relation between the temporal 
+properties of the external world and the internal state. Dopamine may be 
+responsible for this change in temporal phenomenology, as it is the main 
+neurotransmitter involved in time processing (Lustig and Meck, 2005; 
+Meck, 1996 ). Dopamine agonists tend to speed up time perception, 
+whereas dopamine antagonists slow it down. In our motorcycle 
+example, the initial reward detection error would likely produce a 
+phasic decline in DA that would slow the rider ’s perception of time. 
+Additionally, Roseboom (2019) correlated the experience of time dila-
+tion to the number of salient events which take place during a particular 
+scanning period. The greater the number of salient events, the longer the 
+current moment seems to last. In other words, the activation of the 
+motorcyclist ’s salience network could begin the process of time elon-
+gation, while the presence of dopamine could extend and/or deepen the 
+phenomenon. Importantly, these processes provide a mechanism for 
+time dilation that arises very early in the motorcyclist ’s experience 
+without requiring the localized deactivation of the medial PFC (see T 8 
+for full discussion). S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+6A significant body of research shows the endocannabinoid system 
+(ECS) is a regulator of anxiety and stress (for a review, see Hillard, 
+2018 ), and thus implicated in our motorcyclist ’s response to the event. 
+In a wide variety of situations, the introduction of an acute stressor —the 
+car, in our example —evokes bidirectional changes in the two main 
+molecules produced by the ECS: anandamide (AEA) and 2-archidonoly 
+glycerol (2-AG). These molecules are synthesized on-demand in post-
+synaptic membranes that feed back into presynaptic terminals (Kano 
+et al., 2009 ), where they bind to canabiniond recepters (CB) receptors 
+and serve a significant neuromodulatory function. Within the brain, CB 
+receptors are found on GABAergic, glutamatergic, serotonergic, norad -
+renergic and dopaminergic terminals —a list that includes many of the 
+neurochemicals directly implicated in both flow and trauma, suggesting 
+that the ECS may be something of a master neuromodulator of these 
+experiences. 
+In the amygdala (see T 4 for further review), where the threat 
+response is processed, CB receptors are primarily found in the baso-
+lateral amygdala (BLA), but also in the central nucleus. When these 
+receptors are inhibited, there is a decline in anandamide (AEA) in the 
+amygdala that contributes to the stress response by activating the 
+hypothalamic-pituitary-adrenal (HPA) axis and increasing anxiety. 
+Additionally, increases in 2-AG, the other major molecule produced by 
+the ECS, contribute to the termination and adaptation of the HPA 
+axis—that is, the end of the threat response —and potentially contribute 
+to pain perception, memory and synaptic plasticity (Gray, 2015 ). In 
+total, a decline in ECS activity is associated with anxiety and traumatic 
+stress, while (as we will see below) an increase in ECS activity may 
+prevent traumatic stress and enhance correct task-performance and 
+attention, two key components of the flow experience. 
+2.7. T 4: threat assessment 
+In this sequence, the neurobiological changes described in T 
+0 through T 3 reflect the motorcyclist ’s detection of an aversive and 
+unexpected stimulus. Here, in T 4, the motorcyclist ’s brain performs 
+threat assessments and begins the process of action plan selection. We 
+examine these details by focusing on key neuronal regions that are 
+directly implicated in both neurobiological studies of flow and trauma, 
+and by events necessitated by our motorcyclist ’s scenario —the activa -
+tion of the salience network by an unexpected stimulus, for example. 
+In the brain, sensory information about the external environ -
+ment —such as the sudden appearance of a car in our motorcyclist ’s 
+visual field —is processed by a pulvino-cortical loop that regulates se-
+lective attention (Saalmann et al., 2012 ) and then relayed to the 
+amygdala through a network of corticothalamic afferents. The amygdala 
+handles preconscious threat detection, emotional valence and, via 
+near-constant bidirectional signaling with the mPFC and the hippo -
+campus, associations with prior experience (Bishop, 2009; Hermans 
+et al., 2014 ). Bidirectional links between the central amygdala, brain -
+stem and hypothalamus are responsible for mounting fear responses 
+(Adolphs, 2013 ). In our scenario, in both the flow and trauma condi -
+tions, amygdala activity is likely, as the car represents a dire and im-
+mediate threat that produces a fear response. 
+In this fear response, sensory information is funneled into the basal 
+and basomedial cell groups, and the central nucleus of the amygdala 
+(Janak and Tye, 2015 ). The basolateral amygdala (BLA) is implicated in 
+survival-oriented behaviors such as freezing, fleeing, foraging, and 
+(possibly) fighting, and forms a circuit with the centrolateral amygdala, 
+(CLA) which is a critical structure for fear memory formation and stor-
+age (Penzo et al., 2015 ). In mice, Hartley et al. (2019) found the central 
+amygdala (CeA) is also involved in fear creation and extinction. CeA 
+neurons express corticotropin-release neuropeptide CRF, which re-
+duces conditioned freezing responses, impairs fear memory acquisition, 
+facilitates within-activity fear extinction, and is necessary for extinction 
+memory retrieval. Meanwhile, activity in corticotropin-release CRF- 
+neurons produces fear-based memories. These facts are relevant for two reasons. First, in order to facilitate 
+the swerve action plan, the motorcyclist had to inhibit automatic 
+braking responses, a function of CRFactivity. Second, the autotelic 
+nature of flow suggests within-activity fear extinction and post-event 
+fear extinction, both functions of CRF. This second argument is 
+crucial as no averse affective memory responses have been associated 
+with flow, yet the state frequently arises in high-risk situations that 
+would normally produce them (Csikszentmihalyi, 1990 ; Celsi, 1993 ; 
+Kotler, 2013 ). 
+Additionally, the endocannabinoid system (ESC) also plays a role in 
+threat assessment, as it can both inhibit or excite CRH response. More 
+specifically, there are both tonic and phasic ECS reactions to stress. In 
+the brain, higher tonic levels of AEA regulate stress and anxiety and play 
+a role in the prevention of PTSD (Gunduz-Cinar et al., 2013; Mayo et al., 
+2022 ). AEA is also the tonic signal of the Hypothalamic-Pituitary Axis 
+(HPA), which is partially responsible for mounting the stress response. 
+Under steady-state conditions, Morena et al. (2015) argued that this AEA 
+tone exists in the BLA, where it inhibits the HPA under non-stressful 
+conditions, and activates it under stress. Interestingly, the ECS system 
+is also active in the hippocampus and the mPFC, both regions critical for 
+fear-based associative processing, and over large portions of the PFC in 
+general, including most of the regions active in threat processing, 
+action-plan selection, and the creation or extinction of fear-based 
+memories. In total, mounting evidence suggests that the ECS plays a 
+significant neuromodulatory role in both the onset of flow and the onset 
+of trauma. 
+During threat assessment, information is also passed to the prefrontal 
+cortex for top-down evaluation (for a review, see Sussman et al., 2016 ). 
+A network involving the temporal-parietal junction (TPJ), the orbital 
+frontal cortex (OFC) and ventral lateral prefrontal cortex (vlPFC) helps 
+reorient attention to salient stimuli and is particularly sensitive to un-
+expected events (Corbetta and Shulman, 2002 ). Beyond these structures, 
+it appears that the specific prefrontal regions activated during threat 
+evaluation will differ depending on the situation, past knowledge, and 
+prior experience. In the flow literature, critical factors that help establish 
+the challenge-skills balance such as tolerance for anxiety, ability to delay 
+gratification, confidence, and optimism, are influential at this stage, and 
+likely determine the exact pattern of prefrontal activity. Yet there are a 
+few areas in the PFC that deserve particular scrutiny for their relevance 
+to our scenario. 
+In the motorcyclist example, in both flow and trauma, the appear -
+ance of an unexpected stimulus makes OFC activity likely. The OFC is 
+considered part of the vmPFC (discussed in greater detail below) and has 
+been implicated in both emotion and emotion-related learning, and is 
+part of the ventral network that reorients attention to salient stimuli and 
+emotional events (Thorpe, 1992 ; Hartikainen et al., 2012; O’Doherty 
+et al., 2001; Rule et al., 2002 ). Yet, there are important OFC divisions. In 
+amygdala-generated fear responses, both the medial OFC and the 
+ventromedial PFC (see below) are implicated in fear extinction and 
+reward-processing, while the anterolateral OFC signals the absence of a 
+reward and presence of certain negative stimuli (Milad and Rauch, 
+2007 ). In trauma studies, anterolateral OFC dysfunction has been 
+implicated in PTSD. 
+Relatedly, the vmPFC has bidirectional connection to the amygdala 
+and is involved in threat assessment and response, reward-processing, 
+and decision-making —all tasks that are required at this stage of the 
+event (Botvinick et al., 2001; Fellows, 2007; Rolls, 2000 ). Moreover, the 
+vmPFC assists in the selection of action plans (Yim, Cai and Wang, 2019 ) 
+and with solving problems associated with determining the actions of 
+ambiguous agents —the car in this scenario (Vartanian and Mandel, 
+2011 ). Evidence also shows that both the amygdala and the vmPFC are 
+active during the extinction of fear memories (Janak and Tye, 2015 ). 
+This idea aligns with studies of flow in rappers and musicians (Limb and 
+Braun, 2008; Liu et al., 2012 ) showing heightened activity in the 
+vmPFC —perhaps as a result of the creative decision-making and action 
+plan selection required by improvisation. Yet, other researchers (e.g., S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+7Barros et al., 2018; Huskey et al., 2018; Klasen et al., 2012; Ulrich et al., 
+2014, 2016a,b, 2022 ) found reduced activity across the whole of the 
+mPFC during flow, including the vmPFC. This discrepancy could 
+possibly be resolved with a better understanding of the interrelationship 
+between the mPFC, amygdala and the endocannabinoid system. CB1 
+receptors are plentiful in the mPFC and receptor activation by AEA in-
+hibits NE production across the entire region —suggesting a shift in fear 
+processing (Morena, 2015 ). 
+Finally, the right ventral lateral PFC (vlPFC) is involved in flexible 
+action plan selection and emotional forecasting (Bechara, 2011 ), both 
+processes that are relevant to our scenario. Yoshida et al. (2014) 
+discovered vlPFC activity during a study of gamers in flow, a finding 
+they linked to the vlPFC ’s role in the cognitive control of memory (Badre 
+and Wagner, 2007 ). Further explanation for vlPFC activity during flow 
+can be found in a frontal-striatal-thalamic loop that allows for the 
+flexibility in behavior seen in high flow activities like improv jazz, video 
+gaming, or a motorcyclist swerving through traffic. As this flexibility is 
+present throughout the entire flow experience and not just at state onset, 
+this could explain why Yoshida et al. (2014) found the vlPFC activated 
+throughout the flow experience, and particularly during later moments 
+in the flow eliciting task. Additionally, upregulating CB1 receptor 
+binding in the vlPFC promotes stress-coping strategies following un-
+predictable stress exposure (McLaughlin et al., 2014; Wirz et al., 2018 ). 
+If the ECS is modulating the vlPFC during flow, this further explains why 
+flow is likely to lead to post-traumatic growth and not post-traumatic 
+stress disorder. 
+2.8. T 5: threat processing 
+Following the threat assessment seen in T 4, as the motorcyclist 
+recognizes the imminent danger, threat processing occurs T 5. This 
+will likely require multiple structures within both the executive atten -
+tion network and salience network, but a full anatomical breakdown is 
+perhaps unnecessary. We know that a threat is detected in our motor -
+cyclist ’s experience because both of our conditions —flow and trauma -
+—activate the sympathetic nervous system. In humans, when the 
+amygdala detects danger, it sends a threat signal to the hypothalamus 
+that results in the release of cortisol. This phenomenon is well- 
+documented in the study of trauma (Bremner, 2006; Sherin and Nem-
+eroff, 2011 ), but it appears in flow as well. A number of studies of flow 
+have found that cortisol levels follow an inverted U-shaped curve (Keller 
+et al., 2011; Peifer et al., 2014; Tozman and Peifer, 2016 ). Tozman and 
+colleagues (2017) for example, examined cortisol levels in chess players 
+in flow, finding a moderate level of cortisol was associated with a higher 
+level of flow absorption, while a higher level of cortisol was associated 
+with a lower level of flow absorption. This finding suggests that flow 
+may require some kind of stress response at the front end of the 
+experience. 
+2.9. T 6: the acute stress response in flow and trauma 
+Returning to our hypothetical situation: The motorcyclist ’s visuo -
+spatial attention is now directed toward the oncoming car, while the 
+driver ’s threat recognition system (Stein and Nesse, 2011 ) has identified 
+a significant and imminent danger. From a cognitive-affective perspec -
+tive, multiple psychobiological systems are now engaged, perhaps most 
+importantly the acute stress or fight-flight-freeze response of the sym-
+pathetic nervous system. In this scenario, given the situational context, 
+movement suppression and behavioral inhibition are not likely to occur, 
+thus freezing is not an option (Roelofs, 2017 ). Instead, from a neuro -
+phenomenological point of view, we argue that the transition into flow is 
+likely associated with the proactive willingness to approach, and the 
+transition into trauma is associated with the reactive inclination to avoid 
+(Roelofs, 2017 ). From an objective standpoint, the motorcyclist pro-
+duces the same “swerve ” motor action plan, however, phenomenologi -
+cally, it may be the case that a decision to “approach ” leads to the state of flow, while the decision to “avoid ” leads to trauma, with the former 
+producing concurrent feelings of fortitude, and the latter producing 
+concurrent feelings of fear. It is further likely that, subsequent to the 
+event, these two distinct neurobiological reactions would be associated 
+with different psychological outcomes: the absence of fear-based 
+memories in the flow condition, and the presence of fear-based mem-
+ories in the trauma condition (Izquierdo et al., 2016 ). A deeper 
+consideration of the underlying neurobiology is warranted here. 
+Recent work in mice (Salay et al., 2018 ) has clarified that freeze 
+responses are controlled by xiphoid nucleus (a substructure in the 
+ventral midline thalamus) projections to the BLA. By comparison, fight 
+responses invoke projections from the nucleus reuniens (a structure that 
+surrounds the xiphoid nucleus) to the mPFC. The argument being 
+explored here is that the transition toward flow begins with a signal sent 
+from the ventral midline thalamus to themPFC that activates the “fight ” 
+motor-action plan. 
+It is unclear if this “fight ” signal is always required to create flow, or 
+if flow results from more general approach and avoidance processes (e. 
+g., Cacioppo et al., 1999 ). Yet, in high-risk situations, three ideas support 
+the activation of the fight response. First, Benson and Proctor (2004) 
+suggested that the psychological experience of “struggle ” always pre-
+cedes entrance into flow. Second, braking is the standard automatic 
+response to a visual threat, yet this instinct is inhibited in this scenario 
+and replaced by the swerve motor-action plan. Temporal constraints 
+dictate that action plan selection must occur immediately after the SN 
+detects a threat, with the nucleus reuniens -mPFC pathway representing 
+the hypothetical “shortest path ” to activation. Finally, path selec-
+tion—fight or flight —is responsible for the reactivation or further sup-
+pression of the ECS, which plays a significant role in determining 
+outcomes associated with either flow or trauma. More specifically, at T 
+3, the introduction of an acute stressor downregulated tonic AEA 
+production in the amygdala and hippocampus. In the flow condition, 
+after the ventral midline thalamus activates the fight response, we see an 
+increase in sympathetic signaling that releases cortisol and reactivates 
+tonic AEA production in the amygdala. The evidence for tonic AEA 
+reactivation is twofold. First, researchers consistently find amygdala 
+downregulation during flow (Limb and Braun, 2008; Ulrich et al., 
+2016a, 2022 ; Liu et al., 2012 ) and this necessitates the presence of AEA. 
+Second, our flow-condition motorcyclist does not experience 
+in-situation feelings of fear and does not have post-event fear memories, 
+and both require the presence of AEA (Gunduz-Cinar et al., 2013 ). 
+Additionally, in the trauma condition, continual inhibition of AEA 
+produces fear conditioning, creates fear-memories and is a contributing 
+factor in the later development of PTSD (Wyrofsky et al., 2019 ). 
+2.10. T 7: action plan selection 
+After threat detection and the sympathetic response detailed in T 
+6, the motorcyclist selects the “swerve ” action plan. There are a number 
+of lines of evidence that show the dorsal anterior cingulate cortex 
+(dACC) is involved in action plan selection alongside its aforementioned 
+roles (See T 0 and T 1). As Brockett et al. (2020) wrote: “Decades of 
+imaging and modeling research in humans have implicated the anterior 
+cingulate cortex in the evaluation of situational demands and the hy-
+pothesized alterations of downstream nodes such as the dorsal medial 
+striatum that facilitate appropriate action plan selection. ” More specif -
+ically, Shenhav et al. (2016) has argued that the dACC is particularly 
+sensitive to environmental changes that require a rapid motor response, 
+which is the case in our motorcycle scenario. Furthermore, cognitively 
+demanding tasks —such as swerving in traffic — activate the dorsal ACC 
+and deactivate the posterior ACC (Binder et al., 1999; Drevets and 
+Raichle, 1998; Raichle et al., 2001 ). 
+Action plan selection is modulated by dopamine, as D1 DA receptors 
+in the ACC regulate effort-based decision-making (Schweimer and 
+Hauber, 2006 ). Furthermore, once a decision is made and the action 
+plan selected, as a way to drive reinforcement learning, there is a further S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+8increase in dopaminergic transmission in the right dACC (Holroyd et al., 
+2004 ). In the flow scenario, this increase in DA signaling amplifies the 
+signal-to-noise ratio in PFC (Kroener et al., 2009 ) and could be 
+responsible for the heightened creativity that has been consistently 
+correlated with the state. Additionally, this dopaminergic activity likely 
+explains why “clear goals ” and “immediate feedback ” function as flow 
+triggers. If “clear goals ” are coded into the reward system and DA ac-
+tivity is linked to effort-based decision-making, then having a clear goal 
+may favor action over inaction, and further explain the division between 
+flow and trauma. Meanwhile, the sensitivity of dACC neurons to error 
+responses and error feedback, coupled with DA neurons ’ 
+well-established reward sensitivity, may explain why immediate feed-
+back facilitates flow onset. 
+Furthermore, one of flow ’s most interesting phenomenological at-
+tributes is the sensation of flow itself, often described as effortless effort, 
+where the experience is that every action and every decision being 
+performed leads seamlessly, perfectly, fluidly to the next (Csikszentmi -
+halyi, 1990; Kotler, 2013 ). This suggests that dACC activity is not 
+limited to state onset. As subjects in flow select numerous, sequential 
+action plans, dACC activity may persist throughout the experience. In 
+fact, research shows that the dACC is functionally connected with the 
+dlPFC during flow (Huskey et al., 2018 ), which may further facilitate 
+phenomenological experience of “clear goals ” and “immediate feed-
+back ” specifically, and more generally, may explain why so many 
+research subjects have described their phenomenological experience of 
+the state as “flowy. ” However, a challenge to this interpretation is that 
+other studies have shown lower activation in the ACC during flow 
+(Huskey et al., 2018; Klasen et al., 2012; Ulrich et al., 2016a, 2022). 
+2.11. T 8: The onset of flow 
+At this moment, our motorcyclist executes the swerve action plan 
+and rapidly transitions into flow. For the purposes of this hypothetical 
+situation, assume the swerve consists of three different miniature action 
+plans: an initial swerve away from the car, a second movement to 
+counter-balance the out-thrust of the first, and a final adjustment to re- 
+center the motorcycle along its new trajectory. When the motorcyclist 
+performs the initial swerve away from the car, there is an increase in 
+dopaminergic reward signaling in the mesocorticolimbic pathway that 
+corresponds with the successful execution of this first action plan. 
+Additionally, “rebound-excitation theory ” suggests that DA provides a 
+post-acute stress safety signal that inhibits fear-processing neurons in a 
+spatially and temporally controlled manner (J.C. Lee et al., 2016; E.M. 
+Lee et al., 2016 ). For example, experiments in acute stress conditions 
+showed phasic rebound-excitation of DA neurons in the VTA at the offset 
+of aversive stimuli, with DA signal strength time-locked to the termi -
+nation of fearful events. A weak signal promotes fearful memories and 
+anxious behavior, while a strong one extinguishes fearful memories and 
+promotes resilience (J.C. Lee et al., 2016; E.M. Lee et al., 2016 ). In our 
+flow example, once our motorcyclist recognizes that the first of the three 
+mini-action plans is actually working, a DA safety signal should arise. 
+The initial dopaminergic reward will likely produce a feeling of 
+surprise, as this is the phenomenological signal that arises during the 
+recognition of better than expected results, and provokes a P300 event- 
+related potential (ERP). However, there are two types of P300 ERPs. The 
+P300a is associated with novelty; the P300b with surprise (Polich, 
+2007 ). In our motorcyclist ’s scenario, the signal is a P300b, as an 
+abundance of oddball paradigm experiments show that a novel and 
+unexpected stimulus produces a P300b wave approximately 300–400 
+ms following presentation (Picton, 1992 ). 
+In this scenario, we speculate there are four reasons to predict a P300 
+at T 8. First, unless our motorcyclist is a professional, it is unlikely that 
+swerving around a car is a single well-rehearsed motor plan. Thus, the 
+successful execution of each mini-plan would be surprising to our driver. 
+Second, the P300 has also been related to appraisal updating —the threat 
+of the car is updated into something less dangerous as the swerve starts to work, with the wave ’s amplitude heightening based on stimulus 
+probability and task-relevance (Donchin and Coles, 1988 ). Third, 
+studies have shown that flow proneness is associated with DA receptor 
+activity (de Manzano et al., 2013; Gyurkovics et al., 2016 ). This matters 
+because traits long associated with DA receptor activity —sensation 
+seeking, introversion-to-extroversion, and impulsivity —have also been 
+correlated with the P300 (Stelmack and Houlihan, 1994 ). Fourth, our 
+in-flow motorcyclist has no post-incident fear despite having accurate 
+memories of the event. It is known that stimulus encoding that promotes 
+successful memory storage and retrieval will increase P300 amplitude 
+(Azizian and Polich, 2007 ) and that signal latency is related to how long 
+it takes to update a target stimulus, with verbal tasks taking longer than 
+spatial tasks (Kutas et al., 1977 ). As our motorcyclist has non-fearful 
+memories and responded to a visual stimulus, we predict a P300 wave 
+that is larger in amplitude and shorter in latency. 
+Additionally, this signal —phasic DA activity —occurs immediately 
+after the first sign that outcomes are better than anticipated, and pro-
+duces subsequent pulses after each confirming sign (Holroyd et al., 
+2004 ). In our example, there are a series of P300 waves, each probably 
+slightly smaller in amplitude, after the successful execution of each of 
+the three mini-action plans (swerve, counter-swerve, straighten out). 
+2.12. T 9: Localized hypofrontality 
+At T 8, the motorcyclist has executed the action plan and is either 
+experiencing flow or traumatic stress. Early theorizing argued that flow 
+is associated with a significant downregulation of the PFC (Dietrich, 
+2004 ), or what has been called “transient hypofrontality ” in the litera -
+ture. Specifically, Dietrich proposed transient hypofrontality as the 
+neuronal process that underlies flow and all altered states of con-
+sciousness (Dietrich, 2004 ). This idea has since been confirmed experi -
+mentally, albeit with mixed results (for a review, see Harris et al., 
+2017a ). Some studies have found large-scale PFC deactivation during 
+flow. Both Limb and Braun (2008) and Liu et al. (2012) observed broad 
+deactivations of the PFC in studies of musicians and rappers in flow. In 
+Liu and colleague ’s work, almost all of the lateral prefrontal cortices, 
+extending from the lateral orbitofrontal cortex (loPFC) to the superior 
+portions of the dorsolateral prefrontal cortex (dlPFC) as well as the 
+dorsal portions of the mPFC, were deactivated. 
+By comparison, the vast majority of studies have found evidence for 
+more localized hypofrontality, particularly among the medial PFC 
+(mPFC). As was discussed previously, this region is thoroughly impli -
+cated in the division between flow and trauma, yet—regarding hypo -
+frontality —it appears that the mPFC is consistently deactivated during 
+flow (Barros et al., 2018; Klasen et al., 2012; Ulrich et al., 2014, 2016a, 
+2022 ). In fact, more recent evidence indicates that downregulation of 
+the mPFC is causally implicated in flow experiences (Ulrich et al., 
+2016b ), particularly among people who have low-baseline levels of flow 
+experiences (Ulrich et al., 2018 ). Other research has shown low levels of 
+mPFC activity (Huskey, Craighead et al., 2018 ), and mPFC functional 
+connectivity (Huskey et al., 2018, 2021 ) during flow. Taken together, 
+the data suggests that these PFC deactivations are localized to mPFC 
+regions, and the extent of these deactivations may be based on task-set 
+and task-requirements, rather than the across-the-board shutdown that 
+earlier researchers had proposed (for an extended treatment, see Harris 
+et al., 2017a ). 
+EEG studies of flow show frontal alpha and theta activity (Eschmann 
+et al., 2021 ; Katahira et al., 2018 ). In the work done by Katahira et al. 
+(2018) , frontal theta was localized to frontal-midline regions, which is 
+implicated in cognitive control (Cavanagh and Frank, 2014 ) and con-
+centration (Lagopoulos et al., 2009 ). This finding is related to the 
+increased effort and increased cognitive control required to produce 
+flow (when both task challenge and individual skills are moderate to 
+high) and to task absorption (a complete concentration and merger of 
+action and awareness condition). Eschmann et al. (2021) have shown 
+that increased fronto-medial theta is associated with increased flow, and S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+9increased motor performance, and that neurofeedback training can 
+enhance both flow and motor performance. Similarly, the alpha oscil-
+lations in Katahira ’s study were found over the frontal central and 
+frontal right cortical areas and tended to increase with task difficulty. As 
+alpha has been repeatedly correlated with heightened creativity (Lus-
+tenberger et al., 2015 ) this increase could further account for the 
+amplified creativity seen in flow. Other EEG work has shown increased 
+fronto-alpha power during flow, particularly in midline regions, which 
+has been interpreted as relating to the reward-modulated deployment of 
+cognitive control (Castellar et al., 2019 ). 
+In summary, it appears that hypofrontality is localized to the mPFC, a 
+structure that is a core component of the default mode network (Raichle 
+et al., 2001 ) and is heavily implicated in self-referential processing 
+(Northoff et al., 2006 ). That the mPFC is consistently downregulated 
+during flow may explain why a core phenomenological characteristic of 
+flow is diminished self-awareness and self-reflection. By comparison, 
+flow seems to require large-scale activity across the PFC, excluding the 
+mPFC, but including the ACC. Together, this accounts for recent theo-
+rizing that flow requires high levels of cognitive control (Fisher et al., 
+2021; Weber et al., 2009, 2016; Weber and Fisher, 2020 ), which may 
+explain why flow feels simultaneously high-control, but effortless (see 
+also, Harris et al., 2017b ; Huskey, Wilcox et al., 2018 ). 
+3.A theoretical perspective on the neural dynamics for the 
+onset of flow 
+In this paper, in addition to the neurobiological mechanisms dis-
+cussed in sections T 0 through T 9, we also propose a neural 
+dynamical framework for the onset of flow. Here, the term “neural dy-
+namics ” refers to how the brain exchanges information via oscillation, 
+that is, how neural oscillatory activity in one brain region affects, or is 
+statistically correlated, with neural activity in another brain region. 
+These dynamical networks are how the brain changes its state over time. 
+From a theoretical perspective, understanding the neural dynamics 
+involved in our motorcycle scenario —that is, understanding how the 
+neuronal regions involved in the onset of flow become functionally 
+coupled or uncoupled —may yield new empirical and testable insights 
+about the mechanisms involved, and lay the groundwork for a compu -
+tational modeling approach. 
+Functional connectivity (FC) between brain regions is defined as the 
+statistical dependence between neural time series regardless of their 
+direct anatomical connections (Friston, 1994 ). These patterns of activ-
+ity, as captured by EEG, MEG or fMRI, can be effectively measured using 
+a variety of functional connectivity analysis (Wang et al., 2014 ). The 
+resulting data reveals the flow of information among and within brain 
+networks and is critical for linking these networks and their dynamics to 
+cognitive and phenomenological states (such as flow). For example, 
+using correlation either in the time or frequency domains, will yield 
+undirected and symmetrical, shared information among the network 
+(Barnett et al., 2020 ). Directed functional connectivity analysis, on the 
+other hand, can yield causal connectivity, i.e., the direction of infor-
+mation flow between nodes in the network (Friston et al., 2003; Man-
+nino and Bressler, 2015; Bressler and Seth, 2011 ). 
+Given that one of the known phenomenological correlates of flow is 
+hyper-focused, task-specific attention, the underlying neural dynamics 
+should reflect a task-engaged cognitive state. This task-engagement in-
+volves the activation of task-dependent networks, such as the dorsal 
+attention network and fronto-parietal control network, and is often 
+contrasted to resting state or task-negative networks, such as the default 
+mode network (DMN; Fox et al., 2005) . Typically, the activity of these 
+networks is anti-correlated, though recent evidence has revealed a more 
+nuanced account wherein different network components may be 
+simultaneously active. In fact, evidence shows that tasks performed 
+automatically (Vatansever et al., 2017 ), or with low levels of difficulty 
+(Huskey et al., 2018b,a, Ulrich et al., 2014, 2016a, 2018, 2022 ) tend to 
+engage the DMN. Other research shows that, during goal-directed cognition, the DMN is functionally coupled with both task-positive 
+attentional networks and task-positive frontoparietal control networks 
+(Andrews-Hanna et al., 2014; Christoff et al., 2016; Spreng, 2012; Xu 
+et al., 2020 ; Dixon et al., 2016 ). 
+During flow, typically anti-correlated networks appear to be co- 
+activated. The hyper-focus associated with flow requires activation of 
+task-positive attentional networks. Yet, flow also shares considerable 
+overlap with a task-negative cognitive state, the psychedelic state 
+(Csikszentmihalyi and Nakamura, 2018 ). This overlap includes 
+phenomenological elements such as the diminishment of self, an altered 
+sense of time (dilation or acceleration), and the merger of action and 
+awareness, as well as behavioral elements, such as a measurable increase 
+in creativity (divergent thinking) and insight. Therefore, a deeper un-
+derstanding of the neural dynamics of the psychedelic state is useful for 
+informing our examination of flow ’s neural dynamics. 
+Using magnetoencephalography (MEG) to investigate the neural 
+dynamics of the psychedelic state, Barnett et al. (2020) found a simul -
+taneous decrease in directed functional connectivity and an increase in 
+undirected functional connectivity (particularly in the LSD condition). 
+The authors interpret this network co-activation as consistent with the 
+“increasing disorder and functional disorganization underlying the 
+psychedelic experience ” (Barnett et al., 2020 ). Essentially, there is a 
+breakdown of ordered communication between critical brain regions. 
+This breakdown reflects a relaxation of constraints in global brain ac-
+tivity that corresponds with an expansion of the possible repertoire of 
+brain states (thereby increasing dynamic diversity). Carhart-Harris et al. 
+(2018) have argued these specific changes in neural dynamics correlate 
+with the uncontrolled cognition and perception that are signature 
+phenomenological aspects of the psychedelic experience. 
+From a theoretical perspective, the psychedelic brain is at the “edge 
+of criticality ” (Carhart-Harris et al., 2018 ). In any self-organizing 
+dynamical system (like the brain), criticality is the transition point be-
+tween two tendencies or phases: an ordered state and a disordered, 
+chaotic one. By allowing the brain to best adapt to a wide variety of 
+rapidly changing external conditions, this proximity to criticality facil-
+itates optimal processing and performance. For example, Atasoy et al. 
+(2017) , using power-law distributions and connectome-harmonic 
+decomposition, found that a frequency-specific re-organization of 
+brain dynamics —specifically, an increase in repertoire —brings the 
+brain closer to the edge of criticality. This is consistent with the entropic 
+brain hypothesis, metastability, the free-energy principle, and scale-free 
+cortical dynamics (Carhart-Harris and Friston, 2019 , Kelso, 2012; Tog-
+noli and Kelso, 2014 ; Bressler, 2008 ; Friston et al., 2020 , Freeman and 
+Breakspear, 2007 ). In altered states of consciousness —including psy-
+chedelic states —mounting evidence suggests that the brain functions at 
+the edge of criticality, that is, at, or near, a metastable critical state 
+(Carhart-Harris, 2018 ; Cavanna et al., 2018 ;Kelso, 2012, 2021 ; Cocchi 
+et al., 2017 ). 
+Two important points considered here are worth elaborating, a 
+theoretical one and a terminological one. Theoretically, given that we 
+are both describing and explaining a phase transition into flow, we 
+consider flow, as an altered state of consciousness described in our hy-
+pothetical situation, from a metastable perspective (Fuchs et al., 2000; 
+Kelso, 1992 ). Crucially, this would mean that flow is a transient phe-
+nomenon —a metastable tendency. Metastability (Kelso, 2012; Tognoli 
+and Kelso, 2014 ) plays a central role in cortical coordination dynamics, 
+and in general, refers to the simultaneous tendency for individual 
+components of system to couple together and for the individual com-
+ponents to remain autonomous. It is a property of a system of coupled 
+oscillators, whereby the systems dynamics tend toward a stable attractor 
+(coordination pattern) but are never fully trapped by that attractor. 
+Instead, the system remains in an unstable pattern near the stable co-
+ordination pattern. In cognitive neurodynamics for example, different 
+regions of the cortex, comprised of neuronal populations, can simulta -
+neously couple and coordinate their behavior to produce certain 
+cognitive functions, but also express their own individual oscillatory S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+10behavior, allowing the brain to rapidly shift its functionality in order to 
+make sense of the external world. Thus, cortical metastability produces 
+the simultaneous tendency for cortical areas to remain segregated, 
+manifesting their own intrinsic activity, and to be integrated, influ-
+encing each other by reciprocal coupling (Tognoli and Kelso, 2014 ). 
+Terminologically, although we have used the word “state ” as a 
+description of both the neural and phenomenological aspects of flow 
+throughout this paper, this may not accurately reflect reality. By defi-
+nition, state implies stability, however, considering the dynamics, i.e., 
+the possible metastable nature of the phenomenon, the term state may 
+not, ultimately, be appropriate (Kelso, 2021 ). 
+Recently however, Huskey et al., 2021 , have theoretically and 
+empirically compared the metastability proposal with the synchroniza -
+tion theory of flow (STF) first proposed by Weber et al. (2009) . We 
+carefully consider here the relevance of STF in the context of network 
+control theory and criticality. The STF proposes a functional synchro -
+nization of cognitive control (including attentional structures) and 
+reward networks (RNs) in the brain, and understands flow as a syn-
+chronized brain state. 
+One open question is the nature of this connectivity. STF predicts 
+that the brain transitions through a sequence of network topologies, 
+ending up in a functionally connected, highly synchronized state, which 
+corresponds with the flow state (Huskey, Wilcox et al., 2018 ). This idea 
+is very similar to and sits within the concept of controllability (and 
+network control theory Gu et al., 2015 ; Lydon-Staley et al., 2021 ). The 
+concept of controllability states that, in terms of energy efficiency, the 
+brain optimizes its dynamics among distributed neural systems to, in this 
+case, respond to the demands of the environment. Thus, the brain or-
+ganizes its dynamics to move through various cognitive states, with 
+structurally dense areas facilitating easily reachable states, and more 
+distributed regions facilitating more difficult to reach states (e.g., the 
+flow state). On this account, network control theory offers an underlying 
+theoretical framework for how the brain organizes its dynamics to meet 
+task demands (for everyday living, but also for flow). STF is the specific 
+case where two systems in the brain, cognitive control systems, and 
+reward – based (i.e., intrinsic motivation) systems functionally syn-
+chronize to allow the brain to reach the flow state. 
+Recent work has started to probe the nature of this fronto-parietal 
+control network (FPCN), and the fronto-parietal reward networks 
+(FPRN) connectivity. Using fMRI, Huskey et al., 2021 found increased 
+flexibility among the FPCN and FPRN during flow, but decreased flexi-
+bility among the reward network only. They also found comparatively 
+low levels of synchrony in the FPCN and FPRN during flow. Meta -
+stability offers one possible explanation for this finding. From a meta-
+stability perspective, it is possible that the brain during flow is 
+appropriately segregated or integrated and oscillates between these 
+tendencies, rather than being attracted to them but not entering either. 
+However, Huskey et al., 2021 did not find strong evidence supporting 
+this metastability hypothesis. With that said, other research has shown 
+that the brain does exhibit non-linear criticality during flow (Weber 
+et al., 2018 ). It may be that the null metastability results observed in 
+(Huskey et al., 2021) was driven by the limited temporal resolution of 
+fMRI. 
+So far, empirical work shows that the brain is organized into a 
+modular network topology during flow (Huskey et al., 2021) , this to-
+pology is energetically efficient (Huskey, Wilcox et al., 2018 ), and ex-
+hibits high levels of flexibility (Huskey et al., 2021) , which is associated 
+with the successful deployment of cognitive control during difficult tasks 
+(Cole et al., 2013 ). However, the exact nature of brain-network con-
+nectivity during flow is unresolved, and this connectivity may very well 
+exhibit metastable characteristics. 
+Therefore, we return to our discussion concerning criticality. Con-
+trasted with the increase in disorder accompanying the onset of a psy-
+chedelic state, entry into flow appears to require a decrease in 
+disorder —that is, an integration of information —driven by behaviorally 
+salient and cognitively demanding task-oriented input. Thus flow, especially in the motorcycle scenario considered in this paper, is non- 
+resting and task-dependent. Additionally, while the edge-of-criticality 
+aspect of the psychedelic state increases the repertoire of possible 
+states, we predict that entry into flow will constrain the repertoire of 
+active brain states. We also suggest that this will correspond, empiri -
+cally, with an increase in directed, and a decrease in undirected, func-
+tional connectivity. The brain, upon entry into flow, allocates its 
+resources vis-ˇa-vis distinct connectivity patterns in a manner required 
+for all the requisite performance-enhancing cognitive processes needed 
+for the task at hand —in this case, a successful swerve. 
+Moreover, research has shown that the brain can quickly tune itself 
+closer to or farther away from criticality depending on external input to 
+the specific network (Zierenberg et al., 2018 ). Wilting and Priesemann 
+(2019) have called the underlying mechanism driving this process: 
+“homeostatic plasticity. ” In homeostatic plasticity, neurons and their 
+networks use negative feedback loops to maintain a target spike rate, 
+thereby stabilizing network dynamics. By adjusting their excitability to 
+compensate for unrestrained neural communication, neurons can 
+self-organize into a variety of dynamical regimes. This reorganization 
+moves the brain to a subcritical point, where neural communication is 
+well-constrained. It may be that this same subcritical point is where the 
+flow network manifests and operates. 
+Given this scenario, it is also important to note that both “neural 
+context ” and “situational context ” are likely to play central roles in 
+determining exact changes in brain dynamics during flow. Neural 
+context refers to the specific selective functioning of local neural pro-
+cesses as they are modulated by global neural influences, as distin -
+guished from situational context, which involves both internal 
+information from the periphery and external information from the 
+environment, as well as the behavioral demands this information places 
+upon the brain and body (Bressler and McIntosh, 2007 ). While the 
+relationship between these two categories of context is not completely 
+understood, the research clearly shows situational context shapes neural 
+context —meaning context dependent, task-relevant cues constrain brain 
+connectivity. This dependent relationship likely increases pattern 
+recognition and cognitive flexibility, while decreasing (or constraining) 
+the possible states the relevant networks can operate within (Weber and 
+Fisher, 2020 ). In other words, in flow, situational context likely in-
+fluences the sub-critical set point toward which homeostatic plasticity 
+tunes the brain in order to maximize cognitive flexibility and minimize 
+prediction errors. 
+In flow, the above mechanism would allow the brain to constrain the 
+possible task-specific parameter space between connections of selected 
+cortical areas, but loosen them in other areas, allowing for the unique 
+creativity that is commonly associated with flow. The specific changes in 
+both directed and undirected functional connectivity hypothesized here 
+make it possible for the brain to increase pattern recognition and 
+cognitive flexibility, but within a specific context. Recent evidence from 
+Konovalov and Krajbich (2018) supports this, as they found the brain 
+engages in a novel form of pattern learning. Using a Bayesian 
+pattern-learning inference model, they found that brain networks both 
+predict patterns, while simultaneously developing rules that increase the 
+finding of future patterns. Thus, we surmise here that contextual pro-
+cessing constrains creativity in a flow state, essentially creating a highly 
+constrained novelty detection system that is specifically tuned to in-
+crease task-specific performance and learning. 
+As applied to our hypothetical situation, during flow, and due to 
+homeostatic plasticity, the motorcyclist ’s brain is much closer to the 
+edge-of-criticality inside a context-constrained search space. This allows 
+the rider to find all possible best action-plans for swerving around that 
+offending car, but saves the brain from cue-dependent yet task- 
+irrelevant association —which is something that happens in other 
+altered states, such as dreaming or psychedelic states. 
+Finally, from a computational perspective, the above analysis sug-
+gests that a modelling approach may be useful for exploring flow, given 
+that it is very difficult to study this cognitive phenomenon in an S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+11ecological context. A sufficient model used to simulate the network 
+conditions, as well as the environmental stimulus, may yield more 
+description, explanation and prediction for the onset of the state (see e. 
+g., Bensaid et al., 2019 ). Melnikoff and colleagues (2022) , using the 
+concept of mutual information, recently proposed and empirically 
+validated a computational theory of the subjective experience of flow. 
+This model is based on the concept of Bayesian surprise, which we 
+believe directly corresponds with our proposed involvement of the 
+P300b surprise signal. Likewise, Itti and Baldi (2009) found that this 
+kind of surprise (like our motorcyclist scenario) attracts visual-spatial 
+attention. We suggest that integrating this phenomenological model 
+with some of the underlying neural mechanism described here, would be 
+a reasonable future step. 
+One interesting element of Melnikoff et al’s (2022) model is that it 
+directly contradicts one of the core causal antecedents of flow; that is, 
+the challenge/skill balance. This model shows empirically that flow can 
+occur, even when the challenge/skill balance is low. Such a finding is 
+novel given that the challenge/skill balance is the most common in-
+duction in experimental flow research (see e.g., Huskey et al., 2018b,a, 
+2021 ; Keller and Bless, 2008 ; Keller and Blomann, 2008 ; Ulrich et al., 
+2014, 2016a,b, 2018, 2022 ). However, the challenge/skill balance has 
+come under some recent scrutiny as recent experimental work has failed 
+to detect a difference between self-reported flow when challenge ≪skill 
+(flow) or when challenge Dskill (Huskey et al., 2021) . Therefore, it will 
+become increasingly important to further verify the extent to which 
+mutual information, rather than the challenge/skill balance, explains 
+when and why flow occurs. Early tests of this mutual information model 
+have been conducted in behavioral contexts (Melnikoff et al., 2022 ) but 
+could be extended into neuroscientific contexts using existing datasets 
+(e.g., Huskey et al., 2021 ). If it turns out that mutual information (and 
+Bayesian surprise more generally) do offer a causal explanation for flow, 
+then it becomes possible to link this mechanism with existing neuro -
+scientific research (e.g., Nour et al., 2018 ; O’Reilly et al., 2013 ; 
+Schwartenbeck et al., 2016 ). 
+4.Linking neurobiology with phenomenology 
+At the start of this paper, we described criteria any robust explana -
+tion of flow-onset should meet, specifically it needs to explain the six 
+core characteristics of flow, the functionality of the state ’s triggers, and 
+the state ’s well-documented impact on performance. Does this expla -
+nation satisfy these requirements? To answer this question, we revisit 
+the six core phenomenological characteristics of flow and explore this 
+proposal ’s ability to account for all six. 
+4.1. Complete concentration 
+As discussed, flow is a state of complete concentration, but how this 
+concentration arises has yet to be determined. If we assume an error 
+signal (ERP) at the onset of flow, then the resulting activity in the 
+salience network and the NE-induced amplification of attention could 
+serve as the gateway into complete concentration. Similarly, recent 
+computational modeling work (Fromer et al., 2021; Grahek et al., 2022 ) 
+shows that early prediction errors inform people about task efficacy and 
+the expected value of reward associated with effort. When efficacy or 
+expected reward value is low, people allocate less effort compared to 
+when efficacy and reward are high. Considering that flow is a highly 
+rewarding psychological state that requires high levels of efficacy, it is 
+likely that these early prediction error signals influence subsequent 
+control deployment. Furthermore, it is likely that phasic DA release 
+helps sustain that focus over time. 
+4.2. Merger of action and awareness 
+The merger of action and awareness is less empirically tractable, but 
+likely correlates with the efficiency of motor activity. In our motorcycle example, if the swerve had been highly efficacious (as would be likely 
+during flow), then we would see increased neuronal activation in the 
+corresponding motor areas than would be present in novice, or other -
+wise low-efficacy swervers. Some preliminary evidence points in this 
+direction. Flow is associated with increased activity in sensorimotor 
+cortex and the cerebellum (which is often implicated in fine-motor co-
+ordination) compared to conditions of low-difficulty (Huskey et al., 
+2018 ). Interestingly, however, the brain-network topology associated 
+with this activation is more sparsely connected (a measure of energetic 
+efficiency) during flow relative to a low-difficulty condition (Huskey 
+et al., 2018 ). Research shows that, for well-rehearsed tasks, more effi-
+cient brain-network topologies are associated with increased perfor -
+mance (Bassett et al., 2009 ). Upregulation in sensorimotor cortex and 
+cerebellum, combined with an efficient brain-network topology, might 
+be a neural signature of the merger of action and awareness associated 
+with flow. Indeed, the functionality of the challenge-skills balance as a 
+flow trigger implies expertise and the presence of pre-existing motor 
+plans and/or knowledge structures that expertise demands. 
+4.3. Time Perception 
+As discussed, time dilation can be produced by a number of different 
+mechanisms. Phasic DA signaling speeds up and/or slows down our 
+perception of time, as does an increase in signaling in the salience 
+network. Additionally, Dietrich and others have argued that temporal 
+integration is a prefrontal function and that time dilation would be a 
+byproduct of transient hypofrontality (2004). This presents a conun -
+drum as research syntheses (Coull et al., 2011 ) and meta-analytic work 
+(Wiener et al., 2010 ) show that accurate time perception requires a 
+distributed network of activation across prefrontal (inferior frontal 
+gyrus, precentral gyrus, supplemental motor area) and basal ganglia 
+structures (anterior putamen, caudate nucleus), regions which have all 
+been implicated in flow (see e.g., Huskey, Craighead et al., 2018 ; Klasen 
+et al., 2011; Ulrich et al., 2014 , 2016). If these regions are all required 
+for accurate time perception, and these regions also show increased 
+activity during flow, then the largescale hypofrontality hypothesis pro-
+posed by Dietrich (2004) is not well supported. 
+A narrower interpretation of Dietrich ’s (2004) hypothesis may pro-
+vide an answer. Many of the structures listed above are implicated in 
+“explicit ” (how long a stimulus lasts, or the interstimulus interval) or 
+“implicit ” (using temporal information to achieve specific task goals) 
+timing (Coull et al., 2011 ). Both types of time perception may be crucial 
+for accomplishing challenging tasks that are associated with the flow 
+experience. However, there is evidence of localized hypofrontality, 
+particularly in the mPFC, during flow. The mPFC is a core structure in 
+the DMN, and a consistent body of research shows that the mPFC and 
+DMN are downregulated during flow (see e.g., Huskey, Craighead et al., 
+2018 ; Huskey, Wilcox et al., 2018 ; Ulrich et al., 2014, 2016a,b, 2022 ). 
+The DMN is also implicated in conscious awareness of time ’s passing 
+(Lloyd, 2012 ). Therefore, it could be that just mPFC deactivation (as 
+proposed by Dietrich, 2004 ), but not a large scale downregulation of the 
+DMN, explains temporal dilation during flow. 
+So far, we have discussed time ’s passage during flow in terms of 
+dilation. However, research suggests that, in some cases of flow, the 
+perception of time speeds up. Keller and Bless (2008) found subjects 
+reported time went by faster while experiencing flow playing a video 
+game. Additionally, Rutrecht et al. (2021) , obtained a similar result in a 
+virtual reality game scenario. Others have found that a perception of 
+time passing rapidly is associated with increased levels of flow and task 
+performance (Christandl et al., 2018 ). Indeed, ample evidence suggests 
+that time often passes rapidly during flow (for a review see Barthelm as 
+and Keller, 2021 ). 
+Regrettably, this ambiguity between time dilation and the speeded 
+experience of time is prevalent in the flow literature. For instance, 
+prominent self-report measures of flow, including the DFS-2 and FFS-2 
+(Jackson and Eklund, 2004 ) fail to distinguish between the two. Even S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+12Csikszentmihalyi has contributed to this ambiguity by noting that time is 
+“distorted ”, although he does argue that the speeded experience of time 
+may be more common (Nakamura and Csikszentmihalyi, 2005 ). At the 
+same time, there is some evidence (Heim, 1892 , Eagleman, 2009 , Kotler, 
+2013 ) that time dilation is more frequently reported in high-risk situa-
+tions than time acceleration. Therefore, the nature of time perception, 
+and its neural substrates during flow, remains an open question. 
+4.4. The Vanishing of Self 
+Dietrich and others have correlated the diminishment of our sense of 
+self to transient and localized mPFC hypofrontality (Dietrich, 2004 ). 
+This also tracks with research by Kotler & Murphy (forthcoming) 
+showing that subjects report time dilation before they report the van-
+ishing of self. If time is first dilated by activity in the salience network 
+and the increase and/or decline in phasic DA (non-hypofrontal mecha -
+nisms) and the vanishing of self is a result of localized mPFC hypo -
+frontality, this mechanism could match the reported evidence. 
+Research shows a consistent downregulation of the DMN during flow 
+(see e.g., Huskey, Craighead et al., 2018 ; Huskey, Wilcox et al., 2018 ; 
+Ulrich et al., 2014, 2016a,b, 2022 ). In addition to temporal perception, 
+the DMN is heavily implicated in self-referential processing (for a 
+meta-analysis, see Northoff et al., 2006 ). It could very well be that this 
+DMN downregulation explains the diminished self-awareness that is 
+commonly experienced during flow. Additionally, Klasen et al. (2012) 
+found deactivation in the temporal parietal junction during a study of 
+flow in video gamers. As described above, the TPJ has been implicated in 
+both embodied and disembodied (out of body) experiences (Blanke and 
+Arzy, 2005 ) and could play an additional role in the diminishment of our 
+sense of self. 
+4.5. A sense of control 
+A sense of control could be produced by either phasic DA increases 
+and/or a series of P300 ERPs —as both reflect better than expected re-
+sults from task execution. As DA also increases pattern recognition and 
+amplifies muscle reaction times, these performance benefits could 
+further contribute to the phenomenological experience of control. 
+Indeed, error signals associated with reward and self-efficacy guide the 
+deployment of control (Fromer et al., 2021; Grahek et al., 2022 ). 
+Moreover, the FPCN, a core network in control deployment, is both 
+flexible and modular during flow (Huskey et al., 2021 ). This flexibility is 
+associated with successful control deployment during difficult tasks 
+(Cole et al., 2013 ), and modularity is associated with energetic effi-
+ciency (Bullmore and Sporns, 2012 ) and increased task performance 
+(Bassett, 2009 ). Finally, as the dACC aids in action plan selection and 
+remote action plan detection —two neuronal activities that, at least hy-
+pothetically, should impact our phenomenological sense of control —it is 
+further likely that the dACC activity proposed in this paper would 
+further correspond to that sense of control. 
+4.6. Autotelicity 
+In this scenario, autotelicity can be produced by the significant in-
+crease in dopaminergic signaling described in T 3 and T 7. In their 
+excellent overview of the neurobiology of intrinsic motivation, Di 
+Domenico and Ryan (2017) argue that heightened activity in 
+salience-coding DA neurons accounts for the amplified intrinsic moti-
+vation of the autotelic experience. This idea receives further support 
+from both de Manzano et al. (2013) and Gyurkovics et al. (2016) who 
+both found empirical evidence linking DA activity to the autotelic nature 
+of flow. Furthermore, studies consistently associate heightened intrinsic 
+motivation with increased activity in the salience network and the ex-
+ecutive attention network and decreased activity in the default mode 
+network (for complete review, see Di Domenico and Ryan, 2017 ). This is 
+further bolstered by evidence showing that flow is associated with increased activity within, and functional connectivity between reward 
+processing regions (Huskey et al., 2018b,a, 2021; Klasen et al., 2012 ; 
+Ulrich et al., 2014, 2016a ). 
+In animal models, acute stress releases dynorphin into the NAcc 
+which downregulates DA and has been correlated with learned help-
+lessness and depressive symptoms (Kram et al., 2002 ). This may explain 
+the division between flow and trauma, as this would occur in the trauma 
+scenario, while the flow scenario seems likely to require enkephalin 
+release (which is associatd with feelings of euphoria, see Boecker et al., 
+2008 ). As applied to our motorcycle hypothetical situation, once the 
+swerve produces better than expected results, enkephalins would be 
+released. These chemicals both increase DA production (Kalivas and 
+Duffy, 1990 ), which would further enhance motivation and increase 
+autotelicity. Finally, work by Henry et al. (2017) relates heightened 
+enkephalin signaling to the development of resilience, suggesting an 
+opioid-related mechanism for the post-traumatic growth we see in the 
+flow-condition motorcyclist. 
+4.7. Flow triggers and performance benefits 
+The neuronal processes outlined in this paper offer a potential 
+explanation of both flow ’s triggers and flow ’s performance benefits. We 
+again emphasize that more research is needed for demonstrating the 
+causal role of the triggers and their relationship with performance. On 
+the trigger side, clear goals, immediate feedback, the challenge-skills 
+balance, novelty, complexity, unpredictability, risk, insight, curiosity, 
+passion, autonomy, mastery and purpose, all engage the seeking system 
+and activate phasic DA release. It is likely that any sudden change in DA 
+signaling and activity in the salience network —triggered either exter -
+nally or internally —can (but will not always) result in flow. Moreover, 
+and as discussed elsewhere, it seems these reward signals appear to bias 
+the deployment of control, which should further facilitate task perfor -
+mance. Now, from a descriptive perspective, flow ’s triggers engage 
+multiple systems and processes, and thus the proposal in this paper 
+describes how global neurocognitive changes in the brain are associated 
+with those triggers. 
+On the performance side, the significant increase in salience network 
+activity, especially the LC-NE system, coupled to an increase in dopa-
+minergic signaling could account for flow ’s heightening of both intrinsic 
+motivation and learning rates (Pekrun, 1992; Seli et al., 2016; Tyng 
+et al., 2017 ). This increase in DA signaling could also partially explain 
+flow ’s impact on creativity and innovation, as DA also amplifies pattern 
+recognition. Additionally, as DA signaling correlates with an increase in 
+positive affect and positive affect has been shown to increase the like-
+lihood that the dACC will discover remote associations and activate 
+weakly recalled action plans, this could be a further mechanism for 
+enhanced creativity (Kounios et al., 2006; Kounios and Jung-Beeman, 
+2014 ). Myers et al. (2016) found that grit correlated with ventral 
+striatal networks extending to the mPFC and rostral ACC, while Tour-
+outoglou et al. (2018) discovered that the ACC is the central hub for 
+tenacity-persistence in the face of challenges. Both of these systems 
+would be active in a flow scenario and could account for the downstream 
+development of grit and resilience that has been correlated with 
+post-traumatic growth. Moreover, recent neuroimaging studies on grit in 
+academic performance link the trait to heightened spontaneous resting 
+state activity in the right dlPFC (Wang et al., 2017 ). This finding cor-
+responds to research by Nakagawa et al. (2016) , who state: “The dlPFC 
+seems to be the main neural correlate of post-traumatic growth. ” 
+5.The flow versus trauma question 
+In our hypothetical example, why does one motorcyclist experience 
+flow and another traumatic stress? Before we explore alterations in 
+underlying neurobiological mechanisms that account for this difference 
+in psychological outcome, an examination of the similarities between 
+experiences is worth considering. Both flow and traumatic stress are S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+13altered states that arise during waking conscious experience, both 
+require activation of similar large-scale brain networks and neuro -
+modulatory systems. Yet, it is within the actions of those neuro -
+modulatory systems that we can start this discussion. 
+One of the larger neurobiological differences between flow and 
+trauma involves phasic DA. As reviewed earlier, in flow, there is an in-
+crease in phasic DA signaling that results from both the “fight response ” 
+and/or the successful execution of the initial “swerve ” motor-action 
+plan. This surge does not occur in trauma, because, while the execu -
+tion of the same “swerve ” motor-action occurs, in the trauma-scenarios 
+it is a fear-inducing stimulus. More specifically, rebound-excitation 
+theory (J.C. Lee et al., 2016; E.M. Lee et al., 2016 ) proposes that DA 
+neurons rebound —that is, reactivate phasic DA signaling —at the 
+termination of fearful experiences, putting a “brake ” on fear-excitation 
+by supplying intrinsic safety signals. This increase in phasic DA also 
+explains why our flow-condition motorcyclist does not have fearful 
+memories, as the amygdala-connected, ECS-modulated, DA neurons in 
+the mPFC, via connections to the amygdala, play a crucial role in sup-
+pressing hyperarousal and promoting fear extinction (Milad et al., 2009; 
+Fenster et al., 2018 ). 
+Concurrent to this flow-condition increase in DA signaling, activity 
+in the endocannabinoid system is likely to further down-regulate the 
+amygdala, thus promoting fear-extinction while reducing responses to 
+conditioned fear cues and the retrieval of fearful memories (Atsak et al., 
+2012 , Bitencourt et al., 2008 ). This would not happen in our trauma 
+condition, which helps explain why PTSD sufferers show heightened 
+activity in the amygdala and anterior cingulate cortex reflecting 
+over-expression of this network and the experience of “hyper-vigilance ” 
+(Szeszko and Yehuda, 2019 ). 
+Additionally, work by Jasnow et al. (2013) shows that 
+fear-extinction is a less robust process than fear-creation. In this process, 
+inputs from the vmPFC and hippocampus activate when there is safety 
+learning after fearful exposure (Hartley and Phelps, 2010 ), something 
+that is likely to occur in our flow condition. The opposite is true for 
+trauma, as reduced activation of the vmPFC heightens fearful responses 
+and the creation of fear-based memories (Jovanovic et al., 2012 ). 
+6.Summary 
+The ideas presented herein suggest that there is a cortico-striatal- 
+thalamic loop that governs the onset of flow. We have also proposed 
+that the basal ganglia, thalamus, amygdala and dorsal anterior cingulate 
+cortex are involved. Activity in this loop is modulated by a combination 
+of endocannabinoid, dopaminergic and noradrenergic signaling. More -
+over, this hypothesis suggests that loop activation is downstream from 
+the fight response and the arrival of a series of P300 waves or, at the very 
+least, an increase of phasic DA in the VTA. More broadly, a “flow 
+network ” is beginning to emerge where signals from the FPCN and 
+reward structures are integrated (see also, Weber et al., 2009 ). In fact, 
+and as argued earlier, it appears that the salience network facilitates the 
+transition into the flow network (for an extended treatment, see Weber 
+and Fisher, 2020 ). 
+Overall, our exploration of a neurobiological account for the onset of 
+flow includes various perspectives, including both neuroscientific and 
+phenomenological ones. We believe that, by incorporating this account 
+into a broader framework with other cognitive states —i.e., PTSD and the 
+psychedelic state —we gain a deeper insight into the neurocognitive 
+processes associated with flow. 
+6.1. Open questions, future directions and research initiatives 
+While flow ’s considerable impact on performance is widely docu-
+mented, these effects are rarely accounted for in the neurobiological 
+descriptions of the state. Yet any theoretical overview of flow should 
+include the state ’s impact on cognitive performance, with specific 
+attention paid to its impact on the following categories: (a) creativity, improvisation and innovation (Amabile et al., 2005; Csikszentmihalyi, 
+1997; Doyle, 2017 ), (b) learning and education (Rathunde and Csiks -
+zentmihalyi, 2005 ; Berka et al., 2007 ; Craig et al., 2004 ), (c) motivation 
+and productivity (Bryce and Haworth, 2002 ; Csikszentmihalyi, 1990 ; 
+Rheinberg and Engeser, 2018 ), (d) cooperation and collaboration 
+(Sawyer, 2015 ; Shehata et al., 2020 ; van den Hout et al., 2018 ), (e) 
+well-being, meaning, purpose and eudaimonic values (Bonaiuto et al., 
+2016 ; Seligman et al., 2007 ; Csikszentmihalyi and Nakamura, 2014 ), (f) 
+appreciation for nature/environmental awareness (Bonaiuto, 2016 ; 
+anecdotally, also see Kotler, 2006, 2013 ), (g) empathy (Bachen et al., 
+2016; Mesurado et al., 2016 ; Vaillant, 2008 ), (h) grit, perseverance, and 
+burnout (Aust et al., 2022; Constantinescu et al., 2017 ; Salanova, 2006 ; 
+Von Culin et al., 2014 ; Amabile and Kramer, 2007 ), (i) intuition (Bolte 
+et al., 2003; Doyle, 2017 ; Jarvilehto, 2016 , see “Intuition and Flow ” in 
+Flow Experience), and (j) perception (Sinnett et al., 2020 ). 
+The theoretical model for the transition into flow outlined in this 
+paper is unique in the literature as it lays out a neurobiologically plau-
+sible explanation for the flow ’s onset thereby offering predictive insights 
+and testable hypotheses — specifically, a set of neuro-markers that may 
+be associated with flow onset and/or flow itself. First, this model pre-
+dicts that flow comprises a unique pattern of brain network activation, 
+distinct from other similar states of consciousness, e.g., hyperfocus, 
+psychedelic states, and deep meditative states. If this is correct, then 
+flow can be characterized as a phenomenologically distinct experience. 
+Second, although current neuroimaging methods may not be able to 
+ascertain whether some of these neurobiological mechanisms are at 
+work during the transition into flow (particularly as described in our 
+hypothetical situation), future technological advances (e.g., wearable 
+functional near-infrared spectroscopy [FNIRS] or EEG devices) may 
+facilitate the discovery of these mechanisms. Third, and perhaps most 
+importantly, if contrasting neurobiological outcomes distinguish flow 
+from traumatic stress, this would be particularly important as flow could 
+be used as a possible therapeutic approach to PTSD, and resilience more 
+broadly (see Tabibnia, 2020 ). As initial evidence pointing in this di-
+rection, research shows that increased cognitive control (which flow 
+seems to require) is associated with decreased PTSD symptoms (White 
+et al., 2018 ). 
+At the same time, there are several important questions that shape 
+inquiry into the neural basis of flow. For instance, we have outlined 
+numerous flow triggers that are thought to causally elicit the flow 
+experience. Excluding the challenge/skill balance, the evidence for 
+nearly all of these triggers is correlational. Therefore, the causal role of 
+these triggers remains uncertain. Similarly, we cannot identify a single 
+study that systematically manipulates all triggers to identify if all are 
+simultaneously necessary to elicit flow. Said differently, the necessary 
+and sufficient conditions that elicit flow require further investigation. 
+Similarly, we consider the phenomenological characteristics of what 
+it is like to be in flow (complete concentration, merger of action and 
+awareness, time dilation, the vanishing self, a sense of control, autote -
+licity). Csikszentmihalyi (1990) has argued that all six characteristics 
+describe the flow experience. Here again, the evidence for these char-
+acteristics is largely correlational, and based on retrospective-self report 
+measures. There is a dire need to systematically, and experimentally, 
+confirm the presence of all six characteristics during flow. 
+One challenge is that this confirmation will largely rely on 
+comparing self-reported measures for these six phenomenological 
+characteristics, in a flow condition relative to non-flow conditions. Such 
+an approach makes it possible to claim that a flow condition elicits more 
+self-reported flow than a non-flow condition (for examples, see e.g., 
+Huskey et al., 2018b,a, 2021 ; Keller and Bless, 2008 ; Ulrich et al., 2014, 
+2016a,b, 2018, 2022 ). Defining flow in comparison to non-flow is use-
+ful, but comes with its own challenges. How much self-reported flow is 
+required to say that someone is truly experiencing flow? Surely the score 
+should be above the scale mid-point. But by how much? And by how 
+much on each of flow ’s six phenomenological characteristics? Are all six 
+characteristics always present during flow? Right now, we do not have S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+14good answers to these questions. 
+All of these issues present important challenges for neuroscientific 
+investigations of flow. This is especially true when we consider that most 
+neuroscientific methods for linking neural response with psychology or 
+phenomenology are correlational in nature (Ramsey et al., 2010 ). When 
+considered in conjunction with concerns about reverse inference (Pol-
+drack, 2006 ), it seems unlikely that neuroscientific investigation will 
+offer clear solutions to these problems. Instead, if we are to better un-
+derstand the neural basis of flow, then it is incumbent on flow re-
+searchers to resolve these theoretical, conceptual, and mechanistic 
+ambiguities. Ultimately, accomplishing these objectives will require 
+careful experimental interventions (Alameda et al., 2022 ). Our paper 
+lays a foundation for such inquiry. 
+References 
+Adolphs, R., 2013. The biology of fear. Curr. Biol. 23 (2), R79–R93. 
+Åkerstedt, T., Peters, B., Anund, A., Kecklund, G., 2005. Impaired alertness and 
+performance driving home from the night shift: a driving simulator study. Journal of 
+sleep research, 14 (1), 17–20. 
+Alameda, C., Sanabria, D., Ciria, L.F., 2022. The brain in flow: a systematic review on the 
+neural basis of the flow state. Cortex . 
+Alexander, W.H., Brown, J.W., 2019. The role of the anterior cingulate cortex in 
+prediction error and signaling surprise. Top. Cogn. Sci. 11 (1), 119–135. 
+Allen-Collinson, J., Crust, L., Swann, C., 2018. ‘Endurance work ’: embodiment and the 
+mind –body nexus in the physical culture of high-altitude mountaineering. Sociology 
+52 (6), 1324 –1341 . 
+Amabile, T.M., Kramer, S.J., 2007. Inner work life. Harv. Bus. Rev. 85 (5), 72–83. 
+Amabile, T.M., Barsade, S.G., Mueller, J.S., Staw, B.M., 2005. Affect and creativity at 
+work. Adm. Sci. Q. 50 (3), 367–403. 
+Andrews-Hanna, J.R., Smallwood, J., Spreng, R.N., 2014. The default network and self- 
+generated thought: Component processes, dynamic control, and clinical relevance. 
+Annals of the new York Academy of Sciences 1316 (1), 29–52. 
+Arstila, V., 2012. Time slows down during accidents. Front. Psychol. 3, 196. 
+Aston-Jones, G., Cohen, J.D., 2005. An integrative theory of locus coeruleus- 
+norepinephrine function: adaptive gain and optimal performance. Annual review of 
+neuroscience 28, 403–450. 
+Atasoy, S., Roseman, L., Kaelen, M., Kringelbach, M.L., Deco, G., Carhart-Harris, R.L., 
+2017. Connectome-harmonic decomposition of human brain activity reveals 
+dynamical repertoire re-organization under LSD. Sci. Rep. 7 (1), 1–18. 
+Atsak, P., Hauer, D., Campolongo, P., Schelling, G., McGaugh, J.L., Roozendaal, B., 2012. 
+Glucocorticoids interact with the hippocampal endocannabinoid system in impairing 
+retrieval of contextual fear memory. Proc. Natl. Acad. Sci. U.S.A. 109 (9), 
+3504 –3509 . 
+Aust, F., Beneke, T., Peifer, C., Wekenborg, M., 2022. The relationship between flow 
+experience and burnout symptoms: a systematic review. Int. J. Environ. Res. Public 
+Health 19 (7), 3865 . 
+Azizian, A., Polich, J., 2007. Evidence for attentional gradient in the serial position 
+memory curve from event-related potentials. J. Cogn. Neurosci. 19 (12), 2071 –2081 . 
+Bachen, C.M., Hern ˘andez-Ramos, P., Raphael, C., Waldron, A., 2016. How do presence, 
+flow, and character identification affect players ’ empathy and interest in learning 
+from a serious computer game? Comput. Hum. Behav. 64, 77–87. 
+Badre, D., Wagner, A.D., 2007. Left ventrolateral prefrontal cortex and the cognitive 
+control of memory. Neuropsychologia 45 (13), 2883 –2901 . 
+Bakker, A., Geurts, S., 2004. Toward a dual-process model of work-home interference. 
+Work Occup. 31, 3. 
+Ball, K., Owsley, C., Sloane, M.E., Roenker, D.L., Bruni, J.R., 1993. Visual attention 
+problems as a predictor of vehicle crashes in older drivers. nvestigative 
+ophthalmology & visual science 34 (11), 3110 –3123 . 
+Ballanger, B., van Eimeren, T., Moro, E., Lozano, A.M., Hamani, C., Boulinguez, P., 
+Strafella, A.P., 2009. Stimulation of the subthalamic nucleus and impulsivity: release 
+your horses. Ann. Neurol.: Off. J. Am. Neurol. Assoc. Child Neurol. Soc. 66 (6), 
+817–824. 
+Bari, A., Xu, S., Pignatelli, M., Takeuchi, D., Feng, J., Li, Y., Tonegawa, S., 2020. 
+Tonegawa. Proceedings of the National Academy of Sciences 117 (46), 
+29080 –29089 . 
+Barnett, L., Muthukumaraswamy, S.D., Carhart-Harris, R.L., Seth, A.K., 2020. Decreased 
+directed functional connectivity in the psychedelic state. NeuroImage 209, 116462 . 
+Barros, M.F.de S., Araújo-Moreira, F.M., Trevelin, C.L., Radel, R., 2018. Flow experience 
+and the mobilization of attentional resources. Cognitive, Affective, & Behavioral 
+Neuroscience 18, 810–823. 
+Barthelm as, M., Keller, J., 2021. Antecedents, boundary conditions, and consequences of 
+flow. In: Peifer, C., Engeser, S. (Eds.), Advances in Flow Research , second ed. Springer, 
+pp. 71–108. 
+Bassett, D.S., Bullmore, E.T., Meyer-Lindenberg, A., Apud, J.A., Weinberger, D.R., 
+Coppola, R., 2009. Cognitive fitness of cost-efficient brain function networks. Proc. 
+Natl. Acad. Sci. U.S.A. 106 (28), 11747 –11752 . 
+Bechara, A. (2011). Human emotions in decision making: Are they useful or disruptive in 
+Vartanian, O., & Mandel, D., Neuroscience of Decision Making, p. 73–96, Psychology 
+Press. Beier, K.T., Steinberg, E.E., DeLoach, K.E., Xie, S., Miyamichi, K., Schwarz, L., Luo, L., 
+2015. Circuit architecture of VTA dopamine neurons revealed by systematic input- 
+output mapping. Cell 162 (3), 622–634. 
+Bensaid, S., Modolo, J., Merlet, I., Wendling, F., Benquet, P., 2019. COALIA: a 
+computational model of human EEG for consciousness research. Front. Syst. 
+Neurosci. 13, 59. 
+Benson, H., Proctor, W., 2004. The breakout principle: How to activate the natural trigger 
+that maximizes creativity, athletic performance, productivity, and personal well-being . 
+Simon and Schuster . 
+Berka, C., Levendowski, D.J., Lumicao, M.N., Yau, A., Davis, G., Zivkovic, V.T., 
+Craven, P.L., 2007. EEG correlates of task engagement and mental workload in 
+vigilance, learning, and memory tasks. Aviat. Space Environ. Med. 78 (5), 
+B231 –B244 . 
+Berns, G.S., 2005. Price, placebo, and the brain. Journal of Marketing Research 42 (4), 
+399–400. 
+Berridge, C.W., Waterhouse, B.D., 2003. The locus coeruleus –noradrenergic system: 
+modulation of behavioral state and state-dependent cognitive processes. Brain Res. 
+Rev. 42 (1), 33–84. 
+Berridge, C.W., Spencer, R.C., 2016. Differential cognitive actions of norepinephrine a2 
+and a1 receptor signaling in the prefrontal cortex. Brain Res. 1641, 189–196. 
+Binder, J.R., Frost, J.A., Hammeke, T.A., Bellgowan, P.S.F., Rao, S.M., Cox, R.W., 1999. 
+Conceptual processing during the conscious resting state: a functional MRI study. 
+Journal of cognitive neuroscience 11 (1), 80–93. 
+Bishop, S.J., 2009. Trait anxiety and impoverished prefrontal control of attention. Nature 
+neuroscience 12 (1), 92–98. 
+Bitencourt, R.M., Pamplona, F.A., Takahashi, R.N., 2008. Facilitation of contextual fear 
+memory extinction and anti-anxiogenic effects of AM404 and cannabidiol in 
+conditioned rats. Eur. Neuropsychopharmacol. 18 (12), 849–859. 
+Blanke, O., Arzy, S., 2005. The out-of-body experience: disturbed self-processing at the 
+temporo-parietal junction. Neuroscientist 11 (1), 16–24. 
+Blanke, O., Thut, T., 2007. Inducing out-of-body experiences. In: Sala, S.D. (Ed.), Tall 
+tales: Popular myths about the mind and brain. Oxford University Press, pp. 425–439. 
+Boecker, H., Sprenger, T., Spilker, M.E., Henriksen, G., Koppenhoefer, M., Wagner, K.J., 
+Valet, M., Berthele, A., Tolle, T.R., 2008. The Runner ’s High: Opioidergic 
+Mechanisms in the Human Brain. Cerebral Cortex 18 (11), 2523 –2531 . 
+Bolte, A., Goschke, T., Kuhl, J., 2003. Emotion and intuition: Effects of positive and 
+negative mood on implicit judgments of semantic coherence. Psychol. Sci. 14 (5), 
+416–421. 
+Bonaiuto, M., Mao, Y., Roberts, S., Psalti, A., Ariccio, S., Ganucci Cancellieri, U., 
+Csikszentmihalyi, M., 2016. Optimal experience and personal growth: flow and the 
+consolidation of place identity. Front. Psychol. 7, 1654 . 
+Bonnelle, V., Ham, T.E., Leech, R., Kinnunen, K.M., Mehta, M.A., Greenwood, R.J., 
+Sharp, D.J., 2012. Salience network integrity predicts default mode network function 
+after traumatic brain injury. Proc. Natl. Acad. Sci. U.S.A. 109 (12), 4690 –4695 . 
+Borodovitsyna, O., Joshi, N., Chandler, D., 2018. Persistent Stress-Induced Neuroplastic 
+Changes in the Locus Coeruleus/Norepinephrine System. Neural Plasticity 1892570 . 
+Botvinick, M.M., Braver, T.S., 2014. Motivation and cognitive control. Behav. Neural 
+Mech. Annu. Rev. Psychol. 66, 82–113. 
+Botvinick, M.M., Cohen, J.D., Carter, C.S., 2004. Conflict monitoring and anterior 
+cingulate cortex: an update. Trends in cognitive sciences 8 (12), 539–546. 
+Botvinick, M.M., Braver, T.S., Barch, D.M., Carter, C.S., Cohen, J.D., 2001. Conflict 
+monitoring and cognitive control. Psychol. Rev. 108 (3), 624. 
+Brandmeyer, T., Delorme, A., Wahbeh, H., 2019. The neuroscience of meditation: 
+classification, phenomenology, correlates, and mechanisms. Prog. Brain Res. 244, 
+1–29. 
+Bremner, J.D., 2006. Traumatic stress: Effects on the brain. Dialogues in Clinical 
+Neuroscience 8 (4), 445–461. 
+Bressler, S.L., 2008. Neurocognitive networks. Scholarpedia 3 (2), 1567 . 
+Bressler, S.L., McIntosh, A.R., 2007. The role of neural context in large-scale 
+neurocognitive network operations. Handbook of Brain Connectivity. Springer, 
+Berlin, Heidelberg, pp. 403–419. 
+Bressler, S.L., Seth, A.K., 2011. Wiener –Granger causality: a well-established 
+methodology. Neuroimage 58 (2), 323–329. 
+Brewer, J.A., Worhunsky, P.D., Gray, J.R., Tang, Y.Y., Weber, J., Kober, H., 2011. 
+Meditation experience is associated with differences in default mode network 
+activity and connectivity. Proceedings of the National Academy of Sciences 108 (50), 
+20254 –20259 . 
+Brockett, A.T., Tennyson, S.S., deBettencourt, C.A., Gaye, F., Roesch, M.R., 2020. 
+Anterior cingulate cortex is necessary for adaptation of action plans. Proc. Natl. 
+Acad. Sci. U.S.A. 117 (11), 6196 –6204 . 
+Bromberg-Martin, E.S., Matsumoto, M., Hikosaka, O., 2010. Dopamine in motivational 
+control: rewarding, aversive, and alerting. Neuron 68 (5), 815–834. 
+Bryce, J., Haworth, J., 2002. Wellbeing and flow in sample of male and female office 
+workers. Leis. Stud. 21 (3–4), 249–263. 
+Bullmore, E., Sporns, O., 2012. The economy of brain network organization. Nat. Rev. 
+Neurosci. 13 (5), 336–349. 
+Cacioppo, J.T., Gardner, W.L., Berntson, G.G., 1999. The affect system has parallel and 
+integrative processing components: Form follows function. J. Personal. Soc. Psychol. 
+76 (5), 8390855 . 
+Carhart-Harris, R.L., Friston, K.J., 2019. REBUS and the anarchic brain: toward a unified 
+model of the brain action of psychedelics. Pharmacol. Rev. 71 (3), 316–344. 
+Carhart-Harris, R.L., Erritzoe, D., Williams, T., Stone, J.M., Reed, L.J., Colasanti, A., 
+Nutt, D.J., 2012. Neural correlates of the psychedelic state as determined by fMRI 
+studies with psilocybin. Proc. Natl. Acad. Sci. U.S.A. 109 (6), 2138 –2143 . S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+15Carhart-Harris, R.L., Leech, R., Hellyer, P.J., Shanahan, M., Feilding, A., Tagliazucchi, E., 
+Nutt, D., 2014. The entropic brain: a theory of conscious states informed by 
+neuroimaging research with psychedelic drugs. Front. Hum. Neurosci. 8, 20. 
+Carhart-Harris, R.L., Roseman, L., Haijen, E., Erritzoe, D., Watts, R., Branchi, I., 
+Kaelen, M., 2018. Psychedelics and the essential importance of context. 
+J. Psychopharmacol. 32 (7), 725–731. 
+Carter, C.S., Van Veen, V., 2007. Anterior cingulate cortex and conflict detection: an 
+update of theory and data. Cogn. Affect. Behav. Neurosci. 7 (4), 367–379. 
+Castellar, E.P.N., Antons, J., Marinazzo, D., van Looy, J., 2019. Mapping attention during 
+gameplay: Assessment of behavioral and ERP markers in an auditory oddball task. 
+Psychophysiologiy 56 (7), 1–13. 
+Cavanagh, J.F., Frank, M.J., 2014. Frontal theta as a mechanism for cognitive control. 
+Trends Cogn. Sci. 18 (8), 414–421. 
+Cavanna, F., Vilas, M.G., Palmucci, M., Tagliazucchi, E., 2018. Dynamic functional 
+connectivity and brain metastability during altered states of consciousness. 
+Neuroimage 180, 383–395. 
+Celsi, R.L., Rose, R.L., Leigh, T.W., 1993. An exploration of high-risk leisure consumption 
+through skydiving. J. Consum. Res. 20 (1), 1–23. 
+Chang, L.J., Yarkoni, T., Khaw, M.W., Sanfey, A.G., 2013. Decoding the role of the insula 
+in human cogition: Functional parcellation and large-scale reverse inference. Cereb. 
+Cortex 23 (3), 739–749. 
+Chavez, E., 2008. Flow in sport. Imagin. Cogn. Personal. 28 (1), 69–91. 
+Christandl, F., Mierke, K., Peifer, C., 2018. Time flows: Manipulations of subjective time 
+progression affect recalled flow and performance in a subsequent task. J. Exp. Soc. 
+Psychol. 74, 246–256. 
+Christoff, K., Irving, Z.C., Fox, K.C., Spreng, R.N., Andrews-Hanna, J.R., 2016. Mind- 
+wandering as spontaneous thought: a dynamic framework. Nat. Rev. Neurosci. 17 
+(11), 718–731. 
+Clay, O.J., Wadley, V.G., Edwards, J.D., Roth, D.L., Roenker, D.L., Ball, K.K., 2005. 
+Cumulative meta-analysis of the relationship between useful field of view and 
+driving performance in older adults: current and future implications. Optometry and 
+vision science 82 (8), 724–731. 
+Cocchi, L., Gollo, L.L., Zalesky, A., Breakspear, M., 2017. Criticality in the brain: a 
+synthesis of neurobiology, models and cognition. Prog. Neurobiol. 158, 132–152. 
+Cole, M.W., Reynolds, J.R., Power, J.D., Repovs, G., Anticevic, A., Braver, T.S., 2013. 
+Multi-task connectivity reveals flexible hubs for adaptive task control. Nat. Neurosci. 
+16 (9), 1348 –1355 . 
+Constantinescu, G., Rieger, J., Mummery, K., Hodgetts, W., 2017. Flow and grit by 
+design: Exploring gamification in facilitating adherence to swallowing therapy. Am. 
+J. Speech-Lang. Pathol. 26 (4), 1296 –1303 . 
+Corbetta, M., Shulman, G.L., 2002. Control of goal-directed and stimulus-driven 
+attention in the brain. Nat. Rev. Neurosci. 3 (3), 201–215. 
+Coull, J.T., Cheng, R.-K., Meck, W.H., 2011. Neuroanatomical and neurochemical 
+substrates of timing. Neuropsychopharmacology 36 (1), 3–25. 
+Craig, S., Graesser, A., Sullins, J., Gholson, B., 2004. Affect and learning: an exploratory 
+look into the role of affect in learning with AutoTutor. J. Educ. Media 29 (3), 
+241–250. 
+Csikszentmihalyi, M, 1975. Beyond boredom and anxiety: The experience of play in work 
+and games. Jossey-Bass, Inc., San Francisco, CA.  
+Csikszentmihalyi, M., 1975. Beyond boredom and anxiety: The experience of play in 
+work and games. Jossey-Bass, Inc. 
+Csikszentmihalyi, M., 1990. Flow: The Psychology of Optimal Experience, Vol. 1990. 
+Harper & Row, New York.  
+Csikszentmihalyi, M., 1997. Creativity: Flow and the psychology of discovery and 
+invention. HarperCollins Publishers . 
+Csikszentmihalyi, M., LeFevre, J., 1989. Optimal experience in work and leisure. 
+J. Personal. Soc. Psychol. 56 (5), 815–822. 
+Csikszentmihalyi, M., Nakamura, J., 2002. The concept of flow. Handb. Posit. Psychol. 
+89–105. 
+Csikszentmihalyi, M., Nakamura, J., 2014. The dynamics of intrinsic motivation. Flow 
+and the Foundations of Positive Psychology. Springer, Dordrecht, pp. 175–197. 
+Csikszentmihalyi, M., Nakamura, J., 2018. Flow, altered states of consciousness, and 
+human evolution. J. Conscious. Stud. 25 (11–12), 102–114. 
+van den Hout, J.J., Davis, O.C., Weggeman, M.C., 2018. The conceptualization of team 
+flow. J. Psychol. 152 (6), 388–423. 
+van der Linden, D., Tops, M., Bakker, A.B., 2021. The neuroscience of the flow state: 
+involvement of the Locus Coeruleus norepinephrine system. Front. Psychol. 12. 
+DeYoung, C., 2013. The neuromodulator of exploration: A unifying theory of the role of 
+dopamine in personality. Frontiers in Human Neuroscience 7. 
+Di Domenico, S., Ryan, R., 2017. The emerging neuroscience of intrinsic motivation. 
+Front. Hum. Neurosci. 11, 145. 
+Dietrich, A., 2004. Neurocognitive mechanisms underlying the experience of flow. 
+Conscious. Cogn. 13 (4), 746–761. 
+Dietrich, A., Stoll, O., 2010. Effortless attention, hypofrontality, and perfectionism. In: 
+Bruya, B. (Ed.), Effortless Attention: A New Perspective in the Cognitive Science of 
+Attention and Action. Bradford, pp. 159–178. 
+Dixon, M.L., Andrews-Hanna, J.R., Spreng, R.N., Irving, Z.C., Christoff, K., 2016. 
+Anticorrelation between default and dorsal attention networks varies across default 
+subsystems and cognitive states. bioRxiv, 056424 . 
+Donchin, E., Coles, M.G.H., 1988. Is the P300 component a manifestation of context 
+updating? Behavioral and Brain Sciences 11 (3), 357–374. 
+Doyle, C.L., 2017. Creative flow as a unique cognitive process. Front. Psychol. 8, 1348 . 
+Drevets, W.C., Raichle, M.E., 1998. Reciprocal suppression of regional cerebral blood 
+flow during emotional versus higher cognitive processes: Implications for 
+interactions between emotion and cognition. Cognition and Emotion 12 (3), 
+353–385. Eagleman, D.M., Pariyadath, V., 2009. Is subjective duration a signature of coding 
+efficiency? Philos. Trans. R. Soc. B: Biol. Sci. 364 (1525), 1841 –1851 . 
+Engeser, S.E. (2012). Advances in flow research. Springer ScienceBusiness Media. 
+Eschmann, K.C.J., Riedel, L., Mecklinger, A., 2021. Theta neurofeedback training 
+supports motor performance and flow experience. J. Cogn. Enhanc. 
+Falkenstein, M., Hoormann, J., Christ, S., Hohnsbein, J., 2000. ERP components on 
+reaction errors and their functional significance: a tutorial. Biological psychology 51 
+(2–3), 87–107. 
+Fellows, L.K., 2007. The Role of Orbitofrontal Cortex in Decision Making. Annals of the 
+New York Academy of Sciences 1121 (1), 421–430. 
+Fenster, R.J., Lebois, L.A., Ressler, K.J., Suh, J., 2018. Brain circuit dysfunction in post- 
+traumatic stress disorder: from mouse to man. Nat. Rev. Neurosci. 19 (9), 535–551. 
+Ferrucci, M., Giorgi, F., Bartalucci, A.L., Busceti, C., Fornai, F., 2013. The effects of locus 
+coeruleus and norepinephrine in methamphetamine toxicity. Current 
+neuropharmacology 11 (1), 80–94. 
+Fisher, J.T., Lonergan, C., Hopp, F.R., Weber, R., 2021. Media entertainment, flow 
+experiences, and the synchronization of audiences. In: Vorderer, P., Klimmt, C. 
+(Eds.), Oxford Handbook of Entertainment Theory. Oxford University Press . 
+Fox, M., Snyder, A., Vincent, J., Corbetta, M., Van Essen, D., Raichle, M., 2005. The 
+human brain is intrinsically organized into dynamic, anticorrelated functional 
+networks. PNAS 102 (27), 9673 –9678 . 
+Freeman, W.J., Breakspear, M., 2007. Scale-free neocortical dynamics. Scholarpedia 2 
+(2), 1357 . 
+Friston, K.J., 1994. Functional and effective connectivity in neuroimaging: a synthesis. 
+Hum. Brain Mapp. 2 (1–2), 56–78. 
+Friston, K.J., Harrison, L.M., Penny, W.D., 2003. Dynamic causal modeling. Neuroimage 
+19 (4), 1273 –1302 . 
+Friston, K., Da Costa, L., & Parr, T. (2020). Some interesting observations on the free 
+energy principle. arXiv preprint arXiv:2002.04501. 
+Fromer, R., Lin, H., Dean Wold, C.K., Inzlicht, M., Shenhav, A., 2021. Expectations of 
+reward and efficacy guide cognitive control allocation. Nat. Commun. 12 (1), 1030 . 
+Fuchs, A., Jirsa, V.K., Kelso, J.S., 2000. Theory of the relation between human brain 
+activity (MEG) and hand movements. Neuroimage 11 (5), 359–369. 
+Garrett, A.S., Carrion, V., Kletter, H., Karchemskiy, A., Weems, C.F., Reiss, A., 2012. 
+Brain activation to facial expressions in youth with PTSD symptoms. Depress Anxiety 
+29 (5), 449–459. 
+Girn, M., Mills, C., Laycock, E., Ellamil, M., Ward, L., Christoff, K., 2017. Neural 
+dynamics of spontaneous thought: an electroencephalographic study (July). 
+International Conference on Augmented Cognition. Springer, Cham, pp. 28–44 
+(July) .  
+Gold, J., Ciorciari, J., 2020. A Review on the Role of the Neuroscience of Flow States in 
+the Modern World. Behavioral Sciences 10 (9), 137. 
+Grahek, I., Fromer, R., Prater Fahey, M., & Shenhav, A., (2022). Learning when effort 
+matters: Neural dynamics underlying updating and adaptation to changes in 
+performance efficacy. Cerebral Cortex. 
+Gray, J.M., Vecchiarelli, H.A., Morena, M., Lee, T.T., Hermanson, D.J., Kim, A.B., Hill, M. 
+N., 2015. Corticotropin-releasing hormone drives anandamide hydrolysis in the 
+amygdala to promote anxiety. J. Neurosci. 35 (9), 3879 –3892 . 
+Gu, S., Wang, F., Cao, C., Wu, E., Tang, Y.Y., Huang, J.H., 2019. An integrative way for 
+studying neural basis of basic emotions with fMRI. Front. Neurosci. 13, 628. 
+Gu, S., Pasqualetti, F., Cieslak, M., Telesford, Q.K., Yu, A.B., Kahn, A.E., Bassett, D.S., 
+2015. Controllability of structural brain networks. Nat. Commun. 6 (1), 1–10. 
+Gunduz-Cinar, O., Hill, M.N., McEwen, B.S., Holmes, A., 2013. Amygdala FAAH and 
+anandamide: mediating protection and recovery from stress. Trends Pharmacol. Sci. 
+34 (11), 637–644. 
+Gyurkovics, M., Kotyuk, E., Katonai, E.R., Horvath, E.Z., Vereczkei, A., Szekely, A., 2016. 
+Individual differences in flow proneness are linked to a dopamine D2 receptor gene 
+variant. Conscious. Cogn. 42, 1–8. 
+Hamari, J., Koivisto, J., 2014. Measuring flow in gamification. Comput. Hum. Behav. 40, 
+133–143. 
+Hargrove, M.B., Nelson, D.L., Cooper, C.L., 2013. Generating eustress by challenging 
+employees: Helping people savor their work. Organizational Dynamics 42 (1), 
+61–69. 
+Harris, D.J., Vine, S.J., Wilson, M.R., 2017a. Is flow really effortless? The complex role of 
+effortful attention. Sport, Exercise, and Performance. Psychology 6 (1), 103–114. 
+Harris, D.J., Vine, S.J., Wilson, M.R., 2017b. Neurocognitive mechanisms of the flow 
+state. Prog. Brain Res. 234, 221–243. 
+Hartikainen, K.M., Ogawa, K.H., Knight, R.T., 2012. Orbitofrontal cortex biases attention 
+to emotional events. J. Clin. Exp. Neuropsychol. 34 (6), 588–597. 
+Hartley, C.A., Phelps, E.A., 2010. Changing Fear: The Neurocircuitry of Emotion 
+Regulation. Neuropsychopharmacology 35 (1), 136–146. 
+Hartley, N.D., Gaulden, A.D., B˘aldi, R., Winters, N.D., Salimando, G.J., Rosas-Vidal, L.E., 
+Jameson, A., Winder, D.G., Patel, S., 2019. Dynamic remodeling of a basolateral-to- 
+central amygdala glutamatergic circuit across fear states. Nature Neuroscience 22 
+(12), 2000 –2012 . 
+Heim, A., 1892. Notizen uber den Tod durch Abstruz. Jarbuch Des. Schweiz. Alp. 27, 
+327–337. 
+Henry, M.S., Gendron, L., Tremblay, M.E., Drolet, G., 2017. Enkephalins: endogenous 
+analgesics with an emerging role in stress resilience. Neural Plast. 2017 . 
+Hermans, E.J., Henckens, M.J., Joels, M., Fern˘andez, G., 2014. Dynamic adaptation of 
+large-scale brain networks in response to acute stressors. Trends Neurosci. 37 (6), 
+304–314. 
+Hillard, C.J., 2018. irculating Endocannabinoids: From Whence Do They Come and 
+Where are They Going? Neuropsychopharmacology 43 (1), 155–172. S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+16Holroyd, C.B., Nieuwenhuis, S., Yeung, N., Nystrom, L., Mars, R., Coles, M.G.H., 
+Cohen, J.D., 2004. Dorsal anterior cingulate cortex shows fMRI response to internal 
+and external error signals. Nature neuroscience 7 (5), 497–498. 
+Husain, M., Rorden, C., 2003. Non-spatially lateralized mechanisms in hemispatial 
+neglect. Nat. Rev. Neurosci. 4 (1), 26–36. 
+Huskey, R., Wilcox, S., Weber, R., 2018. Network neuroscience reveals distinct 
+neuromarkers of flow during media use. J. Commun. 68 (5), 872–895. 
+Huskey, R., Craighead, B., Miller, M.B., Weber, R., 2018. Does intrinsic reward motivate 
+cognitive control? A naturalistic-fMRI study based on the synchronization theory of 
+flow. Cogn. Affect. Behav. Neurosci. 18 (5), 902–924. 
+Huskey, R., Keene, J.R., Wilcox, S., Gong, X., Adams, R., Najera, C.J., 2021. Flexible and 
+modular brain network dynamics characterize flow experiences during media use: a 
+functional magnetic resonance imaging study. J. Commun. 72 (1), 6–32. 
+Huskey, R., Bue, A.C., Eden, A., Grall, C., Meshi, D., Prena, K., Schm alzle, R., Scholz, C., 
+Turner, B.O., Wilcox, S.H., 2020. Marr ’s tri-level framework integrates biological 
+explanation across communication subfields. J. Commun. 70 (3), 356–378. 
+Itti, L., Baldi, P., 2009. Bayesian surprise attracts human attention. Vis. Res. 49 (10), 
+1295 –1306 . 
+Izquierdo, I., Furini, C.R.G., Myskiw, J.C., 2016. Fear Memory. Physiological Reviews, 96 
+(2), 695–750. 
+Jackson, S.A., 1992. Athletes in flow: a qualitative investigation of flow states in elite 
+figure skaters. J. Appl. Sport Psychol. 4 (2), 161–180. 
+Jackson, S.A., & Eklund, R.C. (2004). The flow scales manual. Fitness Information 
+Technology, Inc. 
+Janak, P.H., Tye, K.M., 2015. From circuits to behaviour in the amygdala. Nature 517 
+(7534), 284–292. 
+Jaque, V., Thomson, P., Zaragoza, J., Werner, F., Podeszwa, J., Jacobs, K., 2020. Creative 
+flow and physiologic states in dancers during performance. Front. Psychol. 11, 1000 . 
+Jarvilehto, L., 2016. Intuition and flow. Flow Experience. Springer, Cham, pp. 95–104. 
+Jasnow, A.M., Ehrlich, D.E., Choi, D.C., Dabrowska, J., Bowers, M.E., McCullough, K.M., 
+Rainnie, D.G., Ressler, K.J., 2013. Thy1-Expressing Neurons in the Basolateral 
+Amygdala May Mediate Fear Inhibition. Journal of Neuroscience 33 (25), 
+10396 –10404 . 
+Jayawickreme, E., Cameron, K., Nelson-Coffey, S.K., Crone, D.L., Kern, M.L., Lomas, T., 
+Oades, L., Owens, R.L., Pawelski, J.O., Rashid, T., Warren, M.A., White, M.A., 
+Williams, P., 2022. Collective wellbeing and posttraumatic growth during COVID- 
+19: how positive psychology can help families, schools, workplaces and marginalized 
+communities. The Journal of Positive Psychology 17 (6), 761–789. 
+Jones, L.A., Hills, P.J., Dick, K.M., Jones, S.P., Bright, P., 2016. Cognitive mechanisms 
+associated with auditory sensory gating. Brain and cognition 102, 33–45. 
+Jovanovic, T., Kazama, A., Bachevalier, J., Davis, M., 2012. Impaired safety signal 
+learning may be a biomarker of PTSD. Neuropharmacology 62 (2), 695–704. 
+Kalivas, P.W., Duffy, P., 1990. Effect of acute and daily cocaine treatment on 
+extracellular dopamine in the nucleus accumbens. Synapse 5 (1), 48–58. 
+Kano, M., Ohno-Shosaku, T., Hashimotodani, Y., Uchigashima, M., Watanabe, M., 2009. 
+Endocannabinoid-mediated control of synaptic transmission. Physiol. Rev. 89 (1), 
+309–380. 
+Katahira, K., Yamazaki, Y., Yamaoka, C., Ozaki, H., Nakagawa, S., Nagata, N., 2018. EEG 
+correlates of the flow state: a combination of increased frontal theta and moderate 
+frontocentral alpha rhythm in the mental arithmetic task. Front. Psychol. 9, 300. 
+Kavous, S.N., Park, K., Silpasuwanchai, C., Wang, Z., Ren, X., 2019. The relationship 
+between flow proneness in everyday life and variations in the volume of gray matter 
+in the dopaminergic system: A cross-sectional study. Personality and Individual 
+Differences 141, 25–30. 
+Keller, J., Bless, H., 2008. Flow and regulatory compatibility: an experimental approach 
+to the flow model of intrinsic motivation. Personal. Soc. Psychol. Bull. 34 (2), 
+196–209. 
+Keller, J., Blomann, F., 2008. Locus of control and the flow experience: an experimental 
+analysis. Eur. J. Personal. 22 (7), 589–607. https://doi.org/10.1002/per.692 . 
+Keller, J., Land ausßer, 2012. The flow model revisited. Further Advances in Flow 
+Research. Springer, pp. 51–64. 
+Keller, J., Bless, H., Blomann, F., Kleinb ohl, D., 2011. Physiological aspects of flow 
+experiences: Skills-demand-compatibility effects on heart rate variability and 
+salivary cortisol. Journal of Experimental Social Psychology 47 (4), 849–852. 
+Kelso, J.S., 1992. Coordination dynamics of human brain and behavior. In: Friedrich, R, 
+Wunderlin, A. (Eds.), Evolution of dynamical structures in complex systems . Springer, 
+pp. 223–234. 
+Kelso, J.S., 2012. Multistability and metastability: understanding dynamic coordination 
+in the brain. Philosophical Transactions of the Royal Society B: Biological Sciences 
+367 (1591), 906–918. 
+Kelso, J.S., 2021. Unifying large-and small-scale theories of coordination. Entropy 23 (5), 
+537. 
+Khoshnoud, S., Igarz ˘abal, F.A., Wittmann, M., 2020. Peripheral-physiological and neural 
+correlates of the flow experience while playing video games: a comprehensive 
+review. PeerJ 8, e10520 . 
+Klasen, M., Weber, R., Kircher, T.T.J., Mathiak, K.A., Mathiak, K., 2012. Neural 
+contributions to flow experience during video game playing. Social Cognitive and 
+Affective Neuroscience 74 (4), 485–495. 
+Knierim, M.T., Rissler, R., Dorner, V., Maedche, A., Weinhardt, C., 2018. The 
+psychophysiology of flow: a systematic review of peripheral nervous system features. 
+Inf. Syst. Neurosci. 109–120. 
+Konovalov, A., Krajbich, I., 2018. Neurocomputational dynamics of sequence learning. 
+Neuron 98 (6), 1282 –1293 . 
+Kotler, S. (2006) West of Jesus., Bloomsbury. 
+Kotler, S. (2013) The Rise of Superman, New Harvest. 
+Kotler, S. (2021) The Art of Impossible, Harper Wave. Kounios, J., Jung-Beeman, M., 2014. The cognitive neuroscience of insight. Annu. Rev. 
+Psychol. 65, 71–93. 
+Kounios, J., Frymiare, J.L., Bowden, E.M., Fleck, J.I., Subramaniam, K., Parrish, T.B., 
+Jung-Beeman, M., 2006. The prepared mind: Neural activity prior to problem 
+presentation predicts subsequent solution by sudden insight. Psychol. Sci. 17 (10), 
+882–890. 
+Kram, M.L., Kramer, G.L., Ronan, P.J., Steciuk, M., & Petty, F. (2002). Dopamine 
+receptors and learned helplessness in the rat: an autoradiographic study. Progress in 
+neuro-psychopharmacology & biological psychiatry. 
+Kroener, S., Chandler, L.J., Phillips, P.E.M., Seamans, J.K., 2009. Dopamine Modulates 
+Persistent Synaptic Activity and Enhances the Signal-to-Noise Ratio in the Prefrontal 
+Cortex. PLOS ONE 4 (8), e6507 . 
+Kryston, K., Novotny, E., Schm alzle, R., Tamborini, R., 2018. Social demand in video 
+games and the snychronization thoery of flow. In: Bowman, N.D. (Ed.), Video Games: 
+A Medium That Demands Our Attention. Routledge . 
+Kutas, M., McCarthy, G., Donchin, E., 1977. Augmenting Mental Chronometry: The P300 
+as a Measure of Stimulus Evaluation Time. Science 197 (4305), 792–795. 
+Lagopoulos, J., Xu, J., Rasmussen, I., Vik, A., Malhi, G.S., Eliassen, C.F., Ellingsen, Ø., 
+2009. Increased theta and alpha EEG activity during nondirective meditation. 
+J. Altern. Complement. Med. 15 (11), 1187 –1192 . 
+Landry, M., Lifshitz, M., Raz, A., 2017. Brain correlates of hypnosis: a systematic review 
+and meta-analytic exploration. Neurosci. Biobehav. Rev. 81, 75–98. 
+LeDoux, J.E., 2015. Feelings: What are they & how does the brain make them? Daedalus 
+144 (1), 96–111. 
+Lee, E.M., Klement, K.R., Ambler, J.K., Loewald, T., Comber, E.M., Hanson, S.A., 
+Sagarin, B.J., 2016. Altered states of consciousness during an extreme ritual. PLoS 
+One 11 (5), e0153126 . 
+Lee, J.C., Wang, L.P., Tsien, J.Z., 2016. Dopamine rebound-excitation theory: putting 
+brakes on PTSD. Front. Psychiatry 7. ⊑https://www.frontiersin.org/articles/10.3389 
+/fpsyt.2016.00163 ⊒. 
+Limb, C.J., Braun, A.R., 2008. Neural substrates of spontaneous musical performance: An 
+fMRI study of jazz improvisation. PLoS One 3 (2), e1679 . 
+Liu, S., Chow, H., Yisheng, X., Erkkinen, M., Swett, K., Eagle, M., Rizik-Baer, D., 
+Braun, A., 2012. Neural correlates of lyrical improvisation. Sci. Rep. 2 (834), 2012 . 
+Lloyd, D., 2012. Neural correlates of temporality: default mode variability and temporal 
+awareness. Conscious. Cogn. 21 (2), 695–703. 
+Lustenberger, C., Boyle, M.R., Foulser, A.A., Mellin, J.M., Frohlich, F., 2015. Functional 
+role of frontal alpha oscillations in creativity. Cortex 67, 74–82. 
+Lustig, C., Meck, W.H., 2005. Chronic treatment with haloperidol induces deficits in 
+working memory and feedback effects of interval timing. Brain Cogn. 58 (1), 9–16. 
+Lydon-Staley, D.M., Cornblath, E.J., Belvins, A.S., Bassett, D.S., 2021. Modeling brain, 
+symptom, and behavior in the winds of change. Neuropsychopharmacology 46 (1), 
+20–32. 
+Maitlis, S., 2020. Posttraumatic Growth at Work. Annual Review of Organizational 
+Psychology and Organizational Behavior, 7 (1), 395–419. 
+Mannino, M., Bressler, S.L., 2015. Foundational perspectives on causality in large-scale 
+brain networks. Phys. Life Rev. 15, 107–123. 
+de Manzano, O, Theorell, T., Harmat, L., Ull˘en, F., 2010. The psychophysiology of flow 
+during piano playing. Emotion 10 (3), 301–311. 
+de Manzano, O., Cervenka, S., Jucaite, A., Hellen as, O., Farde, L., Ull˘en, F., 2013. 
+Individual differences in the proneness to have flow experiences are linked to 
+dopamine D2-receptor availability in the dorsal striatum. Neuroimage 67, 1–6. 
+Martin, P., Priest, S., 1986. Understanding the adventure experience. J. Adventure Educ. 
+3 (1), 18–21. 
+Mather, M., Clewett, D., Sakaki, M., Harley, C.W., 2016. Norepinephrine ignites local 
+hotspots of neuronal excitation: How arousal amplifies selectivity in perception and 
+memory. Behav. Brain Sci. 39. 
+Mayo, L.M., Rabinak, C.A., Hill, M.N., Heilig, M., 2022. Targeting the Endocannabinoid 
+System in the Treatment of Posttraumatic Stress Disorder: A Promising Case of 
+Preclinical-Clinical Translation? Biological Psychiatry 91 (3), 262–272. 
+McLaughlin, R.J., Hill, M.N., Gorzalka, B.B., 2014. A critical role for prefrontocortical 
+endocannabinoid signaling in the regulation of stress and emotional behavior. 
+Neuroscience & Biobehavioral Reviews 42, 116–131. 
+Meck, W.H., 1996. Neuropharmacology of timing and time perception. Cognitive brain 
+research 3 (3–4), 227–242. 
+Medford, N., Critchley, H.D., 2010. Conjoint activity of anterior insular and anterior 
+cingulate cortex: Awareness and response. Brain Structure and Function 214 (5), 
+535–549. 
+Melnikoff, D.E., Carlson, R.W., Stillman, P.E., 2022. A computational theory of the 
+subjective experience of flow. Nature communications 13 (1), 1–13. 
+Menon, V., Uddin, L.Q., 2010. Saliency, switching, attention and control: a network 
+model of insula function. Brain Struct. Funct. 214 (5–6), 655–667. 
+Mesulam, M.M., 1999. Spatial attention and neglect: parietal, frontal and cingulate 
+contributions to the mental representation and attentional targeting of salient 
+extrapersonal events. Philos. Trans. R. Soc. Lond. Ser. B: Biol. Sci. 354 (1387), 
+1325 –1346 . 
+Mesurado, B., Cristina Richaud, M., Jos˘e Mateo, N., 2016. Engagement, flow, self- 
+efficacy, and Eustress of university students: a cross-national comparison between 
+the Philippines and Argentina. J. Psychol. 150 (3), 281–299. 
+Michailidis, L., Balaguer-Ballester, E., He, X, 2018. Flow and Immersion in Video Games: 
+The Aftermath of a Conceptual Challenge. Frontiers in Psychology . 
+Milad, M.R., Rauch, S.L., 2007. The Role of the Orbitofrontal Cortex in Anxiety 
+Disorders. Annals of the New York Academy of Sciences 1121 (1), 546–561. 
+Milad, M.R., Pitman, R.K., Ellis, C.B., Gold, A.L., Shin, L.M., Lasko, N.B., Rauch, S.L., 
+2009. Neurobiological basis of failure to recall extinction memory in posttraumatic 
+stress disorder. Biol. Psychiatry 66 (12), 1075 –1082 . S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+17Miller, E.K., Cohen, J.D., 2001. An integrative theory of prefrontal cortex function. Annu. 
+Rev. Neurosci. 24, 167–202. 
+Miller, I.W., Norman, W.H., 1979. Learned helplessness in humans: A review and 
+attribution-theory model. Psychological Bulletin 86 (1), 93–118. 
+Morena, M., Patel, S., Bains, J., Hill, M., 2015. Neurobiological interactions between 
+stress and the endocannabinoid system. Neuropsychopharmacology 41 (80–102), 
+2016 . 
+Morris, L.S., McCall, J.G., Charney, D.S., Murrough, J.W., 2020. The role of the locus 
+coeruleus in the generation of pathological anxiety. Brain and Neuroscience 
+Advances 4. 
+Muzammel, M., Yusoff, M.Z., Meriaudeau, F., 2018. Event-related potential responses of 
+motorcyclists towards rear end collision warning system. IEEE Access 6, 
+31609 –31620 . 
+Myers, C.A., Wang, C., Black, J.M., Bugescu, N., Hoeft, F., 2016. The matter of 
+motivation: Striatal resting-state connectivity is dissociable between grit and growth 
+mindset. Social Cognitive and Affective Neuroscience 11 (10), 1521 –1527 . 
+Nachev, P., Wydell, H., O’Neill, K., Husain, M., Kennard, C., 2007. The role of the pre- 
+supplementary motor area in the control of action. Neuroimage 36, T155 –T163 . 
+Naegeli, C., Zeffiro, T., Piccirelli, M., Jaillard, A., Weilenmann, A., Hassanpour, K., 
+Mueller-Pfeiffer, C., 2018. Locus coeruleus activity mediates hyperresponsiveness in 
+posttraumatic stress disorder. Biol. Psychiatry 83 (3), 254–262. 
+Nakagawa, S., Sugiura, M., Sekiguchi, A., Kotozaki, Y., Miyauchi, C.M., Hanawa, S., 
+Araki, T., Takeuchi, H., Sakuma, A., Taki, Y., Kawashima, R., 2016. Effects of post- 
+traumatic growth on the dorsolateral prefrontal cortex after a disaster. Scientific 
+Reports 34364 . 
+Nakajima, M., Schmitt, L.I., Halassa, M.M., 2019. Prefrontal cortex regulates sensory 
+filtering through a basal ganglia-to-thalamus pathway. Neuron 103 (3), 445–458. 
+Nakamura, J., Csikszentmihalyi, M., 2005. The concept of flow. In: Snyder, C.R., 
+Lopez, S.J. (Eds.), Handbook of Positive Psychology. Oxford University Press, 
+pp. 89–105. 
+Nash, J.D., Newberg, A., Awasthi, B., 2018. Corrigendum: Toward a unifying taxonomy 
+and definition for meditation. Frontiers in Psychology 10, 2206 . 
+Nelson, S.M., Dosenbach, N.U., Cohen, A.L., Wheeler, M.E., Schlaggar, B.L., Petersen, S. 
+E., 2010. Role of the anterior insula in task-level control and focal attention. Brain 
+structure and function 214 (5), 669–680. 
+Newberg, A., Alavi, A., Baime, M., Pourdehnad, M., Santanna, J., d’Aquili, E., 2001. The 
+measurement of regional cerebral blood flow during the complex cognitive task of 
+meditation: a preliminary SPECT study. Psychiatry Res.: Neuroimaging 106 (2), 
+113–122. 
+Northoff, G., Heinzel, A., de Greck, M., Bermpohl, F., Dobrowolny, H., Panksepp, J., 
+2006. Self-referential processing in our brain – a meta-analysis of imaging studies on 
+the self. Neuroimage 31 (1), 440–457. 
+Nour, M.M., Dahoun, T., Schwartenbeck, P., Adams, R.A., FitzGerald, T.H.B., Coello, C., 
+Wall, M.B., Dolan, R.J., Howes, O.D., 2018. Dopaminergic basis for signaling belief 
+updates, but not surprise, and the link to paranoia. Proc. Natl. Acad. Sci. U.S.A. 115 
+(43), E10167 –E10176. https://doi.org/10.1073/pnas.1809298115 . 
+O’Reilly, J.X., Schüffelgen, U., Cuell, S.F., Behrens, T.E.J., Mars, R.B., Rushworth, M.F.S., 
+2013. Dissociable effects of surprise and model update in parietal and anterior 
+cingulate cortex. Proc. Natl. Acad. Sci. U.S.A. 110 (38), E3660 –E3669. https://doi. 
+org/10.1073/pnas.1305373110 . 
+O’Doherty, J., Kringelbach, M.L., Rolls, E.T., Hornak, J., Andrews, C., 2001. Abstract 
+reward and punishment representations in the human orbitofrontal cortex. Nat. 
+Neurosci. 4 (1), 95–102. 
+Ohman, A., 2005. The role of the amygdala in human fear: automatic detection of threat. 
+Psychoneuroendocrinology 30 (10), 953–958. 
+Ozer, E.J., Best, S.R., Lipsey, T.L., Weiss, D.S., 2003. Predictors of posttraumatic stress 
+disorder and symptoms in adults: a meta-analysis. Psychological bulletin 129 (1), 
+52–73. 
+Parr, T., Friston, K.J., 2018. The anatomy of inference: generative models and brain 
+structure. Frontiers in computational neuroscience 12, 90. 
+Patel, S.H., Azzam, P.N., 2005. Characterization of N200 and P300: selected studies of 
+the event-related potential. Int. J. Med. Sci. 2 (4), 147. 
+Peifer, C., Schulz, A., Schachinger, H., Baumann, N., Antoni, C.H., 2014. The relation of 
+flow-experience and physiological arousal under stress —can u shape it? Journal of 
+Experimental Social Psychology 53, 62–69. 
+Peifer, C., Wolters, G., Harmat, L., Heutte, J., Tan, J., Freire, T., Triberti, S., 2022. 
+A scoping review of flow research. Front. Psychol. 13. 
+Pekrun, R., 1992. The impact of emotions on learning and achievement: Towards a 
+theory of cognitive/motivational mediators. Applied psychology 41 (4), 359–376. 
+Pels, F., Kleinert, J., Mennigen, F., 2018. Group flow: a scoping review of definitions, 
+theoretical approaches, measures and findings. PLoS One 13 (12), e0210117 . 
+Penzo, M.A., Robert, V., Tucciarone, J., De Bundel, D., Wang, M., Van Aelst, L., Li, B., 
+2015. The paraventricular thalamus controls a central amygdala fear circuit. Nature 
+519 (7544), 455–459. 
+Phelps, E.A., LeDoux, J.E., 2005. Contributions of the amygdala to emotion processing: 
+from animal models to human behavior. Neuron 48 (2), 175–187. 
+Picton, T.W., 1992. The P300 wave of the human event-related potential. Journal of 
+Clinical Neurophysiology 9 (4), 56–79. 
+Pizzagalli, D., Dillon, D., Bogdan, R., Homes, A., 2011. Reward and punishment 
+processing in the human brain. Neurosci. Decis. -Mak. 199–220. 
+Poldrack, R.A., 2006. Can cognitive processes be inferred from neuroimaging data. 
+Trends Cogn. Sci. 10 (2), 59–63. https://doi.org/10.1016/j.tics.2005.12.004 . 
+Polich, J., 2007. Updating P300: An integrative theory of P3a and P3b. Clinical 
+Neurophysiology 118 (10), 2128 –2148 . Preller, K.H., Razi, A., Zeidman, P., Stampfli, P., Friston, K.J., Vollenweider, F.X., 2019. 
+Effective connectivity changes in LSD-induced altered states of consciousness in 
+humans. Proc. Natl. Acad. Sci. U.S.A. 116 (7), 2743 –2748 . 
+Quinn, R., 2005. Flow in knowledge work. Adm. Sci. Q. 50 (4), 610–641. 
+Rabeyron, T., Caussie, S., 2016. Clinical aspects of out-of-body experiences: trauma, 
+reflexivity and symbolisation. L’˘Evolution Psychiatrique 81 (4), 53–71. 
+Raichle, M.E., MacLeod, A.M., Snyder, A.Z., Powers, W.J., Gusnard, D.A., Shulman, G.L., 
+2001. A default mode of brain function. Proc. Natl. Acad. Sci. U.S.A. 98 (2), 
+676–682. 
+Ramsey, J.D., Hanson, S.J., Hanson, C., Halchenko, Y.O., Poldrack, R.A., Glymour, C., 
+2010. Six problems for causal inference from fMRI. NeuroImage 49 (2), 1545 –1558. 
+https://doi.org/10.1016/j.neuroimage.2009.08.065 . 
+Rathunde, K., Csikszentmihalyi, M., 2005. Middle school students ’ motivation and 
+quality of experience: a comparison of Montessori and traditional school 
+environments. Am. J. Educ. 111 (3), 341–371. 
+Rheinberg, F., Engeser, S., 2018. Intrinsic motivation and flow. Motivation and Action. 
+Springer, Cham, pp. 579–622. 
+Roelofs, K., 2017. Freeze for action: neurobiological mechanisms in animal and human 
+freezing. Philos. Trans. R. Soc. B: Biol. Sci. 372 (1718), 20160206 . 
+Rolls, E.T., 2000. The Orbitofrontal Cortex and Reward. Cerebral Cortex 10 (3), 284–294. 
+Roseboom, W., 2019. Serial dependence in timing perception. ournal of experimental 
+psychology: human perception and performance 45 (1), 100. 
+Rule, R.R., Shimamura, A.P., Knight, R.T., 2002. Orbitofrontal cortex and dynamic 
+filtering of emotional stimuli. Cognitive, Affective, & Behavioral Neuroscience, 2 (3), 
+264–270. 
+Rutrecht, H., Wittmann, M., Khoshnoud, S., Igarz ˘abal, F.A., 2021. Time speeds up during 
+flow states: a study in virtual reality with the video game thumper. Timing Time 
+Percept. 9 (4), 353–376. 
+Saalmann, Y.B., Pinsk, M.A., Wang, L., Li, X., Kastner, S., 2012. The pulvinar regulates 
+information transmission between cortical areas based on attentional demands. 
+Science 337 (6095), 753–756. 
+Sadacca, B.F., Wikenheiser, A.M., Schoenbaum, G., 2017. Toward a theoretical role for 
+tonic norepinephrine in the orbitofrontal cortex in facilitating flexible learning. 
+Neuroscience 345, 124–129. 
+Sakai, K., 2008. Task Set and Prefrontal Cortex. Annual Review of Neuroscience, 31 (1), 
+219–245. 
+Salanova, M., Bakker, A., Llorens Gumbau, S., 2006. Flow at work. J. Happiness Stud. 7 
+(1), 1–22. 
+Salay, L.D., Ishiko, N., Huberman, A.D., 2018. A midline thalamic circuit determines 
+reactions to visual threat. Nature 557 (7704), 183–189. 
+Sawyer, K., 2015. Group flow and group genius. NAMTA J. 40 (3), 29–52. 
+Sawyer, K. (2017), Group Genius, Basic Books, 2nd edition. 
+Saxe, R., Kanwisher, N., 2003. People thinking about thinking people: the role of the 
+temporo-parietal junction in “theory of mind ”. Neuroimage 19 (4), 1835 –1842 . 
+Schüler, J., Nakamura, J., 2013. Does flow experience lead to risk? Appl. Psychol.: 
+Health Well-Being 5 (3), 311–331. 
+Schultz, W., 2007. Multiple dopamine functions at different time courses. Annual review 
+of neuroscience 30 (1), 259–288. 
+Schultz, W., 2016. Dopamine reward prediction-error signaling: a two-component 
+response. Nat. Rev. Neurosci. 17 (3), 183. 
+Schwartenbeck, P., FitzGerald, T.H.B., Dolan, R., 2016. Neural signals encoding shifts in 
+beliefs. NeuroImage 125, 578–586. https://doi.org/10.1016/j. 
+neuroimage.2015.10.067 . 
+Schweimer, J., Hauber, W., 2006. Dopamine D1 receptors in the anterior cingulate cortex 
+regulate effort-based decision making. Learning & Memory 13 (6), 777–782. 
+Seeley, W.W., Menon, V., Schatzberg, A.F., Keller, J., Glover, G.H., Kenna, H., 
+Greicius, M.D., 2007. Dissociable intrinsic connectivity networks for salience 
+processing and executive control. J. Neurosci. 27 (9), 2349 –2356 . 
+Seli, P., Risko, E.F., Smilek, D., 2016. On the necessity of distinguishing between 
+unintentional and intentional mind wandering. Psychological science 27 (5), 
+685–691. 
+Seligman, M.E., 1972. Learned helplessness. Annual Review of Medicine 207–412. 
+Seligman, M.E., Schulman, P., Tryon, A.M., 2007. Group prevention of depression and 
+anxiety symptoms. Behav. Res. Ther. 45 (6), 1111 –1126 . 
+Selye, H., 1956. The Stress of Life. McGraw-Hill . 
+Seth, A.K., Bayne, T, 2022. Theories of consciousness. Nature Reviews Neuroscience 23, 
+439–452. 
+Shamay-Tsoory, S.G., Tomer, R., Berger, B.D., Goldsher, D., Aharon-Peretz, J., 2005. 
+Impaired “affective theory of mind ” is associated with right ventromedial prefrontal 
+damage. Cogn. Behav. Neurol. 18 (1), 55–67. 
+Shehata, M., Cheng, M., Leung, A., Tsuchiya, N., Wu, D.A., Tseng, C.H.,. & Shimojo, S. 
+(2020). Team flow is a unique brain state associated with enhanced information 
+integration and neural synchrony. 
+Shenhav, A., Cohen, J.D., Botvinick, M.M., 2016. Dorsal anterior cingulate cortex and the 
+value of control. Nat. Neurosci. 19 (10), 1286 –1291 . 
+Sherin, J.E., Nemeroff, C.B., 2011. Post-traumatic stress disorder: the neurobiological 
+impact of psychological trauma. Dialog-. Clin. Neurosci. 13 (3), 263. 
+Sinnett, S., Jager, J., Singer, S.M., Philippe, R.A., 2020. Flow states and associated 
+changes in spatial and temporal processing. Front. Psychol. 11. 
+Snyder, K., Wang, W.-W., Han, R., McFadden, K., Valentino, R.J., 2012. Corticotropin- 
+Releasing Factor in the Norepinephrine Nucleus, Locus Coeruleus, Facilitates 
+Behavioral Flexibility. Neuropsychopharmacology 37 (2), 520–530. 
+Spreng, R.N., 2012. The fallacy of a “task-negative ” network. Front. Psychol. 3, 145. 
+Sridharan, D., Levitin, D.J., Menon, V., 2008. A critical role for the right fronto-insular 
+cortex in switching between central-executive and default-mode networks. Proc. 
+Natl. Acad. Sci. U.S.A. 105 (34), 12569 –12574 . S. Kotler et al.
+
+Neuroscience and Biobehavioral Reviews 143 (2022) 104956
+18Stein, D.J., Nesse, R.M., 2011. Threat detection, precautionary responses, and anxiety 
+disorders. Neurosci. Biobehav. Rev. 35 (4), 1075 –1079 . 
+Stelmack, R.M., Houlihan, M., & Doucent, C. (1994). Event-related potentials and the 
+detection of deception: A two-stimulus paradigm. OTTAWA UNIV (ONTARIO). 
+Sussman, T.J., Jin, J., Mohanty, A., 2016. Top-down and bottom-up factors in threat- 
+related perception and attention in anxiety. Biological Psychology, 121, 160–172. 
+Szeszko, P.R., Yehuda, R., 2019. Magnetic resonance imaging predictors of 
+psychotherapy treatment response in post-traumatic stress disorder: a role for the 
+salience network. Psychiatry Res. 277, 52–57. 
+Tabibnia, G., 2020. An affective neuroscience model for bosting resilence in adults. 
+Neurosci. Biobehav. Rev. 111, 321–350. 
+Taylor, S., Jang, K.L., Stewart, S.H., Stein, M.B., 2008. Etiology of the dimensions of 
+anxiety sensitivity: A behavioral –genetic analysis. Journal of anxiety disorders 22 
+(5), 899–914. 
+Tedeschi, R.G., Calhoun, L.G., 2004. Posttraumatic Growth: Conceptual Foundations and 
+Empirical Evidence. Psychological Inquiry 15 (1), 1–18. 
+Teng, C., 2011. Who are likely to experience flow? Personal. Individ. Differ. 50 (6), 
+863–868. 
+Thorpe, K.J., Dragonas, T., Golding, J., 1992. The effects of psychosocial factors on the 
+mother ’s emotional well-being during early parenthood: a cross-cultural study of 
+Britain and Greece. J. Reprod. Infant Psychol. 10 (4), 205–217. 
+Tognoli, E., Kelso, J.S., 2014. The metastable brain. Neuron 81 (1), 35–48. 
+Touroutoglou, A., Zhang, J., Andreano, J.M., Dickerson, B.C., Barrett, L.F., 2018. 
+Dissociable effects of aging on salience subnetwork connectivity mediate age-related 
+changes in executive function and affect. Front. Aging Neurosci. 10, 410. 
+Tozman, T., Peifer, C., 2016. Experimental paradigms to investigate flow-experience and 
+its psychophysiology: inspired from stress theory and research. In: Harmat, L., 
+Andersen, F.Ø., Ull˘en, F., Wright, J., G., Sadlo (Eds.), Flow experience . Springer, 
+pp. 329–350. 
+Tozman, T., Zhang, Y.Y., Vollmeyer, R., 2017. Inverted U-shaped function between flow 
+and cortisol release during chess play. J. Happiness Stud. 18 (1), 247–268. 
+Travis, F., 2020. Temporal and spatial characteristics of meditation EEG. Psychol. 
+Trauma: Theory Res. Pract. Policy 12 (2), 111. 
+Tsaur, S.H., Yen, C.H., Hsiao, S.L., 2013. Transcendent experience, flow and happiness 
+for mountain climbers. International Journal of Tourism Research 15 (4), 360–374. 
+Tyng, C.M., Amin, H.U., Saad, M.N., Malik, A.S., 2017. The influences of emotion on 
+learning and memory. Front. Psychol. 8, 1454 . 
+Ullsperger, M., Harsay, H.A., Wessel, J.R., Ridderinkhof, K.R., 2010. Conscious 
+perception of errors and its relation to the anterior insula. Brain Struct. Funct. 214 
+(5), 629–643. 
+Ulrich, M., Keller, J., Gron, G., 2016a. Neural signatures of experimentally induced flow 
+experiences identified in a typical fMRI block design with BOLD imaging. Soc. Cogn. 
+Affect. Neurosci. 11 (3), 496–507. https://doi.org/10.1093/scan/nsv133 . 
+Ulrich, M., Keller, J., Gron, G., 2016b. Dorsal raphe nucleus down-regulates medial 
+prefrontal cortex during experience of flow. Front. Behav. Neurosci. 10, 169. 
+Ulrich, M., Niemann, F., Gron, G., 2022. The neural signatures of the psychological 
+construct “flow ”: A replication study. Neuroimage: Reports 2 (4), 100139 . 
+Ulrich, M., Keller, J., Hoenig, K., Waller, C., Gron, G., 2014. Neural correlates of 
+experimentally induced flow experiences. Neuroimage 86, 194–202. 
+Ulrich, M., Niemann, J., Boland, M., Kammer, T., Niemann, F., Gron, G., 2018. The 
+neural correlates of flow experience explored with transcranial direct current 
+stimulation. Exp. Brain Res. 236 (12), 3223 –3237 . 
+Vaillant, G.E. (2008). Aging well: Surprising guideposts to a happier life from the 
+landmark study of adult development. Hachette UK. 
+Van der Kolk, B.A., Van der Hart, O., 1989. Pierre Janet and the breakdown of adaptation 
+in psychological trauma. The American Journal of Psychiatry 146 (12), 1530 –1540 . 
+Vartanian, O., Mandel, D.R. (Eds.), 2011. Neuroscience of Decision Making. Psychology 
+Press . 
+Vatansever, D., Menon, D.K., Stamatakis, E.A., 2017. Default mode contributions to 
+automated information processing. Proc. Natl. Acad. Sci. 48 (114), 12821 –12826 . 
+Ventura, R., Latagliata, E.C., Morrone, C., La Mela, I., Puglisi-Allegra, S., 2008. Prefrontal 
+norepinephrine determines attribution of “high ” motivational salience. PLoS One 3 
+(8), e3044 . 
+Von Culin, K.R., Tsukayama, E., Duckworth, A.L., 2014. Unpacking grit: motivational 
+correlates of perseverance and passion for long-term goals. J. Posit. Psychol. 9 (4), 
+306–312. 
+Wang, H.E., B˘enar, C.G., Quilichini, P.P., Friston, K.J., Jirsa, V.K., Bernard, C., 2014. 
+Asystematic framework for functional connectivity measures. Front. Neurosci. 8, 
+405. Wang, J., Fang, Y., Wang, X., Yang, H., Yu, X., Wang, H., 2017. Enhanced gamma activity 
+and cross-frequency interaction of resting-state electroencephalographic oscillations 
+in patients with Alzheimer ’s disease. Front. Aging Neurosci. 9, 243. 
+Wanner, B., Ladouceur, R., Auclair, A.V., Vitaro, F., 2006. Flow and dissociation: 
+Examination of mean levels, cross-links, and links to emotional well-being across 
+sports and recreational and pathological gambling. J. Gambl. Stud. 22 (3), 289. 
+Waters, L., Cameron, K., Nelson-Coffey, S.K., Crone, D.L., Kern, M.L., Lomas, T., 
+Oades, L., Owens, R.L., Pawelski, J.O., Rashid, T., Warren, M.A., White, M.A., 
+Williams, P., 2022. Collective wellbeing and posttraumatic growth during COVID- 
+19: How positive psychology can help families, schools, workplaces and 
+marginalized communities. The Journal of Positive Psychology 17 (6), 761–789. 
+Weber, R., Fisher, J.T., 2020. Advancing the synchronization theory of flow experiences. 
+In: Weber, R., Floyd, K. (Eds.), Handbook of Communication Science and Billogy. 
+Routledge, pp. 157–176. 
+Weber, R., Huskey, R., Craighead, B., 2016. Flow experiences and well-being: a media 
+neuroscience perspective. In: Oliver, M.B., Reinecke, L. (Eds.), Handbok of Media use 
+and Well-being: International Perspectives on Theory and Research on Positive 
+Media Effects. Routledge, pp. 183–196. 
+Weber, R., Tamborini, R., Westcott-Baker, A., Kantor, B., 2009. Theorizing flow and 
+media enjoyment as cognitive synchronization of attentional and reward networks. 
+Commun. Theory 19 (4), 397–422. 
+Weber, R., Alicea, B., Huskey, R., Mathiak, K., 2018. Network dynamics of attention 
+during a naturalistic behavioral paradigm. Front. Hum. Neurosci. 12, 182. 
+Wheeler, S.W., Dyer, N.L., 2020. A systematic review of psychedelic-assisted 
+psychotherapy for mental health: An evaluation of the current wave of research and 
+suggestions for the future. Psychol. Conscious.: Theory, Res., Pract. 7 (3), 279. 
+White, S.F., Costanzo, M.E., Thornton, L.C., Mobley, A.M., Blair, J.R., Roy, M.J., 2018. 
+Increased cognitive control and reduced emotional interference is associated with 
+reduced PTSD symptom severity in a trauma-exposed sample: A preliminary 
+longitudinal study. Psychiatry Res.: Neuroimaging 278, 7–12. 
+Wiener, M., Turkeltaub, P., Coslett, H.B., 2010. The image of time: a voxel-wise meta- 
+analysis. NeuroImage 49 (2), 1728 –1740 . 
+Wilting, J., Priesemann, V., 2019. 25 years of criticality in neuroscience —established 
+results, open controversies, novel concepts. Curr. Opin. Neurobiol. 58, 105–111. 
+Wimmer, R., Schmitt, L., Davidson, T., Nakajima, M., Deisseroth, K., Halassa, M.M., 
+2015. Thalamic control of sensory selection in divided attention. Nature 526, 
+705–709. 
+Wirz, L., Reuter, M., Felten, A., Schwabe, L., 2018. An endocannabinoid receptor 
+polymorphism modulates affective processing under stress. Social Cognitive and 
+Affective Neuroscience 13 (11), 1177 –1189 . 
+Wittmann, M. (2018). Altered states of consciousness: Experiences out of time and self. 
+MIT Press. 
+Wyrofsky, R.R., Reyes, B.A., Zhang, X.Y., Bhatnagar, S., Kirby, L.G., van Bockstaele, E.J., 
+2019. Endocannabinoids, stress signaling, and the locus coeruleus-norepinephrine 
+system. Neurobiology of stress 11, 100176 . 
+Xing, B., Li, Y.C., Gao, W.J., 2016. Norepinephrine versus dopamine and their interaction 
+in modulating synaptic function in the prefrontal cortex. Brain research 1641, 
+217–233. 
+Xu, N., Doerschuk, P.C., Keilholz, S.D., & Spreng, R.N. (2020). Spatiotemporal functional 
+interactivity among large-scale brain networks. bioRxiv. 
+Yaden, D.B., Haidt, J., Hood Jr, R.W., Vago, D.R., Newberg, A.B., 2017. The varieties of 
+self-transcendent experience. Rev. Gen. Psychol. 21 (2), 143–160. 
+Yanes, D., Loprinzi, P.D., 2018. Experimental effects of acute exercise on iconic memory, 
+short-term episodic, and long-term episodic memory. Journal of clinical medicine 7 
+(6), 146. 
+Yim, M.Y., Cai, X., Wang, X.J., 2019. Transforming the choice outcome to an action plan 
+in monkey lateral prefrontal cortex: A neural circuit model. Neuron 103 (3), 
+520–532. 
+Yoshida, K., Sawamura, D., Inagaki, Y., Ogawa, K., Ikoma, K., Sakai, S., 2014. Brain 
+activity during the flow experience: a functional near-infrared spectroscopy study. 
+Neurosci. Lett. 573, 30–34. 
+Zabelina, D.L., O’Leary, D., Pornpattananangkul, N., Nusslock, R., Beeman, M., 2015. 
+Creativity and sensory gating indexed by the P50: Selective versus leaky sensory 
+gating in divergent thinkers and creative achievers. Neuropsychologia 69, 77–84. 
+Zierenberg, J., Wilting, J., Priesemann, V., 2018. Homeostatic plasticity and external 
+input shape neural network dynamics. Phys. Rev. X 8 (3), 031018 . S. Kotler et al.

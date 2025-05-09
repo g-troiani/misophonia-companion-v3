@@ -1,0 +1,413 @@
+For any issues with this document, please contact your library.
+
+____________________________________________________________________________________
+
+Title: American journal of public health : JPH /
+
+ArticleTitle: Levels of depression, anxiety, and stress among emerging adults in the Philippines: an exploratory spatial analysis
+
+ArticleAuthor: Regencia
+
+ISSN - 17413842; LCN - 86655185;
+
+Publisher: 2025-03-01
+
+Source: LibKeyNomad
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+## Levels of depression, anxiety, and stress among emerging adults in the Philippines: an exploratory spatial analysis
+
+Zypher Jude G. Regencia 1,2,* , Vergel T. Marteja Jr. 3 and Emmanuel S. Baja 1,3
+
+- 1 Department of Clinical Epidemiology, College of Medicine, University of the Philippines-Manila, Pedro Gil Street, Ermita, Manila 1000, Philippines
+
+2
+
+Department of Sociology and Behavioral Sciences, College of Liberal Arts, De La Salle University, 2401 Taft Ave, Malate, Manila 1004, Philippines
+
+3
+
+Institute of
+
+Clinical Epidemiology, National Institutes of Health, University of the Philippines-Manila, Pedro Gil Street, Ermita, Manila 1000, Philippines
+
+- *Corresponding author. Department of Clinical Epidemiology, College of Medicine, University of the Philippines-Manila, Pedro Gil Street, Ermita, Manila 1000, Philippines. E-mail: zgregencia@up.edu.ph
+
+## ABSTRACT
+
+Background: Despite the enactment of the mental health law, mental illness in the Philippines is the third most prevalent form of morbidity; hence, screening is warranted, especially among Filipino emerging adults. This exploratory spatial analysis study aimed to identify spatial clusters of depression, anxiety, and stress among Filipino emerging adults.
+
+Methods: A convenience sampling online self-administered survey was used to collect data from 18 to 29 Filipinos (n = 2729) in the Philippines. The Depression Anxiety Stress Scales -21 was utilized to ascertain the participant's level of depression, anxiety, and stress. Coordinates were plotted with administrative boundaries and OpenStreetMap layer using the software ArcGIS, and clusters were evaluated using the Mapping Clusters -Hot Spot Analysis and Spatial Autocorrelation (Moran's I).
+
+Results: Results of mapping clusters regarding age group and sex showed that Pangasinan, Nueva Ecija, Tarlac, Pampanga, Bulacan, Rizal, Laguna, Cavite, and the National Capital Region in Luzon Island are considered hotspots for severe and extreme levels of depression, anxiety, and stress. These conditions were most prevalent among early emerging adults and females.
+
+Conclusion: Our study provided spatial locations of populations susceptible to mental health disorders, and these preliminary findings have implications for health policy and program expansion for mental health.
+
+Keywords: emerging adults; Filipinos; geographic information system; hotspot analysis; mental health
+
+## Introduction
+
+Emerging adults (18 to 29 years old) have a prominent period of development phase, and mental health disorders in this age group are prevalent. 1,2 This developmental phase influences emerging adults and eventually shapes them into functioning mature adults later in life. 3 Hence, it is essential to give importance to this phase of life as identity exploration, unstable pacing of emotions, self-focus, the feeling of transitions to adulthood, and the feeling of seeing the future as full of aspirations and dreams constitute this period in life. 4,5 In building work, romantic relationships, and different ideologies in life, identity exploration ensues as emerging adults take on various opportunities. 3,6 Psychologists accentuated that identity exploration occurs in this emerging adult phase but may also arise during adolescence. 6
+
+indecisive about their life choices and what tracks to explore, as well as fear making mistakes in building platonic or romantic relationships. 7,8 These various changes and different emotions may give rise to damaging mental health disorders. Depressive and anxiety symptoms are more prevalent than ever. According to a United States cross-sectional survey of 1,029 emerging adults, more than half of the respondents (56%) were feeling depressed or anxious in life. 9 Moreover, a Japanese national survey reported that anxiety and mood disorders were prevalent findings among emerging adults. 10 Recent research also highlights the global prevalence and impact of mental health issues among emerging adults, particularly exacerbated by the COVID-19 pandemic. Systematic reviews from regions such as Europe and Africa
+
+Excitement often accompanies identity exploration due to new views and opportunities that life may offer. However, this experience may also confuse emerging adults who are
+
+Zypher Jude G. Regencia , Assistant Professor
+
+Vergel T. Marteja Jr. , Research Assistant
+
+Emmanuel S. Baja , Research Professor
+
+reveal contributing factors and care approaches within diverse cultural and socioeconomic contexts. For instance, one study emphasizes the significant health burden of depressive and anxiety disorders, worsened by the pandemic, especially in under-resourced mental health systems. 11 Albeit the fact that mental health symptoms and disorders begin to manifest during the adolescence period, a study reported that two out of five emerging adults had psychiatric disorders, specifically anxiety disorders, mood disorders, and substance misuse, which was higher than any other age group. 12 Therefore, recognizing emerging adulthood as a typical stage of development can improve the efficacy of mental health programs and interventions by considering unique aspects of people's lives. 13
+
+Studies on the status of mental health and other factors relating to its occurrence among emerging adults in the Philippines are recently commencing and becoming a topic of exploration among researchers. 14-19 Despite the Mental Health Act (Republic Act No. 11036) being enacted as the first law concerning the mental health status of Filipinos, the scarcity of epidemiologic data on mental health status among Filipinos, particularly among emerging adults, is still very evident. 20 While this law would enable the necessary access to mental health screenings, programs, and interventions, Filipinos are hindered by financial constraints, stigma, and cultural norms that discourage mental health program participation. These Filipino emerging adults failed opportunity to access mental health programs is anchored on various factors, such as the concept of mental illness is stigmatized by oneself and society, as well as by fear of embarrassment, a sense of humiliation, and adherence to Asian ideals of compliance to norms where mental illness is still unacceptable. 21
+
+Due to the limited capacity for mental health screening in the country, we investigated depression, anxiety, and stress prevalence among Filipino emerging adults using GIS to target areas for interventions. Our spatial analysis identified specific provinces, including both urban centers and rural areas, as hotspots for severe/extreme mental health outcomes among emerging adults in the Philippines.
+
+## Materials and methods
+
+## Study design and setting
+
+Exploratory spatial analysis was the design used in this study. A survey was conducted in the Philippines between October 2022 and April 2023. The study population consisted of Filipino emerging adults (18-29 years old) residing anywhere in the country. Convenience sampling was used due to its practicality, allowing us to reach a wide sample of Filipino emerging adults efficiently. Coordination with different national/local and public/private institutions was done to disseminate the survey online to prospective participants. An independent institutional ethics review committee approved this study's ethical clearance, and the participants gave online informed consent before they answered the survey. The study details are described elsewhere. 14
+
+## Data collection
+
+The online survey was created with the Qualtrics™ XM program, allowing participants to respond independently and anonymously. Each participant was assigned a unique numerical identification code. All other direct personal identifiers were deleted for subsequent data analysis. The survey included sections on demographic data and screening questions for depression, anxiety, and stress.
+
+The Qualtrics XM™ automatically collects the coordinates of the participants. If the respondent completed the survey using the Qualtrics Offline App on a GPS-enabled device, this data would accurately represent the respondent's location. The location (either work or home) is an approximation for all other respondents by comparing the participant's IP address to a location database. Moreover, demographic data collected from the participants included age (early emerging adults, 18 to 24 years old; late emerging adults, 25 to 29 years old) and sex (male; female).
+
+Previously used among the Asian populations with good Cronbach's alpha values for the depressive ( α = 0.81), anxiety ( α = 0.89), and stress ( α = 0.78) subscales, validated Depression Anxiety Stress Scales-21 (DASS-21) was used to assess the mental health outcomes for this study. 15,22-26 This study labelled the severe/extreme outcomes as 'high,' while the normal, mild, and moderate levels were labelled as 'low.'
+
+## Data analysis
+
+## Data preparation
+
+The software ArcMap version 10.6.1, simply 'ArcMap,' was utilized for this study. ArcMap is one of the main components of the Environmental Systems Research Institute's (ESRI) ArcGIS suite of geospatial processing programs. This tool is primarily used to view, edit, create, and analyze geospatial data. ArcMap allows users to explore data within a dataset, symbolize features accordingly, and create map fields. 27,28
+
+Shapefiles of the political boundaries of the Philippines were downloaded from online sources and were edited to reflect the current political geographical boundary scenario. Google Maps was also utilized as the base or background of the generated maps. Survey points were filtered using the political boundary shapefile of the Philippines archipelago. Any data points outside of the country boundary were discarded.
+
+Filtering of depression, anxiety, and stress parameters with severe and extreme levels to analyze patterns and reveal hotspots was done. Discovery of patterns and hotspots for 'female,' 'male,' 'early emerging adults,' and 'late emerging adults' categories were accomplished using the statistical tools in ArcMap. Hotspot analysis maps were generated to reflect patterns at a provincial level.
+
+We utilized the statistical tools in the spatial statistics toolbox. This toolbox contained toolsets for analyzing spatial distributions, patterns, processes, and relationships. Two of these toolsets were used in this study. Firstly, the 'Mapping Clusters' toolset was used to identify statistically significant hot or cold spots. Secondly, the 'Analyzing Patterns' toolset was used to evaluate if features or the values associated with features form a spatial pattern (i.e. clustered, dispersed, or random). 29-31
+
+## Mapping clusters-hot spot analysis (Getis-Ord Gi ∗ )
+
+The 'Spatial Join' tool counted data points per province boundary. It creates a shapefile with a column detailing the data point count per province. Forty-four (44) provinces have a data point count greater than zero. The Hot Spot Analysis (Getis-Ord Gi ∗ ) tool creates a new Output Feature Class with a confidence level bin (Gi Bin) attribute for each feature in the Input Feature Class. The Gi Bin field identifies statistically significant spatial clusters of high values (hot spots) and low values (cold spots). The resulting output of the Hotspot Analysis is a shapefile of the province boundaries with Gi Bin values. Features in the + -/ 3 bins reflect statistical significance with a 99% confidence level; features in the + -/ 2 bins reflect a 95% confidence level; features in the + -/ 1 bins reflect a 90% confidence level; and the clustering for features in bin 0 is not statistically significant. These bins are color-coded in the generated maps for ease of identification.
+
+## Analyzing patterns-spatial autocorrelation (Moran's I)
+
+The analyzing patterns tools are inferential statistics that quantify the broad patterns observed in the data feature, particularly those identified as clustered, dispersed, or random spatial patterns. 29 This tool calculated Moran's I Index value and both a z -score and p -value to evaluate the significance of that Index. The detailed calculation of the Global Moran's I statistic followed the Equation 1 below:
+
+<!-- formula-not-decoded -->
+
+The zi is the deviation of an attribute for feature i from its mean (the spatial weight between i and j , n is equal to the total number of features, and S0 is the aggregate of all special weights following Equation 2.
+
+<!-- formula-not-decoded -->
+
+The input feature for the Spatial Autocorrelation (Moran's I) toolset is the shapefile of the province boundary with the data point count, as shown in the example setup below. The Input Field is the column attribute detailing the data point count for the province. For the Conceptualization of Spatial Relationships, the 'CONTINUITY EDGES CORNERS'wasselectedsince we are working on the polygon feature of province boundaries. This tool provided a graphical summary of Moran's I Index, z-score, and p -value results. A bell curve was shown, indicating the type of clustering based on the z -scores and p -values.
+
+## Results
+
+A total of 2729 data points from the Philippines were collected in an online survey with complete GIS and demographic data. Around 80% of participants were early emerging adults, and 60% were female. Severe/extreme depression was observed in 27% of early emerging adults, 25% of late emerging adults, 28% of males, and 26% of females. Severe/extreme anxiety affected 65% of early emerging adults and females. Severe/extreme stress was reported by 14% of early emerging adults, 13% of late emerging adults, 14% of females, and 13% of males. See Table 1 for details.
+
+A summary of the GIS statistics results and the generated maps are shown in Table 2 and the succeeding figures, respectively. As seen in Table 2, the number of provinces with at least one data point is presented where 37, 40, and 29 provinces were analysed for the occurrence of severe/extreme levels of depression, anxiety, and stress, respectively. As seen in Fig. 1, all of the hotspots for severe/extreme levels of depression, anxiety, and stress are in Luzon (the upper island part of the Philippines). The provinces of Rizal, Laguna, Cavite, Bulacan, Tarlac, and the National Capital Region (NCR) were all observed to be hotspots for severe/extreme levels of depression at a 99% confidence interval (CI). On the other hand, Pangasinan, Nueva Ecija, and Pampanga were all observed to be hotspots at 95% CI, while Batangas was also noted to be a hotspot at 90% CI.
+
+Furthermore, Pangasinan, Nueva Ecija, Tarlac, Pampanga, Bulacan, Rizal, Cavite, Laguna, and the NCR were all observed to be hotspots for severe/extreme levels of anxiety at a 99% CI. In comparison, Nueva Vizcaya was a hotspot for
+
+Table 1 Characteristics of the study population stratified according to levels of depression, anxiety, and stress (n = 2729).
+
+| Characteristics       | n (%)             | n (%)             | n (%)             | n (%)             | n (%)             | n (%)             |
+|-----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+|                       | Depression Levels | Depression Levels | Depression Levels | Depression Levels | Depression Levels | Depression Levels |
+|                       | Total             | Normal            | Mild              | Moderate          | Severe            | Extreme           |
+| Age Group (years old) |                   |                   |                   |                   |                   |                   |
+| Early (18 - 24)       | 2300 (84.3)       | 503 (21.9)        | 374 (16.3)        | 804 (35.0)        | 286 (12.4)        | 333 (14.5)        |
+| Late (25 - 29)        | 429 (15.8)        | 122 (28.4)        | 68 (15.9)         | 131 (30.5)        | 57 (13.3)         | 51 (11.9)         |
+| Sex                   |                   |                   |                   |                   |                   |                   |
+| Female                | 1801 (66.0)       | 387 (21.5)        | 299 (16.6)        | 649 (36.0)        | 218 (12.1)        | 248 (13.8)        |
+| Male                  | 928 (34.0)        | 238 (25.7)        | 143 (15.4)        | 286 (30.8)        | 125 (13.5)        | 136 (14.7)        |
+
+|                       | Anxiety Levels   | Anxiety Levels   | Anxiety Levels   | Anxiety Levels   | Anxiety Levels   | Anxiety Levels   |
+|-----------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+|                       | Total            | Normal           | Mild             | Moderate         | Severe           | Extreme          |
+| Age Group (years old) |                  |                  |                  |                  |                  |                  |
+| Early (18 - 24)       | 2300 (84.3)      | 179 (7.8)        | 71 (3.1)         | 565 (24.6)       | 494 (21.5)       | 991 (43.1)       |
+| Late (25 - 29)        | 429 (15.8)       | 58 (13.5)        | 38 (8.9)         | 129 (30.1)       | 81 (18.9)        | 123 (28.7)       |
+| Sex                   |                  |                  |                  |                  |                  |                  |
+| Female                | 1801 (66.0)      | 125 (6.9)        | 64 (3.6)         | 436 (24.2)       | 392 (21.8)       | 784 (43.5)       |
+| Male                  | 928 (34.0)       | 112 (12.1)       | 45 (4.9)         | 258 (27.8)       | 183 (19.7)       | 330 (35.6)       |
+
+## Stress Levels
+
+|                       | Total       | Normal     | Mild        | Moderate   | Severe     | Extreme   |
+|-----------------------|-------------|------------|-------------|------------|------------|-----------|
+| Age Group (years old) |             |            |             |            |            |           |
+| Early (18 - 24)       | 2300 (84.3) | 400 (17.4) | 1075 (46.7) | 512 (22.3) | 257 (11.2) | 56 (2.4)  |
+| Late (25 - 29)        | 429 (15.8)  | 89 (20.8)  | 187 (43.6)  | 97 (22.6)  | 45 (10.5)  | 11 (2.6)  |
+| Sex                   |             |            |             |            |            |           |
+| Female                | 1801 (66.0) | 301 (16.7) | 878 (48.8)  | 384 (21.3) | 197 (10.9) | 41 (2.3)  |
+| Male                  | 928 (34.0)  | 188 (20.3) | 384 (41.4)  | 225 (24.3) | 105 (11.3) | 26 (2.8)  |
+
+severe/extreme levels of anxiety at 95% CI. In terms of stress levels, Pangasinan, Tarlac, Bulacan, Rizal, Laguna, Cavite, and the NCR were all observed to be hotspots for severe/extreme levels at a 99% CI, while Pampanga and Nueva Ecija were all observed to be hotspots for severe/extreme levels at a 95% CI. Lastly, Nueva Vizcaya was a hotspot for severe/extreme levels of stress at 95% CI.
+
+hand, Nueva Vizcaya was a hotspot for early emerging adults and female groups at 95% CI for all severe/extreme levels of health outcomes. At 90% CI, Batangas was a hotspot for early emerging adults and female groups for all severe/extreme levels of health outcomes.
+
+Map clustering of the survey population into age and sex groups to determine hotspots for severe/extreme levels of health outcomes was also done, as seen in Table 3 (see Supplemental Material Figures for more details). The provinces of Pangasinan, Nueva Ecija, Tarlac, Pampanga, Bulacan, Rizal, Laguna, Cavite, and the NCR were observed to be hotspots for all severe/extreme levels of health outcomes at 99% CI for the early emerging adults and female groups. On the other
+
+Moreover, Bulacan, Rizal, Laguna, Cavite, and the NCR were observed to be hotspots for all severe/extreme levels of health outcomes at 99% CI for the late emerging adults and male groups. Zambales was also noted to be a hotspot for female groups at 90% CI for severe/extreme levels of depression and anxiety. Lastly, Aurora province was also reported to be a hotspot for early emerging adults groups at 90% CI for severe/extreme levels of anxiety and a hotspot for female groups at 95% CI for severe/extreme levels of anxiety.
+
+Table 2 GIS statistics results.
+
+| Severe and Extreme Parameter Levels   | Initial Survey Point Input   | Min Count within a province   | Max Count within a province   | Mean Value   | Standard Deviation   | No. of Provinces with at least 1 point   | Hotspot Analysis (No. of Provinces with Output Features)   |
+|---------------------------------------|------------------------------|-------------------------------|-------------------------------|--------------|----------------------|------------------------------------------|------------------------------------------------------------|
+| Depression                            |                              |                               |                               |              |                      |                                          |                                                            |
+| Survey                                | 727                          | 0                             | 156                           | 8.76         | 22.86                | 37                                       | 10                                                         |
+| Females                               | 466                          | 0                             | 62                            | 5.61         | 13.34                | 32                                       | 12                                                         |
+| Males                                 | 261                          | 0                             | 96                            | 3.14         | 11.19                | 29                                       | 5                                                          |
+| Late                                  | 108                          | 0                             | 53                            | 1.30         | 5.87                 | 26                                       | 5                                                          |
+| Early                                 | 619                          | 0                             | 103                           | 7.46         | 18.40                | 33                                       | 11                                                         |
+| Anxiety                               |                              |                               |                               |              |                      |                                          |                                                            |
+| Survey                                | 1689                         | 0                             | 310                           | 20.35        | 51.58                | 40                                       | 10                                                         |
+| Population                            |                              |                               |                               |              |                      |                                          |                                                            |
+| Females                               | 1176                         | 0                             | 188                           | 14.17        | 34.24                | 36                                       | 12                                                         |
+| Males                                 | 513                          | 0                             | 184                           | 6.18         | 21.68                | 30                                       | 5                                                          |
+| Late                                  | 204                          | 0                             | 100                           | 2.46         | 11.12                | 27                                       | 5                                                          |
+| Early                                 | 1485                         | 0                             | 226                           | 17.89        | 43.94                | 38                                       | 11                                                         |
+| Stress                                |                              |                               |                               |              |                      |                                          |                                                            |
+| Survey                                | 369                          | 0                             | 79                            | 4.45         | 11.64                | 29                                       | 10                                                         |
+| Population                            |                              |                               |                               |              |                      |                                          |                                                            |
+| Females                               | 238                          | 0                             | 34                            | 2.87         | 6.93                 | 27                                       | 11                                                         |
+| Males                                 | 131                          | 0                             | 45                            | 1.58         | 5.35                 | 22                                       | 6                                                          |
+| Late                                  | 56                           | 0                             | 24                            | 0.67         | 2.72                 | 19                                       | 5                                                          |
+| Early                                 | 313                          | 0                             | 55                            | 3.77         | 9.55                 | 26                                       | 10                                                         |
+
+Figure 1 Hotspot analysis of the survey population with severe/extreme levels of depression, anxiety, and stress.
+
+Table 3 Provinces/regions with hotspots for severe/extreme levels of health outcomes, stratified according to age group and sex.
+
+| Parameters and Stratification Groups   | Provinces/Regions of Hotspots at Different Confidence Intervals   | Provinces/Regions of Hotspots at Different Confidence Intervals   | Provinces/Regions of Hotspots at Different Confidence Intervals   |
+|----------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+|                                        | 99%                                                               | 95%                                                               | 90%                                                               |
+| Severe/Extreme Levels of Depression    |                                                                   |                                                                   |                                                                   |
+| Early                                  | Pangasinan                                                        | Nueva Vizcaya                                                     | Batangas                                                          |
+|                                        | Nueva Ecija                                                       |                                                                   |                                                                   |
+|                                        | Tarlac                                                            |                                                                   |                                                                   |
+|                                        | Pampanga                                                          |                                                                   |                                                                   |
+|                                        | Bulacan                                                           |                                                                   |                                                                   |
+|                                        | Rizal                                                             |                                                                   |                                                                   |
+|                                        | Laguna                                                            |                                                                   |                                                                   |
+|                                        | Cavite                                                            |                                                                   |                                                                   |
+|                                        | National Capital Region (NCR)                                     |                                                                   |                                                                   |
+| Late                                   | Bulacan                                                           |                                                                   |                                                                   |
+|                                        | Rizal                                                             |                                                                   |                                                                   |
+|                                        | Laguna                                                            |                                                                   |                                                                   |
+|                                        | Cavite                                                            |                                                                   |                                                                   |
+|                                        | NCR                                                               |                                                                   |                                                                   |
+| Sex                                    |                                                                   |                                                                   |                                                                   |
+| Male                                   | Bulacan                                                           |                                                                   |                                                                   |
+|                                        | Rizal                                                             |                                                                   |                                                                   |
+|                                        | Laguna                                                            |                                                                   |                                                                   |
+|                                        | Cavite                                                            |                                                                   |                                                                   |
+|                                        | NCR                                                               |                                                                   |                                                                   |
+| Female                                 | Pangasinan                                                        | Nueva Vizcaya                                                     | Batangas                                                          |
+|                                        | Nueva Ecija                                                       |                                                                   | Zambales                                                          |
+|                                        | Tarlac                                                            |                                                                   |                                                                   |
+|                                        | Pampanga                                                          |                                                                   |                                                                   |
+|                                        | Bulacan                                                           |                                                                   |                                                                   |
+|                                        | Rizal                                                             |                                                                   |                                                                   |
+|                                        | Laguna                                                            |                                                                   |                                                                   |
+|                                        | Cavite                                                            |                                                                   |                                                                   |
+|                                        | NCR                                                               |                                                                   |                                                                   |
+| Severe/Extreme Levels of Anxiety       |                                                                   |                                                                   |                                                                   |
+| Early                                  | Pangasinan                                                        |                                                                   | Aurora                                                            |
+|                                        | Nueva Vizcaya                                                     |                                                                   |                                                                   |
+|                                        | Nueva Ecija                                                       |                                                                   |                                                                   |
+|                                        | Tarlac                                                            |                                                                   |                                                                   |
+|                                        | Pampanga                                                          |                                                                   |                                                                   |
+|                                        | Bulacan                                                           |                                                                   |                                                                   |
+|                                        | Rizal                                                             |                                                                   |                                                                   |
+|                                        | Laguna                                                            |                                                                   |                                                                   |
+|                                        | Cavite                                                            |                                                                   |                                                                   |
+|                                        | NCR                                                               |                                                                   |                                                                   |
+|                                        | Laguna                                                            |                                                                   |                                                                   |
+|                                        | Cavite                                                            |                                                                   |                                                                   |
+|                                        | NCR                                                               |                                                                   |                                                                   |
+
+Table 3 Continued
+
+| Parameters and Stratification Groups      | Provinces/Regions of Hotspots at Different Confidence Intervals   | Provinces/Regions of Hotspots at Different Confidence Intervals   | Provinces/Regions of Hotspots at Different Confidence Intervals   |
+|-------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+|                                           | 99%                                                               | 95%                                                               | 90%                                                               |
+| Sex                                       |                                                                   |                                                                   |                                                                   |
+| Male                                      | Bulacan                                                           |                                                                   |                                                                   |
+|                                           | Rizal                                                             |                                                                   |                                                                   |
+|                                           | Laguna                                                            |                                                                   |                                                                   |
+|                                           | Cavite                                                            |                                                                   |                                                                   |
+|                                           | NCR                                                               |                                                                   |                                                                   |
+| Female                                    | Pangasinan                                                        | Rizal                                                             | Zambales                                                          |
+|                                           | Nueva Vizcaya                                                     | Laguna                                                            |                                                                   |
+|                                           | Nueva Ecija                                                       | Aurora                                                            |                                                                   |
+|                                           | Tarlac                                                            |                                                                   |                                                                   |
+|                                           | Pampanga                                                          |                                                                   |                                                                   |
+|                                           | Bulacan                                                           |                                                                   |                                                                   |
+|                                           | Cavite                                                            |                                                                   |                                                                   |
+|                                           | NCR                                                               |                                                                   |                                                                   |
+| Severe/Extreme Levels of Stress Age group |                                                                   |                                                                   |                                                                   |
+| Early                                     | Pangasinan                                                        | Nueva Vizcaya                                                     |                                                                   |
+|                                           | Nueva Ecija                                                       |                                                                   |                                                                   |
+|                                           | Tarlac                                                            |                                                                   |                                                                   |
+|                                           | Pampanga                                                          |                                                                   |                                                                   |
+|                                           | Bulacan                                                           |                                                                   |                                                                   |
+|                                           | Rizal                                                             |                                                                   |                                                                   |
+|                                           | Laguna                                                            |                                                                   |                                                                   |
+|                                           | Cavite                                                            |                                                                   |                                                                   |
+|                                           | NCR                                                               |                                                                   |                                                                   |
+| Late                                      | Bulacan                                                           |                                                                   |                                                                   |
+|                                           | Rizal                                                             |                                                                   |                                                                   |
+|                                           | Laguna                                                            |                                                                   |                                                                   |
+|                                           | Cavite                                                            |                                                                   |                                                                   |
+|                                           | NCR                                                               |                                                                   |                                                                   |
+| Sex                                       |                                                                   |                                                                   |                                                                   |
+| Male                                      | Bulacan                                                           |                                                                   | Tarlac                                                            |
+|                                           | Rizal                                                             |                                                                   |                                                                   |
+|                                           | Cavite                                                            |                                                                   |                                                                   |
+|                                           | Laguna                                                            |                                                                   |                                                                   |
+|                                           | NCR                                                               |                                                                   |                                                                   |
+| Female                                    | Pangasinan                                                        | Nueva Vizcaya                                                     | Batangas                                                          |
+|                                           | Nueva Ecija                                                       |                                                                   |                                                                   |
+|                                           | Tarlac                                                            |                                                                   |                                                                   |
+|                                           | Pampanga                                                          |                                                                   |                                                                   |
+|                                           | Bulacan                                                           |                                                                   |                                                                   |
+|                                           | Laguna                                                            |                                                                   |                                                                   |
+|                                           | Cavite                                                            |                                                                   |                                                                   |
+
+## Discussion
+
+## The main finding of this study
+
+Our exploratory spatial analysis identified provinces that are hotspots for Filipino emerging adults experiencing severe/extreme levels of depression, anxiety, and stress. Further stratification of this population group in terms of age group and sex revealed areas in the country with emerging adults experiencing severe/extreme levels of depression, anxiety, and stress, classified into early or late, and male or female. All of these areas are located in Luzon Island, and the areas of Pangasinan, Nueva Ecija, Tarlac, Pampanga, Bulacan, Rizal, Laguna, Cavite, and the NCR were all noted to be hotspots for all severe/extreme levels of depression, anxiety, and stress, which were primarily early emerging adults and females.
+
+## What is already known on this topic
+
+GIS was implemented to visually assess the distribution of participants with varying levels of depression, anxiety, and stress, stratified according to age group and sex. Spatial analysis was conducted to determine hotspots where severe/ extreme cases lie. The emergence of spatial epidemiology has a long history, and GIS has been used for surveillance. 32 Due to the progress in spatial analysis and modern technology, GIS has become increasingly important in health research. 33,34 To prevent and monitor public health cases, it is crucial to implement effective planning and monitoring strategies. Hence, geographical studies are essential in understanding the spatial relationship between place and health and improving community health. 35 In addition, GIS helps analyze health inequity by identifying clusters that may require immediate higher intervention strategies. These studies also help in planning healthcare services, as in our study.
+
+## What this study adds
+
+There have been many reports of the high prevalence of mental health disorders in the Philippines, mainly focused on these three distresses: depression, anxiety, and stress. 36-39 However, despite the Mental Health Act being enacted in the country, the prevalence rates of these disorders do not represent the true estimates, as surveillance or monitoring of these cases is not being actively conducted. A significant number of early emerging adults in the Philippines may be experiencing severe to extreme levels of depression, anxiety, and stress without being screened or diagnosed. However, further research is necessary to verify our findings, as these estimations may not fully represent the actual proportion of early emerging adults with mental health issues. Although manypeopleexperience high levels of these distresses at some point in their lives, they may be reluctant to undergo formal screening or treatment. Additionally, even those who are clinically diagnosed with a mental illness often avoid therapy due to the fear of being stigmatized. 40 These observations underscore the critical role of proper monitoring of mental health in the Philippines, particularly in vulnerable populations such as emerging adults, and highlight the need for improved communication, prevention, diagnosis, and treatment of mental health disorders. 41
+
+Our study not only presented high rates of these psychological distresses but also demonstrated their spatial distribution patterns with varying levels stratified according to age and sex, and this, to our knowledge, is the first in the country. The identification of the areas where cases of severe/extreme levels of depression, anxiety, and stress are highlighted would need immediate targeted mental health communication and intervention programs in these areas. Moreover, setting up public health programs to prevent these disorders is crucial. 42 Targeted mental health communication and intervention programs should also be put in place, tailored to fit the needs of this emerging youth population, particularly those early emerging adults and females in the identified areas of our study results. 43,44 This study also highlights specific areas with high mental health needs among emerging adults, underscoring the importance of localized interventions aligned with the Philippine Mental Health Act. We recommend that local government units and the Department of Health (DOH) prioritize these hotspot regions by implementing community-based mental health support, including training barangay health workers for screenings and basic care. This approach would address mental health disparities effectively and sensitively within the cultural and legal context of the Philippines.
+
+## Limitations of this study
+
+The sampling and recruitment procedures used in this study for this specific demographic limit the generalizability of our results from other regions within the Philippines, such as those from Visayas, Mindanao, and other areas of Luzon. Therefore, the results may not represent the entire population. Although exploratory spatial data analysis effectively detects interesting spatial patterns, it does not explain the patterns it reveals. Also, the use of GIS may not capture the complex social determinants and contextual factors that influence mental health disparities across regions. Future studies should consider integrating more comprehensive data sources to address these limitations and enhance the understanding of geographic and social influences on mental health. We need further studies to determine the specific anthropogenic, environmental, and ecological factors responsible for the
+
+distribution of these varying levels of psychological distress observed in the spatial data.
+
+## Conclusion
+
+Early emerging adults and females in the areas of Pangasinan, Nueva Ecija, Tarlac, Pampanga, Bulacan, Rizal, Laguna, Cavite, and the National Capital Region were identified as clusters of cases with severe/extreme levels of depression, anxiety, and stress. Our study presented the spatial distribution of populations with mental health disorders. These findings have implications for expanding mental health programs and policies. While this study identified key spatial patterns in mental health outcomes, future research is needed to explore the underlying socioeconomic, cultural, and environmental factors driving these patterns. Targeted mental health interventions by the DOH tailored to the needs of this population are necessary to address the mental health of the identified at-risk population.
+
+## Acknowledgements
+
+We would like to express our sincerest gratitude to those participants who responded to our survey.
+
+## Authors' contributions
+
+Conceived the protocol: Zypher Jude G. Regencia and Emmanuel S. Baja.
+
+Implemented the protocol: All the authors.
+
+Facilitated acquisition of data: Zypher Jude G. Regencia, supervised by Emmanuel S. Baja.
+
+Analysed the data: Zypher Jude G. Regencia and Vergel T. Marteja Jr.
+
+Wrote the initial draft of the paper: Zypher Jude G. Regencia and Vergel T. Marteja Jr.
+
+Critically revised the manuscript for important intellectual content: All the authors.
+
+## Funding
+
+The Department of Science and Technology (DOST) funded the project under a scholarship grant from the Accelerated Science and Technology Human Resource Development Program (ASTHRDP) of the Science Education Institute (SEI).
+
+## Conflict of interest statement
+
+None declared.
+
+## Disclosure of potential conflicts of interest
+
+All authors declare that no commercial or financial relationships exist that could, in any way, lead to a potential conflict of interest.
+
+## Availability of data and materials
+
+The data analysed in this study are unavailable due to the risk of identifying individual participants.
+
+## Ethics approval and consent to participate
+
+Ethical approval for this study was gained from the University of the Philippines Manila Research Board (UPMREB 20220407-01) before the study implementation and adhered to the Philippine Data Privacy Act of 2012. In addition, written informed consent was gathered from all participants involved in the study.
+
+## Consent for publication
+
+During the consent process, each participant was asked for consent.
+
+## References
+
+- 1. Tanner JL, Arnett JJ. Presenting 'emerging adulthood': what makes it developmentally distinctive. Debating Emerging Adulthood: Stage or Process . Oxford University Press, 2011:13-30. https://doi.org/10.1093/a cprof:oso/9780199757176.003.0002
+- 2. Halliburton AE, Hill MB, Dawson BL et al. Increased stress, declining mental health: emerging adults' experiences in college during COVID-19. Emerg Adulthood 2021; 9 :433-48. https://doi.o rg/10.1177/21676968211025348
+- 3. Arnett JJ. Emerging adulthood: a theory of development from the late teens through the twenties. American psychologist 2000; 55 :469-80. https://doi.org/10.1037/0003-066X.55.5.469
+- 4. Rauer AJ, Pettit GS, Lansford JE et al. Romantic relationship patterns in young adulthood and their developmental antecedents. Dev Psychol 2013; 49 :2159-71. https://doi.org/10.1037/a0031845
+- 5. Arnett JJ, ˇ Zukauskien˙ e R, Sugimura K. The new life stage of emerging adulthood at ages 18-29 years: implications for mental health. Lancet Psychiatry 2014; 1 :569-76. https://doi.org/10.1016/ S2215-0366(14)00080-7
+- 6. Meca A, Ritchie RA, Beyers W et al. Identity centrality and psychosocial functioning: a person-centered approach. Emerg Adulthood 2015; 3 :327-39. https://doi.org/10.1177/2167696815593183
+- 7. Phinney JS. Ethnic Identity Exploration in Emerging Adulthood . American Psychological Association, 2006. https://doi.org/10. 1037/11381-005
+- 8. Skulborstad HM, Hermann AD. Individual difference predictors of the experience of emerging adulthood. Emerg Adulthood 2016; 4 :168-75. https://doi.org/10.1177/2167696815579820
+
+- 9. Arnett JJ, Schwab J. The Clark University Poll of Emerging Adults: Thriving, Struggling, and Hopeful . Worcester, MA: Clark University, 2012.
+- 10. Kessler RC, Wang PS. The descriptive epidemiology of commonly occurring mental disorders in the United States. Annu Rev Public Health 2008; 29 :115-29. https://doi.org/10.1146/annurev.publhea lth.29.020907.090847
+- 11. Santomauro DF, Herrera AMM, Shadid J et al. Global prevalence and burden of depressive and anxiety disorders in 204 countries and territories in 2020 due to the COVID-19 pandemic. The Lancet 2021; 398 :1700-12. https://doi.org/10.1016/S0140-6736(21 )02143-7
+- 12. Kessler RC, Birnbaum H, Demler O et al. The prevalence and correlates of nonaffective psychosis in the National Comorbidity Survey Replication (NCS-R). Biol Psychiatry 2005; 58 :668-76. https://doi.o rg/10.1016/j.biopsych.2005.04.034
+- 13. Tanner JL, Arnett JJ. Approaching young adult health and medicine from a developmental perspective. Adolesc Med State Art Rev 2013; 24 :485-506
+- 14. Regencia ZJG, Gouin J-P, Ladia MAJ et al. Effect of body image perception and skin-lightening practices on mental health of Filipino emerging adults: a mixed-methods approach protocol. BMJ Open 2023; 13 :e068561. https://doi.org/10.1136/bmjopen-2022-068561
+- 15. Lim LTS, Regencia ZJG, Dela Cruz JRC et al. Assessing the effect of the COVID-19 pandemic, shift to online learning, and social media use on the mental health of college students in the Philippines: a mixed-method study protocol. PloS One 2022; 17 :e0267555. https:// doi.org/10.1371/journal.pone.0267555
+- 16. Cleofas JV, Albao BT, Dayrit JCS. Emerging adulthood uses and gratifications of social media during the COVID-19 pandemic: a mixed methods study among Filipino college students. Emerg Adulthood 2022; 10 :1602-16. https://doi.org/10.1177/21676968221128 621
+- 17. Kapoor SK, Subida M. Assessment of gaming addiction and perceived psychological distress among Filipino young adults during COVID-19 pandemic. International Journal of Educational Methodology 2023; 9 :29-40. https://doi.org/10.12973/ijem.9.1.29
+- 18. Pesigan IJA. Identity Processes in Filipino Emerging Adults: Parental Influences and Mental Health Outcomes . De La Salle University, 2013.
+- 19. Reyes MES, Carmen BPB, Luminarias MEP et al. An investigation into the relationship between climate change anxiety and mental health among gen Z Filipinos. Current psychology 2021; 42 :7448-56. https://doi.org/10.1007/s12144-021-02099-3
+- 20. Lally J, Samaniego RM, Tully J. Mental health legislation in the Philippines: Philippine mental health act. BJPsych international 2019; 16 :65-7. https://doi.org/10.1192/bji.2018.33
+- 21. Martinez AB, Co M, Lau J et al. Filipino help-seeking for mental health problems and associated barriers and facilitators: a systematic review. Soc Psychiatry Psychiatr Epidemiol 2020; 55 :1397-413. https:// doi.org/10.1007/s00127-020-01937-2
+- 22. Cheung T, Wong SY, Wong KY et al. Depression, anxiety and symptoms of stress among baccalaureate nursing students in Hong Kong: a cross-sectional study. Int J Environ Res Public Health 2016; 13 :779. https://doi.org/10.3390/ijerph13080779
+- 23. Ho CS, Tan EL, Ho RC et al. Relationship of anxiety and depression with respiratory symptoms: comparison between depressed and
+- non-depressed smokers in Singapore. Int J Environ Res Public Health 2019; 16 :163. https://doi.org/10.3390/ijerph16010163
+- 24. Quek TC, Ho CS, Choo CC et al. Misophonia in Singaporean psychiatric patients: a cross-sectional study. Int J Environ Res Public Health 2018; 15 :1410. https://doi.org/10.3390/ijerph15071410
+- 25. Tee ML, Tee CA, Anlacan JP et al. Psychological impact of COVID-19 pandemic in the Philippines. J Affect Disord 2020; 277 :379-91. https:// doi.org/10.1016/j.jad.2020.08.043
+- 26. Coker AO, Coker O, Sanni D. Psychometric properties of the 21item depression anxiety stress scale (DASS-21). African Research Review 2018; 12 :135-42. https://doi.org/10.4314/afrrev.v12i2.13
+- 27. Steiniger S, Bocher E. An overview on current free and open source desktop GIS developments. International Journal of Geographical Information Science 2009; 23 :1345-70. https://doi.org/10.1080/ 13658810802634956
+- 28. Steiniger S, Hunter AJ. The 2012 free and open source GIS software map-a guide to facilitate research, development, and adoption. Computers, environment and urban systems 2013; 39 :136-50. https://doi.o rg/10.1016/j.compenvurbsys.2012.10.003
+- 29. Scott LM, Janikas MV. Spatial Statistics in ArcGIS. Handbook of Applied Spatial Analysis . Berlin, Heidelberg: Springer, 2010:27-41. https:// doi.org/10.1007/978-3-642-03647-7_2
+- 30. Krivoruchko K. Spatial Statistical Data Analysis for GIS Users . Redlands, California, Esri Press Redlands, 2011.
+- 31. Ord JK, Getis A. Local spatial autocorrelation statistics: distributional issues and an application. Geographical analysis 1995; 27 :286-306. https://doi.org/10.1111/j.1538-4632.1995.tb00912.x
+- 32. Kirby RS, Delmelle E, Eberth JM. Advances in spatial epidemiology and geographic information systems. Ann Epidemiol 2017; 27 :1-9. https://doi.org/10.1016/j.annepidem.2016.12.001
+- 33. Fletcher-Lartey SM, Caprarelli G. Application of GIS technology in public health: successes and challenges. Parasitology 2016; 143 :401-15. https://doi.org/10.1017/S0031182015001869
+- 34. Fradelos EC, Papathanasiou IV, Mitsi D et al. Health based geographic information systems (GIS) and their applications. Acta Informatica Medica 2014; 22 :402-5. https://doi.org/10.5455/aim.2014.22.402-405
+- 35. Cutchin MP. The need for the 'new health geography' in epidemiologic studies of environment and health. Health Place 2007; 13 :725-42. https://doi.org/10.1016/j.healthplace.2006.11.003
+- 36. MendozaNB,DizonJIWT.Prevalenceof severe anxiety in the Philippines amid the COVID-19 outbreak. J Loss Trauma 2022; 27 :787-9. https://doi.org/10.1080/15325024.2021.2023298
+- 37. Antai D, Oke A, Braithwaite P, Lopez GB. The effect of economic, physical, and psychological abuse on mental health: a population-based study of women in the Philippines. Int J Family Med 2014; 2014 :1-11. https://doi.org/10.1155/2014/852317
+- 38. Puyat JH, Gastardo-Conaco MC, Natividad J et al. Depressive symptoms among young adults in the Philippines: results from a nationwide cross-sectional survey. Journal of Affective Disorders Reports 2021; 3 :100073-80. https://doi.org/10.1016/j.jadr.2020.100073
+- 39. Canilllo G, Cantos R, Catamio JR et al. PMis the key: perceived stress and mental health as the key indicator of wellbeing of selected college online students in the Philippines during COVID-19 pandemic. Psychology and Education: A Multidisciplinary Journal 2022; 3 :372-84.
+
+- 40. Corrigan PW, Rüsch N. Mental illness stereotypes and clinical care: do people avoid treatment because of stigma? Psychiatr Rehabil Skills 2002; 6 :312-34. https://doi.org/10.1080/10973430208408 441
+- 41. Kopelovich SL, Monroe-DeVita M, Buck BE et al. Community mental health care delivery during the COVID-19 pandemic: practical strategies for improving care for people with serious mental illness. Community Ment Health J 2021; 57 :405-15. https://doi.org/10.1007/ s10597-020-00662-z
+- 42. Fusar-Poli P, Correll CU, Arango C et al. Preventive psychiatry: a blueprint for improving the mental health of young peo-
+- ple. World Psychiatry 2021; 20 :200-21. https://doi.org/10.1002/wps. 20869
+- 43. Levy JK, Darmstadt GL, Ashby C et al. Characteristics of successful programmes targeting gender inequality and restrictive gender norms for the health and wellbeing of children, adolescents, and young adults: a systematic review. Lancet Glob Health 2020; 8 :e225-36. https://doi.org/10.1016/S2214-109X(19)30495-4
+- 44. Naslund JA, Bondre A, Torous J et al. Social media and mental health: benefits, risks, and opportunities for research and practice. Journal of technology in behavioral science 2020; 5 :245-57. https://doi.org/10.1007/ s41347-020-00134-x

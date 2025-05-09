@@ -1,0 +1,462 @@
+royalsocietypublishing.org/journal/rstb
+Review
+Cite this article: Lin I-F, Kondo HM. 2024
+Brain circuits in autonomous sensory meridianresponse and related phenomena. Phil.
+Trans. R. Soc. B 379: 20230252.
+https://doi.org/10.1098/rstb.2023.0252
+Received: 16 November 2023
+Accepted: 19 March 2024
+One contribution of 16 to a theme issue
+‘Sensing and feeling: an integrative approach
+to sensory processing and emotionalexperience ’.
+Subject Areas:
+cognition, neuroscience
+Keywords:
+autonomous sensory meridian response,
+sensory processing sensitivity, insula,salience network, default mode network
+Author for correspondence:
+I-Fan Lin
+e-mail: ifanlintw@gmail.comBrain circuits in autonomous sensory
+meridian response and relatedphenomena
+I-Fan Lin1and Hirohito M. Kondo2
+1Department of Occupational Medicine and Clinical Toxicology, Taipei Veterans General Hospital,
+Taipei 112, Taiwan
+2School of Psychology, Chukyo University, Nagoya, Aichi 466-8666, Japan
+I-FL, 0000-0002-6706-3060 ; HMK, 0000-0002-7444-4996
+Autonomous sensory meridian response (ASMR) is characterized by a tingling
+sensation with a feeling of relaxation and a state of flow. We explore the neural
+underpinnings and comorbidities of ASMR and related phenomena withaltered sensory processing. These phenomena include sensory processing
+sensitivity (SPS), synaesthesia, Alice in Wonderland syndrome and misopho-
+nia. The objective of this article is to uncover the shared neural substrates anddistinctive features of ASMR and its counterparts. ASMR, SPS and misophonia
+exhibit common activations in the brain regions associated with social
+cognition, emotion regulation and empathy. Nevertheless, ASMR respondersdisplay reduced connectivity in the salience network (SN), while individuals
+with SPS exhibit increased connectivity in the SN. Furthermore, ASMR
+induces relaxation and temporarily reduces symptoms of depression, incontrast to SPS and misophonia, which are linked to depression. These obser-
+vations lead us to propose that ASMR is a distinct phenomenon owing to its
+attention dispatch mechanism and its connection with emotion regulation.We suggest that increased activations in the insula, along with reduction
+in connectivity within the salience and default mode networks in ASMR
+responders, may account for their experiences of relaxation and flow states.
+This article is part of the theme issue ‘Sensing and feeling: an integrative
+approach to sensory processing and emotional experience ’.
+1. Introduction
+Autonomous sensory meridian response (ASMR) is a nonclinical term to describe
+a multidimensional phenomenon primarily triggered by auditory and audio-
+visual stimuli [ 1,2]. Individuals who experience ASMR describe a tingling
+sensation, originating in the head and spreading down to the body, accompaniedby a feeling of relaxation and a mental state known as ‘flow ’[1,3]. In a flow state, a
+person is fully engrossed in an activity, free from self-consciousness, deeply
+focused and experiencing a distortion of time [ 4].
+The estimated prevalence of ASMR ranges from 23.5 to 28% [ 5,6]. The
+common ASMR triggers include auditory and audio-visual stimuli made with
+persons whispering, eating, and using objects to make sounds [ 2]. Low-pitched
+sounds with dark timbre are effective in inducing ASMR [ 2,7].
+ASMR can be regarded as an illusion or altered perception, transitioning from
+audio-visual information to tactile sensation. In this article, we compare ASMRwith related sensory phenomena, including sensory processing sensitivity
+(SPS), synaesthesia, Alice in Wonderland syndrome (AIWS) and misophonia.
+Individuals with a SPS trait are easily overstimulated by external stimuli, andresearch has shown that their ASMR intensity is associated with SPS levels [ 8].
+Synaesthesia is a phenomenon where a stimulus in one sensory modality elicits
+sensations in that modality and other modalities, and a higher prevalence of
+© 2024 The Authors. Published by the Royal Society under the terms of the Creative Commons AttributionLicense http://creativecommons.org/licenses/by/4.0/ , which permits unrestricted use, provided the original
+author and source are credited.
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+synaesthesia has been found among ASMR responders [ 1,6,9]. AIWS is a neurological condition known for distorted perception of the
+body and space, and it shares a distortion of time perception with ASMR. In addition, the prevalence of AIWS symptoms among
+ASMR responders (46.6%) is higher than the prevalence of AIWS in the general population (approx. 9%) [ 10–12]. Individuals with
+misophonia experience negative emotions and aversive responses elicited by specific auditory and visual stimuli. Given the overlapin triggers between ASMR and misophonia (e.g. eating sounds and repetitive tapping), ASMR and misophonia are suggested to share
+same mechanisms [ 13]. Although ASMR is linked to positive emotions, and misophonia is associated with negative emotions, there is
+a higher prevalence of misophonia among ASMR responders and vice versa [14–16].
+This article reviews functional magnetic resonance imaging (fMRI) studies that investigate the brain activations observed in
+these phenomena or in individuals who experience these phenomena, with a focus on the following brain regions: the insula and
+cingulate cortex (CC) related to social cognition and emotion regulation, the nucleus accumbens (NAc) of the reward system, and thesensory-motor system, including the premotor area (PMA), supplementary motor area (SMA) and somatosensory cortex.
+Three large-scale brain networks in resting-state fMRI (rs-fMRI), including the salience network (SN), default mode network
+(DMN) and central executive network (CEN) ( figure 1 ), are also compared between ASMR and its related phenomena. The SN is
+involved in detecting salient stimuli and switching between the DMN and the CEN [ 17]. The DMN is active when a person is at
+wakeful rest, such as during mind wandering and introspection. Meanwhile, the CEN is active when a person is engaged in
+specific tasks [ 18–22]. Through these comparisons, we aim to elucidate the similarities and differences in the brain circuits in ASMR
+and related phenomena. In addition to the brain circuits, we explore triggers, physiological responses, comorbidities and genetic
+predisposition associated with these phenomena.
+To investigate brain activations and networks in these phenomena, we conducted a search on PubMed using keywords specific
+to each phenomenon, along with ‘fMRI ’. In most cases, there are a handful of papers to review. Nevertheless, our search yielded
+numerous papers on synaesthesia. As many of these papers provide evidence supporting the theory of increased co-activations or
+connectivity across brain regions in synaesthetes, we only referred to some of the most cited papers that support and oppose thistheory. Additionally, we searched for related literature using ‘electroencephalography (EEG) ’and ‘magnetoencephalography
+(MEG) ’, but we found a very limited amount of literature using EEG and MEG to investigate these phenomena.
+(a) Autonomous sensory meridian response
+ASMR elicits physiological responses in ASMR responders, including increased pupil diameters [ 23], enhanced skin conductance
+and reduced heart rate [ 24,25]. These observations suggest that ASMR induces arousal and relaxation among these individuals.
+There are two types of fMRI studies in ASMR research: task-positive fMRI studies, which compare brain activations in ASMR
+responders and non-responders while they watch ASMR videos and control videos; and task-negative rs-fMRI studies, whichcompare brain functional connectivity between ASMR responders and non-responders. In task-positive fMRI studies, brain acti-
+vations in the insula, dorsal anterior cingulate cortex (dACC), NAc, secondary somatosensory cortex and SMA are more
+pronounced for ASMR responders when they experience a tingling sensation during ASMR videos than watching a fixationcross (namely, the control condition) [ 26]. In another study, while both ASMR responders and non-responders watched ASMR
+and control videos, ASMR responders showed more activity in the dACC, PMA and SMA in the ASMR condition than in the con-
+trol condition, but non-responders only showed increased activity in the cuneus [ 27]. Auditory-only ASMR stimuli have been
+shown to increase activations of the insula and NAc compared with the resting condition [ 28]. The involvement of the insula
+and ACC suggests the significance of social cognition, emotion regulation and the perception of social pain in ASMR experience
+[29,30]. The insula, ACC and NAc are also activated during music-induced chills [ 31–34].
+While the activations in the insula and dACC, the key hubs in the SN, increase in ASMR responders when they watch ASMR
+videos, rs-fMRI studies showed less connectivity in the precuneus-centred DMN, SN and CEN (except in the left middle cingulate
+cortex) in ASMR responders than in non-responders [ 35,36]. Another study revealed higher functional connectivity seeded from
+salience network
+dACC
+insula
+PCC
+mPFCPPC DLPFCcentral executive network default mode network
+Figure 1. The framework of three large-scale networks in the human brain. The circles indicate important hubs in these networks. The salience network consists of the
+insula and dorsal anterior cingulate cortex (dACC). The central executive network includes the dorsolateral prefrontal cortex (DLPFC) and posteri or parietal cortex (PPC),
+whereas the default mode network primarily comprises medial prefrontal cortex (mPFC) and posterior cingulate cortex (PCC).royalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302522
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+the posterior cingulate cortex, a major hub of the DMN, to the superior and middle temporal gyri, cuneus, and lingual gyrus when
+comparing ASMR videos with resting state [ 37]. In addition to SN, DMN and CEN, other networks such as the sensorimotor and
+visual networks have been compared between ASMR responders and non-responders. The results show reduced functional
+connectivity in these two networks in ASMR responders [ 36].
+The EEG studies exploring brain waves in different frequency ranges show increased alpha-wave activities when ASMR
+responders experience ASMR responses (i.e. tingling sensation) to ASMR stimuli [ 38,39]. Interestingly, footstep sounds, a less
+common ASMR trigger, were also observed to increased alpha-wave activities, especially among those who were less sensitiveto these sounds and have a positive attitude toward them [ 40]. These findings indicate facilitation of attention-directed information
+and inhibition of irrelevant information [ 41]. This implication is consistent with the fMRI finding of insula activation in ASMR
+experiences, as the insula plays an important role in salience detection [ 17,42–44].
+Although ASMR and autism share auditory sensitivity, there is no evidence supporting the association between ASMR and
+autism [ 45]. ASMR videos have been reported to alleviate symptoms of depression and anxiety [ 1,46].
+(b) Sensory processing sensitivity
+SPS is defined as a personality trait characterized by being overstimulated by external stimuli, especially the positive ones, with heigh-
+tened emotional responses [ 47,48]. SPS exhibits a prevalence ranging from 15 to 31% [ 48,49]. The Highly Sensitive Person (HSP) scale
+[49] has been used to measure the level of SPS, in addition to the Orienting Sensitivity subscale of the Adult Temperament Question-
+naire [ 50]. The HSP scale comprises three subscales: low sensory threshold (LST), ease of excitation (EOE) and aesthetic sensitivity
+(AES) [ 51]. Genetic and twin studies suggest that SPS is influenced by genetic and environmental factors, with the AES subscale dif-
+ferentiating from the LST and EOE subscales [ 52,53]. The intensity of ASMR is associated with the AES subscale [ 8], while autism
+symptoms, alexithymia, anxiety and depression are linked to the EOE and LST subscales [ 54,55].
+There are various triggers for individuals with SPS. In a study subjecting a group of adolescents to a stress test, their changes in
+heart rate, heart rate variability and skin conductance were not correlated with SPS, but their perceived stress was associated withSPS [ 56]. The relationship between SPS and subjective perception of stress indicates that the insula, especially the anterior insula,
+may play an important role in SPS. The anterior insula has been argued to integrate information from the internal and external
+stimuli, and its activity is associated with subjective feeling [ 42].
+Several fMRI studies have explored the relationship between SPS levels and brain activations by using various stimuli. The SPS
+levels were positively correlated with reaction times to detect major and minor changes in visual stimuli and activations in the
+right claustrum, bilateral temporal cortex, bilateral precuneus and right inferior parietal cortex [ 57]. Another study observed
+the association between SPS levels and activations in the CC and PMA by using partner ’s and strangers ’faces with different
+emotions [ 58]. In addition, the primary somatosensory cortex and ventral tagmental area (VTA) were specifically activated by com-
+paring the brain activations for partner ’s and strangers ’happy face. In another study, wherein the participants were touched by an
+experimenter, SPS levels were linked to brain activations in the insula [ 59]. Collectively, these findings in fMRI studies highlight the
+brain regions related to social cognition and empathy for social stimuli, such as the insula and CC, and those related to the reward
+pathway for positive stimuli, such as the VTA.
+An rs-fMRI study has shown that the SPS levels were associated with e nhanced brain connectivity within the SN and the dorsal atten-
+tion network, as well as the limbic network [ 60]. These findings suggest an important role of attention and emotion regulation in SPS.
+2. Synaesthesia
+Synaesthesia is a phenomenon wherein a stimulus for a sensory modality elicits sensations in that modality and other modalities.
+The prevalence of various forms of synaesthesia is 4.4%, and the estimated prevalence of grapheme –colour synaesthesia, in which
+letters and numbers elicit colour perception, is 1.1% [ 61]. Although the presence of synaesthesia in family members suggests a
+hereditary connection [ 62,63], a twin study demonstrates that synaesthesia is a heritable condition that is influenced by epigenetic
+and environmental factors [ 64]. Previous studies have reported a higher prevalence of synaesthesia in the autism population com-
+pared with the neurotypical population. This association between autism and synaesthesia is believed to be mediated by attention
+to details and abnormal sensory processing [ 65–69].
+Numerous studies have explored the neural basis of synaesthesia and identified activation in the sensory cortices beyond the
+stimulated modality and increased connectivity in sensory networks [ 70–73]. An rs-fMRI study revealed increased intranetwork
+connectivity from the medial and the lateral visual networks to the right frontoparietal network in grapheme –colour synaesthetes
+[74]. Nevertheless, ongoing debate persists about these findings and whether we should consider alternative neural models [ 75].
+For example, the report of activation in the insula and CC in synaesthesia should be noted [ 76].
+Mirror-touch synaesthesia, which involves experiencing tactile sensations on their own bodies upon seeing someone else
+touched [ 77], has been reported in approximately 1.6% of the population [ 78]. Some researchers debate about whether this
+phenomenon is a synaesthesia or vicarious experience, an empathetic state induced by seeing someone ’s sensations, emotions
+and actions [ 79]. Activations in the somatosensory cortex in mirror-touch synaesthetes may be related to empathy [ 80–83].
+Additionally, mirror-touch synaesthetes exhibit higher autistic trait scores compared with the control group [ 84].
+(a) Alice in Wonderland syndrome
+AIWS is a neurological condition characterized by distorted perception of the body, objects, space and time [ 10,85–87]. These percep-
+tual distortions can manifest across the visual (e.g. dysmorphopsia, macropsia, micropsia and teleopsia), auditory and somaestheticroyalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302523
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+domains (e.g. macropsia, micropsia, teleopsia, macrosomatognosia, microsomatognosia and deceleration/acceleration of psycho-
+logical time) [ 10,87,88] and have been observed in various clinical conditions, including migraine [ 88–90], epilepsy [ 91], infection
+[92–100] and concussion [ 101]. AIWS has also been found among people who use certain medication, such as 5-HT2 antagonist,
+and during intoxication with some substances, such as cannabis [ 10].
+A lesion-mapping study identified local maxima across the lesions in the right occipital lobe, primarily driven by those with
+AIWS symptoms in the visual domain [ 102]. Those patients who had AIWS symptoms only in the somaesthetic domain exhibited
+lesions in the limbic system, including the insula, thalamus, CC, hippocampus and parahippocampus. This lesion study did notinclude participants perceiving time distortion, but the insula has been argued to be involved in time perception [ 103].
+An imaging study that compared migraine patients with AIWS, migraine patients with typical aura, and healthy individuals
+showed that all migraine patients (with and without AIWS) had a lower functional connectivity in the lateral and the medial visualnetworks and higher functional connectivity in the SN and DMN compared with the healthy individuals [ 104].
+3. Misophonia
+Misophonia describes the phenomenon of experiencing negative emotions and aversive responses triggered by specific auditory and
+visual stimuli. Given the lack of well defined criteria for misophonia, estimates of its prevalence vary widely, ranging from 5.9 to 49.1%
+[16,105–109]. Although misophonia is not included in the Diagnostic and statistical manual of mental disorders (DSM), researchers have
+proposed diagnostic criteria of misophonia to address this issue [ 110–112]. Misophonia typically involves excessive and dispropor-
+tional negative emotions, often leading affected individuals to avoid the triggering stimuli. Furthermore, individuals with
+misophonia exhibit physiological responses when exposed to such triggers, including increased skin conductance, elevated heartrate and an increased low-frequency component of heart rate variability [ 113–117]. These physiological responses indicate heightened
+sympathetic tones.
+fMRI studies have established a connection between misophonia and increased brain activation in the insula, auditory cortex,
+temporal cortex, CC, medial prefrontal cortex (mPFC) and PMA. Furthermore, misophonia is linked to increased functional con-
+nectivity between the insula and the mPFC, the key hubs in the SN and the DMN [ 114,115,117], indicating the link between the SN
+and the DMN. On the other hand, the association between misophonia and increased brain activations in the orofacial motor arearemains debated [ 118,119].
+Misophonia has been found to be comorbid with various psychiatric conditions, including obsessive –compulsive personality
+disorder, mood disorders, attention-deficit hyperactivity disorder, autism, tinnitus, hyperacusis, post-traumatic stress disorder(PTSD), eating disorders, migraine with visual aura, anxiety sensitivity, and hypersensitivity [ 15,109,120–123].
+4. Discussion
+This review encompasses the identification of the common and distinctive neural circuits associated with ASMR and related sen-
+sory phenomena, including SPS, synaesthesia, AIWS and misophonia, to shed light on their underlying neural mechanisms.Among these phenomena, ASMR and SPS share activation in the reward pathway. Activation in the NAc are observed in
+ASMR, while activations in the VTA are observed in SPS. The involvement of these reward-related regions in ASMR is consistent
+with experiences of music-induced pleasure and frisson, characterized by the sensation of goose-bumps or shivers down the spine[33,34]. ASMR and mirror-touch synaesthesia share activation in the somatosensory cortex. While the role of the somatosensory
+cortex in mirror-touch synaesthesia is suggested to be linked to empathy, the role of the somatosensory cortex in ASMR may be
+linked to sound localization and head orientation [ 124,125].
+The insula, a pivotal brain region, emerges as a shared activation site in ASMR, SPS, AIWS (in the somaesthetic domain) and
+misophonia. The insula has connections with the cingulate, frontal, parietal, temporal and occipital cortices and subcortical struc-
+tures, such as the amygdala and NAc [ 126–129]. The insula plays an important role in novel stimuli detection and is part of the SN,
+alongside the dACC and amygdala. In addition to salience detection, the insula is involved in visceral sensations, autonomic
+control, affective processes, sensorimotor processes, auditory processing, taste, olfaction and pain. The insula is proposed to be
+the centre of awareness and the interoceptive template for a ‘feeling ’[42–44]. The insula and ACC are closely connected and
+usually activate together, and they play an important role in social pain and empathy [ 130,131]. In summary, activation in the
+insula observed in ASMR, SPS, AIWS and misophonia is associated with peculiar perception and emotional responses observed
+in these phenomena.
+Diverging from the previously mentioned shared brain activations, rs-fMRI studies uncover unique facets of these phenomena.
+ASMR responders exhibit weaker connectivity in the SN despite strong activations in the key hubs of the SN, the insula and
+the dACC. This finding suggests a diminished capacity for attention switch between internal and external stimuli. Furthermore,non-synchronization of the SN with strongly activated insula and dACC may result in altered perception. By contrast, increased
+connectivity in the SN is observed in SPS and AIWS, potentially linked to their sensory sensitivity or distortion.
+This review also explores the comorbidities associated with these phenomena. ASMR exhibits links to temporary reduction of
+anxiety and depression symptoms but not to autism. Meanwhile, SPS is associated with autism, anxiety and depression;
+synaesthesia with autism; AIWS with migraine; and misophonia with autism, anxiety, depression and migraine. In other
+words, ASMR is on the opposite of the phenomena SPS, synaesthesia and misophonia.
+This review acknowledges certain limitations. Heterogeneity amongst the participants in ASMR, SPS, synaesthesia, AIWS
+and misophonia studies, stemming from symptom-based definitions and questionnaire assessments poses a significant
+limitation. The modest amount of literature on these phenomena (except synaesthesia) also exacerbates this limitation.royalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302524
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+Furthermore, the diversity of the stimuli employed in physiological and imaging studies, the relatively small sample sizes and
+variations in experimental paradigms contribute to the need for caution in drawing definitive conclusions. Accordingly, this article
+serves as a basis for further investigations aimed at unravelling the intricate correlations between ASMR-induced sensations and
+neural networks. Future studies should address standardized stimuli and psychophysical approaches to objectively identify thetarget group.
+5. Conclusion
+The culmination of previous studies demonstrates that ASMR is distinct from related phenomena with altered sensory processing,including SPS, synaesthesia, AIWS and misophonia. Nonetheless, ASMR, SPS and misophonia all involve activation of the insulaand CC related to social cognition and emotion regulation. ASMR differentiates itself from SPS through its reduced connectivity
+within the SN. Reduced connectivity in the SN during ASMR experiences indicates a particular way to direct attention that links to
+the feeling of relaxation and the flow state.
+Data accessibility.
+All data gathered for this review may be available upon request to the corresponding author.
+Declaration of AI use. We have used AI-assisted technologies in creating this article.
+Authors ’contributions. I.-F.L.: conceptualization, data curation, investigation, methodology, resources, writing —original draft, writing —review and
+editing; H.M.K.: data curation, funding acquisition, investigation, resources, writing —review and editing.
+Both authors gave final approval for publication and agreed to be held accountable for the work performed herein.
+Conflict of interest declaration. We declare that we have no competing interests.
+Funding. H.M.K. was supported by Japan Society for the Promotion of Science (JSPS) KAKENHI grants (nos 20H01789 and 22K18659).
+References
+1. Barratt EL, Davis NJ. 2015 Autonomous sensory meridian response (ASMR): a flow-like mental state. PeerJ 3, e851. ( doi:10.7717/peerj.851 )
+2. Barratt EL, Spence C, Davis NJ. 2017 Sensory determinants of the autonomous sensory meridian response (ASMR): understanding the triggers. PeerJ 5, e3846. ( doi:10.7717/peerj.
+3846 )
+3. Roberts N, Beath A, Boag S. 2019 Autonomous sensory meridian response: scale development and personality correlates. Psychol. Conscious. Theory Res. Pract. 6,2 2 –39. ( doi:10.
+1037/cns0000168 )
+4. Jackson SA, Marsh HW. 1996 Development and validation of a scale to measure optimal experience: the flow state scale. J. Sport Exerc. Psychol 18,1 7 –35. ( doi:10.1123/jsep.18.
+1.17)
+5. Roberts N, Beath A, Boag S. 2020 A mixed-methods examination of autonomous sensory meridian response: comparison to frisson. Conscious. Cogn. 86, 103046. ( doi:10.1016/j.
+concog.2020.103046 )
+6. Poerio GL, Ueda M, Kondo HM. 2022 Similar but different: high prevalence of synesthesia in autonomous sensory meridian response (ASMR). Front. Psychol .13, 990565. ( doi:10.
+3389/fpsyg.2022.990565 )
+7. Koumura T, Nakatani M, Liao H-I, Kondo HM. 2021 Dark, loud, and compact sounds induce frisson. Q. J. Exp. Psychol. 74, 1140 –1152. ( doi:10.1177/1747021820977174 )
+8. Poerio GL, Mank S, Hostler TJ. 2022 The awesome as well as the awful: heightened sensory sensitivity predicts the presence and intensity of autonomo us sensory meridian
+response (ASMR). J. Res. Pers. 97, 104183. ( doi:10.1016/j.jrp.2021.104183 )
+9. Gillmeister H, Succi A, Romei V, Poerio GL. 2022 Touching you, touching me: higher incidence of mirror-touch synaesthesia and positive (but not neg ative) reactions to social
+touch in autonomous sensory meridian response. Conscious. Cogn. 103, 103380. ( doi:10.1016/j.concog.2022.103380 )
+10. Blom JD. 2016 Alice in Wonderland syndrome. Neurol. Clin. Pract 6, 259 –270. ( doi:10.1212/CPJ.0000000000000251 )
+11. Bedwell SA, Butcher I. 2020 The co-occurrence of Alice in Wonderland syndrome and autonomous sensory meridian response. PsyPag Q .114,1 8 –26.
+12. Abe K, Oda N, Araki R, Igata M. 1989 Macropsia, micropsia, and episodic illusions in Japanese adolescents. J. Am. Acad. Child Adolesc. Psychiatry 28, 493 –496. ( doi:10.1097/
+00004583-198907000-00004 )
+13. McGeoch PD, Rouw R. 2020 How everyday sounds can trigger strong emotions: ASMR, misophonia and the feeling of wellbeing. Bioessays 42, 2000099. ( doi:10.1002/bies.
+202000099 )
+14. McErlean ABJ, Banissy MJ. 2018 Increased misophonia in self-reported autonomous sensory meridian response. PeerJ 6, e5351. ( doi:10.7717/peerj.5351 )
+15. Rouw R, Erfanian M. 2018 A large-scale study of misophonia. J. Clin. Psychol. 74, 453 –479. ( doi:10.1002/jclp.22500 )
+16. Jakubovski E, Müller A, Kley H, de Zwaan M, Müller-Vahl K. 2022 Prevalence and clinical correlates of misophonia symptoms in the general populatio n of Germany. Front.
+Psychiatry 13, 1012424. ( doi:10.3389/fpsyt.2022.1012424 )
+17. Menon V, Uddin LQ. 2010 Saliency, switching, attention and control: a network model of insula function. Brain Struct. Funct .214, 655 –667. ( doi:10.1007/s00429-010-0262-0 )
+18. Shen HH. 2015 Resting-state connectivity. Proc. Natl Acad. Sci. USA 112, 14 115 –14 116. ( doi:10.1073/pnas.1518785112 )
+19. Seeley WW. 2019 The salience network: a neural system for perceiving and responding to homeostatic demands. J. Neurosci .39, 9878 –9882. ( doi:10.1523/JNEUROSCI.1138-
+17.2019 )
+20. Sridharan D, Levitin DJ, Menon V. 2008 A critical role for the right fronto-insular cortex in switching between central-executive and default-mo de networks. Proc. Natl Acad. Sci.
+USA 105, 12 569 –12 574. ( doi:10.1073/pnas.0800005105 )
+21. Goulden N, Khusnulina A, Davis NJ, Bracewell RM, Bokde AL, McNulty JP, Mullins PG. 2014 The salience network is responsible for switching between t he default mode network
+and the central executive network: replication from DCM. Neuroimage 99, 180 –190. ( doi:10.1016/j.neuroimage.2014.05.052 )
+22. Fox MD, Snyder AZ, Vincent JL, Corbetta M, Van Essen DC, Raichle ME. 2005 The human brain is intrinsically organized into dynamic, anticorrelated f unctional networks. Proc. Natl
+Acad. Sci. USA 102, 9673 –9678. ( doi:10.1073/pnas.0504136102 )
+23. Valtakari NV, Hooge ITC, Benjamins JS, Keizer A. 2019 An eye-tracking approach to autonomous sensory meridian response (ASMR): the physiology an d nature of tingles in
+relation to the pupil. PLoS ONE 14, e0226692. ( doi:10.1371/journal.pone.0226692 )royalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302525
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+24. Poerio GL, Blakey E, Hostler TJ, Veltri T. 2018 More than a feeling: autonomous sensory meridian response (ASMR) is characterized by reliable chan ges in affect and physiology.
+PLoS ONE 13, e0196645. ( doi:10.1371/journal.pone.0196645 )
+25. Engelbregt HJ, Brinkman K, van Geest CCE, Irrmischer M, Deijen JB. 2022 The effects of autonomous sensory meridian response (ASMR) on mood, attent ion, heart rate, skin
+conductance and EEG in healthy young adults. Exp. Brain Res .240, 1727 –1742. ( doi:10.1007/s00221-022-06377-9 )
+26. Lochte BC, Guillory SA, Richard CAH, Kelley WM. 2018 An fMRI investigation of the neural correlates underlying the autonomous sensory meridian re sponse (ASMR). BioImpacts 8,
+295 –304. ( doi:10.15171/bi.2018.32 )
+27. Smith SD, Fredborg BK, Kornelsen J. 2019 A functional magnetic resonance imaging investigation of the autonomous sensory meridian response. PeerJ 7, e7122. ( doi:10.7717/
+peerj.7122 )
+28. Sakurai N, Ohno K, Kasai S, Nagasaka K, Onishi H, Kodama N. 2021 Induction of relaxation by autonomous sensory meridian response. Front. Behav. Neurosci .15, 761621. ( doi:10.
+3389/fnbeh.2021.761621 )
+29. Tchalova K, Eisenberger NI. 2015 How the brain feels the hurt of heartbreak: examining the neurobiological overlap between social and physical pa in. In Brain mapping (ed. J
+Stein), pp. 15 –20. Amsterdam, The Netherlands: Elsevier.
+30. Apps MAJ, Rushworth MFS, Chang SWC. 2016 The anterior cingulate gyrus and social cognition: tracking the motivation of others. Neuron 90, 692 –707. ( doi:10.1016/j.neuron.
+2016.04.018 )
+31. Blood AJ, Zatorre RJ. 2001 Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion. Proc. Natl Acad. Sci. USA 98,
+11 818 –11 823. ( doi:10.1073/pnas.191355898 )
+32. Chanda ML, Levitin DJ. 2013 The neurochemistry of music. Trends Cogn. Sci .17, 179 –193. ( doi:10.1016/j.tics.2013.02.007 )
+33. Koelsch S. 2013 Emotion and music. In The Cambridge handbook of human affective neuroscience (eds J Armony, P Vuilleumier), pp. 286 –303. Cambridge, UK: Cambridge
+University Press.
+34. Koelsch S. 2014 Brain correlates of music-evoked emotions. Nat. Rev. Neurosci. 15, 170 –180. ( doi:10.1038/nrn3666 )
+35. Smith SD, Fredborg BK, Kornelsen J. 2017 An examination of the default mode network in individuals with autonomous sensory meridian response (ASM R).Social Neurosci. 12,
+361 –365. ( doi:10.1080/17470919.2016.1188851 )
+36. Smith SD, Fredborg BK, Kornelsen J. 2019 Atypical functional connectivity associated with autonomous sensory meridian response: an examinatio n of five resting-state networks.
+Brain Connect. 9, 508 –518. ( doi:10.1089/brain.2018.0618 )
+37. Lee S, Kim J, Tak S. 2020 Effects of autonomous sensory meridian response on the functional connectivity as measured by functional magnetic resona nce imaging. Front. Behav.
+Neurosci .14, 154. ( doi:10.3389/fnbeh.2020.00154 )
+38. Fredborg BK, Champagne-Jorgensen K, Desroches A, Smith S. 2021 An electroencephalographic examination of the autonomous sensory meridian resp onse (ASMR). Conscious.
+Cogn. 87, 103053. ( doi:10.1016/j.concog.2020.103053 )
+39. Swart TR, Banissy MJ, Hein TP, Bruña R, Pereda E, Bhattacharya J. 2022 ASMR amplifies low frequency and reduces high frequency oscillations. Cortex 149,8 5 –100. ( doi:10.1016/j.
+cortex.2022.01.004 )
+40. Frescura A, Lee P-J, Jeong J-H, Soeta Y. 2023 EEG alpha wave responses to sounds from neighbours in high-rise wood residential buildings. Build. Environ. 242, 110560. ( doi:10.
+1016/j.buildenv.2023.110560 )
+41. Klimesch W, Sauseng P, Hanslmayr S. 2007 EEG alpha oscillations: the inhibition –timing hypothesis. Brain Res. Rev .53,6 3 –88. ( doi:10.1016/j.brainresrev.2006.06.003 )
+42. Craig AD, Craig AD. 2009 How do you feel?-now? The anterior insula and human awareness. Nat. Rev. Neurosci. 10,5 9 –70. ( doi:10.1038/nrn2555 )
+43. Craig AD. 2011 Significance of the insula for the evolution of human awareness of feelings from the body. Ann. N. Y. Acad. Sci .1225 ,7 2 –82. ( doi:10.1111/j.1749-6632.2011.
+05990.x )
+44. Strigo IA, Craig AD. 2016 Interoception, homeostatic emotions and sympathovagal balance. Phil. Trans. R. Soc. B 371, 20160010. ( doi:10.1098/rstb.2016.0010 )
+45. Tada K, Hasegawa R, Kondo HM. 2022 Sensitivity to everyday sounds: ASMR, misophonia, and autistic traits. Jap. J. Psychol. 93, 263 –269. ( doi:10.4992/jjpsy.93.21319 )
+46. Hu MQ, Li HL, Huang SQ, Jin YT, Wang SS, Ying L, Qi YY, Yu X, Zhou Q. 2022 Reduction of psychological cravings and anxiety in women compulsorily isolate d for detoxification
+using autonomous sensory meridian response (ASMR). Brain Behav. 12, e2636. ( doi:10.1002/brb3.2636 )
+47. Acevedo B, Aron E, Pospos S, Jessen D. 2018 The functional highly sensitive brain: a review of the brain circuits underlying sensory processing sen sitivity and seemingly related
+disorders. Phil. Trans. R. Soc. B 373, 20170161. ( doi:10.1098/rstb.2017.0161 )
+48. Lionetti F, Aron A, Aron EN, Burns GL, Jagiellowicz J, Pluess M. 2018 Dandelions, tulips and orchids: evidence for the existence of low-sensitive, medium-sensitive and high-
+sensitive individuals. Transl. Psychiatry 8, 24. ( doi:10.1038/s41398-017-0090-6 )
+49. Aron EN, Aron A. 1997 Highly Sensitive Person Scale (HSPS). APA PsycTests .(doi:10.1037/t00299-000 )
+50. Evans D, Rothbart M. 2007 Developing a model for adult temperament. J. Res. Pers. 41, 868 –888. ( doi:10.1016/j.jrp.2006.11.002 )
+51. Smolewska KA, McCabe SB, Woody EZ. 2006 A psychometric evaluation of the Highly Sensitive Person Scale: the components of sensory-processing sen sitivity and their relation to
+the BIS/BAS and ‘Big Five ’.Pers. Individ. Diff. 40, 1269 –1279. ( doi:10.1016/j.paid.2005.09.022 )
+52. Assary E, Zavos HMS, Krapohl E, Keers R, Pluess M. 2021 Genetic architecture of environmental sensitivity reflects multiple heritable component s: a twin study with adolescents.
+Mol. Psychiatry 26, 4896 –4904. ( doi:10.1038/s41380-020-0783-8 )
+53. Chen C, Chen C, Moyzis R, Stern H, He Q, Li H, Li J, Zhu B, Dong Q. 2011 Contributions of dopamine-related genes and environmental factors to highly sen sitive personality: a
+multi-step neuronal system-level approach. PLoS ONE 6, e21636. ( doi:10.1371/journal.pone.0021636 )
+54. Liss M, Mailloux J, Erchull MJ. 2008 The relationships between sensory processing sensitivity, alexithymia, autism, depression, and anxiety. Pers. Individ. Dif f.45, 255 –259.
+(doi:10.1016/j.paid.2008.04.009 )
+55. Yano K, Oishi K. 2018 The relationships among daily exercise, sensory-processing sensitivity, and depressive tendency in Japanese university s tudents. Pers. Individ. Diff. 127,
+49–53. ( doi:10.1016/j.paid.2018.01.047 )
+56. Weyn S et al. 2022 Individual differences in environmental sensitivity at physiological and phenotypic level: two sides of the same coin? Int. J. Psychophysiol .176,3 6 –53. ( doi:10.
+1016/j.ijpsycho.2022.02.010 )
+57. Jagiellowicz J, Xu X, Aron A, Aron E, Cao G, Feng T, Weng X. 2011 The trait of sensory processing sensitivity and neural responses to changes in visual scenes. Social Cogn. Affect.
+Neurosci. 6,3 8 –47. ( doi:10.1093/scan/nsq001 )
+58. Acevedo BP, Aron EN, Aron A, Sangster M, Collins N, Brown LL. 2014 The highly sensitive brain: an fMRI study of sensory processing sensitivity and re sponse to others ’emotions.
+Brain Behav. 4, 580 –594. ( doi:10.1002/brb3.242 )
+59. Schaefer M, Kühnel A, Gärtner M. 2022 Sensory processing sensitivity and somatosensory brain activation when feeling touch. Scient. Rep .12, 12024. ( doi:10.1038/s41598-022-15497-9 )royalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302526
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+60. Acevedo BP, Santander T, Marhenke R, Aron A, Aron E. 2021 Sensory processing sensitivity predicts individual differences in resting-state funct ional connectivity associated with
+depth of processing. Neuropsychobiology 80, 185 –200. ( doi:10.1159/000513527 )
+61. Simner J, Mulvenna C, Sagiv N, Tsakanikos E, Witherby SA, Fraser C, Scott K, Ward J. 2006 Synaesthesia: the prevalence of atypical cross-modal expe riences. Perception 35,
+1024 –1033. ( doi:10.1068/p5469 )
+62. Baron-Cohen S, Burt L, Smith-Laittan F, Harrison J, Bolton P. 1996 Synaesthesia: prevalence and familiality. Perception 25, 1073 –1079. ( doi:10.1068/p251073 )
+63. Tilot AK, Kucera KS, Vino A, Asher JE, Baron-Cohen S, Fisher SE. 2018 Rare variants in axonogenesis genes connect three families with sound –color synesthesia. Proc. Natl Acad.
+Sci. USA 115, 3168 –3173. ( doi:10.1073/pnas.1715492115 )
+64. Bosley HG, Eagleman DM. 2015 Synesthesia in twins: incomplete concordance in monozygotes suggests extragenic factors. Behav. Brain Res. 286,9 3 –96. ( doi:10.1016/j.bbr.2015.02.024 )
+65. Neufeld J, Roy M, Zapf A, Sinke C, Emrich HM, Prox-Vagedes V, Dillo W, Zedler M. 2013 Is synesthesia more common in patients with Asperger syndrome? Front. Hum. Neurosci .7,
+847. ( doi:10.3389/fnhum.2013.00847 )
+66. Ward J, Hoadley C, Hughes JEA, Smith P, Allison C, Baron-Cohen S, Simner J. 2017 Atypical sensory sensitivity as a shared feature between synaesthe sia and autism. Scient. Rep. 7,
+41155. ( doi:10.1038/srep41155 )
+67. van Leeuwen TM, van Petersen E, Burghoorn F, Dingemanse M, van Lier R. 2019 Autistic traits in synaesthesia: atypical sensory sensitivity and enha nced perception of details.
+Phil. Trans. R. Soc. B 374, 20190024. ( doi:10.1098/rstb.2019.0024 )
+68. van Leeuwen TM, Neufeld J, Hughes J, Ward J. 2020 Synaesthesia and autism: different developmental outcomes from overlapping mechanisms? Cogn. Neuropsychol. 37,
+433 –449. ( doi:10.1080/02643294.2020.1808455 )
+69. van Leeuwen TM, Wilsson L, Norrman HN, Dingemanse M, Bölte S, Neufeld J. 2021 Perceptual processing links autism and synesthesia: a co-twin contro l study. Cortex 145,
+236 –249. ( doi:10.1016/j.cortex.2021.09.016 )
+70. Nunn JA et al. 2002 Functional magnetic resonance imaging of synesthesia: activation of V4/V8 by spoken words. Nat. Neurosci. 5, 371 –375. ( doi:10.1038/nn818 )
+71. Rouw R, Scholte HS. 2007 Increased structural connectivity in grapheme-color synesthesia. Nat. Neurosci 10, 792 –797. ( doi:10.1038/nn1906 )
+72. Terhune DB, Tai S, Cowey A, Popescu T, Cohen Kadosh R. 2011 Enhanced cortical excitability in grapheme-color synesthesia and its modulation. Curr. Biol. 21, 2006 –2009. ( doi:10.
+1016/j.cub.2011.10.032 )
+73. Sinke C, Neufeld J, Emrich HM, Dillo W, Bleich S, Zedler M, Szycik GR. 2012 Inside a synesthete ’s head: a functional connectivity analysis with grapheme-color synesthetes.
+Neuropsychologia 50, 3363 –3369. ( doi:10.1016/j.neuropsychologia.2012.09.015 )
+74. Dovern A, Fink GR, Fromme ACB, Wohlschläger AM, Weiss PH, Riedl V. 2012 Intrinsic network connectivity reflects consistency of synesthetic exper iences. J. Neurosci. 32,
+7614 –7621. ( doi:10.1523/JNEUROSCI.5401-11.2012 )
+75. Hupé J-M, Dojat M. 2015 A critical review of the neuroimaging literature on synesthesia. Front. Hum. Neurosci. 9, 103. ( doi:10.3389/fnhum.2015.00103 )
+76. Melero H, Peña-Melián Á, Ríos-Lago M, Pajares G, Hernández-Tamames JA, Álvarez-Linera J. 2013 Grapheme-color synesthetes show peculiarities i n their emotional brain: cortical
+and subcortical evidence from VBM analysis of 3D-T1 and DTI data. Exp. Brain Res. 227, 343 –353. ( doi:10.1007/s00221-013-3514-4 )
+77. Ward J, Banissy MJ. 2015 Explaining mirror-touch synesthesia. Cogn. Neurosci .6, 118 –133. ( doi:10.1080/17588928.2015.1042444 )
+78. Banissy MJ, Kadosh RC, Maus GW, Walsh V, Ward J. 2009 Prevalence, characteristics and a neurocognitive model of mirror-touch synaesthesia. Exp. Brain Res. 198, 261 –272.
+(doi:10.1007/s00221-009-1810-9 )
+79. Rothen N, Meier B. 2013 Why vicarious experience is not an instance of synesthesia. Front. Hum. Neurosci .7, 128. ( doi:10.3389/fnhum.2013.00128 )
+80. Blakemore S-J, Tavassoli T, Calò S, Thomas RM, Catmur C, Frith U, Haggard P. 2006 Tactile sensitivity in Asperger syndrome. Brain Cogn. 61,5–13. ( doi:10.1016/j.bandc.2005.
+12.013 )
+81. Bolognini N, Miniussi C, Gallo S, Vallar G. 2013 Induction of mirror-touch synaesthesia by increasing somatosensory cortical excitability. Curr. Biol .23, R436 –R437. ( doi:10.1016/j.
+cub.2013.03.036 )
+82. Bolognini N, Rossetti A, Fusaro M, Vallar G, Miniussi C. 2014 Sharing social touch in the primary somatosensory cortex. Curr. Biol .24, 1513 –1517. ( doi:10.1016/j.cub.2014.05.025 )
+83. Holley SI, Fryer AA, Haycock JW, Grubb SEW, Strange RC, Hoban PR. 2007 Differential effects of glutathione S-transferase pi (GSTP1) haplotypes on cell proliferation and apoptosis.
+Carcinogenesis 28, 2268 –2273. ( doi:10.1093/carcin/bgm135 )
+84. Baron-Cohen S, Robson E, Lai M-C, Allison C. 2016 Mirror-touch synaesthesia is not associated with heightened empathy, and can occur with autism. PLoS ONE 11, e0160543.
+(doi:10.1371/journal.pone.0160543 )
+85. Farooq O, Fine EJ. 2017 Alice in Wonderland syndrome: a historical and medical review. Pediatr. Neurol. 77,5–11. ( doi:10.1016/j.pediatrneurol.2017.08.008 )
+86. Blom JD, Nanuashvili N, Waters F. 2021 Time distortions: a systematic review of cases characteristic of Alice in Wonderland syndrome. Front. Psychiatry 12, 668633. ( doi:10.3389/
+fpsyt.2021.668633 )
+87. Blom JD. 2021 Charles Dodgson and Alice in Wonderland syndrome. Lancet Neurol. 20, 890 –891. ( doi:10.1016/S1474-4422(21)00338-0 )
+88. Smith RA, Wright B, Bennett S. 2015 Hallucinations and illusions in migraine in children and the Alice in Wonderland syndrome. Arch. Dis. Childh. 100, 296 –298. ( doi:10.1136/
+archdischild-2013-305283 )
+89. Golden GS. 1979 The Alice in Wonderland Syndrome in juvenile migraine. Pediatrics 63, 517 –519. ( doi:10.1542/peds.63.4.517 )
+90. Beh SC, Masrour S, Smith SV, Friedman DI. 2018 Clinical characteristics of Alice in Wonderland syndrome in a cohort with vestibular migraine. Neurol. Clin. Pract .8, 389 –396.
+(doi:10.1212/CPJ.0000000000000518 )
+91. Zwijnenburg PJG, Wennink JMB, Laman DM, Linssen WHJP. 2002 Alice in Wonderland syndrome: a clinical presentation of frontal lobe epilepsy. Neuropediatrics 33,5 3 –55.
+(doi:10.1055/s-2002-23599 )
+92. Copperman SM. 1977 ‘Alice in Wonderland ’syndrome as a presenting symptom of infectious mononucleosis in children. Clin. Pediatr. 16, 143 –146. ( doi:10.1177/
+000992287701600205 )
+93. Eshel GM, Eyov A, Lahat E, Brauman A. 1987 Alice in Wonderland syndrome, a manifestation of acute Epstein-Barr virus infection. Pediatr. Infect. Dis. J .6, 68. ( doi:10.1097/
+00006454-198701000-00018 )
+94. Liaw S-B, Shen E-Y. 1991 Alice in Wonderland syndrome as a presenting symptom of EBV infection. Pediatr. Neurol 7, 464 –466. ( doi:10.1016/0887-8994(91)90032-G )
+95. Cinbis M, Aysun S. 1992 Alice in Wonderland syndrome as an initial manifestation of Epstein-Barr virus infection. Br. J. Ophthalmol. 76, 316. ( doi:10.1136/bjo.76.5.316 )
+96. Wang S-M, Liu C-C, Chen Y-J, Chang Y-C, Huang C-C. 1996 Alice in Wonderland syndrome caused by coxsackievirus B1. Pediatr. Infect. Dis. J. 15, 470 –471. ( doi:10.1097/
+00006454-199605000-00022 )
+97. Soriani S, Faggioli R, Scarpa P, Borgna-Pignatti C. 1998 Alice in Wonderland ’syndrome and varicella. Pediatr. Infect. Dis. J. 17, 935 –936. ( doi:10.1097/00006454-199810000-
+00026 )royalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302527
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024
+
+98. Augarten A, Aderka D. 2011 Alice in Wonderland syndrome in H1N1 influenza: case report. Pediatr. Emerg. Care 27, 120. ( doi:10.1097/PEC.0b013e318209af7a )
+99. Paniz-Mondolfi AE et al. 2018 Alice in Wonderland syndrome: a novel neurological presentation of Zika virus infection. J. Neurovirol 24,6 6 0 –663. ( doi:10.1007/s13365-018-0645-1 )
+100. Naarden T, Ter Meulen BC, Van der Weele SI, Blom JD. 2019 Alice in Wonderland syndrome as a presenting manifestation of Creutzfeldt-Jakob Disease .Front. Neurol .10, 473.
+(doi:10.3389/fneur.2019.00473 )
+101. Vasudevan G, Farooq O, Fine E. 2021 Alice in Wonderland syndrome with pediatric concussion and synesthesia: a unique occurrence. Neurology 96, 4223. ( doi:10.1212/WNL.96.
+15_supplement.4223 )
+102. Piervincenzi C, Petsas N, Giannì C, DiPiero V, Pantano P. 2022 Alice in Wonderland syndrome: a lesion mapping study. Neurol. Sci. 43, 3321 –3332. ( doi:10.1007/s10072-021-
+05792-0 )
+103. Craig AD. 2009 Emotional moments across time: a possible neural basis for time perception in the anterior insula. Phil. Trans. R. Soc. B 364,1 9 3 3 –1942. ( doi:10.1098/rstb.2009.0008 )
+104. Piervincenzi C, Petsas N, Viganò A, Mancini V, Mastria G, Puma M, Giannì C, DiPiero V, Pantano P. 2023 Functional connectivity alterations in migr aineurs with Alice in Wonderland
+syndrome. Neurol. Sci 44, 305 –317. ( doi:10.1007/s10072-022-06404-1 )
+105. Wu MS, Lewin AB, Murphy TK, Storch EA. 2014 Misophonia: incidence, phenomenology, and clinical correlates in an undergraduate student sample. J. Clin. Psychol .70,
+994 –1007. ( doi:10.1002/jclp.22098 )
+106. Zhou X, Wu MS, Storch EA. 2017 Misophonia symptoms among Chinese university students: incidence, associated impairment, and clinical correlat es.J. Obsess. Compuls. Relat.
+Disord. 14,7–12. ( doi:10.1016/j.jocrd.2017.05.001 )
+107. Naylor J, Caimino C, Scutt P, Hoare DJ, Baguley DM. 2021 The prevalence and severity of misophonia in a UK undergraduate medical student populatio n and validation of the
+Amsterdam Misophonia Scale. Psychiatr. Q .92, 609 –619. ( doi:10.1007/s11126-020-09825-3 )
+108. Aryal S, Prabhu P. 2022 Misophonia: prevalence, impact and co-morbidity among Mysore University students in India - a survey. Neurosci. Res. Notes 5, 161. ( doi:10.31117/
+neuroscirn.v5i4.161 )
+109. Brennan CR, Lindberg RR, Kim G, Castro AA, Khan RA, Berenbaum H, Husain FT. 2023 Misophonia and hearing comorbidities in a collegiate population. Ear Hear .45, 390 –399.
+(doi:10.1097/AUD.0000000000001435 )
+110. Schröder A, Vulink N, Denys D. 2013 Misophonia: diagnostic criteria for a new psychiatric disorder. PLoS ONE 8, e54706. ( doi:10.1371/journal.pone.0054706 )
+111. Dozier TH, Lopez M, Pearson C. 2017 Proposed diagnostic criteria for misophonia: a multisensory conditioned aversive reflex disorder. Front. Psychol. 8, 1975. ( doi:10.3389/fpsyg.
+2017.01975 )
+112. American Psychiatric Association. 2013 Diagnostic and statistical manual of mental disorders 5th edn. Washington, DC: APA.
+113. Edelstein M, Brang D, Rouw R, Ramachandran VS. 2013 Misophonia: physiological investigations and case descriptions. Front. Hum. Neurosci. 7, 296. ( doi:10.3389/fnhum.2013.
+00296 )
+114. Kumar S et al. 2017 The brain basis for misophonia. Curr. Biol. 27, 527 –533. ( doi:10.1016/j.cub.2016.12.048 )
+115. Grossini E et al. 2022 Misophonia: analysis of the neuroanatomic patterns at the basis of psychiatric symptoms and changes of the orthosympathetic/parasympathetic balance.
+Front. Neurosci .16, 827998. ( doi:10.3389/fnins.2022.827998 )
+116. Siepsiak M, Vrana SR, Rynkiewicz A, Rosenthal MZ, Dragan W Ł. 2023 Does context matter in misophonia? A multi-method experimental investigation. Front. Neurosci. 16, 880853.
+(doi:10.3389/fnins.2022.880853 )
+117. Schröder A, van Wingen G, Eijsker N, San Giorgi R, Vulink NC, Turbyne C, Denys D. 2019 Misophonia is associated with altered brain activity in the au ditory cortex and salience
+network. Scient. Rep .9, 7542. ( doi:10.1038/s41598-019-44084-8 )
+118. Kumar S, Dheerendra P, Erfanian M, Benzaquén E, Sedley W, Gander PE, Lad M, Bamiou DE, Griffiths TD. 2021 The motor basis for misophonia. J. Neurosci .41, 5762 –5770.
+(doi:10.1523/JNEUROSCI.0261-21.2021 )
+119. Hansen HA, Stefancin P, Leber AB, Saygin ZM. 2022 Neural evidence for non-orofacial triggers in mild misophonia. Front. Neurosci. 16, 880759. ( doi:10.3389/fnins.2022.880759 )
+120. Erfanian M, Kartsonaki C, Keshavarz A. 2019 Misophonia and comorbid psychiatric symptoms: a preliminary study of clinical findings. Nord. J. Psychiatry 73, 219 –228. ( doi:10.
+1080/08039488.2019.1609086 )
+121. Jager I, de Koning P, Bost T, Denys D, Vulink N. 2020 Misophonia: phenomenology, comorbidity and demographics in a large sample. PLoS ONE 15, e0231390. ( doi:10.1371/
+journal.pone.0231390 )
+122. Andermane N, Bauer M, Simner J, Ward J. 2023 A symptom network model of misophonia: from heightened sensory sensitivity to clinical comorbidity. J. Clin. Psychol. 79,
+2364 –2387. ( doi:10.1002/jclp.23552 )
+123. Rinaldi LJ, Simner J, Koursarou S, Ward J. 2023 Autistic traits, emotion regulation, and sensory sensitivities in children and adults with misop honia. J. Autism Dev. Disord .53,
+1162 –1174. ( doi:10.1007/s10803-022-05623-x )
+124. Niven EC, Scott SK. 2021 Careful whispers: when sounds feel like a touch. Trends Cogn. Sci. 25, 645 –647. ( doi:10.1016/j.tics.2021.05.006 )
+125. Wu C, Stefanescu RA, Martel DT, Shore SE. 2015 Listening to another sense: somatosensory integration in the auditory system. Cell Tissue Res. 361, 233 –250. ( doi:10.1007/
+s00441-014-2074-7 )
+126. Ghaziri J et al. 2017 The corticocortical structural connectivity of the human insula. Cereb. Cortex 27, 1216 –1228. ( doi:10.1093/cercor/bhv308 )
+127. Uddin LQ, Nomi JS, Hébert-Seropian B, Ghaziri J, Boucher O. 2017 Structure and function of the human insula. J. Clin. Neurophysiol .34, 300 –306. ( doi:10.1097/WNP.
+0000000000000377 )
+128. Ghaziri J et al. 2018 Subcortical structural connectivity of insular subregions. Scient. Rep. 8, 8596. ( doi:10.1038/s41598-018-26995-0 )
+129. Zhang Y, Zhou W, Wang S, Zhou Q, Wang H, Zhang B, Huang J, Hong B, Wang X. 2019 The roles of subdivisions of human insula in emotion perception and audit ory processing.
+Cereb. Cortex 29, 517 –528. ( doi:10.1093/cercor/bhx334 )
+130. Singer T, Seymour B, O ’Doherty J, Kaube H, Dolan RJ, Frith CD. 2004 Empathy for pain involves the affective but not sensory components of pain. Science 303, 1157 –1162.
+(doi:10.1126/science.1093535 )
+131. Masten CL, Morelli SA, Eisenberger NI. 2011 An fMRI investigation of empathy for ‘social pain ’and subsequent prosocial behavior. Neuroimage 55, 381 –388. ( doi:10.1016/j.
+neuroimage.2010.11.060 )royalsocietypublishing.org/journal/rstb Phil. Trans. R. Soc. B 379: 202302528
+ Downloaded from https://royalsocietypublishing.org/ on 19 July 2024

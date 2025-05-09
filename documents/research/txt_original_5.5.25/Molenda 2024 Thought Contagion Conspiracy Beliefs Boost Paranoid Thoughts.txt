@@ -1,0 +1,857 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/382367186
+Thought Contagion? Conspiracy Beliefs Boost Paranoid Thoughts
+Article    in  Applied P sycholog y He alth and Well-Being  · July 2024
+DOI: 10.1111/ aphw .12577
+CITATIONS
+0READS
+38
+7 author s, including:
+Zuzanna Molenda
+Polish Ac ademy of Scienc es
+23 PUBLICA TIONS    344 CITATIONS    
+SEE PROFILE
+Mart a Mar chle wsk a
+Polish Ac ademy of Scienc es
+69 PUBLICA TIONS    2,314  CITATIONS    
+SEE PROFILE
+Adam Kar akula
+Polish Ac ademy of Scienc es
+5 PUBLICA TIONS    79 CITATIONS    
+SEE PROFILE
+Wojciech P odsiad ł owski
+Polish Ac ademy of Scienc es
+6 PUBLICA TIONS    1 CITATION    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Zuzanna Molenda  on 19 July 2024.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+
+1 
+ 
+Thought Contagion? Conspiracy Beliefs Boost Paranoid Thoughts  
+ 
+Zuzanna Molenda1*, Marta Marchlewska1, Adam Karakula1, Wojciech Podsiadłowski1, Marta 
+Rogoza1, Paulina Bagrowska1, Dagmara Szczepańska1,2 
+ 
+1 Institute of Psychology, Polish Academy of Sciences  
+Jaracza 1, 00-378, Warsaw, Poland  
+2 Institute of Philosophy and Sociology, The Maria Grzegorzewska University  
+Szczęśliwicka 40, 02 -353, Warsaw, Poland  
+* Corresponding author: Zuzanna Molenda, Institute of Psychology, Polish Academy of 
+Sciences, Jaracza 1, 00-378, Warsaw, Poland (email: zmolenda@psych.pan.pl, telephone: 
++48225831380, fax: +48225831381).  
+ 
+This manuscript was accepted for publication in the Applied Psychology: Health and 
+Well -Being . See the final version of the manuscript at the journal’s site 
+(https://doi.org/10.1111/aphw.12577 ) 
+ 
+Data availability statement:  The data , code, and materials for all the studies  are available at 
+the Open Science Framework:  https://doi.org/10.17605/OSF.IO/V4P6B  
+Funding : This work was supported by National Science Centre under Opus grant 
+(2019/35/B/HS6/00123). The funding sources were not involved in conducting this research 
+or preparing the article.  
+Declarations of interest: none . 
+Ethical approval: Informed consent was obtained from all participants involved in the 
+studies.  The studies were conducted in accordance with the Declaration of Helsinki and
+
+2 
+ 
+approved by the Research Ethics Committee of the Institute of Psychology, Polish Academy 
+of Sciences (number of approval: 26/X/2020).  
+Authors note  
+Zuzanna Molenda: zmolenda@psych.pan.pl, https://orcid.org/0000 -0003 -4950 -865X  
+Marta Marchlewska: mmarchlewska@psych.pan.pl , https://orcid.org/0000 -0003 -2807 -5189  
+Adam Karakula: akarakula@psych.pan.pl , https://orcid.org/0000 -0002 -5476 -8483  
+Wojciech Podsiadłowski: wpodsiadlowski@psych.pan.pl , https://orcid.org/0009 -0008 -6441 -
+0996  
+Marta Rogoza: mrogoza@psych.pan.pl, https://orcid.org/0000 -0002 -8451 -9015  
+Paulina Bagrowska: pbagrowska@psych.pan.pl , https://orcid.org/ 0000 -0002 -0687 -3211  
+Dagmara Szczepańska: dszczepanska@psych.pan.pl, https://orcid.org/0000 -0001 -6216 -5773  
+ 
+Authors contribution  
+Zuzanna Molenda:  Conceptualization, Methodology, Validation, Investigation, Formal 
+Analysis, Writing – Original Draf t, Writing – Review & Editing  
+Marta Marchlewska:  Conceptualization, Methodology, Investigation, Supervision, Funding 
+Acquisition, Writing – Original Draf t, Writing – Review & Editing  
+Adam Karakula:  Methodology, Formal Analysis, Investigation, Data Curation, Writing – 
+Review & Editing  
+Wojciech Podsiadłowski:  Methodology, Formal Analysis, Validation, Investigation, Writing 
+– Review & Editing  
+Marta Rogoza: Methodology, Formal Analysis, Validation, Investigation, Writing – Review 
+& Editing  
+Paulina Bagrowska:  Conceptualization, Resources, Writing – Review & Editing  
+Dagmara Szczepańska:  Methodology, Writing – Review & Editing
+
+3 
+ 
+Thought Contagion ? Conspiracy Belie fs Boost Paranoid Thoughts  
+ 
+Abstract  
+Conspiracy theories accusing specific groups of secret malevolent actions can foster a 
+perception of the world as  a dangerous  place . In our research, we contend that both adherence 
+and exposure to conspiracy  beliefs  can serve as a potential cause of certain psychological 
+problems in the form of paranoid thoughts . This hypothesis was tested in three studies 
+conducted among Polish and British participants. I n Study 1 (longitudinal, N = 603), we 
+found that conspiracy beliefs  exerted a positive overtime effect on paranoid thoughts . 
+Experimental s tudies 2 (N = 384) and 3 (N = 445),  showed  that being exposed to conspiracy 
+theories (vs. control stimuli ) heightened paranoid thoughts . In Study 3, w e proposed  a 
+potential mechanism explaining this effect, according to which exposure to conspiracies 
+increased paranoid thoughts  via only negative intense emotions . Our work adds to the 
+discussion on the consequences of conspiracy beliefs and has implications for mental health 
+research, underlining the importance of designing interventions limiting the adverse effects of 
+conspiracy beliefs.   
+Keywords:  conspiracy beliefs, conspiracy theories, paranoid thoughts, negative 
+emotions
+
+4 
+ 
+Thought Contagion? Conspiracy Beliefs Boost Paranoid Thoughts  
+ 
+You've been bitten by  
+A true believer  
+You've been bitten by  
+Someone ’s false beliefs  
+(Muse , 2018)   
+ 
+The Internet, especially social media platforms, provide almost unlimited space for the 
+dissemination of conspiracy theories, making its users (un)intentionally exposed  to this type 
+of beliefs on daily basis (e.g., Kużelewska & Tomaszuk, 2022 ). Although p revious research 
+showed that conspiracy theories may have severe societal concomitants , to date,  not many 
+studies focused on the  consequences that being exposed to them  may have on intra-individual 
+outcomes  (e.g., mental health) . In the current research , we claim that theories accusing secret 
+groups of colluding to achieve nefarious goals  can lead to maladaptive psychologica l 
+consequences in the form of paranoid thoughts  (i.e., a kind of thinking dominated by 
+suspicious  or persecutory content , such as being  followed and a tendency to  perceive others’ 
+actions as intentionally  malicious; Cicero & Kerns, 2011 ).  
+Previous studies (see Imhoff & Lamberty , 2018), already  associated conspiracy beliefs 
+with paranoid thoughts.  Some researchers (e.g., Cichocka et al. , 2016) even suggested that  
+paranoid thoughts may precede  conspiracy  theories ’ endorsement . These conclusions , 
+however, were based on cross -sectional data , thereby limiting inference about causality. The 
+current work aims to fill this knowledge gap by employing  longitudinal and experimental 
+research designs  to scrutinize how these two phenomena are intertwined. We argue that  since  
+conspiracy beliefs are omnipresent in the current days (e.g., Stasielowicz, 2022) and constant
+
+5 
+ 
+online exposure to theories intensif ies distrust, hostility, and negative emotions ( e.g., 
+Gkinopoulos & Mari, 2023), such exposure may potentially  contribute to an upsurge in 
+paranoid thoughts.  
+Conspiracy Beliefs  and Their Consequences  
+Conspiracy theories are described as hidden plots by powerful  and malevolent groups , 
+whose actions cause outcomes of public interest (e.g., Douglas & Sutton, 2023). Conspiracy 
+beliefs  were  previously linked to feelings of psychological threat (e.g., anxiety  or 
+uncertainty ). For this reason,  many researchers  (e.g., Douglas & Sutton, 2023 ) understood 
+them  as an attempt to reduc e negative experiences  by making sense of the uncertain  through  
+quick judgements  about nefarious groups that allegedly control the world . However, it seems 
+that they are merely attempts, since longitudinal research suggest ed that conspiracy beliefs 
+had the potential to deteriorate initial difficulties, for instance, to heighten  anxiety (Lieke fett 
+et al. , 2023)  or psychological  defensiveness (Górska  et al., 2023).  Indeed, belief in conspiracy 
+theories was predominantly linked to harmful consequences, such as  prejudice (Marchlewska 
+et al., 2019)  or lower adherence to safety guidelines during the COVID -19 pandemic (e.g., 
+Molenda et al., 202 4; see also Marinthe et al., 2020 ).  
+In fact, o nly a handful of studies, centered primarily on social psychological outcomes, 
+investigated the consequences of exposure to conspiracy theories  experimentally . For 
+example , exposure  to conspiracy theories about out -groups (e.g., immigrants) increased 
+prejudice against these groups  (Jolley et al., 2020) . Similarly , watching a video about a 
+government’s conspiracy heightened  distrust towards that government (Kim & Cao, 2016). 
+Moreover, exposure to anti -vaccine conspiracy theories decreased vaccination intentions 
+(Jolley & Douglas, 2014)  and exposure to antidepressant conspiracy theories  lowered health -
+seeking intentions  (Natoli & Marques, 2021 ; see also Fournier & Varet, 2023; for studies on 
+chemotherapy -related  conspiracy beliefs ), suggesting that ubiquitous conspiracies might
+
+6 
+ 
+threaten  public health.  Importantly, previous research also demonstrated that exposure to 
+conspiracy theories increased  negative emotions ( Gkinopoulos  & Mari, 2023 ).  
+Summing up, conspiracy theories have various detrimental consequences. However, 
+none of these studies directly investigated these consequences  in the area of mental health 
+issues. Using two -wave longitudinal and experimental designs, we aim to fill this gap by 
+examining the possible relationships between conspiracy theories and paranoid thoughts.   
+Conspiracy Beliefs  and Paranoid Thoughts  
+ The relationship between paranoid thoughts  and conspiracy beliefs was the subject of 
+psychological studies  before , including two meta -analyses (Imhoff & Lamberty, 2018; 
+Stasielowicz, 2022), both showing a similar estimated correlation (r = .36, r = .34, 
+respectively). So, what is the difference between these two constructs? Paranoid thoughts  are 
+linked to an obsession “with the idea that others  are trying to harm him or her, whereas most 
+conspiracy believers may fear less for themselves than for society in general” (Imhoff & 
+Lamberty, 2018; p. 911).  Therefore,  conspiracy beliefs are  related to the sociopolitical  or the 
+intergroup  sphere  and paranoid thoughts  are rather embedded in the interpersonal domain  
+(Imhoff & Lamberty, 2018 ).  
+Indeed, p aranoid thoughts are  characterized by excessive interpersonal distrust, being 
+suspici ous of other ’s intentions, perceiving others as direct threats to oneself, and by hostile, 
+self-referent interpretations of other’s behaviors (e.g., Freeman, 2007). According to the 
+hierarchy of paranoia (Freeman et al., 2005), the development of such disturbing thoughts is 
+based on the perception of the world as a dangerous place . Affective processes play a pivotal 
+role in these beliefs, specifically in the form of high -intensity negative emotions , such as 
+anxiety  (Freeman et al., 2010). The threat anticipation model (Freeman et al., 2002 , 2008) 
+hypothesizes  that when an individual experiences such negative emotional states, this can 
+shape their perception of the world, potentially leading to a misinterpretation of external
+
+7 
+ 
+reality. Negative emotions, such as anxiety and worry, elicit heightened danger anticipation, 
+foster a state of vigilance and encourage the interpretation of ambiguous situations as hostile, 
+threatening , and intended to cause harm.  
+Therefore, since believing in and exposure to conspiracy theories have been linked to 
+increased anxiety and negative emotions (Gkinopoulos & Mari, 2023; Liekefett et al., 2023) - 
+factors  contributing  to the development of paranoid thoughts (Bagrowska et al., 2022; 
+Freeman, 2007) - it seems plausible that conspiracy theories could also fuel these thoughts, 
+making those holding conspiracy convictions more suspicious and distrustful in the 
+interpersonal sphere.  Importantly , conspiracy theories might be  perceiv ed as a form of  
+dangerous world beliefs (a worldview envisioning the social world as threatening; Leone et 
+al., 2019), which  can also fuel negative emotions, and thus, increase paranoid thoughts  
+(Bagrowska et al., 2022) . To our knowledge, this assumption has not yet been tested.  Some 
+studies (e.g., Stasielowicz, 2022) treated these constructs as correlates, without  implying any 
+direction of this relationship  and others (e.g., Cichocka  et al. , 2016 ) considered paranoid 
+thoughts as a predictor of conspiracy beliefs, assuming that perceiving others’ intentions as 
+hostile  on an inter -personal level  might translate into convictions that socio -political events 
+are caused by plotting groups. Still, none of these studies  permitted conclusions about 
+causality , which we aim to address in the present research . 
+Overview of the Current Research  
+The main goal of our studies was to shed more light on the role of conspiracy beliefs 
+in boosting paranoid thoughts , providing new evidence on the effects of conspiracies on 
+health symptoms . In a two -wave longitudinal Study 1, we hypothesized  that conspiracy 
+beliefs  at Time 1 (T1) would predict an increase  in paranoid thought s at Time 2 (T2; 
+Hypothesis 1). In experimental  Studies 2 and 3 , we assumed that exposure to conspiracy 
+theories (vs. control stimuli ) would directly increase paranoid thoughts (Hypothesis 2).
+
+8 
+ 
+Moreover, aiming to investigate a potential mechanism of this causal link in Study 3 , we 
+additionally  examined the role of emotions ’ intensity and valency . Specifically, as the role of 
+low-valenced intense emotions in the development of paranoid thoughts was highlighted in 
+past literature (e.g., Freeman et al., 2010 ), we assumed that the effect of exposure  to 
+conspiracies  on paranoi d thoughts  would be mediated by higher negative (vs. positive)  
+increased intensity of emotions (i.e., only by negative  intense emotions ; Hypothesis 3; 
+moderated mediation).  
+All the data, code s, materials , and supplements  are available at  
+https://doi.org/10.17605/OSF.IO/V4P6B . Data were analyzed using SPSS v.29 (all studies), 
+MPlus 8.0 (Muthén & Muthén, 2017; Study 1), and Process 4.1 (Hayes, 2021; Study 3). All 
+participants issued informed consent.  The studies  (both longitudinal and experimental) were 
+approved by the Research Ethics Committee of the Institute of Psychology, Polish Academy 
+of Sciences  (number of approval: 26/X/2020 ).  
+Study 1  
+Method  
+Participants and Procedure  
+ Study 1 was administered as part of a two -wave online survey of adult Poles. Data was 
+collected in 2021 by an external research company , used in academic studies before (e.g., 
+Kowalski et al., 2020 ). The two measurements were divided by a six -month interval. We 
+aimed to include at least 400 participants  taking part in both measurements , as for r = .14 
+(Fritz & MacKinnon, 2007 ), G*Power 3.1 (Faul et al., 2009) provides a target of 398 
+participants with a power of 0.80 for detecting small associations between  variables.  Out of 
+the 1000 respondents who filled  in the first measurement, 603 (60.3%) also completed  the 
+second measurement. The sample for this study consisted only of  the individuals who 
+participated in both waves of the survey (329 female, 274 male, Mage = 51.9 4, SDage = 15.4 3).
+
+9 
+ 
+Besides the variables reported here, Study 1 involved measures of other  social 
+psychological variables (e.g., social dominance orientation) included for the purposes of 
+different projects .1 
+Measures  
+Conspiracy Beliefs. Measured with the Generic Conspiracist Beliefs scale 
+(Brotherton et. al., 2013; Polish adaptation: Siwiak et. al., 2019). A total of 15 statements 
+were applied, such as “Certain significant events have been the result of the activity of a small 
+group who s ecretly manipulate world events .” Participants responded on a scale from 1 = 
+definitely not true  to 5 = definitely true . The scale demonstrated excellent reliability, α T1 = .94, 
+αT2 = .95.  
+Paranoid Thoughts . To measure paranoid thoughts, we used 18 items from the  
+Revised Green et al. Paranoid Thoughts Scale ( R-GPTS ; Freeman et. al., 2019; Polish 
+adaptation: Kowalski et. al., 2020). Participants were asked about the thoughts that they might 
+have had in the last month and  responded to statements , such as “I have definitely been 
+persecuted ,” on a scale from 0 = totally disagree  to 4 = totally agree . The scale showed 
+excellent reliability across both measurement s, αT1 = .96, α T2 = .96.  
+Results  
+Analytic Strategy  
+Analyses were conducted  in two steps. First, we examined intercorrelations for the 
+variables of interest. Next, an autoregressive cross -lagged path model ( CLPM; Selig & Little, 
+2012) was estimated to verify our hypotheses . In this solution, both variables assessed at T2 
+(i.e., paranoid thoughts and conspiracy beliefs) were regressed on pa ranoid thoughts and 
+conspiracy beliefs at T1.  
+ 
+1 The list of measured constructs (for all studies) is available on the OSF project page.  This dataset was also used 
+in Molenda et al.’s (2023)  paper, albeit employing a different set of variables. Please contact the first author for 
+details.
+
+10 
+ 
+Preliminary Analyses  
+Descriptive statistics and intercorrelations for the variables assessed in Study 1 are 
+presented in Table 1. Across both measurements, conspiracy beliefs were  positively correlated 
+with paranoid thoughts. Moreover, participants ’ age  was negatively related to paranoid 
+thoughts at T1 and T2.  
+Table 1  
+Descriptive Statistics and Correlations (Study 1)  
+ M SD 1 2 3 4 5 
+1. Conspiracy beliefs T1  2.70 0.92 --     
+2. Paranoid thoughts T1  0.98 0.87 .21*** --    
+3. Conspiracy beliefs T2  2.75 0.94 .76** * .22** * --   
+4.  Paranoid thoughts T2  0.97 0.88 .23** * .66** * .23*** --  
+5. Age  51.94  15.43  -.02 -.25** * -.05 -.23*** -- 
+6. Gender (0 = female, 1 = male)  - - -.03 -.01 .00 -.01 .00 
+* p < .05. ** p < .01. *** p < .001.  
+Hypotheses Testing  
+The m odel was estimated with the use of MPlus 8.0 (Muthén & Muthén, 2017)  and 
+covariates (age, gender)  were accounted for . Excluding the  covariates did not change  the 
+results  except for the effect of paranoid thoughts measured at T1 on conspiracy beliefs 
+measured at T2 , which  reach ed significance . Figure 1 shows the results for the autoregressive 
+CLPM  tested in Study 1. In line with our hypotheses, c onspiracy beliefs at T 1 were positively 
+related to paranoid thoughts at T2 ( B = 0.09, SE = 0.03, 95% CI [0.04, 0.14], β = .09, p = 
+.003). The effect of T1 conspiracy beliefs on itself at T2 was positive and sign ificant  (B =
+
+11 
+ 
+0.77, SE = 0.03, 95% CI [0.72, 0.81], β = .75, p < .001) . Paranoid thoughts at T1 were not 
+related to T2 conspiracy beliefs ( B = 0.06, SE = 0.03, 95% CI [0.02, 0.06], β = .0 5, p = .052), 
+but were  associated to itself  measured  at T2 ( B = 0.6 3, SE = 0.03, 95% CI [0. 58, 0.68], β = 
+.62, p < .001) . Thus, the results of Study 1 supported our hypothesis that belief in conspiracy 
+theories at T1 would be linked to higher paranoid thoughts at T2 (H1) . Interestingly, paranoid 
+thoughts at T1 were  not linked to higher conspiracy beliefs at T2 . Noteworthy, conspiracy 
+beliefs and paranoid thoughts were significantly associated with each other at T1 but not 
+significantly related at T2. Our findings suggest that while conspiracy beliefs predict paranoid  
+thoughts, this effect does not seem to work the other way around.  Thus, t he results  
+preliminary  implied that conspiracy beliefs might contribute to hostile, self -referent 
+interpretations of other’s behaviors  in the form of paranoid thoughts . However, as a two -wave 
+panel survey study holds some limitations regarding causality, we conducted experimental 
+Studies 2 and 3  to directly investigate the effects of exposure to conspiracy theories on 
+paranoid thoughts.
+
+12 
+ 
+ Figure 1  
+Results of Autoregressive Cross -Lagged Panel Models Testing the Relationships Between Conspiracy Beliefs and Paranoid Thoughts, Study 1  
+ 
+Note . Standardized coefficients presented. Greyed out arrows reflect the non -significant effects ( p > .05).   
+*p < .05. ** p < .01. *** p < .001.
+
+13 
+ 
+ Study 2  
+Method  
+Participants and Procedure  
+Data for  Study 2 were obtained through an online survey conducted among British 
+participants via Prolific Academic  in 2023 . Based on previous experiments in the field of 
+conspiracy beliefs ’ emotional concomitants  (Marchlewska et al., 2022) , we expected effect 
+size d = 0.286 . We estimated our sample size with G*Power (Faul et al., 2009), assuming the 
+power of .80 for differences between two independent means (two -tailed), which yielded 193 
+participants per  research  condition.  The study was filled out by  393 participants . Due to the 
+experimental character of the study , we added an attention check to verify  if respondents read 
+the texts  attentively . Based on that , we excluded one participant. Lastly, eight  participant s 
+were excluded due to  selecting “Non-binary ” or “Prefer to self -describe ” as their gender, 
+which was not aligned with the study ’s demographic categoriza tion criteria .2 The final sample 
+for this study included 384 British participants ( 199 women, 185 men) , aged between 1 9 and 
+79 (Mage = 47.62, SDage = 14.34). 
+First, participants were asked to complete demographic variables. Then, they were 
+randomly divided into two conditions : conspiracy ( n = 189) or control ( n = 195). In both 
+conditions, participants were exposed to three fabricated articles about: a. Muslims ’ migration  
+to Europe, b. 5G  technology , c. the world of politics. In the conspiracy condition , three texts 
+were designed to prime conspiracy thinking  by explain ing certain events or phenomena as 
+orchestrated by secret ly plotting agents . In the control cond ition, the character of the texts was 
+more neutral and scientific , describing  the same events and phenomena without referring to 
+any secret plots  (see Supplements for more information). In both conditions, the texts were 
+ 
+2 For the purpose of this study (as well as Study 3), we focused on responses from those who identified as ‘man’ 
+or ‘woman’. This decision was taken to maintain data homogeneity for this specific analysis, but we 
+acknowledge and respect the importance of all  gender identities.
+
+14 
+ 
+ designed using the same graphic layouts (i.e., the fonts, the arrangement of all the elements, 
+etc., were the same for both conditions in each text).  The word counts were similar in 
+corresponding texts (i.e., Muslims’ migration to Europe: 209 words in the experimental 
+condition vs. 221 in the control condition; 5G technology: 338 words in the experimental 
+condition vs. 321 in the control condition; the world of politics: 506 words in the 
+experimental condition vs. 492 in the control condition). Next, partic ipants answered 
+questions about paranoi d thoughts . Finally, they were carefully debriefed (e.g., we explained 
+the overall goal and design of the study and informed them that some of the presented content 
+included subjective opinions that might not be true or that might not accord to the current 
+state of knowledge) and thanked them for their participation.  
+Measures  
+Paranoi d Thoughts . This was measured as a state with six-items previously used by 
+Freeman et al.  (2015), such as  “Right now I am thinking that others are trying to persecute 
+me.” Participants were asked to respond using a scale from 1 = definitely disagree to 7 = 
+definitely agree , α = .96. 
+Results  
+Analytic Strategy  
+First, we examined intercorrelations between  the variables of interest. Then, we 
+estimated hierarchical regression to test the role of exposure to conspiracy theories  in 
+increasing paranoi d thoughts . 
+Preliminary Analyses  
+First, we computed correlations between all the variables across  both conditions (see 
+Table 2). Similarly to Study 1, age correlated to paranoi d thoughts  negatively . 
+Table 2 
+Means, Standard Deviations, and Zero -Order Correlations  (Study 2)
+
+15 
+ 
+ Measure  M SD 1 2 
+1. Paranoi d thoughts  2.28 1.41 -  
+2. Age 47.62  14.34  -.13* - 
+3. Gender (0 = female, 1 = male)  - - .18***  -.06 
+*p < .05. ** p < .01. *** p < .001.  
+Hypotheses Testing  
+We computed hierarchical regression analysis to check whether there would be an 
+indirect effect of the conspiracy  (vs. control)  condition , age , and gender on paranoi d thoughts  
+(see Table 3). The c onspiracy  condition  was indeed a significant positive predictor, 
+suggesting that those in the conspiracy condition had increased paranoid thoughts.  Moreover, 
+age and gender also predicted paranoi d thoughts  significantly , indicating that men and 
+younger individuals had higher state paranoia . Thus, in Study 2, we provided first 
+experimental evidence o f the effects of exposure to conspiracy theories on mental health 
+issues, showing that such exposure increased paranoi d thoughts  (H2).  
+Table 3 
+Predictors of Paranoi d Thoughts  (Study 2)  
+Variable  B 95% CI  
+p SE B  β R2 F 
+LL UL 
+       .10 F(3, 380) = 
+14.13***  
+Condition  
+(control = 0, conspiracy = 1)  0.66 0.39 0.93 < .001 0.14 .23   
+Gender  
+(female = 0, male = 1)  0.48 0.21 0.75 < .001 0.14 .17   
+Age -0.01 -0.02 -0.001 .029 0.01 -.11   
+*p < .05. ** p < .01. *** p < .001.
+
+16 
+ 
+ In Study 3, we aimed to  replicate this effect in a d ifferent cultural context, also 
+examining the role of higher negative (vs. positive) increased intensity of emotions in 
+explaining the link between exposure to conspiracy beliefs and paranoid thoughts.  
+Study 3 
+Method  
+Participants and Procedure  
+Study 3 included a sample of adult Poles and data  were collected  online  in 2023 by the 
+same external research company  as in Study 1 . Regarding the sample size, we followed the 
+same calculations as in Study 2.  We recruited  468 participants  – we aimed to over -recruit to 
+allow for exclusions . We applied  two attention chec ks to ensure data quality. With t he first 
+one (a question regarding  the content of the administered articles ), we exclu ded 17 
+participants. Following this, another attention check  (requir ing participants to select the 
+answer “3” in a specific item ), led to the removal of 5 more individuals. Lastly, one 
+participant was excluded for selecting “Other ” as their gender, which was not aligned with the 
+study ’s demographic categorization criteria. The final sample for this study included 445 
+participants (236 women, 209 men) , aged between 18 and 81 ( Mage = 48.58, SDage = 16.37).  
+We used the same design as in Study 2, but added  questions  regarding emotions . First, 
+participants complete d demographic variables and were then randomly divided into two 
+research conditions : conspiracy ( n = 222) or control ( n = 223). As in Study 2, participants  in 
+both conditions  were exposed to three fabricated articles  about: a. Muslims ’ migration  to 
+Europe  (188 words in the experimental condition vs. 184 words in the control condition) , b. 
+5G technology  (310 words in the experimental condition vs. 288 words in the control 
+condition) , c. the world of politics  (446 words in the experimental condition vs. 436 words in 
+the control condition) . In the conspiracy condition, these articles were  designed to provide 
+conspiracy explanations for the aforementioned issues  and in the control condition, they
+
+17 
+ 
+ aimed to  provide more of a neutral and scientific explanation of the same topics. These 
+articles were almost the same as in Study 2 – we only slightly changed several sentences to 
+embed t hem more in the Polish context (see Supplements for the exact wording  of all articles 
+in both experiments ). As before, the texts in both conditions were presented with the use of 
+the same graphic layouts.  Next, participants answered questions about emotions ’ intensity and  
+valency , and paranoi d thoughts . Finally, respondents  were carefully debriefed and thanked for 
+their participation , as in Study 2 . 
+Measures  
+Intensity of Emotions . This was measured using one item , inspired  by Medland and 
+colleagues  (2020) . Participants were asked to evaluate the intensity of the emotions they felt 
+while reading the articles displayed in each condition . Item was scored on a seven -point scale  
+from 1 = not intense at all  to 7 = very intense , where higher scores indicated higher emotions’ 
+intensity.  
+Valency of Emotions . This was measured using one item , inspired  by Medland and 
+colleagues  (2020) . Participants were asked to evaluate the valency of emotions they felt while 
+reading the articles displayed in each condition . Item was scored on a seven -point scale  from 
+1 = definitely negative  to 7 = definitely positive , where higher scores indicated positive 
+emotions.  
+Paranoi d Thoughts . This was measured as in Study 2, with six items proposed by 
+Freeman et al.  (2015; Polish version: Bagrowska et al., 2023 ), α = .95. 
+Results  
+Analytic Strategy  
+ In Study 3, analyses were conducted in two stages . First, we examined 
+intercorrelations for the variables of interest  and conducted  t-tests for intensity and valency of
+
+18 
+ 
+ emotions . Then, we estimated a hierarchical regression and a moderated mediation model to 
+test the role of intensity and valency of emotions in increasing paranoi d thoughts . 
+Preliminary Analyses  
+First, we computed correlations between all the variables across both conditions (see 
+Table 4). We found positive correlations between intensity of emotions and paranoi d 
+thoughts . Valency of emotions was significantly negatively associated with paranoi d 
+thoughts . Similarly to Stud ies 1 and 2 , age correlated with paranoi d thoughts  negatively . 
+Additionally, age was positively linked to intensity of emotions.  
+Table 4  
+Means, Standard Deviations, and Zero -Order Correlations Across Conditions (Study 3) 
+Measure  M SD 1 2 3 4 
+4. 1. Intensity of emotions  4.36 1.47 -    
+5. 2. Valency of emotions  3.75 1.48 .01 -   
+6. 3. Paranoi d thoughts  2.38 1.43 .26***  -.11* -  
+7. 4. Age  48.58  16.37  .14**  .08 -.10* - 
+8. 5. Gender (0 = female, 1 = male)  - - -.06 .002 -.02 .06 
+*p < .05. ** p < .01. *** p < .001.  
+Hypotheses Testing  
+Intensity and Valency of Emotions . To investigate the effects of each condition on  
+intensity and valency of emotions , we computed independent  t-tests for these  variables. There 
+was a significant effect of the condition  on intensity of emotions  (control condition  M = 
+4.14, SD = 1.48 ; conspiracy condition  M = 4.58 , SD = 1.43 ), t(443) = 3.18 , p = .002, d = 0.30 ,
+
+19 
+ 
+ and on valence of emotions (control condition  M = 4.39 , SD = 1.28 ; conspiracy condition  M = 
+3.11, SD = 1.40 ), t(439,196 ) = -10.06 , p < .001, d = -0.95. 
+Paranoi d Thoughts . We computed hierarchical regression analysis to check whether 
+there would be an indirect effect of the conspiracy manipulation on paranoi d thoughts  via 
+intensity of higher negative (vs. positive; i.e., valency of) emotions (Table 5) . In Step 1, we 
+introduced the condition (control = 0, conspiracy = 1) and demographic variables (i.e., gender 
+and age) as covariates. There was a positive and significant effect of the conspiracy condition 
+on paranoi d thoughts  – we present mean differences between the conditions (for both 
+experimental studies) in Figure 2. When  we added the emotions ’ intensity and valency  in Step 
+2, the effect of the condition became non -significant.  However,  we found a positive and 
+significant effect of intensity of emoti ons on paranoi d thoughts . The effect of valency was 
+non-significant  though . In Step 2, we also found a significant negative effect of age on the 
+dependent variable. When we removed the covariates, the results remained the same (see the 
+Supplements for details).  
+Figure 2 
+Mean  Paranoi d Thoughts  in the Conspiracy  and Control Conditions in Stud ies 2 and 3
+
+20 
+ 
+  
+Note . Error bars represent standard errors. In both studies, participants in the conspiracy 
+condition reported higher levels of paranoi d thoughts  (M = 2.62, SD = 1.52,  range 1 -7 for 
+Study 2; M = 2.59, SD = 1.54 , range 1 -7, for Study 3), than participants in the control 
+condition ( M = 1.95, SD = 1.21, range 1 -7, for Study 2; M = 2.17, SD = 1.29, range 1 -7, for 
+Study 3); t(358,525) = 4.83, p < .001, d = 0.50, for Study 2; t(428,788) = 3.14, p = .002, d = 
+0.30, for Study 3.  
+Table 5  
+Predictors of Paranoi d Thoughts  (Study 3) 
+Variable  B 95% CI  
+p SE B  β R2 F 
+LL UL 
+Step 1        .03 F(3, 441) = 
+4.52**  
+Condition (control = 0, conspiracy = 1)  0.41 0.14 0.67 .003 0.14 .14   
+Gender (female = 0, male = 1)  -0.05 -0.32 0.21 .699 0.14 -.02   
+Age -0.01 -0.02 0.0005  .065 0.004  -0.09
+
+21 
+ 
+ Step 2        .10 F(5, 439) = 
+9.44***  
+Condition (control = 0, conspiracy = 1)  0.20 -0.09 0.48 .184 0.15 .07   
+Gender (female = 0, male = 1)  0.001  -0.26 0.26 .994 0.13 .0003    
+Age -0.01 -0.02 -0.003  .008 0.004  -0.12   
+Intensity of emotions  0.26 0.17 0.35 <.001  0.05 .26   
+Valency of emotions  -0.07 -0.17 0.03 .153 0.05 -.08   
+*p < .05. ** p < .01. *** p < .001.  
+        
+In order to perform a full test of our hypotheses, we conducted a moderated mediation 
+analysis using model 7 in Process 4.1 (Hayes, 2021). Significance was tested with 
+bootstrapped 95% confidence intervals for the unstandardized indirect effects, construct ed 
+with 10,000 resamples. The analysis displayed in Figure 3 examined whether valency of 
+(high er vs. low er) emotions  moderated the mediation between the condition (conspiracy vs. 
+control) and paranoi d thoughts  via intensity of emotions. Valency of emotions  was introduced 
+as the moderator between  the condition (conspiracy vs. control) and intensity of emotions. As 
+covariates , we used gender and age . The interaction between  the condition and valency of 
+emotions predicted intensity of emotions  negatively and significantly , b = -0.49, SE = 0.10, 
+95% CI [-0.69, -0.30], p = <.001 , suggesting that the conspiracy condition led to more intense 
+emotions only among those who had higher negative emotions . The indirect effect of the 
+moderated mediation was negative and significant, b = -0.12, SE = 0.04, 95% CI [-0.21, -
+0.05]. Thus, the results showed that the indirect effect of conspiracy (vs. control) condition on 
+paranoi d thoughts  via int ensity of emotions was significant only among individuals who felt 
+more negative emotions (i.e., scored low er on valency of emotions) , b = 0.33, SE = 0.09, 95% 
+CI [0.18, 0.52], but not among those who felt more positive emotions (i.e., scored high er on 
+valency of emotions) , b = -0.03, SE = 0.06, 95% CI [-0.16, 0.07].  Therefore, Study 3 
+replicated the effect of exposure to conspiracy theories on increased paranoi d thoughts  (H2),
+
+22 
+ 
+ additionally demonstrating the possible mechanism of th is effect : it was mediated by higher 
+negative (vs. positive)  valenced  intensity of emotions (i.e., negative -only intense emotions ; 
+H3). 
+Figure 3 
+Results of the Moderated Mediation (Study 3) 
+Note . Entries are unstandardized coefficients.  
+*p < .05. ** p < .01. *** p < .001.  
+Discussion  
+Across a series of three studies , conducted in two different countries (Poland and the 
+UK), we investigate d the role of conspiracy beliefs in fostering paranoid thoughts . Given that 
+all previous studies examining this link were cross -sectional, we decided to employ 
+longitudinal (Study 1) and experimental (Stud ies 2-3) designs to provide new insights into the 
+knowledge about conspiracy  beliefs  and mental -health phenomena . In a two -wave panel 
+study, we demonstrated that conspiracy beliefs at T1 were related to higher paranoid thoughts 
+at T2, thus supporting H1. Experimental Studies 2 and 3 investigate d the conseque nces of 
+ubiquitous conspiracy theories  causally . Results of the first experiment showed that being 
+exposed to articles about conspiracies indeed enhanced paranoi d thoughts  (H2). The
+
+23 
+ 
+ following experiment replicated this effect, additionally showing the potential mechanism 
+explaining the way exposure to conspiracy theories may impact  paranoid thoughts. Namely, 
+this effect was mediated  only by negative , intensive  emotions, providing support for our last 
+hypothesis ( H3). These results suggest that  exposure to conspiracy theories might lead to 
+higher paranoid thoughts due to eliciting negative , but not positive,  intense emotions.  
+Theoretical Implications  
+ The question why people  believe d in conspiracy theories has been explored by 
+scientists at least since the 1990s  (e.g., Abalakina -Paap et al., 1999 ), with explanations 
+typically centering around various unfulfilled psychological motives  (e.g.,  Douglas & Sutton, 
+2023). However, the existing literature seems to overlook the current reality , which is  that we 
+no longer need to  intentionally face maladaptive psychological processes  and actively seek 
+alternative  explanations for various situations  to come across conspiracy theories . They 
+pervade our surroundings and  can possibly  influence us, even if initially we were  not their 
+proponents  (Kużelewska & Tomaszuk, 2022) . Therefore, it is crucial to investigate the effects 
+of the exposure to conspiracy  theories, going beyond cross -sectional research designs . This 
+approach is essential for determining whether the correlation between a specific variable  (e.g., 
+anxiety;  Liekefett et al., 2023 ) and belief in conspiracies  indeed  stems from an individual ’s 
+unmet  psychological  needs or rather is a consequence of exposure to conspiracies , which 
+contributes to psychological difficulties . This principle extends to  majority of  variables 
+associated with conspiracy beliefs , such as lack of control  (Kofta  et al., 202 0), narcissistic 
+group identity  (Marchlewska  et al., 2019) , or the aforementioned paranoid thoughts , just to 
+mention a few . 
+ We were especially interested in examining the potential consequences of conspiracy 
+theories since the COVID -19 pandemic resulted in a proliferation of such theories on social 
+media (Kużelewska & Tomaszuk, 2022). The results of our experiment s demonstrated that
+
+24 
+ 
+ being exposed to conspiracy theories increased  paranoi d thoughts , suggest ing that the 
+ubiquity of such views might affect  mental health , at least tempora rily. Thus, conspiracy 
+theories do not only affect socio -political phenomena, such as increased prejudice (Jolley et 
+al., 2020) , but they also might affect individuals ’ well-being. Obtained results are also in line 
+with previous findings  regarding the increased negative emotions after being exposed to 
+conspiracies (Gkinopoulos & Mari, 2023). As such,  we combined social and clinical 
+psychology perspectives to offer a mechanism explaining the effects of conspiracies ’ 
+exposure on paranoi d thoughts , and we showed that this exposure increased paranoi d thoughts  
+via negative -only intens ive emotions. Building on prior research ( Bagrowska et al., 2022;  
+Freeman et al., 2010 ; Gkinopoulos & Mari, 2023; Liekefett et al., 2023), we may conclude 
+that exposure to conspiratorial c ontent has a potential to increase  the perception of the world 
+as dangerous, intensif y negative emotions, and worsen mental states, increasing the likelihood 
+of paranoid thoughts occurrence . Those who are more prone to paranoid thoughts, for 
+example, due to factors such as low self -esteem, ongoing stress, or psychoactive substance 
+use (Freeman et al., 2015), may be particularly susceptible to the adverse psychological 
+effects of exposure to co nspiracy theories.  
+These results also correspond to Kramer ’s (1998) paranoid cognition model, which 
+identified situational, social cognitive underpinnings of paranoid cognitions (e.g., perceived 
+distinctiveness, social uncertainty) that could lead to dysphoric self -consciousness, increas ed 
+rumination and hypervigilance, which may contribute to an exaggerated perception of 
+conspiracy (e.g., Wabnegger et al., 2024), ultimately triggering higher paranoid thoughts. 
+According to that model, our results suggest that the ubiquity of conspiracy the ories and 
+exposure to them could be considered situational antecedents that could lead to paranoid 
+thoughts (at least temporarily ). The notion of different situational antecedents of paranoid 
+thoughts (including conspiracy beliefs) is worth investigating in the future.
+
+25 
+ 
+ Conclusions and Future Directions  
+ Although  our research  allows to perceive conspiracy theories consequences in a more 
+nuanced way , it has several limitations.  Our studies were conducted  in two contexts (Polish 
+and British), allowing to increase  our findings ’ generalizability , but this  does not seem enough 
+to suggest that the obtained effects are universal . Future research should consider drawing 
+samples from different countries and cultural contexts to replicate these results.  Additionally, 
+despite establishing sample sizes based on power analysis, our research has some drawbacks. 
+Especially experiments should have used more appropriate estimates (i.e., from the research 
+on conspiracy theories exposure) than we used in this project (i.e., from the research on 
+coping and conspiracy beliefs).  Future research should be more careful with estimations and 
+effect sizes used in power analyses.  
+Moreover , we examined the effects of exposure to conspiracy theories  experimentally , 
+however, we did not examine if this translate d into conspiracy beliefs in the long term - future 
+studies might include more elaborated designs, including both exposure and beliefs, to 
+thoroughly investigate these issues.  Another interesting point would be to investigate the 
+effects of the constant, long -term exposure to conspiracy theories (which we can experience, 
+e.g., on the Internet). However, such studies should be conducted carefully, especially 
+regarding the ethical issues  it may raise . It is worth noting that the effects of the debriefings 
+should also be tested in the future. Studies showed that debriefings can be insufficient to 
+utterly eliminate the experimental creation of some beliefs (see Anderson et al., 1980). Thus, 
+future research should mea sure whether the effect of the experimental manipulation on 
+conspiracy beliefs holds after the debriefing in order to improve the efficiency of the 
+debriefing , if needed , and to ensure the well -being of the participants.  
+ Another point of caution should be made regarding the CLPM  we employed in Study 
+1. Although  it is a popular method for two -wave data analysis (Orth et al., 2021), it has also
+
+26 
+ 
+ been criticized, for example, for inadequate accounting for stable -trait-level associations, 
+potentially resulting in erroneous conclusions about the cross -lagged effects (Hamaker et al., 
+2015). For an adequate examination of causality, future studies should use three -wave 
+designs, in which the random intercept within the model can be included, address ing some of 
+the constraints of the CLPM  (Hamaker et al., 2015).   
+We believe that the role of  adherence and exposure to  conspiracy beliefs in intra -
+individual processes is an important issue that may help explain the nature of psychological 
+problems that many people are currently struggling with. Our research  suggest s the 
+detrimental consequences of conspiracy theories  and indicate s the necessity of discussing 
+potential ways to attenuate the harmful aftermath of conspiracies in the age of their 
+proliferation in the online world.
+
+27 
+ 
+ References  
+Abalakina -Paap, M., Stephan, W. G., Craig, T., & Gregory, W. L. (1999). Beliefs in 
+conspiracies. Political Psychology, 20 (3), 637 –647. https://doi.org/10.1111/0162 -
+895X.00160  
+Anderson, C. A., Lepper, M. R., & Ross, L. (1980). Perseverance of social theories: The role 
+of explanation in the persistence of discredited information. Journal of Personality 
+and Social Psychology, 39 (6), 1037 –1049. https://doi.org/10.1037/h0077720  
+Bagrowska, P., Pionke -Ubych, R., & Gawęda, Ł. (2022). Do emotional modulation induced 
+by social rejection or social inclusion influences paranoia -like thoughts? The 
+Autobiographical memory recall and Cyberball paradigms in two online studies. 
+Psychiatry Research Communications, 2 (4), Article 100087. 
+https://doi.org/10.1016/j.psycom.2022.100087  
+Bagrowska, P., Siepsiak, M., Nalberczak -Skóra, M., & Gawęda, Ł. (2023). Exacerbation of 
+paranoia -like thoughts following exposure to common misophonia trigger sounds  
+[Manuscript submitted for publication] . Institute of Psychology, Polish Academy of 
+Sciences.  
+Brotherton, R., French, C. C., & Pickering, A. D. (2013). Measuring belief in conspiracy 
+theories: The generic conspiracist beliefs scale. Frontiers in Psychology, 4 , Article 
+279. https://doi.org/10.3389/fpsyg.2013.00279  
+Cicero, D. C., & Kerns, J. G. (2011). Is paranoia a defence against or an expression of low 
+self–esteem? European Journal of Personality, 25 (5), 326 -335. 
+https://doi.org/10.1002/per.794  
+Cichocka, A., Marchlewska, M., & Golec de Zavala, A. (2016). Does self-love or self-hate 
+predict conspiracy beliefs? Narcissism, self-esteem, and the endorsement of
+
+28 
+ 
+ conspiracy theories. Social Psychological and Personality Science, 7 (2), 157 -166. 
+https://doi.org/10.1177/1948550615616170  
+Douglas, K. M., & Sutton, R. M. (2023). What are conspiracy theories? A definitional 
+approach to their correlates, consequences,  and communication. Annual Review of 
+Psychology, 74 , 271 –298. https://doi.org/10.1146/annur ev -psych -032420 -031329  
+Faul, F., Erdfelder, E., Buchner, A., & Lang, A. -G. (2009). Statistical power analyses using 
+G*power 3.1: Tests for correlation and regression analyses. Behavior Research 
+Methods, 41 (4), 1149 –1160. https://doi.org/10.3758/BRM.41.4.1149  
+Fournier, V., & Varet, F. (2023). Conspiracy beliefs and intention to use conventional, 
+complementary and alternative medicines: Two vignette studies. British Journal of 
+Health Psychology . Advance online publication. https://doi.org/10.1111/bjhp.12702  
+Freeman D. (2007). Suspicious minds: The psychology of persecutory delusions. Clinical 
+Psychology Review, 27 (4), 425 –457. https://doi.org/10.1016/j.cpr.2006.10.004  
+Freeman, D., Dunn, G., Murray, R. M., Evans, N., Lister, R., Antley, A., Slater, M., 
+Godlewska, B., Cornish, R., Williams, J., Di Simplicio, M., Igoumenou, A., 
+Brenneisen, R., Tunbridge, E. M., Harrison, P. J., Harmer, C. J., Cowen, P., & 
+Morrison, P. D. ( 2015). How cannabis causes paranoia: Using the intravenous 
+administration of∆ 9 -tetrahydrocannabinol (THC) to identify key cognitive 
+mechanisms leading to paranoia. Schizophrenia Bulletin, 41 (2), 391 -399. 
+https://doi.org/10.1093/schbul/sbu098  
+Freeman, D., Garety , P. A., Bebbington, P. E., Smith, B., Rollinson, R., Fowler, D., Kuipers, 
+E., Ray, K., & Dunn, G. (2005). Psychological investigation of the structure of 
+paranoia in a non -clinical population. The British Journal of Psychiatry, 186 (5), 427 –
+435. https://doi.org/10.1192/bjp.186.5.427
+
+29 
+ 
+ Freeman, D., Garety, P. A., Kuipers, E., Fowler, D., & Bebbington, P. E. (2002). A cognitive 
+model of persecutory delusions. The British Journal of Clinical Psychology, 41 (4), 
+331–347. https://doi.org/10.1348/014466502760387461  
+Freeman, D., Loe, B., Kingdon, D., Startup, H., Molodynski, A., Rosebrock, L., & Bird, J. 
+(2019). The revised Green et al., Paranoid Thoughts Scale (R -GPTS): Psychometric 
+properties, severity ranges, and clinical cut -offs. Psychological Medicine, 51 (2), 244 -
+253. https://doi.org/ 10.1017/S0033291719003155  
+Freeman, D., Pugh, K., Antley, A., Slater, M., Bebbington, P., Gittins, M., Dunn, G., Kuipers, 
+E., Fowler, D., & Garety, P. (2008). Virtual reality study of paranoid thinking in the 
+general population. The British Journal of Psychiatry, 192 (4), 258 –263. 
+https://doi.org/10.1192/bjp.bp.107.044677  
+Freeman, D., Pugh, K., Vorontsova, N., Antley, A., & Slater, M. (2010). Testing the 
+continuum of delusional beliefs: an experimental study using virtual reality. Journal of 
+Abnormal Psychology, 119 (1), 83 –92. https://doi.org/10.1037/a0017514  
+Fritz, M. S., & MacKinnon, D. P. (2007). Required sample size to detect the mediated effect. 
+Psychological Science, 18 (3), 233 -239. https://doi.org/10.1111/j.1467 -
+9280.2007.01882.x  
+Gkinopoulos, T., & Mari, S. (2023). How exposure to real conspiracy theories motivates 
+collective action and political engagement? Τhe moderating role of primed victimhood 
+and underlying emotional mechanisms in the case of 2018 bushfire in Attica. Journal 
+of Applied Social Psychology, 53 (1), 21 -38. https://doi.org/10.1111/jasp.12923  
+Górska, P., Marchlewska, M., Szczepańska, D., Molenda, Z., Michalski, P., & Furman, A. 
+(2023). A vicious circle? Longitudinal relationships between different modes of in -
+group identity and COVID -19 conspiracy thinking. The Journal of Social Psychology, 
+163(3), 877 -894. https://doi.org/10.1080/00224545.2022.2111250
+
+30 
+ 
+ Hamaker E. L., Kuiper R. M., Grasman R. (2015). A critique of the cross -lagged panel model. 
+Psychological Methods, 20 (1), 102 –116. https://doi.org/10.1037/a0038889  
+Hayes, A. F. (2021). Introduction to mediation, moderation, and conditional process 
+analysis: A regression -based approach  (3rd ed.). Guilford Press.  
+Imhoff, R., & Lamberty, P. (2018). How paranoid are conspiracy believers? Toward a more 
+fine‐grained understanding of the connect and disconnect between paranoia and belief 
+in conspiracy theories. European Journal of Social Psychology, 48 (7), 909 –926. 
+https://doi.org/10.1002/ejsp.2494  
+Jolley, D., & Douglas, K. M. (2014). The effects of anti -vaccine conspiracy theories on  
+vaccination intentions. PloS One, 9 (2), Article e89177. 
+https://doi.org/10.1371/journal.pone.0089177  
+Jolley, D., Meleady, R., & Douglas, K. M. (2020). Exposure to intergroup conspiracy  theories 
+promotes prejudice which spreads across groups. British Journal of Psychology, 
+111(1), 17 –35. https://doi.org/10.1111/bjop.12385  
+Kim, M., & Cao, X. (2016). The impact of exposure to media messages promoting 
+government conspiracy theories on distrust in the government: Evidence from a two-
+stage randomized experiment. International Journal Of Communication, 10 , Article 
+20. https://ijoc.org/index.php/ijoc/article/view/5127  
+Kofta, M., Soral, W., & Bilewicz, M. (2020). What breeds conspiracy antisemitism? The role 
+of political uncontrollability and uncertainty in the belief in Jewish conspiracy. 
+Journal of Personality and Social Psychology, 118 (5), 900 –918. 
+https://doi.org/10.1037/pspa0000183  
+Kowalski, J., Marchlewska, M., Molenda, Z., Górska, P., & Gawęda, Ł. (2020). Adherence to 
+safety and self -isolation guidelines, conspiracy and paranoia -like beliefs during
+
+31 
+ 
+ COVID -19 pandemic in Poland -associations and moderators. Psychiatry Research, 
+294, Article 113540. https://doi.org/10.1016/j.psychres.2020.113540  
+Kramer, R. M. (1998). Paranoid cognition in social systems: Thinking and acting in the 
+shadow of doubt. Personality and Social Psychology Review, 2 (4), 251 –275. 
+https://doi.org/10.1207/s15327957pspr0204_3  
+Kużelewska, E., & Tomaszuk, M. (2022). Rise of conspiracy theories in the pandemic times. 
+International Journal for the Semiotics of Law, 35 , 2373 -2389. 
+https://doi.org/10.1007/s11196 -022-09910 -9 
+Leone, L., Giacomantonio, M., & Lauriola, M. (2019). Moral foundations, worldviews, moral 
+absolutism and belief in conspiracy theories. International Journal of Psychology, 
+54(2), 197 –204. https://doi.org/10.1002/ijop.12459  
+Liekefett, L., Christ, O., & Becker, J. C. (2023). Can conspiracy beliefs be beneficial? 
+Longitudinal linkages between conspiracy beliefs, anxiety, uncertainty aversion, and 
+existential threat. Personality and Social Psychology Bulletin, 49 (2), 167 –179. 
+https://doi.org/10.1177/01461672211060965  
+Marchlewska, M., Cichocka, A., Łozowski, F., Górska, P., & Winiewski, M. (2019). In search 
+of an imaginary enemy: Catholic collective narcissism and the endorsement of gender 
+conspiracy beliefs. The Journal of Social Psychology, 159 (6), 766 –779. 
+https://doi.org/10.1080/00224 545.2019.1586637  
+Marchlewska, M., Green, R., Cichocka, A., Molenda, Z., & Douglas, K. (2022). From bad to 
+worse: Avoidance coping with stress increases conspiracy beliefs. British Journal of 
+Social Psychology, 61 (2), 532 -549. https://doi.org/10.1111/bjso.12494  
+Marinthe, G., Brown, G., Delouvée , S., & Jolley, D. (2020). Looking out for myself: 
+Exploring the relationship between conspiracy mentality, perceived personal risk, and
+
+32 
+ 
+ COVID‐19 prevention measures. British Journal of Health Psychology, 25 (4), 957 -
+980. https://doi.org/10.1111/bjhp.12449  
+Medland, H., De France, K., Hollenstein, T., Mussoff, D., & Koval, P. (2020). Regulating 
+emotion systems in everyday life: Reliability and validity of the RESS -EMA scale. 
+European Journal of Psychological Assessment, 36 (3), 437 –446. 
+https://doi.org/10.1027/1015 -5759/a000595  
+Molenda, Z., Marchlewska, M., Karakula, A., Szczepańska D., Rogoza, M., Green, R., Cislak, 
+A., & Douglas, K. M. (202 4). Coping strategies and belief in COVID -19 conspiracy 
+theories. British Journal of Social Psychology , 63(1), 319 -339. 
+https://doi.org/10.1111/bjso.12684  
+Molenda, Z., Marchlewska, M., Rogoza, M., & Szczepańska, D. (2023). Shake it off! 
+Adaptive coping with stress reduces national narcissism. British Journal of Social 
+Psychology, 62 (4), 1856 -1874. https://doi.org/10.1111/bjso.12660  
+Muse (2018). Thought contagion [Song]. On Simulation Theory . Warner Bros.  
+Muthén, L. K., & Muthén, B. O. (2017). Mplus user’s guide  (8th ed.). Muthén & Muthén. 
+https://www.statm odel.com/download/usersguide /MplusUserGuideVer_8.pdf  
+Natoli, E. E., & Marques, M. D. (2021). The antidepressant hoax: Conspiracy theories 
+decrease health‐seeking intentions. British Journal of Social Psychology, 60 (3), 902 -
+923. https://doi.org/10.1111/bjso.12426  
+Orth U., Clark D. A., Donnellan M. B., Robins R. W. (2021). Testing prospective effects in 
+longitudinal research: Comparing seven competing cross -lagged models. Journal of 
+Personality and Social Psychology, 120 (4), 1013 –1034. 
+https://doi.org/10.1037/pspp0000358
+
+33 
+ 
+ Selig, T., & Little, J. P. (2012). Autoregressive and cross -lagged panel analysis for 
+longitudinal data. In B. Laursen, T. Little, & N. A. Card (Eds.), Handbook of 
+developmental research methods (pp. 265 –278). Guilford Press.  
+Siwiak A., Szpitalak M., Polczyk R. (2019). Generic Conspiracist Beliefs Scale: Polish 
+adaptation of the method. Polish Psychological Bulletin, 50 (3), 259 -269. 
+https://doi.org/10.24425/ppb.2019.130699  
+Stasielowicz, L. (2022). Who believes in conspiracy theories? A meta -analysis on personality 
+correlates. Journal of Research in Personality, 98 , Article 104229.  
+https://doi.org/10.1016/j.jrp.2022.104229  
+Wabnegger, A., Potthoff, J., & Schienle , A. (2024). Believing in conspiracy theories: The role 
+of emotional granularity and maladaptive emotion regulation strategies. Applied 
+Cognitive Psychology, 38 (3), Article e4198. https://doi.org/10.1002/acp.4198  
+View publication stats

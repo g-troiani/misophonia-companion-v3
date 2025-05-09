@@ -1,0 +1,1215 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Journalofbehavior therapyandexperimental psychiatry
+ArticleTitle: Aneuropsychological studyofmisophonia
+ArticleAuthor: Abramovitch
+Vol:82Date:2024-03-01Pages:101897-
+ISSN-00057916; LCN-2004233041;
+Publisher: 2024-03-01
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+Available online 22 August 2023
+0005-7916/© 2023 Elsevier Ltd. All rights reserved.A neuropsychological study of misophonia 
+Amitai Abramovitch*, Tanya A. Herrera1, Joseph L. Etherton 
+Department of Psychology, Texas State University, San Marcos, TX, USA   
+ARTICLE INFO  
+Keywords: 
+Attention 
+Executive function 
+Selective sound sensitivity 
+Impulsivity 
+Comorbidity ABSTRACT  
+Background and objectives: Misophonia is a recently identified condition characterized by negative emotional 
+responsivity to certain types of sounds. Although progress has been made in understanding of neuronal, psy-
+chophysiological, and psychopathological mechanisms, important gaps in research remain, particularly insight 
+into cognitive function. Accordingly, we conducted the first neuropsychological examination of misophonia, 
+including clinical, diagnostic, and functional correlates. 
+Methods: A misophonia group (n 32) and a control group (n 64) were screened for comorbidities using a 
+formal semi-structured interview and completed a comprehensive neuropsychological battery and self-report 
+measures of depression, anxiety, stress, impulsivity, and functional impairment. 
+Results: The misophonia group significantly underperformed the control group on only 2 neuropsychological 
+outcomes involving verbal memory retrieval. Subscales of the Misophonia Questionaaire (MQ) were inversely 
+correlated only with measures of attention. The misophonia group reported significantly higher anxiety symp -
+toms, behavioral impulsivity, and functional impairments, and had numerically higher rates of ADHD and OCD. 
+Limitations: To facilitate comparability, in lieu of a formal diagnostic algorithm for misophonia, we used a 
+commonly used empirical definition for group allocation that has been utilized in numerous previous studies. 
+Conclusions: Misophonia was associated with a reduction in performance on a minority of cognitive tasks and a 
+modest increase in some psychological symptoms and comorbid conditions. Correlational data suggest that 
+difficulties with attention regulation and impulsivity may play a role in misophonia, albeit attention functions 
+were intact. Results should be interpreted with caution given the variability in diagnostic definitions, and more 
+research is needed to understand cognitive functioning under ‘cold ’ conditions in misophonia.   
+Misophonia is characterized by strong aversion to a range of pri-
+marily human-produced sounds, including those related to eating (e.g., 
+chewing, swallowing, slurping), nasal sounds (e.g., sniffing and 
+inhaling), rustling sounds (e.g., paper, plastic), and repetitive tapping (e. 
+g., pen clicking, foot tapping; Swedo et al., 2022 ; Swedo et al., 1989 ), 
+although misophonia triggers may also include sounds produced by 
+animals as well as some forms of visual movement, often termed miso-
+kinesia (Hansen, Leber, & Saygin, 2021 ). Despite the variability in the 
+type of trigger stimuli, misophonic responses to triggers involve a 
+similar pattern of aversive physiological reactions and intense negative 
+emotions including irritability, anxiety, and extreme anger (Edelstein, 
+Brang, Rouw, & Ramachandran, 2013 ; Ferrer-Torres & Gim˘enez-Llort, 
+2022 ). These may be accompanied by an impulsive behavioral response 
+(Potgieter et al., 2019 ) such as verbal aggression (Schroder, Vulink, & 
+Denys, 2013 ; Swedo et al., 2022 ); or by avoidance of the misophonic 
+trigger (Potgieter et al., 2019 ). Notably, the misophonic response may include physical aggression, although research indicates that these re-
+sponses are rather rare and more common in youth (Swedo et al., 2022 ). 
+In the two decades since the term misophonia was first coined by 
+Jastreboff and Jastreboff (2001) , researchers have reported that miso-
+phonia is likely associated with rigidity and with deficient emotion 
+regulation and impulse control (Cassiello-Robbins et al., 2020 ; Guetta, 
+Cassiello-Robbins, Trumbull, Anand, & Rosenthal, 2022 ), and that fea-
+tures of the stimuli such as volume are less important than the person ’s 
+attribution of meaning to the action and sound, particularly the 
+perception that the action and the sound produced are contextually 
+inappropriate (Cowan, Marks, & Pinto, 2022 ). However, research on 
+misophonia suffers from inconsistency across studies regarding core 
+features, mechanisms, comorbidity, and prevalence; in part because 
+formal diagnostic criteria for misophonia have not yet been established. 
+For example, published estimates of the prevalence of misophonia range 
+as widely as 5%–18% (Jakubovski, Müller, Kley, de Zwaan, & 
+*Corresponding author. Department of Psychology, Texas State University, 601 University Drive, San Marcos, TX, 78666, USA. 
+E-mail address: abramovitch@txstate.edu (A. Abramovitch).   
+1 Equal contribution to the first author. 
+Contents lists available at ScienceDirect 
+Journal of Behavior Therapy and Experimental Psychiatry 
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2ul�o|!
+https://doi.org/10.1016/j.jbtep.2023.101897 
+Received 28 March 2023; Received in revised form 9 July 2023; Accepted 16 August 2023
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+2Müller-Vahl, 2022 ; Kılıç, Oz, Avano ˚glu, & Aksoy, 2021 ; Vitoratou et al., 
+2023 ). As such, more research is needed to understand multiple aspects 
+of misophonia (Cowan et al., 2022 ; Frank, Roszyk, Hurley, & McKay, 
+2020 ). 
+Evidence suggests that the misophonic reaction involves fight-or- 
+flight sympathetic nervous system activation, and hyperactivity in the 
+limbic system, particularly the amygdala (Edelstein et al., 2013 ; Kumar 
+et al., 2017 ). Indeed, the intense aversiveness of the misophonic sounds 
+and associated emotional response often leads to broad avoidance of 
+situations in which the triggering sounds are likely to be encountered, 
+such as dinner with family and going out to restaurants or movie the-
+aters, or excessively using headphones to avoid trigger sounds. Such 
+behaviors may significantly impair family and social functioning (Pot-
+gieter et al., 2019 ; Schroder et al., 2013 ). 
+Initially, Jastreboff and Jastreboff (2014) suggested that misophonia 
+is not associated with psychopathology. However, in light of accumu -
+lating research, it is becoming increasingly clear that the condition is 
+associated with elevated anxiety and stress symptoms and increased 
+comorbidity with DSM disorders including anxiety disorders, mood 
+disorders, personality disorders, obsessive compulsive-related disorders, 
+post-traumatic stress disorder (PTSD), autism spectrum disorder, and 
+attention deficit hyperactivity disorder (ADHD; Erfanian, Kartsonaki, & 
+Keshavarz, 2019 ; Potgieter et al., 2019 ; Swedo et al., 2022 ). Although 
+the lack of formal diagnostic criteria for misophonia precludes reliably 
+characterizing comorbidity, it is clear from studies that use a range of 
+criteria that misophonia frequently co-occurs with other clinically sig-
+nificant psychological symptoms and disorders. For example, some 
+studies report that more than half of their misophonia sample met 
+criteria for obsessive-compulsive personality disorder (OCPD, 54.4%; 
+Schroder et al., 2013 ) which was considered by the authors as a risk 
+factor for misophonia. They also speculated that ADHD (4.8%) may be 
+related to misophonia due to distractibility and attentional shifts be-
+tween visual and auditory cues (Schroder et al., 2013 ). Other studies 
+found elevated comorbidity with OCD (15%), PTSD (15%) MDD (10%; 
+Erfanian et al., 2019 ), and anxiety disorders (33%; Cassiello-Robbins 
+et al., 2021 ). 
+1.Cognitive function in misophonia 
+Very little is known about cognitive functioning in misophonia, as 
+few studies have been published to date (Daniels, Rodriguez, & Zabe-
+lina, 2020 ; Eijsker, Schroder, Smit, van Wingen, & Denys, 2019 ; Frank 
+et al., 2020 ). However, in examining cognitive functioning in miso-
+phonia, it is important to recognize that the misophonic reactions and 
+responses that may affect cognitive functioning occur in specific con-
+texts. To that end it is useful to distinguish between ‘cold ’ cognitive 
+functioning, which occurs under emotionally neutral conditions; and 
+‘hot’ cognitive functioning, which occurs in response to emotionally 
+charged conditions or stimuli. In a study of ‘hot’ cognitive functioning in 
+misophonia using the Stroop paradigm, Daniels et al. (2020) found a 
+larger Stroop effect among misophonia participants when continuous 
+misophonic trigger sounds were played. Similarly, attention-related task 
+performance was worse during misophonic provocation (Daniels et al., 
+2020 ; Eijsker et al., 2019 ; Frank et al., 2020 ; Simner, Koursarou, Rinaldi, 
+& Ward, 2021 ). Another study that used a dichotic listening task re-
+ported that individuals with misophonia were significantly less accurate 
+in identifying sentences while listening to misophonia trigger sounds (da 
+Silva & Sanchez, 2019 ). 
+To our knowledge only two studies have examined ‘cold ’ cognitive 
+functioning in misophonia (i.e., cognitive functioning in the absence of 
+misophonic provocation), neither of which found any performance dif-
+ference between misophonia and control samples. Simner et al. (2021) 
+found no differences in visual attention performance on an embedded 
+figures attention task. Similarly, no misophonia-related deficits were 
+observed on the Stop Signal Task, a measure of inhibitory functioning, 
+when administered without misophonic provocation (Eijsker et al., 2019 ). Given the limited research to date in this area, the aim of the 
+present study was to conduct a neuropsychological examination of 
+misophonia, focusing on cold cognitive functioning. However, the 
+absence of information about cold cognitive functioning in misophonia 
+makes it difficult to draw clear directional hypotheses, particularly 
+given that misophonia may not disrupt cognition outside the context of 
+responding to provocation, and so any cognitive deficits may be 
+observed primarily during exposure to misophonic trigger sounds. The 
+aim of the present study is to provide comprehensive information 
+regarding cognitive functioning without misophonic symptom provo -
+cation, clinical and diagnostic status, and their association in misopho -
+nia compared to a control group. 
+2.Methods 
+2.1. Participants 
+The final sample of ninety-six participants was drawn from a larger 
+sample (N 275) that was part of a large neuropsychological study at a 
+university in the southwestern United States. Participants were recruited 
+via flyers and recruitment emails distributed to students. Inclusion 
+criteria included minimum age of 18, normal or corrected vision, and 
+fluency in English. Exclusion criteria included age F65 or any history of 
+major neurological conditions (e.g., epilepsy, brain injury). Participants 
+were asked to avoid recreational drugs, prescription benzodiazepines, 
+stimulant medications, or more than two alcoholic drinks in the 24 h 
+prior to the experiment. The overall study sample consisted of 67 fe-
+males (69.8%) and 29 males (30.2%) with an average age of 20.91 (SD 
+2.87). The sample was ethnically diverse (See Table 1.). Because there 
+are no formal diagnostic criteria for misophonia, we used the Miso-
+phonia Questionnaire (MQ; Wu, Lewin, Murphy, & Storch, 2014 ) to 
+establish the misophonia and control groups. The MQ is among the most 
+frequently used measures of misophonia (Rosenthal et al., 2021 ). The 
+MQ guidelines suggest that a score of 7 or higher on the single item 
+sound sensitivity severity scale is the optimal cutoff for identifying 
+misophonia; this recommended cutoff has been used in numerous pre-
+vious misophonia studies (e.g., Frank et al., 2020 ; Grossini et al., 2022 ; 
+Guetta, Cassiello-Robbins, Trumbull, et al., 2022 ; McKay, Kim, Mancusi, 
+Storch, & Spankovich, 2018 ; Schadegg, Clark, & Dixon, 2021 ; Zhou, Wu, 
+& Storch, 2017 ). Following this recommendation, the misophonia group 
+(n 32) consisted of participants that scored ≽7 on the MQ sound 
+sensitivity item, and the control sample (n 64) included participants 
+whose score was in the sample ’s lowest quartile on this item. Notably, as 
+presented in the results section, the mean MQ subscale and total scores 
+found in the present study were remarkably similar to scores found in 
+previous studies, which facilitates comparability with the results of the 
+present work. See Table 1 for demographic information. 
+2.2. Materials 
+2.2.1. Clinical measures 
+Mini-International Neuropsychiatric Interview 7.0 (MINI; Sheehan 
+et al., 1998 ). The MINI is a valid and reliable semi-structured screening 
+interview for primary DSM-5 disorders. The MINI 7.0 has demonstrated 
+good psychometric properties (Sheehan et al., 1998 ). 
+Depression, Stress, Anxiety Scale-21 (DASS-21; Lovibond & Lovi-
+bond, 1995 ). The DASS-21 is a self-report questionnaire that assesses the 
+severity of depression, anxiety, and stress symptoms in the past week. 
+Each item is scored from 0 – “did not apply to me at all” to 3 – “applied to 
+me very much or most of the time”. The DASS-21 demonstrates very good 
+psychometric properties (Lovibond & Lovibond, 1995 ), including in 
+clinical (Clara, Cox, & Enns, 2001 ) and non-clinical samples (Sinclair 
+et al., 2012 ). In the present study, good to excellent reliability was found 
+(Cronbach ’s α 0.92, 0.74, and 0.83, for the depression, anxiety, and 
+stress subscales respectively). 
+Six Item-State Trait Anxiety Inventory (STAI-6; Marteau & Bekker, A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+31992 ). The STAI-6 is a 6-item short-form self-report questionnaire 
+adapted from the State-Trait Anxiety Inventory. The STAI-6 demon -
+strates good internal consistency in clinical and non-clinical samples (α 
+0.82; Marteau & Bekker, 1992 ), as well as in the present study (α 
+0.86). 
+The Eysenck Impulsiveness-Venturesomeness-Empathy Question -
+naire (I-7; Eysenck, Pearson, Easting, & Allsopp, 1985 ) The I-7 is a 
+54-item self-report questionnaire that utilizes a “yes or no” format and 
+that includes three subscales: Impulsiveness, Venturesomeness (i.e., risk 
+taking), and Empathy. The measure demonstrates good psychometric 
+properties in non-clinical samples including good internal consistency 
+(α 0.83; Eysenck et al., 1985 ). The outcome of interest in the present 
+study was the I-7 Impulsiveness subscale score for which good internal 
+consistency was found (α 0.83). 
+Barkley Functional Impairment Scale (BFIS; Barkley, 2011 ). The 
+15-item BFIS assesses functional impairment in multiple domains of 
+everyday life (e.g., school/work, social). The BFIS demonstrates good 
+psychometric properties (Barkley, 2011 ). Due to a technical error only 
+the first 10 BFIS items were administered. However, the BFIS manual 
+indicates that the measure was developed to allow utilizing each indi-
+vidual item as a standalone functional construct and provides itemized 
+norms. Thus, each item was used as a domain indicator and no summary 
+score was computed. 
+Misophonia Questionnaire (MQ; Wu et al., 2014 ). The MQ consists of 17 items and comprises three subscales: MQ-1, assessing types and 
+degree of sensitivity to trigger sounds; MQ-2, assessing the misophonic 
+behavioral response; and MQ-3, assessing severity of sound sensitivity. A 
+score of 7 or higher on the sound sensitivity subscale (MQ-3) indicates 
+clinically significant misophonia. This cutoff has been used in several 
+previous misophonia studies (e.g., Guetta, Cassiello-Robbins, Trumbull, 
+et al., 2022 ; Schadegg et al., 2021 ). The MQ demonstrates good psy-
+chometric properties in non-clinical samples (Wu et al., 2014 ), as well as 
+in the present study (α 0.83). 
+2.2.2. Neuropsychological measures 
+2.2.2.1. Executive functions. The Trail Making Test, Part B (TMB; Delis, 
+Kaplan, & Kramer, 2001 ). The TMB is a subtest of the Trail Making Test 
+that assesses attentional set shifting in the graphomotor modality. Par-
+ticipants are instructed to draw a line connecting circled numbers and 
+letters while alternating between numbers and letters in ascending 
+order. The TMB ’s primary outcome measure is time to completion. 
+The Wisconsin Card Sorting Test (WCST; Loong, 1990 ) is a well-known 
+executive function test that assesses set shifting, concept formation, and 
+utilization of feedback. A computerized version of the WCST was used in 
+the present study. Outcomes of interest were percent perseverative er-
+rors and the number of categories completed. 
+The Tower of London (TOL; Shallice, 1982 ) assesses planning ability 
+and problem-solving skills. This task requires participants to move beads 
+to match model goal arrangements while following specific rules. A 
+computerized version of the TOL was used. The total number of excess 
+moves beyond the minimum required to complete all models was used as 
+the outcome measure. 
+Verbal Fluency (VF; Delis et al., 2001 ) includes two subtests, one of 
+which involves phonemic/letter fluency and another involving cat-
+egory/semantic fluency. The total number of words in each subtest was 
+the outcome measure of interest. 
+The Symbol Span Test (Wechsler, 2009 ) is a subtest of the Wechsler 
+Memory Scale – IV (WMS-IV; Wechsler, 2009 ) that assesses visual 
+working memory. Visual figures of various shapes are presented on a 
+page, after which participants are presented with a recognition page that 
+includes both target and distractor shapes. Examinees are to select the 
+items that were previously viewed in the same sequence in which they 
+had been presented. The outcome measure was total points earned. 
+The Digit Span task (DS) is a subtest of the Wechsler Adult Intelli -
+gence Scale-IV (WAIS-IV; Wechsler, 2008 ) that assesses verbal working 
+memory. The DS test includes 3 subtests, all of which involve hearing 
+and recalling digit sequences of increasing length. DS Forward requires 
+repeating digits in the same order they were presented, DS backward 
+involves repeating digits in reverse order from their presentation, and 
+DS sequencing requires that digits be recalled in ascending order. In the 
+present study the DS subtests and the overall DS total score were used as 
+outcome measures of working memory. 
+The Conners ’ Continuous Performance Test – 3rd Edition (CPT-III; 
+Conners, 2014 ) is a continuous performance test that evaluates atten -
+tion, as well as processing speed and response inhibition. The number of 
+commission errors serves as an indicator of response inhibition, with 
+more commission errors reflecting worse response inhibition. 
+2.2.2.2. Memory. The Rey-Osterrieth Complex Figure Test (RCFT; Oster -
+rieth, 1944 ) assesses visuospatial memory. In the present study, short 
+delay (3 min), and long delay recall (30 min) were used as outcome 
+measures. 
+The California Verbal Learning Test (CVLT; Delis, Kramer, Kaplan, & 
+Ober, 2000 ) is a word list-based auditory-verbal memory task that as-
+sesses immediate and delayed verbal memory. The outcome measures 
+used in the present study were the total number of words recalled 
+correctly in both the short and long delay, and the cumulative number of 
+words correctly recalled on trials 1–5. Table 1 
+Demographic and clinical characteristics of control/misophonia groups.   
+Misophonia (n 
+32) Control (n 
+64) F/X2 Sig. 
+Mean (SD)/%(n)  
+Sex   2.47 0.11 
+Female 59.40% (19) 75.00% 
+(48)   
+Male 40.60% (13) 25.00% 
+(16)   
+Age 21.06 (2.45) 20.83 
+(3.07) 0.14 0.71 
+Education (years) 15.03 (1.12) 15.05 
+(1.83) 0.00 0.97 
+Ethnicity   2.47 0.48 
+Hispanic 28.10% (9) 35.90% 
+(23)   
+Non-Hispanic 62.50% (20) 57.80% 
+(37)   
+Other 6.30% (2) 6.30% (4)   
+Race   5.05 0.41 
+American Indian/Alaskan 
+Native 3.20% (1) 0% (0)   
+Black American 12.90% (4) 15.60% 
+(10)   
+Asian American 16.10% (5) 6.30% (4)   
+Native Hawaiian/Other 
+Pacific Islander 
+American 0.00% (0) 1.60% (1)   
+White American 38.70% (12) 45.30% 
+(29)   
+Hispanic/Latino American 29.00% (9) 31.30% 
+(20)   
+MQ 
+MQ-1 (trigger) 16.91 (7.13) 8.83 (6.19) 32.64 0.001 
+MQ-2 (reaction) 18.63 (8.86) 6.90 (5.88) 56.62 0.001 
+MQ-3 (severity) 9.09 (2.09) 2.25 (0.80) 321.40 D0.001 
+DASS-21 
+DASS-21 Depression 4.48 (5.15) 3.36 (4.01) 1.32 0.25 
+DASS-21 Anxiety 4.58 (3.40) 2.90 (2.87) 4.39 0.01 
+DASS-21 Stress 5.35 (3.83) 3.80 (3.70) 3.62 0.06 
+I-7 Impulsivity 10.06 (3.32) 7.71 (3.25) 10.70 0.002 
+STAI-State 11.87 (4.40) 9.56 (3.02) 6.93 0.01 
+Note. MQ Misophonia questionnaire; DASS-21 Depression, Anxiety and 
+Stress Scale-21; I-7 Eysenck Impulsiveness and Venturesomeness Question -
+naire; STAI-State Six Item-State Trait Anxiety Inventory. A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+42.2.2.3. Attention. The CPT-III (Conners, 2014 ) hit reaction time stan-
+dard deviation (HRTSD) and omission errors were used as outcome 
+measures to assess attention function. The number of omission errors 
+reflects vigilance-related attention, with fewer omission errors indi-
+cating better attention. 
+2.2.2.4. Processing speed. The CPT-III (Conners, 2014 ) average hit re-
+action time (HRT) in milliseconds for ‘go’ stimuli was used to assess 
+processing speed. 
+The Trail Making Test, part A (TMA; Delis et al., 2001 ) is a graph -
+omotor task that involves drawing lines between numbered circles in 
+ascending order. The TMA was used to assess processing speed as a 
+function of completion time in seconds. 
+2.2.2.5. Visuospatial function. The RCFT (Osterrieth, 1944 ) copy trial 
+score was used as a measure of visuospatial function. 
+2.3. Procedure 
+Graduate student research assistants (RAs) underwent rigorous 
+training conducted by the first and last authors, both experienced neu-
+ropsychologists. Training included hands-on instructional training, 
+multiple mock administrations of the neuropsychological battery and 
+the MINI, examination of video recordings, as well as one-on-one in- 
+person evaluations. At the end of each study session, RAs would score all 
+measures and tests. Subsequently, to minimize errors, a dedicated data 
+manager carefully reviewed all scoring for all participants prior to data 
+entry. All participants were requested to avoid taking any stimulant 
+medications, sedatives, or to consume more than two alcoholic drinks 
+24 h prior to the time of assessment. Participants were seen individually 
+in a quiet lab room, and after signing an informed consent, completed 
+the MINI clinical interview, followed by the neuropsychological battery 
+and the self-report questionnaires, the order of which was counter -
+balanced. Self-report questionnaires were completed in the lab online 
+via the Qualtrics secured online platform. Each session took ~3.5 h on 
+average, including a 10-min break. All computerized tests and ques-
+tionnaires were administered on identical laptops designated for the 
+study. This study was approved by the Texas State University Institu -
+tional Review Board according to the declaration of Helsinki. 
+2.4. Analytic plan 
+Statistical analyses were conducted using IBM SPSS v.27.0 (2020 ). 
+Nominal demographic variables were analyzed using Pearson ’s Х2 tests 
+(Fishers Exact Test correction was applied as needed), whereas group 
+differences in continuous variables were assessed using analysis of 
+variance (ANOVA). In cases of violations of homogeneity of variance, 
+the Welch ’s statistic of robust test for equality of means was employed if 
+needed (Welch, 1938 ) to maintain power while maintaining alpha at the 
+desired level (Glantz & Slinker, 2001 ). Pearson zero-order correlations 
+were used to assess associations between symptoms and neuropsycho -
+logical outcomes. A clinical neuropsychological study was never con-
+ducted before in misophonia and thus this report meets formal 
+definitions of a pilot study (Everitt, 2021 ). Furthermore, since there are 
+no previous published neuropsychological data on misophonia, and thus 
+effect size estimation is not obtainable, power calculation was not per-
+formed for the present investigation. However, our sample size (n 96) 
+is much larger than the average sample size in non-pilot neuropsycho -
+logical studies (Mean n 53; Bezeau & Graves, 2001 ). Furthermore, 
+even though this is a pilot study, with a relatively large sample, we took 
+a conservative approach to avoid familywise inflation of type I error and 
+employed correction for multiple comparisons using the 
+Holm-Bonferroni method (Holm, 1979 ). Effect size magnitude was 
+interpreted based on Cohen ’s d (2013 ) where small, medium, and large 
+effect sizes correspond to 0.2, 0.5, and 0.8, respectively. Additionally, all comparative analyses of neuropsychological outcomes were conducted 
+on raw test scores. However, to facilitate interpretation of the test re-
+sults, mean and standard deviations are also presented in standardized Z 
+scores produced via test norms (see supplementary materials Table S1). 
+3.Results 
+3.1. Demographic and clinical variables 
+No significant group differences were found in age, education, 
+gender, race, or ethnicity (Table 1.). The total study sample was char-
+acterized by a plurality of females (69.8%) which was more pronounced 
+in the control group (75%) but with no significant group difference. The 
+samples were ethnically and racially diverse with a numerical minority 
+of participants identifying as White American (42.70%). As expected, 
+the misophonia group scored significantly higher on all the MQ sub-
+scores with very large effect sizes including on the intensity of range of 
+trigger sounds (MQ-1, d 1.25), types and frequency of misophonic 
+reaction (MQ-2, d 1.42), and overall severity of sound sensitivity (MQ- 
+3, d 3.92) . Notably, the MQ mean sub-scores for both the misophonia 
+and controls groups were found to be remarkably similar to those found 
+in a number of previous studies (Frank et al., 2020 ; Grossini et al., 2022 ; 
+McKay et al., 2018 ; Wu et al., 2014 ; Zhou et al., 2017 ). The misophonia 
+group also presented with significantly higher levels of general anxiety 
+as measured by the DASS-21 Anxiety (d 0.5), state-anxiety as 
+measured by the STAI-6 (d 0.62), and impulsivity (d 0.71) as 
+measured by the I-7. No significant group differences were found for 
+depression and stress symptoms as measured by the DASS-21 although 
+numerically the misophonia group scored higher than controls on the 
+DASS-21 Depression (d 0.22) and Stress (d 0.41) scales (see Table 1). 
+3.2. Neuropsychological test performance 
+Group comparisons on all neuropsychological outcomes are pre-
+sented in Table 2 by neuropsychological domains and subdomains. See 
+standard Z scores computed using test norms in supplementary materials 
+(Table S1.). For a graphic depiction see Fig. 1. 
+3.2.1. Executive function 
+No significant group differences were found on tests assessing set 
+shifting (d range 0.27 –0.36), planning (d 0.16), working memory (d 
+range 0.02 –0.33), or response inhibition (d 0.02). On tests of verbal 
+fluency, although there was no significant difference on the letter 
+fluency score (d 0.02), a significant difference that survived multi -
+plicity correction was found for category/semantic fluency (d 0.47). 
+Overall, a significant difference was found only on 1 out 12 executive 
+function outcome measures. 
+3.2.2. Memory 
+No significant group differences were found on non-verbal memory 
+performance as measured by the RCFT including the immediate (d 
+0.20) and delayed memory (d 0.30) trials, both of which showed small 
+effect sizes (see Table 2). In contrast, a significant group difference was 
+found on the CVLT short delay recall on which the misophonia sample 
+underperformed (d 0.63). This comparison survived correction for 
+multiple comparisons . No significant differences were found for the 
+CVLT sum of trials 1–5 or long delay recall. However, although not 
+significant, small effect sizes favoring performance in the control group 
+were found (d’s 0.37 and 0.44 respectively). 
+3.2.3. Processing speed 
+No significant group differences were found on the TMA (d 0.31), 
+or the CPT-III task HRT (d 0.23). 
+3.2.4. Attention 
+No significant group differences were found in the number of CPT-III A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+5omission errors (d 0.01) or HRTSD (d 0.21). 
+3.2.5. Visuospatial function 
+Finally, there was no significant difference on the RCFT copy trial 
+between the misophonia and control groups (d 0.38). 
+3.3. Comorbidity 
+A series of Pearson ’s Х2 tests were conducted to compare the groups 
+on DSM disorders as established via the MINI interview (see Table 3). 
+The groups did not differ significantly on the overall percent of partic -
+ipants meeting criteria for any DSM-5 disorder. However, although not 
+statistically significant, the prevalence of OCD in the misophonia group 
+(9.4%), was threefold higher than in the control group (3.1%). Similarly, 
+within the misophonia group, the prevalence of ADHD (15.6%), any 
+eating disorders (6.30%) and panic disorder (6.3%), was higher than the 
+prevalence in the general population, and nearly twice that of the con-
+trol group (ADHD, 9.4%; eating disorders, 3.1%, panic disorder 3.1%). 
+3.4. Functional indices 
+A series of ANOVAs was conducted to assess group differences in the 
+BFIS functional indices (see Table 4). Self-reported functional impair -
+ment scores were significantly higher for the misophonia group on 
+functional domains including home-chores (d 0.47), money manage -
+ment (d 0.61), and driving, (d 0.58) with small to medium effect 
+sizes. In addition, the misophonia group scored significantly higher than 
+controls on the BFIS total mean score (Total Mean Impairment; d 
+0.53). Group comparisons on the mean percent impaired domains (i.e., 
+the average percent of domains scores that met the test’s cutoff scores 
+for impairment in each domain, across participants) indicated a signif -
+icantly larger percent of impaired domains (d 0.64) in the misophonia 
+group (27%) compared to the control group (11%). No significant dif-
+ferences were found in any other BFIS domains. Nevertheless, numeri -
+cally across domains, all BFIS functional domain outcomes exemplified 
+worse functioning in the misophonia group. Notably, all mean domain 
+scores within the two groups did not cross the BFIS normative cutoff 
+scores to indicate a meaningful functional impairment (Barkley, 2011 ). 
+3.5. Correlations between neuropsychological and misophonia outcomes 
+Pearson ’s zero-order correlations were computed between neuro -
+psychological outcomes and the MQ subscale scores within the miso-
+phonia group, most of which were not significant (see Table 5). 
+However, four of the correlations were significant. CPT-III number of 
+omission errors (sustained attention) was significantly correlated with 
+the MQ-1 (types and severity of misophonia triggers; r 0.41, p 
+0.019), with the MQ-2 (types and severity of the misophonic reaction; r 
+0.42, p 0.022), and with the total MQ score (r 0.42, p 0.022). 
+Digit Span forward (working memory) was significantly negatively 
+correlated only with the MQ-3 score (sound sensitivity; r -0.42, p 
+0.018). These correlations survived multiplicity corrections. No other 
+significant correlations were identified. 
+3.6. Correlations between clinical symptoms and misophonia severity 
+Correlations between general clinical symptoms and misophonia 
+symptoms were examined separately for the misophonia and control 
+groups. Correlations were computed between measures of anxiety, Table 2 
+Neuropsychological test performance across misophonia and control groups.   
+Misophonia M 
+(SD) Control M 
+(SD) F Sig. Cohen ’s 
+d 
+Set shifting 
+Trail Making B 80.00 (23.25) 69.86 
+(32.91) 2.43 0.12 0.36 
+WCST Preservative 
+Errors 10.25 (6.05) 8.63 
+(4.54) 2.14 0.15 0.30 
+WCST Categories 
+Completed 5.44 (1.52) 5.77 
+(0.88) 1.34 0.25 0.27  
+Planning 
+TOL Excess Moves 6.91 (7.69) 5.80 
+(6.60) 0.52 0.47 0.16  
+Working Memory 
+DS Forward 11.28 (2.08) 10.59 
+(2.07) 2.35 0.13 0.33 
+DS Backward 9.09 (2.52) 9.25 
+(1.96) 0.11 0.74 0.07 
+DS Sequencing 8.91 (2.31) 9.52 
+(2.40) 1.41 0.24 0.26 
+DS Total 29.19 (5.23) 29.31 
+(5.15) 0.01 0.91 0.02 
+Symbol Span Total 29.03 (6.53) 28.92 
+(6.02) 0.01 0.94 0.02  
+Verbal Fluency 
+Letter Total 38.63 (7.11) 40.02 
+(10.44) 0.59 0.45 0.16 
+Category Total 39.38 (5.10) 42.61 
+(8.38) 5.48 0.02* 0.47  
+Response Inhibition 
+CPT Commission 
+Errors 50.13 (7.28) 50.30 
+(9.51) 0.01 0.93 0.02  
+Verbal Memory 
+CVLT Short Delay 
+Recall 10.59 (3.33) 12.34 
+(2.13) 7.34 0.01* 0.63 
+CVLT Sum of Trials 
+1–5 52.28 (9.52) 55.56 
+(8.10) 3.11 0.08 0.37 
+CVLT Long Delay 
+Recall 11.69 (3.01) 12.84 
+(2.15) 3.76 0.06 0.44  
+Non-verbal Memory 
+RCFT Immediate 21.91 (5.62) 23.19 
+(7.05) 0.80 0.37 0.20 
+RCFT Delayed 20.97 (5.45) 22.83 
+(6.90) 1.77 0.19 0.30  
+Processing Speed 
+Trail Making A 26.72 (8.51) 24.25 
+(7.24) 2.21 0.14 0.31 
+CPT Mean RT1 49.62 (7.68) 47.54 
+(10.41) 1.00 0.32 0.23  
+Attention 
+CPT Omission 
+Errors1 48.84 (8.76) 48.73 
+(8.66) 0.00 0.95 0.01 
+CPT RT SD1 49.09 (8.00) 47.13 
+(10.32) 0.89 0.35 0.21  
+Visuospatial Function 
+RCFT Copy 34.11 (2.87) 34.95 
+(1.24) 2.52 0.12 0.38 Note. Analyses were conducted on raw scores; 1 outcome measure analyses 
+were conducted using t-scores. WCSTWisconsin Card Sorting Test; TOL 
+Tower of London; DSWAIS Digit Span; CVLTCalifornia-Verbal Learning Test 
+II; CPTConners ’ Continuous Performance Test III; RCFT Rey Complex 
+Figure Test; RT Reaction time; SDStandard Deviation. * significant dif-
+ference that survived multiplicity correction. A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+6depression, stress, and impulsivity, and the three subscale scores of the 
+MQ (see Table 6). Neither DASS-21 Depression nor DASS-21 Anxiety 
+were significantly correlated with any MQ variables for either group. No 
+significant correlations were observed between the STAI-6 (state anxi-
+ety) and any of the MQ subtests for either group. 
+Within the misophonia group, however, impulsivity (I-7) was found 
+to be significantly and positively correlated with the MQ-2 subscale 
+score (misophonic response; r 0.45, p 0.01), and MQ-3 (single item 
+sound sensitivity/severity score; r 0.45, p 0.01), as well as MQ Total 
+(r 0.48, p 0.009). No significant correlation was found between I-7 
+Impulsivity and MQ-1 (types and severity of misophonic trigger sounds). 
+Within the control group, significant positive correlations were found 
+between the DASS-21 Stress subscale and the MQ-1 (r 0.36, p 
+0.004), and MQ Total (r 0.33, p 0.01). No significant associations 
+were found between the DASS-21 Stress and MQ subscales for the 
+misophonia sample. 
+4.Discussion 
+The present study is the first examination of neuropsychological functions in misophonia, as well as potential clinical and functional 
+correlates. 
+4.1. Neuropsychological test performance 
+The misophonia group performed similarly to the control group on 
+nearly all neuropsychological tests (albeit numerically demonstrated 
+generally lower performance), with only two outcome variables that 
+differed significantly, both of which substantially involve verbal mem-
+ory retrieval: Semantic (category) fluency, and CVLT short-delay free 
+recall. Specifically, the misophonia group significantly underperformed 
+on the CVLT short delay recall trial, with medium effect size (d 0.63) 
+which substantially involves verbal memory retrieval processes. In 
+addition, albeit not statistically significant, we found further indications 
+of poorer verbal memory functioning in the misophonia group [CVLT 
+number of words on trials 1–5 (d 0.37, p 0.08); CVLT long delay 
+recall (d 0.44, p 0.06)]. Although verbal fluency tasks are often 
+considered tests of executive functions, research suggests that phonemic 
+(letter) fluency is a true executive function whereas semantic (category) 
+fluency reflects verbal memory retrieval processes more than executive 
+Fig. 1.Neuropsychological domains Cohen ’s d effect sizes exemplifying underperformance within the misophonia group.  
+Table 3 
+Prevalence of current DSM disorders in the misophonia and control groups.   
+Misophonia (n 
+32) Control (n 
+64) X2 Sig. 
+Major Depressive Disorder 3.10% (1) 7.80% (5) 0.80 0.66 
+Social Anxiety Disorder 3.10% (1) 3.10% (2) 0.00 1.00 
+Generalized Anxiety 
+Disorder 3.10% (1) 4.70% (3) 0.13 1.00 
+Panic Disorder 6.30% (2) 3.10% (2) 0.55 0.60 
+Agoraphobia 3.20% (1) 3.20% (2) 0.00 1.00 
+Post-Traumatic Stress 
+Disorder 3.10% (1) 1.60% (1) 0.26 1.00 
+Obsessive-Compulsive 
+Disorder 9.40% (3) 3.10% (2) 1.69 0.33 
+Anorexia Nervosa 3.10% (1) 0.00% (0) 2.02 0.33 
+Bulimia Nervosa 3.10% (1) 3.10% (2) 0.00 1.00 
+Binge Eating Disorder 3.10% (1) 0.00% (0) 2.02 0.33 
+ADHD 15.60% (5) 9.40% (6) 0.82 0.50 
+Substance Abuse Disorder 9.40%. (3) 7.80% (5) 0.07 1.00 
+Any Anxiety Related 
+Disorder 18.80% (6) 15.60% (10) 0.15 0.74 
+Any Eating Disorder 6.30% (2) 3.10% (2) 0.52 0.60 
+Any Current Disorder 31.30% (10) 34.40% (22) 0.72 0.46 
+Note. ADHD Attention-Deficit Hyperactivity Disorder. Table 4 
+Barkley ’s Functional Impairment domains in misophonia and control groups.   
+Misophonia (n 
+32) Control (n 
+64)    
+Variable Mean (SD) F Sig. Cohen ’s 
+d 
+Home-family 2.52 (2.86) 1.58 (2.11) 2.63 0.11 0.37 
+Home-chores 3.16 (3.08) 1.94 (1.98) 4.08 0.049 0.47 
+Work 2.29 (2.98) 1.64 (2.03) 1.20 0.28 0.25 
+Social - strangers 3.45 (3.05) 2.67 (2.40) 1.56 0.22 0.28 
+Social - friends 2.29 (2.44) 1.58 (1.83) 2.08 0.16 0.33 
+Community 
+Activities 2.13 (2.64) 1.77 (2.05) 0.45 0.50 0.15 
+Education 3.77 (3.14) 2.73 (2.28) 2.71 0.11 0.38 
+Marriage/ 
+cohabitation 2.45 (3.15) 1.72 (2.59) 1.26 0.27 0.25 
+Money- 
+management 4.65 (3.06) 2.95 (2.50) 8.23 0.01 0.61 
+Driving 2.06 (2.54) 0.78 (1.79) 6.38 0.02 0.58 
+Total Mean 
+Impairment 3.11 (2.23) 2.14 (1.36) 5.03 0.03 0.53 
+Percent Domains 
+Impaired 26.58% (29.62) 11.29% 
+(15.91) 7.25 0.01 0.64  A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+7processes (Bieling, Israeli, & Antony, 2004 ). Indeed, imaging studies 
+reveal that semantic verbal fluency is associated with the activation of 
+left temporal regions, which are associated with verbal memory 
+retrieval, whereas prefrontal cortex activation, which has been more 
+closely linked with executive functions, is associated in phonemic 
+fluency tasks (Ghanavati, Salehinejad, Nejati, & Nitsche, 2019 ). As such, 
+the poorer performance on semantic fluency likely reflects reduced 
+verbal memory retrieval and not reduced executive function perfor -
+mance. Indeed, none of the several measures of executive function indicated significant underperformance by the misophonia group rela-
+tive to the control group. It is unclear at present why verbal memory 
+retrieval specifically would be affected more than other cognitive do-
+mains in misophonia. However, functional, and structural imaging 
+studies of misophonia suggests alterations in brain structures and 
+functions associated with verbal memory retrieval, including the pre-
+cuneus, and temporal lobe structures, including the hippocampus 
+(Eijsker et al., 2021 ; Kumar et al., 2021 ; Neacsiu et al., 2022 ). 
+Notwithstanding, it is notable that the magnitude of effect sizes 
+(small-to-medium in magnitude) pertaining to verbal memory retrieval 
+underperformance found in the present study did not reach a level of 
+cognitive impairment on these tasks (for a discussion see Abramovitch, 
+Short, & Schweiger, 2021 ). 
+4.2. Correlations between misophonia symptoms and neuropsychological 
+outcomes 
+The majority of correlations examined between misophonia symp -
+toms and neuropsychological performance were not significant. The 
+only significant correlations were CPT Omission Errors (a computerized 
+measure of sustained attention), which correlated with MQ-1 (number 
+of types and severity of trigger sounds), MQ-2 (number of types and 
+severity of misophonic response), and MQ-Total, but not with MQ-3 
+(severity of sound sensitivity and associated impairment). In addition 
+the DS Forward (working memory), was negatively correlated with MQ- 
+3 only. No significant correlations were found on these indices in the 
+control group. Notably, these results reflect cognitive functioning under 
+‘cold ’ conditions, and not during symptom provocation. Thus, these 
+correlations between misophonia severity and inattention found only in 
+the misophonia group correspond to recent brain imaging findings 
+indicating that misophonia is associated with functional alteration of 
+neural connectivity at rest (i.e., not only during misophonic provoca -
+tion). It has been argued that such alterations in functional connectivity 
+may be a consequence of repeated misophonic experience (for a review 
+see Neacsiu et al., 2022 ), and thus may explain why these associations 
+are found under ‘cold ’ conditions. However, more research is needed to 
+elucidate such alterations and their association with attentional func-
+tioning in misophonia, particularly under ‘cold ’ versus ‘hot cognition ’ 
+conditions. 
+It is important to note, however, that these association were found 
+only between two neuropsychological outcomes and misophonia 
+severity. Given that psychopathology has generally been associated with 
+reduced cognitive performance (Abramovitch et al., 2021 ), the general 
+absence of correlations between self-reported misophonia severity and 
+cognitive performance may seem surprising. However, research directly 
+assessing associations between disorder-specific self-report severity 
+measures and neuropsychological test performance usually yields 
+modest associations at best (David, Zammit, Lewis, Dalman, & Allebeck, 
+2008 ; McGrath et al., 2016 ; Woon, Farrer, Braman, Mabey, & Hedges, 
+2017 ) and neuropsychological tests generally are considered poor pre-
+dictors of the presence of any psychopathology (e.g., Abramovitch, 
+McCormack, Brunner, Johnson, & Wofford, 2019 ). The modest nature of 
+the associations may stem from the suboptimal psychometric properties 
+of the measures involved, particularly given the known problem with 
+ecological validity in neuropsychological tests (Zivin & Katon, 2015 ). 
+The results of this study further indicate an absence of group dif-
+ferences in the prevalence of comorbid DSM disorders. This is somewhat 
+surprising given previous reports suggesting that misophonia is associ -
+ated with psychopathology (Cassiello-Robbins et al., 2020 ; Potgieter 
+et al., 2019 ), particularly OCD/OCPD and ADHD (Rouw & Erfanian, 
+2018 ; Taylor, 2017 ) although some studies have not found substantially 
+higher prevalence rates in misphonia samples (Jager, de Koning, Bost, 
+Denys, & Vulink, 2020 ; Schroder et al., 2013 ). The lack of statistically 
+significantly higher prevalence rates in the misophonia group may be 
+attributable in part to the relatively small sample size (n 32), as the 
+numerical prevalence rates in the present study were indeed higher in Table 5 
+Pearson ’s zero-order correlations between neuropsychological test performance 
+and MQ subscores within the misophonia group .   
+MQ-1 MQ-2 MQ-3 MQ Total 
+Set shifting 
+Trail Making B 0.16  0.09  0.04  0.02 
+WCST Preservative Errors 0.06  0.15  0.26  0.26 
+WCST Categories Completed 0.25 0.26 0.24 0.17 
+Planning 
+TOL Excess Moves  0.09  0.18  0.17  0.13 
+Working Memory 
+DS Forward Total 0.03 0.23 •0.42* 0.26 
+DS Backward Total 0.17 0.05  0.09 0.12 
+DS Sequencing Total  0.06 0.18  0.17 0.09 
+DS Total 0.06 0.19  0.27 0.19 
+Symbol Span Total  0.03  0.19  0.07  0.12 
+Verbal Fluency 
+Letter Total  0.12  0.06  0.30  0.10 
+Category Total 0.25 0.03 0.07 0.17 
+Response Inhibition 
+CPT Commission Errors  0.03 0.05  0.01 0.08 
+Verbal Memory 
+CVLT Short Delay Recall 0.07 0.21 0.02 0.16 
+CVLT Sum of Trials 1–5 0.09 0.15 0.12 0.12 
+CVLT Long Delay Recall 0.13 0.19 0.10 0.15 
+Non-verbal Memory 
+RCFT Immediate  0.36 0.01 0.07  0.21 
+RCFT Delayed  0.29 0.10 0.06  0.09 
+Processing Speed 
+Trail Making A 0.08 0.10  0.02  0.02 
+CPT Mean RT  0.07 0.02  0.13  0.01 
+Attention 
+CPT Omission Errors 0.41* 0.42* 0.09 0.42* 
+CPT RT SD 0.03 0.09  0.11 0.15 
+Visuospatial function 
+RCFT Copy  0.18 0.08 0.12  0.6 
+Note. * significant correlation that survived multiplicity correction. 
+WCSTWisconsin Card Sorting Test; TOL Tower of London; DSWAIS Digit 
+Span; CVLTCalifornia-Verbal Learning Test II; CPTConners ’ Continuous 
+Performance Test III; RCFT Rey Complex Figure Test; RT Reaction time; 
+SDStandard Deviation. 
+Table 6 
+Pearson ’s zero-order correlations between clinical variables and the MQ 
+subscales.    
+MQ-1 MQ-2 MQ-3 MQ Total 
+DASS-21 Depression Misophonia 0.10 0.13  0.15 0.11 
+Control 0.23 0.18  0.05 0.22 
+DASS-21 Anxiety Misophonia 0.02  0.07  0.04  0.12 
+Control 0.04 0.13  0.17 0.08 
+DASS-21 Stress Misophonia 0.17 0.04  0.06  0.06 
+Control 0.36* 0.23  0.15 0.33* 
+I-7 Impulsivity Misophonia 0.18 0.45* 0.45* 0.48* 
+Control  0.05 0.19 0.02 0.09 
+STAI-State Misophonia 0.15 0.03  0.17 0.02 
+Control 0.19 0.05  0.07 0.13 
+Note. MQ-1 Misophonia Questionnaire subscale - types of and severity of 
+misophonic trigger sounds; MQ-2 Misophonia Questionnaire subscale - types 
+and severity of the misophonic reaction to these sounds; MQ-3 Misophonia 
+Questionnaire subscale - the single items sound sensitivity subscale score. * 
+Significant correlations that survived multiplicity corrections. A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+8the misophonia sample in a pattern that echoes previous studies. These 
+include a high prevalence of ADHD in the misophonia group (16%), 
+which is more than three times higher than the prevalence of ADHD in 
+US adults (4.6%; Song et al., 2021 ), and higher than the prevalence of 
+ADHD found in the control group (9%). Similarly, albeit not statistically 
+significant, the prevalence of OCD was also elevated in the misophonia 
+group (9%) compared to the control group (3%). This prevalence rate of 
+OCD within the misophonia group is nearly 8-fold higher than the 
+prevalence in the general population (1.3%; Fawcett, Power, & Fawcett, 
+2020 ). The same pattern was found for panic disorder in the misophonia 
+sample (6%), which was twice as high as the control group (3%). 
+Overall, despite a lack of statistically significant differences in preva -
+lence rates between the misophonia and control groups, the misophonia 
+group demonstrated numerically higher prevalence for conditions pre-
+viously reported as more common in misophonia. 
+In terms of clinical symptoms, there were no significant group dif-
+ferences in depression and stress symptoms (albeit numerically, the ef-
+fect size for stress was d 0.41 favoring controls, p 0.06). However, 
+there were significantly elevated symptoms of general anxiety and state 
+anxiety in the misophonia group compared to the control group, 
+consistent with previous studies (Guetta, Cassiello-Robbins, Anand, & 
+Rosenthal, 2022 ; Jager et al., 2020 ; Wu et al., 2014 ). Importantly, the 
+present study revealed higher levels of self-reported behavioral impul -
+sivity in the misophonia group compared to the control group. In 
+addition, impulsivity was found to be significantly and positively 
+correlated with the severity of misophonic behavioral response (MQ-2) 
+and sound sensitivity (MQ-3), as well as with the MQ total score, but not 
+with the number of types or intensity of trigger sounds (MQ-1). This 
+finding supports research that suggests misophonia is related to 
+emotional regulation and impulse control problems (Cassiello-Robbins 
+et al., 2020 ). This is particularly important as emerging research is now 
+considering how emotional dysregulation may play an important part in 
+misophonia. Indeed, the role of ‘emotional impulsivity ’ (i.e., impulsive 
+responsivity to emotions) has been subject to recent interest in psy-
+chopathology research. Specifically, it has been suggested that 
+emotional impulsivity may be important in our understanding of psy-
+chopathology and may be transdiagnostic (for a review, see Carver, 
+Johnson, & Timpano, 2017 ). 
+4.3. Functional impairments 
+Greater self-reported impairments were observed in the misophonia 
+group in the domains home-chores (household chores and mainte -
+nance), money-management (managing bills and debt), and driving 
+(citations and accidents). In addition, the misophonia sample was found 
+to have a significantly higher total mean impairment score as well a 
+significantly higher percent of ‘impaired domains ’, defined as the 
+number of items that received a score falling at or above the 93rd 
+percentile divided by the total number of items scored. The results of this 
+comparison indicated that the proportion of impaired domains in the 
+misophonia sample was twice as high as controls. Interestingly, im-
+pairments related to money-management and driving have been asso-
+ciated with ADHD (Bangma et al., 2019 ; Vaa, 2014 ), which was a highly 
+prevalent comorbidity in our misophonia sample. These results corre -
+spond to other studies that found that misophonia is associated with 
+functional impairments across multiple domains (Guzick et al., 2023 ; 
+Jager et al., 2020 ; Remmert, Jebens, Gruzman, Gregory, & Vitoratou, 
+2022 ; Rosenthal et al., 2022 ). Interestingly, a common domain of 
+functional impairment in misophonia is associated with family life that 
+has been found both in adults (Rosenthal et al., 2022 ) and youth (Guzick 
+et al., 2023 ). The results of this study – although pointing to numerically 
+elevated functional impairments in misophonia across domains – indi-
+cate that there was no significant difference between the misophonia 
+and control samples on the ‘home-family ’ domains. However, a signifi -
+cant difference was found in the domains of ‘home-chores ’, and ‘money 
+management ’, which was found to have the largest effect size. This discrepancy with the results of previous studies may be related to the 
+fact that the present study examined active college students with 
+misophonia, most of which do not live at home with their nuclear family 
+and are required to function more independently. However, it is 
+important to note that in the current study, review of BFIS test norms 
+indicated that although the misophonia sample reported higher func-
+tional impairment scores on these domains, these scores did not reach 
+thresholds for impaired functioning on any of the domains. Notably, our 
+review of the literature clearly indicates that there is a need for further 
+research examining domain-specific functional impairment associated 
+with misophonia. 
+The present study has several strengths including being the first 
+study to compare misophonia and control samples on a comprehensive 
+neuropsychological battery, administration of a psychometrically valid 
+semi-structured diagnostic interview, assessment of everyday func-
+tioning, and employment of correction for multiplicity. However, this 
+study is not without limitations. First, the misophonia group sample size 
+was relatively small, with a control/misophonia participant ratio being 
+2:1. Second, caseness was determined using the MQ3 impairment scale 
+cutoff which does not directly assess misophonia symptoms but rather 
+impairments resulting from sound sensitivity. However, in lieu of a 
+formal categorical diagnostic algorithm, and given that used for this 
+cutoff results in significant overall group differences on the MQ1 and 
+MQ2, and to facilitate comparisons with previous research, we opted to 
+use the MQ3 cutoff. Another limitation of this study is that we did not 
+assess or rule out hyperacusis which may be important for future studies. 
+In addition, there were two technical issues in this study. First, due to a 
+technical error, only ten out of the fifteen BFIS items were administered. 
+However, as per the BFIS manual (Barkley, 2011 ), each item is a 
+standalone domain with its own norms, and thus the present study was 
+able to examine 10 functional domains – which, to our knowledge, is the 
+first examination of real-life functional indices in misophonia. Addi-
+tionally, due to a technical error, raw data from the CPT-III test was 
+available only for a small subsample, however standard t scores pro-
+duced by the program were available for all participants and were used 
+in the final analyses. Furthermore, this study sample comprised college 
+students which may limit generalizability. Indeed, prior studies have 
+demonstrated that enrolled college students with or without psychopa -
+thology may exhibit somewhat better cognitive functioning (e.g., 
+Guerra-Carrillo, Katovich, & Bunge, 2017 ; Twamley, Hami, & Stein, 
+2004 ). This effect may reflect the influence of selection bias (e.g., stu-
+dents with psychopathology who are able to remain in college may have 
+characteristics making them more cognitively “resilient ”), cognitively 
+beneficial effects of college (e.g., daily engagement in cognitively 
+challenging tasks; engaging with novel and abstract topics; engaging in 
+planning related to time management and meeting deadlines), or a 
+combination of the two. To the extent that active enrollment in college 
+reduces the association between psychopathology and cognitive 
+dysfunction, the current study may underestimate the degree of 
+misophonia-related cognitive underperformance in non-college student 
+populations. Nevertheless, it is important to note that control sample 
+participants were not excluded if they met criteria for DSM disorders, 
+and in fact, the rates of non-misophonia psychopathology did not differ 
+significantly between the samples. Given that most neuropsychological 
+studies utilize control samples screened for psychopathology and 
+neurological conditions, differences discovered in the present study may 
+lend more credibility compared to a study with a highly screened control 
+sample. However, this study is the first of its kind in misophonia, and 
+much more neuropsychological research is needed in misophonia across 
+different samples, particularly in community and clinical samples. 
+5.Conclusions 
+The goal of the present study was to conduct the first neuropsycho -
+logical study of misophonia in the context of ‘cold ’ cognitive function. 
+We identified poorer verbal memory retrieval in misophonia but there A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+9was no indication of a meaningful impairment. In addition, although 
+there was no difference in sustained attention measures between the 
+groups, there was a negative association between attention functions 
+and misophonia symptoms only in the misophonia group. Furthermore, 
+the results of the present study support the role of behavioral/emotional 
+impulsivity in misophonia, which was related to the misophonic 
+response and sound sensitivity but not with the extent and severity of the 
+emotional reaction to trigger sounds. These findings are in line with 
+recent research. We also found elevated rates of OCD and ADHD in the 
+misophonia sample. However, since this is the first study of its kind, and 
+given the dearth of research on ‘cold ’ cognitive function research in 
+misophonia, the results of this study should be viewed as preliminary 
+and should be replicated in the various relevant samples (e.g., psychi -
+atric samples, audiology samples). Indeed, there is an urgent need for 
+further research into misophonia, particularly neuropsychological in-
+vestigations that incorporate psychopathological indices. 
+Ethics statement 
+This study was approved by the Texas State University Institutional 
+Review Board according to the Declaration of Helsinki. 
+CRediT authorship contribution statement 
+Amitai Abramovitch: Conceptualization, Data curation, Investiga -
+tion, Supervision, Writing – original draft, Writing – review & editing. 
+Tanya A. Herrera: Data curation, Formal analysis, Investigation, 
+Writing – original draft, Writing – review & editing. Joseph L. Ether -
+ton: Investigation, Writing – original draft, Writing – review & editing. 
+Declaration of competing interest 
+The authors report no conflict of interest pertaining to the present 
+study. 
+Data availability 
+The authors do not have permission to share data. 
+Acknowledgement 
+The authors would like to thank the study participants and research 
+assistants. This research did not receive any specific grant from funding 
+agencies in the public, commercial, or not-for-profit sectors. 
+Appendix A.Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.jbtep.2023.101897 . 
+References 
+Abramovitch, A., McCormack, B., Brunner, D., Johnson, M., & Wofford, N. (2019). The 
+impact of symptom severity on cognitive function in obsessive-compulsive disorder: 
+A meta-analysis. Clinical Psychology Review, 67, 36–44. https://doi.org/10.1016/j. 
+cpr.2018.09.003 
+Abramovitch, A., Short, T., & Schweiger, A. (2021). The C Factor: Cognitive dysfunction 
+as a transdiagnostic dimension in psychopathology. Clinical Psychology Review, 86, 
+Article 102007. https://doi.org/10.1016/j.cpr.2021.102007 
+Bangma, D. F., Koerts, J., Fuermaier, A., Mette, C., Zimmermann, M., Toussaint, A. K., 
+et al. (2019). Financial decision-making in adults with ADHD. Neuropsychology, 33 
+(8), 1065 . 
+Barkley, R. A. (2011). Barkley functional impairment scale (BFIS) . Guilford Press .  
+Bezeau, S., & Graves, R. (2001). Statistical power and effect sizes of clinical 
+neuropsychology research. Journal of Clinical and Experimental Neuropsychology, 23 
+(3), 399–406. https://doi.org/10.1076/jcen.23.3.399.1181 
+Bieling, P. J., Israeli, A. L., & Antony, M. M. (2004). Is perfectionism good, bad, or both? 
+Examining models of the perfectionism construct. Personality and Individual 
+Differences, 36(6), 1373 –1385. https://doi.org/10.1016/S0191-8869(03)00235-6 Carver, C. S., Johnson, S. L., & Timpano, K. R. (2017). Toward a functional view of the P 
+factor in psychopathology. Clinical Psychological Science, 5(5), 880–889. https://doi. 
+org/10.1177/2167702617710037 
+Cassiello-Robbins, C., Anand, D., McMahon, K., Brout, J., Kelley, L., & Rosenthal, M. Z. 
+(2021). A preliminary investigation of the association between misophonia and 
+symptoms of psychopathology and personality disorders. Frontiers in Psychology, 11, 
+1–8. https://doi.org/10.3389/fpsyg.2020.519681 
+Cassiello-Robbins, C., Anand, D., McMahon, K., Guetta, R., Trumbull, J., Kelley, L., et al. 
+(2020). The mediating role of emotion regulation within the relationship between 
+neuroticism and misophonia: A preliminary investigation. Frontiers in Psychiatry, 11 
+(847), 1–7. https://doi.org/10.3389/fpsyt.2020.00847 
+Clara, I. P., Cox, B. J., & Enns, W. M. (2001). Confirmatory factor analysis of the 
+depression-anxiety-stress scales in depressed and anxious patients. Journal of 
+Psychopathology and Behavioral Assessment, 23. 
+Cohen, J. (2013). Statistical power analysis for the behavioral sciences . Routledge .  
+Conners, K. C. (2014). Conners continuous performance test (Conners CPT-III) and Conners 
+continuous auditory test of attention (Connerrs CATA): Technical manual . Multi-Health 
+Systems .  
+Cowan, E. N., Marks, D. R., & Pinto, A. (2022). Misophonia: A psychological model and 
+proposed treatment. Journal of Obsessive-Compulsive and Related Disorders, 32, Article 
+100691 . 
+Daniels, E. C., Rodriguez, A., & Zabelina, D. L. (2020). Severity of misophonia symptoms 
+is associated with worse cognitive control when exposed to misophonia trigger 
+sounds. PLoS One, 15(1), Article e0227118. https://doi.org/10.1371/journal. 
+pone.0227118 
+David, A. S., Zammit, S., Lewis, G., Dalman, C., & Allebeck, P. (2008). Impairments in 
+cognition across the spectrum of psychiatric disorders: Evidence from a Swedish 
+conscript cohort. Schizophrenia Bulletin, 34(6), 1035 –1041. https://doi.org/10.1093/ 
+schbul/sbn028 
+Delis, D. C., Kaplan, E., & Kramer, J. H. (2001). Delis-Kaplan executive function system . 
+Delis, D., Kramer, J., Kaplan, E., & Ober, B. (2000). California verbal learning test–second 
+edition. Adult version . San Antonio, TX: Manual. The Psychological Corporation .  
+Edelstein, M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013). Misophonia: 
+Physiological investigations and case descriptions. Frontiers in Human Neuroscience, 
+7, 296. https://doi.org/10.3389/fnhum.2013.00296 
+Eijsker, N., Schroder, A., Liebrand, L. C., Smit, D. J. A., van Wingen, G., & Denys, D. 
+(2021). White matter abnormalities in misophonia. NeuroImage: Clinical, 32, 1–8. 
+https://doi.org/10.1016/j.nicl.2021.102787 
+Eijsker, N., Schroder, A., Smit, D. J. A., van Wingen, G., & Denys, D. (2019). Neural basis 
+of response bias on the Stop signal task in misophonia. Frontiers in Psychiatry, 10 
+(October), 1–10. https://doi.org/10.3389/fpsyt.2019.00765 . Article 765. 
+Erfanian, M., Kartsonaki, C., & Keshavarz, A. (2019). Misophonia and comorbid 
+psychiatric symptoms: A preliminary study of clinical findings. Nordic Journal of 
+Psychiatry, 73(4–5), 219–228. https://doi.org/10.1080/08039488.2019.1609086 
+Everitt, B. S. (2021). Medical statistics from A to Z: A guide for clinicians and medical 
+students . Cambridge University Press .  
+Eysenck, S. B. G., Pearson, P. R., Easting, G., & Allsopp, J. F. (1985). Age norms for 
+impulsiveness, venturesomeness and empathy in adults. Personality and Individual 
+Differences, 6(5), 613–619. https://doi.org/10.1016/0191-8869(85)90011-x 
+Fawcett, E. J., Power, H., & Fawcett, J. M. (2020). Women are at greater risk of OCD than 
+men: A meta-analytic review of OCD prevalence worldwide. The Journal of Clinical 
+Psychiatry, 81(4), Article 13075 . 
+Ferrer-Torres, A., & Gim˘enez-Llort, L. (2022). Misophonia: A systematic review of 
+current and future trends in this emerging clinical field. International Journal of 
+Environmental Research and Public Health, 19(11). https://doi.org/10.3390/ 
+ijerph19116790 
+Frank, B., Roszyk, M., Hurley, L., & McKay, D. (2020). Inattention in misophonia: 
+Difficulties achieving and maintaining alertness. Journal of Clinical and Experimental 
+Neuropsychology, 42(1), 66–75. https://doi.org/10.1080/13803395.2019.1666801 
+Ghanavati, E., Salehinejad, M. A., Nejati, V., & Nitsche, M. A. (2019). Differential role of 
+prefrontal, temporal and parietal cortices in verbal and figural fluency: Implications 
+for the supramodal contribution of executive functions. Scientific Reports, 9(1), 3700. 
+https://doi.org/10.1038/s41598-019-40273-7 
+Glantz, S. A., & Slinker, B. K. (2001). Primer of applied regression & analysis of variance . 
+New York: McGraw-Hill, Inc.  
+Grossini, E., Stecco, A., Gramaglia, C., De Zanet, D., Cantello, R., Gori, B., et al. (2022). 
+Misophonia: Analysis of the neuroanatomic patterns at the basis of psychiatric 
+symptoms and changes of the orthosympathetic/parasympathetic balance [Original 
+Research]. Frontiers in Neuroscience, 16. https://doi.org/10.3389/fnins.2022.827998 
+Guerra-Carrillo, B., Katovich, K., & Bunge, S. A. (2017). Does higher education hone 
+cognitive functioning and learning efficacy? Findings from a large and diverse 
+sample. PLoS One, 12(8), Article e0182276. https://doi.org/10.1371/journal. 
+pone.0182276 
+Guetta, R., Cassiello-Robbins, C., Anand, D., & Rosenthal, M. Z. (2022). Development and 
+psychometric exploration of a semi-structured clinical interview for Misophonia. 
+Personality and Individual Differences, 187, Article 111416. https://doi.org/10.1016/ 
+j.paid.2021.111416 
+Guetta, R., Cassiello-Robbins, C., Trumbull, J., Anand, D., & Rosenthal, M. Z. (2022). 
+Examining emotional functioning in misophonia: The role of affective instability and 
+difficulties with emotion regulation. PLoS One, 17(2), 1–13. libproxy.txstate.edu/ 
+10.1371/journal.pone.0263230 . 
+Guzick, A. G., Cervin, M., Smith, E. E. A., Clinger, J., Draper, I., Goodman, W. K., et al. 
+(2023). Clinical characteristics, impairment, and psychiatric morbidity in 102 youth 
+with misophonia. Journal of Affective Disorders, 324, 395–402. https://doi.org/ 
+10.1016/j.jad.2022.12.083 A. Abramovitch et al.
+
+Journal of Behavior Therapy and Experimental Psychiatry 82 (2024) 101897
+10Hansen, H. A., Leber, A. B., & Saygin, Z. M. (2021). What sound sources trigger 
+misophonia? Not just chewing and breathing. Journal of Clinical Psychology, 77(11), 
+2609 –2625 . 
+Holm, S. (1979). A simple sequentially rejective multiple test procedure. Scandinavian 
+Journal of Statistics , 65–70. 
+IBM. (2020). IBM SPSS statistics for Mactintosh, Version 27.0 (Version 27). 
+Jager, I., de Koning, P., Bost, T., Denys, D., & Vulink, N. (2020). Misophonia: 
+Phenomenology, comorbidity and demographics in a large sample. PLoS One, 15(4), 
+Article e0231390. https://doi.org/10.1371/journal.pone.0231390 
+Jakubovski, E., Müller, A., Kley, H., de Zwaan, M., & Müller-Vahl, K. (2022). Prevalence 
+and clinical correlates of misophonia symptoms in the general population of 
+Germany [Original Research]. Frontiers in Psychiatry, 13. https://doi.org/10.3389/ 
+fpsyt.2022.1012424 
+Jastreboff, P. J., & Jastreboff, M. M. (2001). Components of decreased sound tolerance- 
+Hyperacusis, misophonia, phonophobia . 
+Jastreboff, M., & Jastreboff, P. (2014). Treatments for Decreased Sound Tolerance 
+(Hyperacusis and Misophonia), 35 pp. 105–120). https://doi.org/10.1055/s-0034- 
+1372527 , 2. 
+Kılıç, C., Oz, G., Avano ˚glu, K. B., & Aksoy, S. (2021). The prevalence and characteristics 
+of misophonia in Ankara, Turkey: Population-based study. BJPsych Open, 7(5), e144. 
+https://doi.org/10.1192/bjo.2021.978 
+Kumar, S., Dheerendra, P., Erfanian, M., Benzaqu ˘en, E., Sedley, W., Gander, P. E., et al. 
+(2021). The motor basis for misophonia. Journal of Neuroscience, 41(26). https://doi. 
+org/10.1523/jneurosci.0261-21.2021 . JN-RM-0261-0221. 
+Kumar, S., Tansley-Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., 
+et al. (2017). The brain basis for misophonia. Current Biology, 27(4), 527–533. 
+https://doi.org/10.1016/j.cub.2016.12.048 
+Loong, J. (1990). Wisconsin card sorting test–IBM version . San Luis Obispo, CA: Wang 
+Neuropsychological Laboratory .  
+Lovibond, P. F., & Lovibond, S. H. (1995). The structure of negative emotional states: 
+Comparison of the depression anxiety stress scales (DASS) with the Beck depression 
+and anxiety inventories. Behaviour Research and Therapy, 33(3), 335–343. 
+Marteau, T. M., & Bekker, H. (1992). The development of a six-item short-form of the 
+state scale of the Spielberger State —Trait Anxiety Inventory (STAI). British Journal of 
+Clinical Psychology, 31(3), 301–306. https://doi.org/10.1111/j.2044-8260.1992. 
+tb00997.x 
+McGrath, L. M., Braaten, E. B., Doty, N. D., Willoughby, B. L., Wilson, H. K., 
+O’Donnell, E. H., et al. (2016). Extending the ‘cross-disorder ’ relevance of executive 
+functions to dimensional neuropsychiatric traits in youth. Journal of Child Psychology 
+and Psychiatry, 57(4), 462–471. https://doi.org/10.1111/jcpp.12463 
+McKay, D., Kim, S. K., Mancusi, L., Storch, E. A., & Spankovich, C. (2018). Profile 
+analysis of psychological symptoms associated with misophonia: A community 
+sample. Behavior Therapy, 49(2), 286–294. https://doi.org/10.1016/j. 
+beth.2017.07.002 
+Neacsiu, A. D., Szymkiewicz, V., Galla, J. T., Li, B., Kulkarni, Y., & Spector, C. W. (2022). 
+The neurobiology of misophonia and implications for novel, neuroscience-driven 
+interventions [Review] Frontiers in Neuroscience, 16. https://doi.org/10.3389/ 
+fnins.2022.893903 . 
+Osterrieth, P. (1944). Le test de copie d’une figure complex: Contribution a l’etude de la 
+perception et de la memoire [The Complex Figure Test: Contribution to the study of 
+perception and memory]. Archiv für Psychologie, 28, 1021 –1034 . 
+Potgieter, I., MacDonald, C., Partridge, L., Cima, R., Sheldrake, J., & Hoare, D. J. (2019). 
+Misophonia: A scoping review of research. Journal of Clinical Psychology, 75(7), 
+1203 –1218. https://doi.org/10.1002/jclp.22771 
+Remmert, N., Jebens, A., Gruzman, R., Gregory, J., & Vitoratou, S. (2022). A nomological 
+network for misophonia in two German samples using the S-Five model for 
+misophonia. Frontiers in Psychology, 13, Article 902807. https://doi.org/10.3389/ 
+fpsyg.2022.902807 
+Rosenthal, M. Z., Anand, D., Cassiello-Robbins, C., Williams, Z. J., Guetta, R. E., 
+Trumbull, J., et al. (2021). Development and initial validation of the duke 
+misophonia questionnaire [original research]. Frontiers in Psychology, 12. https:// 
+doi.org/10.3389/fpsyg.2021.709928 
+Rosenthal, M. Z., McMahon, K., Greenleaf, A. S., Cassiello-Robbins, C., Guetta, R., 
+Trumbull, J., et al. (2022). Phenotyping misophonia: Psychiatric disorders and 
+medical health correlates. Frontiers in Psychology, 13, Article 941898. https://doi. 
+org/10.3389/fpsyg.2022.941898 Rouw, R., & Erfanian, M. (2018). A large-scale study of misophonia. Journal of Clinical 
+Psychology, 74(3), 453–479. https://doi.org/10.1002/jclp.22500 
+Schadegg, M. J., Clark, H. L., & Dixon, L. J. (2021). Evaluating anxiety sensitivity as a 
+moderator of misophonia and dimensions of aggression. Journal of Obsessive- 
+Compulsive and Related Disorders, 30, Article 100657. https://doi.org/10.1016/j. 
+jocrd.2021.100657 
+Schroder, A., Vulink, N., & Denys, D. (2013). Misophonia: Diagnostic criteria for a new 
+psychiatric disorder. PLoS One, 8(1), Article e54706. https://doi.org/10.1371/ 
+journal.pone.0054706 
+Shallice, T. (1982). Specific impairments of planning. Philosophical Transactions of the 
+Royal Society of London B Biological Sciences, 298(1089), 199–209. 
+Sheehan, D. V., Lecrubier, Y., Sheehan, K. H., Amorim, P., Janavs, J., Weiller, E., et al. 
+(1998). The mini-international neuropsychiatric interview (MINI): The development 
+and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD- 
+10. Journal of Clinical Psychiatry, 59(20), 22–33. 
+da Silva, F. E., & Sanchez, T. G. (2019). Evaluation of selective attention in patients with 
+misophonia. Brazilian Journal of Otorhinolaryngology, 85(3), 303–309. 
+Simner, J., Koursarou, S., Rinaldi, L. J., & Ward, J. (2021). Attention, flexibility, and 
+imagery in misophonia: Does attention exacerbate everyday disliking of sound? 
+Journal of Clinical and Experimental Neuropsychology, 43(10), 1006 –1017. https:// 
+doi.org/10.1080/13803395.2022.2056581 
+Sinclair, S. J., Siefert, C. J., Slavin-Mulford, J. M., Stein, M. B., Renna, M., & Blais, M. A. 
+(2012). Psychometric evaluation and normative data for the depression, anxiety, and 
+stress scales-21 (DASS-21) in a nonclinical sample of U.S. Adults. Evaluation & the 
+Health Professions, 35(3), 259–279. https://doi.org/10.1177/0163278711424282 
+Song, P., Zha, M., Yang, Q., Zhang, Y., Li, X., & Rudan, I. (2021). The prevalence of adult 
+attention-deficit hyperactivity disorder: A global systematic review and meta- 
+analysis. Journal of Global Health, 11. https://doi.org/10.7189/jogh.11.04009 
+Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., et al. 
+(2022). Consensus definition of misophonia: A delphi study. Frontiers in Neuroscience, 
+224. 
+Swedo, S. E., Schapiro, M. B., Grady, C. L., Cheslow, D. L., Leonard, H. L., Kumar, A., 
+et al. (1989). Cerebral glucose metabolism in childhood-onset obsessive-compulsive 
+disorder. Archives of General Psychiatry, 46(6), 518–523. http://www.ncbi.nlm.nih. 
+gov/pubmed/2786402 . 
+Taylor, S. (2017). Misophonia: A new mental disorder? Medical Hypotheses, 103, 
+109–117. 
+Twamley, E. W., Hami, S., & Stein, M. B. (2004). Neuropsychological function in college 
+students with and without posttraumatic stress disorder. Psychiatry Research, 126(3), 
+265–274. https://doi.org/10.1016/j.psychres.2004.01.008 
+Vaa, T. (2014). ADHD and relative risk of accidents in road traffic: A meta-analysis. 
+Accident Analysis & Prevention, 62, 415–425. https://doi.org/10.1016/j. 
+aap.2013.10.003 
+Vitoratou, S., Hayes, C., Uglik-Marucha, N., Pearson, O., Graham, T., & Gregory, J. 
+(2023). Misophonia in the UK: Prevalence and norms from the S-Five in a UK 
+representative sample. PLoS One, 18(3), Article e0282777. https://doi.org/10.1371/ 
+journal.pone.0282777 
+Wechsler, D. (2008). Wechsler adult intelligence scale –fourth edition (WAIS-IV) . APA 
+PsycTests .  
+Wechsler, D. (2009). Wechsler memory scale: Manual (4th) (Vol. 29). San Antonio, TX: 
+Pearson Assessment .  
+Welch, B. L. (1938). The significance of the difference between two means when the 
+population variances are unequal. Biometrika, 29(3/4), 350–362. 
+Woon, F. L., Farrer, T. J., Braman, C. R., Mabey, J. K., & Hedges, D. W. (2017). A meta- 
+analysis of the relationship between symptom severity of Posttraumatic Stress 
+Disorder and executive function. Cognitive Neuropsychiatry, 22(1), 1–16. https://doi. 
+org/10.1080/13546805.2016.1255603 
+Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014). Misophonia: Incidence, 
+phenomenology, and clinical correlates in an undergraduate student sample. Journal 
+of Clinical Psychology, 70(10), 994–1007. https://doi.org/10.1002/jclp.22098 
+Zhou, X., Wu, M. S., & Storch, E. A. (2017). Misophonia symptoms among Chinese 
+university students: Incidence, associated impairment, and clinical correlates. 
+Journal of Obsessive-Compulsive and Related Disorders, 14, 7–12. https://doi.org/ 
+10.1016/j.jocrd.2017.05.001 
+Zivin, K., & Katon, W. (2015). Further policy changes are needed to improve depression 
+care. General Hospital Psychiatry, 37(4), 368–369. https://doi.org/10.1016/j. 
+genhosppsych.2015.04.004 A. Abramovitch et al.

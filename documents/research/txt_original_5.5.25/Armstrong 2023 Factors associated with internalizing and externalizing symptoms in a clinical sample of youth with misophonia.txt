@@ -1,0 +1,578 @@
+For any issues with this document, please contact your library.
+
+____________________________________________________________________________________
+
+Title: Journal of obsessive-compulsive and related disorders.
+
+ArticleTitle: Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia
+
+ArticleAuthor: Armstrong
+
+Date: 2023-08-01 Pages: 100831-
+
+ISSN - 22113649; LCN - 2012263062;
+
+Source: LibKeyNomad
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+## Journal Pre-proof
+
+Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia
+
+Gabrielle M. Armstrong, Rebecca L. Greenberg, Orri Smárason, Cand Psych, Renee M. Frederick, Andrew G. Guzick, Sophie C. Schneider, Samuel D. Spencer, Matti Cervin, Eric A. Storch
+
+PII:
+
+S2211-3649(23)00052-0
+
+DOI:
+
+https://doi.org/10.1016/j.jocrd.2023.100831
+
+Reference:
+
+JOCRD 100831
+
+To appear in:
+
+Journal of Obsessive-Compulsive and Related Disorders
+
+Received Date:
+
+2 July 2023
+
+Revised Date:
+
+5 August 2023
+
+Accepted Date:
+
+10 August 2023
+
+Please cite this article as: Armstrong G.M., Greenberg R.L., Smárason O., Frederick R.M., Guzick A.G., Schneider S.C., Spencer S.D., Cervin M. &amp; Storch E.A., Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia, Journal of Obsessive-Compulsive and Related Disorders (2023), doi: https://doi.org/10.1016/j.jocrd.2023.100831.
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version will undergo additional copyediting, typesetting and review before it is published in its final form, but we are providing this version to give early visibility of the article. Please note that, during the production process, errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+© 2023 Published by Elsevier Inc.
+
+## Running head: MISOPHONIA PRESENTATIONS IN YOUTH
+
+Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia
+
+Gabrielle M. Armstrong  1 , Rebecca L. Greenberg  , Orri Smárason, Cand. Psych. 1 1,2 , Renee M. Frederick  , Andrew G. Guzick, Ph.D. 1 3,1 , Sophie C. Schneider, Ph.D. 1 , Samuel D. Spencer, Ph.D.  , Matti Cervin, Ph.D.  , Eric A. Storch, Ph.D. 1 4 1
+
+- 1 Menninger Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine
+- 2 Faculty of Psychology, University of Iceland
+- 3 Department of Psychiatry and Behavioral Sciences, University of Pennsylvania
+- 4 Department of Clinical Sciences Lund, Lund University
+
+Corresponding Author:
+
+Eric Storch, Ph.D.
+
+Menninger Department of Psychiatry and Behavioral Sciences
+
+Baylor College of Medicine
+
+1977 Butler Blvd, Suite 4-400
+
+Journal Pre-proof
+
+Houston, TX 77030
+
+## Acknowledgements
+
+Given their role as an Editorial Board Member, Eric Storch had no involvement in the peer-review of this article and had no access to information regarding its peer-review
+
+Research reported in this publication was supported by a grant from the Ream Foundation, as well as the Eunice Kennedy Shriver National Institute of Child Health &amp; Human Development of the National Institutes of Health under Award Number P50HD103555 for use of the Clinical and Translational Core facilities. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. Journal Pre-proof
+
+## Declarations
+
+Dr. Storch reports receiving research funding to his institution from the Ream Foundation, International OCD Foundation, and NIH. He is a consultant for Brainsway and Biohaven Pharmaceuticals. He owns stock less than $5000 in NView. He receives book royalties from Elsevier, Wiley, Oxford, American Psychological Association, Guildford, Springer, Routledge, and Jessica Kingsley . Dr. Guzick receives grant support from the Misophonia Research Fund. Dr. Cervin receives research support from the Swedish Research Council for Health, Working Life and Welfare, the Lindhaga Foundation, Stiftelsen Clas Grochinskys Minnesfond, the Crown Princess Lovisa's Association, Region Skåne, and Skåne University Hospital's Foundations and Donations; and financial compensation from Springer for editorial work outside of the submitted work. Ms. Armstrong, Greenberg, and Frederick do not have conflicts to declare. Drs. Smárason, Schneider and Spencer do not have conflicts to declare. Journal Pre-proof
+
+## Running Head: MISOPHONIA PRESENTATIONS IN YOUTH
+
+Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+## Abstract
+
+Misophonia is an often chronic condition characterized by strong, unpleasant emotional reactions when exposed to specific auditory or visual triggers. While not currently defined within existing classification systems, and not clearly fitting within the framework of extant psychiatric conditions, misophonia has historically been studied most frequently within the context of obsessive-compulsive and related disorders. Internalizing and externalizing psychiatric symptoms are common in misophonia, but specific factors that confer risk for these symptoms remain unknown. The present cross-sectional study examined whether sensory sensitivity and cognitive emotion regulation facets are associated with co-occurring internalizing and externalizing symptoms in 102 youth with misophonia aged 8-17 years ( Nfemales = 69). Participants completed self-report assessments of misophonia severity, sensory sensitivity, cognitive emotion regulation, and emotional-behavioral functioning. In the final model, controlling for all variables, multiple linear regression analyses revealed that sensory sensitivity and age were significant predictors of internalizing symptoms, while sensory sensitivity and the other-blame cognitive emotion regulation facet were significant predictors of externalizing symptoms. Further, findings demonstrated that the positive reappraisal cognitive emotion regulation facet moderated the effect of misophonia severity on internalizing symptoms. Results highlight a strong, consistent relation between sensory sensitivities (beyond sound sensitivity) and psychiatric symptoms in misophonic youth. Further research is necessary to determine mechanisms and clinical variables impacting internalizing and externalizing symptoms within youth with misophonia. Journal Pre-proof
+
+Keywords : Misophonia, Youth, Internalizing symptoms, Externalizing symptoms, Sensory sensitivity, Cognitive emotion regulation
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Factors associated with internalizing and externalizing symptoms in a clinical sample of youth with misophonia
+
+Misophonia is characterized by strong, negative emotional reactions (e.g., anger, anxiety, irritation, disgust) when confronted with highly specific sound triggers or associated visual stimuli, as well as visual stimuli without any accompanying sound trigger (Swedo et al., 2022). Trigger stimuli may include repetitive sounds produced by other people, including food chewing, sniffing, breathing, pen clicking, lip smacking, and foot tapping (Guzick et al., 2023; Jager et al., 2020). These symptoms are distressing and often evoke avoidance of triggering situations, potentially leading to functional impairment in work, school, and family/social relationships (Schröder et al., 2019). Given the impact of misophonia and its relation to generalized psychopathological processes (Rosenthal et al., 2022; Siepsiak et al., 2022), misophonia sufferers are at risk for internalizing and externalizing behavior problems, with a recent study showing that 79% of youth with misophonia meet diagnostic criteria for a comorbid psychiatric disorder (Guzick et al., 2023). However, the paucity of studies investigating misophonia among youth limits our understanding of its prevalence, course and clinical correlates. While not currently defined within existing classification systems (Taylor, 2017), and not clearly fitting within the framework of extant psychiatric conditions, misophonia has historically been studied frequently within the context of obsessive-compulsive and related disorders (Schroder et al., 2013). Journal Pre-proof
+
+The severity of misophonia has demonstrated associations with elevated psychiatric symptomology, particularly in adult samples. For example, in 71 adults with misophonia, the following comorbid psychiatric diagnoses were found; panic disorder (19%), generalized anxiety disorder (15%), social anxiety disorder (13%), major depressive disorder (12%), and posttraumatic stress disorder (12%; Siepsiak et al., 2022). Similarly, in 207 adults with misophonia,
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+the most common comorbid psychiatric diagnoses experienced were generalized anxiety disorder
+
+(36%), social anxiety disorder (40%), major depressive disorder (50%), post-traumatic stress disorder (16%), and attention-deficit hyperactivity disorder (15%; Rosenthal et al., 2022). Moreover, anxiety and mood appear to be the most common comorbid psychiatric symptoms associated with misophonia reported in adult samples. Externalizing problems may be common in misophonia as well due to the purported salience of verbally aggressive responses to triggers (Schroeder et al., 2013), though these have generally been found to be less common than expected (Guzick et al., 2023; Wu et al., 2014).
+
+What remains unclear is the extent to which ancillary features of misophonia are related to internalizing and externalizing symptoms in youth with misophonia. Two candidate variables that are well-documented in both misophonia (Rinaldi et al., 2023; Guetta et al., 2022) and other psychiatric presentations (e.g., anxiety, mood, and obsessive-compulsive disorders; Cervin, 2023; Kraiss et al., 2020; van den Boogert et al., 2022) include generalized sensory sensitivity and cognitive emotion regulation facets. Uncovering the precise nature of these processes in relation to psychiatric symptoms associated with misophonia will likely aid both the understanding of the condition and development and refinement of interventions. Journal Pre-proof
+
+## Sensory Sensitivity
+
+On a generalized level, sensory sensitivity refers to how aware one is of different sensory modalities: vision, audition, taste, smell, touch, and pain (Gunn et al., 2009). Individuals respond to sensory information in different ways, with some being more or less sensitive to sensory stimuli than others (Brown &amp; Dunn, 2002). Over-responsivity to sensory stimuli is directly associated with negative emotions (e.g., anxiety and depression; Pfeiffer et al., 2015; Sullivan et al., 2014) and common in youth with neurodevelopmental disorders (Cervin, 2023; Gourley et
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+al., 2013; Kotsiris et al., 2020; Lane et al., 2010; Mazurek et al., 2013) as well as in youth with obsessive-compulsive disorder (OCD) and anxiety disorders (Cervin, 2023).
+
+Not surprisingly, strong associations between misophonia symptoms, sound sensitivity,
+
+## and generalized sensory sensitivity have been observed in child and undergraduate samples (Rinaldi et al., 2023; Wu et al., 2014). For example, in a large sample of undergraduate students, Wu et al. (2014) found that misophonia severity was associated with sensory/sound intolerance and moderately related with anxiety, depressive, and obsessive-compulsive symptoms. Comparatively, in a community sample, sensory intolerant individuals were found to also have higher levels of psychopathology in general, as well as greater levels of obsessive-compulsive symptoms (Taylor et al., 2014). While generalized sound sensitivity and misophonia per se have been previously studied (McKay &amp; Acevedo, 2020; Taylor, 2017), there are no studies to date that have examined whether sensory sensitivity is associated with variation in psychiatric symptoms in youth with misophonia. Emotion Regulation Journal Pre-proof
+
+Beyond the experience of negative emotions in the face of trigger stimuli, the way in which emotions are regulated on a generalized basis may also play an important role in youth misophonia. Emotion dysregulation, which can manifest as angry outbursts (Giesbrecht et al., 2010), has been assumed in misophonia simply from evidence of co-morbidities (Erfanian et al., 2018). Recent evidence indicates that poor emotion regulation is associated with symptoms of misophonia in adults, it is, however, still unclear whether these effects appear in early childhood (Cassiello-Robbins et al., 2020). Further, emotion dysregulation may mirror a core trait associated with misophonia, such that negative emotional reactions are triggered more readily (Rinaldi et al., 2023). While emotion regulation in misophonia is often studied on a generalized,
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+or behaviorally focused, basis (e.g., Guetta et al., 2022), exploring cognitive factors within the regulation of emotion may be especially useful for understanding misophonia, which is characterized by the contextual interpretation (i.e., cognitive processing) of typically benign sounds (Swedo et al., 2022). To that end, particularly relevant to the present study, cognitive emotion regulation has been conceptualized through the framework of nine distinct adaptive and maladaptive coping facets (Garnefski et al., 2005).
+
+Although relatively limited, there has been some research examining the relation between cognitive emotion regulation facets and emotional-behavioral problems. For example, in 271 secondary school students, Garnefski et al. (2005) found significant correlations between internalizing symptoms and the following cognitive emotion regulation facets: Self-Blame, Rumination, Positive Reappraisal, and Catastrophizing. Within the same sample, significant correlations were found between externalizing symptoms and the following cognitive emotion regulation facets: Positive Refocusing, Catastrophizing, and Other-Blame. Similar associations involving cognitive emotion regulation have been found in other conditions (i.e., depression, anxiety, and autism) among youth samples (Kraaij et al., 2003; Mazefsky et al., 2014). Journal Pre-proof
+
+Without effective emotion regulation, individuals may experience longer and more severe periods of distress, which may predispose them to the development of depression and anxiety (Salters-Pedneault et al., 2006). In a sample of adolescents, Connor-Smither et al. (2000) suggested that greater use of adaptive emotion regulation was protective against a broad range of psychopathology, including both internalizing and externalizing problems. Conversely, maladaptive emotion regulation is seen more commonly in those with psychopathology (Aldao et al., 2010; Beck 1976; Clark, 1988; Salkovskis, 1998). While these associations have been less studied in youth with misophonia compared to others (Garnefski et al., 2005; Kraaij et al., 2003;
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Mazefsky et al., 2014), cognitive emotion regulation is an important process to examine to better understand the mechanisms of misophonia impacting emotional-behavioral problems and further inform the adoption of treatment approaches.
+
+## Current Study
+
+Given the limited research on psychological processes associated with generalized psychopathology in youth with misophonia, the present cross-sectional study evaluated candidate processes associated with internalizing and externalizing symptoms among 102 youth with misophonia. The aim of the study was to examine the extent to which misophonia severity, generalized sensory sensitivity, and cognitive emotion regulation facets were associated with internalizing and externalizing symptoms. The present study seeks to build on results from an earlier study which reported a significant bivariate relation between misophonia severity and emotional-behavioral symptoms in youth with misophonia (Guzick et al., 2023). Based on its clear role across a range of mental and neurodevelopmental difficulties in youth (Cervin, 2023), we hypothesized that elevated sensory sensitivity would be associated with increased internalizing and externalizing symptoms in youth with misophonia. Further, given past findings (Garnefski et al., 2005; Kraaij et al., 2003; Wang et al., 2022), we hypothesized that adaptive cognitive emotion regulation facets would be negatively associated with internalizing and externalizing symptoms, and maladaptive cognitive emotion regulation facets would be positively associated with internalizing and externalizing symptoms. Journal Pre-proof
+
+Subsequently, given the common internalizing (rather than externalizing) nature of misophonia psychopathology (Guzick et al., 2023; Wu et al., 2014), we examined whether cognitive emotion regulation facets moderated the relationship between misophonia severity and
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+internalizing symptoms. However, given the paucity of extant research on the topic, such moderation analyses were considered exploratory in nature.
+
+## Method
+
+## Procedures
+
+Data used in the current study were collected as part of a larger project carried out at a private academic medical center in the southern U.S.A. conducting deep phenotyping of pediatric misophonia (see Guzick et al., 2023 for further details regarding study procedures and characterization of the sample utilized in the current study).
+
+Prior to study enrollment, participants completed a telephone pre-screen to determine eligibility. Inclusion criteria were: 1) child age of 8-17 years inclusive, 2) at least one parent willing to participate, 3) both child and parent are fluent in English, 4) no history of a psychotic disorder, and 5) no current clinically significant suicidality. Inclusion criteria for the misophonia group further required a score of 10 or higher on the Amsterdam Misophonia Scale (A-MISO-S; Schröder et al., 2013) assessment, representative of moderate misophonia severity.
+
+Youth endorsing misophonia and their parents or guardians were recruited through social media, research recruitment networks (i.e., Trialfacts), clinician referrals, organization websites, and local community organizations. Youth with clinically significant anxiety and no suspected misophonia were recruited through similar platforms as a comparable control group with an impairing condition and some similarities in disorder characteristics. Journal Pre-proof
+
+Those determined to be eligible after the prescreen provided written assent/consent to participate in a virtual assessment, conducted over zoom. A research coordinator or a doctoral student in psychology conducted the assessment. Training and supervision were provided by a licensed psychologist. The virtual assessment consisted of a clinical interview which included
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+the Misophonia Assessment Interview (MAI; Lewin, 2020; Lewin et al., 2021) and the Mini International Neuropsychiatric Interview for Children and Adolescents (MINI-KID; Sheehan et al., 2010), and several online self-report questionnaires that both parent and child were asked to complete.
+
+## Participants
+
+Two-hundred and fifty-two total participants, 112 with suspected misophonia and 140 with suspected clinically significant anxiety, were recruited for the study. For the present study, only data from the misophonia group were analyzed. 102 of the 112 with suspected misophonia were eligible. Those not included were excluded from analyses for the following reasons: misophonia symptoms were too mild (A-MISO-S score &lt; 10), n = 5, or failure to schedule the assessment visit after the initial pre-screen consent, n = 5. Measures Mini International Neuropsychiatric Interview for Children and Adolescents (MINI-KID; Sheehan et al., 2010). The MINI-KID is a brief, clinician administered, diagnostic interview meant to evaluate both clinical and general populations for presentations of DSM-5 psychiatric disorders. Psychometrics among children and adolescents have been established (Duncan et al., 2018; Högberg et al., 2019). Journal Pre-proof
+
+Misophonia Assessment Questionnaire . The child-reported Misophonia Assessment Questionnaire (C-MAQ; Johnson &amp; Dozier, 2013; Dozier, 2015) is a 21-item self-report questionnaire assessing broad aspects of misophonia and its impact on everyday life as well as the origins and prognosis of the misophonia symptoms. Each item was scored on a 0-3 Likert scale (0 = Not at all to 3 = Almost all the time) and total scores for all items were utilized to determine overall misophonia severity. The C-MAQ has demonstrated strong psychometric
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+properties, including strong internal consistency and convergent validity (Cervin et al., 2023). Cronbach's alpha in the present study was α = 0.94.
+
+Glasgow Sensory Questionnaire . The Glasgow Sensory Questionnaire (GSQ; Robertson &amp; Simmons, 2013) is a 42-item self-report measure that evaluates hyper- and hypo-sensory sensitivity to various stimuli across seven sensory domains: visual, auditory, gustatory, olfactory, tactile, vestibular, and proprioception. All items measure how frequently different sensory difficulties are experienced and ask participants to detail which sensory events are most problematic for them. Items are scored on a 5-point Likert scale (0 = Never to 4 = Always). The GSQ was originally developed to determine sensory symptoms associated with autism spectrum disorders; however, for the purposes of the present study, the questionnaire was administered to measure sensitivities in children and adolescents with misophonia. Total scores were calculated to determine overall frequency of sensory difficulties in the present sample. The GSQ has been validated in several different languages both in adult and child measure and has demonstrated strong internal consistency, convergent validity, and divergent validity (Robertson &amp; Simmons, 2013; Kuiper et al., 2019). Journal Pre-proof
+
+Youth Self-Report. The Youth Self-Report (YSR; Achenbach &amp; Rescorla, 2001) is a wellvalidated, broadband self-report measure designed to assess emotional (e.g., mood/anxiety symptoms) and behavioral problems (e.g., disruptive behavior symptoms) among youth. Each of the 112 items are scored on a 3-point Likert scale (0 = not true or not at all, 1 = sometimes or somewhat true, and 2 = very true or often). Total scores for both the internalizing and externalizing YSR subscales were calculated for the present sample. The YSR has demonstrated strong psychometric properties, including high internal consistency (Guzick et al., 2023; Ebesutani et al., 2011).
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Cognitive Emotion Regulation Questionnaire . The Cognitive Emotion Regulation Questionnaire (CERQ; Garnefski et al., 2007) is a 36-item youth self-report measure designed to assess individual differences in cognitive regulation of emotions used in response to stressful, negative, or traumatic life events and situations. The measure consists of 9 subscales: Self-blame, Other-blame, Rumination, Catastrophizing, Putting into Perspective, Positive Refocusing, Positive Reappraisal, Acceptance, and Planning. Each subscale contains 4 items that are scored on a 5-point Likert scale (1 = Almost Never to 5 = Almost Always). The CERQ has demonstrated strong psychometric properties, including good factorial validity and high reliability (Betegón et al., 2022; Garnefski et al., 2007). Statistical analyses
+
+Multiple linear regression was used to model the relationships between potential predictor variables and YSR internalizing and externalizing scores. Predictor variables were entered into the regression models in four blocks, with age and gender in the first block, misophonia severity (C-MAQ) in the second block, sensory sensitivity (GSQ) in the third block, and cognitive emotion regulation facets (all subscales on the CERQ) in the fourth block.
+
+Data were previously evaluated for patterns of missingness and conformity to normal distribution assumptions (Guzick et al., 2023). Missing data were rare (two participants had missing YSR) and thus completer-only analyses were conducted. Data were not found to show significant skewness or kurtosis, with all skewness and kurtosis statistics falling within -2 and +2, suggesting they would be appropriate for parametric analyses (George &amp; Mallery, 2019). Journal Pre-proof
+
+To assess whether the effects of misophonia severity on internalizing problems were influenced by cognitive emotion regulations facets, a moderator analysis was conducted.
+
+Interaction terms between misophonia severity and each CERQ subscale were calculated, using
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+standardized scores for both measures to reduce the risk of potential multicollinearity. Multiple linear regression was employed with main effects (C-MAQ, all CERQ subscale) entered in the first block, and interaction terms entered in the second block. We also tested for possible problems of collinearity by evaluating the variance inflation factor (VIF) scores for each predictor and interaction term in all models.
+
+## Results
+
+Demographics The majority of the included sample identified as White (87%) and female (68%). The mean age of the sample was 13.7 years ( SD = 2.5) and the mean age of misophonia onset was 8.8 years ( SD = 2.0). Psychiatric morbidity was high, with 81 participants (79%) meeting criteria for at least one psychiatric diagnosis. Almost half of the sample experienced a major depressive disorder (current or past), n = 48 (47%), with 15 (15%) experiencing a current depressive episode at the time of assessment. Nearly half met criteria for a current anxiety or obsessivecompulsive disorder, n = 46 (45 %); the most common anxiety disorders were social anxiety disorder, n = 31 (30%) and generalized anxiety disorder n = 27 (27%). The most common misophonia triggers included eating (96%), breathing (84%), throat sounds (66%), and tapping (54%). Additional demographic information can be found in previous work (Guzick et al., 2023). Journal Pre-proof
+
+## Bivariate Correlations
+
+The correlations among all study variables can be seen in Table 1. Misophonia severity was significantly correlated in expected directions with internalizing ( r = .603) and externalizing ( r = .439) symptoms, as well as sensory sensitivity ( r = .546). Furthermore, misophonia severity was positively correlated with maladaptive ( s .222 - .619), but not adaptive ( r r s -.008 - .007)
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+facets of cognitive emotion regulation. With the exception of Other-Blame, sensory sensitivity demonstrated similarly-valenced correlations with the same variables as misophonia severity. Internalizing problems
+
+Results from the multiple linear regression models with YSR internalizing as the outcome variable can be seen in Table 2. In the final model, controlling for all variables, only sensory sensitivity and age remained significant predictors of internalizing problems. However, when cognitive emotion regulation facets were not included (blocks two and three) misophonia severity as well as gender (in block three) were also significant predictors. When misophonia severity was added to the initial model (with only age and gender as predictors), the model improved significantly ( p &lt; .001). When sensory sensitivity was added in the subsequent block, the model further improved ( p &lt; .001). Adding the cognitive emotion regulation facets in block four did not result in a significant improvement of the overall regression model ( p &lt; .112). The final model explained 67.8% of the variance in YSR internalizing scores. Externalizing problems Journal Pre-proof
+
+Results for the multiple linear regression models with YSR externalizing as the outcome variable can be seen in Table 3. In the final model, controlling for all variables, only sensory sensitivity and the Other-Blame cognitive emotion regulation facet remained predictors of externalizing problems. Misophonia severity and sensory sensitivity were significant predictors in blocks two and three, respectively, when emotion regulation strategies were not yet controlled for. When misophonia severity was added to the initial model (with only age and gender as predictors), the model improved significantly ( p &lt; .001). When sensory sensitivity was added as well, the model again improved significantly ( p &lt; .004). Adding the cognitive emotion regulation
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+facets also resulted in a significant improvement of the overall regression model ( p &lt; .002). The final model explained 44.9% of the variance in YSR externalizing scores.
+
+Emotion regulation facets as moderators of misophonia severity on internalizing symptoms
+
+Results for the moderator analyses can be seen in Table 4. The main effects of misophonia severity and Self-Blame as predictors were significant in this model. In addition, the Positive Reappraisal*misophonia severity interaction term is significant, indicating that Positive Reappraisal moderated the effect of misophonia severity on internalizing symptoms. This moderating effect can be viewed graphically in Figure 1. For those scoring high on the CERQ Positive Reappraisal subscale, high levels of misophonia severity are associated with lowered levels of internalizing symptoms. For those low on positive reappraisal, high misophonia scores are associated with higher levels of internalizing symptoms. For those with medium-level scores of Positive Reappraisal, misophonia severity seems to minimally impact internalizing problems. Discussion Journal Pre-proof
+
+The present cross-sectional study evaluated psychological factors associated with internalizing and externalizing symptoms among misophonic youth. Findings indicated that sensory sensitivity and age were significant statistical predictors of internalizing symptoms, whereas sensory sensitivity and the Other-Blame cognitive emotion regulation facet were significant statistical predictors of externalizing symptoms. Based on these findings, sensory sensitivity broadly, rather than just misophonia-related sound sensitivity specifically, appear to be consistently related to psychopathology among youth with misophonia. Further, results of exploratory moderation analyses demonstrated that the Positive Reappraisal cognitive emotion regulation facet moderated the effect of misophonia severity on internalizing symptoms.
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+For our first aim, we sought to explore associations between misophonia severity, sensory sensitivity, and cognitive emotion regulation facets with internalizing and externalizing symptoms. Our hypothesis that misophonia severity would be uniquely associated with internalizing symptoms was partially supported. Unexpectedly, in the final step of the regression model, when controlling for cognitive emotion regulation facets and sensory sensitivity, misophonia severity was no longer a significant statistical predictor, suggesting that these other factors may be more closely linked with internalizing symptoms in this population. Within our results, sensory sensitivity stands out as a viable candidate for a central feature linking misophonia and, particularly internalizing, but also externalizing, symptoms in youth. This is in line with emerging evidence showing that generalized sensory processing difficulties may be a common theme across many psychiatric disorders, including OCRDs (Cervin, 2023; Leckmann &amp; Cohen; Jewers et al., 2013; van den Boogert et al., 2022), as well as within misophonia specifically (McKay &amp; Acevedo, 2020; Taylor, 2017). Journal Pre-proof
+
+As expected, there were strong correlations between internalizing symptoms and the following cognitive emotion regulation facets: Self-Blame, Acceptance, Rumination, and Catastrophizing. However, unexpectedly, there was no evidence of a unique association between cognitive emotion regulation facets and internalizing symptoms after controlling for several relevant variables. Current results are inconsistent with previous findings in non-clinical samples (e.g., Garnefski et al., 2005; Kraaij et al., 2003), which suggested that cognitive emotion regulation facets (i.e., Rumination, Self-Blame, and Catastrophizing) were strong 'predictors' of internalizing symptoms. Though inconsistent with others, the present study is the first to examine this association in youth with misophonia. Perhaps present findings do not support this association, given that much of the literature utilizing the CERQ measure focuses on nonclinical
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+samples and other conditions (i.e., depression) besides misophonia (Garnefsky et al., 2005; Kraaij et al., 2003; McKinnon et al., 2020). That is, it may be the case that since the CERQ measure has not been psychometrically validated for use in populations of individuals with clinically elevated psychopathology, it may possess less precision for capturing facets of cognitive emotion regulation in samples from such populations, including the one used in the present study. Such an assertion is further supported by our findings concerning a lack of association between adaptive CERQ facets and sound sensitivity and misophonia symptom severity, respectively.
+
+We expected misophonia severity to significantly predict higher levels of externalizing symptoms, though this was only partially supported by our results. Unexpectedly, when controlling for cognitive emotion regulation facets and sensory sensitivity in the final model, the significant association between misophonia severity and externalizing symptoms became nonsignificant. However, sensory sensitivity remained as a statistical predictor of externalizing symptoms. Results are consistent with others (Gunn et al., 2009), suggesting that sensory sensitivity (but not misophonia severity) is a unique, predictive factor of externalizing symptoms in youth with misophonia, as well as other clinical populations (e.g., autism &amp; ADHD; Gourley et al., 2013; Kotsiris et al., 2020; Lane et al., 2010; Mazurek et al., 2013). Journal Pre-proof
+
+Moreover, significant correlations were found between externalizing symptoms and the following cognitive emotion regulation facets: Self-Blame, Acceptance, Catastrophizing, and Other-Blame. Additionally, results of linear regression analyses suggested that Other-Blame emerged as a reliable statistical predictor of externalizing symptoms in the sample. Youth with misophonia have historically been purported to have tendencies to react aggressively to others making trigger sounds (Schröder et al., 2013) as well as having a propensity to blame others
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+rather than a tendency to blame oneself for their subsequent reaction (Guzick et al., 2023). As such, youth who engage with the Other-Blame cognitive emotion regulation facet may be more prone to engage in verbal aggression directed towards others.
+
+The strength and consistency of the sensory sensitivity-psychopathology association in the current study suggests that sensory problems likely play an important role in the presentation of misophonia in youth. It is possible that sensory sensitivity leads to higher levels of internalizing symptoms, as highly sensitive individuals have lower sensory thresholds, such that certain stimuli that otherwise would be ignored by most people affect them strongly. Highly sensitive individuals might also tend to have particularly strong emotional and behavioral responses to triggering stimuli, and when that tendency is compounded with a lowered sensory threshold, they become more susceptible to experiencing symptoms of psychopathology (McKay &amp; Acevedo, 2020). Additionally, it may also be the case that sensory sensitivities coincide through shared generalized psychopathological vulnerability factors for internalizing and externalizing problems broadly speaking (Ruggero et al., 2019). The presence of sensory abnormalities presents the possibility of differentiating individuals within a specific psychiatric condition, allowing for more distinction within groups which may aid research and lead to more targeted and effective individualized treatment (i.e., precision medicine; Torres, 2022). This warrants further exploration, as our findings lend further support to the notion that sensory sensitivity may be a key psychological dimension in misophonia (Taylor et al., 2014; Wu et al., 2014). Journal Pre-proof
+
+We also examined the moderating effect of cognitive emotion regulation facets on the association between misophonia severity and internalizing symptoms on an exploratory basis. Although speculative in nature, findings from moderation analyses suggested that youth with
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+more severe misophonia may be less likely to experience the emotional consequences of misophonia (e.g., depression &amp; anxiety) if they are able to engage with the Positive Reappraisal (adaptive) emotion regulation facet. As cognitive emotion regulation facets seem to play a salient role in the treatment of other psychiatric conditions, it may also be important to aim intervention efforts for youth with misophonia at cognitive emotion regulation facets, for example, by challenging maladaptive facets and supplying more adaptive facets such as Positive Reappraisal. Indeed, this approach could fit within the framework of cognitive behavioral therapy, which appears to be the most commonly used framework for developing and testing psychotherapeutic interventions for misophonia (Jager et al., 2020; Lewin et al., 2021). To that end, findings from the present study suggest that the utilization of the Positive Reappraisal cognitive emotion regulation strategies may help to prevent and reduce internalizing symptoms in the context of misophonia severity, potentially improving overall emotional wellbeing in youth. However, findings concerning the interactive effect of the Positive Reappraisal cognitive emotion regulation facet on the relationship between misophonia severity and internalizing symptoms should be interpreted with caution, especially in light of the lack of statistical association between CERQ- Positive Reappraisal and other study variables outside the aforementioned significant interaction term and the exploratory nature of the analyses. Journal Pre-proof
+
+## Limitations and Conclusion
+
+There are several study limitations. First, the sample lacked diversity regarding ethnoracial composition and was comprised primarily of female (68%) and White participants (87%). Second, the sample may reflect children and adolescents with more severe, primary misophonia as participants were recruited predominantly from online support communities. Third, the misophonia assessments utilized consisted only of preliminary psychometric validation, given
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+there were no validated assessments available when the original study began (Guzick et al., 2023). However, more recently, further evidence of the psychometric properties (i.e., construct and convergent validity) of misophonia measures used in the present study has been provided (Cervin et al., 2023). Finally, no objective measure of hearing or visual acuity were included in our battery.
+
+An important next step in this line of work will be to examine these associations longitudinally, and among larger, more diverse samples. This will help elucidate the direction and strength of these relations and may add insight into more complex associations among these variables. Additionally, this will help point to treatment development strategies that could be tested within samples of youth with misophonia, for example, targeting sensory sensitivity on a generalized level, along with Positive Reappraisal, may be useful targets for CBT-based approaches in misophonic youth (Dover &amp; McGuire, 2023; Lewin et al., 2021; Zarotti et al., 2022). Journal Pre-proof
+
+Overall, the current study provided further evidence regarding clinically relevant variables associated with misophonia beyond misophonia symptom severity per se, highlighting the potential role of sensory sensitivity in both internalizing and externalizing problems in sample of well-characterized youth with misophonia. Findings help to expand the literature on internalizing and externalizing disorders in this clinical population, and offer direction for future associational, longitudinal, and intervention development research. It will be important to explore these associations in order to better understand the mechanisms of the disorder and refine treatment technologies to alleviate suffering in afflicted individuals.
+
+## References
+
+Achenbach, T. M., &amp; Rescorla, L. A. (2001). Manual for the ASEBA School-Age Forms &amp; Profiles . Burlington, VT: University of Vermont, Research Center for Children, Youth, &amp; Families.
+
+Aldao, A., Nolen-Hoeksema, S., &amp; Schweizer, S. (2010). Emotion-regulation strategies across psychopathology: A meta-analytic review. Clinical Psychology Review , 30 (2), 217-237. https://doi.org/10.1016/j.cpr.2009.11.004
+
+Beck, A. T. (1976). Cognitive therapy and the emotional disorders. International Universities Press. Betegón, E., Rodríguez-Medina, J., Del-Valle, M., &amp; Irurtia, M. J. (2022). Emotion Regulation in Adolescents: Evidence of the Validity and Factor Structure of the Cognitive Emotion Regulation Questionnaire (CERQ). International Journal of Environmental Research and Public Health , 19 (6), 3602. https://doi.org/10.3390/ijerph19063602 Brown, C., &amp; Dunn, W. (2002). Adolescent/adult sensory profile. San Antonio, TX: Psychological Corporation Journal Pre-proof
+
+Cassiello-Robbins, C., Anand, D., McMahon, K., Guetta, R., Trumbull, J., Kelley, L., &amp; Rosenthal, M. Z. (2020). The Mediating Role of Emotion Regulation Within the Relationship Between Neuroticism and Misophonia: A Preliminary Investigation. Frontiers in Psychiatry , 11 , 847. https://doi.org/10.3389/fpsyt.2020.00847
+
+Cervin M. (2023). Sensory Processing Difficulties in Children and Adolescents with ObsessiveCompulsive and Anxiety Disorders. Research on Child and Adolescent Psychopathology , 51 (2), 223-232. https://doi.org/10.1007/s10802-022-00962-w
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Cervin, M., Guzick, A. G., Clinger, J., Smith, E. E. A., Draper, I. A., Goodman, W. K., Lijffijt, M., Murphy, N., Rast, C. E., Schneider, S. C., &amp; Storch, E. A. (2023). Measuring misophonia in youth: A psychometric evaluation of child and parent measures. Journal of Affective Disorders, 338 , 180-186. Advance online publication.
+
+https://doi.org/10.1016/j.jad.2023.05.093
+
+Clark, D. M. (1988). A cognitive model of panic attacks. In S. Rachman &amp; J. D. Maser (Eds.), Panic: Psychological perspectives (pp. 71-89). Lawrence Erlbaum Associates, Inc. Connor-Smith, J. K., Compas, B. E., Wadsworth, M. E., Thomsen, A. H., &amp; Saltzman, H. (2000). Responses to stress in adolescence: Measurement of coping and involuntary stress responses. Journal of Consulting and Clinical Psychology , 68 (6), 976-992. https://doi.org/10.1037/0022-006X.68.6.976 Dover, N., &amp; McGuire, J. F. (2023). Family-Based Cognitive Behavioral Therapy for Youth with Misophonia: A Case Report. Cognitive and Behavioral Practice . https://doi.org/10.1016/j.cbpra.2021.05.005 Dozier, T. H. (2015). Counterconditioning treatment for misophonia. Clinical Case Studies , 14 (5), 374-387. https://doi.org/10.1177/1534650114566924 Journal Pre-proof
+
+Duncan, L., Georgiades, K., Wang, L., Van Lieshout, R. J., MacMillan, H. L., Ferro, M. A., Lipman, E. L., Szatmari, P., Bennett, K., Kata, A., Janus, M., &amp; Boyle, M. H. (2018). Psychometric evaluation of the Mini International Neuropsychiatric Interview for Children and Adolescents (MINI-KID). Psychological Assessment , 30 , 916-928. https://doi.org/10.1037/pas0000541
+
+Ebesutani, C., Bernstein, A., Martinez, J. I., Chorpita, B. F., &amp; Weisz, J. R. (2011): The Youth Self Report: Applicability and validity across younger and older youths. Journal of
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Clinical Child &amp; Adolescent Psychology, 40 (2), 338-346.
+
+https://doi.org/10.1080/15374416.2011.546041
+
+Erfanian, M., Brout, J. J., &amp; Keshavarz, A. (2018). Misophonia, emotional dysregulation and affective disorders: a preliminary study. European Neuropsychopharmacology , 28 (6), 771-772. https://doi.org/10.1016/j.euroneuro.2017.10.014
+
+Garnefski, N., Kraaij, V., &amp; van Etten, M. (2005). Specificity of relations between adolescents' cognitive emotion regulation strategies and Internalizing and Externalizing psychopathology. Journal of Adolescence , 28 (5), 619-631. https://doi.org/10.1016/j.adolescence.2004.12.009 Garnefski, N., Rieffe, C., Jellesma, F., Terwogt, M. M., &amp; Kraaij, V. (2007). Cognitive emotion regulation strategies and emotional problems in 9 - 11-year-old children: the development of an instrument. European Child &amp; Adolescent Psychiatry , 16 (1), 1-9. https://doi.org/10.1007/s00787-006-0562-3 George, D., &amp; Mallery, P. (2019). IBM SPSS statistics 26 step by step: A simple guide and reference : Routledge. Journal Pre-proof
+
+Giesbrecht, G. F., Miller, M. R., &amp; Müller, U. (2010). The anger-distress model of temper tantrums: Associations with emotional reactivity and emotional competence. Infant and Child Development , 19 (5), 478-497. https://doi.org/10.1002/icd.677
+
+Gourley, L., Wind, C., Henninger, E. M. &amp; Chinitz, S. (2013). Sensory processing difficulties, behavioral problems, and parental stress in a clinical population of young children. Journal of Child and Family Studies , 22 (7), 912-921. https://doi.org/10.1007/s10826012-9650-9
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Guetta, R. E., Cassiello-Robbins, C., Trumbull, J., Anand, D., &amp; Rosenthal, M. Z. (2022). Examining emotional functioning in misophonia: The role of affective instability and difficulties with emotion regulation. PLoS One, 17 (2): e0263230. https://doi.org/10.1371/journal.pone.0263230
+
+Gunn, T.E., Tavegia, B.D., Houskamp, B.M., McDonald, L.B., Bustrum, J.M., Welsh, R.K., &amp; Mok, D.S. (2009)  Relationship between sensory deficits and externalizing behaviors in . an urban, Latino preschool population. Journal of Child and Family Studies, 18 , 653-661 (2009). https://doi.org/10.1007/s10826-009-9266-x
+
+Guzick, A. G., Cervin, M., Smith, E. E. A., Clinger, J., Draper, I., Goodman, W. K., Lijffijt, M., Murphy, N., Lewin, A. B., Schneider, S. C., &amp; Storch, E. A. (2023). Clinical characteristics, impairment, and psychiatric morbidity in 102 youth with misophonia. Journal of Affective Disorders , 324 , 395-402. https://doi.org/10.1016/j.jad.2022.12.083 Högberg, C., Billstedt, E., Björck, C., Björck, P. O., Ehlers, S., Gustle, L. H., Hellner, C., Höök, H., Serlachius, E., Svensson, M. A.,  &amp; Larsson, J. O. (2019). Diagnostic validity of the MINI-KID disorder classifications in specialized child and adolescent psychiatric outpatient clinics in Sweden. BMC Psychiatry , 19 (1), 1-10. Journal Pre-proof https://doi.org/10.1186/s12888-019-2121-8
+
+Jager, I., de Koning, P., Bost, T., Denys, D., &amp; Vulink, N. (2020). Misophonia: Phenomenology, comorbidity and demographics in a large sample. PloS one , 15 (4), e0231390. https://doi.org/10.1371/journal.pone.0231390
+
+Jager, I. J., Vulink, N. C. C., Bergfeld, I. O., van Loon, A. J. J. M., &amp; Denys, D. A. J. P. (2020). Cognitive behavioral therapy for misophonia: A randomized clinical trial. Depression
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+and Anxiety , 38 (7), 708-718. Advance online publication.
+
+https://doi.org/10.1002/da.23127
+
+Jewers, R., Staley, D., &amp; Shady, G. (2013). Sensory processing differences in children diagnosed with Tourette's disorder. Occupational Therapy in Mental Health , 29 (4), 385-394. https://doi.org/10.1080/0164212X.2013.848397
+
+Johnson, M., &amp; Dozier, T. (2013). Misophonia assessment questionnaire (MAQ). Revised by Dozier T. Livermore, CA: Misophonia Institute .
+
+Kraaij, V., Garnefski, N., de Wilde, E. J., Dijkstra, A., Gebhardt, W., Maes, S., &amp; ter Doest, L. (2003). Negative life events and depressive symptoms in late adolescence: Bonding and cognitive coping as vulnerability factors? Journal of Youth and Adolescence, 32 (3), 185193.
+
+Kaufman, A. S. (2004). Kaufman brief intellgence test-second edition (KBIT-2). Cicle Pines, MN: American Guidance Service. Kotsiris, K., Westrick, J., &amp; Little, L. (2020). Sensory processing patterns and internalizing behaviors in the pediatric and young adult general population: A scoping review. The Open Journal of Occupational Therapy, 8 (1), 1-13. https://doi.org/10.15453/21686408.1624 Journal Pre-proof
+
+Kraiss, J. T., Ten Klooster, P. M., Moskowitz, J. T., &amp; Bohlmeijer, E. T. (2020). The relationship between emotion regulation and well-being in patients with mental disorders: A metaanalysis. Comprehensive Psychiatry , 102 , 152189.
+
+https://doi.org/10.1016/j.comppsych.2020.152189
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Kuiper, M. W., Verhoeven, E. W., &amp; Geurts, H. M. (2019). The Dutch Glasgow Sensory Questionnaire: Psychometric properties of an autism-specific sensory sensitivity measure. Autism , 23 (4), 922-932. https://doi.org/10.1177/1362361318788065
+
+Lane, S. J., Reynolds, S., &amp; Thacker, L. (2010). Sensory over-responsivity and ADHD: Differentiating using electrodermal responses, cortisol, and anxiety. Frontiers in Integrative Neuroscience , 4 . https://doi.org/10.3389/fnint.2010.00008
+
+Leckman, J. F., &amp; Cohen, D. J. (Eds.). (1999). Tourette's syndrome-tics, obsessions, compulsions: Developmental psychopathology and clinical care. John Wiley &amp; Sons, Inc.. Lewin, A. (2020). Misophonia Assessment Interview. Lewin, A. B., Dickinson, S., Kudryk, K., Karlovich, A. R., Harmon, S. L., Phillips, D. A., Tonarely, N. A., Gruen, R., Small, B., &amp; Ehrenreich-May, J. (2021). Transdiagnostic cognitive behavioral therapy for misophonia in youth: Methods for a clinical trial and four pilot cases. Journal of Affective Disorders , 291 , 400-408. https://doi.org/10.1016/j.jad.2021.04.027 Journal Pre-proof
+
+Mazefsky, C. A., Borue, X., Day, T. N., &amp; Minshew, N. J. (2014). Emotion regulation patterns in adolescents with high-functioning autism spectrum disorder: Comparison to typically developing adolescents and association with psychiatric symptoms. Autism Research: Official Journal of the International Society for Autism Research , 7 (3), 344-354. https://doi.org/10.1002/aur.1366
+
+Mazurek, M. O., Vasa, R. A., Kalb, L. G., Kanne, S. M., Rosenberg, D., Keefer, A., Murray, D.
+
+S., Freedman, B., Lowery, L. A. (2013). Anxiety, sensory over-responsivity, and
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+gastrointestinal problems in children with autism spectrum disorders. Journal of
+
+Abnormal Child Psychology , 41 (1), 165-176. https://doi.org/10.1007/s10802-012-9668-x McKay, D., &amp; Acevedo, B. P. (2020). Clinical characteristics of misophonia and its relation to sensory processing sensitivity: A critical analysis (pp. 165 - 185. In The highly sensitive brain: Research, assessment, and treatment of sensory processing sensitivity. Academic Press.
+
+McKinnon, A., Kuyken, W., Hayes, R., Werner-Seidler, A., Watson, P., Dalgleish, T., &amp; Schweizer, S. (2020). The psychometric properties of the cognitive emotion regulation questionnaire (CERQ) in a clinical sample of adults with recurrent depression. Journal of Affective Disorders , 276 , 212-219. https://doi.org/10.1016/j.jad.2020.06.061 Pfeiffer, B., Daly, B. P., Nicholls, E. G., &amp; Gullo, D. F. (2015). Assessing sensory processing problems in children with and without attention deficit hyperactivity disorder. Physical &amp; Occupational Therapy in Pediatrics  35 , (1), 1-12. Journal Pre-proof
+
+Rinaldi, L. J., Simner, J., Koursarou, S., &amp; Ward, J. (2023). Autistic traits, emotion regulation, and sensory sensitivities in children and adults with Misophonia. Journal of Autism and Developmental Disorders , 53 (3), 1162-1174. https://doi.org/10.1007/s10803-022-05623x
+
+Robertson, A. E., &amp; Simmons, D. R. (2013). The relationship between sensory sensitivity and autistic traits in the general population. Journal of Autism and Developmental Disorders, 43 (4), 775-784. https://doi.org/10.1007/s10803-012-1608-7
+
+Rosenthal, M. Z., McMahon, K., Greenleaf, A. S., Cassiello-Robbins, C., Guetta, R., Trumbull,
+
+- J., Anand, D., Frazer-Abel, E. S., &amp; Kelley, L. (2022). Phenotyping misophonia:
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Psychiatric disorders and medical health correlates. Frontiers in Psychology , 13 , 941898. https://doi.org/10.3389/fpsyg.2022.941898
+
+Ruggero, C. J., Kotov, R., Hopwood, C. J., First, M., Clark, L. A., Skodol, A. E., MullinsSweatt, S. N., Patrick, C. J.,. . . &amp; Zimmermann, J. (2019). Integrating the Hierarchical Taxonomy of Psychopathology (HiTOP) into clinical practice. Journal of Consulting and Clinical Psychology , 87 (12), 1069-1084. https://doi.org/10.1037/ccp0000452
+
+Salkovskis, P. M. (1998). Psychological approaches to the understanding of obsessional problems. In R. P. Swinson, M. M. Antony, S. Rachman, &amp; M. A. Richter (Eds.), Obsessive-compulsive disorder: Theory, research, and treatment (pp. 33-50). The Guilford Press. Salters-Pedneault, K., Roemer, L., Tull, M. T., Rucker, L., &amp; Mennin, D. S. (2006). Evidence of Broad Deficits in Emotion Regulation Associated with Chronic Worry and Generalized Anxiety Disorder. Cognitive Therapy and Research, 30 (4), 469-480. https://doi.org/10.1007/s10608-006-9055-4 Journal Pre-proof
+
+Schröder, A., Van Wingen, G., Eijsker, N., San Giorgi, R., Vulink, N. C., Turbyne, C., &amp; Denys, D. (2019). Misophonia is associated with altered brain activity in the auditory cortex and salience network. Scientific Reports , 9 (1), 7542. https://doi.org/10.1038/s41598-019-
+
+## 44084-8
+
+Schröder, A., Vulink, N., &amp; Denys, D. (2013). Misophonia: Diagnostic criteria for a new psychiatric disorder. PloS one, 8 (1): e54706.
+
+https://doi.org/10.1371/journal.pone.0054706
+
+Siepsiak, M., Rosenthal, M. Z., Raj-Koziak, D., &amp; Dragan, W. (2022). Psychiatric and audiologic features of misophonia: Use of a clinical control group with auditory over-
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+responsivity. Journal of Psychosomatic Research , 156 , 110777.
+
+https://doi.org/10.1016/j.jpsychores.2022.110777
+
+Sheehan, D. V., Sheehan, K. H., Shytle, R. D., Janavs, J., Bannon, Y., Rogers, J. E., Milo, K. M., Stock, S. L., &amp; Wilkinson, B. (2010). Reliability and validity of the Mini International Neuropsychiatric Interview for Children and Adolescents (MINI-KID). The Journal of Clinical Psychiatry , 71 (3), 313-326. https://doi.org/10.4088/JCP.09m05305whi
+
+Sullivan, J. C., Miller, L. J., Nielsen, D. M., &amp; Schoen, S. A. (2014). The presence of migraines and its association with sensory hyperreactivity and anxiety symptomatology in children with autism spectrum disorder. Autism , 18 (6), 743-747. https://doi.org/10.1177/1362361313489377 Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., Kumar, S., Rosenthal, M. Z., Rouw, R., Schiller, D., Simner, J., Storch, E. A., Taylor, S., Werff, K. R. V., Altimus, C. M., &amp; Raver, S. M. (2022). Consensus definition of Misophonia: A Delphi study. Frontiers in Neuroscience , 16 , 841816. Taylor S. (2017). Misophonia: A new mental disorder?. Medical Hypotheses , 103 , 109-117. https://doi.org/10.1016/j.mehy.2017.05.003 Journal Pre-proof
+
+Taylor, S., Conelea, C. A., McKay, D., Crowe, K. B., &amp; Abramowitz, J. S. (2014). Sensory intolerance: latent structure and psychopathologic correlates. Comprehensive Psychiatry , 55 (5), 1279-1284. https://doi.org/10.1016/j.comppsych.2014.03.007
+
+Torres E. B. (2022). Special Issue "Precision Medicine in Neurodevelopmental Disorders: Personalized Characterization of Autism from Molecules to Behavior". Journal of Personalized Medicine , 12 (6), 918. https://doi.org/10.3390/jpm12060918
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+van den Boogert, F., Klein, K., Spaan, P., Sizoo, B., Bouman, Y. H. A., Hoogendijk, W. J. G., &amp; Roza, S. J. (2022). Sensory processing difficulties in psychiatric disorders: A metaanalysis. Journal of Psychiatric Research , 151 , 173-180.
+
+https://doi.org/10.1016/j.jpsychires.2022.04.020
+
+Wu, M. S., Lewin, A. B., Murphy, T. K., &amp; Storch, E. A. (2014). Misophonia: incidence, phenomenology, and clinical correlates in an undergraduate student sample. Journal of Clinical Psychology , 70 (10), 994-1007. https://doi.org/10.1002/jclp.22098
+
+Zarotti, N., Tuthill, A., &amp; Fisher, P. (2022). Online emotion regulation for an adolescent with misophonia: A case study. Journal of Cognitive Psychotherapy , doi: 10.1891/JCP-20210015. Journal Pre-proof
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Table 1. Correlations between study variables
+
+| Variables                   | 1       | 2       | 3       | 4       | 5              | 6       | 7                 | 8      | 9       | 10      | 11      | 12      | 13   |
+|-----------------------------|---------|---------|---------|---------|----------------|---------|-------------------|--------|---------|---------|---------|---------|------|
+| 1. Sensory sensitivity      | 1       |         |         |         |                |         |                   |        |         |         |         |         |      |
+| 2. Self-Blame               | .577 ** | 1       |         |         |                |         |                   |        |         |         |         |         |      |
+| 3. Acceptance               | .335 ** | .319 ** | 1       |         |                |         |                   |        |         |         |         |         |      |
+| 4. Rumination               | .515 ** | .638 ** | .236 *  | 1       |                |         |                   |        |         |         |         |         |      |
+| 5. Positive Refocusing      | -0.052  | -0.132  | 0.082   | 0.010   | 1              |         |                   |        |         |         |         |         |      |
+| 6. Planning                 | 0.106   | 0.189   | 0.074   | .273 ** | .343 **        | 1       |                   |        |         |         |         |         |      |
+| 7. Positive Reappraisal     | -0.018  | 0.025   | 0.101   | 0.160   | .326 **        | .481 ** | 1                 |        |         |         |         |         |      |
+| 8. Putting into Perspective | 0.095   | 0.067   | .212 *  | 0.135   | .456 **        | .221 *  | .496 ** Pre-proof | 1      |         |         |         |         |      |
+| 9. Catastrophizing          | .399 ** | .541 ** | .324 ** | .481 ** | -0.151         | 0.042   | -0.067            | -0.077 | 1       |         |         |         |      |
+| 10. Other-Blame             | 0.166   | 0.088   | .364 ** | 0.149   | 0.112          | 0.097   | 0.032             | 0.022  | .289 ** | 1       |         |         |      |
+| 11. Misophonia severity     | .546 ** | .619 ** | .319 ** | .467 ** | -0.076 Journal | 0.028   | -0.022            | 0.068  | .471 ** | .222 *  | 1       |         |      |
+| 12. YSR-Internalizing score | .730 ** | .643 ** | .345 ** | .514 ** | -0.141         | 0.025   | -0.114            | 0.024  | .503 ** | 0.196   | .603 ** | 1       |      |
+| 13. YSR-Externalizing score | .430 ** | .260 *  | .219 *  | 0.172   | 0.080          | 0.186   | 0.100             | 0.166  | .324 ** | .462 ** | .404 ** | .439 ** | 1    |
+
+- **. Correlation is significant at the 0.01 level (2-tailed).
+- *. Correlation is significant at the 0.05 level (2-tailed).
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Table 2
+
+| Model                    | Unstandardized Coefficients   | Unstandardized Coefficients   | internalizing problems as outcome. Standardized Coefficients   | internalizing problems as outcome. Standardized Coefficients   | Model Summary   | Model Summary   | Model Summary   |
+|--------------------------|-------------------------------|-------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-----------------|-----------------|-----------------|
+| Model                    | B                             | Std. Error                    | B                                                              | p -value                                                       | F               | R 2             | ΔR 2            |
+| 1. (Constant)            | 42.564                        | 8.171                         |                                                                | <.001                                                          | 5.959           | .114            | .114            |
+| Age                      | 1.893                         | .549                          | .338                                                           | <.001                                                          |                 |                 |                 |
+| Gender                   | -.378                         | 2.148                         | -.017                                                          | .861                                                           |                 |                 |                 |
+| 2. (Constant)            | 34.935                        | 6.789                         |                                                                | <.001                                                          | 46.500          | .411            | . 298           |
+| Age                      | 1.174                         | .462                          | .210                                                           | .013                                                           |                 |                 |                 |
+| Gender                   | 2.086                         | 1.778                         | -.095                                                          | .244                                                           |                 |                 |                 |
+| Misophonia Severity      | .567                          | .083                          | .568                                                           | <.001                                                          |                 |                 |                 |
+| 3. (Constant)            | 33.854                        | 5.480                         |                                                                | <.001 Pre-proof                                                | 50.272          | .621            | .210            |
+| Age                      | .826                          | .376                          | .148                                                           | .031                                                           |                 |                 |                 |
+| Gender                   | 3.180                         | 1.443                         | .145                                                           | .030                                                           |                 |                 |                 |
+| Misophonia Severity      | .262                          | .080                          | .263                                                           | .001                                                           |                 |                 |                 |
+| Sensory Sensitivity      | .337                          | .047                          | .569                                                           | <.001                                                          |                 |                 |                 |
+| 4. (Constant)            | 36.009                        | 6.887                         | Journal                                                        | <.001                                                          | 1.624           | .678            | .057            |
+| Age                      | .840                          | .415                          | .150                                                           | .046                                                           |                 |                 |                 |
+| Gender                   | 2.279                         | 1.515                         | -.104                                                          | .136                                                           |                 |                 |                 |
+| Misophonia Severity      | .133                          | .088                          | .133                                                           | .136                                                           |                 |                 |                 |
+| Sensory Sensitivity      | .279                          | .050                          | .472                                                           | <.001                                                          |                 |                 |                 |
+| Self-Blame               | .539                          | .321                          | .170                                                           | .097                                                           |                 |                 |                 |
+| Acceptance               | .055                          | .334                          | .012                                                           | .870                                                           |                 |                 |                 |
+| Rumination               | .055                          | .304                          | .018                                                           | .856                                                           |                 |                 |                 |
+| Positive Refocusing      | -.142                         | .299                          | -.036                                                          | .637                                                           |                 |                 |                 |
+| Planning                 | -.022                         | .366                          | -.005                                                          | .952                                                           |                 |                 |                 |
+| Positive Reappraisal     | -.500                         | .326                          | -.130                                                          | .129                                                           |                 |                 |                 |
+| Putting into Perspective | .083                          | .313                          | .022                                                           | .791                                                           |                 |                 |                 |
+| Catastrophizing          | .481                          | .354                          | .121                                                           | .178                                                           |                 |                 |                 |
+| Other-Blame              | .019                          | .277                          | .005                                                           | .945                                                           |                 |                 |                 |
+
+Note: n = 102.
+
+Significant p -values and R 2 change values are bolded.
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+| Model                    |        |            | Unstandardized Coefficients Standardized Coefficients   | Unstandardized Coefficients Standardized Coefficients   | Model Summary   | Model Summary   | Model Summary   |
+|--------------------------|--------|------------|---------------------------------------------------------|---------------------------------------------------------|-----------------|-----------------|-----------------|
+| Model                    | B      | Std. Error | B                                                       | p -value                                                | F               | R 2             | ΔR 2            |
+| 1. (Constant)            | 55.011 | 5.159      |                                                         | <.001                                                   | .386            | .008            | .008            |
+| Age                      | .158   | .347       | .047                                                    | .650                                                    |                 |                 |                 |
+| Gender                   | -1.076 | 1.356      | -.082                                                   | .429                                                    |                 |                 |                 |
+| 2. (Constant)            | 51.565 | 4.785      |                                                         | <.001                                                   | 19.099          | .179            | .170            |
+| Age                      | -.167  | .326       | -.050                                                   | .609                                                    |                 |                 |                 |
+| Gender                   | -1.848 | 1.253      | -.141                                                   | .144 Pre-proof                                          |                 |                 |                 |
+| Misophonia Severity      | .256   | .059       | .430                                                    | <.001                                                   |                 |                 |                 |
+| 3. (Constant)            | 51.187 | 4.598      |                                                         | <.001                                                   | 8.715           | .251            | .072            |
+| Age                      | -.289  | .316       | -.087                                                   | .362                                                    |                 |                 |                 |
+| Gender                   | -2.230 | 1.211      | -.171                                                   | .069                                                    |                 |                 |                 |
+| Misophonia Severity      | .150   | .067       | .251                                                    | .028                                                    |                 |                 |                 |
+| Sensory Sensitivity      | .118   | .040       | .333                                                    | .004                                                    |                 |                 |                 |
+| 4. (Constant)            | 43.976 | 5.379      | Journal                                                 | <.001                                                   | 3.275           | .449            | .198            |
+| Age                      | -.227  | .324       | -.068                                                   | .486                                                    |                 |                 |                 |
+| Gender                   | -2.014 | 1.184      | -.154                                                   | .093                                                    |                 |                 |                 |
+| Misophonia Severity      | .127   | .069       | .214                                                    | .068                                                    |                 |                 |                 |
+| Sensory Sensitivity      | .127   | .039       | .360                                                    | .002                                                    |                 |                 |                 |
+| Self-Blame               | -.072  | .251       | -.038                                                   | .776                                                    |                 |                 |                 |
+| Acceptance               | -.395  | .261       | -.149                                                   | .134                                                    |                 |                 |                 |
+| Rumination               | -.299  | .237       | -.163                                                   | .212                                                    |                 |                 |                 |
+| Positive Refocusing      | -.028  | .233       | -.012                                                   | .906                                                    |                 |                 |                 |
+| Planning                 | .325   | .286       | .119                                                    | .259                                                    |                 |                 |                 |
+| Positive Reappraisal     | .173   | .255       | .075                                                    | .499                                                    |                 |                 |                 |
+| Putting into Perspective | .307   | .245       | .135                                                    | .213                                                    |                 |                 |                 |
+| Catastrophizing          | .271   | .276       | .114                                                    | .330                                                    |                 |                 |                 |
+| Other-Blame              | .895   | .216       | .389                                                    | <.001                                                   |                 |                 |                 |
+
+Note: n = 102.
+
+Significant p -values and R 2 change are bolded.
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Table 4. Moderator analysis of misophonia severity with internalizing problems as outcome.
+
+|                                 | Unstandardized Coefficients   | Unstandardized Coefficients   | Standar dized Coeffic ients   |        |       |        |          |                 |
+|---------------------------------|-------------------------------|-------------------------------|-------------------------------|--------|-------|--------|----------|-----------------|
+| Model                           | B                             | Std. Error                    | Beta                          | t      | Sig.  | R      | R Square | R Square Change |
+| 1 (Constant)                    | 45.878                        | 4.829                         | Pre-proof                     | 9.501  | 0.000 | .733 a | 0.537    | 0.537           |
+| Self-Blame                      | 0.951                         | 0.368                         | 0.300                         | 2.583  | 0.012 |        |          |                 |
+| Acceptance                      | 0.457                         | 0.381                         | 0.103                         | 1.198  | 0.234 |        |          |                 |
+| Rumination                      | 0.462                         | 0.324                         | 0.151                         | 1.427  | 0.157 |        |          |                 |
+| Positive Refocusing             | -0.208                        | 0.351                         | -0.053                        | -0.593 | 0.555 |        |          |                 |
+| Planning                        | 0.023                         | 0.430                         | 0.005                         | 0.055  | 0.957 |        |          |                 |
+| Positive Reappraisal            | -0.610                        | 0.368                         | -0.158                        | -1.656 | 0.101 |        |          |                 |
+| Putting Into Perspective        | 0.122 Journal                 | 0.365                         | 0.032                         | 0.335  | 0.739 |        |          |                 |
+| Catastrophizing                 | 0.329                         | 0.399                         | 0.083                         | 0.825  | 0.412 |        |          |                 |
+| Other-Blame                     | 0.081                         | 0.325                         | 0.021                         | 0.250  | 0.803 |        |          |                 |
+| Misophonia Severity Total Score | 0.263                         | 0.099                         | 0.263                         | 2.667  | 0.009 |        |          |                 |
+| 2 (Constant)                    | 43.609                        | 5.998                         |                               | 7.271  | 0.000 | .760 b | 0.578    | 0.041           |
+| Self-Blame                      | 1.081                         | 0.425                         | 0.341                         | 2.544  | 0.013 |        |          |                 |
+| Acceptance                      | 0.383                         | 0.426                         | 0.087                         | 0.900  | 0.371 |        |          |                 |
+| Rumination                      | 0.310                         | 0.398                         | 0.101                         | 0.779  | 0.438 |        |          |                 |
+| Positive Refocusing             | -0.089                        | 0.376                         | -0.023                        | -0.238 | 0.813 |        |          |                 |
+| Planning                        | 0.171                         | 0.498                         | 0.037                         | 0.343  | 0.732 |        |          |                 |
+| Positive Reappraisal            | -0.613                        | 0.393                         | -0.159                        | -1.557 | 0.124 |        |          |                 |
+| Putting Into Perspective        | 0.050                         | 0.391                         | 0.013                         | 0.128  | 0.898 |        |          |                 |
+| Catastrophizing                 | 0.513                         | 0.458                         | 0.129                         | 1.120  | 0.266 |        |          |                 |
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+| Other-Blame                                    |   0.224 |   0.356 |   0.058 |   0.630 |   0.531 |
+|------------------------------------------------|---------|---------|---------|---------|---------|
+| Misophonia Severity Total Score                |   0.255 |   0.106 |   0.255 |   2.394 |   0.019 |
+| Misophona Severity x Self-Blame                |  -0.905 |   2.289 |  -0.062 |  -0.395 |   0.694 |
+| Misophona Severity x Acceptance                |   0.656 |   1.412 |   0.058 |   0.465 |   0.643 |
+| Misophonia Severity x Rumination               |   2.727 |   2.141 |   0.198 |   1.274 |   0.207 |
+| Misophonia Severity x Positive Refocusing      |  -0.284 |   1.383 |  -0.021 |  -0.205 |   0.838 |
+| Misophonia Severity x Planning                 |   1.246 |   1.551 |   0.095 |   0.803 |   0.424 |
+| Misophonia Severity x Positive Reappraisal     |  -3.511 |   1.631 |  -0.248 |  -2.152 |   0.035 |
+| Misophonia Severity x Putting into Perspective |   1.758 |   1.563 |   0.124 |   1.124 |   0.264 |
+| Misophonia Severity x Catastrophizing          |  -1.555 |   1.782 |  -0.113 |  -0.873 |   0.385 |
+| Misophonia Severity x Other-Blame              |  -0.812 |   1.456 |  -0.058 |  -0.558 |   0.579 |
+
+Dependent Variable: YSR-Internalizing T-score
+
+Journal Pre-proof
+
+## MISOPHONIA PRESENTATIONS IN YOUTH
+
+Figure 1 . Positive reappraisal as a moderator of the effect of misophonia severity on internalizing symptoms .
+
+## Highlights
+
+- · Sensory sensitivity (beyond sound sensitivity) predicted psychiatric symptoms in misophonic youth.
+- · Other-blame cognitive emotion regulation predicted externalizing symptoms.
+- · Positive reappraisal moderated the effect of misophonia severity on internalizing symptoms.
+- · Sensory sensitivity and positive reappraisal may be relevant treatment targets.
+- · Associations should be examined longitudinally and among more diverse samples of misophonic youth.
+
+Journal Pre-proof
+
+## Author Statement
+
+Ms. Armstrong led the literature review and manuscript preparation processes, generated the study concept and hypotheses, drafted and revised manuscript, and interpreted results. Ms. Greenberg was involved in generating the study concept and hypotheses, and drafting and revising the manuscript. Dr. Smárason was involved in data analysis, interpreting results, drafting the manuscript, and critical revision of manuscript. Ms. Frederick was involved in drafting the manuscript. Dr. Guzick was involved in generating the study concept and hypotheses, critical revision of the manuscript, and supervision of study procedures. Dr. Schneider was involved in supervision of study procedures, data collection, and critical revision of the manuscript. Dr. Spencer was involved in critical revision of the manuscript. Dr. Cervin was involved in critical revision of the manuscript. Dr. Storch was involved in generating the study concept and hypotheses, critical revision of the manuscript, and supervision of study procedures. The final manuscript was approved by all authors. Journal Pre-proof

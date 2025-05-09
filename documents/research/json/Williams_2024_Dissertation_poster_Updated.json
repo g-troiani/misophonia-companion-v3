@@ -1,0 +1,54 @@
+{
+  "doc_type": "scientific paper",
+  "title": "The Perceptual and Physiologic Correlates of Decreased Sound Tolerance Disorders in Autistic and Non-autistic Adults",
+  "authors": [
+    "Zachary J. Williams",
+    "Ellie R. Pazol",
+    "D. Jonah Barrett",
+    "Bahar Keçeli-Kaysılı",
+    "Brianna J. Lewis",
+    "Carissa J. Cascio",
+    "Tiffany G. Woynaroski"
+  ],
+  "year": 2024,
+  "journal": "Sciences, Vanderbilt University Medical Center2 Vanderbilt Brain Institute, Vanderbilt University School of Medicine3 Frist Cen",
+  "doi": "10.13140/RG.2.2.28211.64804",
+  "abstract": "Decreased Sound Tolerance (DST) refers to the pathological inability to tolerate sounds in everyday life and is common in autism, including types such as hyperacusis and misophonia. The study is the first relatively large-scale transdiagnostic investigation of the neural mechanisms underlying DST disorders in autistic and non-autistic adults. Using clinical interviews, questionnaires, psychological and audiological tests, and electrophysiologic assessments, the study found that hyperacusis is associated with steeper psychoacoustic loudness growth and increased central auditory gain, supporting the central gain theory. Misophonia showed longer latency in auditory brainstem response wave V, suggesting an earlier auditory involvement. No mechanistic differences were found between autistic and non-autistic adults with DST. Limitations include operational definitions and convenience samples.",
+  "keywords": [
+    "Decreased Sound Tolerance",
+    "DST",
+    "hyperacusis",
+    "misophonia",
+    "autism",
+    "auditory brainstem response",
+    "central gain theory",
+    "loudness growth",
+    "electrophysiology",
+    "psychoacoustics"
+  ],
+  "research_topics": [
+    "Decreased Sound Tolerance disorders",
+    "autism spectrum disorder",
+    "hyperacusis mechanisms",
+    "misophonia mechanisms",
+    "central auditory processing",
+    "psychoacoustic loudness growth",
+    "electrophysiologic correlates",
+    "transdiagnostic neural mechanisms",
+    "auditory neuroscience"
+  ],
+  "created_at": "2025-05-05T02:21:41.917962Z",
+  "source_pdf": "documents/research/Global/Williams_2024_Dissertation_poster_Updated.pdf",
+  "sections": [
+    {
+      "section": "Page 1",
+      "page_number": 1,
+      "text": "See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/380540640\nThe Perceptual and Physiologic Correlates of Decreased Sou nd T olerance Disorders in Autistic and Non-autistic Adults\nPoster · May 2024\nDOI: 10.13140/RG.2.2.28211.64804\nCITATIONS\n0READS\n38\n7 author s, including:\nZachar y J Williams\nVanderbilt Univ ersity\n129 PUBLICA TIONS    996 CITATIONS    \nSEE PROFILE\nBahar K eceli Kaysili\nVanderbilt Univ ersity\n39 PUBLICA TIONS    374 CITATIONS    \nSEE PROFILE\nAll c ontent f ollo wing this p age was uplo aded b y Zachar y J Williams  on 14 May 2024.\nThe user has r equest ed enhanc ement of the do wnlo aded file."
+    },
+    {
+      "section": "Page 2",
+      "page_number": 2,
+      "text": "The Perceptual and Physiologic Correlates of Decreased Sound Tolerance Disorders in Autistic and Non-autistic AdultsZachary J. Williams1,2,3, Ellie R. Pazol3, D. Jonah Barrett5, BaharKeçeli-Kaysılı1, Brianna J. Lewis6, Carissa J. Cascio2,6, and Tiffany G. Woynaroski1,2,3,7Hyperacusis is associated with steeper psychoacoustic loudness growth\n•Decreased Sound Tolerance (DST)1refers to the pathological inability to tolerate sounds in everyday life. DST is a common feature of autism1, although multiple types exist (including hyperacusis2andmisophonia3) based on the specific ways in which environmental sounds are perceived as aversive. •Little is known about the mechanistic underpinnings of DST disorders, particularly in autistic individuals, and electrophysiologic studies to date rarely, if ever, include individuals with multiple distinct DST disorders. •The present study represents the first relatively large-scale transdiagnostic study of the (differential) neural mechanisms underpinning DST disorders (hyperacusis and misophonia) in both autistic and non-autistic adults. 1Department of Hearing and Speech Sciences, Vanderbilt University Medical Center2 Vanderbilt Brain Institute, Vanderbilt University School of Medicine3 Frist Center for Autism and Innovation, Vanderbilt University4Undergraduate Program in Medicine, Health and Society, Vanderbilt University5  University of Alabama at Birmingham HeersinkSchool of Medicine6Department of Psychiatry and Behavioral Sciences, Vanderbilt University Medical Center7 Department of Communication Sciences and Disorders, University of Hawai’i John A. Burns School of Medicine\nBackground\nMethods•Sample of 113 adults (33 autistic)•Mage=33.04, SD=9.92; 74.3% female, 71.7% non-Hispanic White; 43.4% at least some graduate school; Full-scale IQ = 116.58, SD=11.18, Min-Max: 78–141•Autistic and non-autistic groups matched on demographics and cognitive functioning•Characterized DST status using a structured clinical interview (DISSS) as well as a newly-validated dimensional questionnaire (MIST-A)4•Completed comprehensive battery of psychological and audiological tests•Categorical loudness scaling (CLS) with calculation of individual loudness-intensity functions5•Electrophysiologic tests of central auditory processing (binaural click ABR, 40 Hz ASSR, and N1b ERP to 1-second pure tones during a passive listening task•Electrophysiologic “intensity growth slopes” created by taking parameter (amplitude or latency) and regressing it on stimulus intensity for each participant•Bayesian hierarchical models used to calculate growth slope values for all participants simultaneously•Comparison of autistic and non-autistic individuals with and without DST disorders using Bayesian hierarchical regression modelsReferences1.Williams, Z. J., He, J. L., Cascio, C. J., & Woynaroski, T. G. (2021). A review of decreased sound tolerance in autism: Definitions, phenomenology, and potential mechanisms. Neuroscience & Biobehavioral Reviews, 121, 1–17. https://doi.org/10.1016/j.neubiorev.2020.11.0302.Salvi, R., Chen, G.-D., & Manohar, S. (2022). Hyperacusis: Loudness intolerance, fear, annoyance and pain. Hearing Research, 426, Article 108648. https://doi.org/10.1016/j.heares.2022.1086483.Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., Kumar, S., Rosenthal, M. Z., Rouw, R., Schiller, D., Simner, J., Storch, E. A., Taylor, S., Werff, K. R. V., Altimus, C. M., & Raver, S. M. (2022). Consensus definition of Misophonia: A Delphi study. Frontiers in Neuroscience, 16, Article 841816. https://doi.org/10.3389/fnins.2022.8418164.Williams, Z. J., Cascio, C. J., & Woynaroski, T. G. (2021). Multidimensional Inventory of Sound Tolerance in Adults (MIST-A)[Questionnaire]. Vanderbilt University Medical Center. https://doi.org/10.13140/RG.2.2.10492.28802/15.Wróblewski, M., Rasetshwane, D. M., Neely, S. T., & Jesteadt, W. (2017). Deriving loudness growth functions from categorical loudness scaling data. The Journal of the Acoustical Society of America, 142(6), 3660–3669. https://doi.org/10.1121/1.5017618Funding NIDCD grant F30-DC019510 (ZJW); Misophonia Research Fund (ZJW, CJC, TGW); Family S Endowed Autism Scholarship (ZJW); NCATS grant UL1-TR002243; Autism Science Foundation (DJB)Competing InterestsZJW has received consulting fees from Roche. He is also a member of the Autism Intervention Research Network on Physical Health (AIR-P) ANSWER Committee. TGW is the parent of an autistic adult.Misophonia is associated with longer latencies of click-evoked auditory brainstem response (ABR) wave V\nHyperacusis is associated with steeper electrophysiologic latency-intensity growth slopes in brainstem and cortex\n•CLS-based loudness-intensity growth slopes averaged across four tone conditions for each participantCorrespondence: Zachary.j.Williams@Vanderbilt.edu\n@QuantPsychiatry\nDiscussion/Conclusion\n•Increased loudness-intensity growth slopes and two neural indicators of central auditory gain in hyperacusis provide empirical support for the “central gain theory” of the condition•Impressive dimensional association between brain, perception, and subjective symptoms –suggests genuine mechanism•Two uncorrelated “subtypes” of central gain (brainstem, cortex)•Misophonia was associated with longer-latency ABR wave V•Potentially points towards an earlier locus of misophonia pathophysiology than previously realized•No evidence to suggest differences in DST mechanisms between autistic and non-autistic adults•Findings qualified by limitations, including use of operational DST disorder definitions, convenience samples, low interaction power•Correlations with CLS: rrank= -0.220, CrI95%[-0.420, -0.025] and MIST-A: rrank= -0.220, CrI95%[-0.391, -0.056]\n•Correlation with CLS: rrank= -0.330, CrI95%[-0.522, -0.120] and MIST-A: rrank= -0.221, CrI95%[-0.379, -0.041]•No significant correlation between ABR wave V latency growth and N1b latency growth (rrank= -0.023, CrI95%[-0.191, 0.142]) or significant hyperacusis ⨉autism interaction for either outcome\nClinical –No Misophonia:d = 0.511, CrI95%[0.091, 0.955]\n•Correlation with MIST-A Misophonia: rrank= 0.170, CrI95%[0.008, 0.323]•No significant misophonia ⨉autism interaction for ABR wave V latencies•Raises the possibility of “low level” auditory involvement in misophonia rather than this particular DSTdisorder being purely a disorder of emotion dysregulationd = 0.535, CrI95%[0.059, 1.001]d = 0.197, CrI95%[-0.002, 0.576]d = 0.291, CrI95%[-0.005, 0.680]d = -0.417, CrI95%[-0.850, -0.009]Without outlier: d = -0.381, CrI95%[-0.809, 0.027]d = -0.228, CrI95%[-0.563, 0.019]d = -0.148, CrI95%[-0.487, 0.013]\nd = -0.858, CrI95%[-1.321, -0.376]d = -0.228, CrI95%[-0.618, <-0.001]d = -0.593, CrI95%[-1.054, -0.121]Subclinical –No Misophonia:d = 0.151, CrI95%[-0.002, 0.464]Clinical –Subclinical Misophonia:d = 0.321, CrI95%[-0.004, 0.678]\nDOWNLOAD THE POSTER HERE\nView publication stats"
+    }
+  ]
+}

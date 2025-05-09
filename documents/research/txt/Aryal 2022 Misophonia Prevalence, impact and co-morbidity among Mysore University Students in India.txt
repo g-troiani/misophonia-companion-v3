@@ -1,0 +1,752 @@
+NEUROSCIENCE RESEARCH NOTES  
+ 
+ 
+Misophonia: Prevalence, impact and co-morbidity among 
+Mysore University students in India - A survey  
+ Sajana Aryal  * & Prashanth Prabhu  
+ 
+Department of Audiology, All India In stitute of Speech and Hearing,  Mysuru,570006 , Karnataka, India.    
+*Correspondence: sajanaaryal5566@gmail.com ; Tel.: +91 8147297652.  
+ 
+Received:  7 April 2022 ; Accepted:  1 August 2022 ; Published:  24 October 2022  
+Edited by:  King -Hwa Ling (Universiti Putra Malaysia, Malaysia)  
+Reviewed by:  Gantsetseg Tumur -Ochir  (Mongolian National University of Medical Sciences , Mongolia );  
+Noor Alaudin Abdul Wahab  (Universiti Kebangsaan Malaysia, Malaysia );  
+Wan Syafira Ishak  (Universiti Kebangsaan Malaysia, Malaysia ) 
+https://doi.org/10.31117/neuroscirn.v5i4.161   
+ 
+Abstract: Misophonia is a sound tolerance d isorder in which certain sounds trigger an intensely 
+emotional or physiological response caused by an increased autonomic nervous system reaction to 
+the triggers. Misophonia is a relatively new condition, and the assessment and management of this 
+condition  are not known yet. The epidemiological data of misophonia in the Indian scenario is 
+unknown, without which better planning evaluation and management is not possible. Hence, our 
+study aims to determine the prevalence of misophonia and its impact and co -morbidity among 
+Mysore university students in India. A descriptive cross -sectional study was conducted on 172 
+students of Mysore University between the age ranges of 18 to 30 years through an online survey 
+mode. The Amsterdam Misophonia Questionnaire (A -MISO-S) and Misophonia Assessment 
+Questionnaire (MAQ) have been used to find the prevalence and severity of misophonia. Statistical 
+analyses were carried out using SPSS 25.0 software. Data were analy sed using descriptive statistics 
+and a chi -square test to de termine the variables' association. The prevalence of misophonia among 
+Mysore university students has been documented. Almost 48.27% of participants reported 
+misophonia symptoms , and 23.28% reported clinically significant misophonia. The result showed 
+that misophonia could occur in isolation or with a co -morbid condition such as tinnitus and 
+hyperacusis. Statistical analysis showed no association between gender and the occurrence of 
+misophonia. Misophonia is a prevalent neurophysiological condition with a s ignificant impact on the 
+quality of life of the sufferers. This is the first study of this kind in an Indian scenario and can be a 
+guiding tool for researchers to know about the prevalence of misophonia, its impact, and co -
+morbidity among the sufferers.  
+ 
+Keywords: Epidemiology; Misophonia; University; India; Impact  
+ 
+©20 22 by Aryal & P rabhu for use and distribution according to  the Creative Commons Attribution (CC BY -NC 4.0) 
+license ( https://cr eativecommons.org/licenses/by -nc/4.0/ ), which permits unrestricted non -commercial use, 
+distribution, and reproduction in any medium, provided the original author and source are credited.  
+ 
+ 
+1.0  INTRODUCTION  
+Misophonia  is derived from the Greek word misos (hate) 
+and phone (voice), which means hatred of sound. 
+Misophonia or sound selectivity syndrome is a sound tolerance disorder in which certain sounds trigger an 
+intensely emotional or physiological response caused by 
+an increased autonomic nervous system reaction to 
+such triggers ( Jastreboff & Jastreboff, 2014 ). The  OPEN ACCESS  | RESEARCH NOTES                                                ISSN: 2576 -828X
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 2 aversive triggers can be the sound made by humans , like 
+chewing, lip -smacking, breathing  and swallowing,  or 
+they  can also be the sounds produced by human s but 
+not directly related to the human body , like pen clicking, 
+rustling, and typing ( Jastreboff et al., 2001 ). When 
+exposed to specific auditory triggers; people with 
+misop honia show different physiological and emotional 
+reactions like increased heart rate, sweating, anxiety, 
+anger, irritation, and disgust.  
+ 
+The adverse emotional reaction in the misophonic 
+individual created by different triggers may be 
+connected to a specif ic person making the sounds 
+(Schröder et al., 2013 ). This type of connection may 
+affect the interpersonal relationship with friends, family 
+members, and relatives, which may impact the quality 
+of life of sufferers. Also, th e sufferers are never sure 
+when the trigger sound might be heard and live in a 
+perceptual state of anxiety. Due to this reason, they may 
+start avoiding people, places, and situations that they 
+think will cause the trigger sounds. Overall, the quality 
+of life of the sufferers gets affected due to the physical 
+and emotional discomfort they face daily.  
+ 
+Misophonia is a condition that can occur in isolation or 
+conjunction with other psychiatric disorders such as 
+obsessive -compulsive disorders (OCD), attenti on deficit 
+hyperactivity disorder (ADHD)  and mood disorders . 
+Furthermore, misophonia frequently coexists with 
+related sound disorders such as tinnitus, hyperacusis, 
+and phonophobia, which must be distinguished 
+(Jastreboff & Jastreboff, 2014 ). Tinnitus is the 
+perception of sound in the absence of acoustic 
+stimulation, which is  mainly associated with hearing loss 
+(Waechter, 2021 ). On the other hand, hyperacusis is the 
+increased sensitivity to the sounds, which results in pain 
+or the sufferers feeling uncomfortable and related to 
+the intensity ( Tyler et al., 2014 ). However, misophonia 
+is distinct from these disorders, although there is some 
+overlap in  symptoms, and an individual may present 
+with more than one condition ( Jastreboff & Jastreboff, 
+2001 ; Jastreboff & Hazell, 2004 ). 
+ 
+Evidence shows that misophonia  is associated with the 
+enhanced auditory, limbic and autonomic nervous 
+system s (Jastreboff & Hazell, 2004 ). Jastreboff & 
+Jastreboff ( 2002 ) described misophonia using the 
+neurophysiolo gical model as the dislike/hatred of 
+sound , which reflects abnormally strong reactions of the 
+autonomic and limbic systems. This results  enhanced 
+connections between the auditory, limbic and 
+autonomic systems or enhanced reactivity of the limbic 
+and autonom ic system s to sound. The neurophysiological structure involved in processing the 
+sounds at the higher auditory level may be affected due 
+to the nature of misophonia ( Moeller, 2011 ). 
+ 
+The  onset  of  the  problem  in  misophonia   patients has  
+been reported variably across the literature. Few 
+studies have reported that the onset is during 
+adolescence ( Palumbo et al., 2018 ) or adulthood 
+(Sanchez & Silva, 2018 ). Some studies report no age 
+criteria for misophonia , as it can happen at any age 
+(Potgieter et al., 2019 ). Very few studies have been 
+reported regarding the prevalence of misophonia. The 
+prevalence of misophonia in non -clinical populations is 
+not known. A case study by Hadjipavlou et al. ( 2008 ) 
+reported that the prevalence of misophonia is between  
+10-60% in patients with tinnitus. In a study conducted 
+by  Naylor et al. ( 2021 ), clinically significant misophonia 
+was found in 49.1% of the study sample population of 
+UK undergraduate medical students. Similarly, Wu et al. 
+(2014 ) used an online questionnaire survey to find that 
+19.9% of 483 US undergraduate students had 
+misophonia. Misophonia was shown to be prevalent in 
+20% of 415 Chinese graduates , as reported by Zhou et 
+al. (2017 ). Hence, it can be stated that the prevalence of 
+misophonia does not differ by age, gender or ethnicity.  
+ 
+In India, no investigation has been  conducted to 
+determine the prevalence of misophonia. This will be 
+the first study of its kind  and will be extremely useful in 
+demonstrating the prevalence of misophonia in the 
+Indian context and motivating professionals to develop 
+assessment and management procedures. The aim s of 
+this study include : 1.) To determine the prevalence of 
+misophonia among Mys ore university students. 2.) To 
+provide descriptive information regarding the 
+symptoms of misophonia (frequency and severity of 
+symptoms) 3.) Discuss misophonia co -morbidity with 
+other auditory and psychiatric disorders; 4.) To describe 
+the impact of misop honia on daily life, and 5.) To focus 
+the discussion on raising misophonia awareness among 
+the general audience.  
+ 
+2.0  MATERIALS  AND METHODS  
+A descriptive cross -sectional study was undertaken 
+among Mysore University's undergraduates and post -
+graduate students. Data was obtained from 172 
+participants who were literate and had good English 
+language competency. The study was conducted over a 
+perio d of three months, from October 2021 to 
+December 2021. The participants were all between 18 
+and 30 years, with a mean age of 22 years and a 
+standard deviation of 2.5 years. The study comprised 
+participants from various educational fields such a s law,
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 3 business, medicine, audiology, and speech -language 
+pathology.  
+ 
+2.1  Design of the Questionnaire  
+A survey questionnaire was prepared regarding the 
+prevalence, impact, and co -morbidity of misophonia. 
+Amsterdam Misophonia Questionnaire ( Schröder et al., 
+2013 ) and Misophonia assessment questionnaire ( Wu 
+et al., 2014 ) were adopted to find the severity of the 
+misophonia. Amsterdam Misophonia Questionnaire is 
+the first questionnaire designed for a ssessing 
+misophonia by Schröder et al. ( 2013 ). Translation and 
+validation of this questionnaire are done in several 
+languages, such as English  and Turkish,  to determine its 
+reliability and validity ( Naylor et al., 2021 ; Sarigedik & 
+Gulle, 2021 ). In the UK population, where the native 
+language is English, this questionnaire has been found 
+to be reliable, with Chronbach's alpha value of 0.8 14 
+(Naylor et al., 2021 ). 
+ 
+Similarly, Johnson developed the Misophonia 
+Assessment Questionnaire (MAQ) and revised Dozier to 
+evaluate the severity of misophonia in the adult 
+population ( Dozier, 2015 ). Recently, this questionnaire 
+has been validated in the Turkish language and found to 
+be reliable, with Chronbach's alpha value of 0.94 ( Altın, 
+2021 ). There is a lack of misophonia questionnaires in 
+the native Indian la nguage, so the English version of 
+these two questionnaires was used in the study. The 
+survey questionnaire was written in English and 
+included sections on consent and demographic 
+information, hearing issues, sound disorders, the A -
+MISO -S questionnaire, the  Misophonia evaluation 
+questionnaire, co -morbidity, and coping strategies. A 
+total of 48 questions make up the survey. The first five 
+questions dealt with the patient demographics, and the 
+next ten were related to hearing issues and the 
+presence of other s ound disorders , such as 
+tinnitus/hyperacusis. It also had six questions of the A -
+MISO -S scale, 21 questions from MAQ and the final six 
+were related to co -morbidity of other health problems, 
+misophonic sound coping strategies, and patient 
+motivation  to learn  about misophonia.  
+ 
+At the Amsterdam Medical Centre, the Amsterdam 
+Misophonia Questionnaire (A -MISO -S) scale was 
+created to determine the severity of misophonia. The 
+questionnaire comprises six questions with a score 
+range of 0 to 24. The scale measures ho w much time an 
+individual spends occupied by misophonic sounds, how 
+much misophonic sounds interfere with the individual's 
+work and social functioning, the individual's level of 
+anger in response to sounds, level of resistance to the impulse, level of cont rol over thoughts and anger, and 
+how much time an individual spends avoiding 
+misophonia situations. Subclinical misophonic 
+symptoms are rated 0 –4, mild symptoms are rated 5 –9, 
+moderate symptoms are rated 10 –14, severe symptoms 
+are rated 15 –19, and extreme symptoms are rated 20 -
+24. 
+ 
+The Misophonia Assessment Questionnaire (MAQ) is a 
+21-item questionnaire with a four -point Likert -type 
+rating scale that assesses the impact of misophonia in a 
+person's life. This questionnaire has a score range of 0 -
+63, with 0 -11 indicating subclinical symptoms, 12 -24 
+mild, 25 -37 moderate, 38 -50 severe, and 51 -63 extreme 
+misophonia.  
+ 
+The researchers distributed the final version of the 
+questionnaire as an e -survey in the form of Google 
+forms to university students using various s ocial 
+platforms , such as WhatsApp, and Gmail, using 
+convenient sampling methods. A brief description of 
+misophonia was included in the Google form. The poll 
+received responses from 172 Mysore university 
+students aged 18 to 30. Because two participants 
+refus ed to consent, they were removed from the study, 
+and only 170 participants were considered for analysis.  
+ 
+2.2  Statistical analysis  
+The investigator analy sed the questionnaire responses 
+and converted them to numbers using Microsoft Excel. 
+Statistical progr am for social science (SPSS Version 25.) 
+software was used to analy se the data collected. The 
+sort of issues being addressed determined the use of 
+descriptive statistical approaches such as frequency and 
+percentages. A non -parametric Chi -square test was 
+done to check the association among different 
+variables.  
+ 
+2.3  Informed Consent and Ethical Guidelines  
+The study followed the ethical principles established by 
+the All India  Institute of Speech and Hearing (AIISH) in 
+Mysore. All participants gave their informed consent by 
+answering a question on the google form. The study 
+omitted those participants who did not complete the 
+survey.  
+ 
+3.0  RESULTS  
+3.1  Descriptive  characteristics of participants  
+Data were analy sed using descriptive statistics. Among 
+170 participants included in the study, 32 (18.8%) were 
+male, and 138 (81.2%) were female. All the participants 
+were literate with the minimum qualification of 
+undergra duate. Out of 170 participants who were taken
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 4 randomly for the study, only 9 (5.29%) participants 
+reported having an ear -related problem like Eustachian 
+tube dysfunction, tympanic membrane perforation  and 
+reduced hearing sensitivity . Most of the particip ants, 
+62.94%, reported that they have a habit of listening to 
+music at a loud volume. Only 4 (2.4%) participants 
+reported the problem of hearing loss. The descriptive 
+characteristics of all the participants are shown in Table 
+1. 
+ 
+ 
+Table 1: Descriptive characteristics of participants (N= 
+170).  
+ 
+Total (N) = 170 (100%)  
+Gender  
+ Male  
+Female  32 (18.8%)  
+138 (81.2%)  
+Qualification  
+ Under -
+graduation  
+Post -graduation  123 (72.4%)  
+47 (27.6%  
+The h abit of listening 
+to music at a loud 
+volume  
+ Yes 
+Sometimes  
+No 16 (9.4%)  
+91 (53.5%)  
+63 (37.1%)  
+Ear related problems  
+ Yes 
+No 9 (5.3%)  
+166 (97.6%)  
+Hearing loss  
+ Yes 
+No 4 (2.4%)  
+166 (97.6%)  
+ 
+ 
+3.2  Tinnitus, Hyperacusis, and Misophonia  
+Among 170 participants who responded to the survey, 
+81 (47.6%) reported having misophonia based on their 
+subjective experience. Among 81 (47.6%) participants 
+who reported misophonia, 13 (16.05%) were male, and 
+68 (83.95%) were female. Similarly, 38 out of 170 
+participants (22.4%) reported having tinnitus, and 30 
+out of 170 (17.6%) reported having hyperacusis. After 
+detailed analysis, the result showed that 21 participants 
+out of 81 (25.93%) reporting misophonia also reported 
+tinnitus as a co -morbid conditio n. Similarly, 22 out of 81 
+(27.16%) reporting misophonia also reported 
+hyperacusis as a co -morbid condition. The results 
+indicate that misophonia can occur in isolation or with 
+other associated auditory disorders , such as tinnitus and 
+hyperacusis. However, these data on tinnitus and 
+hyperacusis are entir ely based on the subjective 
+description of the participants based on the single 
+questions used in the survey. No separate 
+questionnaires were used to assess tinnitus and 
+hyperacusis in an individual with mi sophonia. There is a 
+need to assess the association between tinnitus, hyperacusis and misophonia using separate 
+questionnaires to validate the findings. This data also 
+shows that misophonia is a more common disorder ; 
+many are unaware of this condition and are not seeking 
+professional help.  
+ 
+3.3  Triggers of Misophonia  
+All the participants who reported the problem of 
+misophonia responded to the Amsterdam Misophonia 
+Questionnaire (A -MISO -S) and listed all the sounds that 
+trigger misophonia . 
+ 
+Out of 81 (47.6%)  participants who reported a problem 
+of irritation with the sounds, most of the participants 
+reported multiple sounds as a trigger. A total of 133 
+triggers were reported by 81 participant s, and a few 
+reported common triggers. After analysis, the result 
+showed that individuals with misophonia reported 30 
+different triggers . Most participants, 30 (37.04%), 
+reported chalk scratching as the trigger, followed by 
+loud sounds 15 (18.52%) and chewing 12 (14.81%). The 
+details about all the triggers reported by all the 
+participants are shown in Table 2 . 
+ 
+3.4  Severity of Misophonia  
+All 81 (48.27%) participants who reported misophonia 
+symptoms answered all the Amsterdam Misophonia  
+Scale Questionnaire questions. The severity of the 
+misophonia was assessed by calculating the total scores 
+obtained by each participant. The maximum score 
+obtained was 14, and the minimum was one with a 
+mean score of 5.36 and a standard deviation (SD) of 
+3.16. The score of 33 (19.41%) participants ranges from 
+0-4 and is classified as subclinical misophonia, the score 
+of 38 (22.35%) participants ranges from 5 -9 and is 
+classified as Mild misophonia and the score of 10 
+(5.88%) participants ranges from 10 -14 a nd classified as 
+Moderate Misophonia. These scores showed that even 
+though 81 (48.27%) among 170 participants reported 
+misophonia symptoms, only 48 (23.28%) reported 
+clinically significant misophonia that warrants 
+treatment.  
+ 
+Misophonia assessment Question naire was also 
+administered among 81 participants who reported 
+misophonia symptoms. The maximum score obtained 
+was 42, and the minimum was 0, with a mean score of 
+3.09 and a standard deviation (SD) of 7.18. The score of 
+65 participants (38.25%) ranged from  0-11 and were 
+classified as having subclinical misophonia. The score of 
+10 participants (5.88%) ranged from 12 -24 and were 
+classified as having mild misophonia.  Four participants
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 5 Table 2 : Different triggers repor ted by individuals with misophonia (N=81)  
+ 
+Triggers for misophonia  Percentage (%)  Triggers for misophonia  Percentage (%)  
+Chalk scratching  30 (37.04%)  Door knocks  4 (4.94%)  
+Loud sounds  15 (18.52%)  Slippers against dust  1 (1.23%)  
+Chewing  12 (14.81 %)  Vehicle horns  4 (4.94%)  
+Teeth clicking  12 (14.81 %)  Snoring  1 (1.23%)  
+Benches moving  8 (9.88%)  Plate and spoon sound  1 (1.23%)  
+Nails scratching  6 (7.41%)  Pen ticking  1 (1.23%)  
+Fireworks  2 (2.47%)  Any repeated sounds with the same pattern  1 (1.23%)  
+Steel scratching  3 (3.70%)  High -frequency beeps  6 (7.41%)  
+Sound of dry leaves on concrete  1 (1.23%)  Coin scratching  1 (1.23%)  
+Cloth scratching  2 (2.47%)  Crackers noise  1 (1.23%)  
+Continuous bell ringing  2 (2.47%)  Cricket sound  4 (4.94%)  
+Hammering  1 (1.23%)  High pitched laughter or giggles  4 (4.94%)  
+Microphone screeching  1 (1.23%)  Ribbon rubbing  1 (1.23%)  
+Continuous honking  1 (1.23%)  Shoe scraping  1 (1.23%)  
+Paper rubbing agaist wall  4 (4.94%)  Honey bees buzzing  2 (2.46%)  
+ 
+ 
+(2.35%)  had a  score  from  25-37 and were classified as 
+having moderate misophonia.  The score of two 
+participants (1.18%) ranged from 38 -50 and were 
+classified as severe misophonia.  The score obtained 
+from the Misopho nia assessment questionnaire showed 
+that 9.41% of participants among 170 participants had 
+clinically significant misophonia, which warrants 
+treatment. The difference in the prevalence percentage 
+among the administration of the Amsterdam 
+Misophonia Scale Qu estionnaire and Misophonia 
+Assessment questionnaire may be due to the pattern of 
+the questionnaire and the different scoring systems 
+used in the questionnaire. Table 3  shows t he comparison of  the severity  of the misophonia  between  
+the two questionnaire s. 
+ 
+3.4 Co -morbidities of misophonia with other disorders  
+Out of 81 participants who reported misophonia 
+symptoms, only 10 (12.35%) reported having additional 
+health problems like headaches, migraines, 
+hypothyroidism  and asthma . Regarding th e 
+psychological issues, 16 participants (19.75%) reported 
+they have psychological co -morbidities like anxiety, 
+depression  and mood disorders  and 14 (17.28%) 
+participants reported balance problems like dizziness, 
+giddiness, vertigo  and motion sickn ess.  
+ 
+ 
+Table 3 : Categori sation of the severity of misophonia using both the Amsterdam misophonia scale questionnaire 
+and Misophonia Assessment Questionnaire (N= 81)  
+ 
+SEVERITY OF MISOPHONIA  
+Amsterdam Misophonia  Scale Questionnaire  Misophonia Assessment Questionnaire  
+Score range  Percentage of 
+participants  Severity degree  Score range  Percentage of 
+participants  Severity degree  
+0-4 33 (19.41%)  Sub-clinical  0-11 65 (38.25%)  Sub-clinical  
+5-9 38 (22.35%)  Mild  12-24 10 (5.88%)   Mild  
+10-14 10 (5.88%)  Moderate  25-37 4 (2.35%)   Moderate  
+15-19 0 (0%)  Severe  38-50 2 (1.18%)   Severe
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 6 3.5  Family History  
+Regarding family history, seven participants (8.64%) 
+reported having other family members and suffering 
+from misophonia. The rest of the participants did not 
+have any family history of misophonia.  
+ 
+3.6  Coping strategies and motivation to learn about 
+their problems  
+Out of 81 participants who reported misophonia, 10 
+participants (12.35%) reported using coping strategies 
+to get rid of misophonia. Most of the participants 
+reported using multiple coping strategies in different 
+situations. Altogether 42 copi ng strategies were 
+reported by 10 participants, and few coping strategies 
+are common among the participants. After analysis, the 
+results showed that individuals with misophonia report 
+ten different coping strategies . Most participants, 8 
+(80%), reported av oiding people, situations, and places 
+as the coping strategy, followed by Sleep, as reported 
+by 60% of participants. The details of the coping 
+strategies used by participants are shown in Table 4. 
+ 
+Among 170 participants who responded to the survey 
+through various platforms, 87 participants (51.2%) 
+reported they wanted to know about misophonia. Most 
+participants wanted  to know misophonia aetiology, 
+mechanism, assessment, and treatment .  
+ 
+ 
+Table 4 : Different Coping strategies used by individuals 
+with misophonia (N=10)  
+ 
+ 
+3.7  Association between the occurrence of 
+misophonia and gender  
+The effect of gender on the occurrence of misophonia  
+was assessed using the chi -square test. The test result 
+showed that gender is not significantly associated with 
+the occurrence of misophonia  X2 (1, N =170) = .58 (p > .05). The result of the chi -square test is illustrated in 
+Table 5 . 
+ 
+ 
+Table 5 : Association be tween gender and occurrence 
+of misophonia (N= 170).  
+ 
+Chi-Square Tests  
+ Value  df Asymptotic 
+Significance  
+(2-sided)  
+Pearson Chi -Square  1.100a 1 .58 
+Likelihood Ratio  1.126  1 .57 
+N of Valid Cases  170   
+ 
+ 
+4.0  DISCUSSION  
+Misophonia  is a condition that borders psychology and 
+audiology. In psychology, researchers are trying to 
+explain misophonia as a psychiatric disorder ( Schröder 
+et al., 2013 ). They try to assess and treat the patient 
+with misophonia using the psychiatric approach. 
+However, in audiology, misophonia is less explored and 
+is a relatively new term. Nevertheless, the prevalence of 
+misophonia is increasing with time, and many 
+misoph onia patients seek professional help ( Zhou et al., 
+2017 ; Wu et al., 2014 ). 
+ 
+Naylor et al. (2021 ) reported clinically significant 
+misophonia in 49.1% of the study sample population 
+among UK undergraduate medical student s. Similarly, a 
+study done by Wu et al. ( 2014 ) reported a prevalence of 
+misophonia at 19.9 % in  the sample of 483 US 
+undergraduate students using an online questionnaire 
+study. Another study by Zhou et al. ( 2017 ) found the 
+prevalence of misophonia to be 20% among 415 
+Chinese graduates. Comparable to these studies, our 
+study found the prevalence of misophonia to be 23.28% 
+among 170 graduate stude nts at Mysore University.  
+ 
+Jastreboff & Jastreboff ( 2002 ) reported that misophonia 
+triggers need not be only related to the human body. 
+The sound produced by people but not directly related 
+to the human body, for example , pen clicking, rustling  
+and tapping , can also trigge r misophonia. Similar results 
+were observed in the present study. Various triggers 
+related to the human body, both directly and indirectly, 
+have been noted. A chalk scratching sound, a sound not 
+directly related to the human body, is the most common 
+trigger reported by our study participants , as reported 
+by 37.04 % of participants. Our findings are contrary to 
+the findings of Jastreboff & Jastreboff ( 2014), who 
+reported that most aversive triggers are the sounds Coping strategies used by individuals 
+with misophonia  Percentage 
+(%) 
+Avoid people, situation and places  8 (80%)  
+Ignore the sound  4 (40%)  
+Distract self with some other activity  4 (40%)  
+Sleep  6 (60%)  
+Listening to the songs with high volume  6 (60%)  
+Close ears with fingers  2 (20%)  
+Prevent such sound productions  4 (40%)  
+Doing works at late night  2 (20%)  
+Using earphones and earplugs  3 (30%)  
+Active avoidance of anticipated situation 
+involving irritating sounds  3 (30 %)
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 7 made by the human mouth or nose, such as chewing 
+and breathing sounds. Brout et al. ( 2018 ) reported that 
+acoustic characteristics of sounds do not impact  
+emotional arousal. However, the impact of acoustical 
+characteristics of the triggers on emotional arousal has 
+not been explored, and there is a need to carry out such 
+a study using the neurophysiological measure in the 
+future.  
+ 
+Misophonia is a condition t hat occurs in isolation a nd 
+with other psychiatric and auditory disorders. In our 
+study, we found that among 47.6 % of participants 
+reporting misophonia symptoms, almost one -fourth of 
+the participants (25.93%) reported tinnitus in 
+association, similar to t he findings of Kochkin et al. 
+(2011 ). Misophonia is a condition that can occur in 
+isolation as a separate disorder. Misophonia also occurs 
+in association with other psychiatric conditions like 
+obsessive -compulsive disorders (OCD), attention deficit 
+hyperactivity disorder (ADHD)  and mood disorders . 
+Schröder et al. ( 2013 ) proposed diagnostic criteria 
+stating that misophonia is a separate psychiatric 
+disorder due to the high occurrence of misop honia with 
+psychiatric co -morbidities. In our study, among 81 
+participants reporting misophonia symptoms, only 
+19.75% of participants reported having psychiatric 
+issues. These data show that misophonia does not 
+always occur with psychiatric disorders, even  though it 
+can be a symptom of psychiatric disorders. However, 
+the findings of our study about psychiatric co -
+morbidities are based on the subjective explanation of 
+the participants based on the single question used in the 
+survey. There is a need to carry out a more focused 
+study using separate questionnaires related to 
+psychiatric illness to validate the findings.  
+ 
+Edelstein et al. ( 2013 ) have reported that misophonia is 
+a hereditary problem , as they found a family history in 
+misophonic individuals. However, in our study, only 
+8.64% of participants reported having a family history of 
+misophonia. These contradictory findings may be due to 
+inadequate sample size, lack of a separate standardi sed 
+questionnaire to assess the aetiology of the misophonia, 
+and participants' lack of awareness about the 
+misophonia. This result showed a need to explore the 
+aetiology of misophonia, considering a larger sample 
+size and using a focused methodology.  
+ 
+The literature states  that the prevalence of misophonia 
+is not associated with gender ( Zhou et al., 2017 ; Wu et 
+al., 2014 ). Results from our study also showed no 
+association between gender a nd the occurrence of 
+misophonia supporting these findings. However, the lack of association might be due to fewer male subjects 
+participating in the study than  female participants. T o 
+validate the conclusion, there  is a need to survey the 
+future with equal distribution of males and females .  
+ 
+There are few questionnaires developed for the 
+assessment of misophonia. The Amsterdam misophonia 
+scale (A -MISO -S) checklist developed by Schröder et al. 
+(2013) and the Misophonia  assessment questionnaire 
+(MAQ) developed by Wu et al.  (2014 ) is the two most 
+commonly used. However, the psychometric properties 
+of these questionnaires are not known much. In our 
+study, the prevalence of misophonia is found to  be 
+significantly different among A -MISO -S and MAQ, which 
+may be due to different scoring criteria or the  poor 
+psychometric properties of the questionnaire. Hence, 
+there is a need to develop a standardi sed questionnaire 
+in the native Indian language for as sessing misophonia, 
+which is lacking in the current scenario. In addition, we 
+have to rule out the other diagnostic measures that may 
+account for sound sensitivity by administering major 
+diagnostic tools that may be necessary.  
+ 
+Various audiological and psy chological approaches , 
+such as tinnitus retraining therapy and Cognitive 
+Behaviour Therapy , are used to manage misophonia. 
+This study suggests that most individuals do not know 
+about misophonia management and do not opt for 
+management from professionals. How ever, they have 
+been affected in their daily lives due to misophonia. Few 
+participants reported using coping strategies for 
+misophonia , and n one of the participants reported that 
+they were taking treatment from the concerned health 
+professionals. This suggests  that people are unaware of 
+the effect of misophonia and do not see it as a 
+significant concern, even though it impacts  their daily 
+lifestyle. This may be due to the hidden nature of the 
+disorder and lack of awareness about misophonia 
+among the general pub lic. Hence, it is essential to carry 
+out awareness programs about misophonia and its 
+consequences among the general public.  
+ 
+5.0  CONCLUSIONS  
+Even though significant progress has been made in the 
+field of misophonia, it is not regarded as a separate 
+disord er by any official diagnostic system, either by the 
+Diagnostic and Statistical Manual of Mental Disorders, 
+Fifth Edition (DSM -V) or the International Classification 
+of Diseases, Eleventh Edition (ICD -11). The result of our 
+study showed that the prevalence of mi sophonia is high 
+among Mysore university students. However , little  
+research has been done on misophonia, exploring 
+pathophysiology, assessment, and management.
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 8 People are unaware of misophonia management and  
+are not seeking professional help. Th erefore, it can be 
+hypothesi sed that highlighting more epidemiological 
+data will help recogni se misophonia as a separate and 
+genuine disorder. This would provide a path for 
+investigating and managing misophonia using a team 
+approach, including audiologists . 
+ 
+There is a shortage of studies on the epidemiological 
+data on misophonia in the Indian context a nd 
+worldwide, as this is a relatively new condition. As this 
+is the first study of this kind in the Indian context, it can 
+be a guiding tool f or future researchers about the 
+prevalence of misophonia, its impact, and co -morbidity 
+among the sufferers. The sample size of our study is not 
+adequate. Therefore, there is a need to carry out further 
+studies in the future, considering the appropr iate 
+sample size. There are no questionnaires on misophonia 
+developed and standardi sed in the Indian languages. 
+This study was conducted by administering the English 
+version of the misophonia questionnaire to the Indian 
+population, which is the study's limitation . Hence, there 
+is a need to develop the questionnaire in the native 
+Indian language in the future, and more research has to be carried out using the questionnaires developed in 
+the native language to replicate the findings. This study 
+considered only young  adults from Mysore University 
+for participation. Future studies can further look into 
+various age groups, compare the prevalence in all those 
+age groups, and compare the awareness in different 
+geographical areas across India so that appropriate 
+awareness -generating programs about misophonia 
+could be planned better.  
+ 
+Acknowledg ements:  The authors acknowledge Dr  
+Pushpavathi M., Director, All India Institute of Speech  and 
+Hearing, affiliated with the University of Mysore, for 
+permitting the study. The authors acknowledge the 
+participant s for their cooperation . 
+ 
+Author Contributions:  SA was involved in concept 
+development, study design, stimulus preparation, analysis of  
+the results, interpretation, and writing of the manuscript; PP 
+was involved in concept development and study design,  
+stimulus preparation, and writing of the manuscript.  
+ 
+Conflicts of Interest:  The authors report no confl icts of 
+interest.  
+ 
+ 
+ 
+References  
+Altın , B. (2021). Adaptation, Validity and Reliability of the Turkish version of Misophonia Assessment Questionnaire. Erciyes 
+Medical Journal , 44(3), 286 –292. https://doi.org/10.14744/etd.2021.78545    
+Brou t, J. J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L. J., Rouw, R., Kumar, S., & Rosenthal, M. Z. (2018). Investigat ing 
+misophonia: A review of the empirical literature, clinical implications, and a research agenda. Frontiers in Neuroscience , 
+12(2). https://doi.org/10.3389/fnins.2018.00036  
+Dozier, T. H. (2015). Counterconditioning treatment for misophonia. Clinical Case Studies , 14(5), 374 –387. 
+https://doi.org/10.1177/1534650114566924  
+Edelstein , M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013). Misophonia: Physiological investigations and case 
+descriptions. Frontiers in Human Neuroscience , 7(6), 1 –11. https://doi.org/10.3389/fnhum.201 3.00296  
+Hadjipavlou, G., Baer, S., Lau, A., & Howard, A. (2008). Selective sound intolerance and emotional distress: What every 
+clinician should hear. Psychosomatic Medicine  , 70( 6), 739 –740. https://doi.org/10.1097/PSY.0b013e318180edc2  
+Jastreboff, M.M. &  Jastreboff, P. J. (2001). Components of decreased sound tolerance : hyperacusis, misophonia, 
+phonophobia. ITHS Newsletter , 1–5. https://doi.org/10.1016/B978 -0-444-62630 -1.00021 -4 
+Jastrebof f, M. M., & Jastreboff, P. J. (2002). Decreased sound tolerance and tinnitus retraining therapy (TRT). Australian and 
+New Zealand Journal of Audiology , 24(2), 74 –84. https://doi.org/10.1375/audi.24 .2.74.31105  
+Jastreboff, P. J., & Hazell, J. W. P. (2004). Tinnitus retraining therapy: Implementing the neurophysiological model, 276. 
+http://assets.cambri dge.org/97805215/92567/frontmatter/9780521592567_frontmatter.pdf  
+FJastreboff, P. J., & Jastreboff, M. M. (2014). Treatments for decreased sound tolerance (hyperacusis and misophonia). 
+Seminars in Hearing , 35(2), 105 –120. https://doi.org/10.1055/s -0034 -1372527  
+Kochkin, S., Tyler, R., & Born, J. (2011). MarkeTrak VIII: The prevalence of tinnitus in the United States and the self -reported 
+efficacy of various treatments. Hearing Review , 18(12), 10 –27. 
+Moeller, M. P. . (2011). Misophonia, phonophobia and "exploding head" syndrome. Textbook of Tinnitus , 25–27. 
+Naylor, J., Caimino, C., Scutt, P., Hoare, D. J., & Baguley, D. M. (2021). The Prevalence and Severity of Misophonia in a UK 
+Undergraduate Medical S tudent Population and Validation of the Amsterdam Misophonia Scale. Psychiatric Quarterly , 
+92(2), 609 –619. https://doi.org/10.1007/s11126 -020-09825 -3 
+Palumbo, D. B., Alsalman, O., De Ridder, D., So ng, J. J., & Vanneste, S. (2018). Misophonia and potential underlying 
+mechanisms: A perspective. Frontiers in Psychology ,  9(6). https://doi.org/10.3389/fpsyg.2018.00953  
+Potgieter, I., MacDonald, C.,  Partridge, L., Cima, R., Sheldrake, J., & Hoare, D. J. (2019). Misophonia: A scoping review of 
+research. Journal of Clinical Psychology , 75(7), 1203 –1218. https://doi.org/10.1002/jclp.22771
+
+NEUROSCIENCE RESEARCH NOTES | 20 22 | VOLUME 5 | ISSUE 4 | ARTICLE 161  | PAGE 9 Sanchez, T. G. , & Silva, F. E. da. (2018). Familial misophonia or selective sound sensitivity syndrome : evidence for autosomal 
+dominant inheritance? Brazilian Journal of Otorhinolaryngology , 84(5), 553 –559. 
+https://doi.org/10.1016/j.bjorl.2017.06.014  
+Sarigedik, E., & Gulle, B. (2021). A Study on Validation of Amsterdam Misophonia Scale in Turkish and Misophonia's 
+Prevalence in Turkish High School/College Student Population. Psychiatry and Behavioral Sciences , 11(4), 258. 
+https://doi.org/10.5455/pbs.20210509040627  
+Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: Diagnostic Criteria for a New Psychiatric Disorder. PLoS ONE , 8(1). 
+https://doi.org/10.1371/journal.pone.0054706  
+Tyler, R. S., Pienkowski, M., Roncancio, E. R., Jun, H. J., Brozoski, T., Dauman, N., Coelho, C. B., Andersson, G., Keiner, A . J., 
+Cacace, A. T., Martin, N., & Moore, B. C. J. (2014). A review of hyperacusis and future directions: Part I. Definitions and 
+manifestations. American Journal of Audiology,  23(4), 402 –419. https://doi.org/10.1044/2014_AJA -14-0010  
+Waechter, S. (2021). Association between hearing status and tinnitus distress. Acta Oto -Laryngologica , 141(4), 381 –385. 
+https://doi.org/10.1080/00016489.2021.1876919  
+Wu, M. S., Lewin, A. B., Mur phy, T. K., & Storch, E. A. (2014 ). Misophonia: Incidence, phenomenology, and clinical correlates 
+in an undergraduate student sample. Journal of Clinical Psychology , 70(10), 994 –1007. 
+https://doi.org/10.10 02/jclp.22098  
+Zhou, X., Wu, M. S., & Storch, E. A. (2017). Misophonia symptoms among Chinese university students: Incidence, associated 
+impairment, and clinical correlates. Journal of Obsessive -Compulsive and Related Disorders , 14(12), 7 –12. 
+https://doi.org/10.1016/j.jocrd.2017.05.001

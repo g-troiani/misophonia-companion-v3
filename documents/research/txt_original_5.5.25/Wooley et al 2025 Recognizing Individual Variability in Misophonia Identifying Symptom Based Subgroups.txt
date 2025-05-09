@@ -1,0 +1,1038 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Journalofpsychiatric research
+ArticleTitle: Recognizing Individual Variability inMisophonia: Identifying Symptom -BasedSubgroups
+withGaussian MixtureModeling
+ArticleAuthor: Woolley
+ISSN-00223956; LCN-2003233393;
+Publisher: 2025-02-01
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Journal Pre-proof
+Recognizing Individual Variability in Misophonia: Identifying Symptom-Based
+Subgroups with Gaussian Mixture Modeling
+Mercedes G. Woolley, Leila K. Capel, Emily M. Bowers, Karen Muñoz, Julie M.
+Petersen, Michael P. Twohig
+PII: S0022-3956(25)00134-7
+DOI: https://doi.org/10.1016/j.jpsychires.2025.02.054
+Reference: PIAT 6748
+To appear in: Journal of Psychiatric Research
+Received Date: 3 November 2024
+Revised Date: 7 February 2025
+Accepted Date: 27 February 2025
+Please cite this article as: Woolley MG, Capel LK, Bowers EM, Muñoz K, Petersen JM, Twohig MP,
+Recognizing Individual Variability in Misophonia: Identifying Symptom-Based Subgroups with Gaussian
+Mixture Modeling, Journal of Psychiatric Research , https://doi.org/10.1016/j.jpsychires.2025.02.054 .
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+© 2025 Published by Elsevier Ltd.
+
+Recognizing Individual Variability in Misophonia: Identifying Symptom -Based Sub groups  with 
+Gaussian Mixture Modeling  
+Mercedes G. Woolley1, Leila K. Capel 1, Emily M. Bowers1, Karen Muñoz1, Julie M. Petersen2, 
+& Michael P. Twohig1 
+1Utah State University  
+2Harvard University  
+ 
+ 
+Financial disclosures/conflicts of interest:  This project was funded by a grant from the 
+Misophonia Research Fund.  
+Address correspondence to:  Mercedes G. Woolley, Department of Psychology, Utah State 
+University, 2810 Old Main Hill, Logan, UT 84322, Mercedes.Woolley@usu.edu  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 1 
+Abstract  
+Misophonia is characterized by intense emotional and physiological reactions to everyday 
+sounds such as chewing and tapping. While previous research ers have focused on defining and 
+characterizing the disorder, limited attention has been given to the variability in symptom 
+presentations across individuals. In this study, we sought to identify distinct subgroups of 
+individuals with misophonia by applying a Gaus sian finite mixture model to explore the 
+heterogeneity of symptom profiles. Sixty treatment -seeking participants completed the Duke 
+Misophonia Interview, which assessed the presence and severity of various behavioral, affective, 
+and cognitive symptoms. Ite ms from this measure served as model indicators. Two clusters were 
+found: anticipatory and reactive. The anticipatory  group reported heightened awareness of 
+potential triggers, preemptive anticipatory distress , and increased avoidance behaviors, while the 
+reactive group primarily displayed emotional and physiological responses during the occurrence 
+of sounds. Notably, both groups reported similar frequencies of misophonic triggers, but the 
+anticipatory  group demonstrated greater internalizing symptoms, such  as intrusive thoughts  or 
+rumination about misophonic sounds  and social isolation. Our findings support the need for 
+tailored interventions that address subgroup -specific symptom patterns. Future research ers 
+should aim to include larger sample sizes and de velop more comprehensive models to capture 
+the full spectrum of misophonia symptoms, including externalizing behaviors.  
+Keywords:  Misophonia, cluster analysis, internalizing symptoms, heterogeneity, sub -type  
+  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 2 
+Recognizing Individual Variability in Misophonia: Identifying Symptom -Based Subgroups 
+with Gaussian Mixture Modeling  
+The first scientific investigations of misophonia began just over a decade ago (e.g., 
+Schroder et al., 2013). Psychologists, audiologists, and neurologists  who have led the init ial 
+stages of this research  have primarily focused on defining and characterizing the disorder. This 
+research has led experts to classify misophonia as a sound sensitivity disorder, marked by intense 
+emotional and physiological reactions to common sounds l ike chewing, breathing, and tapping 
+(Swedo et al., 2022). The research thus far has consistently show n that misophonic reactions can 
+severely impact relationships and are associated with significant difficulties in social, academic, 
+and occupational functi oning (Ferros -Terras et al., 2022; Brout et al., 2018).  Additionally, 
+misophonia can co -occur with psychiatric conditions such as generalized anxiety disorder and 
+attention deficit hyperactivity disorder  (Jager et al., 2020 ; Woolley et al., 2024 ). However,  it is 
+increasingly recognized that misophonia should be classified as a distinct disorder (Rosenthal et 
+al., 2022; Swedo et al., 2022).  
+Despite key scientific advancements such as a set of proposed diagnostic criteria 
+(Schröder et al., 2013; Jager et al.,  2020), measurement tools , and treatment studies (see Mattson 
+et al., 2023 for a review) , individual variability in misophonia presentations remains 
+underexplored, which has important implications for diagnosis and treatment . Notably, symptom 
+severity appears to vary widely, particularly emotional responses to misophonic sounds. Some 
+studies highlight a spectrum of emotional responses . For instance, emotional responses for those 
+with moderate levels of misophonia typically invo lve more manageable experiences such as 
+irritation and distress (Dibb et al., 2021; Tunç et al., 2017; Rouw & Erfanian, 2018). 
+Alternatively , a substantial subset experience more intense reactions, escalating to panic, rage, 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 3 
+and in some cases, aggressive b ehaviors such as violence (Tunç et al., 2017; Guzick et al., 2023).  
+Variability in physiological reactions  has also been reported , ranging from muscle tension to 
+headaches and physical pain (Wu et al., 2014; Rouw & Erfanian, 2018; Mednicoff et al., 2024).   
+Similarly, avoidance behaviors vary widely, from minimal strategies like covering the 
+ears to more disruptive actions, such as avoiding family meals or certain individuals. The timing 
+of avoidance differs as well; some individuals reactively avoid misoph onic triggers in the 
+moment, while others engage in anticipatory avoidance, taking preemptive steps to avoid 
+situations where trigger sounds are expected (Guzick et al., 2023). Unsurprisingly, the extent of 
+avoidance has been linked to the level of discomf ort experienced when exposed to misophonic 
+triggers (Claiborn et al., 2020). Furthermore, the intensity of misophonic symptoms is often 
+associated with impairment and disruptions in quality of life (Möllmann et al., 2023; Guzick et 
+al., 2023).  
+As research advances and diagnostic criteria for misophonia are refined (e.g., Swedo et 
+al., 2022), the variability observed in the disorder suggests that it may be more appropriately 
+understood  dimensionally rather than categorically. While psychiatric diagnoses typi cally follow 
+categorical frameworks, assessing symptoms on a spectrum provides a more nuanced 
+understanding (Zimmerman et al., 2018). Moreover, diagnostic heterogeneity in psychiatry is not 
+solely about differences in severity but also about how disorders manifest uniquely across 
+individuals, depending on the presence of specific symptoms. For example, latent profile 
+analysis has shown that individuals with severe and moderate depression exhibit distinct 
+symptom patterns, with those experiencing severe depression reporting significantly higher 
+levels of suicidal ideation and cognitive diffic ulties, such as problems with concentration and 
+memory (Li et al., 2024). Similarly, studies of adults with post -traumatic stress symptoms 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 4 
+following natural disasters have identified four distinct profiles —minimal, low, moderate, and 
+severe —where differenc es in avoidance, hyperarousal, and numbing play  a critical role in 
+distinguishing more severe presentations (Bondjers et al., 2018; Rosellini et al., 2014).  
+Recent efforts to understand the heterogeneity of misophonia have employed similar 
+clustering techn iques. For example, Norris et al. (2022) used k -means clustering to examine 
+symptom presentations in a non -clinical sample, identifying subgroups with varying degrees of 
+misophonia severity and associated conditions  (e.g.,  tinnitus and sensory hypersensiti vity). 
+Similarly, McKay et al. (2018) applied Profile Analysis via Multidimensional Scaling to identify 
+psychological symptom profiles, which highlighted  different  patterns associated with obsessive -
+compulsive features, interoceptive sensitivity, and distr ess tolerance. While these studies 
+highlight the utility of clustering approaches for identifying broad symptom patterns of 
+misophonia and its phenotypic features, these approaches have yet to classify individuals based 
+on the specific behavioral, cognitiv e, and emotional processes involved in the disorder. 
+Developing a more nuanced understanding of these mechanisms could advance classification 
+systems, assessment tools, and interventions tailored to unique presentations of misophonia.  
+Recognizing the need to understand heterogeneity in the specific 
+symptomatology of misophonia, researchers have begun examining the distinct 
+symptom patterns that manifest differently among individuals with the disorder . For 
+example, youth  with misophonia  experience varying le vels of internalizing symptoms (e.g., 
+anxiety, mood disturbances), which may be linked to isolation, rumination, and self -blame 
+regarding their misophonic reactions. In contrast, externalizing symptoms (e.g., aggression, 
+outbursts) were associated with ove rt dysregulated responses to trigger sounds and external 
+blame (Armstrong et al., 2023). Although both symptom dimensions are related to misophonia 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 5 
+severity, they may manifest differently; one study showed  for youth with misophonia, 
+internalizing symptoms are linked to a lower quality of life whereas externalizing symptoms 
+were not (Kook et al., 2024). Another study of adults found that more severe misophonia 
+symptoms were associated with heightened anxiety or depressive emotions, rather than feelings 
+of an ger or annoyance, when exposed to triggering sounds (Möllmann et al., 2023). While these 
+findings illustrate that individuals with misophonia may present with varying symptom 
+profiles —ranging from internalizing to externalizing dimensions —there remains a need for more 
+comprehensive measures that assess the full spectrum of emotional, behavioral, and 
+physiological responses.  
+Currently , most existing measures of misophonia primarily assess symptom intensity and 
+impairment (e.g., Wu et al., 2014; Siepsiak et al., 2020), with less focus on evaluating the full 
+range of psychological, affective, and physiological responses that contribute to the complexity 
+and heterogeneity of the disorder. To address this gap, Rosenthal et al. (2021) developed the 
+Duke Misophoni a Questionnaire (DMQ), which captures a broader range of internal and external 
+behavioral, affective, physiological, and cognitive experiences. The DMQ later informed the 
+development of the Duke Misophonia Interview (DMI; Guetta et al., 2022), a semi -struc tured 
+interview designed to assess these facets in -depth through participant interviews and clinician 
+ratings. This approach allows for the assessment of the presence and severity of unique 
+psychological aspect s of misophonia. Naturally, heterogeneity in s ymptomatology and intensity 
+is revealed through individual -level  item responses. Such person -specific variability in symptom 
+endorsement holds significant implications for  tailoring  treatment, and the developers of these 
+measures have emphasized the import ance of flexible, person -centered interventions, such as the 
+Unified Protocol and Process -Based Therapy (Rosenthal et al., 2023).  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 6 
+In the current study, we explored variability in misophonia symptoms by assessing 
+whether distinct subgroups of individuals wi th misophonia can be identified. Using a model -
+based clustering approach, we utilized the behavioral, affective, and cognitive dimensions 
+captured by the DMI as indicators to define these subgroups. Additionally, we examined the 
+clinical relevance of these  subgroups by comparing their levels of functional impairment, as well 
+as comorbid psychological factors including stress, anxiety, and depression. The ultimate goal of 
+this study was to enhance our understanding of potential differences in how misophonia  presents 
+and provide preliminary recommendations for more tailored intervention approaches.  
+Methods  
+Study Context  
+The present study includes data collect ed as part of a larger randomized controlled trial 
+(RCT) evaluating a psychological intervention for misophonia (see MASKED FOR REVIEW). 
+This study focuses exclusively on data collected during the initial assessment phase, prior to any 
+intervention. All RCT procedures were preregistered on  www.clinicaltrials.gov  [INDE NTIFER 
+MASKED] and on  the Open Science Framework : 
+https://osf.io/9mw pd/?view_only=f7789c49dffe4a829cc6e504daac4bdc . The research was 
+approved by a University Institutional Review Board.  
+Procedures  
+Recruitment and Eligibility Screening  
+The RCT was carried out in Utah, with participants recruited from within the state 
+between November 2022 and November 2023 . Participants were recruited through local 
+advertisements and social media. Ads via Facebook and other platforms invited individuals 
+interested in treatment for misophonia to participate in the study. Potential partic ipants were 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 7 
+directed to an online screener that included the Misophonia Questionnaire (MQ; Wu et al., 2014). 
+A total of 261 individuals completed the screener.  
+Participants qualified for an intake appointment to assess their eligibility  for treatment if 
+they scored above 5 on the severity item of the Misophonia Questionnaire (MQ ; Wu et al., 2014), 
+indicating at least mild impairment. Of the 261 individuals screened, 232 met this criterion and 
+were invited to proceed to the next step. These individuals were contacted by email and invited 
+to schedule a clinical intake interview. Of the contacted individuals, 75 consented and agreed to 
+participate. The remaining individuals who were invited to participate did not respond to the 
+invitation or declined to partici pate.  
+Baseline Procedures  
+All 75 of the consenting participants attended an intake appointment, which included a 
+structured clinical interview for misophonia (the Duke Misophonia Interview; DMI; Guetta et al., 
+2022) to confirm the presence of misophonia a nd continued interest in receiving therapy for 
+misophonia. The Diagnostic Interview for Anxiety, Mood, and Obsessive -Compulsive and 
+Related Neuropsychiatric Disorders ( DIAMOND; Tolin et al., 2018) was administered to assess 
+comorbid diagnoses based on DSM -5 criteria  (not reported in this paper [see MASKED FOR 
+REVIEW]) . The interview served  to rule  out any psychiatric conditions that would prevent 
+misophonia from being identified as the primary condition requiring treatment.  All interview s 
+were conducted by a traine d doctoral student in clinical psychology and supervised by the 
+principal investigator , a lic ensed psychologist . 
+Additionally, the participants completed self -report questionnaires to provide information 
+on their sociodemographic background , symptoms of misophonia , and other mental health 
+variables . Finally, a doctoral student in audiology, under the supervision of an audiologist, 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 8 
+conducted an audiological evaluation to assess any peripheral hearing issues, such as hyperacusis 
+or hearing loss . These audiological results were part of the broader clinical trial and are not 
+examined in this paper (see [masked for review] for further details ). Each participant received 
+$60 as compensation for completing the clinical interview and the self -report q uestionnaire.  
+After completing the initial intake appointment, participants were deemed eligible for the 
+study if the y scored a total score of  20 or greater on the Duke Misophonia Interview (DMI ; 
+Guetta et al., 2020). This score was pre -selected as a cutof f to mark clinically significant levels 
+of misophonic symptoms, as it falls one standard deviation below the norm established by the 
+measure ’s validation sample. This score was used as a clinical cutoff to ensure that participants' 
+symptoms were sufficient ly severe to warrant intervention. Following the administration of the 
+DMI, during which misophonia symptoms and their functional impact were discussed, 
+participants were asked to confirm their continued interest in pursuing therapy to ensure the 
+sample co nsisted of individuals actively seeking treatment. A total of 15 participants were 
+excluded from the final sample for the following reasons: nine individuals scored below the 
+established cut -off on the DMI , two had sound sensitivities related to trauma, on e participant had 
+sound sensitivities primarily due to volume, one participant met criteria for a current manic 
+episode (which represented a primary presenting problem over misophonia ), and two participants 
+decided they no longer wished to pursue treatment  for misophonia.  
+Sample Characteristics  
+The final sample included 60 treatment seeking  participants  with misophonia who 
+primarily self -identified as White (98.3%), non -Hispanic (96.7%), heterosexual (76.7%), women 
+(90.0%), with an average age of 33.80 years ( SD = 12.18); see Table 1 for all participant 
+demographics.  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 9 
+Measures  
+Duke Misophonia Interview (DMI; Rosenthal et al., 2021; Guetta et al., 2022)  
+The Duke Misophonia Interview (DMI) is an 18 -item semi -structured clinical interview 
+designed to assess both the presence and severity of misophonia symptoms. The DMI evaluates 
+trigger sounds, reaction severity, and functional impairment, focusing on both current symptoms 
+and symptoms experienced over the participant's lifetime.  
+Items 2 through 14 of the DMI  assess a range of specific internalizing and externalizing 
+cognitive, behavioral, and emotional symptoms associated with misophonia (e.g., the experience 
+of negative emotions during a misophonic trigger, as evaluated in Item 6). These items capture 
+the pr esence, frequency, and intensity of symptoms. Symptom severity over the past month is 
+rated using a 5 -point Likert scale, and these ratings are combined to generate a current severity 
+score. When a symptom is present, its perceived impact on functioning is  assessed, contributing 
+to a "current impairment" subscale. Global levels of impairment are assessed separately using 
+items 15 to 18, which focus on the broader impact of misophonia symptoms on daily 
+functioning, such as relationships with family, friends,  and colleagues (e.g., Item 15).  
+For the current study, only the severity scores from the current severity subscale were 
+used as indicators in model -based clustering to identify distinct subgroups based on misophonia 
+symptoms. The global impairment subscal e, rather than the current impairment subscale, was 
+selected to assess functional impairment in this study. This decision was made because the 
+current impairment items are only administered when a symptom is present, leading to overlap 
+between impairment a nd severity that would complicate subgroup comparisons in the clustering 
+analysis.  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 10 
+The DMI has demonstrated excellent preliminary psychometric properties, including 
+strong internal consistency, predictive validity, and test -retest reliability (Guetta et al ., 2022), 
+making it a reliable and valid instrument for clinical assessment of misophonia. While formal 
+interrater reliability testing was not assessed, the doctoral student interviewer and the principal 
+investigator (a licensed psychologist) reviewed inte rview recordings for the first ten participants 
+together. This process ensured agreement on item scoring, enhancing the consistency and 
+accuracy of the assessments. The reliability of the global impairment subscale in this study was 
+acceptable (α = .68).  
+Misophonia Questionnaire (MQ; Wu et al., 2014)  
+ The Misophonia Questionnaire (MQ; Wu et al., 2014) is a self -report instrument 
+consisting of 18 items that measure various aspects of misophonia, including severity and the 
+specific nature of symptoms. It contains three subscales ; the first subscale (7 items) assesses the 
+presence of misophonia -related symptoms, while the second (10 items) focuses on the emotional 
+and behavioral responses to misophonic triggers. The final subscale is a single -item measure o f 
+overall symptom severity. For the symptoms subscale, participants rate their sensitivity to 
+specific sounds (such as repetitive tapping or eating noises) on a 5 -point Likert scale, ranging 
+from 0 ( not at all true ) to 4 ( always true ). Similarly, the emoti onal and behavioral responsivity 
+subscale evaluates participants ’ reactions (e.g., leaving the area, feeling irritated), also on a 5 -
+point scale, from 0 ( never ) to 4 ( always ). 
+The total MQ score, calculated by summing the scores from the symptoms and 
+emoti onal/behavioral subscales, ranges from 0 to 68, with higher scores indicating greater 
+symptom severity. Additionally, the single -item severity scale captures the overall intensity of 
+misophonia on a scale from 1 ( minimal ) to 15 ( very severe ), where scores of higher  than 6  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 11 
+suggest clinically significant levels of impairment. In this sample, the MQ demonstrated 
+acceptable internal consistency (α = 0.74). 
+The Depression Anxiety Stress Scale -21 (DASS -21; Lovibond & Lovibond, 1995) .  
+The DASS -21 is a 21 -item self-report questionnaire that evaluates levels of emotional 
+distress in three areas: depression, anxiety, and stress. Each subscale contains seven items. 
+Participants are asked to rate how often they experience specific symptoms on a 4 -point Likert 
+scale,  ranging from 0 ( never ) to 3 ( almost always ). The scores for each subscale are summed and 
+then doubled, with higher scores indicating greater levels of distress. The DASS -21 has shown 
+strong psychometric properties, including good validity and reliability (Henry & Crawford, 
+2005). In the current sample, the internal consistency of the subscales ranged from .81 to .93.  
+Statistical Analysis  
+Software and Preprocessing  
+All statistical analyses were conducted using R version 4.4.1 (R Core Team, 2024), 
+specifical ly utilizing the mclust  package (Scrucca & Raftery, 2018). Preprocessing of the data 
+revealed no item -level missingness across the measures used in this study. Transparent and 
+reproducible code for all analyses can be found on the Open Science Framework : 
+https://osf.io/ytd3a/?view_only=160f09b399b34050a2c5098faa0a5953 . 
+Model -Based Clustering  
+To assess heterogeneity in misophonia symptom presentations, a Gaussian finite mixture 
+model was employed to identify distinct subgroups within the sample. Symptom profiles were 
+constructed using items 3 through 13 of the DMI. Item 14, which addresses self -destructive 
+behavior (i.e., self -harm) to cope with misophonia, was not included in the model due to its low 
+endorsement ( n = 3). 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 12 
+This clustering approach  assumes that the data consist of several Gaussian distributions, 
+each representing a distinct subgro up. We selected the Gaussian mixture modeling  (GMM)  
+approach due to its flexibility in modeling different covariance structures and its ability to handle 
+complex, multivariate relationships. This flexibility allows for more accurate identification of 
+clust ers based on symptom profiles, an essential consideration given the exploratory nature of the 
+study and the relatively small sample size. Unlike latent profile analysis, which assumes equal 
+variances within clusters  (Vermunt, 2002) , GMM accommodates variat ions in the shape, size, 
+and orientation of clusters. As this is the first study to examine misophonia subgroups based on 
+cognitive, emotional, and behavioral indicators of misophonia as measured by the DMI , GMM 
+provided the necessary flexibility to captur e the complexity of symptom relationships . 
+Model selection was guided by the Bayesian Information Criterion (BIC) and the 
+Integrated Complete -data Likelihood (ICL) criterion (Baudry et al., 2010), with lower values 
+indicating better -fitting models. Uncerta inty of group assignment was assessed to ensure that 
+participants were assigned to the most appropriate group with high confidence.  The process 
+began with a two -group solution, incrementally increasing the number of groups until the 
+optimal solution was id entified.  
+Clinical Comparisons  
+ Once the best -fitting model was selected, further between -group comparisons were 
+conducted to assess differences in relevant clinical measures, including misophonia symptoms as 
+measured by MQ subscale and misophonia related impairment using the DMI global impairment 
+score. Additionally, groups were compared on measures of stress, anxiety, and depression  as 
+assessed by the DASS -21. Shapiro -Wilk ’s tests were performed for each measure to determine 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 13 
+whether scores were normal ly distributed . When the assumption of normality was violated, 
+Mann -Whitney U tests were used for comparison . 
+Results  
+Model -Based Cluster Analysis   
+The model -based cluster analysis (see Figu re 1 for models with BIC values) initially  
+identified an equal volume and shape (EEI) model with two classes as a viable solution. The two -
+class model showed good fit based on BIC ( -1751.64 ) and ICL ( -1758.18 ) values. Furthermore, 
+the bootstrap likelihood ratio test indicated that the improvement from one class to two classes 
+was significant ( p = .001). Uncertainty tests for the two -class model demonstrated high certainty 
+in class assignments, with average posterior probabilities of 0.9 4 for class one ( n = 31) and 0.9 7 
+for cla ss two ( n = 29) , indicating high certainty in class assignments based on the two-class  
+model.  
+Although the two -class model showed good fit, a three -class solution was also considered 
+based on its BIC ( -1755.90 ) and ICL ( -1760.16 ) values, which were similarly strong. The 
+bootstrap likelihood ratio test confirmed that the improvement from two to three classes was 
+significant (p = .00 1), although the improvement from three to four classes was not significant (p 
+= .055), suggesting that a  three -class model could also be a viable solution.  Moreover, 
+uncertainty tests for the three -class model revealed average posterior probabilities were 0.9 6 for 
+class one ( n = 18), 0.97 for class two ( n = 25), and 0.9 8 for class three ( n = 17), demonstrati ng 
+reliable group assignment, albeit with slightly lower certainty for the third class.  
+Model Selection  
+Given that the two -class and three -class models fit the data well, a data -driven approach 
+was employed to determine which model provided a better fit. C omparisons were made between 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 14 
+the two groups in the two -class solution and the three groups in the three -class solution, using 
+MQ severity and DMI global impairment scores. These comparisons were conducted to evaluate 
+which model more effectively distinguis hed unique classes of individuals with misophoni a. 
+Mann -Whitney U tests were performed for the two -class comparison, while analysis of variance 
+(ANOV A) was performed to examine differences across the three -class group solutions.  
+In the two -class model, group two scored significantly higher than group one on the MQ 
+emotional and behavioral responses to trigger sounds (Cohen's d = 0.68, p = .032 ), MQ severity 
+(d = 0.79, p = .012 ), and DMI global impairment (d = 1.13, p = .001 ), iden tifying group two as 
+more severe and impaired. In contrast, the three -class model showed no significant differences 
+across the groups for MQ misophonia symptoms , MQ severity , or MQ emotional and behavioral 
+reactions (ps < .084). However, a between groups e ffect was observed for DMI global 
+impairment (F(2, 57) = 5.284, p = .008) , but post-hoc Tukey ’s Honestly Significant Difference 
+test revealed that these differences were only significant between classes one and two ( diff = 
+1.93, p = .00 7), but not between classes one and two or classes two and three. Due to the clearer 
+group distinctions in severity and impairment in the two -class model, it was selected as the most 
+optimal solution.  As a result, we did not interpret the three -class soluti on further, but between -
+group comparisons for the DMI model indicators in the three -class solution can be found in the 
+supplemental material (see Table S1).  
+Model -Based Cluster Analysis: Group Interpretation  
+The two clusters were a reactive  group ( n = 31),  who have fewer misophonia symptoms 
+and predominately react to misophonic triggers only when they occur, and an anticipatory  group 
+(n = 29), who have more symptoms , heightened  vigilance, and increased anticipat ion of  triggers. 
+The anticipatory group scored  significantly higher than the reactive group on the majority of 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 15 
+DMI symptoms, with moderate to large effect sizes (see Table 2 for details), indicating a more 
+severe or symptomatic presentation of misophonia.  
+The most pronounced symptom differences betwee n the anticipatory and reactive groups 
+were observed for negative emotions before triggers ( d = 2.64) and hypervigilance for 
+misophonic triggers ( d = 1.76). These results suggest that the anticipatory group experienced 
+higher levels of preemptive internalizing symptoms, such as anticipatory distress and heightened 
+emotional responses even before triggers occurred, whereas the reactive group exhibited  fewer 
+signs of pre -emptive misophonic distress or vigilance towards the possible misophonic triggers. 
+This distinction is further illustrated in Figure 2, which shows plotted means for each subgroup 
+across all items in the model.  
+Additional notable differ ences emerged between the groups, with the anticipatory group 
+reporting significantly higher levels of intrusive thoughts or rumination about prior misophonic 
+experiences ( d = 1.38) and a stronger sense of being misunderstood or detached from others due 
+to their symptoms ( d = 1.72). These findings highlight the anticipatory group's tendency toward 
+more persistent internalizing symptoms. Moreover, the anticipatory group reported greater 
+engagement in deliberate avoidance of situations where they might encoun ter triggering sounds 
+(d = 1.00).  
+Despite these differences, both groups displayed similarly high scores for the need or 
+desire to escape from triggering situations, physiological reactions to misophonic triggers, and 
+negative thoughts during such events. These symptoms were reported at moderate to severe 
+levels across both groups. However, the anticipatory group reported significantly higher scores 
+on these reactive symptoms, suggesting that for the anticipatory group these symptoms may be 
+more intense ( ds = 0.88 -1.01).  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 16 
+Interestingly, no significant group differences were found in negative emotions after 
+misophonic sounds or verbal or physical aggression in response to triggers ( ps > .05). This 
+indicates that both subgroups exhibited similar emotional and b ehavioral responses during and 
+immediately following misophonic triggers, reflecting shared externalizing reactions in the 
+moment. However, more pronounced distinctions were evident when triggers were absent, with 
+the anticipatory group displaying more pro nounced internalizing symptoms, such as 
+hypervigilance, anticipatory anxiety, and persistent distress outside of the triggering situations.  
+Clinical Comparisons  
+Finally, we compared the two groups on relevant clinical variables (see Table 3). No 
+significan t differences were found between the groups in terms of anxiety symptoms, with both 
+groups reporting average anxiety levels within the normal range based on clinical cutoff scores 
+for the DASS -21. Similarly, there were no significant differences in depress ive symptoms, 
+though it is worth noting that on average the reactive group endorsed little to no depressive 
+symptoms (normal range), while the anticipatory group reported mild depres sive symptoms. In 
+contrast, the anticipatory group reported significantly higher levels of stress, though the effect 
+size was modest ( d = 0.64). The reactive group scored within the normal range for stress, while 
+the anticipatory group ’s scores met the criteria for mild levels of stress.  
+Discussion  
+In this study, we investigate d variability in misophonia symptom profiles by employing a 
+model -based clustering approach to identify distinct subgroups. A two -class model, which nearly 
+evenly divided the sample, provided the best fit for the data, differentiating participants into 
+anticipatory and reactive subgroups. Using this model, we successfully distinguished subgroups 
+based on the severity and impairment of misophonia symptoms, with the anticipatory group 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 17 
+reporting more severe symptoms and greater impairment. While previous resea rchers have 
+acknowledged heterogeneity in misophonia symptomatology (e.g., Armstrong et al., 2023; 
+Guzick et al., 2023), this study is the first to distinguish subgroups of individuals based on 
+unique cognitive, emotional, and behavioral symptoms specific to misophonia using a clustering 
+approach . 
+The anticipatory group was characterized by heightened awareness of potential triggers, 
+even when misophonic sounds were absent. These individuals demonstrated increased 
+preemptive anticipation and vigilance towar d triggers, which could explain why avoidance was 
+also more elevated among this group. In contrast, participants in the reactive group displayed 
+elevated emotional and physiological reactions primarily when the sounds were occurring.  
+Interestingly, there were no significant differences between the groups in terms of the 
+MQ symptom subscale, which measures the frequency of misophonic triggers. This suggests that 
+both groups may experience a similar number of triggers, leading to questions about why the 
+anticipatory group exhibits greater levels of behavioral and emotional reactions to the sounds and 
+impairment. One possibility is that the anticipatory group ’s heightened vigilance consumes more 
+cognitive and emotional resources, intensifying their overall exp erience of misophonia. This 
+theory aligns with the concept of experiential avoidance, where individuals attempt to control or 
+avoid intense emotional reactions, leading to increased preoccupation with potential triggers 
+(Cowan et al., 2022). This may expla in why the anticipatory group is more consumed by 
+anticipatory anxiety and hypervigilance, whereas the reactive group predominately displays 
+negative cognitive, emotional, and physiological reaction to sounds when they occur. To fully 
+understand how sympto ms interact and maintain misophonia in these subgroups, researchers 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 18 
+could apply network modeling to explore the unique symptom interactions that drive the disorder 
+in each group.  
+Both subgroups reported moderate to severe negative cognitive, emotional, and  
+physiological reactions to misophonic sounds, though these symptoms were more intense in the 
+anticipatory group. This finding suggests that stress responses to misophonic sounds may be 
+common across different presentations of the disorder, regardless of s everity. Interestingly, there 
+was no significant difference between the groups in emotional reactions after the sounds had 
+stopped, suggesting that the in -the-moment stress responses are substantial enough to linger, 
+making recovery more difficult for both  groups.  
+The anticipatory group reported significantly more internalizing symptoms, such as 
+intrusive thoughts, rumination about prior misophonic sounds, and feelings of social isolation. 
+Historically, misophonia was thought to be characterized by externalizing behaviors, such as 
+rageful outbursts (Vitoratou et al., 2021; Jager et al., 2020). However, our findings, along with 
+more recent research (Guizick et al., 2023; Spencer et al., 2023), suggest that misophonia is more 
+closely associated with in ternalizing symptoms. This shift in understanding aligns with findings 
+from Kook et al. (2024) and Vitoratou et al. (2021), which link misophonia severity to 
+internalizing forms of distress.  
+While the externalizing dimension of misophonia was assessed thro ugh verbal or 
+physical aggressive reactions, both groups reported moderate levels of aggression, with no 
+significant differences between them. This suggests that externalizing symptoms, such as 
+aggression, may be a more universal symptom dimension in adult s, regardless of the severity of 
+the disorder. However, the DMI item assessing aggression also captures the distress individuals 
+feel about their reactions, revealing that this item might reflect internalizing (e.g., guilt or regret) 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 19 
+and externalizing (e.g ., aggressive behavior) dimensions of misophonia. This complexity makes 
+it challenging to distinctly identify externalizing symptoms using the DMI. Therefore, 
+researchers should explore variability on externalizing symptoms in adults with misophonia.  
+In comparing other clinical measures between the groups, the anticipatory subgroup 
+reported significantly higher levels of general stress, as expected, given their tendency to be 
+more overwhelmed by misophonic symptoms. Surprisingly, both groups reported simil ar levels 
+of anxiety and depression, which may seem unexpected given the association of mood and 
+anxiety symptoms with internalizing forms of psychopathology. However, while the overall 
+means for anxiety, depression, stress symptoms on the DASS -21 were in the normal to mild 
+range, prior research has documented similar patterns in misophonia samples  (e.g., Wu et al., 
+2014; Ghorbani et al., 2022) . This suggests that our sample  may not be entirely atypical in this 
+regard and reflects the variability commonly observed in psychological distress and comorbidity 
+rates among individuals with misophonia (Rosenthal et al., 2022; Jager et al., 2020). Still, the 
+generally mild levels of symptoms in the sample may have contributed to the absence of 
+significant group dif ferences for depression and anxiety, despite their established associations 
+with misophonia  severity  (Almadani et al., 2024) .  
+Overall, our  findings support the need for a more individualized approach to treatment in 
+misophonia. For the anticipatory group,  interventions that focus on internalizing symptoms, such 
+as addressing anticipatory anxiety and intrusive thoughts and rumination, may be particularly 
+beneficial. Cognitive skills that help address internalizing appraisals such as self -blame or 
+mindfulnes s-based strategies to manage hypervigilance could be effective in this group. For the 
+reactive group, treatments may need to focus more on managing in -the-moment emotional and 
+physiological reactions to misophonic sounds. This may include teaching emotion regulation 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 20 
+strategies or relaxation practices that can be used in moments of heighten distress when the 
+sounds themselves are occurring.  
+Leveraging symptom profiles to guide clinical decision -making may represent a 
+promising avenue for treatment developmen t in misophonia. For example, the Personalized 
+Advantage Index (PAI; DeRubeis et al., 2014) demonstrates the potential of predictive modeling 
+to allocate individuals to treatments likely to yield the greatest benefit. For misophonia, 
+predictive algorithms could be developed to assign individuals to targeted interventions based on 
+their symptom profiles. However, a challenge lies in the tendency to impose binary or categorical 
+classifications when assigning treatments, which may fail to capture the full comp lexity of 
+individual differences. Furthermore, strict algorithmic prediction models often reflect the 
+constraints of the samples they are based on (van Bronswijk, 2024) and invite ongoing debate 
+about the utility of actuarial methods compared to clinical j udgment, as proposed by Meehl 
+(1954) in his seminal work. As algorithm -based clinical decision -making evolves (see 
+Deisenhofer et al., 2024, for a discussion), future research may revisit the implications of the 
+subgroups identified in the current study wi thin a binary or catagorical treatment matching 
+framework.  
+For now, r esearchers are increasingly recognizing the value of therapy protocols that can 
+be flexibly adapted to meet the unique needs of individuals with misophonia (Rosenthal et al., 
+2023; Mattso n et al., 2023). Approaches like the Unified Protocol allow for the selection and 
+delivery of various cognitive and behavioral intervention modules based on the individual’s 
+presenting symptoms  (Barlow et al., 2011) . Similarly, process -based therapy tailors treatment 
+components to target the processes of change most relevant to the individual  (Hofmann et al., 
+2022).  These interventions are actively being tested in clinical trials to address misophonia 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 21 
+symptoms (see Rosenthal et al., 2023). Our finding s contribute to the growing body of literature 
+suggesting that a one -size-fits-all treatment model may be insufficient given the diverse ways in 
+which individuals with misophonia present to treatment.  To support this tailored approach, tools 
+that assess th e spectrum of misophonic symptoms each individual experiences are essential for 
+guiding case formulation. The DMI appears to be a valuable resource for understanding 
+symptom variability in misophonia, helping clinicians personalize interventions to address  the 
+specific needs of each patient.  
+ Our results should be considered in light of several limitations. Firstly, the DMI is a 
+clinician -rated interview, and interrater reliability was not assessed, which limits the ability to 
+ensure that DMI scoring is rep licable across different raters or settings. Current research using 
+the DMI has yet to report interrater reliability (see Guetta et al., 2022), highlighting the need for 
+future studies to establish this metric.  Additionally, while diagnostic criteria for m isophonia have 
+been proposed (Jager et al., 2020; Swedo et al., 2022) and validated screening measures exist 
+(Williams et al., 2022), these were not used as inclusion criteria in this study. However,  
+participants were recruited into the parent trial based on their perceived need for treatment due to 
+the intensity of their symptoms, suggesting a clinically relevant misophonia sample.  
+Another limitation is the sociodemographic homogeneity of our sample, reflecting Utah's 
+population, where 22.3% identify as non -White or Hispanic, which is significantly lower than 
+national averages (U.S. Department of Health and Human Services, 2024). Utah's unique cultural 
+and geographic factors further shape its demograph ics. Future research should prioritize 
+nationally representative samples to validate these subgroups both across the United States and 
+globally.  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 22 
+ Finally , a sample size of 60 poses limitations, as GMM and cluster -based approaches are 
+highly data -driven and  sensitive to the selected sample. Future studies should replicate this work 
+in larger and more diverse samples to determine whether these clusters remain consistent or if 
+alternative models, such as a three -group solution, better capture the variability i n misophonia 
+presentations. That being said, w hile our data supported a two -class solution, our findings also 
+suggest ed additional subgroups may exist. Future research should also explore whether these 
+clusters can be replicated using different person -centered methodologies, such as LCA or LPA, 
+which may provide a complementary perspective on subgroup variability.  
+ It should also be noted that the identified subgroups are not entirely homogeneous, as 
+GMM is a variable -centered modeling approach rather than a person -centered one, as seen in 
+other clustering techniques. Consequently, variability within each identified group is expected 
+and should be considered when designing interventions and conducting future research. This 
+within -group variation highlights t he importance of tailoring treatments to individual needs, even 
+within distinct subgroups.  
+Despite limitations, t he current study contributes to the growing understanding of 
+misophonia by identifying distinct subgroups within individuals based on symptom p rofiles, 
+using GMM. The two -class model differentiated participants into anticipatory and reactive 
+subgroups, revealing important differences in symptom severity, internalizing symptoms, and 
+functional impairments. These findings underscore the need for ta ilored treatment approaches 
+that address the unique symptom constellations within each group. Specifically, anticipatory 
+individuals may benefit from interventions targeting anticipatory anxiety and rumination, while 
+reactive individuals may require strate gies for managing immediate emotional and physiological 
+reactions to triggers. The results also suggest that misophonia may be best understood as a 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 23 
+dimensional disorder, with varying degrees of severity and symptom presentations across 
+individuals. Looking  ahead, researchers should aim to use larger samples to investigate symptom 
+interactions and explore the potential existence of other unique subgroups. These efforts will be 
+essential for refining our understanding of misophonia and enhancing personalized treatment 
+strategies for misophonia.  
+  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 24 
+Declaration of generative AI and AI -assisted technologies in the writing process:  
+During the preparation of this work the authors used ChatGPT 4.o in order to improve the 
+clearity and readibility of the introduction and discussion sections. After using this tool/service, 
+the authors reviewed and edited the content as needed and takes full responsibility for the content 
+of the published article.  
+  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 25 
+References  
+Almadani, A. H., Alabdulkarim, I. M., Akresh, M. I., Alassaf,  M. I., Alkathiri, M. A., Alkublan, 
+K. M., Aldoghmani, R. A., Alghtani, Y . A., & Alwaily, S. A. (2024). Prevalence of 
+misophonia and its association with depression and obsessive -compulsive disorder 
+among medical students. Medicine, 103( 43), e40217. 
+https: //doi.org/10.1097/MD.0000000000040217  
+Armstrong, G. M., Greenberg, R. L., Smárason, O., Frederick, R. M., Guzick, A. G., Schneider, 
+S. C., Spencer, S. D., Cervin, M., & Storch, E. A. (2023). Factors associated with 
+internalizing and externalizing symptoms in a clinical sample of youth with misophonia. 
+Journal of Obsessive -Compulsive and Related Disorders , 39, 100831. 
+https://doi.org/10.1016/j.jocrd.2023.100831  
+Baudry, J. P., Raftery, A. E ., Celeux, G., Lo, K., & Gottardo, R. (2010). Combining Mixture 
+Components for Clustering. Journal of Computational and Graphical Statistics , 19(2), 
+332–353. https://doi.org/10.1198/jcgs.201 0.08111  
+Barlow, D. H., Farchione, T. J., Fairholme, C. P., Ellard, K. K., Boisseau, C. L., Allen, L. B., & 
+Ehrenreich -May, J. (2011). Unified protocol for transdiagnostic treatment of emotional 
+disorders: Therapist guide . Oxford University Press.  
+Bondjers, K., Willebrand, M., & Arnberg, F. K. (2018). Similarity in symptom patterns of 
+posttraumatic stress among disaster -survivors: A three -step latent profile analysis. 
+European Journal of Psychotraumatology , 9(1), 1546083. 
+https://doi.org/10.1080/20008198.2018.1546083  
+Brout, J. J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L. J., Rouw, R., Kumar, S., & 
+Rosenthal, M. Z. (2018). Investigating Misophonia: A Review of the Empi rical 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 26 
+Literature, Clinical Implications, and a Research Agenda. Frontiers in Neuroscience , 12, 
+36. https://doi.org/10.3389/fnins.2018.00036  
+Claiborn, J. M., Dozier, T. H., Hart, S. L., & Le e, J. (2020). Self -identified misophonia 
+phenomenology, impact, and clinical correlates. Psychological Thought , 13(2), 349–375. 
+https://doi.org/10.37708/psyct.v13i2.454  
+Deisenhofer, A. -K., Barkham, M., Beierl, E. T., Schwartz, B., Aafjes -van Doorn, K., Beevers, C. 
+G., Berwian, I. M., Blackwell, S. E., Bockting, C. L., Brakemeier, E. -L., Brown, G., 
+Buckman, J. E. J., Castonguay, L. G., Cusack, C. E., Dalgleish, T., de Jong, K., 
+Delgadillo, J. , DeRubeis, R. J., Driessen, E., . . . Cohen, Z. D. (2024). Implementing 
+precision methods in personalizing psychological therapies: Barriers and possible ways 
+forward. Behaviour Research and Therapy , 172, 1–16. 
+https://doi.org/10.1016/j.brat.2023.104443  
+DeRubeis, R. J., Cohen, Z. D., Forand, N. R., Fournier, J. C., Gelfand, L. A., & Lorenzo -Luaces, 
+L. (2014). The Personalized Advantage Index: translating research on prediction into 
+individualized treatment recommendations. A demonstration. PloS one, 9 (1), e83875. 
+https://doi.org/10.1371/journal.pone.0083875  
+Dibb, B., Golding, S. E., & Dozier, T. H. (2021). The development and validation of the 
+Misophonia response scale. Journal of Psychosomatic Research , 149, 110587. 
+https://doi.org/10.1016/j.jpsychores.2021.110587  
+Ferrer -Torres, A., & Giménez -Llort, L. (2022). Misophonia: A Systematic Review of Current and 
+Future Trends i n This Emerging Clinical Field. International Journal of Environmental 
+Research and Public Health , 19(11), 6790. https://doi.org/10.3390/ijerph19116790  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 27 
+Ghorbani, S., Ashouri, A., Gharraee, B. , & Farahani, H. (2022). Effectiveness of online group -
+mindfulness and acceptance ‐based therapy and cognitive -behavioral therapy on 
+Misophonia. Iranian Journal of Psychiatry and Behavioral Sciences , 16(2). 
+https://doi.org/10.5812/ijpbs -120159  
+Guetta, R. E. , Cassiello -Robbins, C., Anand, D., & Rosenthal, M. Z. (2022). Development and 
+psychometric exploration of a semi -structured clinical interview for Misophonia. 
+Personality and Individual Differences , 187, 111416. 
+https://doi.org/10.1016/j.paid.2021.111416  
+Guzick, A. G., Cervin, M., Smith, E. E. A., Clinger, J., Draper, I., Goodman, W. K., Lijffijt, M., 
+Murphy, N., Lewin, A. B., Schneider, S. C., & Storch, E. A. (2023). Clinical 
+characteris tics, impairment, and psychiatric morbidity in 102 youth with misophonia. 
+Journal of Affective Disorders , 324, 395–402. https://doi.org/10.1016/J.JAD.2022.12.083  
+Health Resources and Servi ces Administration, Maternal and Child Health Bureau. (2024). 
+Diversity in Utah: Race, ethnicity, and sex . U.S. Department of Health and Human 
+Services.  
+Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2022). Learning process -based therapy: A 
+Skills Train ing Manual for targeting the core processes of psychological change in 
+clinical practice . New Harbinger Publications.  
+Jager, I., de Koning, P., Bost, T., Denys, D., & Vulink, N. (2020). Misophonia: Phenomenology, 
+comorbidity and demographics in a large sa mple. PLOS ONE , 15(4), e0231390. 
+https://doi.org/10.1371/journal.pone.0231390  
+Kook, M., Rast, C. E., Cervin, M., Clinger, J., Smith, E., Draper, I., ... & Guzick, A. G. (2024). 
+Quality of life among youth with misophonia: The role of internalizing symptoms and 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 28 
+pessimism. Journal of Psychopathology and Behavioral Assessment , 1-11. 
+https://doi.org/10.1007/s10862 -024-10163 -y 
+Li, L., Wang, P., Zhao, Q., Liu, Z., Li, S., & Wang, X. (2024). Latent profile analysis of 
+depressive symptoms in college students and its relationship with physical activity. 
+Journal of Affective Disorders , 351, 364–371. https://doi.org/10.1016/j.jad.2024.01.214  
+Lovibond, P. F., & Lovibond, S. H. (1995). The structure of negative emotional states: 
+Comparison of the Depression Anxiety Stress Scales (DASS) wit h the Beck Depression 
+and Anxiety Inventories. Behaviour Research and Therapy , 33(3), 335–343. 
+https://doi.org/10.1016/0005 -7967(94)00075 -U 
+Mattson, S. A., D'Souza, J., Wojcik, K. D., G uzick, A. G., Goodman, W. K., & Storch, E. A. 
+(2023). A systematic review of treatments for misophonia. Personalized Medicine in 
+Psychiatry , 39-40, 100104. https://doi.org/10.1016/j.pmip. 2023.100104  
+McKay, D., Kim, S. K., Mancusi, L., Storch, E. A., & Spankovich, C. (2018). Profile Analysis of 
+Psychological Symptoms Associated With Misophonia: A Community Sample. Behavior 
+Therapy, 49 (2), 286–294. https://doi.org/10.1016/j.beth.2017.07.002  
+Mednicoff, S. D., Barashy, S., V ollweiler, D. J., Benning, S. D., Snyder, J. S., & Hannon, E. E. 
+(2024). Misophonia reactions in the general population are correlated with strong 
+emotional reaction s to other everyday sensory –emotional experiences. Philosophical 
+Transactions of the Royal Society B , 379(1908), 20230253. 
+https://doi.org/10.1098/rstb.2023.0253  
+Meehl, P. E. (1954).  Clinical  versus statistical prediction: A theoretical analysis and a review of 
+the evidence.  University of Minnesota Press.  https://doi.org/10.1037/11281 -000 
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 29 
+Möllmann, A., Heinrichs, N., Illies, L., Potthast, N., & Kley, H. (2023). The central role of 
+symptom severity and associated characteristics for functional impairment in misophonia. 
+Frontiers in Psychiatry , 14, 1112472. https://doi.org/10.3389/fpsyt.2023.1112472  
+R Core Team (2024). R: A language and environment for statistical computing . R Foundation for 
+Statistical Computing, Vienna, Austria. https://www.R -project.org/  
+Rosellini, A. J., Coffey, S. F., Tracy, M., & Galea, S. (2014). A person -centered analysis of 
+posttraumatic stress disorder symptoms following a natural disaster: predictors of latent 
+class membership. Journal of Anxiety Disorders , 28(1), 16–24. 
+https://doi.org/10.1016/j.janxdis.2013.11.002  
+Rosenthal, M. Z., Anand, D., Cassiello -Robbins, C., Williams, Z. J., Guetta, R. E., Trumbull, J., 
+& Kelley, L. D.  (2021). Development and initial validation of the Duke Misophonia 
+Questionnaire. Frontiers in Psychology , 12, 709928. 
+https://doi.org/10.3389/fpsyg.2021.709928  
+Rosenthal, M. Z., McMahon, K., Greenleaf, A. S., Cassiello -Robbins, C., Guetta, R., Trumbull, 
+J., Anand, D., Frazer -Abel, E. S., & Kelley, L. (2022). Phenotyping misophonia: 
+Psychiatric disorders and medical health correlates. Frontiers in Psychology , 13. 
+https://doi.org/10.3389/fpsyg.2022.941898  
+Rosenthal, M. Z., Shan, Y ., & Trumbull, J. (2023). Treatment of misophonia. Advances in 
+Psychiatry and Behavioral Health , 3(1), 33 -41. 
+https://doi.org/10.1016/j.ypsc.2023.03 .009 
+Rouw, R., & Erfanian, M. (2018). A large -scale study of misophonia. Journal of Clinical 
+Psychology , 74(3), 453–479. https://doi.org/10.1002/jclp.22500  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 30 
+Scrucca, L., & Raftery, A. E. (2018). clustvarsel: A package implementing variable selection for 
+Gaussian model -based clustering in R. Journal of Statistical Software , 84(1), 1. 
+https://doi.or g/10.18637/jss.v084.i01  
+Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: Diagnostic criteria for a new 
+psychiatric disorder. PLOS ONE , 8(1), e54706. https://doi.org/10.1371/journal.pon e. 
+Siepsiak, M., Śliwerski, A., & Łukasz Dragan, W. (2020). Development and Psychometric 
+Properties of MisoQuest -A New Self -Report Questionnaire for Misophonia. International 
+journal of environmental research and public health,  17(5), 1797. 
+https://doi.org/10.3390/ijerph17051797  
+Siepsiak, M., Vrana, S. R., Rynkiewicz, A., Rosenthal, M. Z., & Dragan, W. Ł. (2023). Does 
+context matter in misophonia? A multi -method experimental investigation. Frontiers in 
+neuroscience, 16 , 880853.  https://doi.org/10.3389/fnins.2022.880853   
+Spencer, S. D., Guzick, A. G., Cervin, M., & Storch, E. A. (2023). Mindfulness and cognitive 
+emotion regulation in pediatric misophonia.  Journal of Contex tual Behavioral 
+Science , 29, 182–191. https://doi.org/10.1016/j.jcbs.2023.07.005  
+Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., 
+Kumar, S., Rosenthal, M. Z., Rouw, R., Schiller, D., Simner, J., Storch, E. A., Taylor, S., 
+Werff, K. R. V ., Altimus, C. M., & Raver, S. M. (2022). Consensus Definition of 
+Misophonia: A Delphi Study. Frontiers in Neuroscience, 16 , 841816. 
+https://doi.org/10.3389/fnins.20 22.841816   
+Tunç, S., & Başbuğ, H. S. (2017). An extreme physical reaction in misophonia: stop smacking 
+your mouth!. Psychiatry and Clinical Psychopharmacology, 27 (4), 416 -418. 
+https://doi.org/10 .1080/24750573.2017.1354656  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 31 
+Van Bronswijk, S. C., Howard, J., & Lorenzo -Luaces, L. (2024). Data -driven personalized 
+medicine approaches to cognitive -behavioral therapy allocation in a large sample: A 
+reanalysis of the ENRICHED study. Journal of Affective D isorders, 356,  115–121. 
+https://doi.org/10.1016/j.jad.2024.04.015  
+Vitoratou, S., Hayes, C., Uglik -Marucha, N., Pearson, O., Graham, T., & Gregory, J. (2023). 
+Misophonia in the UK: Prevalen ce and norms from the S -Five in a UK representative 
+sample. PLoS One , 18(3), e0282777.  
+Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014). Misophonia: incidence, 
+phenomenology, and clinical correlates in an undergraduate student sample. Journal of 
+clinical psychology, 70(10), 994 -1007.  
+Zimmerman, M., Morgan, T. A., & Stanton, K.  (2018). The severity of psychiatric disorders. 
+World Psychiatry: Official Journal of the  World Psychiatric Association  (WPA), 17(3), 
+258–275. https://doi.org/10.1002/wps.20569  
+Williams, Z. J., Cascio, C. J ., & Woynaroski, T. G. (2022). Psychometric validation of a brief 
+self-report measure of misophonia symptoms and functional impairment: The duke -
+vanderbilt misophonia screening questionnaire.  Frontiers in Psychology , 13, 897901.  
+Woolley, M. G., Capel, L. K ., Bowers, E. M., Petersen, J. M., Muñoz, K., & Twohig, M. P. 
+(2024). Clinical Characteristics of a Treatment Seeking Sample of Adults with 
+Misophonia: Onset, Course, Triggers, Context, and Comorbidity.  Journal of Obsessive -
+Compulsive and Related Disorders , 100915. https://doi.org/10.1016/j.jocrd.2024.100915  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 32 
+ 
+ 
+ 
+  Figure 1  
+ 
+Bayesian Information Criterion (BIC) for Different Cluster 
+Solutions  
+ 
+Note.  BIC = Bayesian Information Criterion ; EII = equal 
+volume, round shape (spherical covariance);  
+VII = varying volume, round shape (spherical covariance);  
+EEI = equal volume, equal shape, axis parallel orientation 
+(diagonal covariance); VEI = varying volume, equal shape, 
+axis parallel orientation (diagonal covariance); EVI: equal 
+volume, varying shape, axis parallel orientation (diagonal 
+covariance); VVI = varying volume, varying shape, equal 
+orientation (diagonal c ovariance); EEE = equal volume, equal 
+shape, equal orientation (ellipsoidal  
+covariance); VEE  = varying volume, equal shape, equal 
+orientation (ellipsoidal covariance); EVE = e qual volume, 
+varying shape, equal orientation (ellipsoidal covariance); VVE 
+= varying volume, varying shape, equal orientation (ellipsoidal 
+covariance); EEV = equal volume, equal shape, varying 
+orientation (ellipsoidal covariance); VEV = varying volume, 
+equal shape, varying orientation, (ellipsoidal covariance);  
+EVV = equal volume, var ying shape, varying orientation 
+(ellipsoidal covariance) VVV = varying volume, varying 
+shape, varying orientation (ellipsoidal covariance).  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 33 
+Figure 2  
+Plot of Two-Class Model  Misophonia Duke Misophonia Interview Symptom  Cluster s 
+ 
+ 
+ 
+  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 34 
+Table 1  
+Participant Sociodemographic Information (N = 60)  
+ n (% ) 
+Gender Identity   
+Woman  42 (70)  
+Man 14 (23.3)  
+Non-Binary  
+Agender  3 (5)  
+1(1.7)  
+Sexual Orientation   
+Asexual  3 (5)  
+Bisexual  4 (6.7)  
+Heterosexual or straight  46 (76.7)  
+Pansexual  
+Queer  5 (8.3)  
+2 (3.3)  
+Ethnicity   
+    Hispanic or Latino  2 (3.3)  
+Race and Ethnicity1  
+Asian or Asian 
+American  2 (3.3)  
+Black or African 
+American  1 (1.7)  
+Native South American  1 (1.7)  
+White or White 
+American  59 (98.3)  
+Religion   
+Church of Jesus Christ 
+of Latter -Day Saints  27 (45)  
+Jewish  1 (1.7)  
+Not Religious  27 (45)  
+Other  5 (8.3)  
+Marital Status   
+Divorced  3 (5)  
+Living with a partner  5 (8.3)  
+Married  34 (56.7)  
+Single  18 (30)  
+Employment Status   
+Employed full -time 26 (43)  
+Employed part -time 17 (28.3)  
+Retired  2 (3.3)  
+Student  10 (16.7)  
+Unemployed  2 (3.3)  
+Other  2 (3.3)  
+Age (years)  M (SD) 
+33.80 (12.18)  
+Range = 18 -67 
+1Categories not mutually exclusive.  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 35 
+ Table 2 
+ 
+Comparison of Two-Class Model  Clusters on Duke Misophonia Interview Symptoms  
+ 
+Duke Misophonia Interview Items  Reactive 
+Group  
+M (SD)  Anticipatory  
+Group  
+M (SD)   
+U  
+p  
+Cohen ’s d 
+Negative thoughts during misophonic triggers.  1.45 
+(1.03)  2.28 
+(1.00)  242 <.001 ** 1.04 
+Intrusive thoughts or rumination about prior misophonic sounds  0.55 
+(0.89)  1.66 
+(0.97)  194 <.001 ** 1.38 
+Negative emotions before trigger sounds.  1.13 
+(0.85)  2.52 
+(0.51)  91 <.001 ** 2.64 
+Negative emotions during misophonic sounds.  2.65 
+(0.55)  3.14 
+(0.35)  252 <.001 ** 0.98 
+Negative emotions after misophonic sounds.  1.84 
+(0.97)  2.10 
+(0.94)  375 0.242  0.34 
+Feeling misunderstood or detached from others due to 
+misophonia.  1.39 
+(1.02)  2.59 
+(0.73)  156.5  <.001 ** 1.72 
+Physiological reactions to misophonic triggers.  1.90 
+(0.75)  2.48 
+(0.87)  269 .004** 0.88 
+Hypervigilance for misophonic triggers.  0.61 
+(0.80)  2.10 
+(1.18)  153 <.001 ** 1.76 
+Verbal or physical aggression in response to sounds.  2.00 
+(1.13)  2.24 
+(0.99)  408.5  .520 0.18 
+Deliberate efforts to avoid situations, people, places . 2.35 
+(0.61)  2.90 
+(0.49)  248 <.001 ** 1.00 
+Need or desire to escape from triggering situations . 2.71 
+(0.64)  3.07 
+(0.53)  323 .025* 0.59 
+Note.  ** p < .01, * p < .05.  
+Journal Pre-proof
+
+SYMPTOM -BASED SUBGROUPS IN MISOPHONIA  
+ 36 
+ 
+ Table 3 
+ 
+Comparison of Two-Class Model  Clusters on Relevant Clinical Measures  
+ 
+Clinical Variables  Full Sample  
+ 
+M (SD)  Reactive 
+Group  
+M (SD) Anticipatory  
+Group  
+M (SD)  
+U  
+p  
+Cohen ’s d 
+Misophonia 
+Questionnaire 
+(MQ) Subscales        
+ Symptoms  16.90  (5.12) 16.52 (5.14)  17.3 (15.16)  412.5  .588 0.17 
+ Emotional and 
+Behavioral 
+Responsivity  21.90 (4.94) 19.84 (4.73)  22.55 (4.84)  304.5  .032* 0.68 
+ Severity  6.83 (1.68)  6.32 (1.78)  7.38 (1.40)  283.5  .012* 0.79 
+        
+Duke Misophonia 
+Interview  
+(DMI) Global 
+Impairment  8.90 (1.92)  8.16 (1.88)  9.69 (1.65)  228.5  <.001** 1.13 
+       
+Depression Anxiety 
+Stress Scale -21 
+(DASS21)        
+ Depression  10.03 (10.87)  8.13 (8.87)  12.07  (12.52)  367.5  .224 0.37 
+ Anxiety  6.33 (7.38)  5.10 (5.13)  7.66 (9.10)  392 .393 0.26 
+ Stress  14.30  (8.52)  12.00 (7.85)  16.76 (12.52)  313 .043* 0.64 
+ Note.  ** p < .01, * p < .05.  
+ 
+ 
+Journal Pre-proof
+
+Authors have no conflicts of interest to declare.  
+Journal Pre-proof

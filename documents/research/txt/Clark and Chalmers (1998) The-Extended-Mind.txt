@@ -1,0 +1,352 @@
+A 
+nalysis 
+ 58.1, January 1998, pp. 7–19. © Andy Clark and David Chalmers 
+The extended mind  
+Andy Clark  
+& 
+ David Chalmers 
+1 
+1.  Introduction 
+Where does the mind stop and the rest of the world begin? The question
+invites two standard replies. Some accept the boundaries of skin and skull,and say that what is outside the body is outside the mind. Others areimpressed by arguments suggesting that the meaning of our words ‘justain’t in the head’, and hold that this externalism about meaning carriesover into an externalism about mind. We propose to pursue a third posi-tion. We advocate a very different sort of externalism: an  
+active
+externalism 
+, based on the active role of the environment in driving cogni-
+tive processes. 
+2.  Extended cognition 
+Consider three cases of human problem-solving:
+(1) A person sits in front of a computer screen which displays images of
+various two-dimensional geometric shapes and is asked to answer questionsconcerning the potential ﬁt of such shapes into depicted ‘sockets’. To assessﬁt, the person must mentally rotate the shapes to align them with the sockets.
+(2) A person sits in front of a similar computer screen, but this time can
+choose either to physically rotate the image on the screen, by pressing arotate button, or to mentally rotate the image as before. We can alsosuppose, not unrealistically, that some speed advantage accrues to thephysical rotation operation.
+(3) Sometime in the cyberpunk future, a person sits in front of a similar
+computer screen. This agent, however, has the beneﬁt of a neural implantwhich can perform the rotation operation as fast as the computer in theprevious example. The agent must still choose which internal resource to use(the implant or the good old-fashioned mental rotation), as each resourcemakes different demands on attention and other concurrent brain activity.
+How much  
+cognition 
+ is present in these cases? We suggest that all three
+cases are similar. Case (3) with the neural implant seems clearly to be on apar with case (1). And case (2) with the rotation button displays the samesort of computational structure as case (3), distributed across agent andcomputer instead of internalized within the agent. If the rotation in case (3)is cognitive, by what right do we count case (2) as fundamentally different?We cannot simply point to the skin/skull boundary as justiﬁcation, since 
+1 
+Authors are listed in order of degree of belief in the central thesis 
+1
+Copyright © 2000. All rights reserved.
+
+8 andy clark & david chalmers 
+the legitimacy of that boundary is precisely what is at issue. But nothing
+else seems different.
+The kind of case just described is by no means as exotic as it may at ﬁrst
+appear. It is not just the presence of advanced external computingresources which raises the issue, but rather the general tendency of humanreasoners to lean heavily on environmental supports. Thus consider the useof pen and paper to perform long multiplication (McClelland et al. 1986,Clark 1989), the use of physical re-arrangements of letter tiles to promptword recall in Scrabble (Kirsh 1995), the use of instruments such as thenautical slide rule (Hutchins 1995), and the general paraphernalia oflanguage, books, diagrams, and culture. In all these cases the individualbrain performs some operations, while others are delegated to manipula-tions of external media. Had our brains been different, this distribution oftasks would doubtless have varied.
+In fact, even the mental rotation cases described in scenarios (1) and (2)
+are real. The cases reﬂect options available to players of the computergame Tetris. In Tetris, falling geometric shapes must be rapidly directedinto an appropriate slot in an emerging structure. A rotation button can beused. David Kirsh and Paul Maglio (1994) calculate that the physical rota-tion of a shape through 90 degrees takes about 100 milliseconds, plusabout 200 milliseconds to select the button. To achieve the same result bymental rotation takes about 1000 milliseconds. Kirsh and Maglio go on topresent compelling evidence that physical rotation is used not just to posi-tion a shape ready to ﬁt a slot, but often to help  
+determine 
+ whether the
+shape and the slot are compatible. The latter use constitutes a case of whatKirsh and Maglio call an ‘epistemic action’.  
+Epistemic 
+ actions alter the
+world so as to aid and augment cognitive processes such as recognition andsearch. Merely  
+pragmatic 
+ actions, by contrast, alter the world because
+some physical change is desirable for its own sake (e.g., putting cementinto a hole in a dam).
+Epistemic action, we suggest, demands spread of  
+epistemic credit 
+. If, as
+we confront some task, a part of the world functions as a process which, 
+were it done in the head 
+, we would have no hesitation in recognizing as
+part of the cognitive process, then that part of the world  
+is 
+ (so we claim)
+part of the cognitive process. Cognitive processes ain’t (all) in the head! 
+3.  Active externalism 
+In these cases, the human organism is linked with an external entity in a
+two-way interaction, creating a  
+coupled system 
+ that can be seen as a cogni-
+tive system in its own right. All the components in the system play an activecausal role, and they jointly govern behaviour in the same sort of way thatcognition usually does. If we remove the external component the system’s
+Copyright © 2000. All rights reserved.
+
+the extended mind 9 
+behavioural competence will drop, just as it would if we removed part of
+its brain. Our thesis is that this sort of coupled process counts equally wellas a cognitive process, whether or not it is wholly in the head.
+This externalism differs from the standard variety advocated by Putnam
+(1975) and Burge (1979). When I believe that water is wet and my twinbelieves that twin water is wet, the external features responsible for thedifference in our beliefs are distal and historical, at the other end of alengthy causal chain. Features of the  
+present 
+ are not relevant: if I happen
+to be surrounded by XYZ right now (maybe I have teleported to TwinEarth), my beliefs still concern standard water, because of my history. Inthese cases, the relevant external features are  
+passive 
+. Because of their
+distal nature, they play no role in driving the cognitive process in the here-and-now. This is reﬂected by the fact that the actions performed by me andmy twin are physically indistinguishable, despite our external differences.
+In the cases we describe, by contrast, the relevant external features are 
+active 
+, playing a crucial role in the here-and-now. Because they are coupled
+with the human organism, they have a direct impact on the organism andon its behaviour. In these cases, the relevant parts of the world are  
+in the
+loop 
+, not dangling at the other end of a long causal chain. Concentrating
+on this sort of coupling leads us to an  
+active externalism 
+, as opposed to the
+passive externalism of Putnam and Burge.
+Many have complained that even if Putnam and Burge are right about
+the externality of content, it is not clear that these external aspects play acausal or explanatory role in the generation of action. In counterfactualcases where internal structure is held constant but these external featuresare changed, behaviour looks just the same; so internal structure seems tobe doing the crucial work. We will not adjudicate that issue here, but wenote that active externalism is not threatened by any such problem. Theexternal features in a coupled system play an ineliminable role – if weretain internal structure but change the external features, behaviour maychange completely. The external features here are just as causally relevantas typical internal features of the brain. 
+2 
+By embracing an active externalism, we allow a more natural explana-
+tion of all sorts of actions. Once can explain my choice of words inScrabble, for example, as the outcome of an extended cognitive process 
+2 
+Much of the appeal of externalism in the philosophy of mind may stem from the
+intuitive appeal of active externalism. Externalists often make analogies involvingexternal features in coupled systems, and appeal to the arbitrariness of boundariesbetween brain and environment. But these intuitions sit uneasily with the letter ofstandard externalism. In most of the Putnam/Burge cases, the immediate environ-ment is irrelevant; only the historical environment counts. Debate has focused on thequestion of whether mind must be in the head, but a more relevant question in assess-ing these examples might be: is mind in the present? 
+Copyright © 2000. All rights reserved.
+
+10 andy clark & david chalmers 
+involving the rearrangement of tiles on my tray. Of course, one could always
+try to explain my action in terms of internal processes and a long series of‘inputs’ and ‘actions’, but this explanation would be needlessly complex. Ifan isomorphic process were going on in the head, we would feel no urge tocharacterize it in this cumbersome way. In a very real sense, the re-arrange-ment of tiles on the tray is not part of action; it is part of  
+thought 
+.
+The view we advocate here is reﬂected by a growing body of research in
+cognitive science. In areas as diverse as the theory of situated cognition(Suchman 1987), studies of real-world-robotics (Beer 1989), dynamicalapproaches to child development (Thelen and Smith 1994), and researchon the cognitive properties of collectives of agents (Hutchins 1995), cogni-tion is often taken to be continuous with processes in the environment. 
+3 
+Thus, in seeing cognition as extended one is not merely making a termino-
+logical decision; it makes a signiﬁcant difference to the methodology ofscientiﬁc investigation. In effect, explanatory methods that might oncehave been thought appropriate only for the analysis of ‘inner’ processes arenow being adapted for the study of the outer, and there is promise that ourunderstanding of cognition will become richer for it.
+Some ﬁnd this sort of externalism unpalatable. One reason may be that
+many identify the cognitive with the conscious, and it seems far from plau-sible that consciousness extends outside the head in these cases. But notevery cognitive process, at least on standard usage, is a conscious process.It is widely accepted that all sorts of processes beyond the borders ofconsciousness play a crucial role in cognitive processing: in the retrieval ofmemories, linguistic processes, and skill acquisition, for example. So themere fact that external processes are external where consciousness is inter-nal is no reason to deny that those processes are cognitive.
+More interestingly, one might argue that what keeps real cognition proc-
+esses in the head is the requirement that cognitive processes be  
+portable 
+.
+Here, we are moved by a vision of what might be called the Naked Mind:a package of resources and operations we can always bring to bear on acognitive task, regardless of the local environment. On this view, the troublewith coupled systems is that they are too easily  
+decoupled 
+. The true cogni-
+tive processes are those that lie at the constant core of the system; anythingelse is an add-on extra.
+There is something to this objection. The brain (or brain and body)
+comprises a package of basic, portable, cognitive resources that is of inter-est in its own right. These resources may incorporate bodily actions intocognitive processes, as when we use our ﬁngers as working memory in atricky calculation, but they will not encompass the more contingent aspects 
+3 
+Philosophical views of a similar spirit can be found in Haugeland 1995, McClamrock
+1995, Varela et al. 1991, and Wilson 1994. 
+Copyright © 2000. All rights reserved.
+
+the extended mind 11 
+of our external environment, such as a pocket calculator. Still, mere contin-
+gency of coupling does not rule out cognitive status. In the distant futurewe may be able to plug various modules into our brain to help us out: amodule for extra short-term memory when we need it, for example. Whena module is plugged in, the processes involving it are just as cognitive as ifthey had been there all along.
+Even if one were to make the portability criterion pivotal, active exter-
+nalism would not be undermined. Counting on our ﬁngers has alreadybeen let in the door, for example, and it is easy to push things further.Think of the old image of the engineer with a slide rule hanging from hisbelt wherever he goes. What if people always carried a pocket calculator,or had them implanted? The real moral of the portability intuition is thatfor coupled systems to be relevant to the core of cognition,  
+reliable 
+coupling is required. It happens that most reliable coupling takes place
+within the brain, but there can easily be reliable coupling with the environ-ment as well. If the resources of my calculator or my Filofax are alwaysthere when I need them, then they are coupled with me as reliably as weneed. In effect, they are part of the basic package of cognitive resourcesthat I bring to bear on the everyday world. These systems cannot beimpugned simply on the basis of the danger of discrete damage, loss, ormalfunction, or because of any occasional decoupling: the biological brainis in similar danger, and occasionally loses capacities temporarily inepisodes of sleep, intoxication, and emotion. If the relevant capacities aregenerally there when they are required, this is coupling enough.
+Moreover, it may be that the biological brain has in fact evolved and
+matured in ways which factor in the reliable presence of a manipulableexternal environment. It certainly seems that evolution has favoured on-board capacities which are especially geared to parasitizing the local envi-ronment so as to reduce memory load, and even to transform the nature ofthe computational problems themselves. Our visual systems have evolvedto rely on their environment in various ways: they exploit contingent factsabout the structure of natural scenes (e.g. Ullman and Richards 1984), forexample, and they take advantage of the computational short cuts affordedby bodily motion and locomotion (e.g. Blake and Yuille, 1992). Perhapsthere are other cases where evolution has found it advantageous to exploitthe possibility of the environment being in the cognitive loop. If so, thenexternal coupling is part of the truly basic package of cognitive resourcesthat we bring to bear on the world.
+Another example may be language, which appears to be a central means
+by which cognitive processes are extended into the world. Think of a groupof people brainstorming around a table, or a philosopher who thinks bestby writing, developing her ideas as she goes. It may be that language
+Copyright © 2000. All rights reserved.
+
+12 andy clark & david chalmers 
+evolved, in part, to enable such extensions of our cognitive resources
+within actively coupled systems.
+Within the lifetime of an organism, too, individual learning may have
+moulded the brain in ways that rely on cognitive extensions thatsurrounded us as we learned. Language is again a central example here, asare the various physical and computational artifacts that are routinely usedas cognitive extensions by children in schools and by trainees in numerousprofessions. In such cases the brain develops in a way that complementsthe external structures, and learns to play its role within a uniﬁed, denselycoupled system. Once we recognize that the crucial role of the environmentin constraining the evolution and development of cognition, we see thatextended cognition is a core cognitive process, not an add-on extra. 
+4.  From cognition to mind 
+So far we have spoken largely about ‘cognitive processing’, and argued for
+its extension into the environment. Some might think that the conclusionhas been bought too cheaply. Perhaps some  
+processing 
+ takes place in the
+environment, but what of  
+mind 
+? Everything we have said so far is compat-
+ible with the view that truly mental states – experiences, beliefs, desires,emotions, and so on – are all determined by states of the brain. Perhapswhat is truly mental is internal, after all?
+We propose to take things a step further. While some mental states, such
+as experiences, may be determined internally, there are other cases in whichexternal factors make a signiﬁcant contribution. In particular, we willargue that  
+beliefs 
+ can be constituted partly by features of the environment,
+when those features play the right sort of role in driving cognitive proc-esses. If so, the mind extends into the world.
+First, consider a normal case of belief embedded in memory. Inga hears
+from a friend that there is an exhibition at the Museum of Modern Art, anddecides to go see it. She thinks for a moment and recalls that the museumis on 53rd Street, so she walks to 53rd Street and goes into the museum. Itseems clear that Inga believes that the museum is on 53rd Street, and thatshe believed this even before she consulted her memory. It was not previ-ously an  
+occurrent 
+ belief, but then neither are most of our beliefs. The
+belief was somewhere in memory, waiting to be accessed.
+Now consider Otto. Otto suffers from Alzheimer’s disease, and like
+many Alzheimer’s patients, he relies on information in the environment tohelp structure his life. Otto carries a notebook around with him every-where he goes. When he learns new information, he writes it down. Whenhe needs some old information, he looks it up. For Otto, his notebookplays the role usually played by a biological memory. Today, Otto hearsabout the exhibition at the Museum of Modern Art, and decides to go see
+Copyright © 2000. All rights reserved.
+
+the extended mind 13 
+it. He consults the notebook, which says that the museum is on 53rd Street,
+so he walks to 53rd Street and goes into the museum.
+Clearly, Otto walked to 53rd Street because he wanted to go to the
+museum and he believed the museum was on 53rd Street. And just as Ingahad her belief even before she consulted her memory, it seems reasonableto say that Otto believed the museum was on 53rd Street even beforeconsulting his notebook. For in relevant respects the cases are entirely anal-ogous: the notebook plays for Otto the same role that memory plays forInga. The information in the notebook functions just like the informationconstituting an ordinary non-occurrent belief; it just happens that thisinformation lies beyond the skin.
+The alternative is to say that Otto has no belief about the matter until he
+consults his notebook; at best, he believes that the museum is located at theaddress in the notebook. But if we follow Otto around for a while, we willsee how unnatural this way of speaking is. Otto is constantly using hisnotebook as a matter of course. It is central to his actions in all sorts ofcontexts, in the way that an ordinary memory is central in an ordinary life.The same information might come up again and again, perhaps beingslightly modiﬁed on occasion, before retreating into the recesses of his arti-ﬁcial memory. To say that the beliefs disappear when the notebook is ﬁledaway seems to miss the big picture in just the same way as saying thatInga’s beliefs disappear as soon as she is longer conscious of them. In bothcases the information is reliably there when needed, available to conscious-ness and available to guide action, in just the way that we expect a beliefto be.
+Certainly, insofar as beliefs and desires are characterized by their explan-
+atory roles, Otto’s and Inga’s cases seem to be on a par: the essential causaldynamics of the two cases mirror each other precisely. We are happy toexplain Inga’s action in terms of her occurrent desire to go to the museumand her standing belief that the museum is on 53rd street, and we shouldbe happy to explain Otto’s action in the same way. The alternative is toexplain Otto’s action in terms of his occurrent desire to go to the museum,his standing belief that the Museum is on the location written in the note-book, and the accessible fact that the notebook says the Museum is on53rd Street; but this complicates the explanation unnecessarily. If we mustresort to explaining Otto’s action this way, then we must also do so for thecountless other actions in which his notebook is involved; in each of theexplanations, there will be an extra term involving the notebook. Wesubmit that to explain things this way is to take  
+one step too many 
+. It is
+pointlessly complex, in the same way that it would be pointlessly complexto explain Inga’s actions in terms of beliefs about her memory. The note-book is a constant for Otto, in the same way that memory is a constant for
+Copyright © 2000. All rights reserved.
+
+14 andy clark & david chalmers 
+Inga; to point to it in every belief/desire explanation would be redundant.
+In an explanation, simplicity is power.
+If this is right, we can even construct the case of Twin Otto, who is just
+like Otto except that a while ago he mistakenly wrote in his notebook thatthe Museum of Modern Art was on 51st Street. Today, Twin Otto is aphysical duplicate of Otto from the skin in, but his notebook differs.Consequently, Twin Otto is best characterized as believing that themuseum is on 51st Street, where Otto believes it is on 53rd. In these cases,a belief is simply not in the head.
+This mirrors the conclusion of Putnam and Burge, but again there are
+important differences. In the Putnam/Burge cases, the external featuresconstituting differences in belief are distal and historical, so that twins inthese cases produce physically indistinguishable behaviour. In the cases weare describing, the relevant external features play an active role in the here-and-now, and have a direct impact on behaviour. Where Otto walks to53rd Street, Twin Otto walks to 51st. There is no question of explanatoryirrelevance for this sort of external belief content; it is introduced preciselybecause of the central explanatory role that it plays. Like the Putnam andBurge cases, these cases involve differences in reference and truth-condi-tions, but they also involve differences in the dynamics of  
+cognition 
+. 
+4 
+The moral is that when it comes to belief, there is nothing sacred about
+skull and skin. What makes some information count as a belief is the roleit plays, and there is no reason why the relevant role can be played onlyfrom inside the body.
+Some will resist this conclusion. An opponent might put her foot down
+and insist that as she uses the term ‘belief’, or perhaps even according tostandard usage, Otto simply does not qualify as believing that the museumis on 53rd Street. We do not intend to debate what is standard usage; ourbroader point is that the notion of belief  
+ought 
+ to be used so that Otto
+qualiﬁes as having the belief in question. In all  
+important 
+ respects, Otto’s
+case is similar to a standard case of (non-occurrent) belief. The differencesbetween Otto’s case and Inga’s are striking, but they are superﬁcial. Byusing the ‘belief’ notion in a wider way, it picks out something more akinto a natural kind. The notion becomes deeper and more uniﬁed, and ismore useful in explanation.
+To provide substantial resistance, an opponent has to show that Otto’s 
+4 
+In the terminology of Chalmers (forthcoming): the twins in the Putnam and Burge
+cases differ only in their relational content (secondary intension), but Otto and histwin can be seen to differ in their notional content (primary intension), which is thesort of content that governs cognition. Notional content is generally internal to acognitive system, but in this case the cognitive system is itself effectively extended toinclude the notebook. 
+Copyright © 2000. All rights reserved.
+
+the extended mind 15 
+and Inga’s cases differ in some important and relevant respect. But in what
+deep respect are the cases different? To make the case  
+solely 
+ on the grounds
+that information is in the head in one case but not in the other would beto beg the question. If this difference is relevant to a difference in belief, itis surely not  
+primitively 
+ relevant. To justify the different treatment, we
+must ﬁnd some more basic underlying difference between the two.
+It might be suggested that the cases are relevantly different in that Inga
+has more  
+reliable 
+ access to the information. After all, someone might take
+away Otto’s notebook at any time, but Inga’s memory is safer. It is notimplausible that constancy is relevant: indeed, the fact that Otto alwaysuses his notebook played some role in our justifying its cognitive status. IfOtto were consulting a guidebook as a one-off, we would be much lesslikely to ascribe him a standing belief. But in the original case, Otto’s accessto the notebook is very reliable – not perfectly reliable, to be sure, but thenneither is Inga’s access to her memory. A surgeon might tamper with herbrain, or more mundanely, she might have too much to drink. The merepossibility of such tampering is not enough to deny her the belief.
+One might worry that Otto’s access to his notebook  
+in fact 
+ comes and
+goes. He showers without the notebook, for example, and he cannot readit when it is dark. Surely his belief cannot come and go so easily? We couldget around this problem by redescribing the situation, but in any case anoccasional temporary disconnection does not threaten our claim. After all,when Inga is asleep, or when she is intoxicated, we do not say that herbelief disappears. What really counts is that the information is easily avail-able when the subject needs it, and this constraint is satisﬁed equally in thetwo cases. If Otto’s notebook were often unavailable to him at times whenthe information in it would be useful, there might be a problem, as theinformation would not be able to play the action-guiding role that iscentral to belief; but if it is easily available in most relevant situations, thebelief is not endangered.
+Perhaps a difference is that Inga has  
+better 
+ access to the information
+than Otto does? Inga’s ‘central’ processes and her memory probably havea relatively high-bandwidth link between them, compared to the low-gradeconnection between Otto and his notebook. But this alone does not makea difference between believing and not believing. Consider Inga’s museum-going friend Lucy, whose biological memory has only a low-grade link toher central systems, due to nonstandard biology or past misadventures.Processing in Lucy’s case might be less efﬁcient, but as long as the relevantinformation is accessible, Lucy clearly believes that the museum is on 53rdStreet. If the connection was too indirect – if Lucy had to struggle hard toretrieve the information with mixed results, or a psychotherapist’s aid wereneeded – we might become more reluctant to ascribe the belief, but such
+Copyright © 2000. All rights reserved.
+
+16 andy clark & david chalmers 
+cases are well beyond Otto’s situation, in which the information is easily
+accessible.
+Another suggestion could be that Otto has access to the relevant infor-
+mation only by  
+perception 
+, whereas Inga has more direct access – by
+introspection, perhaps. In some ways, however, to put things this way is tobeg the question. After all, we are in effect advocating a point of view onwhich Otto’s internal processes and his notebook constitute a single cogni-tive system. From the standpoint of this system, the ﬂow of informationbetween notebook and brain is not perceptual at all; it does not involve theimpact of something outside the system. It is more akin to information ﬂowwithin the brain. The only deep way in which the access is perceptual is thatin Otto’s case, there is a distinctly perceptual phenomenology associatedwith the retrieval of the information, whereas in Inga’s case there is not. Butwhy should the nature of an associated phenomenology make a differenceto the status of a belief? Inga’s memory may have some associated phenom-enology, but it is still a belief. The phenomenology is not visual, to be sure.But for visual phenomenology consider the Terminator, from the ArnoldSchwarzenegger movie of the same name. When he recalls some informa-tion from memory, it is ‘displayed’ before him in his visual ﬁeld(presumably he is conscious of it, as there are frequent shots depicting hispoint of view). The fact that standing memories are recalled in this unusualway surely makes little difference to their status as standing beliefs.
+These various small differences between Otto’s and Inga’s cases are all 
+shallow 
+ differences. To focus on them would be to miss the way in which
+for Otto, notebook entries play just the sort of role that beliefs play in guid-ing most people’s lives.
+Perhaps the intuition that Otto’s is not a true belief comes from a resid-
+ual feeling that the only true beliefs are occurrent beliefs. If we take thisfeeling seriously, Inga’s belief will be ruled out too, as will many beliefs thatwe attribute in everyday life. This would be an extreme view, but it may bethe most consistent way to deny Otto’s belief. Upon even a slightly lessextreme view – the view that a belief must be  
+available 
+ for consciousness,
+for example – Otto’s notebook entry seems to qualify just as well as Inga’smemory. Once dispositional beliefs are let in the door, it is difﬁcult to resistthe conclusion that Otto’s notebook has all the relevant dispositions. 
+5.  Beyond the outer limits 
+If the thesis is accepted, how far should we go? All sorts of puzzle cases
+spring to mind. What of the amnesic villagers in  
+One Hundred Years of
+Solitude 
+, who forget the names for everything and so hang labels every-
+where? Does the information in my Filofax count as part of my memory?If Otto’s notebook has been tampered with, does he believe the newly-
+Copyright © 2000. All rights reserved.
+
+the extended mind 17 
+installed information? Do I believe the contents of the page in front of me
+before I read it? Is my cognitive state somehow spread across the Internet?
+We do not think that there are categorical answers to all of these ques-
+tions, and we will not give them. But to help understand what is involvedin ascriptions of extended belief, we can at least examine the features ofour central case that make the notion so clearly applicable there. First, thenotebook is a constant in Otto’s life – in cases where the information in thenotebook would be relevant, he will rarely take action without consultingit. Second, the information in the notebook is directly available withoutdifﬁculty. Third, upon retrieving information from the notebook he auto-matically endorses it. Fourth, the information in the notebook has beenconsciously endorsed at some point in the past, and indeed is there as aconsequence of this endorsement. 
+5 
+ The status of the fourth feature as a
+criterion for belief is arguable (perhaps one can acquire beliefs throughsubliminal perception, or through memory tampering?), but the ﬁrst threefeatures certainly play a crucial role.
+Insofar as increasingly exotic puzzle cases lack these features, the appli-
+cability of the notion of ‘belief’ gradually falls of. If I rarely take relevantaction without consulting my Filofax, for example, its status within mycognitive system will resemble that of the notebook in Otto’s. But if I oftenact without consultation – for example, if I sometimes answer relevant ques-tions with ‘I don’t know’ – then information in it counts less clearly as partof my belief system. The Internet is likely to fail on multiple counts, unless Iam unusually computer-reliant, facile with the technology, and trusting,but information in certain ﬁles on my computer may qualify. In intermedi-ate cases, the question of whether a belief is present may be indeterminate,or the answer may depend on the varying standards that are at play in vari-ous contexts in which the question might be asked. But any indeterminacyhere does not mean that in the central cases, the answer is not clear.
+What about socially extended cognition? Could my mental states be
+partly constituted by the states of other thinkers? We see no reason whynot, in principle. In an unusually interdependent couple, it is entirely possi-ble that one partner’s beliefs will play the same sort of role for the other asthe notebook plays for Otto. What is central is a high degree of trust, reli-ance, and accessibility. In other social relationships these criteria may notbe so clearly fulﬁlled, but they might nevertheless be fulﬁlled in speciﬁcdomains. For example, the waiter at my favourite restaurant might act as 
+5 
+The constancy and past-endorsement criteria may suggest that history is partly
+constitutive of belief. One might react to this by removing any historical component(giving a purely dispositional reading of the constancy criterion and eliminating thepast-endorsement criterion, for example), or one might allow such a component aslong as the main burden is carried by features of the present. 
+Copyright © 2000. All rights reserved.
+
+18 andy clark & david chalmers 
+a repository of my beliefs about my favourite meals (this might even be
+construed as a case of extended desire). In other cases, one’s beliefs mightbe embodied in one’s secretary, one’s accountant, or one’s collaborator.
+In each of these cases, the major burden of the coupling between agents
+is carried by language. Without language, we might be much more akin todiscrete Cartesian ‘inner’ minds, in which high-level cognition relies largelyon internal resources. But the advent of language has allowed us to spreadthis burden into the world. Language, thus construed, is not a mirror ofour inner states but a complement to them. It serves as a tool whose role isto extend cognition in ways that on-board devices cannot. Indeed, it maybe that the intellectual explosion in recent evolutionary time is due as muchto this linguistically-enabled extension of cognition as to any independentdevelopment in our inner cognitive resources.
+What, ﬁnally, of the self? Does the extended mind imply an extended
+self? It seems so. Most of us already accept that the self outstrips theboundaries of consciousness; my dispositional beliefs, for example, consti-tute in some deep sense part of who I am. If so, then these boundaries mayalso fall beyond the skin. The information in Otto’s notebook, for example,is a central part of his identity as a cognitive agent. What this comes to is thatOtto  
+himself 
+ is best regarded as an extended system, a coupling of biological
+organism and external resources. To consistently resist this conclusion, wewould have to shrink the self into a mere bundle of occurrent states,severely threatening its deep psychological continuity. Far better to takethe broader view, and see agents themselves as spread into the world.
+As with any reconception of ourselves, this view will have signiﬁcant
+consequences. There are obvious consequences for philosophical views ofthe mind and for the methodology of research in cognitive science, butthere will also be effects in the moral and social domains. It may be, forexample, that in some cases interfering with someone’s environment willhave the same moral signiﬁcance as interfering with their person. And ifthe view is taken seriously, certain forms of social activity might be recon-ceived as less akin to communication and action, and as more akin tothought. In any case, once the hegemony of skin and skull is usurped, wemay be able to see ourselves more truly as creatures of the world. 
+Washington University
+St. Louis, MO 63130, USA
+andy@twinearth.wustl.edu
+University of California
+Santa Cruz, CA 95064, USA
+chalmers@paradox.ucsc.edu
+Copyright © 2000. All rights reserved.
+
+the extended mind 19 
+References 
+Beer, R. 1989.  
+Intelligence as Adaptive Behavior 
+. New York: Academic Press.
+Blake, A. and A. Yuille, eds. 1992.  
+Active Vision 
+. Cambridge, MA: MIT Press.
+Burge, T. 1979. Individualism and the mental.  
+Midwest Studies in Philosophy 
+ 4: 73–122.
+Chalmers, D. J. (forthcoming). The components of content.Clark, A. 1989.  
+Microcognition 
+. MIT Press.
+Haugeland, J. 1995. Mind embodied and embedded. In  
+Mind and Cognition,  
+eds Y.
+Houng and J. Ho. Taipei: Academia Sinica.
+Hutchins, E. 1995.  
+Cognition in the Wild 
+. Cambridge, MA: MIT Press.
+Kirsh, D. 1995. The intelligent use of space.  
+Artiﬁcial Intelligence 
+ 73: 31–68.
+Kirsh, D. and P. Maglio. 1994. On distinguishing epistemic from pragmatic action. 
+Cognitive Science  
+18: 513–49.
+McClamrock, R. 1995.  
+Existential Cognition 
+. Chicago: University of Chicago Press.
+McClelland, J. L, D. E. Rumelhart, and G. E. Hinton 1986. The appeal of parallel
+distributed processing. In  
+Parallel Distributed Processing 
+, Volume 2, eds. McClel-
+land and Rumelhart. Cambridge, MA: MIT Press.
+Putnam, H. 1975. The meaning of ‘meaning’. In  
+Language, Mind, and Knowledge 
+, ed.
+K. Gunderson. Minneapolis: University of Minnesota Press.
+Suchman, L. 1987.  
+Plans and Situated Actions 
+. Cambridge: Cambridge University
+Press.
+Thelen, E. and L. Smith. 1994.  
+A Dynamic Systems Approach to the Development of
+Cognition and Action 
+.
+Ullman, S. and W. Richards. 1984.  
+Image Understanding 
+. Norwood, NJ: Ablex.
+Varela, F., E. Thompson and E. Rosch. 1991.  
+The Embodied Mind 
+. Cambridge, MA:
+MIT Press.
+Wilson, R. 1994. Wide computationalism.  
+Mind 
+ 103: 351–72.
+Copyright © 2000. All rights reserved.

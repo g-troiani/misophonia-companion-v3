@@ -1,0 +1,289 @@
+## Contents lists available at SciVerse ScienceDirect
+
+## Applied Acoustics
+
+j o u r n a l homepage: www.elsevier.com/locate/apacoust
+
+## Physiological responses to and subjective estimates of soundscape elements
+
+## Ken Hume a, ⇑ , Mujthaba Ahtamad b
+
+a School of Healthcare Science and CATE, Faculty of Science &amp; Engineering, Manchester Metropolitan University, UK b WMG, University of Warwick, UK
+
+## a r t i c l e i n f o
+
+## a b s t r a c t
+
+Article history: Available online 17 November 2011
+
+Keywords: Soundscapes Emotion Physiological-recordings Pleasantness Arousal
+
+Gender-differences
+
+Soundscapes provide complex auditory experiences with emotional content, but there are few and limited objective tools available to investigate the relative benefits of soundscape elements. As part of the Positive Soundscapes (UK) project, the effects of individual soundscape elements on the subjective assessment of pleasantness and arousal were compared with associated physiological responses: Heart Rate (HR), Respiratory Rate (RR) and forehead electromyography (EMG) levels. Eighty subjects listened to 18 /C2 8 s sound-clips from soundscapes. HR, RR and EMG were recorded and the subjective pleasantness and arousal were assessed on 9 point scales. The data were analysed via a linear mixed-model ANOVA. Listening to sound-clips lowered HR slightly but significantly. Male subjects had significantly lower HR before and during sound-clips than female subjects. More unpleasant sound-clips caused larger falls in HR, which was greater in males. Listening to a sound-clip raised RR slightly but significantly. The more pleasant the sound-clip was judged the greater was the rise in RR. This direct relationship between pleasantness and RR response was greater in males. The EMG tended to be raised by unpleasant soundclips, in both males and females. Distinctive relationships were found between physiological measurements and the subjective estimates of the pleasantness of the presented sound-clips.
+
+/C211 2011 Elsevier Ltd. All rights reserved.
+
+## 1. Introduction
+
+It has long been appreciated that sounds can evoke emotions that help prepare individuals to cope with potential negative and positive environmental scenarios e.g. survival threats and reproduction [1].
+
+Music, frequently the most sought after sound, has the ability to 'stir the emotions' and give considerable pleasure. However, there is debate whether music evokes a primary emotional response (emotivist position) or whether listeners perceive emotions expressed by the music (cognitivist position) [2].
+
+Emotions can be triggered by all our sensory systems, but most early work on the link between emotional and physiological responses has been carried out on the visual modality. Bradley and Lang [3] have been major authors in the study of physiological responses, subjective assessment and behavioural reactions associated with processing emotional images and sounds. They found reliable patterns of physiological change in visceral, somatic and central systems including heart rate variation, changes in muscle tone and skin conductance measures in response to sound stimuli with different emotional and arousal content [3].
+
+⇑ Corresponding author. Tel.: +44 161 247 1221; Fax: +44 161 247 6325. E-mail address: k.i.hume@mmu.ac.uk (K. Hume).
+
+The application of soundscapes in community noise evaluation is attempting to provide practical data that can be applied by architects and designers to create pleasing acoustical environments [4].
+
+However, soundscapes provide complex auditory experiences and there are limited tools available to investigate their relative benefits.
+
+Therefore, recording objective physiological responses in association with subjective assessments of individual sounds could indicate meaningful patterns of response and provide a starting point for a more complete objective assessment of soundscapes. This approach of investigating various soundscapes by means of physiological recordings in association with subjective assessments does not seem to have been applied before.
+
+In the recent interdisciplinary project Positive Soundscape Project [5] the relationship between the emotional response to sound elements and simple physiological responses e.g. heart rate was explored.
+
+The primary goal of this study was to investigate the response of three simple physiological measures Heart Rate (HR), Respiration Rate (RR) and muscle tone (via EMG) to 18 relatively common sounds extracted from recorded soundscapes. While at the same time assessing their pleasantness and arousal. There were three specific questions posed:
+
+Is there a change in recorded physiology (HR, RR and EMG) in response to soundscape elements?
+
+Is there a relationship between the pattern of the physiological changes and the subjective assessment of pleasantness and arousal of the sound?
+
+Is there a gender effect in any response?
+
+## 2. Method
+
+## 2.1. Subjects
+
+Subjects were 80 unpaid volunteers (44 males), aged 18-25 and all undergraduate students at Manchester Metropolitan University. They were selected opportunistically within the University campus. Approximately 1 in 4 students approached agreed to take part and were then initially screened with four simple questions to fit the criteria:
+
+- /C15 18-25.
+- /C15 Undergraduate student.
+- /C15 No reported hearing difficulties.
+- /C15 No reported health condition which could affect results or be a safety issue for themselves.
+
+noise (e.g. a pistol shot) which can be clearly detected in physiological responses (e.g. an eye-blink) to this type of auditory stimulation but at much earlier latencies of about 40-100 ms. Such minor potential contamination should not affect our results as the soundclips were not very loud and gathered from 8 s i.e. 8000 ms. The 8 s sound-clips are similar in length to the 6 s used in the previous major work in this area [3]. In addition, there was no relationship between the sound levels of the clips and the physiological measures which ruled out this potential confounding issue.
+
+The sound-clips were normalised using 'Audacity' software, compiled onto one track which was played to each subject from the same CD via the same headphones (Coby Digital (R) CV-100).
+
+Quasi-randomization of the sound-clips was carried out to avoid the sounds occurring in sequence in similar categories e.g. human sounds. The content of the clips were selected from material provided by other researchers in the Positive Soundscape Project (see this Journal issue) with the intention of evoking a broad range of rated arousal and pleasure estimates.
+
+## 2.3. Subjective responses
+
+Ethical procedures were followed throughout including a scripted detailed introduction explaining the exact procedures before signed consent was taken.
+
+Immediately following each sound-clip subjects made two subjective responses concerning the sound just heard. The Pleasantness and Arousal evoked by the sound were rated, using prepared response sheets with 9-point numerical scales as seen below:
+
+## 2.2. Stimulus material
+
+## 2.4. Physiological measurements
+
+A key design objective in the present study was that the whole recording procedure should take less than 20 min for each subject, thus avoiding motivational, compliance and recruitment issues. Also, the physiological measures should be easy to capture, with minimal inconvenience to the subject, provide robust signals with simple and well accepted methods of analysis.
+
+Auditory stimuli consisted of 18 sound-clips, each of 8 s duration. Table 1 gives full track listings in running order of the sound-clips.
+
+An issue in selecting sound-clip duration with this type of research relates to the 'startle reflex' [6] in response to a sudden loud
+
+Table 1
+
+The content of the 18 sound-clips and the sound number in running order.
+
+|   Sound number | Sound content                                     |
+|----------------|---------------------------------------------------|
+|              1 | Horses hooves on road                             |
+|              2 | Kids playing clapping game in schoolyard          |
+|              3 | Female coughing + traffic noise                   |
+|              4 | 2x Fox screams + quiet hum in background          |
+|              5 | Fireworks                                         |
+|              6 | Sound of jet plane flying overhead                |
+|              7 | Waves plus hum of electricity                     |
+|              8 | Vomiting + traffic noise                          |
+|              9 | Child giggling plus traffic sounds                |
+|             10 | Jackhammer + traffic noise                        |
+|             11 | Man hiccupping + traffic noise                    |
+|             12 | Evening birdsong, some traffic sounds             |
+|             13 | Football crowd chanting and cheering              |
+|             14 | Fountain, kids playing, some laughter and yelling |
+|             15 | Footsteps, sound of clock tower bells ringing     |
+|             16 | Fire engine siren + traffic noise                 |
+|             17 | String quartet, some traffic and chatter          |
+|             18 | Church bells chiming, traffic noise, some chatter |
+
+Three physiological measurements were recorded on software Chart 5 using PowerLab /C210 link to a PC:
+
+- /C15 Heart Rate (HR) expressed as beats per minute.
+- /C15 Respiration Rate (RR) expressed as breaths per minute.
+- /C15 Electromyography (EMG) expressed as the Root Mean Squared (RMS) of the amplitude in microvolts.
+
+Heart rate was measured via an electrocardiogram (ECG) applying standard procedures with electrodes placed on the upper right and left side of the chest and on the wrist of the non-dominant hand [4].
+
+Respiration rate was measured using a respiration belt wired to PowerLab /C210 that recorded breathing movements. The belt was placed around the lower chest/abdomen although needed to be lowered around the abdomen in some subjects. It was fitted securely yet without restricting normal breathing and could be placed over light clothing. The sensitivity was altered for each subject as necessary.
+
+Electromyography was measured using EMG electrodes placed on the forehead over the corrugator muscles. A selfadhesive electrode was placed over each eyebrow at the nasion end, the leads and electrodes were secured with micropore tape.
+
+## 2.5. Measurement recording software
+
+All of the physiological recordings were stored in LabChart. The physiological responses to the sound-clips were determined by analyzing 8s of silence before the sound and 8s during the sound.
+
+By using the Datapad facility on LabChart, the mean measures were calculated from the required 8 s sections.
+
+Any recording comments were added and labelled at the start of every sound. Any recording artefacts due to movement could be deleted after noting which data points they affected. The datapad then contained all of the data which could be copied into the main database for further analysis.
+
+## 2.6. Experimental procedure
+
+General introductory statements were made to potential subjects, which explained the basic aim and method of the experiment, and the time involved, which was approximately 15-20 min per subject. When the equipment was fully attached including headphones they were seated facing a blank wall with their response sheet and pen in a small sound-attenuated laboratory. A small desk lamp gave sufficient light for the subject to see their response sheet.
+
+Each sound-clip was edited to 8 s, interspersed with 20 s of silence. The first 12 s of the silence period was allocated for subjective response time when the subject rated the sound-clip (see above) and the last 8s of silence was designated as base-line for physiological comparison with the next sound-clip.
+
+A test track of 1 sound-clip and silence was played before the main track sequence to allow subjects to relax, eliminating responses due to anticipation, also giving opportunity to check full understanding of the instructions and to check the viability of the physiological recordings.
+
+## 3. Results
+
+## 3.1. Data analysis
+
+Any outlying data which appeared clearly erroneous (HR &lt; 45 bpm and RR &lt; 6 bpm) were removed. The data were analysed via a linear mixed model ANOVA using restricted maximum likelihood estimation.
+
+## 3.2. Subjective estimates
+
+The mean pleasure and arousal ratings for each sound are presented in Fig. 1. The scatter plot indicates that the sounds with similar emotional content are grouped together in the same affec-
+
+Fig. 1. Scatter plot demonstrating the emotional content of the 18 sound-clips as rated by the subjects. (See Table 1 for corresponding sounds).
+
+tive space as one might predict. For example, for low arousal and high pleasantness, the sounds are waves, evening birdsong and church bells. It also reveals that the mean rated pleasantness of the sounds filled most of the range of this affective dimension while the arousal range is more restricted.
+
+The least pleasant sound, with a mean of 1.2, was vomiting (sound 8). The most pleasant sound, with a mean of 7.1, was evening bird song (sound 12). On the other hand, the least arousing sound with a mean of 3.4 was horse's hooves on road (sound 1). While the most arousing sound with a mean of 6.5 was fireworks (sound 5).
+
+## 3.3. Physiological responses
+
+The mean HR for both the silence before and during the soundclips are shown in Fig. 2. This indicates that the effect of sound following silence lowered HR in all cases but to varying degrees. A trend for HR to increase over the duration of the experimental session in both silence before and during sound-clips was identified.
+
+The various ''peaks'' and ''dips'' in the HR-during plot (Fig. 2) indicate a relationship with the perceived pleasantness of the sound-clip. For example, at sound No.4, there is a distinct ''dip'' in the mean HR during this sound-clip of ''2 Fox Screams'' which was ranked 4th most unpleasant . An example of a ''peak'' is seen at sound No. 9 ''Child Giggling'' which is ranked 16th out of 18, indicating that it is one of the most pleasant sounds amongst participants. The critical measure is the change between the HR before and the HR during the sound-clip which appears to be determined by the pleasantness of the sound-clip.
+
+The trend is repeated at sound No. 11 with a ''dip'' in HR during, which is of a ''man hiccupping'' which is ranked 5th most unpleasant. Another ''peak'' in the graph is seen at sound No. 12 ''evening birdsong'' which was ranked as the most pleasant sound. This pattern clearly suggests that the degree of reduction in HR from the silence (HR before) condition depends directly on how unpleasant the sound-clip was considered to be.
+
+A significant interaction was found between the measure of HR and sound-clip, F (1, 17) = 2.252, p = 0.002 Indicating HR is influenced by sound-clips.
+
+Fig. 2. Graph showing the mean HR (beats per minute) before (s -) and during (-d -) sound-clips.
+
+Fig. 3. Graphs showing the mean (SE) HR decrease for different groups of pleasantness, where Group 1 is the most unpleasant and Group 3 is the most pleasant for: (a) all subjects and (b) male and female HR separately.
+
+## 3.4. Heart rate responses at different subjective estimate ratings
+
+The previous graphs show the mean pleasure and arousal ratings for each sound (Fig. 1) and the mean physiological changes before and during each sound-clip in the order that they were presented (Fig. 2). They do not directly present the physiological effects with different levels of pleasantness.
+
+Fig. 3. presents the effects of increased pleasantness on HR. Fig. 3a shows the degree to which the HR fell depending on the mean estimate of pleasantness. The pleasantness scores were condensed into 3 groups in which Group 1 contained scores 1, 2 and 3 i.e. the most unpleasant, Group 2 included scores 4, 5 and 6 i.e. neutral and Group 3 contained 7, 8 and 9 i.e. the most pleasant. Fig. 3a clearly shows that the more unpleasantly scored soundclips gave the largest HR falls and the most pleasant gave the least HR fall.
+
+When the subjective assessments of pleasantness and the various physiological measures were compared a significant difference was revealed for HR during sound-clip playback means and pleasantness, F = 2.153, p = 0.029.
+
+Table 2 Displaying gender differences between HR before and HR during the sound-clips with HR means and Standard Deviations (SD).
+
+|           |        |   Mean |    SD |
+|-----------|--------|--------|-------|
+| HR Before | Male   |  73.31 | 12.5  |
+|           | Female |  81.21 | 11.37 |
+| HR During | Male   |  71.55 | 12.63 |
+|           | Female |  80.03 | 11.2  |
+
+## 3.5. Gender differences
+
+Significant gender differences were found in the results for HR. It is well known that females have a higher resting HR than males of about 5-10 bpm. This was reflected in both the mean HR before the sound-clips and during the sound-clips as seen in Table 2.
+
+There were significant differences between the HR means between males and females before and during sound-clip playback, F = 149.82, p &lt; 0.05. The same was also revealed for HR before and during sound-clip playback means regardless of gender, F = 167.8, p &lt; 0.05.
+
+In addition to the significant gender differences before and during the sound-clips, Fig. 3b shows a significant gender influence on the overall mean reduction in HR from silence before to HR during the sound-clips, when the data was analysed according to the subjective estimates of pleasantness. Fig. 3b shows that males responded more markedly than females with a significantly greater reduction of HR to unpleasant sound-clips.
+
+## 3.6. Respiration rate responses (RR)
+
+The mean RR for both the silence before and during the soundclips in the order that they were presented are shown in Fig. 4. This indicates that the effect of sound following silence was to raise RR in all cases except 11 (man hiccupping) but to varying degrees.
+
+## 3.7. RR responses at different subjective estimate ratings
+
+The pleasantness scores were condensed from the 9 point scores into 3 groups in which Group 1 contained scores 1, 2 and 3 i.e. the most unpleasant, Group 2 included scores 4, 5 and 6 i.e. neutral and Group 3 contained 7, 8 and 9 i.e. the most pleasant.
+
+Fig. 5a shows the degree to which the RR rose depending on the mean estimate of pleasantness. This shows a positive relationship where increasing RR was associated with an increase in pleasantness.
+
+When the subjective assessments of pleasantness and the RR were compared a significant difference was identified for RR during sound-clip playback means and pleasantness F (1, 1343) = 107.8, p &lt; 0.001 Furthermore, there was a clear gender effect (Fig. 5b) in which males exhibited a greater response to the subjective esti-
+
+Fig. 4. Graph showing the means of RR (breaths per min) before (s -) and during (-d -) sound-clips.
+
+Fig. 5. Graphs showing the mean RR and Standard Error (SE) increase for different groups of pleasantness, where Group 1 is the most unpleasant and Group 3 is the most pleasant for: (a) all subjects and (b) male and female separately.
+
+Fig. 6. Graph showing the mean EMG level (RMS uv) before (s -) and during (d -) sound-clips.
+
+mates of pleasantness than females (Table 2) F (1,1322) = 109.5, p &lt; 0.001.
+
+Fig. 7. Graphs showing the mean (SE) changes in EMG level for different groups of pleasantness where Group 1 is the most unpleasant and Group 3 is the most pleasant for (a) all subjects (b) male and female EMG level displayed separetely.
+
+## 3.8. Muscle tone responses (EMG)
+
+The mean EMG (measured in RMS microvolts) for both the silence before and during the sound-clips in the order that they were presented, are shown in Fig. 6. This indicates that the effect of sound following silence was to raise EMG noticeably for 5 sound-clips (Numbers 3, 4, 8, 11 and 14). There was no general separation between silence and sound-clip that was observed in the previous HR and RR results. Also, the clearest rise in forehead muscle activity was for sound-clip No. 8 which was ''a man vomiting'' this was also scored as the most unpleasant sound-clip (Fig. 1).
+
+A more formal comparison of EMG-rises with the subjective estimates of pleasantness is shown in Fig. 7a. There is a clear relationship with decreasing EMG associated with increasing pleasantness). Unlike HR and RR there is no gender effect with this physiological measure, Fig. 7b.
+
+## 3.9. Sound levels and physiological measures
+
+The sound pressure level produced by the headphones for the 18 sound-clips had a mean value of 67.52 dB(A) with a SD of ±3.05 and a range of 60.35-73.95. This was determined via the Knowles Electronic Manikin for Acoustic Research (KEMAR) at the University of Salford (UKAS Acoustic Testing Laboratory 1262).
+
+To determine if the level of sound had any correlation with the physiological measures captured in the study, a Pearson's correlation analysis was conducted. The analysis revealed no relationships between the sound levels for each of the sound-clips played and the physiological measures (HR, RR and EMG) recorded during the sound-clip. For HR and sound level, r = /C0 0.033, p = 0.21. For
+
+RR and sound level, r = 0.004, p = 0.870. For EMG and sound level, r = 0.055, p = 0.113.
+
+## 4. Discussion
+
+In terms of the aims of this study many consistent and significant results have been realised which were in good general agreement with the findings of a previous pilot experiment [7] particularly as in the current study, the sound-clips were more ecologically valid in terms of approximating more to real environmental soundscapes. In essence the results showed that HR was lowered while RR was raised by listening to a sound-clip and the effects were greater with unpleasant sounds and for males. On the other hand, EMG showed no gender effect and was increased with unpleasant sound-clips.
+
+There was a highly significant but small deceleration of the HR in response to unpleasant sounds of about 2 beats per minute. This agrees with previous major work [3] where Bradley and Lang found the largest reduction in HR of 2.83 bpm was for a 'human scream' sound stimulus that was delivered for 6 s.
+
+However, some other work [8], which used longer stimulus presentations (30 s), showed an increase in HR associated with increased arousal ratings. A potential problem with longer response windows is that it gets more difficult to be sure what aspect of the stimulus is being centrally processed by the brain and this makes interpretation more difficult.
+
+Some authors consider that the Startle response is the early component of the Orienting physiological responses [9] which has the ability to stop ongoing central processing and direct attention at a novel stimulus. This process must be occurring in our subjects as they attend to the new sound-clip following silence, but the significance of this effect in our experiments is considered marginal as our subjects knew that a series of auditory stimuli would be delivered at a set frequency through their headphones. So following the initial trial there was little orientation to be done just a repetitive simple listening task to attend to the sound-clip and make two assessments of its pleasantness and arousal.
+
+It was a pleasing outcome in this research that relatively low technical and cost equipment can give results similar to results achieved by high technical laboratories on focused research projects. This indicates the relative ease of achieving significant findings in this area and may have application to further work on the relative physiological health effects of different soundscapes. It is considered that the relatively short duration of testing (&lt;20 min) per subject avoided many potential problems e.g. boredom and the lack of attention to task.
+
+It is well established that the normal resting HR for females is about 5-10 bpm higher than for males. This was clearly reflected in our results with gender differences in HR in silence before the sound-clip and in response to the sound-clip with more significant affects of sounds from males. Such gender differences for HR response to sounds are not clearly stated in the literature.
+
+It was disappointing that we were not able to achieve a fuller range of subjective estimates of arousal with our sound-clips which limited the conclusions that can be drawn about the affect of this subjective dimension on the physiological measures recorded. It could be argued that it is generally easier to assess the pleasantness of a sound than its arousal promoting features and as this latter concept is more cognitively complex to grasp in our group of students. It may have been the explanation for the more restricted range for this dimension in the subjective responses, as seen in Fig. 1. Bradley and Lang [3] were able to achieve a fuller range of subjective emotions including arousal but they used more extreme sound material such as screams, erotica and bomb-blasts.
+
+There was a small but highly significant increase of the RR in response to sounds of about 1 breath per minute. The size of the increase in RR depended on the subjective pleasantness of the sound-clip, such that, the more pleasant the sound-clip was perceived to be, the greater was the RR increase. There was a clear gender affect with this result, in which the increase in RR was far more apparent in males than females.
+
+The EMG showed a marked elevation in level for some soundclips compared with prior silence. Comparison of the EMG elevation with the subjective pleasantness of the sound-clip revealed greater elevation for more unpleasant sounds. However, unlike the RR results, there was no gender affect revealed for the EMG results.
+
+Bradley and Lang [3] who have carried out major work in this area, did not record RR but they did record EMG and found that listening to unpleasant sounds caused more corrugator EMG activity and HR deceleration, our results agree with these authors.
+
+Gomez and Danuser [7] investigated physiological responses, including RR, and corresponding subjective estimates of pleasantness to environmental noises and music. These authors found breathing accelerated with decreases in pleasantness. These results are opposite to ours but they used longer stimulus presentations (30 s) and they only used the last 15 s of the stimulus period for comparison, which makes direct comparison impossible.
+
+## 5. Conclusions
+
+Our results indicate an interesting profile of significant simple physiological measures in response to presentation of a sound-clip that is considered unpleasant, there is a clear tendency for HR to fall, RR to show a small increase and EMG to rise. Compared with pleasant sounds which cause minimal HR falls, clear RR rises and the EMG is relatively unchanged. A clear gender effect was observed with males showing larger HR and RR responses.
+
+## 5.1. Future work
+
+There are a number of ways that this approach could be developed in future research to assess more real-life scenarios and soundscapes:
+
+- /C15 The duration of a single sound-clip could be increased to investigate habituation and within sound analysis could be employed, plus longer sound-clips would allow techniques which could indicate the sympathetic-parasympathetic balance in the autonomic nervous system's response.
+- /C15 The influence of context could be investigated by having ''contextually supportive'' sounds e.g. wind in trees background with bird noise added and ''contextually incongruence sounds'' sea waves background with short periods of city traffic.
+- /C15 Another contextual theme could be to have ''contextually supportive'' visual images to accompany sounds compared with ''contextually disparate'' visual images.
+- /C15 It would be interesting to record physiological measures while inspecting architectural models, real or virtual, with corresponding soundscapes to gain information on the objective responses to such complex stimulus fields.
+
+## Acknowledgements
+
+Stephanie Bent, Leanne Waite and Michael Aylmer for help with data collection.
+
+Neil Bruce &amp; Amy Irwin for help with preparation of the soundclips.
+
+Dave Maskew &amp; Julia Haynes for technical support.
+
+Bill Davies, Paul Jennings, Rebecca Cain and the rest of the Positive Soundscapes Research Group.
+
+Preliminary papers based on this research have previously been presented at Internoise in Ottawa 2009 and Euronoise in Edinburgh 2009.
+
+## References
+
+- [1] Darwin C. The origin of species by means of natural selection. 6th ed. London: John Murray; 1872.
+- [2] Lundquist LO, Carlsson F, Hilmerson P, Juslin PN. Emotional response to music: experience, expression and physiology. Psychol Music 2008. doi:10.1177/ 030573560708604.
+- [3] Bradley MM, Lang PJ. Affective reactions to acoustic stimuli. Psychophysiology 2000;37:204-15.
+- [4] Sculte-Fortkamp B, Brooks BM, Bray WR. Soundscape: an approach to rely on human perception and expertise in the post-modern community noise era. Acoust Today 2007;3:7-14.
+- [5] Davies WJ et al. Perception of soundscapes: an interdisciplinary approach. Appl Acoust 2013;74(2):224-31.
+- [6] Lang PJ, Bradley MM, Cuthbert BN. Emotion, attention and the startle reflex. Psychol Rev 1990;97(3):377-95.
+- [7] Hume KI, Barrett H, Ip A, McDonagh T, Davies WJ, Adams MD, et al. Physiological responses and subjective estimates of sounds: Initial results of a Pilot Study. In: Proceedings of the institute of acoustics, (Reading University), vol. 30. No. 5; 2008. p. 1-7.
+- [8] Gomez P, Danuser B. Affective and physiological responses to environmental noises and music. Int J Psychophysiol 2004;53:91-103.
+- [9] Sokolov EN. The orienting response and future directions of its development. Integr Psychol Behav Sci 1990;25(3):142-50.

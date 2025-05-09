@@ -1,0 +1,571 @@
+1
+
+| 2   | misophonic symptoms                                                                                                                                                       |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3   |                                                                                                                                                                           |
+| 4   | J.W. de Gee 1,2,@ , L. Alonso-Marmelstein 3 , K. Schwarz-Roman 3 & R. Rouw 2,3,@                                                                                          |
+| 5   | 1 Swammerdam Institute for Life Sciences, 2 Amsterdam Brain & Cognition, 3 Department of Psychology,                                                                      |
+| 6   | University of Amsterdam, Amsterdam, NLD.                                                                                                                                  |
+| 7   | @=Address correspondence to: j.w.degee@uva.nl and R.Rouw@uva.nl                                                                                                           |
+| 8   |                                                                                                                                                                           |
+| 9   | A BSTRACT                                                                                                                                                                 |
+| 10  | Misophonia is a debilitating disorder where seemingly innocuous sounds (often human made, such as chewing or throat clearing) evoke intense negative cognitive, emotional |
+| 12  | and physical 'fight-or-flight' responses. Recent studies reported alarmingly                                                                                              |
+|     | high                                                                                                                                                                      |
+| 13  | prevalence across different countries and population characteristics, revealing an urgent                                                                                 |
+| 14  | need for a better understanding of this condition as well as improved measurement and                                                                                     |
+| 15  | diagnostic tools. Firstly, current misophonia symptom measurements rely on (subjective)                                                                                   |
+| 16  | self-reports, and different studies employ various diagnostic approaches and cut-off                                                                                      |
+| 17  | scores. There is an urgent need for a complementary (objective) psychophysiological                                                                                       |
+| 18  | measurement tool. Secondly, the role of 'mild' or 'moderate' symptoms are currently topic                                                                                 |
+| 19  | of debate: are they still manifestations of the misophonic disorder? Here, we employ                                                                                      |
+| 20  | pupillometry to map out arousal responses to misophonia trigger sounds. We show that                                                                                      |
+| 21  | (i) pupil dilation can reliably differentiate misophonic responses from responses to of                                                                                   |
+| 22  | generally unpleasant sounds (such as nails on chalk board), (ii) the 'milder cases'                                                                                       |
+| 23  | misophonia still show arousal responses characteristic of misophonia, and (iii)                                                                                           |
+| 24  | pupillometry can even be used to aid diagnosis in a single individual. We conclude that                                                                                   |
+| 25  | even mild misophonic responses can reliably, objectively and cost-effectively be indexed                                                                                  |
+| 26  | by pupil-linked arousal.                                                                                                                                                  |
+
+27
+
+## Sound-evoked pupil dilation quantifies misophonic symptoms
+
+28
+
+## INTRODUCTION
+
+Individuals with misophonia experience strong negative emotions like rage or disgust in 29 response to everyday, often human-made, sounds (e.g., chewing or throat clearing) 1-4 . 30 The ubiquitous nature of the 'trigger' stimuli, and strength of the misophonic response can 31 lead  to  severe  distress  and  even  suicide  ideation 5-7 .  Misophonia  is  a  newly  defined 32 disorder, quickly gaining scientific attention across scientific disciplines (e.g., audiology, 33 cognitive science, clinical psychology, occupational therapy, psychiatry, and 34 neuroscience) 3,4,8-15 . Despite rapidly advancing research, much remains unknown about 35 the  etiology,  course,  or  mechanisms  of  the  condition,  leaving  open  the  question  why 36 seemingly  innocuous  daily  sounds  would  evoke  such  strong  aversive  ('fight  or  flight') 37 responses. 38
+
+The need for a better understanding of misophonia extends beyond fundamental 39 scientific  interest.  A  recent  series  of  studies  revealed  alarmingly  high  misophonia 40 prevalence  numbers  of  ~1  in  5  in  general  (non-clinical)  population  samples  across 41 different nations (Turkey 16 , UK 17 , India 18 , China 19 , USA 20 ).  Results furthermore showed 42 a wide range of symptom severity; 'severe misophonia' was reported in 5% to 13 % of the 43 population 16,20-22 while the same studies also report 'some' level of misophonic symptoms 44 in  as much as 79% of the population 16,20 .  This reflects the current struggle on how to 45 interpret  'mild'  or  'moderate  symptoms:  are  they  still  manifestations  of  a  'misophonic' 46 response? Put differently, can 'mild' misophonic responses be discerned from normal 47 annoyance  to  unpleasant  sounds?  The  call  for  improved  misophonia  diagnostic  and 48 measurement  tools  thus  entails  a  need  for  methodology  that  reliably  distinguishes 49 misophonic  from  non-misophonic  complaints,  while  simultaneously  being  sensitive  to 50 variations in misophonic response severity. 51
+
+To date, researchers have largely measured misophonic complaints using self52 report  measures.  As  the  field  is  quickly  expanding,  assessment  approaches  include 53 structured  diagnostic  interviews  and  standardized  experimental  designs 5,23-25 . Yet, 54 misophonia  researchers  have  pointed  at  the  limitations  of  employing  only  self-report 55 measurements 23,25 . Furthermore, while diagnostic psychiatric criteria have been 56 formulated , different studies still employ various diagnostic approaches and different cut3 57 off scores 5,8 , complicating cross-study comparisons or conclusions. Misophonia research 58 would benefit from a physiological tool to objectively characterize individual variation in 59 misophonia symptom severity. 60
+
+We hypothesized that pupillometry might be a (cost-effective and relatively easy 61 to  use)  tool  to  reliably  quantify  misophonic  responses  to  trigger  sounds.  Pupil  size 62 fluctuations at constant luminance reflect neuromodulatory activity and emotional arousal 63 associated  with  increased  sympathetic  activity 26-30 and  can  synchronize  to  rapid 64
+
+alterations in cognitive or emotional states: the pupil dilates transiently during challenging 65 decisions 31 , after surprising outcomes 32 and in response to emotional stimuli 29 ; critically, 66 pupil  dilation  also  reflects  positive  emotional  reactions  to  sounds  in  frisson 33 ,  and  the 67 autonomous sensory meridian response 34 .  Here, we test the predictions that pupillometry 68 has: (i) the selectivity needed to differentiate misophonic responses from responses to 69 generally unpleasant sounds, (ii) the sensitivity needed to examine whether 'mild' and 70 'moderate'  cases  show  response  characteristics  of  misophonia,  and  (iii)  the  reliability 71 needed to add an objective measurement of misophonic complaints at the level of a single 72 individual. 73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+## R ESULTS
+
+Figure 1. Misophonia protocol. (A) Amsterdam Misophonia Scale (AMS)  scores. Every data point is a 3 participant (N=30). (B) Sequence of sound and rating interval during the misophonia protocol. (C) Image of pupil size recordings. (D) Example session. Black trace, pupil size time series; colored bars, sounds.
+
+81
+
+In  thirty  participants,  recruited  from  a  general  population,  we  replicated  the 82 substantial variation in misophonia  severity, as measured  with  the 'Amsterdam 83 Misophonia Scale' (AMS) 3 (Methods): 40%  was  sub-clinical (scores 1-4), 36% 84 experienced mild misophonia (scores 5-9), 20% experienced moderate misophonia, and 85 4% experienced extreme misophonia ( Figure 1A ). The same thirty participants listened 86 to a sequence of sounds and rated their aversiveness on a four-point scale ( Figure 1B ; 87 Methods):  half  were  generally  unpleasant  (e.g.,  nails  on  chalkboard)  and  half  were 88
+
+89
+
+90
+
+91
+
+common misophonia triggers (e.g., clearing throat). See Methods for full list of sounds and Figure S1 for  their  spectrograms. We simultaneously recorded pupil size ( Figure 1C,D ).
+
+On average, subjective aversiveness ratings were higher for misophonia trigger 92 versus  generally  unpleasant  sounds  ( Figure  2A )  and,  likewise,  sound-evoked  pupil 93 responses were larger ( Figure 2B ).  This is in line with the average AMS score of our 94 sample being 7 (classified as mild clinical misophonia ; 3 Figure 1A ). Importantly, sound95 evoked pupil responses were also larger for misophonia trigger sounds when matched 96 for  subjective  aversiveness  rating  ( Figure  2C ;  mixed  linear  model:  main  effects  for 97 aversiveness rating [ z = 5.159, p &lt; 0.001] and sound type [ z = 6.247, p &lt; 0.001]). We 98 verified that these results were not due to differences in eye blinks or saccades. Thus, for 99 the same subjective aversiveness rating, the pupil dilated more in response to misophonia 100 trigger sounds, than generally unpleasant sounds. 101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+Figure 2. More pupil dilation in response to misophonia trigger sounds than generally aversive sounds.  (A) Mean  rating,  separately  for  misophonic  triggers  and  generally  unpleasant  sounds.  Stats, paired samples t-test. (B) Pupil response time courses separately for sound category (misophonia trigger and generally unpleasant; collapsed across rating), time-locked to sound onset. Grey shading, interval used for  quantifying  task-evoked  pupil  responses  (Methods) (C) Sound-evoked  pupil  response  magnitude, separately  per  rating  and  sound  category  (see Figure  S2A for  pupil  response  time  courses  split  by aversiveness ratings). Stats, mixed linear model (see main text and Methods). All panels: shading or error bars, S.E.M across participants (N=30).
+
+112
+
+We observed that, across subjects, the difference in pupil response magnitude 113 (trigger vs unpleasant) was positively correlated to the difference in aversiveness rating 114 (trigger vs unpleasant) ( Figure S3A ).  In  other words, those participants who rated the 115 misophonia trigger sounds as more aversive than the generally unpleasant sounds also 116 had bigger pupil responses during trigger versus unpleasant sounds. This relationship 117 was robust but not perfect (  = 0.43, r p = 0.018), which means that aversiveness ratings 118 and  pupil  responses  could,  in  principle,  predict  unique  parts  of  the  across-subjects 119
+
+120
+
+variance in misophonia severity.
+
+Across  subjects,  AMS  scores  were  positively  related  to  the  difference  in 121 aversiveness rating ( Figure S3B ) as well as to the difference in pupil response magnitude 122 (trigger vs unpleasant) ( Figure 3A ).  We used multiple linear regression to assess the 123 unique contribution of aversive ratings and pupil responses in predicting AMS scores. In 124 this  multiple  regression model, aversiveness ratings did no longer significantly predict 125 misophonia severity (  = 1.126, t p = 0.218) whereas pupil response magnitude did (  = t 126 4.233, p &lt; 0.001). In other words, pupillometry explained more variation in the AMS than 127 aversiveness ratings of the trials. We observed the same qualitative result when excluding 128 one participant with severe misophonia (score &gt; 20) from the analysis, who could be 129 considered  an  outlier  in  our  sample:  aversiveness  ratings  did  not  significantly  predict 130 misophonia severity (  = 1.696, t p = 0.102) whereas pupil response magnitude did (  = t 131 2.805, p = 0.009). 132
+
+Finally, we used leave-one-out cross-validation to quantify the error between pupil133 predicted misophonia severity and actual misophonia severity. Specifically, we computed 134 the  linear  relationship  between  the  AMS  scores  and  the  difference  in  pupil  response 135 magnitude (trigger vs unpleasant) based on the data from all participants minus one, and 136 then predicted the AMS score for the left-out participant based on his/her pupil data. This 137 analysis showed that AMS score could be reliably predicted, based on only pupil dilation, 138 at the level of a single individual ( Figure 3B ): the median absolute error was 2.80, which 139 is below the granularity of severeness categories of the AMS ( Figure 1A ). This suggests 140 that  if  group  performance  on  the  questionnaire  is  reliable,  a  single  individual  with 141 unrealistic questionnaire scores (e.g., due to misinterpretation) might be detectable by 142 adding pupillometry as an objective tool. 143
+
+144
+
+145
+
+Figure 3.  Sound-evoked pupil dilation reliably predicts individual  misophonia severity.  (A) AMS 146 score  plotted  against  individual  mean  difference  in  pupil  response  magnitude  (trigger  vs  unpleasant 147 sounds). Each data point is a participant. Error bars, bootstrapped 67% confidence intervals. (B) AMS score 148 plotted against pupil-predicted AMS score (cross-validated). Each data point is a participant; dashed line, 149 identity line. 150
+
+151
+
+152
+
+153
+
+154
+
+155
+
+156
+
+157
+
+## D ISCUSSION
+
+Our study demonstrates for the first time that pupillometry is a sensitive method for  measuring misophonic responses, even in milder cases. Pupil response discerned misophonic responses to 'trigger' sounds from normal aversive responses to generally unpleasant  sounds.  Furthermore,  pupillometry  proved  sensitive  to  variations  in  the intensity of the misophonic response across different individuals and may therefore be used to aid diagnosis of the condition.
+
+The  findings  suggest  that  pupillometry  is  a  valuable  addition  to  self-report 158 paradigms.  While  self-report  is  an  important  tool  to  measure  phenomenological  and 159 emotional experiences, it has some intrinsic weaknesses including unintentional (e.g., 160 misunderstandings or biases) and intentional (malingering) measurement  errors. 161 Furthermore, our results show how the (continuous) pupillometry variance can explain 162 additional variance over the (categorical) ratings for misophonic sounds. Thus, adding 163 pupillometry to the misophonia diagnostic toolbox could greatly help deciphering out the 164 different types  and  severities  within  a  group  of  individuals  reporting  misophonic 165 complaints. 166
+
+Previous  studies  measured  increased  autonomic  nervous  system  response  in 167 galvanic skin response and heart rate variability 1,4,9,10,23,35 and shown how the involuntary 168 emotional and physiological response is an essential characteristic of misophonia . In 8 169 these  previous  studies,  only  the  autonomic  nervous  system  response  to  misophonic 170 sounds in misophonic versus non-misophonic participants was obtained. Our current goal 171 was to add an objective measurement that would provide a more sensitive measurement 172 of across-subject variations in autonomic nervous system  response. Pupil size 173 fluctuations at constant luminance have previously been shown to reflect 174 neuromodulatory activity and emotional arousal associated with increased sympathetic 175 activity 26-30 . The signal-to-noise ratio of pupil responses is higher compared to galvanic 176 skin heart rate (variability) responses 36 . Furthermore,  the  temporal  resolution of 177 pupillometry is higher compared to functional MRI and physiological measures like the 178 galvanic skin response. Together, this allowed us to take previous findings a step further 179 and use pupillometry measurements to reflect variations in the strength of misophonic 180 responses (between participants, or between trials). Indeed, our results reflected such 181 response variation, even in moderate and mild cases of misophonia. 182
+
+There is also a practical reason to add pupillometry to the misophonia toolbox. As 183 compared with neuroimaging or electrophysiological techniques, pupillometry is cheap, 184 mobile, and non-invasive. This is not only relevant to misophonia research, as a similar 185 quest for objective measurements exist in the pluriform and extensive research on sound 186 sensitivity in related research areas (e.g., autism, tinnitus, hyperacusis, or PTSD 37-39 . A 187
+
+recent preprint showed that emotionally evocative sounds elicited abnormally large pupil 188 dilations in a 'disordered hearing' (tinnitus and hyperacusis) group 40 . This invites further 189 research of employing pupillometry in sound sensitivity in other conditions. We propose 190 that pupillometry could be employed as a non-invasive, relatively easy-to-use and cost191 effective manner to map out and compare responses both within and across the different 192 conditions. An additional advantage is that this methodology can even be used in cases 193 where  self-report  is  limited  (e.g.,  due  to  age  effects  or  language  impairments  of  the 194 participant group). 195
+
+There are several limitations to our study. First, follow-up studies can elucidate 196 whether particular choices in experimental design may increase or decrease obtained 197 effects. In particular, a different set of misophonic/aversive sound stimuli may affect the 198 size of the autonomic nervous system (and therefore pupil) response. For example, we 199 choose  to  use  the  same  standard  stimuli  for  all  participants,  but  using  participants' 200 individual misophonic trigger sounds may lead to different results. However, we expect 201 that such a change in design would only enhance our current results. Second, analyzing 202 which trigger sound most strongly drives pupil responses in an individual, or a more in203 depth  analysis  of  individual  differences  in  misophonia  was  not  feasible  in  the  current 204 design, due to limitations in the number of trials and participants. This remains a topic for 205 future  research.  Finally,  because  of  the  recruitment  method  and  limited  number  of 206 participants,  our  results  cannot  be  used  to  estimate  misophonia  prevenance  in  the 207 general population. 208
+
+The  current  results  reflect  how  even  milder  misophonic  cases  can  experience 209 emotional disturbances related to 'triggers' in their normal daily life. There are practical 210 implications to these findings, as for sufferers from misophonia the relatively unknown 211 and ill-understood status of the condition impedes explaining misophonia to others, or 212 even understanding their misophonic responses themselves 1,3,5,7 .    Adding pupillometry 213 as an objective misophonia measurement tool can improve this situation. Pupil dilation 214 can clearly display the physical response of the sufferers to the triggers. Such objective 215 validation can bring relief to sufferers and improve understanding from their environment. 216 Furthermore, the current lack of objective diagnostic tools hinders rigorous assessment 217 of the efficacy of different treatment approaches of misophonia 6,8 . Our findings suggest 218 that pupillometry can help assess strategies and evaluate new treatments and thus help 219 build effective treatments for this debilitating condition. 220
+
+221
+
+222
+
+223
+
+224
+
+225
+
+226
+
+227
+
+228
+
+229
+
+230
+
+231
+
+232
+
+233
+
+234
+
+235
+
+236
+
+237
+
+238
+
+239
+
+240
+
+241
+
+242
+
+243
+
+244
+
+245
+
+246
+
+247
+
+248
+
+249
+
+250
+
+251
+
+252
+
+253
+
+254
+
+255
+
+256
+
+257
+
+258
+
+259
+
+260
+
+## M ETHODS
+
+## Participants
+
+Thirty-five healthy participants (28 females; 18-52 y) participated in the experiment. All participants had normal or corrected-to-normal hearing and vision. Participants gave written informed consent and were remunerated by the hour or received credit points. The experiment was approved by the ethics committee of the Department of Psychology at the University of Amsterdam. Five participants were excluded due to technical issues.
+
+## Procedure
+
+The experiment lasted for 1.5 hours and consisted of the following parts (explained in detail below): (i) misophonia protocol (block 1), (ii) breathwork/distraction intervention, (iii) misophonia  protocol  (block  2),  (iv)  frisson  protocol  (two  blocks),  and  (v)  postexperiment  questionnaires.  We  collected  eye  and  heart  rate  data  during  all  sound presentations (steps i, iii and iv).
+
+## Misophonia protocol
+
+See main text. Additionally: all participants were asked to sit in a dimly lit room and to rest their head on a chin rest, which was placed at 50cm distance in front of the screen. Each trial consisted of a sound interval, a rating interval and an inter-trial interval. The sound  interval  showed  a  blank  grey  screen  and  a  fixation  square,  and  a  sound  was presented  (duration,  10-20  s;  loudness,  30-70  dB).  In  the  rating  interval,  the  fixation square rotated 45¡ (into a diamond) and participants were prompted to rate how aversive the sound was, on a scale from 1 to 4, with a left-handed button press on the keyboard in front of them: 'G' for neutral, 'H' for mild dislike, 'J' for disgust or anger', and 'space bar' for full misophonic reaction. Participants had received instructions on using the sound rating scale (including an explanation of what entails 'full misophonic reaction') prior to starting  the  experiment.  The  trial  ended  with  an  inter-trial  interval  (2-3  s,  uniformly distributed).  Visual  stimuli  were  displayed  on  a  gamma-corrected  monitor  (spatial resolution of 2560 by 1440 pixels) with a vertical refresh rate of 100 Hz, and sound stimuli were presented using IMG Stageline MD-5000DR headphones.
+
+The generally unpleasant sounds were chosen based on refs. 1,41 :  baby crying, bicycle breaks, clarinet squeaks, construction drilling, dog barking, fire alarm, glass on metal, modem dialup, nails on a chalkboard, and Styrofoam squeak. Misophonia trigger sounds  were  chosen  based  on  ref. 1 : apple  eating,  chip  bag  crinkling  and  eating (Cheetos), chip eating, clearing throat, dog eating, gum chewing, keyboard typing, pen clicking, runny nose, and slurping. Participants rated how aversive the sound was on a four-point  scale.  All  sounds  were  acquired  copyright  free  from  https://freesound.org/, except for the clarinet squeak which was recorded by K. Schwarz (one of the authors).
+
+261
+
+## Breathwork/distraction intervention 262
+
+Participants  were  randomly  allocated  into  one  of  two  experimental  conditions: 263 breathwork or distraction. Each  intervention lasted 30 minutes. The  breathwork 264 interventions did not affect any of the reported pupillometry results ( Figure S2B ). 265
+
+266
+
+267
+
+268
+
+269
+
+270
+
+271
+
+272
+
+273
+
+274
+
+275
+
+276
+
+277
+
+278
+
+279
+
+280
+
+281
+
+282
+
+283
+
+284
+
+285
+
+286
+
+287
+
+288
+
+289
+
+290
+
+291
+
+292
+
+293
+
+294
+
+295
+
+296
+
+297
+
+298
+
+299
+
+300
+
+301
+
+302
+
+303
+
+304
+
+305
+
+306
+
+307
+
+308
+
+309
+
+The breathwork intervention was scripted and recorded by L. Alonso-Marmelstein (a certified breath coach and registered yoga teacher) and included multiple breathing techniques  used  in  previous  studies 42 .  The  specific  breathing  techniques  were  belly breathing, 4:4 breathing, 4:4:4:4 box breathing and 4:7:8 breathing. Each technique is presented  for  an  average  of  7.5  minutes.  Participants  were  allowed  to  sit  on  a  chair, cushion or lay down on a yoga mat for the duration of the intervention. We played the training video on a laptop that they could appropriately position.
+
+The distraction intervention consisted of continuously playing the game 'Snake' from Google.com. The participant used the arrow keys to move a digital snake around the board and the objective was to not crash into one's own tail, which kept growing. They were encouraged to beat the highest score set by other participants.
+
+## Frisson protocol
+
+Participants were asked to provide a song they felt gave them chills, tingles down the  spine,  welling  in  the  chest,  or  provided  strong  physiological  sensations  during listening. To control for effects of length, loudness, and musical features, the second song was the previous participant's chosen song 33 . Participants were asked to report the start (z button) and end (m button) of any physical feeling while listening. Frisson data were collected after the experimental conditions reported in this manuscript, and thus do not relate to current results. Frisson data will be the focus of another report.
+
+## Post-experiment questionnaires
+
+Participants filled out the Body Consciousness Scale to measure the degree to which  people  view  their  bodies  as  an  object  that  can  be  changed  after  internalizing societal expectations, the Amsterdam  Misophonia  Scale  to  measure  misophonia severity , and the STAI-S questionnaire to measure current state of mood. 3
+
+## Eye data acquisition
+
+Eye  data  were  obtained  with  Eyelink  1000  devices  (SR  Research,  Osgoode, Ontario, Canada) at 1000 Hz with an average spatial resolution of 15 to 30 min arc. See Extended Methods for more information about analyses and statistical comparisons.
+
+## Heart rate acquisition
+
+Heart  rate  and  heart  rate  variability  were  measured  with  an  Electrocardiogram (ECG) device. Three electrodes are placed on the participant's body: one on either side of their chest, and one on the lower left torso. Heart rate data will be the focus of another report.
+
+## Analysis of pupil responses
+
+## Preprocessing
+
+Periods of blinks and saccades were detected using the manufacturer's standard algorithms  with  default  settings.  The  remaining  data  analyses  were  performed  using custom-made Python software. We applied to each pupil recording (i) linear interpolation of values measured just before and after each identified blink (interpolation time window,
+
+from  150  ms  before  until  150  ms  after  blink),  (ii)  band-pass  filtering  (third-order 310 Butterworth,  passband:  0.01-6  Hz),  (iii)  removal  of  pupil  responses  to  blinks  and  to 311 saccades,  by  first  estimating  these  responses  by  means  of  deconvolution  and  then 312 removing them from the pupil time series by means of multiple linear regression 43 , and 313 (iv) conversion to units of modulation (percent signal change) around the mean of the 314 pupil time series from each block. 315
+
+316
+
+317
+
+318
+
+319
+
+320
+
+321
+
+322
+
+323
+
+324
+
+325
+
+326
+
+327
+
+328
+
+329
+
+330
+
+331
+
+332
+
+333
+
+334
+
+335
+
+336
+
+337
+
+338
+
+339
+
+340
+
+341
+
+342
+
+## Quantification of task-evoked pupil responses
+
+We computed task-evoked pupil response measures for each trial as the mean of the pupil diameter modulation values in the window 1 s to 3 s from sound onset, minus the mean pupil size during the 0.5 s before sound onset. We additionally removed (via linear  regression)  sound-to-sound  variation  in  the  pupil  response  amplitude  that  was related to the pre-sound baseline pupil size (through reversion to the mean 44 ).
+
+## Statistical comparisons
+
+We used a mixed linear regression model to quantify the dependence of pupil response  magnitude  on  aversiveness  rating  (values  1-4)  and  sound  category  (0, unpleasant; 1, trigger). The fixed effects were specified as:
+
+<!-- formula-not-decoded -->
+
+with 𝑃 as trial-wise pupil response magnitudes, 𝑅 as the sound-wise aversiveness ratings, 𝐶 as  sound-wise  sound  category  and 𝛽 as  the  regression  coefficients.  We included the maximal random effects structure justified by the design 45 , which meant that intercepts and rating and category coefficients could vary with participant.
+
+We quantified across-participant correlations using Pearson's correlation coefficient.
+
+## D ATA , M ATERIALS AND S OFTWARE AVAILABILITY
+
+Data and analysis scripts will be made publicly available upon publication.
+
+## A CKNOWLEDGEMENTS
+
+We are grateful to all participants. We thank E.H.F de Haan and K.R. Ridderinkhof for their insightful comments which improved the manuscript.
+
+343
+
+Author contributions: Conceptualization, JWdG, RR; Investigation, LOM, KSR; Formal 344 analysis, JWdG; Writing-original draft, JWdG, RR; Writing-review and editing, JWdG, 345 LOM, KSR, RR; Supervision, JWdG, RR. 346
+
+347
+
+Competing interests: The authors declare no competing interests. 348
+
+349
+
+| 350     | R EFERENCES                                                                                                                                                                                                                           |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 351     | 1. Edelstein, M., Brang, D., Rouw, R. & Ramachandran, V. S. Misophonia: physiological investigations and case                                                                                                                         |
+| 352     | descriptions. Front. Hum. Neurosci. 7 , (2013).                                                                                                                                                                                       |
+| 353     | 2. Jastreboff, P. J. & Jastreboff, M. M. The neurophysiological approach to misophonia: Theory and treatment. Front.                                                                                                                  |
+| 354     | Neurosci. 17 , (2023).                                                                                                                                                                                                                |
+| 355     | 3. Schröder, A., Vulink, N. & Denys, D. Misophonia: Diagnostic Criteria for a New Psychiatric Disorder. PLOS ONE                                                                                                                      |
+| 356     | 8 , e54706 (2013).                                                                                                                                                                                                                    |
+| 357     | 4. Kumar, S. et al. The Brain Basis for Misophonia. Curr Biol 27 , 527-533 (2017).                                                                                                                                                    |
+| 358     | 5. Jager, I., Koning, P. de, Bost, T., Denys, D. & Vulink, N. Misophonia: Phenomenology, comorbidity and                                                                                                                              |
+| 359     | demographics in a large sample. PLOS ONE 15 , e0231390 (2020).                                                                                                                                                                        |
+| 360     | 6. Paunovic, K. Ž . & Milenkovi ć , S. M. The Proposed Criteria for High                                                                                                                                                              |
+| 361     | Perceived Misophonia in Young Healthy Adults and the Association Between Misophonia Symptoms and Noise Sensitivity. Noise and Health 24 , 40 (2022).                                                                                  |
+| 362     | 7. Rouw, R. & Erfanian, M. A Large-Scale Study of Misophonia. Journal of Clinical Psychology 74 , 453-479 (2018).                                                                                                                     |
+| 363     | 8. Swedo, S. E. et al. Consensus Definition of Misophonia: A Delphi Study. Front. Neurosci. 16 , (2022).                                                                                                                              |
+| 364     | 9. Schröder, A. et al. Misophonia is associated with altered brain activity in the auditory cortex and salience network.                                                                                                              |
+| 365     | Sci Rep 9 , 7542 (2019).                                                                                                                                                                                                              |
+| 366     | 10.Siepsiak, M., Rosenthal, M. Z., Raj-Koziak, D. & Dragan, W. Psychiatric and audiologic features of misophonia:                                                                                                                     |
+| 367     | Use of a clinical control group with auditory over-responsivity. J Psychosom Res 156 , 110777 (2022).                                                                                                                                 |
+| 368     | 11.Rinaldi, L. J. & Simner, J. Mental Health Difficulties in Children who Develop Misophonia: An Examination of                                                                                                                       |
+| 369     | ADHD, Depression & Anxiety. Child Psychiatry Hum Dev (2023) doi:10.1007/s10578-023-01569-y.                                                                                                                                           |
+| 370     | 12.Hansen, J. Y. et al. Mapping neurotransmitter systems to the structural and functional organization of the human                                                                                                                   |
+| 371     | neocortex. Nat Neurosci 25 , 1569-1581 (2022).                                                                                                                                                                                        |
+| 372     | 13.Hansen, H. A., Leber, A. B. & Saygin, Z. M. The effect of misophonia on cognitive and social judgments. PLoS                                                                                                                       |
+| 373     | One 19 , e0299698 (2024).                                                                                                                                                                                                             |
+| 374     | 14.Guetta, R. E., Siepsiak, M., Shan, Y., Frazer-Abel, E. & Rosenthal, M. Z. Misophonia is related to stress but not                                                                                                                  |
+| 375     | directly with traumatic stress. PLoS One 19 , e0296218 (2024).                                                                                                                                                                        |
+| 376     | 15.Guetta, R. E., Cassiello-Robbins, C., Trumbull, J., Anand, D. & Rosenthal, M. Z. Examining emotional functioning                                                                                                                   |
+| 377     | in misophonia: The role of affective instability and difficulties with emotion regulation. PLoS One 17 , e0263230                                                                                                                     |
+| 378     | (2022).                                                                                                                                                                                                                               |
+| 379     | 16.Kılıç, C., Öz, G., Avano ğ lu, K. B. & Aksoy, S. The prevalence and characteristics of misophonia in Ankara, Turkey: population-based study. BJPsych Open 7 , e144 (2021).                                                         |
+| 380     |                                                                                                                                                                                                                                       |
+| 381     | 17.Vitoratou, S. et al. Misophonia in the UK: Prevalence and norms from the S-Five in a UK representative sample. PLOS ONE 18 , e0282777 (2023).                                                                                      |
+| 382 383 | 18.Sujeeth, P. R., Hanji, R., Nayyar, K. & Prabhu, P. Estimation of Prevalence of Misophonia Among High School                                                                                                                        |
+| 384     | Students in India. Indian J Otolaryngol Head Neck Surg 76 , 1678-1681 (2024).                                                                                                                                                         |
+| 385     | 19.Zhou, X., Wu, M. S. & Storch, E. A. Misophonia symptoms among Chinese university students: Incidence,                                                                                                                              |
+| 386     | associated impairment, and clinical correlates. Journal of Obsessive-Compulsive and Related Disorders 14 , 7-12 (2017).                                                                                                               |
+| 387     | 20.Dixon, L. J., Schadegg, M. J., Clark, H. L., Sevier, C. J. & Witcraft, S. M. Prevalence, phenomenology, and impact                                                                                                                 |
+| 388     | and Clinical Science 133 , 403-412 (2024). of                                                                                                                                                                                         |
+| 389 390 | of misophonia in a nationally representative sample of U.S. adults. Journal of Psychopathology                                                                                                                                        |
+| 391     | 21.Williams, Z. J., Cascio, C. J. & Woynaroski, T. G. Psychometric validation of a brief self-report measure impairment: The duke-vanderbilt misophonia screening questionnaire.                                                      |
+| 392     | misophonia symptoms and functional Front.                                                                                                                                                                                             |
+| 393     | Psychol. 13 , (2022).                                                                                                                                                                                                                 |
+| 394     | 22.Jakubovski, E., Müller, A., Kley, H., de Zwaan, M. & Müller-Vahl, K. Prevalence and clinical of misophonia symptoms in the general population of Germany. Front. Psychiatry 13 ,                                                   |
+| 395     | correlates (2022).                                                                                                                                                                                                                    |
+| 396     | 23.Guetta, R. E., Cassiello-Robbins, C., Anand, D. & Rosenthal, M. Z. Development and psychometric exploration                                                                                                                        |
+|         | of a semi-structured clinical interview for Misophonia. Personality and Individual Differences 187 , 111416 (2022). Scale                                                                                                             |
+| 397 398 | 24.Simner, J., Rinaldi, L. J. & Ward, J. An Automated Online Measure for Misophonia: The Sussex Misophonia                                                                                                                            |
+| 399     | for Adults. Assessment 10731911241234104 (2024) doi:10.1177/10731911241234104.                                                                                                                                                        |
+| 400 401 | 25.Trumbull, J., Lanier, N., McMahon, K., Guetta, R. & Rosenthal, M. Z. Using a standardized sound set to help characterize misophonia: The International Affective Digitized Sounds. PLoS One 19 , e0301105 (2024).                  |
+| 402     | 26.de Gee, J. W. et al. Dynamic modulation of decision biases by brainstem arousal systems. eLife 6 , 309 (2017). 27.Murphy, P. R., O'Connell, R. G., O'Sullivan, M., Robertson, I. H. & Balsters, J. H. Pupil diameter covaries with |
+| 403     | BOLD activity in human locus coeruleus. Human brain mapping 35 , 4140-4154 (2014).                                                                                                                                                    |
+| 404     | 28.Lloyd, B., de Voogd, L. D., Mäki-Marttunen, V. & Nieuwenhuis, S. Pupil size reflects activation of                                                                                                                                 |
+| 405     | subcortical                                                                                                                                                                                                                           |
+| 406     | ascending arousal system nuclei during rest. Elife 12 , e84822 (2023).                                                                                                                                                                |
+
+| 407 408         | 29.Bradley, M. M., Miccoli, L., Escrig, M. A. & Lang, P. J. The pupil as a measure of emotional arousal and autonomic activation. Psychophysiology 45 , 602-607 (2008).                                                                                                                    |     |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 409 410         | 30.Joshi, S. & Gold, J. I. Pupil Size as a Window on Neural Substrates of Cognition. Trends in Cognitive Sciences (2020) doi:10.1016/j.tics.2020.03.005.                                                                                                                                   |     |
+| 411 412         | 31.de Gee, J. W., Knapen, T. & Donner, T. H. Decision-related pupil dilation reflects upcoming choice and individual bias. Proceedings of the National Academy of Sciences of the United States of America 111 , E618-25 (2014).                                                           |     |
+| 413 414 415     | 32.de Gee, J. W., Correa, C. M. C., Weaver, M., Donner, T. H. & van Gaal, S. Pupil Dilation and the Slow Wave ERP Reflect Surprise about Choice Outcome Resulting from Intrinsic Variability in Decision Confidence. Cereb Cortex 31 , 3565-3578 (2021).                                   |     |
+| 416 417         | 33.Laeng, B., Eidet, L. M., Sulutvedt, U. & Panksepp, J. Music chills: The eye pupil as a mirror to music's soul. Consciousness and Cognition 44 , 161-178 (2016).                                                                                                                         |     |
+| 418             | 34.Valtakari, N. V., Hooge, I. T. C., Benjamins, J. S. & Keizer, A. An eye-tracking approach to Autonomous sensory meridian response (ASMR): The physiology and nature of tingles in relation to the pupil. PLOS ONE 14 ,                                                                  |     |
+| 419 420 421     | e0226692 (2019).                                                                                                                                                                                                                                                                           |     |
+| 422 423         | 35.Grossini, E. et al. Misophonia: Analysis of the neuroanatomic patterns at the basis of psychiatric symptoms and changes of the orthosympathetic/ parasympathetic balance. Front Neurosci 16 , 827998 (2022).                                                                            |     |
+| 424 425 426     | 36.Tursky, B., Shapiro, D., Crider, A. & Kahneman, D. Pupillary, heart rate, and skin resistance changes during a mental task. J Exp Psychol 79 , 164-167 (1969). 37.Stiegler, L. N. & Davis, R. Understanding Sound Sensitivity in Individuals with Autism Spectrum Disorders. Focus      |     |
+| 427             | Autism Other Dev Disabl 25 , 67-75 (2010). 38.Greenberg, B. & Carlos, M. Psychometric Properties and Factor Structure of a New Scale to Measure Hyperacusis: Introducing the Inventory of Hyperacusis Symptoms. Ear and Hearing 39 , 1025 (2018).                                          |     |
+| 428 429         | 39.Jüris, L., Andersson, G., Larsen, H. C. & Ekselius, L. Psychiatric comorbidity and personality traits in patients with                                                                                                                                                                  |     |
+| 430 431         | hyperacusis. International Journal of Audiology 52 , 230-235 (2013). 40.Smith, S. S., Jahn, K. N., Sugai, J. A., Hancock, K. E. & Polley, D. B. The human pupil and face encode sound affect and provide objective signatures of tinnitus and auditory hypersensitivity disorders. bioRxiv |     |
+| 432 433 434     | 2023.12.22.571929 (2024) doi:10.1101/2023.12.22.571929. 41.Kumar, S., Forster, H. M., Bailey, P. & Griffiths, T. D. Mapping unpleasantness of sounds to their auditory representation. J Acoust Soc Am 124 , 3810-3817 (2008).                                                             |     |
+| 435 436 437 438 | 42.Hopper, S. I., Murray, S. L., Ferrara, L. R. & Singleton, J. K. Effectiveness of diaphragmatic breathing for reducing physiological and psychological stress in adults: a quantitative systematic review. JBI Evidence Synthesis 17 , 1855 (2019).                                      |     |
+| 439 440 441     | 43.Knapen, T. et al. Cognitive and Ocular Factors Jointly Determine Pupil Responses under Equiluminance. PLOS ONE 11 , e0155574 (2016). 44.Mridha, Z. et al. Graded recruitment of pupil-linked neuromodulation by parametric stimulation of the vagus                                     |     |
+|                 | nerve. Nat Commun 12 , 1539 (2021).                                                                                                                                                                                                                                                        |     |
+|                 | 45.Barr, D. J., Levy, R., Scheepers, C. & Tily, H. J. Random effects structure for confirmatory hypothesis                                                                                                                                                                                 |     |
+| 444             |                                                                                                                                                                                                                                                                                            |     |
+| 445             |                                                                                                                                                                                                                                                                                            |     |
+|                 | Keep it maximal. Journal of memory and language 68 , 255-278 (2013).                                                                                                                                                                                                                       |     |
+|                 | testing:                                                                                                                                                                                                                                                                                   |     |
+|                 | 443                                                                                                                                                                                                                                                                                        |     |
+|                 |                                                                                                                                                                                                                                                                                            | 442 |
+
+448
+
+449
+
+450
+
+## S UPPLEMENTARY FIGURES  SEPARATE ( )
+
+Figure S1. Spectrograms of all sounds.
+
+460
+
+461
+
+462
+
+463
+
+464
+
+465
+
+466
+
+Figure S2. (A) Pupil  response time courses separately for subjective rating (of physical and emotional discomfort on a 4-point scale; collapsed across sound category), time-locked to sound onset. Grey shading, interval  used  for  quantifying  task-evoked  pupil  responses  (Methods). (B) Difference  in  pupil  response magnitude (trigger vs unpleasant sounds), separately per experimental manipulation (distraction versus breathwork) and block number. All panels: shading or error bars, S.E.M across participants (N=30).
+
+Individual mean difference in pupil response magnitude (trigger vs unpleasant sounds)
+
+Figure S3. (A)
+
+plotted against individual mean difference in subjective rating (trigger vs unpleasant sounds).
+
+(B)
+
+Amsterdam Misophonia Scale score plotted against individual mean difference in pupil response magnitude (trigger vs unpleasant sounds). All panels: data points are individual participants; stats,
+
+Pearson's correlation coefficient.

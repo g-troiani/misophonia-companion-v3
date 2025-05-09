@@ -1,0 +1,1093 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Journalofaffectivedisorders.
+ArticleTitle: Evaluating traumatic eventscoringschemasfortheirpredictive valuetoconcurrent
+diagnostic profiles:TexasChildhood TraumaResearch Network
+ArticleAuthor: Aksan
+Vol:345Date:2024-01-01Pages:94-102
+OCLC-38911953; ISSN-01650327; LCN-2004233074;
+Publisher: 2024-01-01
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Journal of Affective Disorders 345 (2024) 94–102
+Available online 16 October 2023
+0165-0327/© 2023 Elsevier B.V. All rights reserved.Research paper 
+Evaluating traumatic event scoring schemas for their predictive value to 
+concurrent diagnostic profiles: Texas Childhood Trauma Research Network 
+Nazan Aksana,*, Andrew G. Guzickb, Leslie Taylorc, Robyn Richmondd, Israel Liberzone, 
+Jeremyra Crossf, Cynthia Garzag, Justin Rousseaua,h, Jeffrey D. Shahidullahi, 
+Shaunna L. Clarke, Paul J. Rathouza, Cody G. Doddj, Josh Cisleri, D. Jeffrey Newporti, 
+Karen D. Wagnerj, Charles B. Nemeroffi 
+aDept of Population Health, Dell Medical School, University of Texas at Austin, United States of America 
+bDept of Psychiatry, Baylor College of Medicine, University of Pennsylvania, United States of America 
+cDept of Psychiatry & Behavioral Sciences, University of Texas Health Science Center, Houston, United States of America 
+dDept of Surgery, Texas Tech University Lubbock, United States of America 
+eDept of Psychiatry, Texas A&M University, United States of America 
+fDept of Psychiatry, University of Texas Health Science Center, San Antonio, United States of America 
+gAdult Primary Care University of Texas Health Science Center Rio Grande Valley, United States of America 
+hDept of Neurology, Dell Medical School, University of Texas at Austin, United States of America 
+iDept of Psychiatry, Dell Medical School, University of Texas at Austin, United States of America 
+jDept of Psychiatry & Behavioral Sciences, University of Texas Medical Branch, United States of America   
+ARTICLE INFO  
+Keywords: 
+Childhood trauma 
+Trauma burden scores 
+Depression 
+PTSD 
+Suicidality 
+Comorbidities ABSTRACT  
+Background: To prospectively chart pathways of risk and resiliency following childhood trauma studies need to 
+address three limitations of prior work: 1) recruit beyond social service/ treatment settings; 2) include broad 
+spectrum of trauma types and 3) cast a broad longitudinal measurement framework of both clinical diagnoses 
+and traumatic exposures. The Texas-Childhood Trauma Research Network (TX-CTRN) is a multi-site collabora -
+tion that addresses these limitations. In this baseline-only report, we examined domains of trauma and evaluated 
+the concurrent predictive validity of various traumatic event scoring schemas for clinical diagnoses. 
+Methods: Broad-base recruitment of 8–20 year-olds (N 1289) included trauma centers, emergency departments, 
+pediatric and primary care clinics, and other community settings. Assessments were comprehensive and based on 
+clinical interviews by trained research interviewers. 
+Results: Factor analyses supported a five-factor solution of trauma domains including unintentional/acute, 
+intentional/interpersonal, bullying, in-home versus community witnessed interpersonal harms. Trauma burden 
+scoring schemas were examined for their predictive superiority. Domain-specific counts of traumas that met 
+DSM-5 post-traumatic-stress disorder (PTSD) Criterion-A was the best overall schema in distinguishing among 
+youth with no diagnosis, comorbidities, those with depression, suicidality, substance misuse, and PTSD. 
+Limitations: There were no assessments of neglect. 
+Conclusions: Findings largely aligned with earlier studies on the relative importance of intentional interpersonal 
+traumas and showed bullying may be an important source of traumatic stress that independently adds to pre-
+diction of several diagnoses and should be considered in clinical practice.   
+1.Introduction 
+Adverse childhood experiences (ACEs) including traumas are asso-
+ciated with chronic medical conditions, mental illness, and substance 
+misuse (Bellis et al., 2019 ; Hughes et al., 2017 ). The prevalence of two or more ACEs is estimated to be 35 % in North America with 30 to 40 % of 
+anxiety and depression cases attributable to ACEs based on the same 
+meta-analytic study (Bellis et al., 2019 ). However, the studies informing 
+these estimates are retrospective in nature and narrow in scope, often 
+neglecting highly prevalent childhood traumas such as traumatic loss, 
+*Corresponding author at: Dept of Population Health, 1601 Trinity Street, Austin, TX 78712, United States of America. 
+E-mail address: nazan.aksan@austin.utexas.edu (N. Aksan).  
+Contents lists available at ScienceDirect 
+Journal of Affective Disorders 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow�o�t o~1m{y2w{mk�o 2ukn!
+https://doi.org/10.1016/j.jad.2023.10.092 
+Received 20 June 2023; Received in revised form 10 October 2023; Accepted 13 October 2023
+
+Journal of Affective Disorders 345 (2024) 94–102
+95community violence, and natural disasters. Prospective, comprehensive 
+studies of childhood trauma are needed to understand the pathways of 
+adjustment after exposure to better delineate risk for and resiliency 
+against psychopathology. 
+Among the central issues in understanding the impact of trauma in 
+pediatric populations is relying on a measurement framework that as-
+sesses clinical outcomes broadly rather than narrowly. Studies that have 
+prospectively examined trauma-affected youth have adopted a limited 
+outcome measurement framework. Typically, clinical evaluation is 
+limited to symptoms of depression, post-traumatic stress disorder 
+(PTSD) (e.g., Kennedy et al., 2009, 2010), ratings of broad spectrum 
+externalizing and internalizing symptoms (e.g., Briggs et al., 2021; Kisiel 
+et al., 2014; Hogdon et al., 2019). This is informative but not a substitute 
+for standard clinical interviews that can evaluate whether criteria are 
+met for a broad array of diagnoses beyond those most commonly seen 
+following trauma. 
+Another central issue in understanding the impact of childhood 
+trauma concerns how best to summarize responses from trauma expo-
+sure checklists to facilitate an understanding of the clinical sequelae. 
+Rasmussen et al. (2020) noted a simple count of event types from trauma 
+screening checklists captures variety rather than actual count of trau-
+matic events. Although event count and variety counts are intercorre -
+lated, variety-based scores appear to show stronger associations with 
+symptoms of PTSD. Reliance on cumulative trauma scores is common (e. 
+g., Alisic et al., 2014) but this approach has garnered criticism because it 
+assumes each traumatic experience contributes similarly to outcomes. 
+Cumulative trauma counts can obscure identification and delineation of 
+emotional and behavioral concerns specific to certain types of trauma 
+(Briggs et al., 2021; Kulkarni et al., 2011; Putnam et al., 2020). Simi-
+larly, complex trauma presentations demonstrate the unique sympto -
+mology tied to chronic trauma and/or multiple trauma exposures rather 
+than certain types of traumas (Maercker et al., 2022). 
+Studies examining domains of trauma have shown factor analytic 
+support for distinctions among trauma events. For example, the initial 
+ACEs proposal for distinguishing household dysfunction (e.g., parental 
+mental illness) and maltreatment (e.g., abuse) factors (Felitti et al., 
+1998; Negriff, 2020) were supported by follow-up psychometric studies 
+(Afifi et al., 2020; Mersky et al., 2016). Others have supported correlated 
+but distinct physical and sexual abuse factors (Ford et al., 2014) or that 
+parental loss/separation emerges as a distinct factor (Green et al., 2010; 
+Mersky et al., 2016). Samples drawn from treatment-seeking youth in 
+social service settings, the National Child Traumatic Stress Network 
+(NCTSN) core data, have pointed to five domains: 1) maltreatment 
+(neglect, emotional abuse, impaired caregiver, domestic violence, 
+physical abuse), 2) acute trauma (injury, illness, traumatic loss/sepa -
+ration, natural disaster), 3) community trauma (war/political violence 
+in the U.S., school violence, community violence), 4) assault (sexual 
+assault/rape, sexual abuse, physical assault), and 5) trauma based in 
+international war contexts (Pynoos et al., 2014). The only other youth 
+sample to our knowledge that examined factor structure in ACEs sup-
+ported the original two factor solution among adolescents (Afifi et al., 
+2020). 
+Studies that capture traumatic burden in different domains have 
+shown differential associations with mental health outcomes. For 
+example, youth exposed to interpersonal traumas (i.e. sexual, physical 
+abuse) had increased odds of major depressive, substance use, PTSD 
+diagnoses and were also more likely to endorse delinquency and asso-
+ciation with delinquent peers compared to youth exposed to accidents/ 
+disasters and community violence (Ford et al., 2010). Several findings 
+from the NCTSN also support complexity in clinical profiles of exposure 
+to interpersonal traumas that include maltreatment, physical, sexual 
+abuse compared to trauma burden in the acute domain or household 
+dysfunction (Dierkhising et al., 2013; Hodgdon et al., 2019; Kisiel et al., 
+2014). For example, interpersonal traumas were associated with PTSD, 
+externalizing, and internalizing symptoms while household dysfunction 
+was associated with externalizing only, acute trauma with internalizing only, and trauma from violence in the community was associated with 
+PTSD and externalizing (Hogdon et al., 2019). These findings suggest 
+domain-specific characterization of trauma may improve specificity in 
+understanding risk and resiliency pathways. 
+1.1. Present study 
+Among the central limitations of the evidence to date is that findings 
+primarily reflect samples that are receiving social services/treatment or 
+are recruited from populations with exposure to specific traumas. 
+Outcome assessments often lack standardized comprehensive screening 
+for clinical diagnoses. Our goal in this study is to report baseline data 
+from the Texas Childhood Trauma Research Network (TX-CTRN) which 
+was designed to address these limitations. TX-CTRN was established in 
+2020 as a multi-site collaboration to develop a state-wide registry of 
+children and youth (8–20 years of age) who have experienced a trau-
+matic lifetime event. Recruitment is broad and includes trauma centers, 
+emergency departments, pediatric and primary care clinics, and other 
+community settings. The goal of the registry is to inform trajectories of 
+mental health and to develop models of risk and resilience after trauma. 
+To that end, standard clinical interviews of the child are conducted at 
+baseline to capture both trauma exposure and clinical diagnoses. As-
+sessments are repeated every 6 months for 2 years to prospectively 
+capture trajectories of both symptoms and additional traumas. 
+Given the overarching goal of TX-CTRN, the study protocol relied on 
+a comprehensive instrument, the Traumatic Event Screening Inventory 
+(TESI-C; Ford et al., 2000) to assess history of witnessed and directly 
+experienced 20 trauma types shown in Table 1. For each trauma item, 
+TESI-C captures simple exposure, exposures that meet DSM-5 Criterion- 
+A, and frequency of exposure to each type of event. Given the clinical 
+sequelae of bullying in youth (Wagner, 2018; Winding et al., 2020), two 
+simple exposure items were added regarding in-person and cyberbul -
+lying (Table 1). 
+Our first aim was to examine how the item-content of TESI-C may be 
+organized with respect to ‘domains’ of trauma relying on confirmatory 
+factor analysis of the frequency ratings of 20 items. We adopted a 
+conceptually agnostic, item-content driven lens to ask the following 
+questions: a) are typically intentional/interpersonal harms (physical, 
+sexual abuse) distinct from typically unintentional harms (accidents, 
+medical trauma, loss); b) are distinctions between witnessing vs directly 
+experiencing harms supported; and c) does the context and manner of 
+intentional/interpersonal harms produce additional distinctions in the 
+latent factor structure? For example, we asked if bullying items and the 
+single sexual abuse item were best thought of as distinct ‘domains’ of 
+intentional/interpersonal traumas from the items that assess threatened 
+or actual physical harms (i.e. item 2.1 through 2.4 in Table 1). We also 
+asked whether witnessing violence in the home versus in the community 
+were distinct. 
+Our second aim was to rely on the domains identified in the factor 
+analytic setting to generate various ‘scoring schemas’ and examine 
+which schemas provided the ‘best’ prediction for concurrent diagnostic 
+profiles from clinical interviews. Scoring schemas included both cu-
+mulative count and domain-specific counts of trauma burden (e.g., 
+intentional/interpersonal harms). We further differentiated scoring 
+schemas by counting only those exposures that met PTSD Criterion-A 
+and counting all endorsed exposures irrespective of Criterion-A. In 
+addition, responses to “who was involved” follow-up query to TESI-C 
+events (e.g., parent/caregiver, other family members) were included 
+as predictors. Higher levels of parental or family involvement in the 
+‘worst’ events across all interpersonal harms would be a marker of risk 
+for persistent trauma whereas higher levels of non-family involvement 
+may lack that persistency across time and context. We evaluated the 
+strength of concurrent prediction in the following three settings: a) 
+which schema distinguishes children without any diagnosis from those 
+who have at least one; b) which schema predicts broad categories of 
+disorders such as PTSD, depressive episodes/ disorders, suicidality N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+96issues, anxiety disorders, externalizing, substance misuse, and serious 
+mental disorders; and c) which schema distinguishes children with a 
+single disorder from those who are comorbid for at least two disorders. 2.Methods 
+2.1. Sample 
+Recruitment for TX-CTRN occurred across 12 academic medical 
+centers in Texas, including University of Texas (UT) Southwestern 
+Medical Center, Baylor College of Medicine, UT-Rio Grande Valley, UT- 
+Health Science Center at Tyler, UT-Health Science Center at Houston, 
+Texas Tech University Health Science Center Lubbock, UT-Austin Dell 
+Medical School, UT-Health Science Center at San Antonio, University of 
+North Texas Health Science Center, Texas A&M Health Science Center, 
+Texas Tech University Health Science Center El Paso, UT-Medical 
+Branch. 
+Inclusion criteria included: 1) youth have a history of trauma expo-
+sure that fulfills DSM-5 Criterion-A for PTSD, and/or have experienced 
+less severe but persistent forms of childhood trauma including bullying; 
+2) between 8 and 20 years of age; 3) able to provide consent for 18–20 
+year-olds, assent for those under 18 with parental consent; 4) able to 
+speak and read English or Spanish; 5) function at a level that allows 
+accurate completion of the assessment instruments; 6) willing to dedi-
+cate appropriate time to complete scheduled study assessments. Exclu -
+sion criteria included either the child or the consenting parent being: a) 
+intoxicated; b) not alert/ oriented/ or coherent/ or medically unstable; 
+c) exhibiting psychotic symptoms; or d) the child had pervasive devel -
+opmental disorder/ moderate intellectual disability. 
+Recruitment and follow-up assessments are ongoing at the time of 
+the current report. For the current report, only the baseline data were 
+extracted. 1289 participants completed the baseline assessments. 
+Because 403 youth were older than 18 years and did not have a 
+participating parent, we do not have information on parental/family 
+income or parental age from this subsample. Among those who partic -
+ipated with a parent, 854 parents indicated a mean age of 43.5 years (SD 
+8.9 years) and the distribution of parental/family income for the 859 
+parents who reported it were as follows: 20.2 % D$25,000, 21.6 % 
+between $25,000 –$49,999, 27.6 % between $50,000 –$99,999, 17 % 
+between $100,000 –$199,999, 7.9 % F$200,000, and 5.6 % indicated 
+they did not know income. The participants were compensated $100 at 
+baseline. 
+2.2. Measures 
+In the current report, we utilized the TESI-C (Ford et al., 2000 ), and 
+two well-established interviews to characterize children's clinical diag-
+nostic profile: MINI International Neuropsychiatric Interview for Chil-
+dren and Adolescents MINI-KID (Sheehan et al., 2010 ) and Clinician- 
+Administered PTSD Scale for DSM-5, Child/Adolescent Version (CAPS- 
+CA-5; Pynoos et al., 2015 ). The MINI-KID is a well-established structured 
+diagnostic interview used to assess the presence of several DSM-child 
+and adolescent psychiatric disorders and risk of suicide. CAPS-CA-5 is 
+a semi-structured interview to measure severity of PTSD symptoms. 
+All three instruments were administered by trained research assis-
+tants. Shahidullah et al. (2023) described the training and certification 
+process for research assistants across the clinical sites. The interrater 
+reliabilities were excellent. Median Kappa for TESI-C items was 0.79, 
+median weighted Kappa for CAPS-CA-5 was 0.71. The major depressive 
+episode and PTSD modules were evaluated for interrater reliability due 
+to their clinical relevance in childhood trauma; the median Kappa was 
+0.71 and 0.91 respectively on the MINI-KID. 
+2.2.1. TESI-C 
+TESI-C is a clinician-administered interview that assesses a child's 
+experience of potential traumatic events, including injuries, hospitali -
+zations, domestic violence, community violence, disasters, accidents, 
+physical and sexual abuse. It is widely used with individuals aged 6–18 
+(e.g., Choi et al., 2019 ). At the baseline visit it is used to identify lifetime 
+traumatic experiences. When the participant did not endorse the type of Table 1 
+Distribution of TESI-C items along axes that may inform trauma domains.  
+Item content Intentional/ 
+Interpersonal 
+vs Unintentional 
+Harms Experienced 
+(E) 
+vs Witnessed 
+(W) 
+1.1 ever BEEN IN a really bad accident (e.g. 
+car, fall, fire) Unintentional Experienced 
+1.2 ever SEEN a really bad accident that you 
+weren't actually in? Unintentional Witnessed 
+1.3 ever been in a really bad storm (e.g. 
+tornado, hurricane, blizzard, flood, 
+earthquake) Unintentional Experienced 
+1.4 known someone who got severely hurt 
+or sick, or even died? Unintentional Witnessed 
+1.5 Have you ever had to stay overnight at 
+the hospital or have an operation? Unintentional Experienced 
+1.6 Have you ever had to go away from your 
+parents or family for a long time? Unintentional Experienced 
+2.1 Has someone ever attacked you or tried 
+to severely hurt you on purpose — (e.g. 
+beating, shaking, biting, burning, 
+choking, knife, gun) Intentional/ 
+interpersonal Experienced 
+2.2 Has someone ever told you they were 
+going to hurt you really badly, or acted 
+like they would hurt you really badly? Intentional/ 
+interpersonal Experienced 
+2.3 Has someone a lot older ever tried to 
+steal from you? Or from a family member 
+or friend when you were right there? Intentional / 
+interpersonal Experienced 
+2.4 ever kidnapped you or taken you away 
+when they weren't supposed to? Intentional / 
+interpersonal Experienced 
+2.5 Have you ever been attacked by a dog or 
+another animal? Unintentional Experienced 
+3.1 Have you ever seen people in your 
+family fighting or attacking each other? Intentional & 
+interpersonal Witnessed 
+3.2 Even if they weren't physically 
+attacking each other, have you ever heard 
+people in your family really yelling and 
+screaming at each other a lot? Intentional & 
+interpersonal Witnessed 
+3.3 Has someone in your family ever been 
+put in jail or prison? Intentional & 
+interpersonal Witnessed 
+4.1 Have you ever seen people outside your 
+home fighting or attacking each other? Intentional & 
+interpersonal Witnessed 
+4.2 Even if they weren't physically 
+attacking each other, have you ever heard 
+people outside your home really yelling 
+and screaming at each other a lot? Intentional & 
+interpersonal Witnessed 
+4.3 Have you seen or heard people 
+attacking each other for real on television, 
+radio, or online? Intentional & 
+interpersonal Witnessed 
+5 Has someone ever touched your body in a 
+way you didn't want them to or in a way 
+that made you uncomfortable? Intentional & 
+interpersonal Experienced  
+Additional Items implemented in CTRN 
+6.1 Have you ever been picked on by 
+someone over and over again? This type 
+of bullying includes someone calling you 
+names, making fun of you, spreading lies 
+or rumors about you, telling other people 
+not to like you, leaving you out of 
+activities, or saying mean things to hurt 
+your feelings. Intentional & 
+interpersonal Experienced 
+6.2 Has someone ever used social media, 
+text messaging, or group chats to bully 
+you? This can include someone spreading 
+rumors about you online, sending you 
+mean messages, pretending to be you 
+online, or posting messages or videos to 
+embarrass you. Intentional & 
+interpersonal Experienced 
+Note. Items 1.1 through 5 are the original items of the TESI-C (Ford et al., 2000 ). N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+97event described, they were assigned a score of ‘0 never ’ on the fre-
+quency rating scale (“How often did this happen to you”) for use in 
+analyses. When the participant endorsed the type of event described, 
+they were asked to think of the worst instance of that type of event and 
+describe details. Descriptions were systematically queried for ‘who was 
+involved ’ (e.g., parent/caregiver, family, non-family) and responses to 
+these follow-up questions were counted across all TESI-C items as 
+parent/caregiver, family members, and non-family members as three 
+separate variables in the predictive analyses of aim-2. 
+2.2.2. Data reduction for clinical/ diagnostic profile 
+Several specific categories within the MINI-KID were combined to 
+form larger clinical/ diagnostic profiles to facilitate robust inference 
+with respect to clinically distinct problems of interest in trauma-exposed 
+populations and reduce type-I error rate. Specifically, PTSD diagnosis 
+from either the CAPS-CA-5 or the MINI-KID were pooled into a binary 
+outcome of PTSD versus not, anxiety disorders from the MINI-KID were 
+pooled into a binary outcome of anxiety-related disorders (i.e., gener -
+alized anxiety, separation anxiety, simple phobia, social phobia, panic 
+disorder, obsessive-compulsive disorder, agoraphobia) versus not, and 
+distinctions among depressive episodes and/or disorders (i.e., major 
+depressive disorder, recurrent, current etc.) were combined into a single 
+category of depressive versus not. Similarly, four additional binary 
+outcomes were formed by combining specific MINI-KID categories 
+relevant to suicidality/ suicide behavior disorder versus not, external -
+izing disorders (i.e., oppositional defiant, conduct disorder, attention- 
+deficit/hyperactivity disorder) versus not, substance misuse (i.e., 
+alcohol and substance use disorders) versus not, and serious mental 
+illness (e.g., various bipolar disorders, manic/hypomanic episodes, and/ 
+or psychotic disorders) versus not. Respondents who did not meet 
+criteria for any of the specific diagnoses were pooled into a binary 
+outcome of no diagnosis versus at least one diagnosis. Finally, we 
+formed a binary comorbid outcome contrasting those with any single 
+disorder with those who met criteria for at least two. In specifying 
+children who had no diagnoses and those who were comorbid, addi-
+tional specific diagnostic categories such as eating disorders, Tic/Tour -
+ette's were also taken into consideration. 
+2.3. Analytic plan 
+Data cleaning and predictive analyses were carried out in STATA 
+version 16.1 (StataCorp, 2019 ) and confirmatory factor analyses were 
+carried out in Mplus 8.8 (Muth ˘en and Muth ˘en, 1998-2017 ). For the first 
+aim, identifying domains of trauma from the frequency ratings for 20 
+event types, we relied on confirmatory factor analytic methods. Because 
+the distribution of the frequency ratings from the TESI-C were generally 
+skewed, robust maximum likelihood was used and comparison of nested 
+models relied on Satorra-Bentler scaling of chi-square. The scales of the 
+latent factors were defined by fixing the respective latent factor vari-
+ances to one, each of the 20 items were only allowed to load on their 
+respective factor in a given model and no residual correlations among 
+the items were permitted. Following Kaplan (2001) , we examined ab-
+solute and relative model fit in the following ways: a) comparing 
+improvement in fit among nested models with chi-square difference 
+tests, b) Root Mean Square Error of Approximation (RMSEA), Compar -
+ative Fit Index (CFI), Information Criteria (Akaike, AIC and Bayesian, 
+BIC), and standardized root mean square error (SRMR). Latent factor 
+correlations exceeding 1 or negative residual error variances were 
+considered indications of a poor model and eliminated from further 
+consideration. The CFA models began with a single-factor model and 
+increased in complexity to address the questions raised in the 
+introduction. 
+Guided by the results of the CFA for domains of trauma, we con-
+structed observed sums that could be readily computed in clinical set-
+tings using binary endorsement of specific items, either simple exposure 
+or DSM-5 PTSD Criterion-A to generate each ‘schema. ’ There were a total of six scoring schemas: 1) Domain-specific counts of individual 
+items where Criterion-A was met; 2) domain specific counts of in-
+dividuals items where simple exposure was endorsed; 3) count of all 
+items where Criterion-A was met; 4) count of all simple exposures 
+endorsed; 5) count of the number of domains where at least one item met 
+Criterion-A and 6) count of the number of domains where at least one 
+simple exposure item was endorsed. A series of logistic regressions then 
+examined the concurrent predictive value of each schema along with the 
+three subtotals for ‘who was involved ’ (parents/caregivers, other family, 
+non-family) for broad diagnostic outcomes. We examined the relative 
+performance of each ‘schema ’ in predicting: a) respondents who had no 
+diagnoses from those who had at least one disorder, b) predicting broad 
+categories of disorders among those who had at least one disorder, and 
+c) comorbidity status among those who had at least one disorder. The 
+criteria for selecting the best ‘schema ’ relied chiefly on information 
+criteria (AIC), as different ‘schemas ’ had varying degrees of freedom. 
+Finally, for the best schema, we examined whether the predictive value 
+of the TESI-C scores were robust to statistical controls for demographic 
+variables with an additional set of logistic regressions. 
+3.Results 
+Table 2 shows distributions for demographic and outcome variables 
+and Table 3 shows the distribution of TESI-C items, and proportion of 
+cases that met Criterion-A. The most commonly endorsed traumas 
+included serious illness, or death of someone close to the child (72 %), 
+being hospitalized (69 %), and experiencing threats of aggression (53 
+%). The most commonly endorsed traumas that met DSM-5 PTSD 
+Criterion-A included hospitalization (47 %), being involved in an acci-
+dent (44 %), and sexual abuse (28 %). 
+3.1. Aim-1: identifying domains of trauma in TESI-C 
+Table 4 presents the model fit statistics for seven models with the 
+structure column indicating the number of latent factors and their labels 
+in each model. A single-factor model would be consistent with the 
+traditional practice of a single count of total cumulative exposures 
+(model M1); two factor model that tested whether the ‘overarching ’ 
+Table 2 
+Descriptive statistics for demographic variables and outcome measures used in 
+the analyses.  
+Variables N (%) Mean SD 
+Demographics 
+Female sex at birtha 745 (58.3)   
+Child Age 1288 15.08 3.44 
+Child's non-white and/or Hispanica 855 (66.9)    
+MINI-KID/CAPS-CA-5 Diagnoses 
+No diagnosisb 252 (20.7)   
+PTSDc 510 (53.3)   
+Anxiety disordersc 629 (65.7)   
+Depressive Disorder/ Episodesc 665 (69.5)   
+Suicidalityc 377 (39.4)   
+Substance misusec 139 (14.5)   
+Externalizing (ADHD, CD, ODD)c 325 (34.0)   
+Serious Mental Illness (SMI)c 189 (19.8)   
+Comorbidc 762 (80.7)   
+Abbrv: ADHD Attention Deficit Hyperactivity Disorder CD Conduct Disor -
+der ODD Oppositional Defiant Disorder SMI Serious Mental Illness PTSD 
+Post-traumatic Stress Disorder. 
+aProportions reflect those who completed baseline assessments (N 1289 
+individuals with 12 who did not report sex and 11 who did not report race/ 
+ethnicity included in the denominator). 
+bProportion reflects those who completed both MINI/ CAPS and baseline 
+assessments, N 1215. 
+cProportions reflect those who completed MINI/CAPS assessments and met 
+criteria for at least one diagnosis (N 957). N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+98distinction between unintentional and intentional/ interpersonal harms 
+improved model fit (model M2); four factor model that tested whether 
+an additional axis of witnessed versus experienced improved model fit 
+(model M3). Because model M3 failed due to latent factor correlations 
+exceeding 1, we also fit a simplified model M4 where the distinction 
+between witnessed versus experienced were only applied to intentional/ 
+interpersonal harm items. As indicated in the introduction, we also 
+tested distinctions within intentional interpersonal experienced harms 
+based on context and manner of harm (models M5, M6, M7). Nested 
+model comparisons relied on Satorra-Bentler scaling of chi-square which 
+are shown with reference to model numbers and the associated p-value. 
+The best fitting model, M6, was consistent with a domain structure 
+where intentional harms differed by both the manner and the context of 
+harm. For example, witnessed intentional harms differed depending on the context: inside the home versus not. Among experienced intentional 
+harms, bullying was distinct from other harms that included sexual 
+abuse, physical assault/ attacks/ mugging/ kidnapping, and verbal 
+threat of physical harms. We did not have sufficient evidence to support 
+the distinctiveness of sexual abuse from other intentional experienced 
+physical harms, and hence we accepted the five-factor model as the best 
+and parsimonious option. The final retained factors included: 1) inten -
+tional experienced harms (e.g., sexual and physical abuse), 2) bullying, 
+3) intentional harms witnessed outside the home (e.g., witnessing 
+community violence), 4) intentional harms witnessed inside the home 
+(e.g., witnessing domestic violence), and 5) unintentional harms (e.g., 
+accidents, illness). In all models, two items, being involved in an acci-
+dent and being hospitalized, did not load significantly to the uninten -
+tional harm latent factor. (TableS1). 
+3.2. Aim-2: evaluating concurrent predictive value of TESI-C scoring 
+schemas 
+Guided by the results of the CFA, we constructed observed summary 
+scores for six ‘scoring schemas. ’ These were: 1) Domain-specific counts 
+of individual items where PTSD Criterion-A was met; 2) domain specific 
+counts of individuals items where simple exposure was endorsed; 3) 
+count of all items where Criterion-A was met; 4) count of all simple 
+exposures endorsed; 5) count of domains within which at least one item 
+met Criterion-A and 6) count of domains within which at least one 
+simple exposure item was endorsed. The first part of Table 5 shows the 
+univariate sample statistics for these summary scores. The maximum 
+Spearman-rank correlation among the domain-specific ‘scoring schema ’ 
+variables was 0.41 with Criterion-A totals and 0.46 with simple exposure 
+totals which support specificity among trauma domains. The second half 
+of Table 5 addresses the second aim: which scoring schema provides the 
+‘best ’ concurrent predictive value for particular diagnostic profiles with 
+a series of logistic regressions. In addition to AIC, Table 4 also reports the 
+proportion of TESI-C predictors that significantly contributed to pre-
+diction. Scoring schemas with the lowest AIC for the given outcome are 
+bolded. (See TableS2 for full results). 
+Results show that in distinguishing respondents who had no di-
+agnoses at baseline from those with at least one diagnosis, scoring 
+schema#1 has the lowest AIC. In addition, for scoring schema#1, three 
+out of five PTSD Criterion-A trauma domain predictors were significant 
+and one out of 3 predictors on ‘who was involved ’ were significant. 
+Scoring schema#1 also had the lowest AIC for five out of eight di-
+agnoses: PTSD, depression, suicidality, substance misuse, and comor -
+bidity. Importantly, for outcomes where the scoring schema associated 
+with the lowest AIC were different than schema#1 (i.e., schema #2 
+through #6), two things were noteworthy. First the TESI-C trauma 
+domain predictors were not significant for externalizing and second the 
+difference in the AIC associated with the scoring schema #1 and the 
+lowest AIC for a different scoring schema were small for anxiety (0.10). 
+Only in the case of serious mental illness, schema#2, domain-specific 
+simple exposure count produced a notably smaller AIC. 
+Collectively, these findings supported scoring schema#1, the sum of 
+all items in each trauma domain separately where the incident described 
+by the respondent meets Criterion-A, as the best performing schema 
+among the six evaluated. Table 6 shows the results of the final set of 
+logistic regressions for each of nine outcomes, along with odds ratios 
+while controlling for demographic variables. The findings showed that 
+boys were more likely to have no diagnosis, and less likely to meet 
+criteria for PTSD, other anxiety, depression, suicidality, and more likely 
+to meet criteria for externalizing. Older respondents were less likely to 
+have no diagnosis, more likely to meet criteria for PTSD, depression, and 
+substance use diagnoses, less likely to meet criteria for externalizing, 
+and more likely to have comorbidities. Respondents with minoritized 
+status were more likely to meet criteria for PTSD and less likely to meet 
+criteria for substance misuse. Interpersonal experienced traumas 
+including sexual abuse, interpersonal witnessed traumas at home, Table 3 
+Relative frequency distribution for each TESI-C item and proportion of cases that 
+met DSM5-PTSD- criterion-A.  
+Variables Relative frequency (%)  
+0 
+Never 1 
+Only 
+once 2 A 
+few 
+times 3 
+Many 
+times/ 
+Several 
+times/ 
+mo 4 
+Several 
+times/ 
+wk Crit- 
+A 
+met 
+(%) 
+1.1 Involved in an 
+accident  49.5  41.9  8.35  0.24 n/a 43.97 
+1.2 Seen an 
+accident  64.3  29.07  6.0  0.63 n/a 25.69 
+1.3 Natural 
+disaster  60.0  31.31  9.21  0.47 n/a 19.43 
+1.4 Close other 
+hurt/sick/died  28.06  49.48  20.86  1.60 n/a 50.59 
+1.5 Own 
+hospitalization  30.58  47.17  16.9  5.35 n/a 47.33 
+1.6 Separation 
+from family/ 
+parents  63.3  22.2  10.26  4.25 n/a 15.49 
+2.1 Physical 
+aggression  66.64  12.3  11.28  5.52 4.26 25.47 
+2.2 Threat of 
+physical 
+aggression  69.04  10.82  10.51  5.21 4.42 21.35 
+2.3 Steal/ 
+mugging  91.48  6.94  1.26  0.32 n/a 4.26 
+2.4 Kidnapped  91.69  7.36  0.87  0.08 n/a 5.45 
+2.5 Animal attack  73.53  22.35  3.65  0.48 n/a 14.16 
+3.1 Physical 
+aggression  69.16  9.46  12.48  5.17 3.74 22.4 
+3.2 Threat of 
+aggression  46.94  6.92  21.88  14.0 10.26 20.8 
+3.3 Police officers 
+to family home  55.59  27.72  13.58  3.12 n/a 14.13 
+4.1 Physical 
+aggression 
+outside home  74.6  10.19  11.23  3.11 0.88 13.78 
+4.2 Threat of 
+aggression 
+outside home  76.83  9.05  8.17  4.37 1.59 5.69 
+4.3 Media (i.e. 
+real footage) of 
+aggression/ 
+violence  59.34  12.34  21.36  4.67 2.29 14.05 
+5. Sexual abuse  68.9  11.43  10.95  4.40 4.32 28.41 
+6.1 Bullying  50.99  3.70  14.34  10.24 20.72 n/a 
+6.2 
+Cyberbullying  81.77  5.37  6.0  3.79 3.08 n/a 
+Abbrv: Mo month wk. week. Crit-A Criterion-A. 
+Note. The label for frequency rating point 3 and 4 varied depending on the item. 
+In rating scales with five points the label of “several times per month ” was 
+applicable for that item (e.g., TESI-C item 2.1). In contrast, in rating scales with 
+four points, the label of “Many times ” was applicable for that item (e.g., TESI-C 
+item 1.6). N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+99bullying, and nonfamily involvement in traumas were associated with 
+lower odds of having no diagnosis. Interpersonal experienced traumas 
+including sexual abuse were associated with greater odds of each diag-
+nostic outcome we examined except substance misuse. Unintentional 
+harms were associated with lower odds of depression. Interpersonal 
+witnessed harms at home were associated with greater odds of PTSD and 
+suicidality. Bullying was associated with greater odds of depression, 
+suicidality, externalizing, serious mental illness, and comorbid status. 
+The follow-up items concerning who was involved in these events pro-
+vided additional predictive power. Parental involvement was associated 
+with lower odds of depression but greater odds of serious mental illness. 
+Nonfamily involvement was associated with greater odds of substance 
+misuse. 
+4.Discussion 
+The findings from this TX-CTRN report were consistent with others 
+from the literature despite fundamental differences in measurement 
+framework, sample characteristics, and analytic methods used. We 
+discuss consistencies with prior works concerning both trauma domains 
+and associations with outcomes and point out novel added value of this 
+report to the evidence base. 
+The specific domains that were supported in this report aligned with 
+notable prior findings despite lack of ‘alignment ’ in item content of 
+traumas from one study to another. For example, principal component 
+analyses from the NCTSN supported an acute trauma dimension that 
+aligned with what we labeled ‘unintentional harms ’ (Pynoos et al., 
+2014 ). Sexual abuse did not separate out in our sample from exposure to 
+other intentional, interpersonal and physically abusive traumas. This is consistent with Putnam et al. (2020) who found sexual abuse to pair up 
+with other intentional interpersonal experienced harms in person- 
+centered analyses of the NCTSN core data. Findings on distinctive as-
+sociations of community and family violence (e.g., Kennedy et al., 2009, 
+2010 ; Kulkarni et al., 2011 ; Hogdon et al., 2019) align with the 
+distinction we observed in intentional witnessed harms in the home 
+versus outside the home. 
+Results showed that adopting a domain-based approach to exposure 
+characterization was superior in concurrent prediction of interview- 
+based clinical profiles. Findings also supported reliance on whether 
+the event met DSM-5 PTSD Criterion-A when generating domain- 
+specific trauma burden scores as opposed to simple endorsement. An 
+important strength of this report relative to prior studies concerned the 
+breadth of the predictive validity we demonstrated for domain-specific 
+trauma burden scores. Most prior works had examined predictions of 
+trauma burden in relation to a limited set of outcomes such as PTSD, 
+depression, internalizing, and externalizing ratings. We cast a wider net 
+that included PTSD, anxiety disorders, depression, suicidality, exter -
+nalizing, substance misuse, and serious mental illness. With the excep -
+tion of externalizing diagnoses, burden in trauma domains and who was 
+involved contributed to the prediction of these diagnoses. Domain- 
+specific trauma burden scores also distinguished those without any 
+diagnosis from those with at least one diagnosis and distinguished those 
+with a single diagnosis from those with comorbidities. These predictions 
+held above and beyond child age, gender and minority status. Results 
+showed that exposure to intentional, interpersonal and directly experi -
+enced traumas predicted every outcome except substance misuse. 
+Exposure to intentional, interpersonal but witnessed traumas in the 
+home, also added uniquely to PTSD, suicidality, and comorbidity. An Table 4 
+Model fit statistics for confirmatory factor analyses.  
+Model # Model Structure AIC/ 
+BIC SRMR RMSEA 
+LL 
+UL CFI M1 vs M2 
+SB χ2(df) p-value 
+1 Single Trauma Factor 60,176.6 
+60,486.2 0.045 0.045 
+0.041 0.048 0.81   
+2 2-factors: 
+Intentional/Interpersonal harms 
+Unintentional harms 60,178.2 
+60,492.9 0.045 0.045 
+0.041 0.049 0.81 #2 vs #1 
+0.42 (1)  ns 
+3 4-factors: 
+Interpersonal W harms 
+Interpersonal E harms 
+Unintentional E harms 
+Unintentional W harms 60,082.5 
+60,429.0 0.042 0.041 
+0.037 0.045 0.85 #3 vs #2 
+D0 (4)a n/a 
+4 3-factors: 
+Interpersonal W harms 
+Interpersonal E harms Unintentional harms 60,086.9 
+60,411.7 0.042 0.041 
+0.037 0.045 0.85 #4 vs #2 
+61.94(2) 
+#4 vs #1 
+62.40 (3)  D0.001  
+D0.001 
+5 4-factors: 
+Interpersonal W harms @ home 
+Interpersonal W outside home 
+Interpersonal E harms 
+Unintentional harms 59,977.4 
+60,317.8 0.039 0.036 
+0.032 0.040 0.88 #5 vs #4 
+68.53 (3)  D0.001 
+6 5- factors: 
+Interpersonal E harms 
+Bullying harms 
+Interpersonal W harms @ home 
+Interpersonal W outside home 
+Unintentional harms 59,932.2 
+60,293.3 0.037 0.034 
+0.029 
+0.038 0.90 #6 vs #5 
+38.42(4)  D0.001 
+7 6-factors: 
+Interpersonal E harms 
+Bullying harms 
+Sexual Abuse 
+Interpersonal W harms @ home 
+Interpersonal W outside home 
+Unintentional harms 59,926.5 
+60,308.1 0.037 0.034 
+0.029 
+0.038 0.90 #7 vs #6 
+9.01(4)  ns 
+Abbrv. W Witnessed E Experienced; CFI Comparative Fit Index; AIC Akaike's Information Criteria; BIC Bayesian Information Criteria; RMSEA Root Mean 
+Square Error of Approximation; SRMR Standardized Root Mean Square Error; LL Lower Limit UL Upper Limit; SB Satorra-Bentler; df degrees of freedom; ns 
+not significant. 
+aLatent factor correlations exceeded one and hence this model was rejected. N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+100important contribution of this report is that bullying had unique additive 
+prediction to all outcomes except PTSD, other anxiety, and substance 
+misuse. Future studies need to make an effort to consider including 
+bullying into assessment protocols in order to better dimensionalize this 
+particular exposure beyond frequency counts and to better understand 
+its relations to psychopathology. Collectively, findings are largely 
+consistent with prior works and underscore the importance of inten -
+tional/ interpersonal experienced harms including bullying. 
+Consistencies between our findings and those reported in the liter-
+ature are remarkable in part because, in the absence of a common 
+measurement framework, it is not possible to closely examine replication patterns on either person-centered or variable-centered ap-
+proaches to traumatic exposures or associations between traumas and 
+outcomes. Hence, we consider the results of the CFA in TX-CTRN as 
+providing guidance for future studies rather than being prescriptive on 
+how traumas should be classified in either the person-centered or the 
+variable-centered mode. For example, if one wanted to examine the 
+effects of sexual abuse on clinical symptoms trajectories, our results and 
+prior studies (e.g., Hogdon et al., 2019) would encourage statistical 
+controls for other intentional/interpersonal experienced traumas. 
+Similarly, if one wanted to examine the effects of loss of attachment 
+figures, our results would encourage statistical controls for other Table 5 
+Descriptive statistics and predictive performance of six scoring schemas in relation to outcomes.    
+Scoring Schemas  
+Statistics #1 
+Domain specific 
+count of Crit-A #2 
+Domain specific count of 
+simple exposure #3 
+Crit-A 
+total #4 
+Simple exposure 
+total #5 
+Domain counts 
+w/ Crit-A #6 
+Domain counts w/ 
+simple exposure 
+Tesi-C dimensions 
+Unintentional E Mean (SD) 2.15 (1.3) 3.31 (1.42) n/a n/a n/a n/a 
+Intentional & 
+Interpersonal E Mean (SD) 0.84 (1.02) 1.13 (1.17) n/a n/a n/a n/a 
+Bullying Mean (SD) 0.67 (0.73) 0.67 (0.73) n/a n/a n/a n/a 
+Intentional W @ home Mean (SD) 0.57 (0.85) 1.29 (1.05) n/a n/a n/a n/a 
+Intentional W not 
+home Mean (SD) 0.33 (0.62) 0.90 (0.94) n/a n/a n/a n/a 
+Total Mean (SD) n/a n/a 4.56 
+(2.82) 7.0 (3.34) 3.03 (1.82) 3.5 (1.28)  
+Outcomesc 
+No diagnosis AIC 983.09 1005.40 1018.04 1042.13 993.73 1032.64  
+Sig Tesi-C a 3/5 3/5 1/1 0/1 1/1 1/1  
+Sig “who ” 
+scoresb 1/3 2/3 3/3 3/3 3/3 3/3 
+PTSD AIC 1220.25 1250.59 1232.99 1265.31 1232.01 1262.12  
+Sig Tesi-C a 2/5 1/5 1/1 0/1 1/1 0/1  
+Sig “who ” 
+scoresb 0/3 0/3 1/3 3/3 1/3 3/3 
+Anxiety AIC 1216.10 1228.43 1218.65 1231.99 1216.01 1231.59  
+Sig Tesi-C a 2/5 1/5 1/1 0/1 1/1 0/1  
+Sig “who ” 
+scoresb 1/3 0/3 0/3 0/3 0/3 0/3 
+Depression AIC 1018.40 1029.65 1061.02 1068.38 1042.43 1055.00  
+Sig Tesi-C a 3/5 3/5 1/1 0/1 1/1 1/1  
+Sig “who ” 
+scoresb 1/3 0/3 3/3 3/3 2/3 2/3 
+Suicidality AIC 1125.99 1138.98 1154.93 1166.66 1152.14 1164.08  
+Sig Tesi-C a 3/5 2/5 1/1 1/1 1/1 1/1  
+Sig “who ” 
+scoresb 0/3 0/3 3/3 3/3 3/3 3/3 
+Externalizing AIC 1227.01 1224.52 1224.65 1222.73 1224.48 1221.25  
+Sig Tesi-C a 0/5 1/5 0/1 0/1 0/1 0/1  
+Sig “who ” 
+scoresb 0/3 0/3 0/3 0/3 0/3 0/3 
+Substance misuse AIC 731.64 735.62 732.38 733.02 732.06 733.47  
+Sig Tesi-C a 1/5 1/5 0/1 0/1 1/1 0/1  
+Sig “who ” 
+scoresb 1/3 1/3 1/3 1/3 1/3 1/3 
+SMI AIC 877.17 859.87 886.5 876.79 888.59 891.86  
+Sig Tesi-C a 2/5 3/5 1/1 1/1 1/1 1/1  
+Sig “who ” 
+scoresb 1/3 0/3 2/3 0/3 2/3 2/3 
+Comorbid AIC 825.23 828.5 863.87 878.31 851.75 864.30  
+Sig Tesi-C a 3/5 5/5 1/1 0/1 1/1 1/1  
+Sig “who ” 
+scoresb 0/3 0/3 3/3 3/3 2/3 3/3 
+Abbrv . AIC Akaike's Information Criteria, Crit-A: PTSD Criterion A, SMI Serious Mental Illness, E Experienced, W Witnessed. 
+Notes. Bolded values for AIC indicate the lowest value in the relevant model. 
+aSig Tesi-C indicates the number of significant predictors out of the total predictors in each scoring schema. In scoring schema#1 and #2 there are 5 predictors in 
+each logistic regression but in scoring schema in #3 through #6 there is a single predictor. 
+b“who ” scores indicates the three predictors generated from the ‘who was involved ’ follow-up items: caregiver, family, and non-family. 
+cN's for the outcomes in the logistic regressions were N 1209 for the no diagnosis (N 252) vs. at least one diagnosis (N 957), and N 957 for the remaining 
+eight outcomes. N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+101unintentional traumas. 
+4.1. Limitations 
+We relied on retrospective assessment of lifetime trauma from chil-
+dren and youth at baseline. The design of TX-CTRN will remedy this 
+specific limitation of the current report as follow-up prospective data 
+collection includes exposure to additional traumas and repeated as-
+sessments of clinical symptoms every six months. An important limita -
+tion of our assessments was that we were unable to obtain assessments of 
+‘neglect. ’ Neglect, whether emotional or with respect to basic needs, 
+were not part of the TESI-C items, and should be included in future work. 
+It is likely however that many children who experienced neglect also 
+endorsed instances of interpersonal experienced and witnessed harms in 
+the home and/or community as prior research has shown neglect to co- 
+occur with these intentional harms in both variable-centered and 
+person-centered analyses (e.g., Brown et al., 2019 ; Pynoos et al., 2014 ). 
+Finally, although our outcome measurement framework is broader in 
+breadth than prior works, we pooled across granular distinctions among 
+MINI-Kid diagnoses to create clinically distinct problems to facilitate 
+robust inference. Future work will remedy this limitation as more 
+focused questions are posed of this registry. 
+4.2. Conclusions 
+The current study addressed several limitations of prior research in 
+laying the groundwork for prospectively charting pathways of adjust -
+ment following traumatic exposure. A broad base recruitment strategy 
+of children, youth and their caregivers allowed us to sample a broad 
+range of traumatic exposures. Both the screening for traumas and clin-
+ical diagnoses were done with standardized clinical interviews. Findings 
+largely aligned with earlier studies on the relative importance of 
+intentional interpersonal traumas and suggested bullying maybe an 
+important source of traumatic stress that independently adds to pre-
+diction of several diagnoses. 
+CRediT authorship contribution statement 
+DJN, KDW, CBM, JS responsible for study design and measurement 
+protocol; JDS responsible for training of research interviewers; JR 
+responsible for setting up the RedCap database for all instruments across 
+multiple sites; AGG, LT, RR, IL, JC,CG, CGD, JC, SLC, PJR, responsible 
+for critical review of write-up and assistance in literature review, NA 
+responsible for analyses, write-up and posing the questions addressed in 
+this report. Ethical standards 
+The study was approved by the Institutional Review Board of Uni-
+versity of Texas-Southwestern. 
+Funding 
+This work was solely supported by the State of Texas through the 
+Texas Child Mental Health Consortium. The funding source had no role 
+in the design and conduct of the study; collection, management, anal-
+ysis, and interpretation of the data; and preparation, review, or approval 
+of the manuscript; and decision to submit the manuscript for publica -
+tion. All authors receive research support from the State of Texas for 
+their work on this project.The authors have also received research 
+support from the following funding agencies for other projects: NA from 
+NIH grants (AA029090, HD107654, MH120599), Episcopal Health 
+Foundation, and Michael Susan Dell Foundation; AGG receives from the 
+Texas Higher Education Coordinating Board and the Misophonia 
+Research Fund; IL from NIH grants (MH113574, TW012463); JC from 
+NIH grant (MH127216); JR from NIH grants (AA029090, GM141476, 
+AG077017, MH120599, 2L30TR002103) and Austin Public Health; SLC 
+from NIH grant (HD104297). PJR from NIH grants (AA029090, 
+MH120599, HD109229); J Cisler from NIH grants (MH108753, 
+AA030740); DJN receives research support from NIH grant AA029090; 
+KDW receives support from NIH grant (AA029090); CBM receives 
+research support from NIH grants (AA029090, MH117293). JDS, LT, 
+CG, RR, CGD do not receive additional research support from any 
+funding agency. 
+Declaration of competing interest 
+Drs. Aksan Clark, Dodd, Taylor, Shahidullah, Richmond, Wagner, 
+Cisler, Cross, Garza, have reported no biomedical financial interests or 
+potential conflicts of interest. 
+PJR serves on a data safety monitoring board for Sunovion 
+Pharmaceuticals. 
+DJN has received research support from Eli Lilly, Glaxo SmithKline 
+(GSK), Janssen, the National Alliance for Research on Schizophrenia and 
+Depression (NARSAD), Navitor, Sage Therapeutics, Takeda Pharma -
+ceuticals, the Texas Health & Human Services Commission, and Wyeth. 
+He has served on speakers' bureaus and/or received honoraria from 
+Astra-Zeneca, Eli Lilly, GSK, Pfizer and Wyeth. He has served on advi-
+sory boards for GSK, Janssen, Merck, and Sage Therapeutics. He has 
+served as a consultant to Sage Therapeutics. Neither he nor family 
+members have ever held equity positions in biomedical or pharmaceu -
+tical corporations. Table 6 
+Odds ratios for the best TESI-C scoring schema from the logistic regressions for nine clinical outcome variables.   
+Outcomes  
+Among those with at least a single diagnosis b 
+No diagnosis a PTSD Anxiety Depression Suicidality Externalizing Substance misuse SMI Comorbid 
+Male  1.68**  0.61**  0.55**  0.69  0.49**  1.74**  1.38  0.82  0.79 
+Minority  1.03  1.56**  1.04  0.81  0.75  0.92  0.51**  0.84  0.79 
+Age  0.91**  1.11**  1.03  1.25**  0.99  0.89**  1.36**  1.00  1.15** 
+Unintentional E  1.01  1.12  1.08  0.87  0.94  0.97  1.06  1.10  0.89 
+Intentional Interpersonal E  0.51**  1.54**  1.30**  1.56**  1.42**  1.19  1.19  1.44**  1.73** 
+Intentional W at home  0.53**  1.33*  1.22  1.01  1.34**  0.91  0.76  0.96  1.37 
+Intentional W not at home  0.95  0.97  0.91  0.95  1.13  0.92  1.19  1.00  1.16 
+Bullying  0.60**  1.09  1.10  1.53**  1.48**  1.28  1.00  1.47**  1.94** 
+Who: Caregiver  0.89  0.99  0.91*  1.10  1.06  1.07  1.08  1.10  0.99 
+Who: Family  0.82  1.10  1.05  1.10  1.10  1.05  1.15  0.97  1.21 
+Who: Nonfamily  0.82  0.98  0.95  1.12  1.08  1.09  1.24**  1.06  1.06 
+Abbrv . W Witnessed E Experienced SMI Serious Mental Illness PTSD Post-traumatic stress disorder. * pD0.05 *pD0.01 ** p D0.005 or better. 
+aN 1197 for the no diagnosis vs at least a single diagnoses contrast. 
+bN 946 for the remaining outcomes. N. Aksan et al.
+
+Journal of Affective Disorders 345 (2024) 94–102
+102CBM, in the last three years, served as a consultant to AbbVie, 
+ANeuroTech (division of Anima BV), Signant Health, Magstim, Inc., 
+Intra-Cellular Therapies, Inc., EMA Wellness, Sage, Silo Pharma, Engrail 
+Therapeutics, Pasithea Therapeutic Corp., EcoR1, GoodCap Pharma -
+ceuticals, Inc., Senseye, Clexio, EmbarkBio, SynapseBio, BioXcel Ther-
+apeutics. He is a stockholder with Seattle Genetics, Antares, Inc., 
+Corcept Therapeutics Pharmaceuticals Company, EMA Wellness, Pre-
+cisement Health, Relmada Therapeutics. He has served on advisory 
+boards for ANeuroTech (division of Anima BV), Brain and Behavior 
+Research Foundation (BBRF), Anxiety and Depression Association of 
+America (ADAA), Skyland Trail, Signant Health, Laureate Institute for 
+Brain Research (LIBR), Inc., Heading Health, Pasithea Therapeutic 
+Corp., Sage. He has served on the Board of Directors for Gratitude 
+America, ADAA, Lucy Scientific Discovery, Inc. He holds the following 
+patents: Method and devices for transdermal delivery of lithium (US 
+6375,990B1); Method of assessing antidepressant drug therapy via 
+transport inhibition of monoamine neurotransmitters by ex vivo assay 
+(US 7148,027B2). 
+Acknowledgements 
+We thank the families, children, and youth for their participation and 
+the study coordinators and research interviewers in each site. 
+Appendix A.Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.jad.2023.10.092 . 
+References 
+Afifi, T.O., Salmon, S., Garc ˘es, I., et al., 2020. Confirmatory factor analysis of adverse 
+childhood experiences (ACEs) among a community-based sample of parents and 
+adolescents. BMC Pediatr. 20, 178 (2020). https://doi.org/10.1186/s12887-020-02 
+063-3 . 
+Alisic, E., Zalta, A.K., Van Wesel, F., Larsen, S.E., Hafstad, G.S., Hassanpour, K., Smid, G. 
+E., 2014. Rates of post-traumatic stress disorder in trauma-exposed children and 
+adolescents: meta-analysis. Br. J. Psychiatry 204 (5), 335–340. https://doi.org/ 
+10.1192/bjp.bp.113.131227 . 
+Bellis, et al., 2019. Life course health consequences and associated annual costs of 
+adverse childhood experiences across Europe and North America: a systematic 
+review and meta-analysis. Lancet Public Health. https://doi.org/10.1016/S2468- 
+2667(19)30145-8 . 
+Briggs, E.V., Amaya-Jackson, L., Putnam, K.T., Putnam, F.W., 2021. All adverse 
+childhood experiences are not equal: the contribution of synergy to adverse 
+childhood experience scores. Am. Psychol. 76 (2), 243–252. https://doi.org/ 
+10.1037/amp0000768 . 
+Brown, S.F., Rienks, S., McCrae, J.S., Watamura, S.E., 2019. Co-occurrence of adverse 
+childhood experiences among children investigated for child maltreatment: a latent 
+class analysis. Child Abuse Negl. 87, 18–27. https://doi.org/10.1016/j. 
+chiabu.2017.11.010 . 
+Choi, K.R., McCreary, M., Ford, J.D., Rahmanian Koushkaki, S., Kenan, K.N., Zima, B.T., 
+2019 Apr. Validation of the traumatic events screening inventory for ACEs. 
+Pediatrics 143 (4), e20182546. https://doi.org/10.1542/peds.2018-2546 . 
+Dierkhising, C.B., Ko, S.J., Woods-Jaeger, B., Briggs, E.C., Lee, R., Pynoos, R.S., 2013. 
+Trauma histories among justice-involved youth: findings from the National Child 
+Traumatic Stress Network. Eur. J. Psychotraumatol. 4 https://doi.org/10.3402/ejpt. 
+v4i0.20274 . 
+Felitti, V.J., Anda, R.F., Nordenberg, D., Williamson, D.F., Spitz, A.M., Edwards, V., 
+Koss, M.P., Marks, J.S., 1998. Relationship of childhood abuse and household 
+dysfunction to many of the leading causes of death in adults: the Adverse Childhood 
+Experiences (ACE) study. Am. J. Prev. Med. 14 (4), 245–258. https://doi.org/ 
+10.1016/S0749-3797(98)00017-8 . 
+Ford, J.D., Racusin, R., Ellis, C.G., Daviss, W.B., Reiser, J., Fleischer, A., Thomas, J., 
+2000. Child maltreatment, other trauma exposure, and Posttraumatic 
+symptomotology among children with oppositional and attention deficit 
+hyperactivity disorders. Child Maltreat. 5, 205–2017. https://doi.org/10.1177/ 
+1077559500005003001 . 
+Ford, J.D., Elhai, J.D., Connor, D.F., Frueh, B.C., 2010 Jun. Poly-victimization and risk of 
+posttraumatic, depressive, and substance use disorders and involvement in delinquency in a national sample of adolescents. J. Adolesc. Health 46 (6), 545–552. 
+https://doi.org/10.1016/j.jadohealth.2009.11.212 . 
+Ford, D.C., Merrick, M.T., Parks, S.E., Breifing, M.J., Gibert, L.K., Edwards, V.J., 
+Dhingra, S.S., Barile, J.P., Thompson, W.W., 2014. Examination of the factorial 
+structure of adverse childhood experiences and recommendations for three subscale 
+scores. Psychol. Violence 4 (4), 432–444. https://doi.org/10.1037/a0037723 . 
+Green, J.G., McLaughlin, K.A., Berglund, P.A., et al., 2010. Childhood adversities and 
+adult psychiatric disorders in the National Comorbidity Survey Replication I: 
+associations with first onset of DSM-IV disorders. Arch. Gen. Psychiatry 67 (2), 
+113–123. https://doi.org/10.1001/archgenpsychiatry.2009.186 . 
+Hodgdon, H.B., Suvak, M., Zinoviev, D.Y., Liebman, R.E., Briggs, E.C., Spinazzola, J., 
+2019 Nov. Network analysis of exposure to trauma and childhood adversities in a 
+clinical sample of youth. Psychol. Assess 31 (11), 1294 –1306. https://doi.org/ 
+10.1037/pas0000748 . 
+Hughes, K., Bellis, M.A., Hardcastle, K.A., et al., 2017. The effect of multiple adverse 
+childhood experiences on health: a systematic review and meta-analysis. Lancet 
+Public Health 2, e356 –e366. https://doi.org/10.1016/S2468-2667(17)30118-4 . 
+Kaplan, D., 2001. Structural Equation Modeling: Foundations and Extensions. Sage, 
+Thousand Oaks.  
+Kennedy, A.C., Bybee, D., Sullivan, C.M., Greeson, M., 2009. The effects of community 
+and family violence exposure on anxiety trajectories during middle childhood: the 
+role of family social support as a moderator. J. Clin. Child Adolesc. Psychol. 38 (3), 
+365–379. https://doi.org/10.1080/15374410902851713 . 
+Kennedy, A.C., Bybee, D., Sullivan, C.M., Greeson, M., 2010. The impact of family and 
+community violence on children ’s depression trajectories: examining the 
+interactions of violence exposure, family social support, and gender. J. Fam. Psychol. 
+24 (2), 197–207. https://doi.org/10.1037/a0018787 . 
+Kisiel, C.L., Fehrenbach, T., Torgersen, E., et al., 2014. (2014) constellations of 
+interpersonal trauma and symptoms in child welfare: implications for a 
+developmental trauma framework. J. Fam. Violence 29, 1–14. https://doi.org/ 
+10.1007/s10896-013-9559-0 . 
+Kulkarni, M., Graham-Bermann, Rausch S., Seng, J., 2011. Witnessing versus 
+experiencing direct violence in childhood as correlates of adulthood PTSD. 
+J. Interpers. Violence 26 (6), 1264 –1281. https://doi.org/10.1177/ 
+0886260510368159 . 
+Maercker, A., Cloitre, M., Bachem, R., Schlumpf, Y.R., Khoury, B., Hitchcock, C., 
+Bohus, M., 2022. Complex post-traumatic stress disorder. Lancet 400 (10345), 
+60–72. https://doi.org/10.1016/S0140-6736(22)00821-2 . 
+Mersky, J.P., Janczewski, C.E., TopitzesView, J., 2016. Rethinking the measurement of 
+adversity: moving toward second-generation research on adverse childhood 
+experiences. Child Maltreat. 22, 1. https://doi.org/10.1177/1077559516679513 . 
+Muth ˘en, L.K., Muth ˘en, B.O., 1998-2017. Mplus User ’s Guide, Eighth edition. Muth ˘en & 
+Muth ˘en, Los Angeles, CA.  
+Negriff, S., 2020. ACEs are not equal: examining the relative impact of household 
+dysfunction versus childhood maltreatment on mental health in adolescence. Soc. 
+Sci. Med. 245, 112696 https://doi.org/10.1016/j.socscimed.2019.112696 . 
+Putnam, F.W., Amaya-Jackson, L., Putnam, K.T., Briggs, E.V., 2020. Synergistic 
+adversities and behavioral problems in traumatized children and adolescents. Child 
+Abuse Negl. 106, 104492 https://doi.org/10.1016/j.chiabu.2020.104492 . 
+Pynoos, R.S., Steinberg, A.M., Layne, C.M., Liang, L.J., Vivrette, R.L., Briggs, E.C., 
+Kisiel, C., Habib, M., Belin, T.R., Fairbank, J.A., 2014. Modeling constellations of 
+trauma exposure in the National Child Traumatic Stress Network Core Data Set. 
+Psychol. Trauma Theory Res. Pract. Policy 6 (Suppl. 1), S9–S17. https://doi.org/ 
+10.1037/a0037767 . 
+Pynoos, R.S., Weathers, F.W., Steinberg, A.M., Marx, B.P., Layne, C.M., Kaloupek, D.G., 
+Schnurr, P.P., Keane, T.M., Blake, D.D., Newman, E., Nader, K.O., Kriegler, J.A., 
+2015. Clinician-Administered PTSD Scale for DSM-5 - Child/Adolescent Version. 
+Scale available from the National Center for PTSD at. www.ptsd.va.gov . 
+Rasmussen, A., et al., 2020. Measuring trauma exposure: count versus variety of 
+potentially traumatic events in a binational sample. J. Trauma. Stress. 33, 973–983. 
+https://doi.org/10.1002/jts.22563 . 
+Shahidullah, J.D., Custer, J., Aksan, N., Newport, D.J., Widales-Benitez, O., Hatchell, C., 
+Wagner, K.D., Storch, E.A., Claassen, C., Garrett, A.S., Ugalde, I.T., Weber, W.A., 
+Nemeroff, C.B., Rathouz, P.J., 2023. Establishing a training plan and estimating 
+inter-rater reliability across the multi-site Texas Childhood Trauma Research 
+Network. Psychiatry Res. 323 https://doi.org/10.1016/j.psychres.2023.115168 . 
+Sheehan, D.V., Sheehan, K.H., Shytle, D.R., Janavs, J., Bannon, Y., Rogers, J.E., Milo, K. 
+M., Sl, Stock, Wilkinson, B., 2010. Reliability and validity of the Mini International 
+Neuropsychiatric Interview for Children and Adolescents (MINI-KID). J. Clin. 
+Psychiatry 71, 313–326. https://doi.org/10.4088/JCP.09m05305whi . 
+StataCorp, 2019. Stata Statistical Software: Release 16. StataCorp LLC, College Station, 
+TX.  
+Wagner, K., 2018. More reasons to end bullying. Psychiatr. Times 35 (1). https://www.ps 
+ychiatrictimes.com/view/more-reasons-end-bullying . 
+Winding, T.N., Skouenborg, L.A., Mortensen, V.L., 2020. Is bullying in adolescence 
+associated with the development of depressive symptoms in adulthood?: a 
+longitudinal cohort study. BMC Psychology 8, 122. https://doi.org/10.1186/ 
+s40359-020-00491-5 . N. Aksan et al.

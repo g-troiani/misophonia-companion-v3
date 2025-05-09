@@ -1,0 +1,295 @@
+## Clinical Findings That Differentiate Co-Occurrence of Hyperacusis and Tinnitus from Tinnitus Alone
+
+Seung-Ho Shin 1 *, Sung Wan Byun *, Zoo Young Lee , Min-Jee Kim , Eun Hye Kim , and Ho Yun Lee 1 1 2 1 1
+
+1 Department of Otorhinolaryngology, Ewha Womans University School of Medicine, Seoul;
+
+2 Department of Pediatrics, Asan Medical Center Children's Hospital, Ulsan University College of Medicine, Seoul, Korea.
+
+Purpose: We aimed to assess the characteristics of patients with concurrent tinnitus and hyperacusis, determine the best audiological criteria for predicting hyperacusis, and confirm whether objective evidence of changes in the brain exists.
+
+Materials and Methods: The medical records of patients with tinnitus who visited the hospital between March 2020 and December 2021 were reviewed. Data on accompanying hyperacusis, audiological profiles, and questionnaires including the Tinnitus Handicap Inventory (THI), Beck Depression Inventory, and numerical rating scale were analyzed. Resting-state quantitative electroencephalography (qEEG) using power spectral density (PSD) and event-related spectral perturbation (ERSP) were performed to objectively quantify changes in the brain.
+
+Results: A total of 194 patients were analyzed. Among them, 51 (26.3%) reported combined subjective hyperacusis with tinnitus. However, the proportions widely varied from 7.4% to 68.4% based on three audiological criteria for assessment. A higher score on the THI questionnaire was independently associated with the co-occurrence of tinnitus and hyperacusis. Fair agreement was observed between subjective hyperacusis and the audiological criterion based on a loudness discomfort level (LDL) of ≤90 dB at two or more frequencies for the diagnosis of hyperacusis. An increased beta-PSD and decreased levels of gamma-PSD, all-ERSP , and delta-ERSP were observed in patients with hyperacusis ( p &lt;0.05).
+
+Conclusion: Patients with co-occurring tinnitus and hyperacusis had more severe tinnitus distress. An LDL of ≤90 dB at two or more frequencies may be applicable to predict accompanying hyperacusis in subjects with tinnitus, and qEEG also provides more objective information.
+
+Key Words: Tinnitus, hyperacusis, electroencephalography
+
+## INTRODUCTION
+
+Hyperacusis is a hypersensitivity to external mild to moderate sounds that leads them to be perceived as abnormally loud or even painful.  In a recent Delphi survey, hyperacusis was de1 fined as a reduced tolerance to sounds that are perceived as
+
+Received: July 12, 2022 Revised: August 3, 2022 Accepted: August 27, 2022 Published online: September 29, 2022 Corresponding author: Ho Yun Lee, MD, PhD, Department of Otorhinolaryngology, Ewha Womans University Mokdong Hospital, 1071 Anyangcheon-ro, Yangcheon-gu, Seoul 07985, Korea.
+
+E-mail: hoyun1004@gmail.com
+
+- *Seung-Ho Shin and Sung Wan Byun contributed equally to this work.
+- · The authors have no potential conflicts of interest to disclose.
+
+## © Copyright: Yonsei University College of Medicine 2022
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/ by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+normal by the majority of the population or that were perceived as normal by the affected person before the onset of hyperacusis, where 'normal' refers to sounds that are generally well tolerated.  The prevalence of hyperacusis is 0.2%-17.2% in the 2 general population, and hearing loss, female sex, rare diseases, such as Williams syndrome, autism, occupation, such as musicians and teachers, low income, tinnitus, and physical or mental health difficulties have been reported as common risk factors. 3,4 The prevalence, natural history, risk factors, and pathophysiology of hyperacusis, the relationship between tinnitus and hyperacusis, and the development of an appropriate questionnaire for the diagnosis and treatment of hyperacusis have been regarded as significant issues. 5
+
+Tinnitus often accompanies hyperacusis. Patients with tinnitus often have a typical personality, which is characterized by a greater response to stress, lower social closeness, lower selfcontrol, and higher alienation.  Hyperacusis often aggravates 6
+
+w
+
+stress reactions. In addition, it affects the progression from acute to chronic tinnitus.  In an extensive online survey of 3400 7 participants, tinnitus severity was highest in patients with a cooccurrence of tinnitus and hyperacusis.  Tinnitus patients who 8 have recovered completely over time have reported lower fearrelated hyperacusis. 7
+
+Contrary to the general belief that tinnitus is associated with hearing loss or auditory deafferentation, it does not always accompany hearing loss.  When occurring together, hyperacusis 9 may worsen tinnitus in various ways. Thus, it is imperative to confirm whether patients have hyperacusis, especially for patients with tinnitus. Moreover, there is still a lack of information on the characteristics of patients with co-occurrence of these symptoms.
+
+Furthermore, there is no gold-standard test with which to diagnose hyperacusis. The simplest method to evaluate hyperacusis is to ask patients if they have a hypersensitivity to any sounds. To complement the subjectivity of these tests, the Khalfa hyperacusis questionnaire and various audiological tests using the loudness discomfort level (LDL) test, the dynamic range (DR) between a pure-tone threshold, and LDL at several frequencies have been utilized. 10,11 The hyperacusis questionnaire has not yet been translated into multiple languages, other than Japanese, Turkish, and Portuguese. In addition, it remains unclear which audiological criteria are the most helpful. Recently, quantitative electroencephalography (qEEG) has been widely used to quantify brain function using computational analysis. It may provide additional information on changes in functional connectivity and disease-specific parameters that can enable the early diagnosis or prediction of prognosis in various diseases. In a qEEG study, a Korean research group reported that hyperacusis was the consequence of high electrical activity in the superior parietal lobe in association with salience to forthcoming sound stimuli. 12 However, there is no report on the applicability of qEEG for hyperacusis.
+
+This study aimed to assess the characteristics of patients with co-occurrence of tinnitus and hyperacusis, to determine the best audiological criteria with which to predict hyperacusis, and to confirm whether more objective evidence of changes in the brain exists using qEEG analysis.
+
+## MATERIALS AND METHODS
+
+## Subjects
+
+Data on patients with tinnitus who visited the university hospital between March 2020 and December 2021 were reviewed. The exclusion criteria were as follows: 1) pulsatile tinnitus synchronous with the heartbeat, 2) stapedial or palatal myoclonus, 3) lack of LDL test results, and 4) none of the questionnaires were completed. This retrospective cohort study was approved by the Institutional Review Board (IRB number: 2022-02-014). The requirement for written informed consent was waived because of the retrospective nature of the study.
+
+During history-taking, the enrolled patients were asked if they were sensitive or intolerant to environmental sounds. If their answer was yes, they were classified as having hyperacusis, while the others were classified as controls. Other epidemiologic characteristics, including age and sex; accompanying symptoms, such as aural fullness, dizziness, headache, attention problems, temporomandibular joint (TMJ) discomfort, and sleep disturbance; history of noise exposure or head trauma; accompanying diseases, such as diabetes mellitus (DM) and hypertension (HTN); results of audiological profiles, including pure-tone audiometry, speech audiometry, electrocochleography, and auditory brainstem response (ABR); psychoacoustic tests, consisting of tinnitus laterality, tinnitus character, tinnitus pitch, loudness, minimal masking level (MML), and residual inhibition (RI); and questionnaires, including the Tinnitus Handicap Inventory (THI), Beck Depression Inventory (BDI), Mini-Mental State Exam (MMSE), and numerical rating scale (NRS) (0: no symptoms, 10: maximal symptoms) on the awareness, annoyance, loudness, and effect on life of tinnitus, were documented.
+
+## Audiological assessment
+
+For audiology-based diagnosis of hyperacusis, the following three audiometric criteria were applied to detect the presence of hyperacusis: method 1, reduced DR between the pure-tone threshold and an LDL less than 60 dB; method 2, LDL under 90 dbHL at 500-8 kHz and 70 dB at 250 Hz; and method 3, LDL of 90 dB or less for at least two frequencies.
+
+## Resting-state quantitative electroencephalogram
+
+For qEEG recording and analysis, a scalp qEEG with 19 electrodes was recorded using the MINDD scan (Ybrain, Seongnam, Republic of Korea), with a sampling rate of 500 Hz between 1 to 50 Hz. The international 10-20-electrode system was applied for placing electrodes. Before preprocessing, all data were imported into an EEGLAB toolbox for MATLAB (MATLAB R2021b, The MathWorks, Inc., Natick, MA, USA). 13 For preprocessing, computing average references for re-referencing, importing channel locations, 1 Hz high-pass filter, applying clean_rawdata plugins, rejecting bad channels, removing apparent artifacts, and running a runica.m, which uses an infomax independent component analysis mechanism and is set as default in EEGLAB to remove artifacts, were performed. The first 5 min of each artifact-free EEG were collected. Finally, 12 epochs (10 s duration) per patient were extracted from the 5 min of EEG data, excluding one epoch at the beginning and one epoch at the end. A total of 12 patients (six patients: tinnitus alone, six patients: co-occurrence of tinnitus and hyperacusis) underwent resting-state qEEG evaluation. Their age and sex did not show any significant differences ( p &gt;0.05).
+
+Analyzed parameters included 1) power spectral density (PSD), 2) event-related spectral perturbation (ERSP), and
+
+3) spectral entropy (SE). The PSD, which is the power distribution in the frequency domain, was calculated using spectopo.m, which extracts the mean absolute power of the frequency band. The unit was mV2/Hz. ERSP , or changes in the spectral power during the epoch at each frequency, was used to reflect dynamic brain changes, with the zero point in each epoch set as the baseline. 14 These ERSPs were analyzed with fast Fourier transform and Hanning window tapering. The mean baseline log power spectrum was subtracted from each spectral estimate to produce the baseline-normalized ERSP , and deviations from baseline power were subsequently calculated. 14 SE, the signal irregularity in the frequency domain, was computed by applying the Shannon entropy concept.
+
+## Statistical analysis
+
+For statistical analysis, bivariate analyses were performed between the NRS value for subjective distress due to tinnitus and the documented variables, including age, sex, duration of tinnitus, history of noise exposure, history of head trauma, sleep disturbances, headache, dizziness, accompanying diseases such as DM and/or HTN, THI and BDI scores, pitch, loudness, MML, RI, mean pure-tone hearing thresholds, mean speech reception thresholds, and speech discrimination score, using Student's t-test, Pearson correlation analysis, or chi-square analysis. Subsequently, forward conditional binary logistic regression analysis was conducted to identify causal relationships between these factors and subjective hyperacusis in addition to calculating the probability.
+
+A propensity score-matched analysis was performed to minimize selection bias in the study results. Covariates for propensity score matching included age, sex, accompanying DM and HTN, the presence of dizziness, the duration of tinnitus, tinnitus laterality, and the mean pure-tone thresholds of both sides. Propensity scores were calculated by logistic regression, and 1:1 nearest-neighbor matching was performed. As a result, 25 pairs of propensity score-matched patients were analyzed.
+
+To test interrater reliability, Cohen's kappa was calculated. According to the presence or absence of hyperacusis, Student's t-test was performed to compare PSD, ERSP , and SE values. All analyses were performed using IBM SPSS Statistics for Macintosh ver. 27.0 (IBM Corp., Armonk, NY, USA). P -values&lt;0.05 were considered statistically significant.
+
+## RESULTS
+
+## Overall patient characteristics
+
+After applying the inclusion and exclusion criteria, a final 194 patients were reviewed in this retrospective study. They comprised 94 male (48.5%) and 100 female (51.5%), with a mean age of 52.36±15.22 years (range: 14-83) and a mean tinnitus duration of 27.48±59.93 months. The mean pure-tone thresholds of the right and the left sides were 19.93±15.82 dB and 20.06 ±
+
+13.93 dB, respectively. Regarding tinnitus laterality, unilateral tinnitus was the most common (44.8%, n=87), followed by bilateral tinnitus (40.7%, n=79) and holocranial tinnitus without localization (14.4%, n=28). The mean pitch and loudness were 3.87±3.21 Hz and 7.09±8.60 dB SL on the right side and 4.47± 3.37 Hz and 6.88±7.78 dB SL on the left side, respectively.
+
+The initial THI and BDI scores for the questionnaires were 44.42±23.92 and 10.43±8.29, respectively. The initial NRS scores for awareness, annoyance, loudness, and the effect on life of tinnitus were 7.36±3.16, 6.67±2.82, 6.58±2.35, and 5.08±2.76, respectively. The mean MMSE score was 27.85±2.44.
+
+Upon the analysis of accompanying symptoms, 26.3% (n= 51) of patients complained of combined hyperacusis with tinnitus. Sleep disturbances were the most common accompanying symptom (55.2%, 48/87), followed by aural fullness (38.2%, 39/102), attention problems (32.5%, 27/83), dizziness (28.7%, 39/136), headache (27.1%, 39/144), and TMJ discomfort (24.4%, 10/41). Additionally, 6.7% of patients (13/62) had a history of exposure to noise, while 8.5% (10/117) and 24.8% (31/125) of patients had DM and HTN, respectively.
+
+## Patient characteristics assessed by propensity scorematched analysis
+
+Twenty-five pairs of propensity score-matched patients were analyzed (Table 1). No significant relationships were found between hyperacusis and sex, tinnitus laterality, history of noise exposure or trauma, sleep disturbance, headache, TMJ discomfort, attention problems, or aural fullness. Hyperacusis was significantly associated with the absence of dizziness ( p =0.040), however. Only 8.3% of hyperacusis patients had dizziness, which was different from patients without hyperacusis (32.0%). Of the numerical variables, patients with hyperacusis had higher THI scores ( p =0.002), higher NRS scores for tinnitus awareness ( p = 0.032), and lower LDLs on both sides ( p &lt;0.010) than those without hyperacusis (Table 1). Forward conditional regression analysis revealed that a higher THI score was independently associated with co-occurrence of subjective hyperacusis and tinnitus (EXP(B)=1.050, 95% confidence interval=1.012-1.088, p =0.009). No other parameters were identified as significant prognostic factors in a regression model.
+
+## Results of audiological assessment
+
+The proportion of patients with hyperacusis, objectively assessed by three audiological criteria, varied widely from 7.4% to 68.4% (Table 2). Fair agreement was observed between subjective hyperacusis and the audiological criterion of an LDL of ≤90 dB for at least two frequencies. The other criteria did not reach any significant agreement with subjective hyperacusis.
+
+Four patients with subjective hyperacusis revealed an LDL of 95 dB or more. Their mean THI score was 33.00±25.74, which was significantly lower than that of those with an abnormal LDL (59.72±21.82; p =0.028). In addition, their DRs at whole frequencies were substantially higher than those of patients with
+
+an abnormal LDL ( p &lt;0.05). No other significant differences were observed irrespective of the LDLs of these patients.
+
+## Comparison of resting-state qEEG
+
+Regarding PSD, increased beta-PSD ( p =0.016) and decreased gamma-PSD ( &lt;0.001) were observed in patients with hyperp
+
+Table 1. Patient Characteristics
+
+| Variables                 | Total population        | Total population            |         | Propensity score-matched population   | Propensity score-matched population   |         |
+|---------------------------|-------------------------|-----------------------------|---------|---------------------------------------|---------------------------------------|---------|
+| Variables                 | With hyperacusis (n=51) | Without hyperacusis (n=143) | p value | With hyperacusis (n=25)               | Without hyperacusis (n=25)            | p value |
+| Age (yr)                  | 46.90 ± 14.53           | 54.31 ± 15.04               | 0.003   | 50.16 ± 13.04                         | 52.96 ± 13.78                         | 0.464   |
+| Onset (months)            | 18.49 ± 43.37           | 30.50 ± 64.41               | 0.251   | 19.00 ± 34.19                         | 14.26 ± 27.72                         | 0.593   |
+| Questionnaires            |                         |                             |         |                                       |                                       |         |
+| THI                       | 55.86 ± 24.21           | 40.61 ± 22.66               | <0.001  | 60.86 ± 23.87                         | 38.33 ± 17.33                         | 0.002   |
+| BDI                       | 12.77 ± 8.36            | 9.64 ± 8.15                 | 0.032   | 12.10 ± 9.29                          | 9.67 ± 9.13                           | 0.417   |
+| MMSE                      | 28.88 ± 1.13            | 27.39 ± 2.75                | 0.156   | 28.86 ± 1.22                          | 28.67 ± 1.53                          | 0.837   |
+| NRS (0-10)                |                         |                             |         |                                       |                                       |         |
+| Awareness                 | 8.33 ± 2.77             | 7.04 ± 3.23                 | 0.013   | 9.05 ± 2.31                           | 7.22 ± 2.80                           | 0.032   |
+| Annoyance                 | 6.98 ± 3.12             | 6.57 ± 2.72                 | 0.412   | 7.67 ± 2.87                           | 6.56 ± 1.85                           | 0.167   |
+| Loudness                  | 7.02 ± 2.18             | 6.43 ± 2.40                 | 0.156   | 7.43 ± 2.29                           | 6.72 ± 2.02                           | 0.318   |
+| Effect on life            | 5.88 ± 3.05             | 4.81 ± 2.62                 | 0.029   | 6.43 ± 2.75                           | 5.28 ± 2.67                           | 0.195   |
+| Mean PTA (dB HL)          |                         |                             |         |                                       |                                       |         |
+| Right                     | 17.60 ± 15.32           | 20.74 ± 15.96               | 0.230   | 18.16 ± 12.84                         | 17.20 ± 12.07                         | 0.787   |
+| Left                      | 18.51 ± 11.43           | 20.62 ± 14.72               | 0.364   | 18.88 ± 11.79                         | 21.68 ± 16.36                         | 0.491   |
+| Mean LDL (dB HL)          |                         |                             |         |                                       |                                       |         |
+| Right                     | 81.47 ± 19.00           | 93.36 ± 15.89               | <0.001  | 74.90 ± 21.03                         | 87.80 ± 11.50                         | 0.010   |
+| Left                      | 80.19 ± 19.27           | 92.53 ± 16.08               | <0.001  | 74.19 ± 21.37                         | 87.09 ± 12.40                         | 0.012   |
+| SP/AP ratio               |                         |                             |         |                                       |                                       |         |
+| Right                     | 0.29 ± 0.12             | 0.29 ± 0.12                 | 0.874   | 0.29 ± 0.11                           | 0.26 ± 0.11                           | 0.382   |
+| Left                      | 0.30 ± 0.13             | 0.29 ± 0.12                 | 0.731   | 0.32 ± 0.15                           | 0.26 ± 0.11                           | 0.829   |
+| ABR thresholds (dBnHL)    |                         |                             |         |                                       |                                       |         |
+| Right                     | 30.00 ± 17.20           | 36.51 ± 16.51               | 0.020   | 27.60 ± 12.17                         | 28.75 ± 12.53                         | 0.746   |
+| Left                      | 31.80 ± 13.08           | 38.05 ± 14.80               | 0.009   | 32.40 ± 11.91                         | 35.00 ± 12.94                         | 0.468   |
+| Tinnitus pitch (kHz)      |                         |                             |         |                                       |                                       |         |
+| Right                     | 4.11 ± 3.09             | 3.79 ± 3.26                 | 0.639   | 3.27 ± 2.44                           | 2.56 ± 2.51                           | 0.463   |
+| Left                      | 4.34 ± 3.46             | 4.53 ± 3.35                 | 0.762   | 4.23 ± 3.58                           | 4.88 ± 4.18                           | 0.605   |
+| Tinnitus loudness (dB SL) |                         |                             |         |                                       |                                       |         |
+| Right                     | 5.16 ± 7.80             | 3.79 ± 3.26                 | 0.149   | 5.94 ± 5.23                           | 10.42 ± 8.38                          | 0.094   |
+| Left                      | 6.67 ± 6.01             | 6.97 ± 8.41                 | 0.831   | 5.25 ± 4.72                           | 5.56 ± 9.06                           | 0.895   |
+| MMLs (dB HL)              |                         |                             |         |                                       |                                       |         |
+| Right                     | 39.80 ± 20.64           | 44.75 ± 21.26               | 0.325   | 20.00 ± 14.38                         | 21.67 ± 12.31                         | 0.750   |
+| Left                      | 42.42 ± 22.99           | 44.77 ± 22.00               | 0.623   | 28.10 ± 22.28                         | 28.89 ± 25.24                         | 0.917   |
+| RI                        |                         |                             |         |                                       |                                       |         |
+| Right                     |                         |                             | >0.999* |                                       |                                       | >0.999  |
+| Complete RI               | 9 (36.0)                | 27 (42.2)                   |         | 2 (18.2)                              | 2 (25.0)                              |         |
+| Partial RI                | 15 (60.0)               | 36 (56.3)                   |         | 1 (9.1)                               | 0 (0.0)                               |         |
+| No RI                     | 1 (4.0)                 | 1 (1.6)                     |         | 8 (72.7)                              | 6 (75.0)                              |         |
+| Left                      |                         |                             | 0.187*  |                                       |                                       | 0.417   |
+| Complete RI               | 13 (38.2)               | 31 (46.3)                   |         | 7 (35.0)                              | 3 (25.0)                              |         |
+| Partial RI                | 21 (61.8)               | 33 (49.3)                   |         | 0 (0.0)                               | 1 (8.3)                               |         |
+| No RI                     | 0 (0.0)                 | 3 (4.5)                     |         | 13 (65.0)                             | 8 (66.7)                              |         |
+
+THI, Tinnitus Handicap Inventory; BDI, Beck Depression Inventory; MMSE, Mini-Mental State Exam; NRS, numerical rating scale; PTA, pure tone average; LDL, loudness discomfort level; SP/AP ratio, summating potential-to-action potential ratio; ABR, auditory brainstem response; MML, minimal masking level; RI, residual inhibition.
+
+Data are presented as mean ± standard deviation or n (%).
+
+*Results of Fisher exact test.
+
+acusis. Reduced levels of all-ERSP and delta-ERSP were also observed in these patients ( p &lt;0.001), while other sub-variables were not found to be significantly different (Fig. 1). For SE, no significant differences were observed irrespective of the presence of hyperacusis ( p &gt;0.05). Channel spectra and tonotopic maps of a hyperacusis patient are shown in Fig. 2.
+
+## DISCUSSION
+
+In this study, we found that a higher THI score was independently associated with the co-occurrence of tinnitus and hyperacusis in a propensity score-matched analysis. Of the audiological criteria used to diagnose hyperacusis, an LDL of ≤90 dB for at least two frequencies showed fair agreement with subjective hyperacusis. In addition, differences in objective qEEG findings were observed according to the co-occurrence of hyperacusis in tinnitus patients.
+
+Consistent with our findings, tinnitus questionnaires are one of the most simple and valuable methods to predict hyperacu-
+
+Table 2. Proportion of Hyperacusis Assessed by the Three Audiological Criteria
+
+|          | Proportion of hyperacusis   | Unilateral   | Bilateral   |   Cohen's kappa | p value   |
+|----------|-----------------------------|--------------|-------------|-----------------|-----------|
+| Method 1 | 123 (63.4)                  | 37 (19.1)    | 86 (44.3)   |           0.03  | 0.573     |
+| Method 2 | 14 (7.4)                    | 8 (4.3)      | 6 (3.2)     |           0.056 | 0.336     |
+| Method 3 | 117 (68.4)                  | 17 (9.9)     | 100 (58.5)  |           0.21  | <0.001    |
+
+LDL, loudness discomfort level.
+
+Data are presented as n (%).
+
+Method 1: reduced dynamic range between the pure-tone threshold and an LDL less than 60 dB; Method 2: LDL under 90 dbHL at 500-8 kHz and 70 dB at 250 Hz; and Method 3: LDL of 90 dB or less for at least two frequencies.
+
+sis. Hyperacusis has been shown to be associated with a THI score of ≥58, and this association was found to be stronger in patients with severe hyperacusis. 15 In a longitudinal comparative study between patients with tinnitus alone and those with both tinnitus and hyperacusis, some patients with only tinnitus had high scores on the tinnitus questionnaire from early on, along with constant symptoms of annoyance and bilaterality, suggesting the hidden co-occurrence of tinnitus and hyperacusis. 16 Although excluded in our final regression model, patients who complained of both tinnitus and hyperacusis demonstrated differences in tinnitus awareness, compared to patients without hypersensitivity, which may be due to the increased atten-
+
++
+
+Fig. 2. Channel spectra and associated tonotopic maps of a patient with co-occurrence of tinnitus and hyperacusis. Scalp map shows the scalp distribution of power at 3, 6, 22, and 30 Hz. Red color shows the concentration of power.
+
+Fig. 1. Comparison of event-related spectral perturbations (ERSP) between the two groups (** p &lt;0.001).
+
+tion and salience to the forthcoming stimuli. 12
+
+Based on the total population, our results showed no differences in the audiological profiles between patients with and without hyperacusis, except for better ABR thresholds in those with hyperacusis. We assumed that the improved ABR thresholds might result from better pure-tone averages in patients with hyperacusis. They did not show any significant differences in the propensity score-matched analysis, however. Similar observations indicating that hearing thresholds show no statistical difference irrespective of the presence of hyperacusis have been previously reported. 16 Hyperacusis does not always accompany the hearing loss that is associated with the development of tinnitus. 9
+
+Differentiating hyperacusis from tinnitus is challenging because the potential underlying mechanisms of both may be identical. 15 Both involve central overcompensation for reduced peripheral auditory input: enhanced central gain to compensate for the reduced auditory input to the brain has been regarded as the potential mechanism for both conditions. 17 Zeng 1 suggested that the additive central noise compensating for hearing loss likely generates tinnitus. In contrast, the multiplicative central gain that compensates for hidden hearing loss is likely to give rise to hyperacusis. 1
+
+In an animal model study using guinea pigs, ventral cochlear nucleus bushy cells demonstrated increased spontaneous firing rates and reduced latency at the suprathreshold after cochlear damage, suggesting that these cells may be involved in the generation of hyperacusis.  These neural changes were not 9 limited to the central auditory pathway and were also found in various non-auditory areas associated with emotion, arousal, and stress in an animal model. 18 In a hyperacusis rat model, cFos expression was higher in the medial geniculate nucleus, central auditory pathway, and nucleus accumbens in the limbic system. 19 Eggermont reported that hyperacusis was associated with noise exposure that increased the central gain in the lemniscal pathways. In contrast, increased burst firing and neural synchrony in the extra-lemniscal pathway were involved in the generation of tinnitus. 20
+
+Among patient characteristics, the absence of dizziness was most prominent in patients with subjective hyperacusis, although it was not included in the regression model. In fact, dizziness and hyperacusis are accompanied only by specific conditions (Table 3). 21-29 Acoustic shock may lead to the generation of hyperacusis, tinnitus, and various otologic symptoms by activating the trigeminal nerve and cervical trigeminal complex that integrates sensory input from the head and neck and projects it backward bidirectionally to the cortex. 26 TMJ disorder was also one of the most common causes of somatic tinnitus because of the close anatomical relationship between the TMJ, trigeminal nerve, and ear. 25 Otologic symptoms are common in most patients with TMJ disorder. We assumed that the reason patients without dizziness had hyperacusis in this study might be related to the enrolled patients' characteristics: most
+
+Table 3. Various Medical Conditions Associated with the Co-Occurrence of Dizziness and Hyperacusis
+
+| Medical conditions   | Diseases                                  |
+|----------------------|-------------------------------------------|
+| Otologic origin      | Acute low-tone sensorineural hearing loss |
+|                      | Sudden idiopathic hearing loss            |
+|                      | Meniere's disease                         |
+|                      | Ramsay-Hunt syndrome                      |
+|                      | Superior semicircular canal dehiscence    |
+|                      | Acoustic shock                            |
+| Dental origin        | Temporomandibular joint disorder          |
+| Central origin       | Vestibular migraine                       |
+|                      | Chiari malformation type I                |
+| Autoimmune origin    | Vogt-Koyanagi-Harada syndrome             |
+|                      | Systemic lupus erythematosus              |
+|                      | Systemic sclerosis                        |
+| Others               | Emotional stress                          |
+
+patients who visited our tinnitus clinic had chronic subjective tinnitus alone, and patients with the abovementioned diseases might present with dizziness or other symptoms as their main complaints instead of tinnitus or hyperacusis.
+
+In this study, the best audiological criterion for hyperacusis was an LDL of ≤90 dB at two or more frequencies. Although there are various diagnostic criteria for diagnosing hyperacusis, this assessment was the only one that matched the subjective hyperacusis described by the patient. On the other hand, although few patients reported a history of subjective hyperacusis, their LDL was normal. It is possible that they did not have hyperacusis and instead had misophonia or an error in history taking. As mentioned earlier, there is currently no gold standard for diagnosing hyperacusis. Therefore, for a more successful hyperacusis study, it seems appropriate to evaluate only those patients whose subjective hypersensitivity and hearing test results match.
+
+In our qEEG findings, increased beta-PSD and decreased gamma-PSD in patients with co-occurrence of tinnitus and hyperacusis suggest the presence of increased stress, increased external attention and anxiety, and reduced cognitive function. Since ERSP evaluates the amount of change in brain activity, compared to the baseline of each epoch, decreased all-ERSP and delta-ERSP imply the maintenance of increased arousal. Similarly, a functional magnetic resonance imaging study reported that higher cortical and subcortical sound-evoked activities were observed in hyperacusis patients. 30
+
+This study has several limitations. First, the study groups were based entirely on hyperacusis history, which was taken retrospectively from the medical records and not by the study examiners. We could not distinguish misophonia from hyperacusis due to incomplete medical records. We also could not differentiate patients who experienced otalgia in response to sounds from patients who perceived sounds as excessively loud. The retrospective nature of this study may weaken our findings. However, to overcome the limitations of the retrospective study,
+
+we added a propensity score-matching analysis to reduce confounding effects, and both qEEG analysis and a comparison between audiological criteria were performed. All data were obtained prospectively with additional research in mind from the beginning. Second, somatic tinnitus was not differentiated. Patients with somatic tinnitus and hyperacusis have been reported to be older and have more frequent bilateral tinnitus, more severe tinnitus annoyance, and worse subjective hearing than those without hyperacusis. 31 However, we did not confirm these characteristics in our study. Third, response to the hyperacusis questionnaire were not obtained because we did not have a reliable, validated language version.
+
+In conclusion, a higher THI questionnaire score was independently associated with the co-occurrence of tinnitus and hyperacusis. An LDL of ≤90 dB at two or more frequencies may be applicable to predict accompanying hyperacusis in subjects with tinnitus. In addition, qEEG seems to provide more objective information to differentiate accompanying hyperacusis from tinnitus alone. Changes in PSD and ERSP were observed, which suggests that subjective hyperacusis correlates with changes in brain activity.
+
+## ACKNOWLEDGEMENTS
+
+This research was supported by a grant from the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health &amp; Welfare, Republic of Korea (grant number: HI21C1574040021).
+
+## AUTHOR CONTRIBUTIONS
+
+Conceptualization: Ho Yun Lee. Data curation: Zoo Young Lee, MinJee Kim, and Eun Hye Kim. Formal analysis: Zoo Young Lee, Min-Jee Kim, and Eun Hye Kim. Funding acquisition: Ho Yun Lee. Investigation: Ho Yun Lee and Zoo Young Lee. Methodology: Ho Yun Lee. Project administration: Ho Yun Lee. Resources: Ho Yun Lee. Software: Ho Yun Lee. Supervision: Ho Yun Lee. Validation: Seung-Ho Shin, Sung Wan Byun, Ho Yun Lee, and Min-Jee Kim. Visualization: Ho Yun Lee. Writing-original draft: Seung-Ho Shin, Sung Wan Byun, and Ho Yun Lee. Writing-review &amp; editing: Seung-Ho Shin, Sung Wan Byun, and Ho Yun Lee. Approval of final manuscript: all authors.
+
+## ORCID iDs
+
+Seung-Ho Shin
+
+https://orcid.org/0000-0001-8093-2673
+
+Sung Wan Byun
+
+https://orcid.org/0000-0002-5458-6401
+
+Zoo Young Lee
+
+https://orcid.org/0000-0002-7376-3442
+
+Min-Jee Kim
+
+https://orcid.org/0000-0002-8081-6522
+
+Eun Hye Kim
+
+https://orcid.org/0000-0002-3932-3056
+
+Ho Yun Lee
+
+https://orcid.org/0000-0002-9590-3477
+
+## REFERENCES
+
+- 1.  Zeng FG. Tinnitus and hyperacusis: central noise, gain and variance. Curr Opin Physiol 2020;18:123-9.
+- 2.  Adams B, Sereda M, Casey A, Byrom P , Stockdale D, Hoare DJ. A Delphi survey to determine a definition and description of hyperacusis by clinician consensus. Int J Audiol 2021;60:607-13.
+- 3.  Ren J, Xu T , Xiang T , Pu JM, Liu L, Xiao Y, et al. Prevalence of hyperacusis in the general and special populations: a scoping review. Front Neurol 2021;12:706555.
+- 4.  Smit AL, Stegeman I, Eikelboom RH, Baguley DM, Bennett RJ, TeggQuinn S, et al. Prevalence of hyperacusis and its relation to health: the Busselton healthy ageing study. Laryngoscope 2021;131:E288796.
+- 5.  Baguley DM, Hoare DJ. Hyperacusis: major research questions. HNO 2018;66:358-63.
+- 6.  Durai M, O'Keeffe MG, Searchfield GD. The personality profile of tinnitus sufferers and a nontinnitus control group. J Am Acad Audiol 2017;28:271-82.
+- 7.  Vielsmeier V , Santiago Stiel R, Kwok P , Langguth B, Schecklmann M. From acute to chronic tinnitus: pilot data on predictors and progression. Front Neurol 2020;11:997.
+- 8.  Beukes EW, Baguley DM, Manchaiah V, Andersson G, Allen PM, Kaldo V, et al. Investigating tinnitus subgroups based on hearingrelated difficulties. Int J Clin Pract 2021;75:e14684.
+- 9.  Martel DT, Shore SE. Ventral cochlear nucleus bushy cells encode hyperacusis in guinea pigs. Sci Rep 2020;10:20594.
+- 10.  Goldstein B, Shulman A. Tinnitus-Hyperacusis and the loudness discomfort level test-A preliminary report. Int Tinnitus J 1996;2: 83-9.
+- 11. Khalfa S, Dubal S, Veuillet E, Perez-Diaz F, Jouvent R, Collet L. Psychometric normalization of a hyperacusis questionnaire. ORL J Otorhinolaryngol Relat Spec 2002;64:436-42.
+- 12. Han JJ, Jang JH, Ridder D, Vanneste S, Koo JW, Song JJ. Increased parietal circuit-breaker activity in delta frequency band and abnormal delta/theta band connectivity in salience network in hyperacusis subjects. PLoS One 2018;13:e0191858.
+- 13.  Delorme A, Makeig S. EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis. J Neurosci Methods 2004;134:9-21.
+- 14. Kim MJ, Yum MS, Yeh HR, Ko TS. Fast oscillation dynamics during hypsarrhythmia as a localization biomarker. J Neurophysiol 2018;119:679-87.
+- 15. Cederroth CR, Lugo A, Edvall NK, Lazar A, Lopez-Escamez JA, Bulla J, et al. Association between hyperacusis and tinnitus. J Clin Med 2020;9:2412.
+- 16. Refat F , Wertz J, Hinrichs P , Klose U, Samy H, Abdelkader RM, et al. Co-occurrence of hyperacusis accelerates with tinnitus burden over time and requires medical care. Front Neurol 2021;12:627522.
+- 17.  Sheppard A, Stocking C, Ralli M, Salvi R. A review of auditory gain, low-level noise and sound therapy for tinnitus and hyperacusis. Int J Audiol 2020;59:5-15.
+- 18.  Chen YC, Chen GD, Auerbach BD, Manohar S, Radziwon K, Salvi R. Tinnitus and hyperacusis: contributions of paraflocculus, reticular formation and stress. Hear Res 2017;349:208-22.
+- 19.  Liu Y, Alkharabsheh A, Sun W. Hyperexcitability of the nucleus accumbens is involved in noise-induced hyperacusis. Neural Plast 2020;2020:8814858.
+- 20. Eggermont JJ. Separate auditory pathways for the induction and maintenance of tinnitus and hyperacusis? Prog Brain Res 2021; 260:101-27.
+- 21.  Mazurek B, Stöver T, Haupt H, Klapp BF , Adli M, Gross J, et al. The significance of stress: its role in the auditory system and the pathogenesis of tinnitus. HNO 2010;58:162-72.
+- 22.  Maciaszczyk K, Durko T, Waszczykowska E, Erkiert-Polguj A, Pajor A. Auditory function in patients with systemic lupus erythematosus. Auris Nasus Larynx 2011;38:26-32.
+
+- 23. Gaudreau P, Moy J, Lindsay F . An unusual cause of vertigo, tinnitus, and hyperacusis: Vogt-Koyanagi-Harada syndrome. Ear Nose Throat J 2012;91:E7-9.
+- 24.  Guerra Jiménez G, Mazón Gutiérrez Á, Marco de Lucas E, Valle San Román N, Martín Laez R, Morales Angulo C. Audio-vestibular signs and symptoms in Chiari malformation type i. Case series and literature review. Acta Otorrinolaringol Esp 2015;66:28-35.
+- 25.  Kusdra PM, Stechman-Neto J, Leão BLC, Martins PFA, Lacerda ABM, Zeigelboim BS. Relationship between otological symptoms and TMD. Int Tinnitus J 2018;22:30-4.
+- 26.  Noreña AJ, Fournier P , Londero A, Ponsot D, Charpentier N. An integrative model accounting for the symptom cluster triggered after an acoustic shock. Trends Hear 2018;22:2331216518801725.
+- 27.  Beh SC, Masrour S, Smith SV , Friedman DI. The spectrum of vestibular migraine: clinical features, triggers, and examination find-
+- ings. Headache 2019;59:727-40.
+- 28.  Chen D, Wang Z, Jia G, Mao H, Ni Y. The role of anti-endothelial cell autoantibodies and immune response in acute low-tone hearing loss. Ear Nose Throat J 2021;100(3_suppl):292S-300S.
+- 29.  Ward BK, van de Berg R, van Rompaey V, Bisdorff A, Hullar TE, Welgampola MS, et al. Superior semicircular canal dehiscence syndrome: diagnostic criteria consensus document of the committee for the classification of vestibular disorders of the Bárány Society. J Vestib Res 2021;31:131-41.
+- 30.  Koops EA, van Dijk P . Hyperacusis in tinnitus patients relates to enlarged subcortical and cortical responses to sound except at the tinnitus frequency. Hear Res 2021;401:108158.
+- 31. Ralli M, Salvi RJ, Greco A, Turchetta R, De Virgilio A, Altissimi G, et al. Characteristics of somatic tinnitus patients with and without hyperacusis. PLoS One 2017;12:e0188255.

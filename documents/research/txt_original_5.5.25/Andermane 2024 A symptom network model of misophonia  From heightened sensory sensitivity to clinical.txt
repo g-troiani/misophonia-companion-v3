@@ -1,0 +1,858 @@
+Received: 6 February 2023 |Accepted: 31 May 2023
+DOI: 10.1002/jclp.23552
+RESEARCH ARTICLE
+A symptom network model of misophonia: From
+heightened sensory sensitivity to clinicalcomorbidity
+Nora Andermane |Mathilde Bauer |Julia Simner |Jamie Ward
+School of Psychology, University of Sussex,
+Brighton, UK
+Correspondence
+Jamie Ward, School of Psychology, University
+of Sussex, Falmer, Brighton BN1 9QH, UK.
+Email: jamiew@sussex.ac.uk
+Funding information
+The Misophonia Research Fund of the REAM
+FoundationAbstract
+Objectives: Misophonia —an unusually strong intolerance of
+certain sounds —can cause significant distress and disrup-
+tion to those who have it but is an enigma in terms of ourscientific understanding. A key challenge for explaining
+misophonia is that, as with other disorders, it is likely to
+emerge from an interaction of traits that also occur in the
+general population (e.g., sensory sensitivity and anxiety)
+and that are transdiagnostic in nature (i.e., shared withother disorders).
+Methods: In this preregistered study with a large sample of
+participants ( N= 1430), we performed a cluster analysis
+(based on responses to questions relating to misophonia)
+and identified two misophonia subgroups differing in
+severity, as well as a third group without misophonia. A
+subset of this sample ( N= 419) then completed a battery of
+measures designed to assess sensory sensitivity and clinical
+comorbidities.
+Results: Clinical symptoms were limited to the most severe
+group of misophonics (including autistic traits, migraine
+with visual aura, anxiety sensitivity, obsessive ‐compulsive
+traits). Both the moderate and severe groups showed
+elevated attention ‐to‐detail and hypersensitivity (across
+multiple senses). A novel symptom network model of the
+J Clin Psychol . 2023;79:2364 –2387. 2364|wileyonlinelibrary.com/journal/jclpThis is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and
+reproduction in any medium, provided the original work is properly cited.
+© 2023 The Authors. Journal of Clinical Psychology published by Wiley Periodicals LLC.
+
+data shows the presence of a central hub linking
+misophonia to sensory sensitivity which, in turn, connects
+to other symptoms in the network (relating to autism,
+anxiety, etc.).
+Conclusion: The core features of misophonia are sensory ‐
+attentional in nature with severity linked strongly to
+comorbidities.
+KEYWORDS
+anxiety, comorbidity, interoception, misophonia, network model,
+sensory sensitivity
+1|INTRODUCTION
+Misophonia is a disorder of decreased tolerance to specific sounds, referred to as triggers (Jastreboff & Jastreboff,
+2001 ,2002 ; Swedo et al., 2022 ). Trigger sounds can be idiosyncratic but are often human ‐made noises that
+originate from the mouth (lip ‐smacking, crunching, chewing, breathing). Triggers can also include repetitive noises
+(e.g., clicking and tapping) or sounds made by animals or inanimate objects (e.g., clocks, fans, bass from speakers
+etc.). While most people perceive such triggers as moderately irritating or might even fail to notice them, theemotional reactions experienced by misophonics include anger, disgust, anxiety, and feelings of powerlessness, as
+well as physiological responses such as increased heart rate, sweating and a strong wish to escape consistent with
+the fight ‐or‐flight response (Dozier & Morrison, 2017 ; Edelstein et al., 2013 ; Rouw & Erfanian, 2018 ; Schröder
+et al., 2013 ,2019 ). Although little is known about its epidemiology, misophonia is thought to be relatively common.
+Jakubovski et al. ( 2022 ) found that 5% of a German representative sample reported what they described as
+clinically significant misophonia. Misophonia is often comorbid with other clinical disorders and symptoms such asgeneralized anxiety (Wu et al., 2014 ), autism (Cassiello ‐Robbins et al., 2021 ; Rinaldi, Simner, et al., 2022 ) and
+obsessive ‐compulsive personality traits (Brout et al., 2018 ; Cavanna & Seri, 2015 ; Schröder et al., 2013 ). These
+profiling studies represent important first steps in characteristing misophonia but what is lacking is a mechanistic
+understanding of how and why these features co ‐occur.
+Current approaches to understanding mental disorders typically regard them as emerging from multiple simpler
+interacting elements that are, to some degree, prevalent within the general population and shared by other
+disorders (i.e., transdiagnostic). For example, Insel et al. ( 2010 ) proposed a new framework for research on mental
+disorders, which treats any contributing factor as interacting elements they term “domains, ”in an approach the
+authors call Research Domain Criteria, RDoC. These domains consist of systems such as learning, arousal, and so on,
+with the ultimate goal of having a diagnosis and treatment based on an understanding of these mechanisms (Inselet al., 2010 ). A related mathematical modeling approach regards mental disorders as a network of symptoms (Fried
+et al., 2017 ), and symptoms themselves potentially explicable as a network of interacting simpler elements (like the
+domains in the RDoC approach). When several symptoms interact with each other they would appear, in a networkmodel, as an inter ‐connected hub. These hubs may approximate traditional multi ‐symptom diagnostic categories.
+But note that they emerge in a data ‐driven way from sets of partial correlations (e.g., worry symptoms correlating
+with negative affect symptoms) independently of clinical judgments. Crucially, comorbidities arise because some
+symptoms/domains are shared between hubs (Fried et al., 2017 ). In this scenario, comorbidities are a natural
+product of how disorders arise, rather than a failure to develop sufficiently precise clinical classifications to avoid
+this situation in the first place (Borsboom, 2017 ). Network approaches naturally lend themselves to “spectrum ”ANDERMANE ET AL. |2365
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+views where each disorder can vary in terms of both severity and symptom presentation. This creates complex
+issues about how to diagnose and treat misophonia (Schröder et al., 2013 ) and, from a scientific perspective, how to
+identify relevant elements and understand their interactions. Network models are informative in this regard
+because it is possible to quantify whether symptoms are central (influence many other symptoms) or peripheral
+(having little influence) by, for example, summing the partial correlations emanating from each. The networkapproach has been applied to disorders such as post ‐traumatic stress disorder (Armour et al., 2017 ), bipolar disorder
+(Pfennig et al., 2016 ; Ritter et al., 2015 ) and psychosis (Isvoranu et al., 2016 ). Here we apply it to the first time to
+misophonia.
+In terms of the simpler domains relevant to misophonia, there are several candidates which we explain in turn
+below: interoception (and/or physiological reactivity), sensory sensitivity (Wu et al., 2014 ), and social ‐emotional
+cognition (e.g., Cusack et al., 2018 Eijsker et al., 2019 ; Jager et al., 2020 ). Interoception refers to our ability to detect
+and interpret signals from the body (heart, viscera, etc.) and can itself be divided into further domains (e.g.,interoceptive accuracy v. interoceptive awareness, Garfinkel et al., 2015 ). These processes may be linked to
+misophonia because auditory triggers elicit strong bodily reactions (Dozier, Lopez, et al., 2017 ; Edelstein et al.,
+2013 ) and neural activity in regions linked to interoception (Kumar et al., 2017 ). Sensory sensitivity is our
+responsiveness to the exteroceptive world (e.g., our responses to lights, sounds, tastes, odors etc.), and can be
+classified as hyper ‐sensitivity (over responsiveness, e.g., finding lights too bright) or hypo ‐sensitivity (under
+responsiveness, e.g., failing to notice smells, sounds etc.). Misophonia may be similar to a family of potentiallyrelated conditions that share this trait of sensitivity, including hyperacusis (Fackrell et al., 2017 ), autism (Ward et al.,
+2017 ), and migraine (Hibbard & O'Hare, 2015 ). There is some evidence that people with misophonia experience
+discomfort in response to a broad range of sounds not limited to their own triggers (Hansen et al., 2021 ) and this
+sensitivity even extends into heightened responses in the nonauditory domain (e.g., sensitivity to smells, tastes etc.,:Rinaldi, Simner, et al., 2022 ; Wu et al., 2014 ). Finally, social skills may be implicated at the core of misophonia given
+that misophonia is characterized by interpersonal difficulties (e.g., annoyance with others), and changes in social
+behavior (e.g., avoiding family meals; Rinaldi et al., 2021 ) and since most misophonic triggers are human ‐made
+sounds (Edelstein et al., 2013 ).
+In this study we test the hypothesis that misophonia co ‐occurs with a number of symptoms and traits,
+specifically: autistic traits (measured via the Autism Spectrum Quotient [AQ]; Baron ‐Cohen et al., 2006 ), anxiety
+(measured by the Anxiety ‐Sensitivity Index [ASI ‐3]; Taylor et al., 2007 ), migraines (measured via the Penn Online
+Evaluation of Migraines [POEM]; Kaiser et al., 2019 ), obsessive ‐compulsive traits (measured via the Obsessive ‐
+Compulsive Inventory [OCI]; Foa et al., 1998 ), as well as other hearing ‐related conditions (e.g., tinnitus, hyperacusis;
+Aazh et al., 2022 ). We also hypothesize that misophonia is directly related to heightened sensory sensitivity, as
+measured by the self ‐report Glasgow Sensory Questionnaire (GSQ) (Robertson & Simmons, 2013 ) which asks about
+different sensory modalities, and a task ‐based measure of “visual stress ”termed the Pattern Glare test (Braithwaite
+et al., 2013 ). Here, striped patterns of different spatial frequencies are presented on a screen and participants
+experience mid ‐and high ‐spatial frequencies as particularly aversive, generating visual distortions (i.e., bending of
+lines and jittering) and somatic discomfort (i.e., headache and dizziness). Interoceptive sensibility can be regarded as
+a particular form of (embodied) sensory sensitivity and the multidimensional assessment of interoceptiveawareness (MAIA) (Mehling et al., 2012 ) asks how much people notice, rely on, trust (etc.) their body sensations.
+In terms of measuring and diagnosing misophonia i tself, there are a variety of measures that have
+recently been developed that have good convergent validity with each other. Here we use the Sussex
+Misophonia Scale (SMS; Rinaldi et al., 2021 ;R i n a l d i ,S m e e s ,e ta l . , 2022 ) which asks about common
+misophonia triggers and contains a set of Likert questions which, when responses are summed together,
+offers excellent dis criminative validity (Rinaldi et al., 2021 ). It has been independently validated against the
+m o s tw i d e l yu s e dm i s o p h o n i am e a s u r et od a t e( t h eM i s o p h o n i aQ u e s t i o n n a i r e[ M Q ] ;W ue ta l . , 2014 ) and has
+both convergent validity and divergent validity (Rinaldi et al., 2021 ). Another reason for choosing this
+measure is that it consists of five factors. This ena bled us to explore possible heterogeneity amongst2366 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+misophonics (see also Norris et al., 2022 ). For example, some misophonics may be misophonic via high scores
+o nF a c t o r s1a n d2a n do t h e r sv i aF a c t o r s3 −5. To anticipate our results, we will present a cluster analysis
+where we find that the misophonia subgroups are not d efined according to individual factors, they are
+defined in terms of misophonia severity (i.e., high, medium, and low across all factors). We further
+demonstrate that severity is a strong predictor of co ‐morbidity of clinical symptoms. Finally, having five
+factors relating to misophonia enables these to b e modeled separately withi n a symptom network model
+leading to a better understanding of how different facets of misophonia are linked to sensory sensitivities and
+clinical symptoms.
+2|METHOD
+The method and analysis plan were fully preregistered ( https://osf.io/27fgv/ ) and any deviations to the plan are
+explicitly noted. The anonoymised data (raw and processed) are available at the same OSF location, alongside
+analysis scripts.
+2.1 |Participants
+Participants were recruited into a two ‐part online study from a variety of sources likely to favor either people with
+misophonia or non –misophonics. In the former case, a very large group of self ‐reported misophonics joined our
+participant pool following a BBC radio interview where we discussed misophonia and invited misophonics tocontact us (May 18, 2021); we received N= 1158 responses after exclusions. In addition, a group of people were
+recruited via the student body, via acquaintances, and via an online participation panel (hosted by https://www.
+prolific.co ); together these comprised N= 272 after exclusions. Assignment into groups was based on a cluster
+analysis of the factors scores from a validated measure of misophonia (SMS; Rinaldi et al., 2021 ) rather than the
+initial recruitment stream. Hence, the details of the extracted groups are reported in the Results (and their
+demographic details summarized in Table 1). To anticipate these results, we found that participants fell into three
+groups: non –misophonics, moderate misophonics, and severe misophonics (see Results and Table 1).
+The inclusion criteria were being aged 18 −70 years with self ‐reported normal or corrected ‐to‐normal
+vision and hearing. In Part 2, participants with epileps y were excluded (a normal criteria for the Pattern Glare
+test; Braithwaite et al., 2013 ; Evans & Stevenson, 2008 ). Additionally, participants were excluded after data
+collection if their responses were su bstantially incomplete (to be include d participants needed to complete all
+of the questionnaires except the pattern glare task) or unfeasibly fast (<25 min across all measures, or <8 min
+on the Phenomenological Responses to Sounds task). Duplicate attempts at completing the task battery from
+the same participant were excluded (with the last full a ttempt retained). Details about excluded participants
+from Part 2 can be found in the Supporting Information Material.
+Our final participants repr esented a combined sample of N= 1430, all of whom completed Part 1 of the
+study (misophonia screening and hearing profile), and a subgroup ( N= 419) completed Part 2 (clinical
+comorbidities and sensory sensitivity). There w as a small amount of missing data from the included
+participants ( N= 26 for the pattern glare, N= 1 for the auditory sensory sensiti vity task). For Part 2, an a priori
+power analysis, conducted in G*Power, based on N= 201 in two groups showed that this sample size would
+be sensitive to detect small effect sizes (Cohen's d=0 . 3o rP e a r s o n ' s r= 0.15 and above) at a power of 85%,
+α= 0.05. Comparing sub ‐groups of N= 105 would be sufficient to detect medium effect sizes size (Cohen's
+d= 0.5 or equivalent) with a power of 95%, α= 0.05.
+This study was approved by The Cross ‐Schools Science and Technology Research Governance and Ethics
+Committee of the University of Sussex, UK.ANDERMANE ET AL. |2367
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2.2 |Materials and procedure
+Part 1 comprised the Hearing Questionnaire and SMS. All other measures were taken in Part 2. All research was
+conducted online with the tasks hosted on our own website ( https://www.misophonia-hub.org/ ). The median time
+to complete Part 1 of the study was 7.77 min and for Part 2 it was 46.38 min. All questionnaire items required a
+forced response, whereas responses for the Phenomenological Responses to Sounds (considered elsewhere) and
+Pattern Glare task descriptors used a Visual Analog Scale (with an initial default of 0). Participants completing Part 2were required to use a computer screen (a necessity for the Pattern Glare task) and ideally headphones (for theTABLE 1 Demographic details of participants who completed the first and second parts of the study (the latter
+is a subsample of the former).
+Part 1: Participant characteristics following cluster analysis
+Non–misophonic
+(Cluster 1)Moderate misophonia
+(Cluster 2)Severe misophonia
+(Cluster 3)
+N= 1430 367 643 420
+Age in years 38.38 (17.38) 47.17 (13.74) 43.28 (14.14)
+Gender (F: M: Non ‐bin) 260: 103: 3 514: 126: 1 344: 65: 9
+Sussex Misophonia Scale, SMS
+N triggers (/48) 10.27 (7.70) 20.85 (9.42) 27.50 (10.35)
+Total score 17.65 (13.85) 65.18 (13.39) 102.17 (14.92)
+Total score > 50.5 0% 83.8% 100%F1: Feelings of isolation 7.63 (7.90) 30.93 (8.57) 45.30 (7.79)
+Z=−1.32 (0.49) Z= 0.11 (0.53) Z= 0.99 (0.48)
+F2: Life consequences 0.89 (1.45) 5.19 (3.45) 12.20 (4.58)
+Z=−0.95 (0.26) Z=−0.17 (0.63) Z= 1.10 (0.83)
+F3: Inter ‐social Reactivity 1.12 (1.55) 6.51 (3.21) 10.93 (3.73)
+Z=−1.12 (0.33) Z=−0.02 (0.68) Z= 0.95 (0.79)
+F4: Avoidance Repulsion 7.10 (4.93) 18.62 (3.87) 24.07 (3.74)
+Z=−1.33 (0.64) Z=−0.18 (0.51) Z= 0.89 (0.49)
+F5: Pain 0.90 (1.77) 3.93 (3.24) 9.67 (3.59)
+Z=−0.87 (0.39) Z=−0.20 (0.72) Z= 1.07 (0.79)
+Part 2: Assessment of clinical comorbidities and sensory sensitivity
+Nonmisophonic
+(Cluster 1)Moderate misophonia
+(Cluster 2)Severe misophonia
+(Cluster 3)
+N= 419 196 113 110
+Age in years 33.08 (14.29) 42.09 (14.70) 40.92 (13.95)
+Gender (F: M: Non ‐bin) 140: 55: 1 86: 25: 2 90: 17: 3
+Note : Division into three groupings was made via a cluster analysis on the five factors (F1 −F5) of the Sussex Misophonia
+Scale (SMS) on the data collected in Part 1 ( N= 1430). Figures in parentheses show 1 S.D.2368 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Phenomenological Responses to Sounds task), or a computer speaker. A summary of the list of materials and
+procedure is given below in the order in which they are completed by participants.
+2.2.1 |Hearing questionnaire
+The hearing questionnaire describes distinct experiences of sound intolerance and hearing problems. Participants
+are asked “Do any of these apply to you? ”and given descriptions of migraine phonophobia, phonophobia,
+misophonia, hyperacusis, tinnitus, and hearing difficulties. These were adapted from several sources (Dawes et al.,2020 ; Fackrell et al., 2017 ; Swedo et al., 2022 ) in consultation with a Clinical Audiologist. The descriptions are listed
+below.
+“Migraine phonophobia: A temporary increase in sound intolerance that is related to a migraine
+attack and fades away after the event. ”
+“Phonophobia: When some or all sounds consistently cause extreme fear or anxiety which does not
+bother other people in the same way. ”
+“Misophonia: When sounds (e.g., crunching) consistently cause extreme emotions like anger or
+disgust which does not bother other people in the same way. ”
+“Hyperacusis: When everyday sounds feel overwhelming, loud, intense, or painful that do not bother
+other people in the same way. ”
+“Tinnitus: Experiencing persistent or intermittent noises (such as ringing or buzzing) in your head or
+in one or both ears that lasts for more than 5 min at a time (even if you haven't been exposed to loudnoises or music). ”
+“Hearing difficulties: Do you find it very difficult to follow a conversation if there is background noise
+(such as TV, radio, children playing)? ”
+Participants answered these questions on a 4 ‐point scale ( “This definitely does NOT apply to me, ”“I don't think
+this applies to me ”,“This may apply to me, ”“This definitely DOES apply to me ”). Additionally, we asked whether
+participants had sought any help (e.g., from a doctor, audiologist, and psychiatrist) for one or more of theseproblems with options Yes/No.
+2.2.2 |SMS
+The SMS is a two ‐part questionnaire with Part 1 eliciting infor mation about specific triggers for misophonia
+(e.g., chewing sounds) and Part 2 comprising 39 Likert ‐type questions about the associated experiences of
+people with misophonia (e.g., feelings, behaviors and life consequences) (Rinaldi et al., 2021 ). Hence, Part 1
+contains 48 potential triggers for misophonia (e.g. , crunching) grouped into eight categories (e.g., “Ih a t e …the
+sound of people eating ”) followed by the specific related triggers (e.g., “crunchy foods [e.g., apples] ”,“crispy
+snacks, ”“chewing ”etc.). The questionnaire items in Part 2 (e.g., “I avoid going to work because of difficulties
+with sounds ”) are rated on a scale from 0 to 4 (Never, Hardly Ever, Sometimes, Often, Always), with the total
+score ranging from 0 to 156. The items in part 2 fall into fiv e factors as follows: feelings/isolation (16 items),
+life consequences (work/friends) (6 items), inter ‐social reactivity (5 items), avoidance/repulsion (8 items), and
+pain (4 items). Rinaldi et al. ( 2021 ) show that a cut ‐off value of 50.5 on the SMS has “excellent ”discriminative
+ability between misophonics and non ‐misophonics (AUC = 0.91). The Cronbach's alpha reliability of SMS in
+our sample was 0.98.ANDERMANE ET AL. |2369
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2.2.3 |Phenomenological responses to sounds
+This task is written up as a separate study (Andermane et al., 2023 ), with the detailed methodology including
+stimulus creation described in the pre ‐registration ( https://osf.io/27fgv/ ). This task is an extension of prior research
+in which misophonics are presented with a range of sounds and asked to rate them for discomfort (Edelstein et al.,2013 ; Hansen et al., 2021 ). The sound clips lasted 15 s each and belonged to four different categories, with 8
+sounds per category (human oral ‐nasal, other human, nonhuman, and scrambled sounds). The key innovation in our
+task was to obtain a multivariate profile of responses across 17 descriptors (e.g., pain, rage, disgust and soothing)
+when listening to 32 sound clips.
+2.2.4 |AQ
+The AQ is 50 ‐item questionnaire comprising five subscales: attention switching, attention to detail, communication,
+imagination, and social skill. The scores on each subscale can range from 1 to 10 (Baron ‐Cohen et al., 2001 ).
+Example items include “I would rather go to a library than a party ”and “I enjoy doing things spontaneously ”(reverse
+coded). Responses are given on a 4 ‐point scale (Definitely disagree, Slightly disagree, Slightly agree, and Definitely
+agree) and recoded as 1 or 0 depending on whether the trait resembles an autistic behavior or not. The Cronbach'salpha reliability of the AQ in our sample was 0.85.
+2.2.5 |The GSQ
+The GSQ is a 42 ‐item questionnaire with the total score ranging from 0 to 168 (Robertson & Simmons, 2013 ). Items
+covering seven sense domains ( visual ,auditory ,gustatory ,olfactory ,tactile ,vestibular, proprioception ) with half of all
+items measuring Hyper ‐sensitivity (e.g., “Do you hate the feeling or texture of certain foods in your mouth? ”) and half
+measuring hypo ‐sensitivity (e.g., “Do you enjoy wearing very strong perfumes/after ‐shaves? ”). Responses are given
+on a 5 ‐point scale coded from 0 to 4 (Never, Rarely, Sometimes, Often, and Always). The Cronbach's alpha reliability
+of the GSQ in our sample was 0.90.
+2.2.6 |The ASI ‐3
+The ASI ‐3 includes 18 questions that are divided in three subscales: Cognitive, Physical, and Social (Taylor et al.,
+2007 ). Example items include “I worry that other people will notice my anxiety ”(Social) and “When I have trouble
+thinking clearly, I worry that there is something wrong with me. ”(Cognitive). Responses are given on a 5 ‐point scale
+from 0 to 4 (Very little, A little, Some, Much, Very much). The scores on each subscale can range from 0 to 24 and
+the total score from 0 to 72. The Cronbach's alpha reliability of the ASI ‐3 total in our sample was 0.93. The ASI was
+chosen over alternative measures (e.g., STAI State ‐Trait Anxiety Index, Spielberger et al., 1983 ) because the division
+into three factors fitted well with the symptom ‐level approach of this study but with the caveat that this may be
+capturing anxiety ‐related processes rather than longer ‐term history of clinical anxiety.
+2.2.7 |The MAIA
+The MAIA is a 32 ‐item questionnaire that assesses interoceptive abilities or bodily awareness relating to distinct
+aspects of embodied experience (Mehling et al., 2012 ). It consists of eight subscales: Noticing (4 items), Not2370 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Distracting (3 items), Not Worrying (2 items), Attention Regulation (7 items), Emotional Awareness (5 items), Self ‐
+Regulation (4 items), Body Listening (3 items), and Trusting (3 items). Examples include items such as “I listen to my
+body to inform me about what to do ”(Body Listening) and “I notice when I am uncomfortable in my body ”
+(Noticing). The items are rated on a scale from 0 to 5 (from Never to Always) and the subscale scores are calculated
+by computing the average score in each. Five items were reverse ‐scored. The Cronbach's alpha reliability of the
+total MAIA score in our sample was 0.92.
+2.2.8 |OCI
+The OCI (Foa et al., 1998 )i sa4 2 ‐item questionnaire assessing the experiences that characterize the obsessive ‐
+compulsive disorder (e.g., “Unpleasant thoughts come into my mind against my will and I cannot get rid of them ”or
+“I check things more often than necessary ”). The items are rated on a 5 ‐point scale rated from 0 to 4 (Not at all, A
+little, Moderately, A lot, Extremely) and the total score ranges from 0 to 168. The 42 items form seven subscales,
+which are based on symptom categories that are commonly found in obsessive –compulsive disorder: Checking (9
+items), Washing (8 items), Obsessing (8 items), Mental Neutralizing (6 items), Ordering (5 items), Hoarding (3 items),
+and Doubting (3 items). The Cronbach's αreliability of the OCI in our sample was 0.96.
+2.2.9 |Migraine and headache (POEM)
+The POEM covers the experience of migraines and headaches (Kaiser et al., 2019 ). The questionnaire has a
+branching logic, such that some questions are conditional on particular responses to other questions. The questions
+pertain to headache history, including headache duration, frequency and severity, as well as asking about particular
+headache types, headache triggers, and whether the headaches are accompanied by other symptoms (e.g.,sensitivity to light and sound, visual experiences or aura). Based on their responses, participants are classified into
+one of seven categories: headache ‐free (HA ‐free), mild non ‐migrainous headache (MNMH), headache not
+otherwise specified (NOS), migraine without aura (MwoA), migraine with visual aura, and migraine with other aura,and migraine with both visual and other aura (the latter three belonging to the broader migraine with aura (MWA)category). The POEM is moderately sensitive (i.e., 42% −83% sensitivity) but is highly specific (i.e., 84% −100%) in
+identifying subjects as HA ‐free (those that are headache free or with mild MNMH), as well as those with migraines
+without aura, or migraines with aura.
+2.2.10 |Visual sensitivity: Pattern glare task
+This task of visual sensitivity was based on previous studies on visual stress (Evans & Stevenson, 2008 ; Fong et al.,
+2019 ). Participants are asked to view black and white parallel lines of various spatial frequencies (low, middle, and
+high) for 12 s, and then to rate the discomfort and reactions experienced when viewing these gratings (on 19
+descriptors, see below). The stimuli were created by Braithwaite et al. ( 2013 ) and consisted of black and white
+alternating horizontal stripes presented in an oval window around a small fixation point and against a mid ‐gray (RGB
+128,128,128) background. The low ‐, mid ‐, and high ‐spatial frequency stimuli comprised of 4.5, 31.5, and 130 cycles
+(i.e., stripes) and were always presented centrally at their actual resolution of 652 × 500 pixels. When viewed at an
+appropriate distance this corresponds to around 0.4, 3.0, and 12.4 cycles per degree (1° being around 40 pixels).
+Given that the blind spot has a known eccentricity of 12 −15°, one can use this to calibrate a viewing distance by
+making two red dots located at 480 and 600 pixels (12 −15° ×40 pixels) “disappear ”—a form of “virtual chinrest ”(Li
+et al., 2020 ). Participants were asked to close their left eye and stare at a central fixation cross. There were two redANDERMANE ET AL. |2371
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+dots, positioned to the right of fixation, and participants were instructed to move their head backwards and
+forwards until both dots disappeared. At this point, participants were instructed to open both eyes and remain atthis approximate distance to the screen.
+Our stimuli are known to trigger “glare ”at medium and high (but not low) spatial frequency. This glare takes a number
+of different forms from person to person (e.g., lines appear to shimmer, or bend, or blur etc.; see below), and we provided
+19 such descriptors which participants rated using a visua l analog scale with slider values ranging from 0 to 100. An
+exploratory factor analysis (EFA) based on a separate no rmative sample (see the preregistered analyses on OSF: https://
+osf.io/qpv7d ) revealed the presence of two factors that we refer to a s Visual Distortions (comprising the descriptors:
+Illusory stripes, Bending of lines, Faint lines, Shadowy shapes, Shimmering, and Flickering) and Somatic Discomfort(comprising the descriptors: Headache, Unease, Nausea, Lighthe adedness, Dizziness, Visual pain , Physical eye strain, Jitter,
+and Zooming). Factor scores were derived by averaging the res ponses across the relevant items for each spatial frequency
+(noting that two descriptors were n ot retained after factor analyses: “Colors ”and “Blur”).
+2.3 |Analysis plan
+2.3.1 |Cluster analysis based on the SMS
+A cluster analysis is a data ‐driven approach to identifying g r o u p so fp a r t i c i p a n t s( J a i n , 2010 ). This approach is considered
+appropriate given that misophonia may well show sub ‐classes (e.g., differing by severity or symptom profile) even though
+there is currently no commonly agreed taxonomy for identify ing them. We therefore ran an an alysis that would allow us to
+stratify our sample into sub ‐groups, beyond a simple dichotomy of presence/ absence of misophonia. For this analysis, the
+dependent variables were the scores of the five factors of the SM S (i.e., feelings/isolation, life consequences, intersocial
+reactivity, avoidance/repulsion, and pain), here converted to z ‐scores to ensure they are on the same scale (given the
+differing numbers of items within each factor). In theory, th is type of approach could identify a subgroup of misophonics
+who are high on, for example, factors 1, 2 and 3 versus another subgroup high on 4 and 5. A two ‐step cluster analysis was
+performed (Zhang et al., 1996 ). The first step involves hi erarchical clustering, using Ward's method (Ward, 1963 ), and
+serves the purpose of identifying a plausi ble number of clusters and generating an in itial set of cluster centroids (i.e. group
+means across the five factors). The seco nd step involves a nonhierarchical k ‐m e a n sa n a l y s i sw i t h5 0i t e r a t i o n s ,w h i c h
+generates a final set of centroids and classifies each particip ant in one of the groups. Extracting three or more groups offers
+a way of exploring stratification beyond a simple dichotomy o f presence/absence of misophonia and allows us to explore
+how participants might differ in their expression of misophonia.
+2.3.2 |Inferential statistics
+The questionnaires with continuous dependent variables (AQ, GSQ, OCI, MAIA, and ASI ‐3) were analyzed as mixed
+linear models ( ttests, analysis of variance [ANOVA]) with participant group as a between ‐subject independent
+variable. Following the cluster analysis, the participants were grouped in three groups: nonmisophonic, moderate
+misophonia, and severe misophonia. Subscale was an additional independent variable (e.g., the AQ comprises five
+subscales). When appropriate, we applied post hoc one ‐way ANOVAs on each variable and Tukey HSD or
+Dunnett's T3 comparisons to identify group differences depending, respectively, on whether equal variances areassumed or not (as indicated by the Levene's test). Categorical dependent variables (e.g., for headache data in the
+POEM) are analyzed via chi ‐square against group membership. To account for multiple comparisons, we employed
+false discovery rate (FDR, Benjamini & Hochberg, 1995 ) on the set of pvalues for the group differences.
+Effect sizes (Cohen's d) and Bayes factors are calculated for each measure separately. Bayes factors are
+computed using the Dienes ( 2014 ) calculator implemented in R. The observed data for calculating Bayes factors is2372 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+the difference in means between the groups and the standard error (SE) of the difference. The prior was modeled
+using the room ‐to‐move heuristic (Dienes, 2019 ). This heuristic makes the assumption that small group differences
+are more probable than larger differences and, moreover, that the ceiling of any such difference is the ceiling of the
+scale itself. Specifically, the distance between the non ‐misophonic mean and the scale ceiling is operationalized as
+two standard deviations of the half ‐normal.
+2.3.3 |Symptom network modeling
+We included 31 nodes in the model, one for each of the following symptoms (e.g., scale factors): SMS ( N=5 ) ,A Q( N=5 ) ,
+GSQ ( N= 1, i.e., taking the overall score), OCI ( N=7 ) , M A I A ( N=8 ) , A S I ‐3(N= 3), and visual pattern glare responses to
+medium spatial frequency stimuli ( N= 2). As these scales are continuous data, a Gaussian Graphical Model was used. This
+was conducted in R using the qgraph package with the c ode and data made public. The model also contains “edges, ”which
+are the connections between nodes (symptoms), and are partia l correlations estimated by pairwise random Markov fields
+(Epskamp et al., 2012 ). For example, an edge between the symptoms of anx iety sensitivity and sensory sensitivity would
+represent the connection between these symptoms in terms of t heir partial correlations in our data. Model selection was
+based on EBIC (Extended Bayesian Inform ation Criteria) and the default gamma parameter of 0.5 (which controls how
+sparse the model is so not all noes are fully connected). The graphical LASSO (least absolute shrinkage and selection
+operator) is applied for regularization, that is, to reduce over ‐fitting, using the R glasso packag e. This shrinks all coefficients
+in a systematic way and sets small ones to zero (Friedman et al., 2008 ).
+After the network has been estimated, the robustness and stability was explored following the guidelines of
+Epskamp et al. ( 2018 ). This was conducted in R using the bootnet package with N= 1000 bootstrapped resamples
+taken. This ultimately replaces a single weight estimate for each edge with a distribution of weights for each edge
+from which other metrics can be derived: that is, each edge is a distribution of partial correlations and not a single
+partial correlation. The extent to which a node is central and can be calculated by summing the edges (partialcorrelations) emanating out of each node, and it is possible to observe how stable these measures are to changes in
+the sample. The CS ‐coefficient (Centrality Stability) was computed with the corStability function. This measures
+whether the order of the node centrality (ranked from most to least central) is stable after observing only portionsof the bootstrapped data. If the network properties change substantially when dropping only a small number ofparticipants, then the model is unstable. This is based on a correlation between the original and reduced datasets of
+at least r= 0.7 (the size of the reduced data set to achieve this correlation is estimated). Secondly, the function
+bootInclude returns a probability (0 −1) that an edge will be present (i.e., weighted above zero) or absent in the
+bootstrapped models. A stable network would have edges that are consistently present and consistently absent.
+3|RESULTS
+3.1 |Cluster analysis of SMS
+Recall that participants were a ssigned into three groups (non –misophonic, moderate misophonia, and severe misophonia)
+based on their factor scores on the SMS (rather than the recruitment stream) which were entered into a cluster analysis.Visual inspection of the dendrogram (see Supporting Informa tion Results) suggested the ext raction of a small number of
+groups (2 or 3). However, if we limit our clustering to a two ‐group solution, this adds little more value than the original
+diagnostic cut ‐offs established via ROC curves (Rinaldi et al., 2021 ). A three ‐group solution to the cluster analysis
+generated groups who were low, medium, and high across al l five factors of the SMS. These became our three groups,
+respectively, and the outcome of the cluster analysis can be seen in Table 1(where z‐scores are more informative because
+they act as a common scale) with the full sample ( N= 1430). Specifically, the two group ss c o r i n gh i g h e s tt e n d e dt oc o m eANDERMANE ET AL. |2373
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+from the self ‐referred misophonic stream1, and generally met the diagnostic threshold for misophonia (a score > 50.5
+established by using a ROC analysis of the total SMS score; Rinaldi et al., 2021 ). Indeed, 84% in the moderate misophonia
+group and 100% of the severe misophonia group crossed this diagnostic threshold, while 0% of the non ‐misophonic group
+crossed it. The top two groups (i.e., moderate/severe misophonia) also tended to self ‐report misophonia in the hearing
+q u e s t i o n n a i r e( 9 1 %i nt h em o d e r a t eg r o u pa n d9 8 %i ns e v e r eg r o u p ,c o m p a r e dt o0 %i nt h en o n ‐misophonia group). The
+SMS total scores have also previously contrasted with a c ommonly used measure of misophonia severity, the MQ (Wu
+et al., 2014 ), where an SMS total score > 50.5 corresponds to a moderate score of ≥7 on the MQ (Rinaldi et al., 2021 ), with
+severe scores on the MQ ( ≥10) linked to total SMS scores > 80 (see figure in Supporting Information: Results). As such, our
+designation of “Moderate ”and “Severe ”is in line with the nomenclature of other misophonia studies. The three groups did
+not differ significantly according to gender but the misophonic groups tended to be older (F(2, 418) = 16.309, p< 0.001),
+which likely reflects the different recruitment sources (many non –misophonics were recruited from a University sample).
+The Supporting Information Material shows a repe at of our analyses with closer demographically ‐matched samples (albeit
+a smaller N) and demonstrates that the key findings are not confounded by this.
+In summary, a cluster analysis of misophonia scores (from the SMS questionnaire) points toward three groups
+that show a quantitative overall difference of misophonia in terms of symptom severity rather than a differentprofile across the five factors. Put differently, we do not see double dissociations among the z scores (e.g., one
+group high on factors 1, 2, 3, and another group high on factors 4 and 5) or even simple dissociations (e.g., one
+group high on four factors, and another high on all five factors). Further explorations show that the same trend (i.e.,grouping based on severity) is found when extracting four groups (see Supporting Information Materials). The sametrend is also found if factors that are highly correlated ( r> 0.7) are combined together before the analysis (as
+specified in our preregistration). Ultimately, the utility of any stratification in misophonia can be judged by its ability
+to predict other measures and real ‐life behavior. The results reported below show exactly this: the three ‐group
+solution (i.e., two misophonic groups differing in symptom severity plus nonmisophonics) does indeed provide
+important new information about clinical comorbidities.
+3.2 |Hearing questionnaire
+The three groups differed significantly in their ratings for all the hearing ‐related conditions ( p< 0.05), as shown in
+Figure 1, with full details of the one ‐way ANOVAs and post hoc t‐tests reported in Supporting Information Materi-
+als. Most group differences were between the non ‐misophonics and the other groups, but differences amongst
+misophonics (moderate vs. severe) were found for hyperacusis ( p= 0.005) and phonophobia ( p< 0.001).
+Professional help ‐seeking was generally low for all conditions, although the groups also differed significantly
+here too across the board ( p< 0.05). The sizeable difference between help ‐seeking in severe and moderate
+misophonia groups (22% vs. 6%) provides further external validity to the SMS and the notion of real ‐word
+differences between misophonic groups beyond a single diagnostic cut ‐off.
+3.3 |Clinical comorbidities
+Part 2 of the study assessed comorbidities and sensory sensitivity. The comorbidities that we considered are
+anxiety sensitivity (measured by the ASI ‐3), autism spectrum traits (measured by the AQ), obsessive ‐compulsive
+tendencies (measured by the OCI), and migraines/headaches (measured by the POEM). The results are summarized
+in Figure 2(overall scores) and Figure 3shows the effect sizes broken down by subscale (with means and SDs for
+subscale scores in the Supporting Information Materials).
+For the AQ, there were significant main effects of group ( F(2, 416) = 10.69, p< 0.001, η2= 0.05), subscale
+(F(4, 1664) = 188.54, p< 0.001, η2= 0.31), and a significant group X subscale interaction ( F(8, 1664) = 2.569,2374 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+p< 0.001, η2= 0.01). Post ‐hoc analyses showed significant group effects for social skills ( F(2, 416) = 3.76, p= 0.024,
+η2= 0.02), attention to detail ( F(2, 416) = 17.10, p< 0.001, η2= 0.08), and communication ( F(2, 416) = 7.46,
+p< 0.001, η2= 0.04). Neither attention switching nor imagination were linked to significant group differences
+(F(2, 416) = 2.91, p= 0.056, η2= 0.01, and F(2, 416) = 2.76, p= 0.065, η2= 0.01, respectively). Post hoc pairwise
+comparisons showed that all three groups differed from each other on attention ‐to‐detail (severe vs. moderate:
+p= 0.034; severe vs. non –misophonics: p< 0.001, moderate v. non ‐misophonics: p= 0.008) but the differences
+on social and communication subscales were driven by severe misophonics (social: severe vs. non –misophonics
+p= 0.025; communication: severe vs. non –misophonics p< 0.001, severe vs. moderate p= 0.016).
+FIGURE 1 Hearing profile as a function of misophonia severity: (top) mean agreement scores relating to
+whether they felt this symptom applied to them (using a 4 ‐point scale where 0 is neutral, error bars denote ± 1
+SEM), (bottom) percentage of participants in each group who have sought professional help for each symptom.ANDERMANE ET AL. |2375
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+For the ASI ‐3, there were significant main effects of group ( F(2, 416) = 8.06, p< 0.001, η2= 0.04) and subscale
+(F(2, 832) = 73.66, p< 0.001, η2= 0.15), but no significant group X subscale interaction ( F(4, 832) = 1.97, p= 0.10,
+η2= 0.01). Post ‐hoc tests, combining subscale scores, showed that severe misophonics differed significantly from
+moderates and non ‐misophonics (both p= 0.001), with the latter groups not differing significantly ( p= 0.867).
+For the OCI, there were significant main effects of group ( F(2, 416) = 6.84, p= 0.001, η2= 0.03) and subscale ( F
+(6, 2496) = 117.38, p< 0.001, η2= 0.22), and a significant group X subscale interaction ( F(12, 2496) = 2.09, p=
+0.015, η2= 0.01). Post hoc analyses showed significant group differences in five subscales (washing, checking,
+obsessing, ordering, doubting) which, in all cases, were due to significant differences between severe misophonicsand non ‐misophonics ( p= 0.004, 0.025, 0.045, <0.001, and 0.002 respectively), with no significant differences
+between moderate misophonics and non ‐misophonics. The difference between severe and moderate groups was
+significant for checking and ordering ( p= 0.026 and 0.031, respectively).
+The POEM classifies individuals according to how they exper ience headaches in distinct classifications (see above).
+One category, nonvisual aura, was rare in iso lation (generating expected counts < 5 in the χ
+2) so these cases was excluded
+from the analysis. Among the remaining categories, the associ ation between participant group and headache category was
+FIGURE 2 Group differences in clinical traits measured by the total Autism Spectrum Quotient (AQ) scores,
+total Anxiety Sensitivity Index (ASI ‐3) scores, and total Obsessive ‐Compulsive Inventory (OCI) scores. Mean ± 1
+SEM. The lower panels show the POEM headache categories: headache free (HA ‐free), mild nonmigrainous
+headache (MNMH), headache not otherwise specified (NOS), migraine without aura (MwoA), and migraine withaura (MWA). The MWA category is broken down into three specific aura symptoms (final panel).2376 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+significant, χ2(10, N= 403) = 21.54, p= 0.018. The severe misophonic grou p were more likely than the other two
+participant groups to experience migraines with aura (and less likely to have mild MNMH). Pairwise, severe misophonicsdiffered from non ‐misophonics ( χ
+2(5,N= 293) = 16.22, p= 0.006) but moderate misophonics did not differ significantly
+from either the severe or non ‐misophonic groups ( χ2(5,N= 297) = 6.67, p=0 . 2 4 6 a n d χ2(5,N= 216) = 7.94, p=0 . 1 6 0 ) .
+In summary, our research confirms findings of comorbidities b etween misophonia and autistic traits (Rinaldi, Simner,
+et al., 2022 ), anxiety sensitivity (Cusack et al., 2018 ), and obsessive ‐compulsive tendencies (Norris et al., 2022 ). We show,
+for the first time, a link between misophonia and MWA. The key n ovel contribution of our research is to show that clinical
+comorbidities are linked to the severity of misophonia rathe r than to misophonia status per se. We find only one trait that
+shows a significant difference linked to both groups of mis ophonia (moderate and severe) and this is unusual in that it
+relates to a cognitive ability rather than a problem/deficit (attention ‐to‐detail from the AQ).
+3.4 |Sensory sensitivity
+Our measures of sensory sensitivity consisted of questionnaires examining hyper ‐and hypo ‐sensitivity in seven
+different senses (the GSQ), as well as interoceptive awareness/sensibility (the MAIA), together with a test of visual
+stress (the Pattern Glare task).
+For the GSQ scores, a one ‐way ANOVA revealed a statistically significant difference between groups, F(2,
+416) = 24.16, p<0 . 0 0 1 , η2= 0.10, driven by differences between severe mi sophonics. The other two groups did not differ.
+For exploratory analyses (not preregistered), the GS Q can also be broken down by se nsory modality and hyper ‐versus
+hypo ‐sensitivity (over and under ‐responsiveness to incoming sensory informa tion, respectively). This is summarized, as
+Cohen's d effect sizes, in Figure 4.F o rG S Qh y p e r ‐sensitivities, there were signi ficant main effects of group, ( F(2,
+416) = 49.97, p<0 . 0 0 1 , η2=0 . 0 7 ) , m o d a l i t y ( F(6, 2496) = 374, p< 0.001, η2= 0.30), and a significant group X modality
+interaction ( F(12, 2496) = 16.40, p<0 . 0 0 1 , η2= 0.03). Post hoc analyses showed significant group differences in most
+Hypersensitivity subscales (Visual, Audit ory, Gustatory, Olfactory, Tactile, and V estibular) which were due to significant
+differences between participants with severe misophonia and non ‐misophonics across all modalities ( pvalues of <0.001,
+<0.001, <0.001, 0.001, 0.019, and <0.001, respectively). Par ticipants with moderate misophonia were also significantly
+FIGURE 3 Effect sizes (Cohen's d) for the misophonic groups, relative to nonmisophonics, on individual
+subscales of the clinical questionnaires (left) and the Glasgow Sensory Questionnaire (right).ANDERMANE ET AL. |2377
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+different from non ‐misophonics in terms of Auditory and Olfactory hypersensitivity ( p<0.001 and 0.002 respectively;
+individual auditory hyper ‐sensitivity questions are analyzed in the Suppo rting Information Results). Additionally,
+participants with moderate misophonia were significantly d ifferent from the severe group across all modalities. The
+groups also differed significantly on hyposensitivity ( F(2, 416) = 6.52, p=0 . 0 0 2 , η2= 0.03), with marginally higher scores for
+severe misophonics relative to non –misophonics ( p= 0.073) and significantly higher scores for severe misophonics relative
+to moderate misophonics ( p=0 . 0 0 1 ) .
+For the MAIA, there was no significant main effect of group ( F(2, 416) = 2.21, p= 0.111, η2= 0.01) and no
+significant group X subscale interaction ( F(14, 2912) = 1.536, p= 0.090, η2= 0.01). The effect of subscale was
+significant ( F(7, 2912) = 67.48, p< 0.001, η2= 0.14). This lack of difference in the interoceptive domain stands in
+contrast to the differences observed for exteroceptive senses. Post hoc group comparisons of groups are not
+reported due to lack of significant group effects. The Supporting Information Material reports individual subscales
+for completeness and alternative ways of grouping them.
+Recall that the Pattern Glare task consists of three visual stim uli varying in spatial frequency (low, mid, and high), with a
+series of 17 descriptions (e.g., shimmer) broken into two diffe rent factors (somatic discomfort, visual distortions). These
+acted as repeated measures in a 3 x 2 x 3 mixed ANOVA, with participant group as a between ‐subjects factor with three
+levels (non –misophonic, moderate misophonia, and severe misophonia), crossed with descriptor factor (somatic and visual),
+and spatial frequency of the grating (low, middle, and high spatial frequency). In previous literature, low spatial frequencies
+of visual gratings are not linked to visually induced stress and act here as a “sanity check ”(e.g., to ensure we do not have
+FIGURE 4 Sensory sensitivity questionnair es (mean ± 1 SEM) that focus on exteroceptive senses (GSQ, Glasgow
+Sensory Questionnaire) or interoception (MAIA, Multid imensional Assessment of Interoceptive Awareness).2378 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+biased or false responding). Figure 5shows that the severe misophonic group g ave higher ratings than other groups for
+both the mid ‐and high ‐spatial frequency conditions, which is confirmed by the analysis. There was a main effect of
+participant group ( F(2, 388) = 7.07, p< 0.001, η2= 0.02), a main effect of spatial frequency ( F(2, 388) = 138.77, p<0 . 0 0 1 ,
+η2= 0.07), and a main effect of descriptor factor ( F(1, 388) = 204.27, p< 0.001, η2= 0.07). There was also a group x spatial
+frequency interaction ( F(4, 776) = 4.49, p=0 . 0 0 1 , η2= 0.004), such that the groups differed in terms of their ratings in the
+different spatial frequencies; and a significant inter action between spatial frequ ency and descriptor factor ( F(4,
+776) = 67.38, p<0 . 0 0 1 , η2= 0.02), such that the different spatial frequencies were rated differently depending on which
+descriptor factor they belonged to. There was no significant three ‐way interaction. Post hoc analyses of the group x spatial
+frequency interaction were performed (collapsing the visual and somatic factors by averaging the two scores). The three
+participant groups differed significantly at high ( F(2, 389) = 8.90, p<0 . 0 0 1 , η2=0 . 0 4 ) a n d m i d d l e ( F(2, 389) = 4.83, p=
+0.008, η2= 0.02) spatial frequencies, but not low spatial frequency ( F(2, 389) = 1.26, p=0 . 2 8 6 , η2=0 . 0 4 ) . T h e g r o u p
+differences were driven by the severe misophonia group in these two spatial frequency conditions.
+3.5 |Bayes factors and multiple comparisons
+Considering the N= 7 main effects of group (AQ, ASI, OCI, POEM, GSQ, MAIA, and Pattern Glare) all except the
+MAIA were significant, and these six significant results survive correction for multiple comparisons using FDR.
+Bayes Factors were computed at the level of scale and subscale ( N= 36 variables) and reported in full in the
+Supporting Information Material. Comparing the moderate misophonia group against non ‐misophonics there were
+two sensitive (BF > 3) rejections of the null for AQ attention ‐to‐detail and GSQ hypersensitivity (with almost all
+other results being sensitive null results of BF < 1/3). Comparing the severe misophonia group against non ‐
+misophonics there were thirteen sensitive (BF > 3) rejections of the null for AQ total score, AQ attention ‐to‐detail,
+AQ communication, GSQ total score, GSQ hyper ‐sensitivity, GSQ hypo ‐sensitivity, ASI total score, ASI physical
+concerns, ASI cognitive concerns, OCI total score, OCI washing, OCI ordering, OCI doubting, and Pattern Glare
+somatic symptoms from high spatial frequency visual stimuli (other results were either insensitive or sensitive nulls).
+FIGURE 5 The average ratings for visual and somatic descriptors (left and right panels, respectively) for the
+three spatial frequencies of gratings (low, middle, and high). Group mean ± 1 SEM.ANDERMANE ET AL. |2379
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+3.6 |Symptom network modeling
+Figure 6shows the modeled symptom network based on partial correlations using the pre ‐registered dependent variables.
+For this approach, we no longer make use of three different gr oups but instead directly model the SMS factor scores as
+continuous variables (noting that our previous three gr oups are ranked by severity using the same factors, so is
+conceptually similar). In interpreting the model, we advise the reader that any nonzero weighted association can beinterpreted as making a significant contribution to the mode l. The thickness of the lines indicates the strength of the
+association measured as partial correlations (these numeri c values are provided in Supporting Information Results along
+with exploratory, not preregistered, networks that yield si milar results). The spatial separation of the symptoms, for
+visualization purposes, is also based on t he strength of association ignoring wheth er the partial correlation is positive or
+negative (termed a spring layout; Kamada & Kawai, 1989 ). Symptoms known to belong to the same construct (e.g.,
+different subscales of the AQ) tend to associate together and this is to be expected if the construct is meaningful (a ‘clique ’
+in network terms occurs when a set of node s is fully interconnected as happens here for SMS with other constructs being
+near ‐cliques). There are notable exceptions. The AQ Attention ‐to‐detail (but not other AQ subsca les) has significant partial
+correlations to the Ordering and Hoarding subscales of the O CI which results in it being placed closer to the OCI than to
+other AQ subscales in the diagram. A simila r mismatched pattern emerges for the Not ‐Distracting subscale of the MAIA
+(e.g., “I try to ignore pain ”), which negatively connects with other constructs such as GSQ and OCI ‐Doubting and is perhaps
+conceptually more related to a ttention than interoception.
+There are several measures of centrality which give an indication of the relative importance of a symptom in
+the network (see Figure 7). First, degree centrality sums all the connection strengths emanating from each symptom
+(ignoring sign). This means that symptoms with a higher degree centrality either have more links than others, or a
+FIGURE 6 A symptom network model showing the relationship between misophonia (in turquoise) and other
+symptoms/behaviors. The strength of the lines indicates degree of association with blue depicting positiveassociations and red depicting negative associations. Comorbidities can be understood, in this approach, throughmutual influence of associated symptoms (which spread throughout the network).2380 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FIGURE 7 Different measure of centrality. Top: Betweenness centrality measures the extent to which a node
+serves as a bridge from one part of the network to another (unweighted shorted paths). Middle: Most nodesincrease their degree centrality by forming clique ‐like arrangements with similar subscales, and the middle panel
+strips this away to show summed “bridge ”weights to different measures. Bottom: Degree centrality measure the
+sum of weights emanating from each symptom.ANDERMANE ET AL. |2381
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+smaller number of very strong links. Second, bridge centrality is mathematically equivalent to degree centrality
+except that it selects only those weights between (not within) different measures (Jones et al., 2021 ): in Figure 6we
+can think of it in terms of summing only the connections between different colored circles. Third, betweenness
+centrality is related to how many shortest paths between all pairs pass through a given symptom: an analogy is that
+the shortest path between two cities in the United Kingdom, in terms of rail connections, is often via London (i.e.,London has very high betweenness centrality). To calculate betweenness centrality, every pair in the network isconsidered and one counts how many times a node can interrupt the shortest path between the two nodes of the
+pair. The GSQ (sensory sensitivity) occupies a key position in the symptom network on all counts (see below), and
+this is maintained even if sensory sensitivity it is split into separate hyper ‐and hypo ‐sensitivity variables (see
+Supporting Information Results). Within the five SMS subscales, the one with the highest bridge and betweenness
+centrality is Pain. Summing connections between the SMS and the different AQ subscales we find the strongest link
+to attention ‐to‐detail. The overall results of the network simulation support the conclusion that comorbidities
+linked to misophonia occur primarily via sensory ‐attentional symptoms that are themselves transdiagnostic (i.e.,
+linked to constructs such as autism, OCD, and anxiety). This finding is not trivial insofar as there were other
+plausible outcomes that could have emerged. For example, social ‐based symptoms (the social subscales of the AQ,
+SMS, MAIA, etc.) could intuitively have formed a central clique but did not.
+The network model was explored following a bootstrap analysis, in which participants are randomly sampled
+with replacement. The bootstrapped CS ‐coefficient was 0.75 where a value greater than 0.5 is considered good and
+a value less than 0.25 is poor. This means that up to 75% of cases could be dropped and one would still obtain acorrelation of 0.7 (the recommended value of Epskamp et al., 2018 ) between the original and reduced datasets (in
+terms of degree centrality estimates). This is akin to a post ‐hoc power analysis because it determines whether the
+actual sample size is adequate to achieve network stability.
+Further, post hoc, explorations of the network were conducted and summarized here (see Supporting
+Information Materials for full details). The GSQ continues to occupy a central position even after all auditory items
+are removed. In this revised model, the strongest connections from the SMS are still to the GSQ with AQ attention ‐
+to‐detail as a second bridge symptom (both emanating from the SMS Pain factor). We also reran an exploratory
+network analysis dividing our sample into misophonics and non –misophonics (taking the groups derived from the
+earlier cluster analysis) and show that the overall network structure is similar. One potentially important differenceis that the bridge symptom linking misophonia (the SMS subscales) to the remaining network shifts from theAvoidance subscale (considering non ‐misophonics alone) to Pain (misophonics alone, and in the combined sample).
+This suggests a transition from aversion to sensitization along the misophonia spectrum.
+4|DISCUSSION
+In the present study we aimed to characterize the perceptual, affective, and cognitive profile of individuals who
+experience misophonia, a type of aversive emotional and physiological reaction to classes of everyday sounds (e.g.,
+human ‐made or repetitive). We also set out to explore whether misophonia can be categorized into distinct
+subgroups, and if so, whether groups of misophonics tend to differ quantitatively or qualitatively in the severity of
+their experience, as well as their sensory sensitivities and the tendency for clinical traits. The associations between
+our variables were modeled using a symptom network approach to identify how these are related.
+We used a validated measure, the SMS (Rinaldi et al., 2021 ), to identify symptoms and traits of misophonia. For
+the present research this measure has the advantage of having five factors, which can capture heterogeneity in
+symptoms. Importantly, its questions were written to be understandable to people without misophonia and can
+therefore also be modeled as a continuous variable (spectrum). Our cluster analysis revealed that our sample ofparticipants can be categorized into three groups, based on their standardized scores on the five factors of the SMS.
+The groups were distinguished by the severity of misophonia: the upper two groups largely self ‐identified as having2382 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+misophonia and would exceed the threshold value for diagnosing misophonia from the SMS (i.e., when a single
+score is calculated across all factors). The third group would fall below the threshold of SMS and compriseparticipants who were recruited as controls and who do not self ‐identify as misophonic. Whereas other studies
+have noted the continuous nature of misophonia symptoms using other measures (Edelstein et al., 2013 ;W u
+et al., 2014 ), here we have shown that three distinct groupings fall out from a cluster analysis. Crucially, these three
+groups also show differences in their sensory sensitivity profile and clinical traits.
+The group we classed as moderate misophonia are similar to the non ‐misophonic group on most measures (i.e.,
+anxiety, migraine, pattern glare, obsessive ‐compulsive traits, and most AQ subscales) but are nevertheless different
+in some important ways (i.e., AQ attention to detail, GSQ hyper ‐sensitivity in auditory and olfactory modalities, and
+hearing comorbidities such as hyperacusis). In effect, there are multiple transitions in symptom profile that coincide
+with increasing misophonia severity. The moderate group, while still being “misophonic ”(i.e., experiencing its
+negative impact in important ways), will not necessarily all have clinical needs , in the sense that they can likely
+function in life without external intervention. The fact that the moderate group often lack comorbidities (sensitive
+null results) suggests that these comorbidities are not a primary cause of misophonia, although they may play a role
+in the transition to a more severe profile. Those in the severe group are likely to be at a higher clinical symptomlevel, both in terms of their misophonia itself but also from their wider clinical profile. A recent study also applied
+clustering methods in misophonia and, like our study, identified three groups differing in severity (including one
+without misophonia) but, unlike our study, found more clinical comorbidities in the moderate group (Norriset al., 2022 ). There are multiple differences between the studies that may have affected the results. In our study,
+the clustering was based on the misophonia profile alone (with other measures acting as independent tests of the
+clusters) whereas Norris et al. ( 2022 ) derived their clusters from a mix of misophonia and clinical measures. Our
+study used purposive sampling (explicitly targeting misophonics of different severity levels) whereas Norris et al.(2022 ) used opportunity sampling (from the general population) such that people with clinically significant
+misophonia were a minority in all of their clusters (0.8%, 18.6%, and 33.3%). Thus, it is hard to be certain of the
+extent to which their cluster differences are directly attributable to misophonia.
+Our symptom network model showed that some symptoms/t raits are closely connected to misophonia while others
+are more distant. In terms of our groups, we can think of this in terms of severe misophonia having a wider reach within
+the network, and moderate misophonia having a more local symptom profile. The key statistical innovation of the
+symptom network is its use of partial correlations over regular correlations. Thus, in a three ‐symptom network A ↔B↔C,
+the correlation between A and C would be close to 1 and the p artial correlation would be close to 0. Having a sparser
+network model is also achieved through a process called regul arization (where weak connections are forced to zero) with
+the degree of regularization itself based on the goodness of fi t of model to data (using EBIC, Extended Bayesian Inference
+Criteria) (Epskamp et al., 2018 ). Sparser models, fit to a statistically optimal c riteria, help us to understand the relationship
+between symptoms. But it is not a causal model. In parti cular, we cannot conclude that misophonia causes the
+comorbidities or vice versa, but we can conclude that closer and stronger connections have greater mutual influence over
+each other. Specifically, the main bridge between misophonia and other clinical symptoms appears to be via sensory
+sensitivity. This includes auditory sensory sensitivity but is not limited to it, and it is important to note that the auditory
+questions in the GSQ hypersensitivit y subscale are not necessarily asking about misophonia itself (e.g., “Do you react very
+strongly when you hear an unexpected sound?, ”“Do you dislike loud noises? ”). As a limitation of our network model, it is
+conceivable that sensory sensitivity ceases to be central when other important, but presently omitted, symptoms are
+added (Neal et al., 2022 ). However, we made reasonable efforts to in clude a set of symptoms based on our current
+knowledge of the field.
+Increased sensory sensitivity may lead to the experience of pain and affective (emotional) dysregulation,
+corresponding to anxiety and other clinical traits. However, the exact mechanism is yet to be fully explained. Other
+researchers have proposed that in misophonia there is an increased sensory (auditory cortex) functionalconnectivity to anterior insula, which represents interoceptive maps and moment ‐to‐moment general emotional
+wellbeing of the individual (Kumar et al., 2017 ; McGeoch & Rouw,
+2020 ). This increased connectivity may be theANDERMANE ET AL. |2383
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+neural mechanism that is formed when associations between auditory input and negative valence emotions are
+learned (McGeoch & Rouw, 2020 ). In our research individual differences linked to interoceptive awareness (as
+measured by the self ‐report MAIA, Mehling et al., 2012 ) were not strongly related to misophonia. It is possible that
+alternative measures of interoception (e.g., Garfinkel et al., 2015 ; Garfinkel et al., 2016 ; Miller et al., 1981 ) will be
+more strongly related to misophonia. It is also possible that it is the production of autonomic responses to soundsthat is atypical in misophonia, rather than the ability to sense them (via interoception).
+Previous observations in misophonia have noted the presence of visual triggers (e.g., repetitive actions) but it is
+unclear whether this can be related to visual sensitivity per se or the fact that these actions imply a sound (Edelstein
+et al., 2013 ). Our research provides the most compelling evidence, to date, that misophonia is linked to visual
+sensitivity, at least in the more severe cases. This is manifested in terms of reports of migraine (specifically for
+MWA) and in terms of both somatic reactions and visual distortions to aversive striped patterns. These two
+observations —migraine and pattern glare —are known to be linked (see Marcus & Soso, 1989 ; Wilkins et al., 1984 )
+and have a shared putative neural mechanism of increased (visual) cortical excitability (Hibbard & O'Hare, 2015 ;
+Huang et al., 2003 ). That is, it need not be the case that misophonia causes migraine, or vice versa, but that both are
+different clinical outcomes of a common mechanism (increased cortical excitability). A stronger influence of thismechanism may give rise to stronger symptom severity and increased chances of co ‐morbidity as multiple brain
+systems become affected.
+To summarize, severe misophonia differs from moderate misophonia not only in terms of quantitative
+differences in symptom severity (i.e., SMS factor scores) but also qualitatively in the perceptual and clinical traits ofthese groups. Specifically, severe misophonics differ from moderates in the breadth of sounds that are reported as
+triggers, in a broader profile of sensory sensitivities (i.e., visual, tactile), elevated clinical traits (autism spectrum,
+anxiety sensitivity, and obsessive ‐compulsive traits), a greater tendency to have migraines and experience other
+hearing related issues (e.g., hyperacusis). Notably, moderate misophonics did not differ from controls in terms of
+clinical traits. From this comparison of misophonia subgroups, it appears that elevated sensory sensitivity and
+associated pain ‐like experiences in response to sensory stimuli may be the primary cause for the aversive effects of
+misophonia on mental health and life consequences of the severe group. This is in line with our network analyses,
+showing that sensory sensitivity is the central trait, connecting to the misophonic experiences (especially the SMS
+factor of pain in misophonia), and the other sensory and clinical traits.
+ACKNOWLEDGMENTS
+We are grateful to the late Professor David Baguley, University of Nottingham (UK), who helped with the
+formulation and design of our research study. This research was funded by the Ream Foundation's MisophoniaResearch Fund. Authors received funding from the REAM foundation, Misophonia Research Fund initiative.
+CONFLICT OF INTEREST STATEMENT
+The authors declare no conflict of interest.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are openly available in Open Science Framework at https://doi.org/
+10.17605/OSF.IO/27FGV .
+ORCID
+Jamie Ward
+http://orcid.org/0000-0001-7007-1902
+PEER REVIEW
+The peer review history for this article is available at https://www.webofscience.com/api/gateway/wos/peer-
+review/10.1002/jclp.23552 .2384 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ENDNOTE
+1Of the N= 1158 recruited as self ‐reported misophonics following the radio interview N= 1031 (89%) fell into the two
+misophonic groups, and of the N= 272 recruited as control participants from normative samples N= 240 (88%) were
+classed as non ‐misophonic; χ2(1,N= 1430) = 689.31, p< 0.001.
+REFERENCES
+Aazh, H., Erfanian, M., Danesh, A. A., & Moore, B. C. J. (2022). Audiological and other factors predicting the presence of
+misophonia symptoms among a clinical population seeking help for tinnitus and/or hyperacusis. Frontiers in
+Neuroscience ,16, 900065. https://doi.org/10.3389/fnins.2022.900065
+Andermane, N., Bauer, M., Sohoglu, E., Simner, J., & Ward, J. (2023). A phenomenological cartography of misophonia and
+other forms of sound intolerance. iScience ,26(4), 106299. https://doi.org/10.1016/j.isci.2023.106299
+Armour, C., Fried, E. I., & Olff, M. (2017). PTSD symptomics: network analyses in the field of psychotraumatology (8,
+p. 1398003). Taylor & Francis.
+Baron ‐Cohen, S., Hoekstra, R. A., Knickmeyer, R., & Wheelwright, S. (2006). The autism ‐spectrum quotient (AQ) —
+adolescent version. Journal of Autism and Developmental Disorders ,36(3), 343 –350.
+Baron ‐Cohen, S., Wheelwright, S., Skinner, R., Martin, J., & Clubley, E. (2001). The autism ‐spectrum quotient (AQ): Evidence
+from asperger syndrome/high ‐functioning autism, malesand females, scientists and mathematicians. Journal of Autism
+and Developmental Disorders ,31(1), 5 –17.
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful approach to multiple
+testing. Journal of the Royal statistical society: Series B (Methodological) ,57(1), 289 –300.
+Borsboom, D. (2017). A network theory of mental disorders. World Psychiatry: Official Journal of the World Psychiatric
+Association (WPA) ,16(1), 5 –13.
+Braithwaite, J. J., Broglia, E., Bagshaw, A. P., & Wilkins, A. J. (2013). Evidence for elevated cortical hyperexcitability and its
+association with out ‐of‐body experiences in the non ‐clinical population: New findings from a pattern ‐glare task.
+Cortex ,49(3), 793 –805.
+Brout, J. J., Edelstein, M., Erfanian, M., Mannino, M., Miller, L. J., Rouw, R., Kumar, S., & Rosenthal, M. Z. (2018). Investigating
+misophonia: A review of the empirical literature, clinical implications , and a research agenda. Frontiers in Neuroscience ,12, 36.
+Cassiello ‐Robbins, C., Anand, D., McMahon, K., Brout, J., Kelley, L., & Rosenthal, M. Z. (2021). A preliminary investigation of
+the association between misophonia and symptoms of psychopathology and personality disorders. Frontiers in
+Psychology ,11, 519681.
+Cavanna, A. E., & Seri, S. (2015). Misophonia: Current perspectives. Neuropsychiatric disease and treatment ,11, 2117 –2123.
+https://doi.org/10.2147/ndt.S81438
+Cusack, S. E., Cash, T. V., & Vrana, S. R. (2018). An examination of the relationship between misophonia, anxiety sensitivity,
+and obsessive ‐compulsive symptoms. Journal of Obsessive ‐Compulsive and Related Disorders ,18,6 7 –72.
+Dawes, P., Newall, J., Stockdale, D., & Baguley, D. M. (2020). Natural history of tinnitus in adults: A cross ‐sectional and
+longitudinal analysis. BMJ Open ,10(12), e041290.
+Dienes, Z. (2014). Using Bayes to get the most out of non ‐significant results. Frontiers in Psychology ,5, 781.
+Dienes, Z. (2019). How do I know what my theory predicts? Advances in Methods and Practices in Psychological Science ,2(4),
+364 –377.
+Dozier, T. H., Lopez, M., & Pearson, C. (2017). Proposed diagnostic criteria for misophonia: A multisensory conditioned
+aversive reflex disorder. Frontiers in Psychology ,8, 1975.
+Dozier, T. H., & Morrison, K. L. (2017). Phenomenology of misophonia: Initial physical and emotional responses. The
+American Journal of Psychology ,130(4), 431 –438. https://doi.org/10.5406/amerjpsyc.130.4.0431
+Edelstein, M., Brang, D., Rouw, R., & Ramachandran, V. S. (2013). Misophonia: Physiological investigations and case
+descriptions. Frontiers in Human Neuroscience ,7, 296.
+Eijsker, N., Schröder, A., Smit, D. J. A., Van Wingen, G., & Denys, D. (2019). Neural basis of response bias on the stop signal
+task in misophonia. Frontiers in Psychiatry ,10, 765.
+Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psychological networks and their accuracy: A tutorial paper.
+Behavior Research Methods ,50(1), 195 –212.
+Epskamp, S., Cramer, A. O. J., Waldorp, L. J., Schmittmann, V. D., & Borsboom, D. (2012). qgraph: Network visualizations of
+relationships in psychometric data. Journal of Statistical Software ,48,1–18.
+Evans, B. J. W., & Stevenson, S. J. (2008). The pattern glare test: A review and determination of normative values.
+Ophthalmic and Physiological Optics ,28(4), 295 –309.
+Fackrell, K., Potgieter, I., Shekhawat, G. S., Baguley, D. M., Sereda, M., & Hoare, D. J. (2017). Clinical interventions for
+hyperacusis in adults: A scoping review to assess the current position and determine priorities for research. BioMed
+Research International ,2017 ,1–22.ANDERMANE ET AL. |2385
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Foa, E. B., Kozak, M. J., Salkovskis, P. M., Coles, M. E., & Amir, N. (1998). The validation of a new obsessive –compulsive
+disorder scale: The Obsessive –Compulsive inventory. Psychological Assessment ,10(3), 206 –214.
+Fong, C. Y., Takahashi, C., & Braithwaite, J. J. (2019). Evidence for distinct clusters of diverse anomalous experiences and
+their selective association with signs of elevated cortical hyperexcitability. Consciousness and Cognition ,71,1–17.
+Fried, E. I., van Borkulo, C. D., Cramer, A. O. J., Boschloo, L., Schoevers, R. A., & Borsboom, D. (2017). Mental disorders as
+networks of problems: A review of recent insights. Social Psychiatry and Psychiatric Epidemiology ,52(1), 1 –10.
+Friedman, J., Hastie, T., & Tibshirani, R. (2008). Sparse inverse covariance estimation with the graphical lasso. Biostatistics ,
+9(3), 432 –441.
+Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing
+interoceptive accuracy from interoceptive awareness. Biological Psychology ,104,6 5 –74.
+Garfinkel, S. N., Tiley, C., O'Keeffe, S., Harrison, N. A., Seth, A. K., & Critchley, H. D. (2016). Discrepancies between
+dimensions of interoception in autism: Implications for emotion and anxiety. Biological Psychology ,114, 117 –126.
+Hansen, H. A., Leber, A. B., & Saygin, Z. M. (2021). What sound sources trigger misophonia? Not just chewing and
+breathing. Journal of Clinical Psychology ,77(11), 2609 –2625.
+Hibbard, P. B., & O'Hare, L. (2015). Uncomfortable images produce non ‐sparse responses in a model of primary visual
+cortex. Royal Society Open Science ,2(2), 140535.
+Huang, J., Cooper, T. G., Satana, B., Kaufman, D. I., & Cao, Y. (2003). Visual distortion provoked by a stimulus in migraine
+associated with hyperneuronal activity. Headache: The Journal of Head and Face Pain ,43(6), 664 –671.
+Insel, T., Cuthbert, B., Garvey, M., Heinssen, R., Pine, D. S., Quinn, K., Sanislow, C., & Wang, P. (2010). Research domain
+criteria (RDoC): Toward a new classification framework for research on mental disorders (167, pp. 748 –751). Am
+Psychiatric Assoc.
+Isvoranu, A. ‐M., Borsboom, D., van Os, J., & Guloksuz, S. (2016). A network approach to environmental impact in psychotic
+disorder: Brief theoretical framework. Schizophrenia Bulletin ,42(4), 870 –873.
+Jager, I., de Koning, P., Bost, T., Denys, D., & Vulink, N. (2020). Misophonia: Phenomenology, comorbidity and
+demographics in a large sample. PLoS One ,15(4), e0231390.
+Jain, A. K. (2010). Data clustering: 50 years beyond K ‐means. Pattern Recognition Letters ,31, 651 –666.
+Jakubovski, E., Müller, A., Kley, H., de Zwaan, M., & Müller ‐Vahl, K. (2022). Prevalence and clinical correlates of misophonia
+symptoms in the general population of Germany. Frontiers in Psychiatry ,13, 1012424. https://doi.org/10.3389/fpsyt.
+2022.1012424
+Jastreboff, M. M., & Jastreboff, P. J. (2001). Components of decreased sound tolerance: Hyperacusis, misophonia,
+phonophobia. ITHS News Lett ,2(5–7), 1 –5.
+Jastreboff, M. M., & Jastreboff, P. J. (2002). Decreased sound tolerance and tinnitus retraining therapy (TRT). Australian and
+New Zealand Journal of Audiology ,24(2), 74 –84.
+Jones, P. J., Ma, R., & McNally, R. J. (2021). Bridge centrality: A network approach to understanding comorbidity.
+Multivariate Behavioral Research ,56(2), 353 –367.
+Kaiser, E. A., Igdalova, A., Aguirre, G. K., & Cucchiara, B. (2019). A web ‐based, branching logic questionnaire for the
+automated classification of migraine. Cephalalgia ,39(10), 1257 –1266.
+Kamada, T., & Kawai, S. (1989). An algorithm for drawing general undirected graphs. Information Processing Letters ,31(1),
+7–15.
+Kumar, S., Tansley ‐Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., Cope, T. E., Gander, P. E., Bamiou,
+D.‐E., & Griffiths, T. D. (2017). The brain basis for misophonia. Current Biology ,27(4), 527 –533.
+Li, Q., Joo, S. J., Yeatman, J. D., & Reinecke, K. (2020). Controlling for Participants' viewing distance in large ‐scale,
+psychophysical online experiments using a virtual Chinrest. Scientific Reports ,10, 904. https://doi.org/10.1038/
+s41598 ‐019 ‐57204 ‐1
+Marcus, D. A., & Soso, M. J. (1989). Migraine and stripe ‐induced visual discomfort. Archives of Neurology ,46(10),
+1129 –1132.
+McGeoch, P. D., & Rouw, R. (2020). How everyday sounds can trigger strong emotions: ASMR, misophonia and the feeling
+of wellbeing. BioEssays ,42(12), 2000099.
+Mehling, W. E., Price, C., Daubenmier, J. J., Acree, M., Bartmess, E., & Stewart, A. (2012). The multidimensional assessment
+of interoceptive awareness (MAIA). PLoS One ,7(11), e48230.
+Miller, L. C., Murphy, R., & Buss, A. H. (1981). Consciousness of body: Private and public. Journal of Personality and Social
+Psychology ,41(2), 397 –406.
+Neal, Z. P., Forbes, M. K., Neal, J. W., Brusco, M. J., Krueger, R., Markon, K., Steinley, D., Wasserman, S., & Wright, A. G. C.
+(2022). Critiques of network analysis of multivariate data in psychological science. Nature Reviews Methods Primers ,
+2, 90.
+Norris, J. E., Kimball, S. H., Nemri, D. C., & Ethridge, L. E. (2022). Towards a multidimensional understanding of misophonia
+using cluster ‐based phenotyping. Frontiers in Neuroscience ,16, 8325616.2386 |ANDERMANE ET AL.
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+P f e n n i g ,A . ,R i t t e r ,P .S . ,H ö f l e r ,M . ,L i e b ,R . ,B a u e r ,M . ,W i t t c h e n ,H .U . ,&B e e s d o ‐Baum, K. (2016). Symptom
+characteristics of depressive episodes prior to the onset of mania or hypomania. Acta Psychiatrica Scandinavica ,
+133(3), 196 –204.
+Rinaldi, L., Simner, J., Koursarou, S., & Ward, J. (2022). Autistic traits, emotion regulation, and sensory sensitivities in
+children and adults with misophonia. Journal of Autism and Developmental Disorders ,53, 1162 –1174.
+Rinaldi, L. J., Smees, R., Ward, J., & Simner, J. (2022). Poorer Well ‐Being in children with misophonia: evidence from the
+sussex misophonia scale for adolescents. Frontiers in Psychology ,13, 808379.
+Rinaldi, L. J., Ward, J., & Simner, J. (2021). A Factor Structure within Misophonia: The Sussex Misophonia Scale for researchers
+and clinicians .https://psyarxiv.com/5eb39
+Ritter, P. S., Höfler, M., Wittchen, H. ‐U., Lieb, R., Bauer, M., Pfennig, A., & Beesdo ‐Baum, K. (2015). Disturbed sleep as risk
+factor for the subsequent onset of bipolar disorder –data from a 10 ‐year prospective ‐longitudinal study among
+adolescents and young adults. Journal of Psychiatric Research ,68,7 6 –82.
+Robertson, A. E., & Simmons, D. R. (2013). The relationship between sensory sensitivity and autistic traits in the general
+population. Journal of Autism and Developmental Disorders ,43(4), 775 –784.
+Rouw, R., & Erfanian, M. (2018). A large ‐scale study of misophonia. Journal of Clinical Psychology ,74(3), 453 –479. https://
+doi.org/10.1002/jclp.22500
+Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: Diagnostic criteria for a new psychiatric disorder. PLoS One ,8(1),
+e54706.
+Schröder, A., van Wingen, G., Eijsker, N., San Giorgi, R., Vulink, N. C., Turbyne, C., & Denys, D. (2019). Misophonia is
+associated with altered brain activity in the auditory cortex and salience network. Scientific Reports ,9(1), 7542.
+Spielberger, C. D., Gorsuch, R. L., Lushene, R., Vagg, P. R., & Jacobs, G. A. (1983). Manual for the State ‐Trait Anxiety
+Inventory . Consulting Psychologists Press.
+Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., Kumar, S., Rosenthal, M. Z.,
+Rouw, R., Schiller, D., Simner, J., Storch, E. A., Taylor, S., Werff, K. R. V., Altimus, C. M., & Raver, S. M. (2022).
+Consensus definition of misophonia: A delphi study. Frontiers in Neuroscience ,16, 841816. https://doi.org/10.3389/
+fnins.2022.841816
+Taylor, S., Zvolensky, M. J., Cox, B. J., Deacon, B., Heimberg, R. G., Ledley, D. R., Abramowitz, J. S., Holaway, R. M.,
+Sandin, B., Stewart, S. H., Coles, M., Eng, W., Daly, E. S., Arrindell, W. A., Bouvard, M., & Cardenas, S. J. (2007). Robust
+dimensions of anxiety sensitivity: Development and initial validation of the anxiety sensitivity Index ‐3.Psychological
+Assessment ,19(2), 176 –188.
+Ward, J., Hoadley, C., Hughes, J. E. A., Smith, P., Allison, C., Baron ‐Cohen, S., & Simner, J. (2017). Atypical sensory sensitivity
+as a shared feature between synaesthesia and autism. Scientific Reports ,7(1), 41155.
+Ward, Jr., J. H. (1963). Hierarchical grouping to optimize an objective function. Journal of the American Statistical Association ,
+58(301), 236 –244.
+Wilkins, A., Nimmo ‐Smith, I., Tait, A., Mcmanus, C., Sala, S. D., Tilley, A., Arnold, K., Barrie, M., & Scott, S. (1984). A
+neurological basis for visual discomfort. Brain ,107(4), 989 –1017.
+Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2014). Misophonia: Incidence, phenomenology, and clinical correlates in an
+undergraduate student sample. Journal of Clinical Psychology ,70(10), 994 –1007. https://doi.org/10.1002/jclp.22098
+Zhang, T., Ramakrishnan, R., & Livny, M. (1996). BIRCH: An efficient data clustering method for very large databases. ACM
+sigmod record ,25(2), 103 –114.
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the Supporting Information section at the end of this
+article.
+How to cite this article: Andermane, N., Bauer, M., Simner, J., & Ward, J. (2023). A symptom network model
+of misophonia: From heightened sensory sensitivity to clinical comorbidity. Journal of Clinical Psychology ,79,
+2364 –2387. https://doi.org/10.1002/jclp.23552ANDERMANE ET AL. |2387
+ 10974679, 2023, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jclp.23552, Wiley Online Library on [26/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

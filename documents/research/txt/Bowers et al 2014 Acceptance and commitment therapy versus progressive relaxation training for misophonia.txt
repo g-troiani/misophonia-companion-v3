@@ -1,0 +1,349 @@
+For any issues with this document, please contact your library.
+
+____________________________________________________________________________________
+
+Title: Contemporary clinical trials.
+
+ArticleTitle: Acceptance and commitment therapy versus progressive relaxation training for misophonia: Randomized controlled trial protocol, interventions, and audiological assessments.
+
+ArticleAuthor: Bowers, Emily M
+
+Vol: Online ahead of print.
+
+Date: 2024 Aug 23
+
+Pages: 107671
+
+OCLC - 56090329; ISSN - 15592030; LCN - 2005214330;
+
+Publisher: New York, N.Y. : Elsevier, 2005-
+
+Source: Entrez:PubMed
+
+Copyright: CCG
+
+____________________________________________________________________________________
+
+## NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+
+The copyright law of the United States [Title 17, United StatesCode] governs the making of photocopies or other reproductions of copyrighted materials.
+
+Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specific conditions is that the photocopy is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement.
+
+This institution reserves the right to refuse to accept a copying order if, in its judgment, fulfillment of that order would involve violation of copyright law.
+
+Contents lists available at ScienceDirect
+
+## Contemporary Clinical Trials
+
+journal homepage: www.elsevier.com/locate/conclintrial
+
+## Acceptance and commitment therapy versus progressive relaxation training for misophonia: Randomized controlled trial protocol, interventions, and audiological assessments
+
+Emily M. Bowers a,* , Mercedes G. Woolley a , Karen Munoz ˜ b , Julie M. Petersen a , Michael P. Twohig a
+
+- a Department of Psychology, Utah State University, 2810 Old Main Hill, Logan, UT 84322, United States of America
+- b Department of Communicative Disorders and Deaf Education, Utah State University, 1000 Old Main Hill, Logan, UT 84322, United States of America
+
+## A R T I C L E  I N F O
+
+## A B S T R A C T
+
+Keywords: Misophonia Acceptance and commitment therapy Randomized controlled trial Methodology
+
+Background: Misophonia is a disorder characterized by an intense emotional reaction to specific sounds, often leading to significant distress and impairment in daily functioning. Acceptance and commitment therapy (ACT) is a promising psychotherapy for treating misophonia, but has only been previously tested in case studies. This paper presents a protocol for the first randomized controlled trial (RCT) assessing the efficacy and feasibility of ACT supplemented by audiological interventions for misophonia versus progressive relaxation training (PRT). Methods: The outlined protocol is a RCT with 60 adults with misophonia. After undergoing a comprehensive psychological and audiological evaluation, participants were randomly assigned to ACT ( n = 30) or PRT ( n = 30). All participants completed clinician-administered and self-report assessments at baseline, post-intervention, 3month  follow-up,  and  6-month  follow-up.  The  primary  outcome  was  misophonia  severity  and  impairment measured via clinical interview. Secondary outcomes included disgust, anger, sensory sensitivities, well-being, distress, and psychological flexibility.
+
+Discussion: This paper outlines the rationale of using ACT supplemented by audiological methods for misophonia with the novel therapeutic target of enhancing psychological flexibility. The results of this randomized controlled trial will help determine if ACT is an efficacious and acceptable treatment for misophonia. This trial will also help clarify active psychological mechanisms of misophonia, and assess whether this combination of psychological and audiological services can effectively help individuals with misophonia.
+
+Misophonia is a disorder characterized by an intense emotional reaction to specific sounds such as breathing or repetitive tapping, often evoking  anger,  disgust,  and  anxiety  [1].  To  cope  with  misophoniarelated distress, individuals may turn to avoidance, affecting relationships  and  quality  of  life  [2].  Despite  4.6  %  of  individuals  reporting clinical levels of misophonia [3], treatment research is nascent [4].
+
+Recent  findings  highlight  the  unique  neurological  characteristics  of misophonia [5], distinguishing it from other disorders and underscoring the need for specialized treatment approaches. With the research still in its infancy, experts advocate for interdisciplinary approaches to advance treatment development for misophonia [1].
+
+Due to the recent recognition of misophonia as a disorder 1 [1], few intervention studies exist. Moreover, the research on misophonia has been siloed across multiple disciplines, including audiology, neuroscience, occupational therapy, psychiatry, and psychology, with each field seeking  to  characterize  and  develop  treatments  for  misophonia  [4].
+
+* Corresponding author.
+
+E-mail address: emily.bowers@usu.edu (E.M. Bowers).
+
+1 Misophonia is not currently recognized as a disorder in the Diagnostic and Statistical Manual of Mental Disorders (DSM). However, a Delphi consensus definition study  by  Swedo et  al.  [1]  suggests  that  the  term ' disorder ' more accurately describes misophonia than other terms such as ' condition ' or ' syndrome , as it ' appropriately captures the negative impact of misophonia on individuals' lives.
+
+## https://doi.org/10.1016/j.cct.2024.107671
+
+Received 17 June 2024; Received in revised form 12 August 2024; Accepted 22 August 2024
+
+1551-7144/© 2024 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+
+Available online 29 August 2024
+
+Audiologists were the first to investigate an intervention for misophonia using tinnitus retraining therapy [6], which aims to desensitize individuals to trigger sounds by pairing them with neutral noise. However, the efficacy of tinnitus retraining therapy for misophonia is uncertain  due  to  lack  of  controlled  trials.  Audiologic  treatments  for misophonia  involve  making  life-style  modifications  and  using  noise-
+
+E.M. Bowers et al.
+
+cancelling methods to reduce the impact of the sounds. Audiological interventions for misophonia are distinct from psychological treatments in that they primarily focus on modifying the auditory stimuli, though they may incorporate traditional behavioral approaches to achieve this aim.  According  to  one  study,  individuals  with  misophonia  endorsed audiological  interventions  (e.g.,  noise  cancellation)  as  being  most preferred method to manage their symptoms [7]. Still, these individuals were dissatisfied with current treatment options, underscoring the need for more interdisciplinary approaches that emphasize audiologic, psychological, and neurological perspectives to meet the needs and preferences of individuals with misophonia.
+
+common reality for those with misophonia [17]. Emerging frameworks like the Unified Protocol [18] show promise in trials and case studies [9,19].  By  transcending  traditional  diagnostic  categories  to  focus  on psychological flexibility and integrating adaptive audiologic strategies, ACT  offers  a  comprehensive  approach  for  those  struggling  with misophonia.
+
+Research on psychological treatments for misophonia has focused on cognitive-behavioral therapy (CBT), using techniques including attentional shifting, counterconditioning, and exposure therapy [8 -10]. The only randomized controlled trial (RCT) published to date involved 54 adults  with  misophonia,  comparing  group-based  CBT  to  a  waitlist; clinical improvement was found in 37 % of participants in the intervention compared to 0 % in the waitlist [11]. In their review of the extant treatment literature, Mattson et al. [4] argued that while CBT addresses maladaptive misophonic reactions through cognitive methods,  exposure  therapy,  and  emotion  regulation,  these  strategies may be less effective for the intense, immediate reactions to triggers like anger and disgust. Moreover, exposure approaches for misophonia have been  called  into  question  given  many  individuals  with  misophonia perceive  exposure  to  be  an  inappropriate  method  to  address  their symptoms  [7].  Instead,  interdisciplinary  interventions  focusing  on managing  distress  and  adaptive  approaches  may  be  better  suited  to address the unique aspects of the disorder [4]. It is evident that more comprehensive and varied treatment studies are necessary to develop effective integrated interventions for misophonia.
+
+Acceptance  and  Commitment  Therapy  (ACT)  is  a  promising  psychological intervention for misophonia, using techniques that provide an  adaptive  framework  for  engaging  with  distressing  stimuli  from  a present-centered,  non-judgmental  perspective  [4].  Mindfulness  and acceptance-based strategies have shown preliminary efficacy in treating misophonia  symptoms.  In  three  case  studies  combining  Dialectical Behavior  Therapy  and  ACT  strategies,  individuals  with  misophonia learned to approach their reactions with openness and acceptance while re-engaging in meaningful activities [12 -14].
+
+The foundation of ACT is built on two core principles. The first is functional  contextualism,  which  assesses  psychological  actions  by considering their context and function [15]. This perspective seeks to foster  effective  behaviors  that  encourage  individuals  to  engage  in meaningful life activities, rather than controlling negative internal experiences. In this way, ACT complements audiological interventions by promoting  behavioral  adjustments  that  help  minimize  the  effects  of misophonic triggers, thereby allowing individuals to apply these strategies adaptively.
+
+The second foundational element of ACT is relational frame theory (RFT),  a  model  of  language  and  cognition  proposing  that  humans interpret experiences through learned relationships, not direct experience. Through an RFT lens, ACT addresses the maladaptive ways individuals with misophonia interpret their emotional and physiological responses to triggers. ACT does not aim to reduce misophonia symptoms directly, but addresses the meanings and contexts individuals associate with  these  triggers.  The  goal  is  to  enhance  psychological  flexibility, enabling individuals to stay present and act in line with their values, even in the face of challenging thoughts, emotions, or sensations [16]. This focus on psychological flexibility allows individuals to move away from trying to control or avoid trigger sounds and towards engaging in a meaningful life.
+
+As  a  cognitive-behavioral  method  that  emphasizes  process  over symptoms, ACT aligns with transdiagnostic, or ' process-based, ' therapies. These are gaining interest as potential treatments for misophonia, particularly because they address underlying emotional difficulties and overlapping symptoms that occur with psychological comorbidities, a
+
+The current paper aims to address the gap in the misophonia literature by outlining the rationale and methodology of a RCT designed to investigate the efficacy of ACT, supplemented by audiological strategies. Comparison  of  psychological  interventions  for  misophonia  to  active treatment is rare. This study uses progressive relaxation training (PRT) as an active control. Extant CBT interventions for misophonia commonly include relaxation exercises in order to reduce physiological arousal in response to trigger sounds. Approximately one third of all case studies, open trials, and RCTs for misophonia include relaxation techniques[20]. While relaxation techniques  may be effective  in  reducing  immediate psychological responses, they may not address the full breadth of psychological challenges associated with misophonia such as avoidance and social difficulties. ACT aims to help individuals manage their emotional responses to trigger sounds in a more adaptive manner long-term.
+
+By  conducting  a  trial  which  evaluates  the  effects  of  ACT  supplemented by audiological strategies for misophonia, this study seeks to determine  whether  targeting  psychological  processes  that  promote psychological flexibility are effective for the long-term reduction and maintenance of misophonia symptoms relative to PRT. Through integrating psychological and audiological approaches, this trial seeks to provide  a  comprehensive  treatment  framework  for  individuals  with misophonia. This study will also explore  the role  of  audiological  assessments to contribute to a more nuanced understanding of misophonia using an interdisciplinary approach.
+
+## 1. Methods
+
+This project is funded by the Misophonia Research Fund. The trial is registered on ClinicalTrials.gov (NCT05601284) as well as on the open science  framework  (OSF;  https://osf.io/9mwpd/?view_only = f7789c4 9dffe4a829cc6e504daac4bdc) and all procedures have been approved by a university Institutional Review Board.
+
+## 1.1. Aims &amp; predictions
+
+This trial has four objectives. First, we will test the efficacy of ACT supplemented  with  audiological  approaches,  compared  to  PRT,  for decreasing misophonia symptoms. We predict that the ACT intervention will  be  superior  to  PRT  in  decreasing  clinician-rated  misophonia symptoms. Second, we will evaluate the maintenance of treatment effects  over time. We predict the ACT intervention will be effective at improving  misophonia,  anger,  disgust,  sensory  sensitivity,  quality  of life, and distress over the course of treatment and will maintain gains at three-  and six-month follow-ups as compared to PRT. Third, we will assess  mechanisms  of  therapeutic  change  in  self-  and  clinician-rated misophonia symptom severity. We predict individuals who complete the ACT intervention will report increased psychological flexibility at post-treatment  and  at  three-  and  six-month  follow-ups,  compared  to those who received PRT. Lastly, we will examine the acceptability of ACT intervention for misophonia. We predict both ACT and PRT interventions will have adequate treatment acceptability and credibility.
+
+## 1.2. Recruitment &amp; participants
+
+Participants  were  eligible  if  they  were  18  years  of  age  or  older, seeking treatment for misophonia, and met a clinical cut-off for misophonia (total score of 20 or higher on the Duke Misophonia Interview (DMI; [21]). Psychological comorbidity was allowed, unless it involved severe psychological or neurological impairment (e.g., profound neurological  impairment,  suicidality,  mania,  or  psychosis)  exceeding
+
+E.M. Bowers et al.
+
+misophonia as the primary presenting problem.
+
+Recruitment for the total sample ( N = 60) was completed within one year from November 2022 to November 2023 (see Fig. 1 for enrollment timeline).  Initially,  we  planned  to  recruit  using  various  methods including provider referrals, flyers, online postings on relevant websites and  social  media,  targeted  emails,  and  newspaper  ads.  However,  an unexpectedly high response from Facebook advertisements and paper flyers  rendered  additional  recruitment  methods  unnecessary.  Consequently, we increased our initial sample size from 40 to 60 participants. The final sample included 60 adults with misophonia; the majority selfidentified as White (98.3 %), heterosexual (76.7 %), women (70 %) with an average age of 33.8 ( SD = 12.18; see Table 1).
+
+## 1.3. Procedures
+
+Participants  completed  an  online  screening  questionnaire  which included  study  consent,  age,  interest  in  participation,  and  the  Misophonia  Questionnaire  (MQ;  [22]).  Participants  who  met  inclusion criteria with elevated MQ severity scores (above 5, indicating at least mild impairment) were contacted for an intake appointment (see Fig. 2 for participant flow). Next, the independent study evaluator, a graduate student supervised by a psychologist, administered the DMI [21], the Diagnostic Interview for Anxiety, Mood, and Obsessive-compulsive and Related Neuropsychiatric Disorders (DIAMOND; [23]), and the Clinical Global Impression Scale (CGI; [24]). Co-morbid diagnoses were recorded and included in consideration of whether misophonia was the primary presenting problem (i.e., the most impairing and/or distressing compared to other psychological symptoms). Eligible participants then completed a battery of self-report questionnaires (see Measures section).
+
+Following the clinical intake, participants underwent a comprehensive audiological assessment in the adjacent audiology clinic to rule out peripheral  hearing  deficits  and  provided  a  history  of  audiological problems (e.g., tinnitus, hyperacusis). Audiological tests were administered  under  the  supervision  of  an  audiologist.  If  participants  were determined  eligible  following  psychological  and  audiological  assessments, they were enrolled and randomized to study condition. Excluded participants  were  referred  to  a  more  appropriate  psychological  or audiologic treatment option.
+
+to complete the self-report surveys and clinical interview again at threeand six-month follow-up with the same masked evaluator. Participants were instructed to only report their current misophonia symptoms and to not disclose any information that may spoil their treatment condition. Following each follow-up point, the evaluator guessed the participant's treatment and rated their certainty to assess the success of evaluator masking  (see  [25]).  Participants  were  compensated  up  to  $155  for completing all study assessments and questionnaires.
+
+## 1.3.1. Treatment standardization and fidelity
+
+Study therapists included five doctoral students in clinical psychology  and  one  psychologist  (four  cisgender  women  and  two  cisgender men). Four therapists administered both intervention conditions, two therapists delivered only ACT during the study. For training purposes, all therapists read the intervention manuals prior to beginning the study and attended an all-day ACT workshop. The clinical team met weekly throughout the duration of the intervention period to review clinical cases and discuss intervention procedures, supervised by the last author (M.T.), a psychologist.
+
+All assessment and treatment sessions were recorded; 20 % ( n = 144) of  sessions  were  randomly  selected  for  review  to  assess  integrity  of implementation  and  treatment  fidelity.  Independent  raters  coded selected recordings for adherence to the protocol, quality of intervention, and therapist competence.
+
+1.3.1.1. Alternative procedures. Due to the clinic's rural location (e.g., some participants lived over 1.5 hours away), intervention sessions and follow-up assessments were conducted both in-person and via telehealth on  the  HIPAA-compliant  Zoom  videoconferencing  platform.  In  total, 53.0 % of ACT and 35.3 % of PRT sessions were conducted via Zoom.
+
+## 1.4. Intervention
+
+We will make the developed treatment manuals available free of cost on our website (https://utahact.com) in order to improve access to the treatment.
+
+## 1.4.1. ACT and audiological intervention
+
+Eligible participants were randomized to receive 10 weekly sessions, followed by 2 biweekly sessions, of ACT or PRT (12 individual sessions over 14 weeks). Within one-week  post-intervention, participants completed a self-report  survey  and  clinical  interview  with  a  masked independent evaluator using the DMI and CGI. Participants were asked
+
+The intervention consisted of 12 individual ACT sessions, supplemented by audiological management, to target misophonia symptoms and  related  outcomes  (e.g.,  functioning  and  quality  of  life).  Each participant met with a research therapist for 50 minutes once a week; therapists received weekly supervision from a psychologist and support
+
+Fig. 1. Consistent participant enrollment over 12 months.
+
+E.M. Bowers et al.
+
+Table 1 Participant sociodemographic characteristics.
+
+|                           | Full Sample (N = 60 )   | Full Sample (N = 60 )   | ACT Condition ( n = 30)   | ACT Condition ( n = 30)   | PRT Condition ( n = 30)   | PRT Condition ( n = 30)   |
+|---------------------------|-------------------------|-------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+|                           | n                       | Valid %                 | n                         | Valid %                   | n                         | Valid %                   |
+| Gender Identity           |                         |                         |                           |                           |                           |                           |
+| Woman                     | 42                      | 70.0 %                  | 20                        | 66.7 %                    | 22                        | 73.3 %                    |
+| Man                       | 14                      | 23.3 %                  | 8                         | 26.7 %                    | 6                         | 20.0 %                    |
+| Non-Binary                | 3                       | 5.0 %                   | 2                         | 6.7 %                     | 1                         | 3.3 %                     |
+| Agender                   | 1                       | 1.7 %                   | 0                         | 0.0 %                     | 1                         | 3.3 %                     |
+| Sexual Orientation 1      |                         |                         |                           |                           |                           |                           |
+| Asexual                   | 3                       | 5.0 %                   | 0                         | 0.0 %                     | 3                         | 10.0 %                    |
+| Bisexual                  | 4                       | 6.7 %                   | 2                         | 6.7 %                     | 2                         | 6.7 %                     |
+| Heterosexual/Straight     | 46                      | 76.7 %                  | 26                        | 86.7 %                    | 20                        | 66.7 %                    |
+| Pansexual                 | 6                       | 10.0 %                  | 3                         | 10.0 %                    | 3                         | 10.0 %                    |
+| Queer                     | 2                       | 3.3 %                   | 0                         | 0.0 %                     | 2                         | 6.7 %                     |
+|                           | 33.80 (12.18)           | 33.80 (12.18)           | 34.97                     | 34.97                     | 32.63 (10.09)             | 32.63 (10.09)             |
+| Age, M (SD)               | Range =                 | Range =                 | (14.04)                   | (14.04)                   | Range =                   | Range =                   |
+|                           | 18 - 67                 | 18 - 67                 | Range = 20 - 67           | Range = 20 - 67           | 18 - 50                   | 18 - 50                   |
+| Ethnicity                 |                         |                         |                           |                           |                           |                           |
+| Hispanic or Latino        | 2                       | 3.3 %                   | 2                         | 6.7 %                     | 0                         | 0.0 %                     |
+| Race 1                    |                         |                         |                           |                           |                           |                           |
+| Asian or Asian American   | 2                       | 3.3 %                   | 2                         | 6.7 %                     | 0                         | 0.0 %                     |
+| Black or African American | 1                       | 1.7 %                   | 1                         | 3.3 %                     | 0                         | 0.0 %                     |
+| Native South American     | 1                       | 1.7 %                   | 1                         | 3.3 %                     | 0                         | 0.0 %                     |
+| White or White American   | 59                      | 98.3 %                  | 29                        | 96.7 %                    | 30                        | 100.0 %                   |
+| Religion                  |                         |                         |                           |                           |                           |                           |
+| Church of Jesus Christ of | 27                      | 45.0 %                  | 14                        | 46.7 %                    | 13                        | 43.3 %                    |
+| Latter-Day Saints Jewish  | 1                       | 1.7 %                   | 1                         | 3.3 %                     | 0                         | 0.0 %                     |
+| Not Religious             | 28                      | 46.67 %                 | 14                        | 46.7 %                    | 14                        | 46.7 %                    |
+| Not listed                | 5                       | 8.3 %                   | 2                         | 6.7 %                     | 3                         | 10.0 %                    |
+| Household Income          |                         |                         |                           |                           |                           |                           |
+| Less than $20,000         | 4                       | 6.7 %                   | 3                         | 10.0 %                    | 1                         | 3.3 %                     |
+| $20,000 - $39,999         | 9                       | 15.0 %                  | 3                         | 10.0 %                    | 6                         | 7.3 %                     |
+| $40,000 - $59,999         | 4                       | 6.7 %                   | 2                         | 6.7 %                     | 2                         | 6.7 %                     |
+| $60,000 - $79,999         | 8                       | 13.3 %                  | 4                         | 13.3 %                    | 4                         | 13.3 %                    |
+| $80,000 - $99,999         | 6                       | 10.0 %                  | 3                         | 10.0 %                    | 3                         | 10.0 %                    |
+| $100,000 or more          | 24                      | 40.0 %                  | 12                        | 40.0 %                    | 12                        | 40.0 %                    |
+| Unknown                   | 5                       | 8.3 %                   | 3                         | 10.0 %                    | 2                         | 6.7 %                     |
+| Marital Status            |                         |                         |                           |                           |                           |                           |
+| Divorced                  | 3                       | 5.0 %                   | 1                         | 3.3 %                     | 2                         | 6.7 %                     |
+| Living with a partner     | 5                       | 8.3 %                   | 4                         | 13.3 %                    | 1                         | 3.3 %                     |
+| Married                   | 34                      | 56.7 %                  | 18                        | 60.0 %                    | 16                        | 53.3 %                    |
+| Single                    | 18                      | 30.0 %                  | 7                         | 23.3 %                    | 11                        | 36.7 %                    |
+| Employment                |                         |                         |                           |                           |                           |                           |
+| Status Employed full-time | 26                      | 43.3 %                  | 14                        | 46.7 %                    | 12                        | 40.0 %                    |
+| Employed part-time        | 17                      | 28.3 %                  | 9                         | 30.0 %                    | 8                         | 26.7 %                    |
+| Retired                   | 2                       | 3.3 %                   | 2                         | 6.7 %                     | 0                         | 0.0 %                     |
+| Student                   | 10                      | 16.7 %                  | 2                         | 6.7 %                     | 8                         | 26.7 %                    |
+| Unemployed                | 2                       | 3.3 %                   | 1                         | 3.3 %                     | 1                         | 3.3 %                     |
+| Other                     | 2                       | 3.3 %                   | 2                         | 6.7 %                     | 0                         | 0.0 %                     |
+
+1 Categories not mutually exclusive.
+
+from an audiologist as  appropriate.  Initial  sessions  provided  psychoeducation  and  audiological  interventions,  while  subsequent  sessions emphasized  ACT  skills  to  enhance  psychological  flexibility  when encountering trigger sounds and related contexts (see Table 2 for summary of session content).
+
+Session 1 introduced the auditory-limbic theory, provided feedback from  the  audiological  assessment,  and  discussed  information  about misophonia and the treatment rationale. Session 2 focused on audiological  interventions,  referred  to  as  functional  adaptations,  which involved strategies to modify the environment and reduce the experience  of  trigger  sounds,  without  promoting  nonfunctional  avoidance behaviors. These audiological interventions (e.g., rearranging spaces to minimize exposure to specific triggers, playing background music during dinner, wearing headphones while commuting), aim to change the trigger  sound  itself  and  are  similar  to  techniques  in  habit  reversal training (i.e., if a participant is reasonably able to change or improve their environment to support coping with symptoms, they should; [26]). The  audiological  components  of  the  intervention  targeted  a  distinct mechanism (e.g., the trigger sound) compared to the consequent ACT skills which target psychological flexibility, yet both approaches share a common goal: to increase functionality of the participant. Session 2 also introduced values, helping the participant connect therapy to what is most meaningful to them. An emphasis was placed on valued action during environmental adaptations (e.g., what is the function behind the adaptation -is it to engage in something meaningful or an avoidance behavior?) in order to begin building psychological flexibility. Effective communication skills based in audiological and psychological theory were also shared.
+
+Sessions 3 and 4 introduced the concept of creative hopelessness, exploring how the efforts to control misophonia may have interfered with the participant's life. The therapist and participant collaboratively brainstormed which strategies were effective over the short term and long term, or perhaps were ineffective. Psychological acceptance, also referred to as willingness, was introduced as an alternative approach to natural,  though  futile,  attempts  to  control  or  eliminate  misophonia symptoms. Behavioral management in session 3 and 4 included checkins regarding  functional  adaptations  and  strategies  for  managing trigger sounds (e.g., use of headphones in conjunction with ACT skills).
+
+Sessions 5 and 6 focused on noticing cognitive fusion and practicing defusing from misophonia-related cognitions and self-concepts. Metaphors such as passengers on the bus or the chessboard were utilized in session in addition to experiential exercises. Sessions 7 was dedicated to developing present moment awareness and mindfulness skills in order to reduce  physical  reactions  to  sounds  (e.g.,  clenched  jaw)  and  expand awareness of the surrounding environment in the presence of trigger sounds (i.e., reduce hyperfocus on trigger sounds). Participants reflected on how misophonia triggers may pull them away from the present and began  to  develop  awareness  of  environmental  triggers  in  order  to enhance implementation of the behavioral component of treatment.
+
+Sessions 8 -10 included values clarification and strategies to enhance valued  action  (e.g.,  interpersonal  effectiveness  skills  for  managing conflict related to noise). These sessions were intentionally designed to include more flexible content, depending on the participant's needs (i.e., if  an  individual  was  still  experiencing  significant  cognitive  fusion, defusion  skills  would  be  revisited).  Sessions  8 -10  also  implemented ACT-based  exposure,  where  participants  practiced  willingly  experiencing cognitions and emotions that arise from misophonia triggers. If a participant's misophonia triggers were specific to sounds from people or environments that could not be replicated in a therapy session, exposures were aimed at enhancing psychological flexibility with any uncomfortable sensation (e.g., anxiety, disgust).
+
+Sessions 11 and 12 included a review of therapeutic skills learned. Session  12  also  covered  an  ACT-based  model  of  relapse  prevention focusing on following one's values in the presence of trigger sounds and misophonia-related  anger,  disgust,  and/or  distress.  These  final  two sessions were scheduled every other week to allow for additional time for the participants to practice their skills. Throughout treatment, ACT skills practice (e.g., approaching avoided scenarios, listening to trigger noises) was linked to the participant's goals and values.
+
+## 1.4.2. Progressive relaxation training
+
+PRT  consisted  of  12  sessions  of  basic  psychoeducation  around misophonia and progressive relaxation training (PRT). The sessions of PRT followed a similar pattern to the ACT intervention. The first two sessions focused on psychoeducation around misophonia and the auditory  system.  The  remaining  10  sessions  integrated  psychoeducation alongside PRT skills.  As  based  on  Bernstein  et  al.  [27],  sessions  2 -4 focused on ' 16-muscle group ' relaxation, sessions 5 -6 focused on ' 7muscle  group ' relaxation,  sessions  7 -8  focused  on ' 4-muscle  group ' relaxation, and sessions 9 -10 focused on relaxation counting methods and producing relaxation by recalling previous relaxation. Participants
+
+E.M. Bowers et al.
+
+Fig. 2. CONSORT diagram for participant flow.
+
+Note. 1 One participant who discontinued the intervention after session 8 provided post-data.
+
+2 Data collection for 3-month and 6-month follow-up points is ongoing.
+
+were encouraged to practice relaxation exercises twice per day over the course of the intervention to gain mastery releasing physical tension related to misophonia triggers. Sessions 11 and 12 were scheduled every other  week  and  focused  on  relapse  prevention  and  review  of  skills learned.
+
+## 2. Measures
+
+## 2.1. Psychodiagnostic
+
+Participants were assessed for comorbid diagnoses with a structured diagnostic interview using the Diagnostic Interview for Anxiety, Mood, OCD, and Neuropsychiatric Disorders (DIAMOND; [23]).
+
+E.M. Bowers et al.
+
+Table 2 Summary of session content and processes target in the ACT intervention.
+
+| Session   | Description                                          | Session Content                                                                                                                                                                                                                                                                                                                                                               |
+|-----------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1         | Psychoeducation and treatment overview               | 1. Psychoeducation about misophonia and the auditory system 2. Introduce treatment rationale 3. Set behavioral commitment: observe responses to misophonia-related trig-                                                                                                                                                                                                      |
+| 2         | Values and functional adaptations                    | gers and self-monitor pattern(s) 1. Introduce values; connect therapy to values 2. Brainstorm and implement functional adaptions to the environment when trigger noises are present 3. Set behavioral commitment: practice                                                                                                                                                    |
+| 3 & 4     | Creative hopelessness and acceptance                 | 1. Introduce creative hopelessness/ control as the problem, discuss how efforts to control misophonia have interfered with life 2. Practice thought experiments to experience the futility of controlling internal experiences (e.g., national anthem metaphor) 3. Introduce acceptance ( ' willingness ' ) as an alternative: tug of war with monster metaphor, ' on paper ' |
+| 5 & 6     | Cognitive defusion and self- as-context              | 1. Introduce cognitive defusion: passengers on the bus metaphor, ' I'm having the thought that …' , naming misophonia 2. Introduce self-as-context: chessboard                                                                                                                                                                                                                |
+| 7         | Present moment awareness                             | experiences 1. Introduce present moment awareness and practice a mindfulness skill: attention as a spotlight metaphor, breathing exercises, sensory countdown 2. Set behavioral commitment: practice                                                                                                                                                                          |
+| 8 - 10    | Values clarification, committed action, and exposure | building present moment awareness 1. Values clarification: sweet spot exercise, compass metaphor 2. Review skills for values engagement and committed action 3. Introduce values-aligned exposure, if relevant 4. Set behavioral commitment: practice skills relevant to misophonia and                                                                                       |
+| 11 & 12   | Overview and relapse prevention                      | valued-activity 1. Review of skills and treatment rationale 2. Relapse prevention plan 3. Set behavioral commitment to continue practicing skills post- treatment                                                                                                                                                                                                             |
+
+## 2.2. Audiological measures
+
+Audiological  assessments  were  conducted  using  calibrated  equipment  in  a  soundproofed  booth  to  ensure  accuracy  and  reliability. Audiology testing included: (1) middle ear measures including otoscopy visualize ear canal and tympanic membrane, tympanometry to evaluate middle ear function, and acoustic reflex thresholds to assess integrity of auditory pathway, (2) pure tone audiometry to determine hearing level, (3) speech audiometry to measure speech recognitions thresholds, word recognition in quiet, and speech understanding in noise, (4) loudness discomfort  levels  to  test  for  hyperacusis,  (4)  and  distortion  product otoacoustic emissions. The audiological assessment also incorporated a self-report  battery  of  measures  assessing  hyperacusis  symptoms  (Inventory of Hyperacusis Symptoms Survey; [28]) and tinnitus symptoms (Tinnitus and Hearing Survey; [29]
+
+## 2.3. Outcome measures
+
+The primary outcome measure for this trial was the DMI [21], a clinician-rated measure assessing misophonia severity and impairment. Participants also completed the Misophonia Questionnaire [22] to assess self-reported  misophonia  symptom  severity.  Other  primary  outcome measures include the self-report Disgust Propensity and Sensitivity Scale [30], Rage Outbursts and Anger Rating Scale [31], and the Adult Sensory Questionnaire [32]. For secondary outcomes, the Mental Health Continuum  Short  Form  [33]  measured  quality  of  life,  the  Valuing Questionnaire [34] assessed progress and obstruction in regard to individual values, the Outcome Questionnaire-45 [35] measured general distress,  and  a  self-report  and  clinician-rated  version  of  the  Clinical Global  Impression  scale  [24]  assessed  broad  improvement.  We  also assessed  general  anxiety,  depression,  and  stress  via  the  Depression, Anxiety, and Stress Scale [36] and OCD symptoms via the Dimensional Obsessive-Compulsive Scale [37].
+
+## 2.4. Process of change measures
+
+Psychological flexibility was measured with the acceptance and action questionnaire Acceptance and Action Questionnaire-III [38], as well as  a  newly  developed  measure,  the  Misophonia  AAQ  (Miso-AAQ;  in preparation).  The  Miso-AAQ  was  designed  to  measure  psychological flexibility in the context of misophonia specifically.
+
+## 2.5. Treatment credibility and acceptability
+
+Credibility was measured after the second intervention session with the credibility/expectancy questionnaire [39]. Acceptability was measured at post-treatment with a version of the treatment evaluation inventory-short form [40].
+
+## 2.6. Data analytic plan
+
+Multilevel models (MLMs) will be used to evaluate between-group differences  in  outcomes  over  time.  MLMs  are  repeated  measure  regressions that account for dependent observations (i.e., permits violation of assumption of independent data) by modeling specific sources of dependencies  (random  effects)  and  use  all  available  data  for  the dependent variable of interest in analyses as opposed to listwise deletion. We will use MLMs to investigate the effect of ACT relative to PRT over  time  (at  pre-treatment,  post-treatment,  and  follow-ups)  on  the following outcomes: misophonia symptoms, anger, sensory sensitivity, quality of life, general distress, broad improvement, and psychological flexibility. We will statistically control for any possible improvements in general anxiety, depression, and OCD symptoms in analyses in order to control  for  co-morbidity  and  related  change.  We  will  also  consider number of co-morbid diagnoses each participant has as a possible covariate, if appropriate.
+
+Treatment acceptability and credibility will be evaluated using preestablished cut-off scores. Acceptability will be evaluated as a score of 21 or higher on the TEI-SF (indicating that ACT was more acceptable than not), a benchmark used in previous intervention research [41]. There are no established cutoffs for the CEQ, but scores of 6 or higher (on the  1 -9  scale)  will  be  used  to  indicate  adequate  credibility  and expectancies.
+
+## 3. Discussion
+
+The present study describes the procedures and protocol of the first
+
+E.M. Bowers et al.
+
+RCT of ACT for misophonia, offering insights into psychological and behavioral treatment. ACT, rooted in a process-based approach, aims to enhance psychological flexibility by promoting acceptance of internal experiences  and  value-driven  behavior.  In  contrast,  PRT  focuses  on relaxation techniques to alleviate distress associate with trigger sounds. The outcomes of this study will contribute to our understanding of the treatment outcomes and mechanisms of change that underlie misophonia and related symptoms by following participants over a period of nine months from baseline to follow-up.
+
+Utilizing ACT as a process-based approach is critical for addressing diverse  psychological  and  emotional  responses  to  trigger  sounds. Process-based therapies, such as the unified protocol, have shown preliminary  efficacy  in  treating  misophonia  in  pilot  trials,  suggesting process-based  therapies  can  address  the  underlying  mechanisms  of misophonia beyond symptom suppression [9,19]. Whereas the unified protocol  targets  emotion  regulation,  ACT  targets  psychological  flexibility, and the results of this trial may offer clinicians an empirically supported intervention with a unique target that can help clients engage in valued-living while experiencing misophonia.
+
+Moreover,  the  integration  of  psychological  and  audiological  approaches lends the trial to create a more comprehensive framework for misophonia.  Given  the  nascent  stage  of  misophonia  research  and divergent perspectives within different disciplines, this interdisciplinary approach is essential. Traditionally, misophonia has been treated primarily within either audiological or psychological domains, but seldom through a combined interdisciplinary lens. Only one previous trial has incorporated  a  brief  audiological  screening  assessing  hyperacusis, hearing loss, and tinnitus prior to intervention for misophonia [11]. The inclusion of extensive audiological assessments alongside ACT allows for a more nuanced understanding of misophonia, incorporating both the auditory processing and emotional responses. The results of this trial will contribute to the process-based literature by examining intervention effects in a statistically powered and controlled study design.
+
+Notably,  telehealth  became  a  significant  aspect  of  this  trial  with nearly half of the sessions being conducted on Zoom. Offering a hybrid of in-person and virtual sessions improved accessibility and contributed to  our  recruitment  success.  In  response  to  higher  than  anticipated recruitment volume, we increased our original sample size from 40 to 60 participants. Furthermore, study recruitment required fewer resources than  anticipated,  enabling  us  to  reallocate  funds  to  accommodate compensation for the additional 20 participants. The successful recruitment  underscores  the  feasibility  of  misophonia  intervention research and interest in treatment among those affected.
+
+Although this study protocol has many strengths, such as an active control group and a multidisciplinary approach, there are limitations that provide opportunities for future research. First, the present sample lacks  diversity,  with  the  majority  of  participants  self-identifying  as White, which may limit the generalizability of findings to more diverse populations.  Second,  the  inclusion  criteria  allowed  individuals  with various  comorbid  psychological  conditions  to  participate.  Although psychological comorbidities are common and reflect real-world clinical scenarios, there is a possibility the observed treatment effects could be confounded. Future research may benefit from more stringent diagnostic exclusion criteria to isolate the impact of the intervention on misophonia symptoms. Lastly, all clinicians delivering PRT in this study are also ACT therapists  by  training,  potentially  impacting  the  effects  of  PRT. Given the emphasis of building awareness of physical internal experiences (e.g., muscle tension and relaxation) in PRT, ACT and PRT share a slight  overlap  through  fostering  present  moment  awareness.  Future studies may choose to incorporate an alternative active control group such as psychoeducation to account for intervention similarities.
+
+In conclusion, this study outlines the first RCT of ACT for misophonia, representing one of the few RCTs conducted for misophonia. By emphasizing the interdisciplinary approach of psychological and audiological interventions, we outline the comprehensive nature of our study and its potential implications for advancing both research and clinical practices for misophonia. The outcomes of this study will enhance our understanding of misophonia treatment, with the novel treatment target of psychological flexibility in this population.
+
+## Financial disclosures
+
+This project was funded by a grant from the Misophonia Research Fund. Dr. Twohig also receives royalties from New Harbinger, Oxford University Press, and Praxis CET.
+
+## CRediT authorship contribution statement
+
+Emily M. Bowers: Writing -original draft, Project administration, Methodology, Investigation, Conceptualization. Mercedes G. Woolley: Writing -review &amp; editing,  Writing -original  draft,  Methodology, Investigation. Karen Munoz: ˜ Writing -review &amp; editing, Supervision, Project administration. Julie M. Petersen: Writing -review &amp; editing, Investigation, Conceptualization. Michael P. Twohig: Writing -review &amp; editing, Supervision, Investigation, Funding acquisition, Conceptualization.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Data availability
+
+Data will be made available on request.
+
+## References
+
+- [1] S.E. Swedo, D.M. Baguley, D. Denys, L.J. Dixon, M. Erfanian, A. Fioretti, P. J. Jastreboff, S. Kumar, M.Z. Rosenthal, R. Rouw, D. Schiller, J. Simner, E. A. Storch, S. Taylor, K.R.V. Werff, C.M. Altimus, S.M. Raver, Consensus definition of Misophonia: a Delphi study, Front. Neurosci. 16 (2022) 841816, https://doi.org/ 10.3389/FNINS.2022.841816/BIBTEX.
+- [2] M. Siepsiak, M.Z. Rosenthal, D. Raj-Koziak, W. Dragan, Psychiatric and audiologic features of misophonia: use of a clinical control group with auditory overresponsivity, J. Psychosom. Res. 156 (2022) 110777, https://doi.org/10.1016/J. JPSYCHORES.2022.110777.
+- [3] L.J. Dixon, M.J. Schadegg, H.L. Clark, C.J. Sevier, S.M. Witcraft, Prevalence, phenomenology, and impact of misophonia in a nationally representative sample of US adults, J. Psychopatho. Clin. Sci. 133 (5) (2024) 403 -412.
+- [4] S.A. Mattson, J. D Souza, K.D. Wojcik, A.G. Guzick, W.K. Goodman, E.A. Storch, ' A systematic review of treatments for misophonia, Personaliz. Med. Psychiatr. 39 40 (2023) 100104, https://doi.org/10.1016/J.PMIP.2023.100104. -
+- [5] A.D. Neacsiu, V. Szymkiewicz, J.T. Galla, B. Li, Y. Kulkarni, C.W. Spector, The neurobiology of misophonia and implications for novel, neuroscience-driven interventions, Front. Neurosci. 16 (2022) 893903, https://doi.org/10.3389/ fnins.2022.893903.
+- [6] M.M. Jastreboff, P.J. Jastreboff, Decreased sound tolerance and tinnitus retraining therapy (TRT) | the Australian and New Zealand journal of audiology, Aust. N. Z. J. Audiol. 24 (2) (2002) 74 -84. https://search.informit.org/doi/abs/10.3316/infor mit.830321871955412.
+- [7] E.E.A. Smith, A.G. Guzick, I.A. Draper, J. Clinger, S.C. Schneider, W.K. Goodman, J.J. Brout, M. Lijffijt, E.A. Storch, Perceptions of various treatment approaches for adults and children with misophonia, J. Affect. Disord. 316 (2022) 76 -82, https:// doi.org/10.1016/j.jad.2022.08.020.
+- [8] A.B. Lewin, S. Dickinson, K. Kudryk, A.R. Karlovich, S.L. Harmon, D.A. Phillips, N. A. Tonarely, R. Gruen, B. Small, J. Ehrenreich-May, Transdiagnostic cognitive behavioral therapy for misophonia in youth: methods for a clinical trial and four pilot cases, J. Affect. Disord. 291 (2021) 400 -408, https://doi.org/10.1016/J. JAD.2021.04.027.
+- [9] K. McMahon, C. Cassiello-Robbins, A. Greenleaf, R. Guetta, E. Frazer-Abel, L. Kelley, M.Z. Rosenthal, The unified protocol for transdiagnostic treatment of emotional disorders for misophonia: a pilot trial exploring acceptability and efficacy, Front. Psychol. 14 (2023) 1294571, https://doi.org/10.3389/ FPSYG.2023.1294571/BIBTEX.
+- [10] A.E. Schroder, N.C. Vulink, A.J. van Loon, D.A. Denys, Cognitive behavioral ¨ therapy is effective in misophonia: an open trial, J. Affect. Disord. 217 (2017) 289 294, https://doi.org/10.1016/J.JAD.2017.04.017. -
+- [11] I.J. Jager, N.C.C. Vulink, I.O. Bergfeld, A.J.J.M. van Loon, D.A.J.P. Denys, Cognitive behavioral therapy for misophonia: a randomized clinical trial, Depress. Anxiety 38 (7) (2021) 708 -718, https://doi.org/10.1002/DA.23127.
+
+E.M. Bowers et al.
+
+- [12] R.C. Kamody, G.S. Del Conte, Using dialectical behavior therapy to treat Misophonia in adolescence, Prim. Care Compan. CNS Disorder. 19 (5) (2017), https://doi.org/10.4088/PCC.17L02105.
+- [13] J.M. Petersen, M.P. Twohig, Acceptance and commitment therapy for a child with Misophonia: a case study, Clin. Case Stud. 22 (3) (2023) 211 -223, https://doi.org/ 10.1177/15346501221126136/ASSET/IMAGES/LARGE/10.1177_ 15346501221126136-FIG 2.JPEG.
+- [28] B. Greenberg, M. Carlos, Psychometric properties and factor structure of a new scale to measure hyperacusis: introducing the inventory of hyperacusis symptoms, Ear Hear. 39 (5) (2018) 1021034, https://doi.org/10.1097/ AUD.0000000000000583.
+- [14] R.L. Schneider, J.J. Arch, Case study: a novel application of mindfulness- and acceptance-based components to treat misophonia, J. Contextual Behav. Sci. 6 (2) (2017) 221 225, https://doi.org/10.1016/J.JCBS.2017.04.003. -
+- [15] S.C. Hayes, L.J. Hayes, H.W. Reese, Finding the philosophical core: a review of Stephen C. Pepper s world hypotheses: a study in evidence, J. Exp. Anal. Behav. 50 ' (1) (1988) 97 -111, https://doi.org/10.1901/jeab.1988.50-97.
+- [16] C.W. Ong, E.H. Eustis, Psychological Flexibility. The Oxford Handbook of Acceptance and Commitment Therapy, 2023, pp. 169 -181.
+- [17] I. Jager, P. de Koning, T. Bost, D. Denys, N. Vulink, Misophonia: phenomenology, comorbidity and demographics in a large sample, PLoS One 15 (4) (2020) e0231390, https://doi.org/10.1371/JOURNAL.PONE.0231390.
+- [18] D.H. Barlow, K.K. Ellard, C.P. Fairholme, Unified Protocol for Transdiagnostic Treatment of Emotional Disorders: Workbook, Oxford University Press, 2010.
+- [19] N.A. Tonarely-Busto, D.A. Phillips, E. Saez-Clarke, A. Karlovich, K. Kudryk, A. B. Lewin, J. Ehrenreich-May, Applying the unified protocol for Transdiagnostic treatment of emotional disorders in children and adolescents to Misophonia: a case example, Evid.-Based Pract. Child Adolesc. Mental Health 8 (1) (2023) 133 -147, https://doi.org/10.1080/23794925.2022.2025631.
+- [20] Z.M. Rosenthal, Y. Shan, J. Trumbull, Treatment of Misophonia, Adv. Psychiatr. Behavior. Health (2023), https://doi.org/10.1016/j.ypsc.2023.03.009.
+- [21] R.E. Guetta, C. Cassiello-Robbins, D. Anand, M.Z. Rosenthal, Development and psychometric exploration of a semi-structured clinical interview for Misophonia, Personal. Individ. Differ. 187 (2022) 111416, https://doi.org/10.1016/J. PAID.2021.111416.
+- [22] M.S. Wu, A.B. Lewin, T.K. Murphy, E.A. Storch, Misophonia: incidence, phenomenology, and clinical correlates in an undergraduate student sample, J. Clin. Psychol. 70 (10) (2014) 994 -1007, https://doi.org/10.1002/JCLP.22098.
+- [23] D.F. Tolin, C. Gilliam, B.M. Wootton, W. Bowe, L.B. Bragdon, E. Davis, S. E. Hannan, S.A. Steinman, B. Worden, L.S. Hallion, Psychometric properties of a structured diagnostic interview for DSM-5 anxiety, mood, and obsessivecompulsive and related disorders, Assessment 25 (1) (2016) 3 -13, https://doi.org/ 10.1177/1073191116638410.
+- [24] W. Guy, ECDEU Assessment Manual for Psychopharmacology, US Department of Health, Education, and Welfare, Public Health Service, 1976.
+- [25] J. Kolahi, H. Bang, J. Park, Towards a proposal for assessment of blinding success in clinical trials: up-to-date review, Community Dent. Oral Epidemiol. 37 (6) (2009) 477 484, https://doi.org/10.1111/j.1600-0528.2009.00494.x. -
+- [26] M.P. Twohig, J.M. Petersen, J. Fruge, C.W. Ong, J.L. Barney, J. Krafft, E.B. Lee, M. E. Levin, A pilot randomized controlled trial of online-delivered ACT-enhanced behavior therapy for trichotillomania in adolescents, Cogn. Behav. Pract. 28 (4) (2021) 653 668, https://doi.org/10.1016/J.CBPRA.2021.01.004. -
+- [27] D.A. Bernstein, T.D. Borkovec, H. Hazlett-Stevens, New Directions in Progressive Relaxation Training: A Guidebook for Helping Professionals, Greenwood Publishing Group, 2000. https://psycnet.apa.org/record/2000-03365-000.
+- [29] J.A. Henry, S.M. Theodoroff, C. Edmonds, I. Martinez, P.J. Myers, T.L. Zaugg, M. C. Goodworth, Sound tolerance conditions (hyperacusis, misophonia, noise sensitivity, and phonophobia): definitions and clinical management, Am. J. Audiol. 31 (3) (2022) 513 -527, https://doi.org/10.1044/2022_AJA-22-00035.
+- [30] W.J.M. Van Overveld, P.J. De Jong, M.L. Peters, K. Cavanagh, G.C. Davey, Disgust propensity and disgust sensitivity: separate constructs that are differentially related to specific fears, Personal. Individ. Differ. 41 (7) (2006) 1241 -1252.
+- [31] C. Budman, B.J. Coffey, R. Shechter, M. Schrock, N. Wieland, A. Spirgel, E. Simon, Aripiprazole in children and adolescents with Tourette disorder with and without explosive outbursts, J. Child Adolesc. Psychopharmacol. 18 (5) (2008) 509 -515, https://doi.org/10.1089/CAP.2007.061.
+- [32] B. Pfeiffer, M. Kinnealey, Treatment of sensory defensiveness in adults, Occup. Ther. Int. 10 (3) (2003) 175 -184, https://doi.org/10.1002/OTI.184.
+- [33] S.M.A. Lamers, G.J. Westerhof, E.T. Bohlmeijer, P.M. Ten Klooster, C.L.M. Keyes, Evaluating the psychometric properties of the mental health continuum-short form (MHC-SF), J. Clin. Psychol. 67 (1) (2011) 99 -110, https://doi.org/10.1002/ JCLP.20741.
+- [34] M.F. Smout, M. Longo, S. Harrison, R. Minniti, W. Wickes, J.M. White, Psychosocial treatment for methamphetamine use disorders: a preliminary randomized controlled trial of cognitive behavior therapy and acceptance and commitment therapy, Subst. Abus. 31 (2) (2010) 98 -107, https://doi.org/ 10.1080/08897071003641578.
+- [35] M.J. Lambert, A.T. Gregersen, G.M. Burlingame, The Outcome Questionnaire-45, in: M.E. Maruish (Ed.), The Use of Psychological Testing for Treatment Planning and Outcomes Assessment: Instruments for Adults, 3rd ed, Lawrence Erlbaum Associates Publishers, 2004, pp. 191 -234. https://psycnet.apa.org/record/200414941-006.
+- [36] J.R. Crawford, J.D. Henry, The depression anxiety stress scales (DASS): normative data and latent structure in a large non-clinical sample, Br. J. Clin. Psychol. 42 (2) (2003) 111 131, https://doi.org/10.1348/014466503321903544. -
+- [37] J.S. Abramowitz, B.J. Deacon, B.O. Olatunji, M.G. Wheaton, N.C. Berman, D. Losardo, K.R. Timpano, P.B. McGrath, B.C. Riemann, T. Adams, T. Bjorgvinsson, ¨ E.A. Storch, L.R. Hale, Assessment of obsessive-compulsive symptom dimensions: development and evaluation of the dimensional obsessive-compulsive scale, Psychol. Assess. 22 (1) (2010) 180 -198, https://doi.org/10.1037/A0018260.
+- [38] C.W. Ong, B.G. Pierce, J.M. Petersen, J.L. Barney, J.E. Fruge, M.E. Levin, M. P. Twohig, A psychometric comparison of psychological inflexibility measures: discriminant validity and item performance, J. Contextual Behav. Sci. 18 (2020) 34 47, https://doi.org/10.1016/J.JCBS.2020.08.007. -
+- [39] G.J. Devilly, T.D. Borkovec, Psychometric properties of the credibility/expectancy questionnaire, J. Behav. Ther. Exp. Psychiatry 31 (2) (2000) 73 -86, https://doi. org/10.1016/S0005-7916(00)00012-4.
+- [40] M.L. Kelley, R.W. Heffer, F.M. Gresham, S.N. Elliott, Development of a modified treatment evaluation inventory, J. Psychopathol. Behav. Assess. 11 (3) (1989) 235 247, https://doi.org/10.1007/BF00960495/METRICS. -
+- [41] M.P. Twohig, S. Hayes, A. Masuda, Increasing willingness to experience obsessions: acceptance and commitment therapy as a treatment for obsessive-compulsive disorder, Behav. Ther. 37 (1) (2006) 3 -13.

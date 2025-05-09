@@ -1,0 +1,1109 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Journalofcontextual behavioral science.
+ArticleTitle: Mindfulness andcognitive emotionregulation inpediatric misophonia
+ArticleAuthor: Spencer
+Date:2023
+OCLC-921229685; ISSN-22121447; LCN-2013250547;
+Publisher: Amsterdam :Elsevier,2012-
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Journal Pre-proof
+Mindfulness and cognitive emotion regulation in pediatric misophonia
+Samuel D. Spencer, Andrew G. Guzick, Matti Cervin, Eric A. Storch
+PII: S2212-1447(23)00091-1
+DOI: https://doi.org/10.1016/j.jcbs.2023.07.005
+Reference: JCBS 686
+To appear in: Journal of Contextual Behavioral Science
+Received Date: 24 January 2023
+Revised Date: 4 July 2023
+Accepted Date: 14 July 2023
+Please cite this article as: Spencer S.D., Guzick A.G., Cervin M. & Storch E.A., Mindfulness and
+cognitive emotion regulation in pediatric misophonia, Journal of Contextual Behavioral Science  (2023),
+doi: https://doi.org/10.1016/j.jcbs.2023.07.005 .
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+© 2023 Published by Elsevier Inc. on behalf of Association for Contextual Behavioral Science.
+
+PEDIATRIC MISOPHONIA   1 
+Running Head: PEDIATRIC MISOPHONIA  
+ 
+ 
+ 
+ 
+Mindfulness  and cognitive emotion regulation  in pediatric misophonia  
+ 
+Samuel D. Spencer, M.A.a*, Andrew G. Guzick, Ph.D.a, Matti Cervin, Ph.D.a, b, & Eric A. 
+Storch, Ph.D .a 
+aDepartment of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, TX, 
+USA; bDepartment of Clinical Sciences Lund, Lund University, Lund Sweden  
+ 
+ 
+Author Note  
+ Correspondence regarding this manuscript should be sent to Samuel D. Spencer, M.A., 
+Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, 1977 Butler 
+Boulevard, Houston, TX, 77054, Email: samuel.spencer@bcm.edu  
+Research reported in this publication was supported by a grant from the Ream 
+Foundation, as well as the Eunice Kennedy Shriver National Institute of Child Health & Human 
+Development of the National Institutes of Health under Award Numbers 1R01HD080096 and 
+P50HD103555 for use of the Clinical and Translational Core facilities. The content is solely the 
+responsibility of the authors and does not necessarily represent the official views of the National 
+Institutes of Health.  We also acknowledge the contributions  of Jane Clinger, Catie Rast, Minjee 
+Kook, Sophie Schneider,  Eleanor Smith, Isabel Draper, Wayne Goodman, Marijn Lijffijt, and 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   2 
+Nicholas Murphy . Data used in analyses in the present study is available upon reasonable 
+request.  
+ 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   1 
+Abstract  
+Misophonia is characterized by decreased tolerance of ordinary human -generated trigger sounds 
+and associated visual stimuli (e.g., chewing, sniffing, lip smacking), coupled with intense 
+affective reactions. The disorder often begins during childhood or ado lescence and is associated 
+with impairment and distress in numerous life domains. Research has begun to examine the 
+underlying psychological mechanisms of misophonia in adults, but studies  in youth are limited.  
+Trait m indfulness  (i.e., nonjudgmental and no navoidant present -moment awareness)  and 
+cognitive emotion regulation  (i.e., cognitive process ing, or respon ding to, emotionally arousing 
+situations)  are two proposed  mechanisms that may underpin  pediatric misophonia  and associated 
+functional impairment . In the present exploratory cross -sectional study , we examined  trait 
+mindfulness and cognitive emotion regulation and their relations with misophonia features and 
+adaptive functioning in 102 youth  with misophonia ( Mage = 13.7;  SD = 2.5; range = 8 – 17). 
+More severe m isophonia  was significantly associated with decreased levels of trait mindfulness  
+and adaptive functioning  across domains , in addition to  deficits in certain  facets of cognitive 
+emotion regulation, particularly self-blame. Neither trait mindfulness  nor facets of cognitive 
+emotion regulation  moderate d the association between misophonia  severity  and adaptive 
+functioning  across domains , with the notable exception that difficulties with adaptive functioning 
+in peer relationships  was attenuated  in those high in mindfulness . Findings suggest that trait 
+mindfulness – and to a lesser extent cognitive emotion regulation – may be potentially relevant 
+process es in pediatric misophonia . However,  more research is needed to uncover the precise 
+nature of these process es to aid future characterization and  intervention efforts , especially in light 
+of equivocal findings in the present study . 
+Keywords.  Misophonia; youth; mindfulness; cognitive emotion regulation; mi sophonia  
+assessment questionnaire (MAQ).   
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   2 
+Mindf ulness and cognitive emotion regulation in pediatric misophonia  
+ Misophonia is  characterized by decreased tolerance of  ordinary human -generated sounds  
+and associated visual stimuli  (e.g., chewing, sniffing , lip smacking) , coupled with  intense 
+affective reactions  to triggers  ranging from annoyance and frustration to  heightened  anger  
+(Swedo et al., 202 2). Misophonia  often begins during childhood or adolescence and is associated 
+with significant impairment and distress in numerous life domains , including  associations with 
+elevated internalizing and externalizing disorders (Guzick et al., 2023; Remmert et al., 2022 ), 
+reduced  life satisfaction (Rinaldi et al., 2022), and diminished q uality of life ( Jager et al., 2020; 
+Möllmann  et al., 2023 ; Williams et al., 2022) . Although literature  on the characterization  of 
+misophonia is growing , research has only just  begun to examine the underlying psychological 
+mechanisms  of the condition in adults  (Brout et al., 2018; Cowan et al., 2022) , with 
+corresponding studies  in youth remaining  relatively limite d. A more precise understanding of 
+potential misophonia mechanisms during childhood and adolescence could offer valuable  
+insights into its etiology and prognostic factors. Furthermore, identifying p sychological factors  
+underpinning misophonia , including attentional, cognitive , and affective processes, is especially 
+likely to aid the development of psychosocial interventions that specifically target candidate 
+mechanisms.  
+Mindfulness  
+ Mindfulness is a construct that may potentially be relevant for understanding  pediatric 
+misophonia, particularly in regard to attentional and cognitive components of the condition . 
+While conceptualizations of mindfulness are historically diverse  (Chiesa, 2 013), within the 
+behavioral health literature, mindfulness is most frequently  defined as either a phenomenological 
+state, dispositional trait  (i.e., generalized tendency ), or a set of skills to be targeted/instantiated 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   3 
+(Bishop et al., 2017; Brown & Ryan, 2 003; Van Dam et al., 2018).  A trait -based 
+conceptualization of mindfulness is commonly used in clinical science research and has been 
+shown to be amenable to development of psychometrically sound  self-report measure s of the 
+construct (Baer, 2019).  
+ From this perspective , mindfulness is defined as a multifaceted construct in volving  
+flexible noticing  of present -moment experiences, acting with awareness of one’s current 
+behavior, and embracing a non -reactive and non -judgmental stance to internal and external  
+phenomena  (Baer et al., 2006 , 2008 ). Particularly relevant to the present study, t his definition of 
+mindfulness has been adapted for youth in the context of psychometric development of the Child 
+and Adolescent Mindfulness Measure (CAMM; Greco et al., 2011 ). Here, Greco et al.  concluded 
+that mindfulness may be best conceptualized in youth as a unidimensional construct, due to a 
+data-driven argument  that the multiple facets of mindfulness described ab ove are less distinct  
+and not fully developed  in youth com pared to adults.  
+ As mindfulness is predicated on the process of paying attention to one’s environment in a 
+particular way (i.e., nonjudgmental, curious, and flexible ; Kabat -Zinn, 1990 ), the literature on 
+attentional processes in misophonia further support the argument  that mindfulness  is a relevant 
+process in  pediatric misophonia. Conceptual models of misophonia posit that heightened 
+sensitivity to particular sounds results in behavior al avoidance of potentially triggering 
+situations, along with hypervigilance and attentional fixation toward triggers (Brout et al., 2018; 
+Jastreboff & Jastreboff, 2014). Neurophysiological research also indicate s that individuals with 
+misophonia possess a lterations in generalized (i.e., trait -like) attentional processes irrespective  of 
+exposure to trigger situations (Frank et al., 2020; Schröder et al., 201 4). Of particular note are 
+recent findings which suggest that individuals with misophonia tend to exh ibit m ore rigid and 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   4 
+inflexible attentional  and cognitive  processes  compared to controls  (Eijsker et al., 2021; Simner 
+et al., 2021). While mindfulness has been  specifically discussed in the context of  a case study 
+articulating an acceptance - and mindfulnes s-based intervention for an adolescent with 
+misophonia (Schneider & Arch, 2017), to date we are unaware of any research  that examines 
+trait mindfulness and its associations with other constructs relevant to pediatric misophonia  in a 
+larger sample . Such research could be especially helpful for furthering our understanding of 
+misophonia and informing treatment development efforts.  
+Emotion Regulation  
+From a behavioral perspective , longstanding patterns of negatively reinforced avoidance 
+behavior s in respons e to misophonia triggers  necessarily mean  that afflicted individuals  are 
+deprived of opportunities to learn  and practice adaptive  strategies for regulating emotions  in 
+response to such triggers  (Cowan et al., 2022; Frank  & McKay, 20 19). Indeed, recent cross -
+sectional research in adults reveals  that difficulties in emotion regulation  are associated  with 
+misophonia symptom severity (Cassiello -Robbins et al., 2020 ) and intensity of reactions to 
+misophoni a triggers (Guetta et al., 2022). Further evidence of the relevance of emotion 
+regulation for understanding  misophonia is provided from uncontrolled case stud y research  
+describing psychological treatments for the condition , which often promote  emotion regul ation 
+skills  for youth with misophonia  (Dover & McGuire, 2023 ; Lewin et al., 2022; Zarotti et al., 
+2022).   
+Certain maladaptive  cognitive  emotion regulation strategies may also directly impact the 
+development and maintenance  of misophonia (e.g., a pattern of hostile attributions such as 
+blaming others for making trigger noises could plausibly maintain anger responses).  However, 
+most of the research to date on emotion regulation in misophonia has focused on  behavioral 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   5 
+affective regulation processes  (e.g., Guetta et al., 2022) , and relatively less so on cognitive 
+aspects. Cognitive emotion regulation may be especially germane to study in misophonia, as 
+reactions to misophonia triggers have been shown to be mediated by higher -order interpretations 
+of a particular sound in a given context  (e.g., a family member chewing loudly) , rather than by 
+the acoustical properties of the sound, per se (Neacsiu et al., 202 2)  
+Similar to the complexities described above related to diverse conceptualizations of 
+mindfulness, emotion regulation has been extensively studied using a range of frameworks 
+(Braunstein et al., 2017; McRae & Gross, 2020). Consensus seems to have emerge d, however,  
+concerning the multifaceted nature of emotion regulation  (Gratz & Roemer, 200 4). Despite some 
+developmental considerations , emotion regulation – broadly considered – has been similarly 
+conceptualized as a multifaceted construct in youth  (Silvers, 2022) .  
+Relevant to the present study , cognitive emotion regulation in youth has been 
+conceptualized via the framework of a set of distinct adaptive and maladaptive processes 
+(Garnefski et al., 2005). When measured th is way, deficits in cognitive emotion regulation 
+strategies  have demonstrated associations  with greater  psychopathology  (Mayer et al., 2022 ; van 
+den Heuvel et al., 2020 ) and decreased  adaptive functioning (Mihalca & Tarnavska, 2013)  in 
+youth . While relatively less studied in pediatric misophonia compared to other conditions, it is 
+tenable  that such cognitive emotion regulation def icits are also pervasive in misophonia  and may 
+contribute to impairment in adaptive functioning across numerous life domains (Möllmann et al., 
+2023; Williams et al., 2022).  Furthermore, since childhood and adolescence is a critical period 
+for development o f emotion regulation abilities  (Silver, 2022) , and also coincides  with the most 
+common onset of misophonia (Guzick et al., 2023), emotion regulation represents  an important 
+process to examine within pediatric misophonia.  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   6 
+Mindfulness and Emotion Regulation  
+The constructs of mindfulness and emotion regulation also share some degree of 
+conceptual overlap and distinction that bear mention. More specifically, mindfulness and 
+emotion regulation have been shown to have differential statistical associations with re levant 
+psychosocial outcomes, with such relations often manifesting at the facet level for mindfulness 
+(Baer et al., 2008; Iani et al., 2019 ; Stevenson et al., 2019 ). In the realm of clinical intervention, 
+mindfulness has been conceptualized as an adaptive  process of regulating attention and emotions 
+(Chambers et al., 2009 ; Kabat -Zinn, 1990 ), further suggesting  the interrelated nature of these two 
+constructs. However, d ue to challenges in extrapolating findings from the adult literature in these 
+areas to ch ildren and adolescents  (e.g., mindfulness defined as a unidimensional construct in 
+youth; Greco et al., 2011) , along with the paucity of research to date concerning  mindfulness and 
+emotion regulation in pediatric misophonia, in the  present study we chose  to examine the unique 
+(i.e., distinct ) associations between trait mindfulness and cognitive emotion regulation  facets , 
+respectively, and misophoni a. 
+Current Study  
+The foregoing literature review reveals  that mindfulness and cognitive emotion regulation 
+are worthwhile processes to investigate within the context of pediatric misophonia. While some 
+research in this area exists for adults, the extent to which these processes are associated with  
+pediatric  misophonia has yet to be  examined. The present exploratory cross -sectional study seeks 
+to address this gap in the literature.   
+First, statistical  associations among  trait mindfulness , cognitive emotion regulation  
+facets , domains of adaptive functioning , and misophonia  features  were examined . Based on past  
+cross -sectional (Cassiello -Robbins et al., 2020; Guetta et al., 2022) and intervention  (Lewin et 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   7 
+al., 2022 ; Schneider & Arch, 2017 ) research suggesting the relevance of  attentional, cognitive, 
+and affective processes within  misophonia  and the salutary nature of mindfulness and emotion 
+regulation , we hypothesized that trait mindfulness and adaptive cognitive emotion regulation  
+facets  would generally demonstrate  inverse associations with misophonia  features . Due to a lack 
+of extant literature on the subject,  no formal hypotheses were proffered  regarding the differential 
+magnitude of specific associations among  trait mindfulness , cognitive emotion regulation  facets , 
+and misophonia features ; in that regard, these analyses were considered exploratory in nature .  
+Subsequently , we explored whether trait mindfulness  and adaptive cognitive emotion 
+regulation  facets moderated the association between misophonia  severity  and diminished 
+adaptive functioning  across domains . Aligned with past literature suggesting the salience of 
+mindfulness and emotion regulation as transdiagnostic mechanisms underlying psychopathology 
+in youth (Trosper et al., 2009; Zack et al., 2014), we generally predicted that  trait mindfulness 
+and adaptive cognitive emotion regulation facets  would function to attenuate (i.e., moderate) 
+inverse psychopathological associations between elevated misophonia features and diminished 
+adaptive functioning  across domains . Again , due to the paucity of extant literature on the topic, 
+no precise hypotheses were offered regarding the specificity  of moderation  for trait mindfulness 
+and cognitive emotion regulation facets , and such moderation analyses were also  considered 
+exploratory in nature .  
+Method  
+Participants  
+Data  utilized in the present study were gathered as part of a larger project  conducted at a 
+private university hospital in the south ern U.S.A. pursuing  an in-depth  phenotypic 
+characterization of pediatric misophonia  (see Guzick et al., 2023 for more details regarding study 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   8 
+procedures and characterization of the sample  used for the present study ). Potential participants 
+were recruited via a multimedia advertising campaign that included mainstream ( e.g., flyers , TV 
+interviews, community presentations) and electronic ( e.g., Listserves, social media) media, 
+referrals from allied healthcare professionals , and public service announcements.  Inclusion 
+criteria were:  between 8 to 17 years old, and  experienc ing clinically significant misophonia 
+symptoms defined as a score ≥10 on the Amsterdam Misophonia Scale (A -MISO -S; Schröder et 
+al., 2013 ), which corresponds with clinically significant  symptoms.  Clinically significant 
+misophonia in participants was further  confirmed through the use of a semi -structured 
+misophonia diagnostic interview (Misophonia Assessment Interview; Lewin et al., 2022) and 
+through consultation with licensed psychologists  involved with the study . Exclusion criteria 
+were: lifetime diagnosis of schizophrenia, other psychotic disorder, organic brain syndrome, or 
+cognitive impairment; suicidality  in need of immediate clinical attention ; or inability to speak 
+English. As depicted in Table 1, the average age of the 102 participants  in the sample  was 13.7 
+years old ( SD = 2.5; range = 8 – 17), and  the majority identified their gender as female (67.6%) 
+and race as White (87.3%).  Of the 79% of participants who met diagnostic criteria for a 
+comorbid psychiatric disorder, 45% experience d a current anxi ety or obsessive -compulsive 
+disorder , and 47% experienced a past or current major depressive episode. As shown in Table 1, 
+other common comorbidities included attention -deficit/hyperactivity disorder and chronic tic 
+disorders.  The most common primary (non -misophonia) psychiatric diagnoses  were major 
+depressive disorder (29.4%), generalized anxiety disorder (16.7%), and attention deficit 
+hyperactivity disorder (9.8%).  
+Procedure  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   9 
+The present study received approv al from  the Institutional Review Board at the authors ’ 
+affiliated university. Potential participants (and their caregiver/legal guardian) were prescreened 
+via telephon e. Informed consent was obtained from caregiver /legal guardians (along with assent 
+from youth) of all interested potential participants who met  eligibility requirements . Youth and 
+caregiver s then completed  a synchronous virtual assessment session with a research assistant  via 
+a secure telehealth platform and completed child - and caregiver -report measure s via a secure 
+Internet  platform  (see subsections of the Measures section for details of which measures were 
+child - and caregiver -report) . Participants received $100 compensation ($50 parent and $50 child) 
+for participation.  
+Measures  
+Demographic information.  Participants completed  a demographic form that contained 
+questions regarding gender, age, and race.  Gender categories included male, female, and other. 
+Race categories included black /African -American, Asian, White, or Other.  The Mini 
+International Neuropsy chiatric Interview  for Children and Adolescents  (MINI -KID; Sheehan et 
+al., 2010 ) was administered to participants by a trained research assistant and was used to assess 
+for the presence of psychiatric disorders among study participants. For the purposes of  the 
+present study, only primary psychiatric diagnoses  were reported . 
+Misophonia features . Misophonia was assessed with  two related, yet distinct, youth -
+completed self -report questionnaires . The Amsterdam Misophonia Scale (A -MISO -S; Schröder et 
+al., 2013)  is a six -item instrument u tilizing  a 5-point Likert scale designed to assess misophonia 
+severity and impairment.  Scores are summed, and higher scores indicate greater misophonia 
+symptom severity.  Item 4 of the A -MISO -S (“How much effort do you make to resist thoughts 
+about the misophonic triggers?”) was not included in the calculation of sum scores in the present 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   10 
+study, as this item has demonstrated sub-optimal  psychometric properties in past resea rch (XXX -
+MASKED , under review). The A -MISO -S has demonstrated preliminary evidence of adequate 
+psychometric properties in previous research (Naylor et al., 2021) . Cronbach’s alpha in the 
+present study was α = . 76. 
+The Misophonia Assessment Questionnaire (M AQ; Johnson, 2014)  is a 21 -item 
+instrument  utilizing a 4 -point Likert scale that is designed to assess various aspects of 
+misophonia, including distress, recognition of difficulties, and interference . Scores are summed, 
+and higher scores indicate greater m isophonia acuity  (1-21 = mild, 22 -42 = moderate, 43 -64 = 
+severe; Dozier, 2015) . Although t he MAQ was originally developed within the context of 
+clinical practice rather than via a  rigorous  empirical  process,  it has recently been 
+psychometrically evaluated . More specifically, the MAQ  preliminarily demonstrated evidence of 
+acceptable  psychometric properties  in a youth sample , including construct validity pertaining to  
+four sub -factors  (pessimism, distress, interference, and non -recognition)  with one higher -order 
+factor ( XXX -MASKED , under review) . Cronbach’s alpha for the higher -order factor in the 
+present study was α = .94.  
+Mindfulness. The Child and Adolescent Mindfulness Measure (CAMM; Greco et al., 
+2011)  is a 10 -item youth -report question naire  utilizing a 5 -point Likert scale that is designed to 
+capture the construct of trait mindfulness based on the tenets of mindfulness -based stress 
+reduction (MBSR; Kabat -Zinn, 1990) and dialectical behavior therapy (DBT; Linehan, 1993) , as 
+adapted to be  developmentally appropriate for youth . For the CAMM in particular, 
+unidimensional mindfulness is conceptualized with a focus on present -moment awareness, along 
+with non -judgmental and non -avoidant responses to feelings and thoughts.  Items are reverse -
+scored and summed, such that higher scores indicate greater trait mindfulness. The CAMM has 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   11 
+demonstrated excellent psychometric properties in previous research (de Bruin et al., 2014; 
+Greco et al.). Cronbach’s alpha in the present study was α = .86.  
+Cognitive Emotion Regulation . The Cognitive Emotion Regulation Questionnaire , child 
+version  (CERQ -k; Garnefski et al., 2007 ) is a 36-item youth -report questionnaire  utilizing a 5 -
+point Likert scale that is designed to assess nine separate adaptive and maladaptive  facets of 
+cognitive emotion regulation  in response to particular stressful life events . Scores are summed  
+within each  individual subscale  (4 items per subscale) , and higher scores indicate either adaptive 
+(i.e., positive refocusing, planning , positive reap praisal, putting into perspective) or maladaptive 
+(i.e., acceptance, self-blame, rumination, catastrophizing, other -blame)  cognitive emotion 
+regulation . The CERQ  has demonstrated robust  psychometric properties in previous research 
+(Betegon et al., 2022; Garnefski et al. ). Cronbach’s alpha  across the nine subscales  in the present 
+study ranged from  α = .70 to .94 . 
+Adaptive functioning . Selected subscales from the larger package of the Patient 
+Reported Outcomes Measurement Information System  Pediatric Parent  Proxy (PROMIS -P-P; 
+Varni et al., 2012)  were utilized to assess youth  adaptive functioning across three separate 
+domains, including : (a) peer relationships (PROMIS -P-P-PR), (b) family relationships 
+(PROMIS -P-P-FR), and (c) life satisfaction (PROMIS -P-P-LS). These 8-item (7 items for the 
+PROMIS -P-P-PR) parent -report questionnaire s utilize a 5-point Likert scale ; scores are summed 
+within each domain separately, and higher scores indicate greater adaptive functioning . The 
+PROMIS parent proxy scales  have demonstrated evidence of robust psychometric properties in 
+previous research ( Brandon et al., 2017; Varni  et al.). Cronbach’s alpha across the  three  
+subscales in the present study ranged from α = .88 to .95.  
+Data Analytic Plan  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   12 
+Due to the largely exploratory nature of the present study  and the moderate sample  size, 
+no family -wise error correction s were performed  and an alpha of .05 was used as an indicator of 
+statistical significance . Skewness and kurtosis values for all measures were ± 1, suggesti ng 
+adequate univariate normal distributions . Additionally,  a lack of variance inflation factor (VIF) 
+values greater than 5 among study variables  suggested that concerns with multicollinearity were 
+not present . Pairwise comparisons were utilized for all analyses, and missingness was negligible  
+(i.e., ranged from 0 -5 missing cases per variable).  
+To address study aims, we first examined  zero-order correlations among all study 
+variables . Second, b ased on the se correlational findings, we ran two separate linear  regression  
+models  to explore  the unique associations  between candidate processes  (i.e., mindfulness and 
+facets of emotion regulation)  and misophonia features (separate models for MAQ and A -MISO -S 
+as dependent variables) . Age, gender (dummy coded as 1 = non -female, 2 = female) , and  primary  
+comorbid psychiatric diagnosis (dummy coded as 1 = no diagnosis, 2 = any diagnosis)  were 
+entered as covariates. All candidate process  variables demonstrat ing statist ically significant 
+correlations with misophonia features  were entered as predictors in both regression models.  This 
+step was conducted to examine which variables had the clearest associations with misophonia. 
+Findings from the two separate regression models were compared to determine which of the two 
+misophonia measure s demonstrated more  robust findings for use in subsequent exploratory 
+moderation analyses.  
+Third , candidate process  variables that  were uniquely associated with  misophonia  
+features  in the aforementioned regression models were subsequently  examined as potential 
+moderators of the relations between misophonia severity  and domains of adaptive functioning.  
+To do so, Model 1 in PROCESS macro  for SPSS  (A. F. Hayes, 202 2) was employed to test for  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   13 
+possible  two-way interactio n effects . PROCESS macro was used to estimate interaction effects 
+for each model using a bootstrapping approach  utilizing  5,000 samples  (A. F. Hayes) . With  each 
+of the three domains of adaptive functioning  (i.e., PROMIS -P-P-PR, PROMIS -P-P-FR, 
+PROMIS -P-P-LS) as the dependent variable, a series of six separate linear regression models  
+were run with the best -performing misophonia measure  as the independent variable, a given 
+candidate process  variable  as the potential moderator, and age, gender, and psychiatric diagnosis 
+status  entered as covariate s. Statistically significant interaction effects were further probed via 
+examination of simple slopes of the conditional effect. This permitted estimation of  the 
+differential effect of a given moderator variable  (i.e., M ± 1 SD) on the relationship between 
+misophonia  severity  and a given domain of adaptive functioning.  
+Results  
+Bivariate Associations  
+Correlations coefficients among  study variables (see Table 2) indicated that the MAQ 
+was significantly  and positively  correlated with all measured  maladaptive facets of cognitive 
+emotion regulation, including self -blame,  acceptance,  rumination, catastrophizing, and other -
+blame ( rs = .2 2 to .62); significant associations were less consistent with the A -MISO -S (rs = .06 
+to .22).  Misophonia features were generally not associated with adaptive  cognitive emotion 
+regulation facets . Misophonia features were also significantly inversely correlated with trait 
+mindfulness ( rs = - .24, - .60) and all three domains of adaptive functioning ( rs = - .18 to - .40). 
+Across all correlational analyses , the MAQ generally demonstrated relations in greater 
+magnitude compared to the A -MISO -S, and thus was used as the primary dependent variable in 
+subsequent multivaria ble analyses . 
+Linear  Regression Analyses  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   14 
+Two separate  linear regression models  were run  with candidate process variables  that 
+correlat ed significantly with either the MAQ or A-MISO -S. As such, trait mindfulness  and all 
+five maladaptive facets of cognitive emotion regulation  (i.e., self -blame, acceptance, rumination, 
+catastrophizing, and other -blame)  were entered as predictors, along with  age, gender , and  current 
+psychiatric diagnosis  entered as covariates.  VIF values for variables within the regression model 
+ranged from 1.02 – 2.49, suggesting that multicollinearity was not a concern.   
+Only the regression model with MAQ as the criterion v ariable was statistically 
+significant . Within this model, which explained approximately 43% of the variance in MAQ 
+scores , only trait mindfulness ( β = - .28, p = .02), and cognitive emotion regulation -self-blame (β 
+= .32, p = .01) were statistically significant predictors (see Table 3) . Thus, both trait mindfulness 
+and cognitive emotion regulation -self-blame were selected as potential moderator variables  for 
+subsequent moderation analyse s. 
+Moderation Analyses  
+Six sets of linear regression analys es were conducted to explore whether trait mindfulness 
+and cognitive emotion regulation -self-blame, respectively, moderated the relationship between 
+misophonia symptomology  (measured by the MAQ)  and each of the three domains  of adaptive 
+functioning, respectively  (see Table 4) . Only one of the six models, with trait mindfulness as a 
+moderator and adaptive functioning in peer relationships  as a criterion , yielded  a significant 
+interaction term. Results revealed that this  model accounted for 2 1% of the variance in peer 
+relationship functioning , F (6, 95) = 5 .68, p < .001. Within this model, the interaction between 
+misophonia symptomology  and trait mindfulness w as significant, B = 0.0 2, SE = .01, p = .001, 
+and explained 6.6% of unique variance above and beyond main effects in the model.  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   15 
+A visual depiction of the slope analyses  for the interaction between misophonia  
+symptomology  and trait mindfulness on peer relationship functioning  is provided in Figure 1 . 
+The conditional effects of misophonia symptomology  on peer relationship functioning  were - .37 
+(SE =  .07, t = -5.01, p < .001) when the trait mindfulness score was 1 SD below the mean, - .24 
+(SE = 0.05, t = -4.65, p < .001) at the mean, and - .11 (SE = .05, t = -1.98, p = .05 ) 1 SD above 
+the mean. A simple slope analysis also revealed  that the strength of the effect of misophonia 
+symptomology  on peer relationship functioning  was attenuated when the level of trait 
+mindfulness was high. That is, a difference test between the simple slopes indicated  a statistically 
+significant difference between the slopes of the regression line at low and high levels of 
+mindfulness ( t = 2.85, p = .004). Thus, the degree of the  negative relationship between 
+misophon ia symptomology  and peer relationship  functioning  was attenuated when mindfulness 
+levels were higher.  
+Discussion  
+Psychological processes underlying misophonia  remain unclear, particularly in youth . 
+The present exploratory cross -sectional study sought to address this by examining the relations 
+among misophonia features, domains of adaptive functioning, and proposed process variables of 
+trait mindfulness and cognitive emotion regulation facets in a well-characterized sample of youth 
+with misophonia. Findings revealed  that misophonia  severity  was generally positively associated 
+with maladaptive facets of cognitive emotion regulation and negatively associated with trait 
+mindfulness  and domains of adaptive functioning . Of these relations, trait mindfulness a nd 
+cognitive emotion regulation -self-blame were  most robustly associated with misophonia  severity  
+measured by the MAQ. Furthermore, trait mindfulness  moderated the inverse association 
+between misophonia  severity , measured by the MAQ,  and adaptive functioning in peer 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   16 
+relationships , such that the aforementioned association  was attenuated in participants high in trait 
+mindfulness.  However, none of the other proposed moderator models yielded significant 
+interaction effects.   
+Findings conc erning the roles of m indfulness and cognitive emotion regulation -self-
+blame are consistent with previous conceptualizations of misophonia, which highlight the salient 
+roles of alerting/attentional processes and higher -order cognitive functioning  (Brout et al., 2018; 
+Neacsiu et al., 2022) . At least in the context of the present study, it may be  that rigid attentional 
+fixation on misophonia triggers  and a lack of nonjudgmental, flexible  awareness of present -
+moment experiences (i.e., deficits in min dfulness) , along with  challenges in regulating emotions  
+related to a negative  or overly critical  view of oneself  (i.e., self -blame)  function  to maintain 
+misophonia symptomology  in youth . Moreover , our findings highlighting the role of trait-based 
+attentional and cognitive  processes in misophonia comport with recent neurophysiological and 
+neuropsychological research in adult misophonia, which indicate that individuals with 
+misophonia tend to  possess detrimental alterations in  attentional processes ( Eijsker et al., 2021; 
+Frank et al., 2020; Simner et al., 2021).  While findings from the present study, along with 
+preliminary inclusion of mindfulness and other attention -focused  intervention kernels  in 
+treatments  for youth with misophonia  hold promise  (Lewin et al., 2022; Schneider & Arch, 
+2017), more work is needed to mechanistically understand the role of mindfulness within 
+misophonia. Fortunately, the framework of the above -mentioned neurophysiological studies on 
+attention provides a useful model for su ch research.  
+Moderating Effect of Mindfulness  
+The present exploratory study found preliminary evidence of a  moderating effect of trait 
+mindfulness on the relation between misophonia  severity  and adaptive functioning in peer 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   17 
+relationships. More specifically, the interactive effect of trait mindfulness and misophonia 
+severity  on adaptive functioning in peer relationships was such that for participants high in trait 
+mindfulness (i.e., 1 SD above the mean), the inverse association between misop honia severity  
+and deficits in adaptive functioning  in peer relationships  was no longer statistically significant  (p 
+= .05) . This suggests that mindfulness may serve as a protective, or buffering, factor in pediatric 
+misophonia, such that when mindfulness is bolstered, youth may be better  able to maintain 
+adaptive functioning in peer relationships despite the presence of misophonia symptomology . 
+Given that recent research suggests that approximately half of youth with misophonia report that 
+this condition s ignificantly interferes with their social relationships  (Guzick et al., 202 3), this 
+finding highlights the potential critical role of mindfulness in this population .  
+Findings from the present study concerning the moderating effect of mindfulness in 
+pediatric misophonia are  consistent with the decoupling effect  as a mechanism of change in 
+mindfulness , in which  mindfulness has been found to attenuate, or decouple,  the link between 
+mental health vulnerability factors and maladaptive behavioral outcomes (Levin et al., 2015). 
+This suggests that mindfulness  represents  a promising technique  for promoting adaptive 
+functioning in the context of misophonia, where symptoms may be more  intractable, less 
+amenable to habituation via exposure, and thus complete remission less likely  compared to other 
+conditions  (Frank & McKay, 2019).  Specific aspects of mindfulness related to the 
+nonjudgmental quality of attention and the ability to flexibly shift/direct attention  (e.g., Kabat -
+Zinn , 1990; Masuda & Wilson, 2009)  may be especially applicable to misophonia (Schneider & 
+Arch, 2017), as hypervigilant, rigid fixation on triggers, along with maladaptive negative 
+interpretations regarding trigger situations have been shown to perpetuate symptomology (Brout 
+et al., 2018 ; Neacsiu et al., 2022 ). 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   18 
+Emotion Regulation in Misophonia  
+Intuitively, it might be expected that a propensity to blame others  would be more strongly 
+related to misophonia severity than a tendency to blame oneself, as youth with misophonia often 
+react aggressively to others making trigger noises. Despite the frequency of verbal aggression in 
+misophonia, however, the robust  associ ation with self -blame in the present study (rather than 
+other -blame) appears to speak to a multifaceted and more internalizing (rather than externalizing) 
+nature of misophonia psychopathology (Guzick et al., 2023). While our results  concerning the 
+role of cognitive emotion regulation facets in pediatric misophonia were notably equivocal, the 
+limited findings that did emerge remain  consistent with past research positing difficulties in 
+emotion regulation as a key process within misophonia (Cassiello -Robbins,  2020; Guetta et al., 
+2022).   
+ As mentioned , of all the facets of cognitive emotion regulation examined in the present 
+study, only self -blame emerged as a reliable statistical predictor of misophonia features 
+measured by the MAQ ; correlations between cogni tive emotion regulation facets and misophonia 
+features also varied widely. Additionally , this self -blame facet did not exert a moderating effect 
+on any of the relationships between misophonia severity  and impairment in adaptive functioning. 
+While the design of the present study did not allow us to empirically examine reasons for these 
+equivocal findings concerning cognitive emotion regulation, several possible explanations for 
+such findings emerge that warrant further investigation. More specifically, the focus on cognitive 
+emotion regulation over behavioral and affective components in the present study may have 
+contributed to the lack of associations found. Past research on emotion regulation in adult 
+misophonia populations that found  more robust associations between misophonia symptomology 
+and emotion regulation difficulties (Cassiello -Robbins et al., 2020; Guetta et al., 2022) utilized 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   19 
+measures such as the Difficulties in Emotion Regulation Scale (DERS ; Gratz & Roemer, 2004), 
+which tap into the behavioral and affective components of emotion regulation. This raises the 
+possibility that cognitive emotion regulation processes may be less relevant in pediatric 
+misophonia than originally thought, which is co nsistent with the notable affective  and 
+internalizing  responses often observed in response to misophonia triggers  among youth  (Guzick 
+et al., 2023).  
+ Furthermore , sub -optimal measurement of cognitive emotion regulation may have also 
+contributed to our equivocal findings. More specifically, the CERQ -k asks youth to respond to 
+items in consideration of when they are “experiencing strong threatening or stressful life events.” 
+As the precise  (and perhaps idiosyncratic)  manner in  which youth interpreted th is prompt  is 
+unknown, the variability that this instruction  may have introduce d into participant responding 
+may have manifested as measurement error  in the present study.  
+A final question concerns the differential magnitude of relations among misophonia 
+features and adaptive and maladaptive facets of cognitive emotion regulation found in the 
+present study. That is, mainly maladaptive – but not adaptive – facets of cognitive emotion 
+regulation were significantly associated  with misophonia features. Of these maladaptive facets, 
+only self -blame was uniquely associated with misophonia symptomology. Such findings are 
+consistent with cognitive and affective reactions of youth with misophon ia described in 
+published case studies (e.g., Johnson et al., 2013; Lewin et al., 2022; Schneider & Arch, 2017) 
+that highlight  experiences of hopelessness, perceived lack of control, and self -critical thoughts. 
+Nevertheless , more work is needed to better u nderstand the differential strength of cognitive 
+emotional regulation processes in pediatric misophonia, as these repertoires may be more 
+malleable and amenable to intervention efforts compared to engrained neurological -based 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   20 
+sensory processing systems (Pa lumbo et al., 2018; Schneider & Arch, 2015). This parallels  many 
+contextual behavioral science -based intervention approaches (e.g., acceptance and commitment 
+therapy; S.C. Hayes et al., 2012) that target reactions to internal events, rather than the intern al 
+events themselves, which may be less amenable to modification.  
+Measurement Issues and other Caveats  
+Interpretations of findings concerning trait mindfulness and cognitive emotion regulation -
+self-blame as candidate mechanisms in pediatric misophonia require caution in light of the 
+exploratory nature of the present study, as well as the numerous  analyses conducted that yielded 
+nonsignificant results  (i.e., possibility of Type -I error s). These nonsignificant findings  point to 
+future  research questions, such as why  the moderating effect of mindfulness was only found on 
+adaptive functioning in peer relationships, but not family ones or overall life satisfaction. We 
+speculate that  the salient role of family accommodation in perpetuating misophonia 
+symptom ology  in youth (Dover & McGuire, 202 3; Johnson et al., 2013; Storch et al.,  under 
+review ) may contribute to  an underestimation of deficits in adaptive functioning in familial 
+relationships . However,  more research is needed to understand the differential moderating effects 
+of mindfulness  in misophonia to better match patients to intervention kernels  (S.C. Hayes et al., 
+2021).  
+The measurement of misophonia features in the present  study , along with differential 
+magnitude of findings from  these measures,  also merits attention. More specifically, misophonia 
+features were measured using  the A-MISO -S (Schröder et al., 2013) and the MAQ (Johnson, 
+2014).  While the correlation of 0.55 bet ween the MAQ and A -MISO -S does suggest some 
+overlap, it also raises the possibility that the two measures may be capturing unique features of 
+misophonia – an assertion supported by recent psychometric research on these measures (XXX -
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   21 
+MASKED,  under review).  More specifically, e xamination  of items from these questionnaires  
+(i.e., content validity) suggest s that the A -MISO -S captures  misophonia symptom severity and 
+impairment , while  the MAQ  appears to focus more on broader aspects of the impact of 
+misophonia  on a respondent’s life context . Interestingly,  many of the MAQ items focus on the 
+emotional impact of misophonia , as well as interference in social domains.  Furthermore, the 
+aforementioned  psychometric evaluation of the MAQ in youth with misophonia  (XXX -
+MASKED)  found that it includes subscales tapping into pessimism about getting better as well 
+as other people not recognizing the impact of the misophonia symptoms . This raises the 
+possibility of some conceptual overlap between misophonia impairment measured by the MAQ 
+and cognitive emotion regulation facets and domains of adaptive function ing, which may 
+partially explain our more robust findings concerning  the MAQ compared to the A -MISO -S. 
+Additionally, t o the extent that mindfulness may also be cons idered a process of adaptive 
+emotion regulation (Chambers et al., 2009; Kabat -Zinn, 1990; Linehan, 1993), the relatively 
+stronger  correlation between mindfulness measured by the CAMM and MAQ scores compared 
+to A-MISO -S ones is not entirely surprising.  
+Finally, the potentially questionable  psychometric properties of the measures of 
+misophonia used in the present study require consideration, as  sub-optimal measurement 
+ultimately reduces the confidence of inferences drawn from a given study’s results  (Haynes et 
+al., 2019). More specifically, the A -MISO -S conceptualizes and measures misophonia from the 
+framework of obsessive -compulsive disorder ( Schröder et al., 2013) . However, recent research 
+has begun to cast doubt on the classification status of mis ophonia as an OCRD (McKay et al., 
+2018), which  entails  the A -MISO -S may lack content validity. While recent research has 
+emerged suggesting that the A -MISO -S and MAQ do indeed possess evidence of adequate 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   22 
+psychometric properties in terms of reliability and  construct (i.e., convergent and divergent) 
+validity in a sample of youth with misophonia ( XXX -MASKED,  under review), more work is 
+sorely needed both in terms of classification and measurement of misophonia.  
+Limitations and Conclusion  
+The present study req uires interpretation in light of several limitations. First, the cross -
+sectional design  preclude s inferences about causal relationships. Second, a large number of 
+statistical tests were run without correction for Type 1 error s in order to facilitate preliminary, 
+exploratory research, though this raises  the possibility of false positives – a possibility that may 
+be especially salient within the context of six separate moderation models . Third, while one of 
+the strengths of the pre sent study is the use of multiple informants (i.e., caregiver and child), all 
+variables were measured via retrospective self - or other -report questionnaires, suggesting the 
+possibility of shared method variance (Haynes et al., 2019). Fourth , while our samp le was well -
+characterized in terms of assessment  of psychiatric diagnoses , study participants were mostly 
+White and female, which  limits the generalization of findings to diverse populations. Fifth, while 
+the use of  multiple methods of assessment in terms of verification of misophonia in study 
+participants  lends some confidence in the characterization of the sample , to date, there exists  no 
+formally agreed -upon consensus for the diagnostic classification of misophoni a (Taylor, 2017) . 
+Thus, the lack of clarity in terms of diagnosis and conceptual boundaries of misophonia may 
+have contributed to  excessive heterogeneity of presenting concerns and introduced measurement 
+error. Finally, the percentage of total variance in misophonia symptomology explained by 
+independent variables in the present study ranged from 20 -40%, which means that more work is 
+needed to understand additional explanatory process variables within pediatric misophonia.  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   23 
+With these limitations in mind , the present study contributes to the pediatric misophonia 
+literature by increasing our understanding of psychological processes underlying impairment in 
+functioning due to misophonia symptoms, including mindfulness and emotion regulation. 
+Findings from the pr esent study also align with  past intervention development studies  for 
+pediatric misophonia  (Dover & McGuire, 2023 ; Lewin et al., 2022; Schneider & Arch, 2017) 
+positing mindfulness and emotion regulation as p romising  treatment targe ts. More research is 
+needed to confirm exploratory findings from the present study and further elucidate salient, 
+manipulable processes of change in misophonia that can be functionally targeted by empirically 
+supported principles  (S.C. Hayes & Hofmann, 20 20). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   24 
+References  
+Adrian, M., Jenness, J. L., Kuehn, K. S., Smith, M. R., & McLaughlin, K. A. (2019). Emotion 
+regulation processes linking peer victimization to anxiety and depression symptoms in 
+adolescence. Developmental Psychopathology, 31 (3), 999 – 1009. 
+doi:10.1017/S0954579419000543.  
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders  
+(5th ed.). Washington, DC: Author.  
+Baer, R. A. (2019). Assessment of mindfulness by self -report. Current Opinion in Psychology, 
+28, 42 – 48. https://doi.org/10.1016/j.copsyc.2018.10.015  
+Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using Self -Report 
+Assessment Methods to Explore Facets of Mindfulness. Assessment, 13 (1), 27 -45. 
+doi:10.1177/1073191105283504  
+Baer, R. A., Smith, G. T., Lykins, E., Button, D., Krietemeyer, J., Sauer, S., . . . Williams, J. M. 
+G. (2008). Construct Validity of the Five Facet Mindfulness Questionnaire in Meditating 
+and Nonmeditating Samples. Assessment, 15 (3), 329 -342. 
+doi:10.1177 /1073191107313003  
+Betegon, E., Rodriguez -Medina, J., Del -Valle, M., & Irurtia, M. J. (2022). Emotion regulation in 
+adolescents: Evidence of the validity and factor structure of the cognitive emotion 
+regulation questionnaire (CERQ). International Journal of  Environmental Research and 
+Public Health, 19 (6), 3602. https://doi.org/10.3390/ijerph19063602  
+Bishop, S. R., Lau, M., Shapiro, S., Carlson, L., Anderson, N. D., Carmody, J., Segal, Z. V., 
+Abbey, S., Speca, M., Velting, D., & Devins, G. (2017). Mindfulness : A proposed 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   25 
+operational definition.  In B. A. Gaudiano (Ed.), Major themes in mental health. 
+Mindfulness: The roots of mindfulness: History, philosophy, and definitions  (p. 384 –400). 
+Routledge/Taylor & Francis Group.  
+Brandon, T. G., Becker, B. D., Bevans, K. B., & Weiss, P. F. (2017). Patient -reported outcomes 
+measurement information system tools for collecting patient -reported outcomes in 
+children with juvenile arthritis. Arthritis Care and Research, 69 (3), 393 – 402. doi: 
+10.1002/acr.22937.  
+Braunstein, L.  M., Gross, J. J., & Ochsner, K. N. (2017). Explicit and implicit emotion 
+regulation: A multi -level framework. Social Cognitive and Affective Neuroscience, 
+12(10), 1545 – 1557. doi: 10.1093/scan/nsx096.  
+Brout, J. J., Edelstein, M., Erfanian, M., Mannino, M ., Miller, L. J., Rouw, R., Kumar, S., & 
+Rosenthal, M. Z. (2018). Investigating misophonia: A review of the empirical literature, 
+clinical implications, and a research agenda. Frontiers in Neuroscience, doi: 
+10.3389/fnins.2018.00036  
+Brown, K. W., & Ryan, R. M. (2004). Perils and promise in defining and measuring 
+mindfulness: Observations from experience. Clinical Psychology: Science and Practice, 
+11, 242 – 248.  
+Cassiello -Robbins, C., Anand, D., McMahon, K., Guetta, R., Trumbell, J., Kelley, L., & 
+Rosenthal, M. Z. (2020). The mediating role of emotion regulation within the relationship 
+between neuroticism and misophonia: A preliminary investigation. Frontiers in 
+Psychiatry. https://doi.org/10.3389/fpsyt.2020.00847  
+XXX -MASKED  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   26 
+Chambers, R., Gullone, E., & Allen, N. B. (2009). Mindful emotion regulation: An integrative 
+review. Clinical Psychology Review, 29, 560 – 572. doi:10.1016/j.cpr.2009.06.005  
+Chiesa, A. (2013). The difficulty of defining mindfulness: Current thought and critical issu es. 
+Mindfulness, 4 , 255 – 268. DOI 10.1007/s12671 -012-0123 -4 
+Cowan, E. N., Marks, D. R., & Pinto, A. (2022). Misophonia: A psychological model and 
+proposed treatment. Journal of Obsessive -compulsive and Related Disorders, 32. 
+https://doi.org/10.1016/j.jocrd.2021.100691  
+de Bruin, E. I., Zijlstra, B. J. H., & Bogels, S. M. (2014). The meaning of mindfulness in 
+children and adolescents: Further validation of the child and adolescent mindfulness 
+measure (CAMM) in two independent sa mples from The Netherlands. Mindfulness, 5 (4), 
+442 – 430. DOI 10.1007/s12671 -013-0196 -8 
+Dozier, T. H. (2015). Treating the initial physical reflex of misophonia with the neural 
+repatterning technique: A counterconditioning procedure. Psychological Thought 8, 189–
+210. doi: 10.5964/psyct.v8i2.138  
+Dover, N., & McGuire, J. F. (202 3). Family -Based Cognitive Behavioral Therapy for Youth with 
+Misophonia: A Case Report. Cognitive and Behavioral Practice . 
+https://doi.org/10.1016/j.cbpra.2021.05.005  
+Eijsker, N., Schr öder, A., Smit, D. J., van Wingen, G., & Denys, D. (2021). Structural and 
+functional brain abnormalities in misophonia.  European Neuropsychopharmacology,  52, 
+62 – 71. doi: 10.1016/j.euroneuro.2021.05.013  
+Frank, B., & McKay, D. (2019). The suitability of an inhibitory learning approach in exposure 
+when habituation fails: A clinical application to misophonia. Cognitive and Behavioral 
+Practice, 26, 130 – 142. https://doi.org/10.1016/j.cbpra.2018.04.003  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   27 
+Frank,  B., Roszyk, M., Hurley, L., Drejaj, L., & McKay, D. (2020). Inattention in misophonia: 
+Difficulties achieving and maintaining alertness.  Journal of Clinical and Experimental 
+Neuropsychology, 42 (1), 66 –75. https://doi.org/10.1080/13803395.2019.1666801  
+Garn efski, N., Kraaij, V., & van Etten, M. (2005). Specificity of relations between adolescents’ 
+cognitive emotion regulation strategies and internalizing and externalizing 
+psychopathology. Journal of Adolescence, 28 (5), 619 – 631. doi: 
+10.1016/j.adolescence.2 004.12.009  
+Garnefski, N., Rieffe, C., Jellesma, F., Meerum Terwogt, M., & Kraaij, V. (2007). Cognitive 
+emotion regulation strategies and emotional problems in early adolescents: The 
+development of an instrument.  European Child & Adolescent Psychiatry, 16,  1-9. 
+Gratz, K. L., & Roemer, L. (2004). Multidimensional assessment of emotion regulation and 
+dysregulation: Development, factor structure, and initial validation of the difficulties in 
+emotion regulation scale.  Journal of Psychopathology and Behavioral As sessment, 26 (1), 
+41–54. https://doi.org/10.1023/B:JOBA.0000007455.08539.94  
+Greco, L. A., Baer, R. A., & Smith, G. T. (2011). Assessing mindfulness in children and 
+adolescents: Development and validation of the child and adolescent mindfulness 
+measure (CAMM). Psychological Assessment, 23 (3), 606 – 614. DOI: 10.1037/a0022819  
+Guetta , R. E., Cassiello -Robbins, C., Trumbull, J., Anand, D., & Rosenthal, M. Z. (2022). 
+Examining emotional functioning in misophonia: The role of affective instability and 
+difficulties with emotion regulation. PLoS One  17(2): e0263230. 
+https://doi.org/10.1371 /journal.pone.0263230  
+Guzick, A. G., Cervin, M., Smith, E. E. A., Clinger, J., Draper, I., Goodman, W. K., Lijffijt, M., 
+… & Storch, E. A. (2023). Clinical characteristics, impairment, and psychiatric morbidity 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   28 
+in 102 youth with misophonia. Journal of Affe ctive Disorders, 1 , 395 – 402. doi: 
+10.1016/j.jad.2022.12.083  
+Hayes, A. F. (2022). Introduction to mediation, moderation, and conditional process analysis: A 
+regression -based approach (Third Edition) . Guilford .  
+Hayes, S. C., & Hofmann, S. G. (Eds.). (2020). Beyond the DSM: Toward a process -based 
+alternative for diagnosis and mental health treatment . New Harbinger Publications.  
+Hayes, S. C., Merwin, R. M., McHugh, L., Sandoz, E. K., A -Tjak, J. G. L., Ruiz, F. J., Barnes -
+Holmes, D., … , & McCracken, L. M. (2021). Report of the ACBS Task Force on the 
+strategies and tactics of contextual behavioral science research. Journal of Contextual 
+Behavioral Science , 20, 172 –183. https://doi.org/10.1016/j.jcbs.2021.03.007   
+Haye s, S. C., Strosahl, K. D., & Wilson, K. G. (2012). Acceptance and commitment therapy: The 
+process and practice of mindful change (2nd ed.) . Guilford Press.  
+Haynes, S. N., Smith, G., & Hunsley, J. R. (2019 ). Scientific foundations of clinical assessment 
+(2nd ed.). Taylor and Francis/Routledge.  
+Iani, L., Lauriola, M., Chiesa, A., & Cafaro, V. (2019). Associations between mindfulness and 
+emotion regulation: The key role of describing and nonreactivity.  Mindfulness, 10 (2), 
+366–375. https://doi.org/10.1007/s126 71-018-0981 -5 
+Jager, I. J., de Koning, P., Bost, T., Denys, D., & Vulink, N. (2020). Misophonia: 
+Phenomenology, comorbidity, and demographics in a large sample. PLoS ONE, 15 (4), 
+e0231390. https://doi.org/10.1371/journal.pone.0231390  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   29 
+Jastreboff, P. J., & Ja streboff, M. M. (2014). Treatments for decreased sound tolerance 
+(hyperacusis and misophonia). Seminars in Hearing, 35 (2), 105 – 120. DOI: 10.1055/s -
+0034 -1372527  
+Johnson, M. (2014). 50 cases of Misophonia using the MMP. Paper presented at the Misophonia 
+Conference of the Tinnitus Practitioners Association  (Atlanta, GA) . 
+Johnson, P. L., Webber, T. A., Wu, M. S., Lewin, A. B., Murphy, T. K., & Storch, E. A. (2013). 
+When selective audiovisual stimuli become unbearable: A case series on pediatric 
+misophonia. Neuropsychiatry, 3 (6), 569 – 575. DOI: 10.2217/NPY.13.70.  
+Kabat -Zinn, J. (1990). Full catastrophe living: Using the wisdom of your body and mind to face 
+stress, pain, and illness. Delacorte.  
+Levin, M. E., Luoma, J. B., & Haeger, J. A. (2015). Decoupling as  a mechanism of change in 
+mindfulness and acceptance: A literature review.  Behavior Modification, 39 (6), 870 –
+911. https://doi.org/10.1177/0145445515603707  
+Lewin, A. B., Dickinson, S., Kudryk, K., Karlovich, A. R., Harmon, S. L., Phillips, D. A., 
+Tonarely, N. A., … Ehrenreich -May, J. (2022). Transdiagnostic cognitive behavioral 
+therapy for misophonia in youth: Methods for a clinical trial and four pilot cases. Journal 
+of Affective Disorders, 291, 300 – 408. https://doi.org/10.1016/j.jad.2021.04.027  
+Linehan, M. M. (1993). Cognitive -behavioral treatment of borderline personality disorder. New 
+York, NY: Guilford Press.  
+Masuda, A., & Wilson, K. G. (2009). Mindfulness: Being mindful in psychotherapy. In W. 
+O’Donohue & S. Graybar (Eds.). Handbook of contemporary psychotherapy: Toward an 
+improved understanding of effective psychotherapy  (pp. 249 -268). Sage Publications.  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   30 
+Mayer, J. S., Brandt, G. A., Medda, J., Basten, U., Grimm, O., Reif, A., & Freitag, C. M. (2022). 
+Depressive symptoms in youth with ADHD: The role of impairments in cognitive 
+emotion regulation. European Archives of Psychiatry and Clinical Neuroscience, 272, 
+793 – 806. https://doi.org/10.1007/s00406 -022-01382 -z 
+McKay, D., Kim, S., Mancusi, L., Storch, E. A., & Spankovich, C. (2018). Profile analysis of 
+psychological symptoms associated with misophonia: A community sample . Behavior 
+Therapy, 49 (2), 286 – 294. doi: 10.1016/j.beth.2017.07.002 McRae, K., & Gross, J. J. 
+(2020). Emotion regulation.  Emotion, 20 (1), 1 - 9. https://doi.org/10.1037/emo0000703  
+Mihalca, A. M., & Tarnavska, Y. (2013). Cognitive emotion regulation strategies and social 
+functioning in adolescents. Procedia – Social and Behavioral Sciences, 82  574 – 579. 
+https://doi.org/10.1016/j.sbspro.2013.06.312  
+Möllmann, A., Heinrichs, N., Illies , L., Potthast, N., & Kley, H. (2023). The central role of 
+symptom severity and associated characteristics for functional impairment in 
+misophonia.  Frontiers in Psychiatry,  14, 1112472. doi: 10.3389/fpsyt.2023.1112472  
+Naylor, J., Caimino, C., Scutt, P., Ho are, D. J., & Baguley, D. M. (2021). The prevalence and 
+severity of misophonia in a UK undergraduate medical student population and validation 
+of the Amsterdam Misophonia Scale. Psychiatric Quarterly, 92, 609 – 619. 
+https://doi.org/10.1007/s11126 -020-09825 -3 
+Neacsiu, A. D., Szymkiewicz, V., Galla, J. T., Li, B., Kulkarni, Y., & Spector, C. W. (2022). The 
+neurobiology of misophonia and implications for novel, neuroscience -driven 
+interventions. Frontiers in Neuroscience , 16:893903. doi: 10.3389/fnins.2022.893903  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   31 
+Remmert, N., Jebens, A., Gruzman, R., Gregory, J., & Vitoratou, S. (2022). A nomological 
+network for misophonia in two German samples using the S -Five model for 
+misophonia.  Frontiers in Psychology,  13, 902807.  doi: 10.3389/fpsyg.2022.902807  
+Rinaldi, L. J., Smees, R., Ward, J., & Simner, J. (2022). Poorer well -being in children with 
+misophonia: Evidence from the Sussex Misophonia Scale for adolescents.  Frontiers in 
+Psychology,  13, 808379. doi: 10.3389/fpsyg.2022.80 8379  
+Schneider, R. L., & Arch, J. J. (2015). Case study: A novel application of mindfulness - and 
+acceptance -based components to treat misophonia. General Hospital Psychiatry, 37 (4), 
+370 – 371. https://doi.org/10.1016/j.jcbs.2017.04.003  
+Schneider, R. L., & Arch, J. J. (2017). Letter to the editor: Potential treatment targets for 
+misophonia . Journal of Contextual Behavioral Science, 6 (2), 221 – 225. doi: 
+10.1016/j.genhosppsych.2015.03.020.  
+Schröder, A., van Diepen, R., Mazaheri, A., Petropoulos -Petalas, D., Soto de Amesti, V., Vulink, 
+N., & Denys, D. (2014). Diminished n1 auditory evoked potentials to oddball stimuli in 
+misophonia pati ents. Frontiers in Behavioral Neuroscience, 8,  123. doi: 
+10.3389/fnbeh.2014.00123  
+Schröder, A., Vulink, N., & Denys, D. (2013). Misophonia: Diagnostic criteria for a new 
+psychiatric disorder. PLoS One 8(1): e54706. 
+https://doi.org/10.1371/journal.pone.0054706  
+Sheehan, D. V., Sheehan, K. H., Shytle, R. D., Janavs, J., Bannon, Y., Rogers, J. E., Milo, K. M., 
+Stock, S. L., & Wilkinson, B. (2010). Reliability and validity of the Mini International 
+Neuropsychiatric Interview for Children and Adolescents (MINI -KID). The Journal of 
+Clinical Psychiatry , 71(3), 313 -326. https://doi.org/10.4088/JCP.09m05305whi  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   32 
+Simner, J., Koursarou, S., Rinaldi, L. J., & Ward, J. (2021). Attention, flexibility, and imagery in 
+misophonia: Does attention exacerbate everyday disliking of sound?.  Journal of Clinical 
+and Experimental Neuropsychology,  43(10), 1006 – 1017.  
+https://doi.org/10.1080/13803395.2022.2056581  
+Silvers, J. A. (2022). Adolescence as a pivotal period for emoti on regulation development. 
+Current Opinion in Psychology, 44, 258 – 263. 
+https://doi.org/10.1016/j.copsyc.2021.09.023  
+Stevenson, J. C., Millings, A., & Emerson, L. -M. (2019). Psychological well -being and coping: 
+The predictive value of adult attachment, di spositional mindfulness, and emotion 
+regulation.  Mindfulness, 10 (2), 256 –271. https://doi.org/10.1007/s12671 -018-0970 -8 
+Storch, E. A., Guzick, A. G., D’Souza, J., Clinger, J., Cervin, M., Rork, C., Smith, E., …, & 
+Goodman, W. K. (under review). Family acco mmodation in children and adolescents 
+with misophonia.  
+Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., 
+Kumar, S., … & Raver, S. M. (2022). Consensus definition of misophonia: A Delphi 
+study. Frontiers i n Neuroscience, 16, 1 – 16. 841816. 
+https://doi.org/10.3389/fnins.2022.841816  
+Taylor, S. (2017). Misophonia: A new mental disorder? Medical Hypotheses, 103, 109 – 117. 
+http://dx.doi.org/10.1016/j.mehy.2017.05.003  
+Trosper, S. E., Buzzella, B. A., Bennett, S. M., & Ehrenreich, J. T. (2009). Emotion regulation in 
+youth with emotional disorders: Implications for a unified treatment approach. Clinical 
+Child and Family Psychol ogy Review, 12, 234 – 254. DOI 10.1007/s10567 -009-0043 -6 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   33 
+Van Dam, N. T., van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., 
+Meissner, T., … & Meyer, D. E. (2018). Mind the hype: A critical evaluation and 
+prescriptive agenda for researc h on mindfulness and meditation. Perspectives on 
+Psychological Science, 13 (1), 36 – 61. doi: 10.1177/1745691617709589  
+van den Heuvel, M., Stikkelbroek, Y. A. J., Bodden, D. H. M., & van Baar, A. L. (2020). Coping 
+with stressful life events: Cognitive emotion regulation profiles and depressive symptoms 
+in adolescents. Development and Psychopathology, 32 (3), 985 – 995. doi:  
+10.1017/S0954579419000920.  
+Varni, J. W., Thissen, D., Stucky, B. D., Liu, Y., Gorder, H., Irwin, D. E., DeWitt, E. M., & … 
+DeWalt, D. A. (2012). PROMIS parent proxy report scales: An item response theory 
+analysis of the parent proxy report item banks. Quality of Life Research, 21 (7), 1223 – 
+1240. doi: 10.1007/s11136 -011-0025 -2. 
+Williams, Z. J., Cascio, C. J., & Woynaroski, T. G. (2022). Psychometric validation of a brief 
+self-report measure of misophonia symptoms and impairment: The Duke -Vanderbilt 
+misopho nia screening questionnaire.  Frontiers in Psychology , 13, 897901. doi: 
+10.3389/fpsyg.2022.897901  
+Zack, S., Saekow, J., Kelly, M., & Radke, A. (2014). Mindfulness based interventions for youth. 
+Journal of Rational -Emotive Cognitive -Behavioral Therapy, 32, 44 – 56. DOI 
+10.1007/s10942 -014-0179 -2 
+Zarotti, N., Tuthill, A., & Fisher, P. (2022). Online emotion regulation for an adolescent with 
+misophonia: A case study. Journal of Cognitive Psychotherapy, doi: 10.1891/JCP -2021 -
+0015.  
+ 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   34 
+Figure 1 . Interaction plot of the association between misophonia symptomology and PROMIS -
+peer relationships at different levels of mindfulness  
+ 
+ 
+Note. The low and high mindfulness slopes represent levels of mindfulness at – 1 and +1 
+standard deviations (SD) relative to the mean.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05101520253035
+Low Misophonia symptomology High Misophonia symptomologyPROMIS -Peer Relationships
+Low Mindfulness High Mindfulness
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   35 
+Table 1. Sample characteristics and demographic variables  
+Characteristic     Total ( n = 102)  
+                                        
+M M              SD 
+Age 13.7 2.5 
+  Percent  n 
+Gender  •• ** 
+ Male  28.4 29 
+ Female  67.6 69 
+ Other  3.9 4 
+   
+Race    
+ Black or African American 
+American  2.9 3 
+ Asian  3.9 4 
+ White  87.3 89 
+ Other  2.0 2 
+ Missing  3.9 4 
+   
+Primary  comorbid  psychiatric diagnosis    
+ Major depressive disorder  29.4 30 
+ Bipolar disorder  2.0 2 
+ Social anxiety disorder  6.9 7 
+ Specific phobia  4.9 5 
+ Obsessive -compulsive disorder  4.9 5 
+ Tourette’s or tic disorder  5.0 5 
+ ADHD  9.8 10 
+ Generalized anxiety disorder  16.7 17 
+ No diagnosis  20.5 21 
+ 
+ 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   36 
+Table 2. Correlations and descriptive statistics for study variables  
+Variables  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+1 MAQ  -               
+2 A-MISO -S -.55** -              
+3 CERQ -k-self-blame  -.62** -.22* -             
+4 CERQ -k-acceptance  -.32** -.21* -.32** -            
+5 CERQ -k-rumination  -.47** .06 -.64** -.24* -           
+6 CERQ -k-positive 
+refocusing  -.08 -.15 -.13 .08 .01 -          
+7 CERQ -k-planning  -.03 -.09 .19 .07 -.27**  -.34** -         
+8 CERQ -k-positive 
+reappraisal  -.02 .004 .03 .10 .16 - .33** -.48** -        
+9 CERQ -k-perspective  .07 .05 .07 .21* .14 - .46** .22* -.50** -       
+10 CERQ -k-
+catastrophizing  -.47**    .20 -.54**  .32** .48** -.15    .04 -.07 -.08 -      
+11 CERQ -k-other blame  .22* .11    .09 -.36**   .15 -.11 .10  .03 -.02 -.29** -     
+12 CAMM  -.60** -.24* -.65** -.41** -.63** -.02 -.09 -.13 -.08 -.45** -.22* -    
+13 PROMIS -P-P-PR -.32**   -.18  -.11 --.02  -.06   -.14  .17 - .23* -.22* .002 -.07 .06 -   
+14 PROMIS -P-P-FR -.27**  -.26** -.26**    .07  -.20* - .28**  .06  .10 -.21*   -.17 -.01 .17 -.33** -  
+15 PROMIS -P-P-LS -.40** -.18 -.35** -.14 -.28**  -.16  .05  .08   -.16 -.24* -.11 .16 -.50** -.49** - 
+ Mean  36.63  15.11  7.12 8.63 7.90 6.86 8.35 6.74 8.86 6.24 4.86 23.21  25.84  31.57  27.11  
+ SD 14.15  2.81 4.49 3.15 4.58 3.57 3.04 3.61 3.68 3.56 3.65 8.03 6.20 4.64 6.66 
+Note : * p < .05, ** p < .01 ; MAQ = Misophonia Assessment Questionnaire; A -MISO -S = Amsterdam Misophonia Scale; CERQ -k = Cognitive Emotion 
+Regulation Questionnaire , child version ; CAMM = Child and Adolescent Mindfulness Measure; PROMIS -P-P-PR = PROMIS Pediatric Parent Proxy Peer 
+Relationships Measure; PROMIS -P-P-FR = PROMIS Pediatric Parent Proxy Family Relationships Measure; PROMIS -P-P-LS = PROMIS Pediatric Parent Proxy 
+Life Satisfaction Measure.  
+  
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   37 
+Table 3. Linear  regression models of candidate mechanisms predicting  misophonia symptomology  
+ MAQ as criterion   A-MISO -S as criterion  
+ R2 = 0.427; F(9, 96) = 8.956 , p = <0.001  R2 = 0.042; F(9, 96) = 1.463, p = 0.175 
+Model variables  β t p  β t p 
+Constant  - 2.614 0.011  - 6.000  < 0.001  
+Age 0.012 0.134 0.893  -0.046 -0.402 0.689 
+Gender  0.103 1.228 0.223  -0.095 -0.877 0.383 
+Psychiatric diagnosis  -0.038 -0.442  0.660  -0.117 -1.068 0.289 
+CAMM  -0.280 -2.368 0.020  -0.171 -1.119 0.266 
+CERQ -k-self-blame  0.324 2.659 0.009  0.184 1.169 0.245 
+CERQ -k-acceptance  0.034 0.370 0.712  0.100 0.851 0.397 
+CERQ -k-rumination  -0.044 -0.386 0.700  -0.204 -1.389 0.168 
+CERQ -k-catastrophizing  0.146 1.433 0.156  0.057 0.428 0.670 
+CERQ -k-other blame  0.078 0.901 0.370  0.008 0.070 0.944 
+Note : β, standardized regression coefficient; MAQ = Misophonia Assessment Questionnaire; A -MISO -S = Amsterdam Misophonia Scale; CERQ -
+k = Cognitive Emotion Regulation Questionnaire , child version ; CAMM = Child and Adolescent Mindfulness Measure.  
+ 
+ 
+ 
+ 
+ 
+ 
+Journal Pre-proof
+
+PEDIATRIC MISOPHONIA   38 
+Table 4. Two-way interaction  regression model s predicting adaptive functioning variables  
+Mindfulness as moderator   CERQ -K-self-blame as moderator  
+PROMIS -P-P-PR     PROMIS -P-P-PR    
+R2 = 0.2 63; F(6, 95) = 5. 678, p < 0.001   R2 = 0.134; F(6, 91) = 2.349, p = 0.037 
+Model variables  β (SE) t p  Model variables  β (SE) t p 
+Constant  51.485 (7.064) 7.290 < 0.001   Constant  27.079 (4.878) 5.551 < 0.001  
+Age - 0.313 (0.237) - 1.317 
+888 0.191  Age - 0.277 (0.252) - 1.099 
+888 0.275 
+Gender  2.072 (1.215) 1.705 0.092  Gender  1.160 (1.313) 0.883 0.379 
+Psych. Diagnosis  4.074  (1.577) 2.584 0.011  Psych. Diagnosis  2.363 (1.633) 1.447 0.151 
+MAQ  - 0.616 (0.139) - 4.427 0.001   MAQ  - 0.099 (0.082) - 1.220 0.226 
+CAMM  - 0.854 (0.211) - 4.049 0.001   CERQ -k-self-blame  0.529 (0.438) 1.206 0.231 
+MAQ x CAMM  0.016 (0.005)  3.287 0.001  MAQ x CERQ -K-self-blame  - 0.008 (0.010) - 0.781 0.437 
+PROMIS -P-P-FR     PROMIS -P-P-FR    
+R2 = 0.102; F(6, 95) = 1.804 , p = 0.106  R2 = 0.109; F(6, 91) = 1.862, p = 0.0 96 
+Model variables  β (SE) t p  Model variables  β (SE) t p 
+Constant  32.104 (5.843) 5.495 < 0.001   Constant  31.879 (3.797) 8.396 < 0.001  
+Age - 0.116 (0.196)  -0.592 0.555  Age - 0.077 (0.196) - 0.391 0.697 
+Gender   1.313 (1.00 5) 1.306 0.195  Gender  1.538 (1.022) 1.505 0.136 
+Psych. Diagnosis  0.830  (1.304) 0.636  0.526  Psych. Diagnosis  0.391 (1.271) 0.308 0.759 
+MAQ  - 0.054 (0.11 5) - 0.468 0.641  MAQ  - 0.026 (0.063) - 0.412 0.681 
+CAMM  0.042 (0.175) 0.242 0.809  CERQ -k-self-blame  - 0.030 (0.341) - 0.089 0.929 
+MAQ x CAMM  - 0.001 (0.004)  - 0.354 0.725  MAQ x CERQ -k-self-blame  - 0.004 (0.008) - 0.531 0.597 
+PROMIS -P-P-LS     PROMIS -P-P-LS    
+R2 = 0.2 11; F(6, 91) = 4. 062, p = 0.001   R2 = 0.193; F(6, 91) = 3.619, p = 0.0 03 
+Model variables  β (SE) t p  Model variables  β (SE) t p 
+Constant  51.175 (8.134) 6.291 < 0.001   Constant  38.377 (5.229) 7.339 < 0.001  
+Age - 0.412 (0.268) - 1.535 0.128  Age - 0.183 (0.270) - 0.678 0.499 
+Gender  0.448 (1.368) 0.328 0.744  Gender   0.378 (1.407) 0.269 0.789 
+Psych. Diagnosis  1.020  (1.777) 0.574 0.567  Psych. Diagnosis  - 0.656 (1.750) 0.375 0.709 
+MAQ  - 0.417 (0.161) - 2.586 0.011  MAQ  - 0.193 (0.087) - 2.207 0.030 
+CAMM  - 0.457 (0.245) - 1.864 0.066  CERQ -k-self-blame  - 0.587 (0.470) - 1.249 
+0.332  0.215 
+MAQ x CAMM  0.007 (0.006) 1.220 0.226  MAQ x CERQ -k-self-blame  0.009 (0.011) 0.799 0.427 
+Note : MAQ = Misophonia Assessment Questionnaire; CERQ -k = Cognitive Emotion Regulation Questionnaire , child version ; CAMM = Child and Adolescent 
+Mindfulness Measure; PROMIS -P-P-PR = PROMIS Pediatric Parent Proxy  Peer Relationships Measure; PROMIS -P-P-FR = PROMIS Pediatric Parent Proxy 
+Family Relationships Measure; PROMIS -P-P-LS = PROMIS Pediatric Parent Proxy Life Satisfaction Measure  
+Journal Pre-proof
+
+Highlights  
+• Misophonia involves intense sensitivity and affective reactions to ordinary human -generated sounds  
+• Mindfulness and cognitive emotion regulation are two p otential processes in pediatric misophonia  
+• We examined  said processes in relation to adaptive functioning and symptom ology  
+• In 102 youth with misophonia, symptomology was  associated with process variables  
+• Mindfulness moderated link between symptomology  and functioning in peer relationships  
+• Implications of findings for future intervention de velopment efforts are discussed  
+Journal Pre-proof
+
+Author disclosure  
+Conflicts of Interest  
+ 
+All authors declare no conflicts of interest.  
+ 
+Ethical Statements  
+ 
+The present study was approved by the Institutional Review Board at Baylor College of 
+Medicine.   
+ 
+Informed Consent  
+ 
+Parents/caregivers/legal guardians of all minor child participants provided informed consent 
+prior to participation. All children participants provided assent.  
+ 
+Role of funding sources  
+ 
+Research reported in this publication was supported by a grant from the Ream Foundation, as 
+well as the Eunice Kennedy Shriver National Institute of Child Health & Human Development of 
+the National Institutes of Health under Award Numbers 1R01HD080096 and P50HD103555 for 
+use of the Clinical and Translational Core facilities. The content is solely th e responsibility of the 
+authors and does not necessarily represent the official views of the National Institutes of Health.  
+  
+Data Availability  
+ 
+The datasets generated during and/or analyzed during the current study are available from the 
+corresponding au thor on reasonable request.  
+ 
+Journal Pre-proof

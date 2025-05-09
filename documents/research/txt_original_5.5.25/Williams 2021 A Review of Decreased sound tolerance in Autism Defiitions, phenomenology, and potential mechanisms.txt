@@ -1,0 +1,2338 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/346083821
+A Review of Decreased Sou nd T olerance in Autism: Deﬁnitions,
+Phenomenology, and Potential Mechanisms
+Article    in  Neur oscienc e & Biobehavior al R eviews · Februar y 2021
+DOI: 10.1016/ j.neubior ev.2020.11.030
+CITATIONS
+31READS
+1,554
+4 author s:
+Some o f the author s of this public ation ar e also w orking on these r elat ed pr ojects:
+Autism Int ervention R esearch Ne twork on Physic al He alth (AIR -P) View pr oject
+Self -created Out come Questionnair es View pr oject
+Zachar y J Williams
+Vanderbilt Univ ersity
+86 PUBLICA TIONS    335 CITATIONS    
+SEE PROFILE
+Jason He
+King' s Colle ge London
+40 PUBLICA TIONS    215 CITATIONS    
+SEE PROFILE
+Carissa J . Cascio
+Vanderbilt Univ ersity
+106 PUBLICA TIONS    4,314  CITATIONS    
+SEE PROFILE
+Tiffany G Wo ynar oski
+Vanderbilt Univ ersity
+92 PUBLICA TIONS    1,831  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Zachar y J Williams  on 14 Dec ember 2020.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+
+UNCORRECTEDPROOFNeuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Contents lists available at ScienceDirect
+Neuroscience and Biobehavioral Reviews
+journal homepage: www.elsevier.com
+Areview ofdecreased sound tolerance inautism: Definitions, phenomenology, and
+potential mechanisms
+Zachary J.Williamsa,b,c,d,⁎,Jason L.Hee,Carissa J.Cascioc,d,f,g,Tiffany G.Woynaroskib,c,d,g
+aMedical Scientist Training Program, Vanderbilt University School ofMedicine, 221Eskind Biomedical Library andLearning Center, 2209 Garland Ave., Nashville, TN,37240, United States
+bDepartment ofHearing andSpeech Sciences, Vanderbilt University Medical Center, 1215 21stAvenue South, Medical Center East, Room 8310, Nashville, TN,37232, United States
+cVanderbilt Brain Institute, Vanderbilt University, 7203 Medical Research Building III,46521stAvenue South, Nashville, TN,37232, United States
+dFristCenter forAutism andInnovation, Vanderbilt University, 2414 Highland Avenue, Suite 115, Nashville, TN,37212, United States
+eDepartment ofForensic andNeurodevelopmental Sciences, Sackler Institute forTranslational Neurodevelopment, Institute ofPsychiatry, Psychology andNeuroscience, King's College London,
+Strand Building, Strand Campus, Strand, London, WC2R 2LS,London, United Kingdom
+fDepartment ofPsychiatry andBehavioral Sciences, Vanderbilt University Medical Center, 2254 Village atVanderbilt, 1500 21stAveSouth, Nashville, TN,37212, United States
+gVanderbilt Kennedy Center, Vanderbilt University Medical Center, 110Magnolia Cir,Nashville, TN,37203, United States
+ARTICLE INFO
+Keywords :
+Autism spectrum disorder
+Auditory
+Sensory
+Decreased sound tolerance
+Sensitivity
+Hyperacusis
+Misophonia
+Phono phobia
+Centralgain
+Salience
+Anxiety
+Specificphobia
+Review
+TheoryABSTRACT
+Atypicalbehavioral responses toenvironmentalsounds arecommon inautisticchildren andadults, with
+50–70%ofthispopulationexhibitingdecreased sound tolerance (DST) atsome point intheir lives. Thissymp -
+tomisasource ofsignificantdistress andimpairment across thelifespan,contribut ingtoanxiety,challengingbe-
+haviors,reduced communityparticipation, andschool/ work place difficulties.However, relatively littleisknown
+about itsphenomenologyorneurocog nitiveunderpinnings. Thepresentarticlesynthesizes alarge body ofliter-
+atureonthephenomenologyandpatho physiologyofDST-related conditions togenerateacomprehensivethe-
+oreticalaccount ofDSTinautism. Notably, weargueagainst conceptualizingDSTasaunifiedconstruct, sug-
+gestingthatitbeseparated intothree phenomenologically distinct conditions: hyperacusis(theperceptionof
+every daysounds asexcessively loud orpainful), misophonia(anacquired aversivereactiontospecificsounds),
+andphono phobia(aspecific phobiaofsound), each responsibleforaportionofobserved DSTbehaviors. We
+furtherelaborateourframe work bypropos ingpreliminary neurocog nitivemodelsofhyperacusis,misophonia,
+andphono phobiathatincorporateneurophysiologic findingsfrom studiesofautism.
+1.Introduction
+Autism spectrum disorder(here after referred toas“autism ”)isa
+heterogeneous, lifelong neurodevelopmentalconditioncharacterizedby
+difficultieswith socialcommunicationandthepresence ofrestricted,
+repet itive patterns ofbehavior,interests, and activities(American
+Psychiatric Association, 2013 ).Inadditiontothese cardinalfeatures,
+autistic1peoplecommonly find anumberofevery daysensory stim-
+ulitobequite aversive(Ben-Sasson etal.,2009 ,2019 ;Cascio etal.,
+2016 ;Schauder andBennetto, 2016 ),now considered acore feature
+ofthecondition (American Psychiatric Association, 2013 ).Although
+thisso-called “sensoryhyperreactivity”canbepresentinanymodal ity
+(Ausderau etal.,2014 ;Crane etal.,2009 ;Hazen etal.,2014 ;Leekam etal.,2007 ;Tavassoli etal.,2014 ),decreased sound tolerance
+(DST; i.e.,aninabilitytotolerateevery daysounds) isamong themost
+preva lent, persistent, anddisabling sensory features ofautism (Gomes
+etal.,2008 ;O’Connor, 2012 ;Stefanelli etal.,2020 ;Stiegler andDavis,
+2010 ).Arecent meta-analy sisestimated thatthecurrentpreva lence of
+DST intheautisticpopulationis38–45%,with 50–70% ofindividu-
+alsontheautism spectrum havingexperienced DST atsome point in
+their lives (Williams, Suzman, etal.,2020b ).Inthelargest singlestudy
+investigatingthisphenomenon, Lawetal.(2016) reported currentand
+lifetime DSTpreva lence rates of77.6 %and86.6 %,respectively, inan
+onlinesampleof814autisticchildren. Themajorityofchildren exhib-
+itedDST-related challengingbehaviorsdaily orweekly, andover one
+third hadphysically injured them selves orothersasaresultofthese
+⁎Corresponding author at:1215 21stAvenue South, Medical Center East, Room 8310, Nashville, TN,37232, United States.
+Email addresses: zachary. j.williams@ vanderbilt. edu(Z.J. Williams); jason. he@kcl.ac.uk(J.L. He); carissa. cascio@ vumc. org(C.J. Cascio); tiffany. g.woynaroski@ vumc. org(T.G.
+Woynaroski)
+https://doi.org/ 10.1016/j.neubiorev.2020.11.030
+Received 11 September 2020 ; Received in revised form 11 November 2020 ; Accepted 12 November 2020
+Available online xxx
+0149-7634 /©2020 .Review article
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+behaviors(Lawetal.,2016 ).Even when notasafety concern, DSTcon-
+tributes significantly toautism -related functional impairment, asmany
+caregivers reportthattheir children’sreactions tosounds prevent them
+from participatinginawide range offamily,school, andcommunity
+activities(Hussein etal.,2019 ;E.K.Jones etal.,2020 ;Law etal.,
+2016 ).Furthermore, aversions tosensory stimuli,such asDST, areof-
+tencited asreasonsthatautisticindividualsfinditdifficulttoseekmed-
+icalcare(Carter etal.,2017 ;Giarelli etal.,2014 ;Muskat etal.,2015 ;
+Nicholas etal.,2016 ).DST symp toms inautism areknown topersist
+intoadult hood (Elwin etal.,2013 ;Kuiper etal.,2019 ;Landon etal.,
+2016 ;A.E.Robertson andSimmons, 2015 ;Tavassoli etal.,2014 ),con-
+tribut ingtowork place difficulties(Hayward etal.,2019 ;Hedley etal.,
+2018 ;Lorenz etal.,2016 ;A.E.Robertson andSimmons, 2015 ),anxi-
+ety(Landon etal.,2016 ;Simonoff, 2020 ),avoid ance behavior(Landon
+etal.,2016 ),andgeneraldistress (Griffith etal.,2011 ;R.S.P.Jones
+etal.,2003 ;Smith andSharp, 2013 ).Notably, although autism isalso
+associated with hyporeactivitytoevery dayauditorystimuli(Ben-Sasson
+etal.,2009 ,2019 ;Lawetal.,2016 ;Watts etal.,2016 ),thisresponse
+patternisfarlesspreva lentthan DSTintheautisticpopulation, andits
+effects onactivityparticipationandfunctional impairment appear tobe
+lesspronounced (Lawetal.,2016 ).Thus, wechoose tofocusthisreview
+solely onDSTinautisticindividuals,which webelieve tobethesensory
+featureofautism with thelargest overallimpactonqualityoflifeinthis
+population.
+Despite thepreva lence andimpact ofDST inautism, there iscur-
+rently insufficient evidence tosupportrecommendations ofanybehav-
+ioral orpharmacologic treatment toreduce thesever ityorfunctional
+impact ofthissymp tom (Fung etal.,2012 ;Sandbank etal.,2020 ;
+Schoen etal.,2019 ;Sinha etal.,2006 ;Weitlauf etal.,2017 ).Onepo-
+tentialreasonforthelackofevidence -based interventioninthisarea is
+thefactthattheunderlyingmech anisms ofautism -associated DSTare
+stilllargely unknown, hinderingthedevelopment oftargeted interven-
+tions. Though anumberofphysiologicalandpsychologicalprocesses
+have been suggested aspotentialsources ofDST inautism (Marriage
+andBarnes, 1995 ;McCullagh etal.,2020 ;Pillion etal.,2018 ;Stiegler
+andDavis, 2010 ),there isstilldebateintheliteratureover whether DST
+behaviorsreflect adisturbance inlow-level auditoryprocessing,abnor-
+mally strong emotional reactions tospecificauditorystimuli,oracom-
+binationofthetwo. Thepurpose ofthepresentarticleistoreview the
+literatureonDSTinautism, incorporatingpublished experimentaland
+clinicalobservations intoaunifiedtheoreticalframe work. Synthesizing
+findingsfrom theclinicalandneuroscientificliterature, wepropose sev-
+eralpotentialneurocog nitivemodelstoexplain thephenomenonofDST
+inautism. Bydoingso,weaimtogeneratetestable hypothe sesabout
+therelationships between physiology,perception, andbehavior,setting
+thestage forfutureresearch onDSTmech anisms andbring ingthefield
+onestepcloser tothedevelopment oftargeted interventions.
+2.Definitions
+The terminologyused todescribe DST inthemedicalliterature
+hasbeen extremely varied,with thewords hyperacusis(Fagelson and
+Baguley, 2018 ;Tyler etal.,2014 ),misophonia(P.J.Jastreboff and
+Jastreboff, 2015 ;Schröderetal.,2013 ),phono phobia(Møller,2011 ;
+Phillips andCarr, 1998 ),auditory over-responsivity(Tavassoli etal.,
+2019 ;VanHulle etal.,2012 ,2018 ),noise sensitivity(Stansfeld, 1992 ),
+auditorydefensiveness(Goldsmith etal.,2006 ;Kern etal.,2006 ),nox
+1Theterms ‘autistic person ’and‘person ontheautism spectrum ’arethepreferred
+language ofthemajority ofpeople diagnosed with autism (Bury etal.,2020 ;Kenny etal.,
+2016 ).Outofrespect forthese preferences, weusethese terms torefer toindividuals on
+thespectrum rather than exclusively using person -firstlanguage.acusis(Auerbach, 2019 ),andauditory hypersensitivity(Gomes etal.,
+2008 )allused todescribe specificpatterns ofsound intolerance across
+populations. Theterminologyused todescribe DST asasymp tomof
+autism specif ically hasalso been highly inconsistent (Gomes etal.,
+2008 ;Landon etal.,2016 ;Stefanelli etal.,2020 ;Stiegler andDavis,
+2010 ;Tavassoli etal.,2019 ),andthus weseek toprovide definitions
+ofseveralkeyterms beforereviewingtheliteratureonthese topics.Al-
+though there isnounifiedstandard ofnomen clature fordisorders of
+sound tolerance, wealign ourterminologywith thefirstmajoracademic
+textonthistopic (Fagelson andBaguley, 2018 ),separatingdisordersof
+DSTintothespecific conditions ofhyperacusis,misophonia,andphono -
+phobia(Table 1;seealsoTyler etal.,2014 forasimilarframe work).
+2.1.Hyperacusis
+Hyperacusisisdefined here asahearingdisorderinvolvinganin-
+creased sensitivityordecreased tolerance tosound atlevelsthatwould
+nottroublemost individuals.Forthepersonexperiencinghyperacu-
+sis,every daysounds canbeunpleas ant,intense, painful, and/orover-
+whelm ing,andthese sounds areoftenperceived asmuch louder than
+they actuallyare(Fackrell etal.,2019 ).This definitionismore expan-
+sivethan many thathave previously been proposed, which have tended
+tofocusexclusively ontheperceptionofmoderate-intensitysounds as
+overly loud (Fackrell etal.,2017 ;Phillips andCarr, 1998 ;Tyler etal.,
+2014 ).Intheir pivotalreview onthetopic, Tyler etal.(2014) proposed
+thathyperacusiscould beseparated intofoursubtypes characterizedby
+loudness, annoyance, fear, andpain, occurringeithersingly orincom-
+bination. Amore recentconsensusdefinitionofhyperacusis(Fackrell et
+al.,2019 )differentiateshyperacusisfrom both misophonia(anacquired
+aversivereactiontospecific“trigger”sounds characterizedbyanger, ex-
+treme annoyance, anddisgust) andphono phobia(apersistent, abnormal
+andunwarranted fearofcertainsounds). Thus, within ourframe work,
+hyperacusisrefers specif ically toloudnesshyperacusisandpainhyperacu-
+sis,whereas theterms misophoniaandphono phobiaareproposed torefer
+totheconstructs ofannoyance hyperacusisandfearhyperacusisproposed
+byTyler etal.,respectively. Furthermore, despite theconsensusdefini-
+tionofhyperacusisincludingthewords “increased sensitivity,”itiswell
+established thatpatients with hyperacusisdonothave increased sensi-
+tivitytosounds inthepsychoacoustic sense (i.e., lower auditorydetec-
+tionthresh olds), andthatmany non-autisticindividualswith hyperacu-
+sisexhibit some degree ofhearingloss(Anari etal.,1999 ;Sheldrake et
+al.,2015 ;Tyler etal.,2014 ).Within theframe work proposed byWard
+(2019) ,adistinctionismade between subjectivesensorysensitivity(i.e.,
+higher self-reported intolerance ofsensorystimuli),neural sensorysen-
+sitivity(i.e., increased neural responses evoked byagiven sensorystim-
+ulus), andbehavioral sensorysensitivity(i.e., lower thresh oldsforstim-
+ulusdetectionand/ordiscrimination). However, asthese three types of
+“sensory sensitivity”aregenerallyunrelated toeach other within the
+autisticpopulation(Donkers etal.,2015 ;Dunlop etal.,2016 ;Gravel
+etal.,2006 ;Hudac etal.,2018 ;C.R.G.Jones etal.,2009 ;Kuiper et
+al.,2019 ;Millin etal.,2018 ;Tharpe etal.,2006 ),webelieve theuse
+ofthissingleterm todescribe constructs atthebehavioral, perceptual,
+andneural levelswilllead researchers tocommitthe“jinglefallacy”
+(Dang etal.,2020 ),inwhich measures of“sensory sensitivity”atdif-
+ferentlevelsarethought totapthesame construct. Thus, inaccordance
+with Tyler etal.(2014) werefrain from usingtheterm “hypersensitiv-
+ity”todescribe hyperacusisoranyother form ofDST, andweencour-
+ageautism researchers tousetheterm “sensorysensitivity”only when
+referringtobehavioral stimulusdetectionordiscriminationthresh olds.
+Loudnesshyperacusisisaconditioninwhich thethresh oldforloud-
+nessdiscomfortisreduced andsounds ofmoderateintensityarejudged
+tobevery loud (Phillips andCarr, 1998 ).Psychoacousti cally, loudness
+2
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Table 1
+ComparisonoftheHyperacusis,Misophonia,andPhono phobia.
+Hyperacusis Misophonia Phonophobia
+Definition A hearing disorder in which sound
+of moderate intensity is perceived as
+excessively loud, painful, and/or
+overwhelming.A neuropsychiatric condition in which individuals have
+excessive and inappropriate emotional responses to specific
+“trigger ”sounds (e.g., chewing, tapping, sniffling), even
+when presented at a low level.A specific phobia of particular sounds or classes of
+sounds, resulting in anticipatory responses and
+avoidance of potential sound sources.
+Limited to specific
+soundsNo Yes Yes
+Primary response
+to soundExcessive loudness sensation and/or
+pain in ears/headAnger, disgust, and/or extreme irritation . Idiosyncratic
+physical symptoms.Fear and/or panic, anticipatory anxiety
+Psychoacoustic
+loudness
+perceptionSteeper loudness growth, reduced
+LDLNormal Unknown (possibly reduced LDL)
+Influence of
+contextual
+factorsLow High High
+Results in
+avoidance
+behaviorYes Yes Yes
+Associated with
+psychopathologyYes Yes Yes
+Occurs secondarily
+toCochlear hearing loss, noise trauma,
+brain injuryUnknown Hyperacusis, reactive tinnitus, misophonia,
+posttraumatic stress disorder, other anxiety
+disorders
+Proposed cognitive
+mechanismAmplification of low-level sensory
+information resulting in a steeper
+growth of subjective loudness with
+increasing sound level.Attribution of excess salience to particular sounds or
+associated perceptual phenomena (e.g., sights), resulting in
+conditioned aversive emotional response and heightened
+sympathetic arousal.Pathological fear learning, combining excess
+attribution of threat to specific sounds with poor
+experience-dependent extinction. Maintained by
+avoidance of feared stimulus.
+Implicated brain
+regionsPrimary/secondary auditory cortex,
+inferior colliculus, auditory
+brainstem (superior olivary
+complex)Salience network (anterior insular cortex, dorsal anterior
+cingulate cortex), ventromedial prefrontal cortex,
+posteromedial cortex, hippocampus, amygdalaAmygdala, hippocampus, anterior cingulate cortex,
+ventromedial prefrontal cortex, anterior insular
+cortex, bed nucleus of the stria terminalis/
+extended amygdala
+Increased
+prevalence in
+autismYes Unknown Yes
+Unique
+pathophysiology
+in autismYes No No
+Note. LDL=loudness discomfort level (thedecibel level atwhich asound starts being perceived asuncomfortably loud).
+hyperacusiscanbethought ofasanincreased slope oftheloudness
+growth function(i.e., steeper growth ofperceived loudnessasafunction
+ofsound intensity;Brandy andLynn, 1995 ;Hébertetal.,2013 ;Noreña
+andChéry-Croze, 2007 ).Thisconditionisdistinguish ablefrom loudness
+recruitment,asteep eningoftheloudness growth functionthatoccurs
+inthesettingofcochlear hearinglossduetoouter hair celldamage
+(Fowler, 1965 ;B.C.J.Moore etal.,1985 ;Preyer andGummer, 1996 ).
+Notably, inloudnessrecruitment, theloudnessofasound “catches up”
+tothat ofanormalhearinglistener, andathigh levelstheloudness
+growth functions ofrecruitingandnormal-hearingearswillagain over-
+lap(B.C.J.Moore etal.,1985 ).Thisisincontrast toloudnesshypera-
+cusis,where theloudnessgrowth curve diverges from thatofanormal
+hearinglistener withoutagain merg ingwith thenormalloudnessfunc-
+tion(Brandy andLynn, 1995 ;NoreñaandChéry-Croze, 2007 ).
+Pain hyperacusis(Auerbach, 2019 ;Pollard, 2019 ;Tyler etal.,2014 ),
+also referred toasnoxacusis,isalesswell understood form ofthe
+condition inwhich anindividualperceives physicalpain intheear
+when exposed tocertainsounds atlevelsfarbelowthose needed to
+cause pain inatypicallistener (i.e., approximately 120dBsound pres-
+sure level [SPL], asloud asthefront rowofarock concert; Plutchik,
+1963 ).Although thecharacterofthepain varies greatly across individ-
+uals(e.g., dullache, burning,sharp, stabbing, orthrob bing), 62%of
+hyperacusispatients respond ingtoanonlinesurveyreportedly expe-
+rienced earpain atleast daily (Pollard, 2019 ).Itiscurrently unclear
+whether thepain experienced inthisconditionisthesame pain experi-
+enced bytypicallistenersatextremely high sound levelsoranentirely
+separatephenomenonwith distinct neurophysiologic substrates. Recent
+discoverieshave implicated thepopulationoftype IIcochlear afferentneuronsinmediatingtheperceptionofnoxiousorpainful auditorystim-
+uli(Flores etal.,2015 ;Liuetal.,2015 ;Zhang andCoate, 2017 ),butthe
+roleofthese cells inpain hyperacusisremains tobedetermined.
+Through outthisreview, theterm “hyperacusis”willbeused torefer
+generallytoboth loudness andpain hyperacusis,regardlessofneuro-
+logical,psychiatric, otologic, oridiopathic etiology(Tyler etal.,2014 ).
+Thespecific terms “loudness hyperacusis”and“pain hyperacusis”will
+beutilized when referringtoonly oneofthesubtypes.
+2.2.Misophonia
+Misophonia,alsocalled selectivesound sensitivitysyndrome (Neal
+andCavanna, 2013 )orannoyance hyperacusis(Danesh andAazh, 2020 ;
+Tyler etal.,2014 ),isanewly described neuropsy chiatric condition
+inwhich individualshave excessiveandinappropriateemotional re-
+sponses tospecific “trigger”sounds (e.g., chew ing,tapping, sniffling),
+even when presented atalowlevel (Brout etal.,2018 ;Claiborn et
+al.,2020 ;Jager etal.,2020 ;Palumbo etal.,2018 ;Potgieter etal.,
+2019 ;Schröderetal.,2013 ).Thespecifictriggersandtheir elicited re-
+sponses vary greatly across individualsandmay change over time, al-
+though thepredominant emotional response tends toinvolve some form
+ofanger, disgust, orirritation(Jager etal.,2020 )andincreased auto-
+nomic arousal (Edelstein etal.,2013 ;Kumar etal.,2017 ).This emo-
+tional response isoftenaccompanied byanidiosyncratic setofphysical
+symp toms (e.g., muscletension, pares thesias,abdominaldiscomfort,or
+other physicalsensations; Claiborn etal.,2020 ;Dozier andMorrison,
+2017 ).More over, misophonic reactions areinsome cases evoked by
+specific visualstimuliaswell (e.g., thesight ofapersonchew ingcan
+3
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+triggeranger andphysicalsensations, even intheabsence ofasound),
+aphenomenonthat hasbeen termed “misoki nesia”(Potgieter etal.,
+2019 ).Interestingly, thecontextinwhich these triggersareencountered
+modulates theresponse substantially, with more intense responses being
+reported when triggersareexperienced inafamiliarcontext(Potgieter
+etal.,2019 )andfewer orlessintense responses occurringwhen thetrig-
+geringsound ismade byatoddleroranadult with cognitiveimpair-
+ment (Jager etal.,2020 ).Triggeringsounds alsodonotseem totypi-
+cally evoke aresponse when produced bytheindividualswith misopho-
+niathem selves (Potgieter etal.,2019 ).
+Compared with hyperacusis,misophoniaisarelatively newconcept,
+firstdescribed intheacademicliteraturein2002 (M.M.Jastreboff and
+Jastreboff, 2002 ).However, itwasnotuntil2013, when diagnosticcri-
+teriaforthisdisorderwere proposed (Schröderetal.,2013 ),thatmiso-
+phoniabegantoattract theattentionofresearchers inpsychology,psy-
+chiatry,andaudiology. Although misophoniaresearch remains inits
+infancy, there issufficient evidence toindicate that misophoniaisa
+distinct behavioral syndrome thatcanresultinsubstantialdistress and
+functional impairment (Brout etal.,2018 ;Jager etal.,2020 ;Potgieter
+etal.,2019 ;Schröderetal.,2013 ).
+2.3.Phonophobia
+Theterm phono phobia,literallymean ing“fearofsound, ”iscom-
+monly used inneurologytodescribe thesound intolerance thatoften
+accompaniesmigraine headaches (Ashkenazi etal.,2009 ;Irimia etal.,
+2008 ;Vingen etal.,1998 ;Woodhouse andDrummond, 1993 ).How-
+ever, inthecurrent frame work, wedefinephono phobiaasaspecific
+phobiaofparticularsounds orclasses ofsounds, resultinginanticipa-
+toryresponses andavoid ance ofpotentialsound sources (Baguley and
+McFerran, 2011 ;Landgrebe andLangguth, 2011 ;Møller,2011 ;Stiegler
+andDavis, 2010 ).Ourdefinitionofphono phobiaisnearly synonymous
+with that ofTyler ’s(2014) “fear hyperacusis,”whereas the“phono -
+phobia”described inmigraine could bebetterclassifiedwithin this
+frame work asepisodic loudness hyperacusis(Suhnan etal.,2017 ).Al-
+though afearofloud noises iscommon inchildhood (Meltzer etal.,
+2009 ;Ollendick etal.,2002 ),adiagnosisofphono phobiawould re-
+quire anamount offear andimpairment outofproportion towhat
+onewould expect forthatindividual’sdevelopmentallevel (American
+Psychiatric Association, 2013 ).Furthermore, while both misophonia
+andphono phobiacaninvolve inappropriateemotional reactions tospe-
+cific sounds, themisophonic reaction primarilyinvolves anger and/
+ordisgust, whereas phono phobiaischaracterized byfearand/oranx-
+iouspreoccupation. Notably, phono phobiaasdefined here oftendevel-
+opssecondary toother forms ofDST, assome patients with hyperacu-
+sisormisophoniamay develop excessiveanxietywith respect tosit-
+uations inwhich they may encounter painful orotherwise distressing
+sounds (Blaesing andKroener -Herwig, 2012 ;Goebel andFloezinger,
+2008 ;Jager etal.,2020 ;Jürisetal.,2014 ;Landgrebe andLangguth,
+2011 ).
+2.4.Noise sensitivity
+Unlikethepreviousterms, noise sensitivityisnotadiagnosablemed-
+icalconditionbutisinstead astablepersonalitytrait thatmoderates
+one’sreactions tonoise. Itisnot,however, atrue “sensory sensitiv-
+ity,”asthistraitisunrelated toauditorydetectionthresh olds(Stansfeld
+etal.,1985 ).Defined byJob(1999, p.58),noise sensitivityrefers to
+“theinternalstates (bethey physiological,psychological[includingat-
+titudinal], orrelated tolifestyle oractivitiesconducted) ofanyindi-
+vidualwhich increase their degree ofreactivitytonoise ingeneral.”
+Noise sensitivityisthought tomoderatethedegree towhich aper-
+sonfinds anygiven noise annoying,irrespectiveofoverallnoise expo-
+sure (Kliuchko etal.,2016 ;vanKamp etal.,2004 ).Compared tothe
+generalpopulation, noise -sensitiveindividualsattend more tonoises,find noises more threat eningandoutoftheir control, andadapt to
+noises more slowly (Stansfeld, 1992 ;Stansfeld andClark, 2019 ).Un-
+likehyperacusis,noise sensitivityisnotassociatedwith changes inloud-
+nessfunctions (Ellermeier etal.,2001 ;Stansfeld etal.,1985 ),although
+self-reports ofhyperacusissymp toms andnoise sensitivitymay corre-
+latehighly insome populations (Viziano etal.,2017 ).Notably, although
+most noise -sensitiveindividualsdonothave hyperacusis,patients with
+hyperacusisreporthigh levelsofnoise sensitivity(Paulin etal.,2016 ),
+likely asaresultofthediscomfortthey experience inresponse tomany
+every daysounds.
+2.5.Decreased sound tolerance
+Wedefinedecreased sound tolerance (DST) asanumbrella term en-
+compassinghyperacusis,misophonia,andphono phobia(P.J.Jastreboff
+andJastreboff, 2014 ,2015 ).This term ispreferred over equally gen-
+eralterms such as“auditorydefensiveness”and“auditoryover-respon-
+sivity,”asitrefers tothesubjectiveperceptofthesound asintolerable
+withoutdescribinganyparticularbehavioral reaction. Thepersonality
+trait ofnoise sensitivityisnotincluded within thisdefinition, though
+high levelsofnoise sensitivitymay beseen inthose with DST(Paulin
+etal.,2016 ).Similarly, individualswith chronic subjectivetinnitusare
+notnecessarilyclassifiedashavingDST, although comorbidhyperacu-
+sis(Tyler etal.,2014 )andphono phobia(Blaesing andKroener -Herwig,
+2012 ;Landgrebe andLangguth, 2011 )arecommonly observed inthis
+populationandcanbediagnosed separately. While thelabelsofhypera-
+cusis,misophonia,andphono phobiaarebetterabletodescribe thephe-
+nomenologyofanindividual’ssound intolerance, thelabelofDST is
+usefulwhen there isalackofcertainty about theunderlyingreasonsfor
+anindividual’ssound -induced distress ordiscomfort(e.g., innonverbal
+individualswhocannotdescribe whycertainsounds areaversive). Thus,
+weuseDSTtorefertothebehavioral hyperreactivitytoauditorystim-
+uliseen inindividualsontheautism spectrum, asitiscurrently unclear
+whether these behaviorsareduetohyperacusis,misophonia,phono pho-
+bia,orsome combinationthereof (Stiegler andDavis, 2010 ).Aswear-
+gueinthefollowingsection, allthree conditions likely contribute tothe
+high rates ofDSTbehaviorseen inautisticindividuals,andfurtherre-
+search isneeded todetermine their relativecontributions totheautistic
+DSTphenotype.
+3.Phenomenology ofdecreased sound tolerance inautism
+Although asizablebody ofliteraturehasbeen published onDSTin
+autism (Gomes etal.,2008 ;Moossavi andMoallemi, 2019 ;O’Connor,
+2012 ;Stefanelli etal.,2020 ;Stiegler andDavis, 2010 ),there hasbeen
+relatively littleresearch todate systematically examiningthespecific
+sounds that autisticindividualsfind distressingorwhich aspects of
+thestimulithese individualsfinddifficulttotolerate.Although some
+first-personaccounts ofautisticpeoplecontaindescriptions ofsubjec-
+tiveDST (Bemporad, 1979 ;Cesaroni andGarber, 1991 ;DePape and
+Lindsay, 2016 ;Elwin etal.,2012 ,2013 ;Howe andStagg, 2016 ;R.S.P.
+Jones etal.,2003 ;Kirby etal.,2015 ;Landon etal.,2016 ;Preece and
+Jordan, 2010 ;A.E.Robertson andSimmons, 2015 ;Smith andSharp,
+2013 ;Stiegler andDavis, 2010 ;Volkmar andCohen, 1985 ),these ac-
+counts oftendonotprovide enough detailoftheindividual’spercep-
+tion ofsound toconfidently classifythereported DST ashyperacu-
+sis,misophonia,orphono phobia.Anexceptionisthequalitativestudy
+byLandonandcolleagues, which focused exclusively onthephenom-
+enologyofDST inautisticadults (Landon etal.,2016 ).Inthisstudy,
+researchers interviewed 10adults with diagnosed autism andself-re-
+ported DST, askingquestions about theparticipants ’experiences of
+sounds, thequalitiesofsounds thatthey feltcaused their distress, spe-
+cific events thatproduced aversivereactions, andstrate giesemployed
+tocope with sounds inevery daylife.Participants consistently regarded
+4
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+loud, sharp, orotherwise high-pitched sounds tobethemost distress-
+ing,although severalalsoindicated thatspecificsounds elicited strong
+emotional reactions regardlessoflevel. Theauthors concluded thatthe
+participants reported experiences were consistentwith both hyperacusis
+and“anintolerance tospecific sounds ”(i.e., misophonia). Anxietyand
+avoid ance alsoplayed apromi nent roleintheparticipants ’responses to
+noise, indicatingthatanumberofparticipants likely would beconsid-
+ered tohave phono phobiaaswell.
+Another frequently reported symp tomintheLandonstudy wasaten-
+dency tobeeasilydistracted bynoises, even inrelatively innocuousor
+quiet situations (Landon etal.,2016 ).Although auditorydistractibil ity
+ispertinent totheoverallsensory phenotype ofautism, thisprocess is
+distinct from DSTasitistypically defined (Fagelson andBaguley, 2018 ;
+P.J.Jastreboff andJastreboff, 2015 ).More over, auditory distractibil -
+ityislikely mediated byhigher -ordercognitivefactorssuch aswork ing
+memorycapacityandselectiveattention(Sörqvist, 2010 ;Sörqvist and
+Marsh, 2015 ;Sörqvist andRönnberg, 2014 ),which areknown todif-
+ferintheautisticpopulation(Habib etal.,2019 ).Individualswith at-
+tention-deficit/ hyperactivitydisorder(ADHD) arealsoparticularly sus-
+ceptibletotheeffects ofauditorydistractions (Micoulaud -Franchi etal.,
+2015 ;Pelletier etal.,2016 ;Zentall andShaw, 1980 ),andthusthehigh
+preva lence ofco-occurringADHD inautisticchildren andadults (Laiet
+al.,2019 ;Lugo-Marínetal.,2019 )may contribute tothehigh rates of
+auditorydistractibil ityseen inthispopulation. Afailuretohabituateto
+low-level sounds may alsoplay arole, aspreliminary work hasdemon -
+strated reductions insimpleloudness adaptationinautisticadults rel-
+ativetoneurotyp icalcontrols (Lawson etal.,2015 ).Alternatively, this
+symp tommayberelated totheabilityofindividualsontheautism spec-
+trum tosimultaneously process alarger amount ofauditoryinformation
+than neurotyp icalcontrols, adifference supported bydata from labo-
+ratory-based auditory detectiontasks (Brinkert andRemington, 2020 ;
+Remington andFairnie, 2017 ).Auditorydistractibil ityisalsoaknown
+correlateofnoise sensitivity(Belojevi ćetal.,1992 ;Kjellberg etal.,
+1996 ;Sandrock etal.,2008 ),andtheenhanced distractibil ityseen in
+autism could potentially contribute tomore autisticindividualsdevelop-
+ingnoise sensitivity.However, asthecorrelates ofauditorydistractibil -
+ityinautism have yettobeempirically tested, these relationships re-
+main purely speculativeatthistime.
+Insum, themost detailed phenomenologicalaccount ofDST in
+autism indicates thattheauditorychallenges inthispopulationencom-
+pass hyperacusis,misophonia,phono phobia,andpotentially noise sen-
+sitivityaswell(Landon etal.,2016 ).Accordingly, questions ofwhether
+theDST seen inautism isphysiologicalorpsychologicalinorigin
+(Stiegler andDavis, 2010 )presentafalse dichotomy, asabnormalities
+inlower -level perceptualprocesses (i.e., hyperacusis)andhigher -level
+cognitiveprocesses (i.e., misophoniaandphono phobia)each likely con-
+tribute toDSTinaportionofautisticindividuals(Danesh etal.,2015 ;
+Demopoulos andLewine, 2016 ;Khalfa etal.,2004 ;Landon etal.,
+2016 ;B.Y.Lauetal.,2020 ;A.E.Robertson andSimmons, 2015 ).
+Still, itremains possiblethat a“dominant”pattern ofsound intoler-
+ance (e.g., loudnesshyperacusis)existsinthispopulation. Thus, insec-
+tions 3.1–3.3,wereview thepublished literaturesuggestingthatDST
+inautism ischaracterizedby(a)hyperacusis,(b)misophonia,and(c)
+phono phobia.
+3.1.Hyperacusis inautism
+Anaversion toloud stimuliisoneofthemost promi nent forms
+ofDSTreported inboth personal accounts andclinicaldescriptions of
+autism (O’Connor, 2012 ;Phillips andCarr, 1998 ;Stiegler andDavis,
+2010 ;Tyler etal.,2014 ).Furthermore, when autisticpeoplecomplete
+standardizedself-reportquestionnaires assessinghyperacusissymp toms,
+they routinely endorse higher symp tom levelsthan neurotyp icalcontrols (Danesh etal.,2015 ;Dunlop etal.,2016 ;Keith etal.,2019 ).
+Though such reactions arehighly consistentwith hyperacusis,itremains
+unclear whether individualsontheautism spectrum aremore likely to
+manifesttheloudnessorpain subtype. Personal accounts ofautism of-
+tendescribe certainsounds asphysically painful (Elwin etal.,2012 ;
+Howe andStagg, 2016 ;R.S.P.Jones etal.,2003 ;Kirby etal.,2015 ;
+Landon etal.,2016 ;A.E.Robertson andSimmons, 2015 ;Smith and
+Sharp, 2013 );however, there arenoempiricalstudiesquantifyingthe
+numberofautisticindividualswhoexperience physicalpaininresponse
+toevery daysounds. Alternatively, severalstudiesindicatethatloudness
+growth functions assessed viacategoricalloudness scalingaresteeper
+inpersons ontheautism spectrum (Dunlop etal.,2016 ;Khalfa etal.,
+2004 ;Ohmura etal.,2019 ),confirmingthepresence ofloudnesshyper-
+acusisinthose participants. Notably, anunpublished study byourgroup
+of243patients with self-reported hyperacusiscontained four individ-
+ualsontheautism spectrum (Williams, Suzman, etal.,2020a ),twoof
+whom reported pain hyperacusis(one with comorbidmisophoniaand
+theother with comorbidphono phobia)andtwoofwhom reported loud-
+nesshyperacusis(one with comorbidphono phobiaandtheother report-
+ingnoother DSTconditions). Three ofthese individuals(two loudness,
+onepain) hadalsoreceived diagnoses ofhyperacusisfrom physi cians or
+audiologists. These data, although preliminary, supportthecontention
+thatboth loudnessandpain hyperacusisarepresentinsome individuals
+ontheautism spectrum, although theportionofindividualsexperienc-
+ingeach subtypehasyettobeprecisely determined.
+Asfurther evidence ofhyperacusisinautism, individualsonthe
+autism spectrum also tend toexhibit lower loudness discomfortlev-
+els(LDLs) than neurotyp icalcontrols (Demopoulos andLewine, 2016 ;
+Khalfa etal.,2004 ;Rosenhall etal.,1999 ;Steigner andRuhlin, 2014 ).
+DuringLDLtesting,adiscrete sound stimulus(typically about onesec-
+ondinduration) isrepeatedly presented with increas ingintensityun-
+tiltheparticipant verbally orbehaviorally indicates thatthesound has
+become uncomfortably loud (Punch etal.,2004 ).Inoneofthefirst
+studiesobjectively assessingsound tolerance inautism, Rosenhall etal.
+(1999) reported that18%ofautisticchildren were unable totolerate
+an80dBnHL broad band click stimulusaspart ofanauditory brain -
+stem testingprotocol(although allcould toleratebetested at70dB
+nHL). Notably, only oneautisticchild with sound tolerance problems
+hadasensorineural hearingloss, indicatingthatloudness recruitment
+could notaccount forthisphenomenoninthemajorityofthesam-
+ple.Asmaller butmore comprehensivestudy byKhalfa etal.(2004)
+confirmed thepresence ofenhanced loudnessperceptioninautism, re-
+portingthat63%oftheir autism group hadLDLs forpure tones be-
+low80dBHL.Inahigher -IQgroup ofautisticchildren, Demopoulos
+andLewine (2016) tested LDLs forspeech stimuli,findingthat37%
+oftheir autism group reported LDLs three ormore standard devia-
+tions belowtheneurotyp icalgroup ’smean inatleast oneear.Steigner
+andRuhlin (2014) alsoreported thecase ofanautisticman with pro-
+foundly reduced tolerance oflow-frequency sounds, confirmed byab-
+normally lowLDLs totones inthelowfrequenciesandnormalLDLs in
+thehigh frequencies(≥2000 Hz).Two additional studieshave used be-
+havioral observations totestsound tolerance inautisticchildren, find-
+ingthatonly asmall minorityofindividualsexhibitedbehavioral signs
+ofdistress when exposed tohigh-level sounds (Gomes etal.,2004 ;
+Lucker, 2013 ).However, both ofthese studieswere limitedbytheir
+reliance solely onobservable behavioral reactions; they were unable
+toruleoutthepossibilitythatadditional participants experienced the
+sounds asuncomfortable butfailed tocommunicatethatdiscomfortin
+a“typical”way(Keating andCook, 2020 ;D.J.Moore, 2015 ).Despite
+mixed results concerningbehavioral loudness tolerance, multiplestud-
+iesdemon stratingreduced LDLs inautism suggestthatloudnesshyper-
+acusisispreva lentinthispopulation, although other forms ofDST(i.e.,
+5
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+pain hyperacusisorphono phobia)may alsocontribute tothese abnor-
+malities.
+Tofurtherassesstheroleofloudness inautism -associated DST, we
+alsoconsider theliteratureonintensitydiscriminationinthispopula-
+tion. Inpersonswith cochlear hearinglossandloudnessrecruitment (in-
+creased loudnessgrowth duetoouter haircelldamage), ithasbeen hy-
+pothesized thatsteep ened loudnessfunctions translateintosuperiorin-
+tensitydiscriminationability(Buus etal.,1982 ;although seeHuettel
+andCollins, 2004 ;Schroder etal.,1994 foranalternativeexplanation
+based onspread ofexcitation). Thus, based onthesteeper loudnessfunc-
+tions observed inautism, itwould stand toreasonthatautisticpeople
+may alsopossesssuperiorintensitydiscriminationabilitycompared to
+neurotyp icallisteners.However, theliteratureonpsychophys icalinten-
+sitydiscriminationinautism hasnotconfirmed thishypothesis,with the
+majorityofstudiesfindingintensitydiscriminationabilitiesinpersons
+ontheautism spectrum tobenormal(Alcántara etal.,2012 ;Bonnel et
+al.,2010 ;C.R.G.Jones etal.,2009 )oreven impaired (Kargas etal.,
+2015 )relativetoneurotyp icalcontrols. While these data areinconsis-
+tentwith thetheorythatabnormalloudnessgrowth inautism leads to
+enhanced intensitydiscrimination, itisnotable thatnone ofthese stud-
+iesconcomitantly measured loudness functions andintensitydiscrimi-
+nationthresh olds. Itisthere forestillpossiblethatthesubsetofindivid-
+ualsontheautism spectrum with steep loudness growth curves would
+exhibit superiorintensitydiscriminationwhen compared totypicalcon-
+trols. Further work onloudness andintensityprocessinginautism is
+necessarytoextend these findings, specif ically address ingwhether sub-
+jectivereports ofhyperacusiscanbelinked topsychoacoustic distur-
+bances ofloudnessperception.
+3.2.Misophonia inautism
+Asmisophoniahasonly recently been recognized asadistinct DST
+condition, farfewer studieshave considered itasapotentialexpla-
+nationforobserved behavioral reactions toauditorystimuliinautism
+(Stiegler andDavis, 2010 ).Furthermore, nostudy hasspecif ically been
+conducted toassessthepreva lence ofmisophoniainautisticindividuals.
+Nevertheless, intheclinicalsampleofmisophoniapatients described
+byJager etal.(2020) ,14of575(3%) were diagnosed with comorbid
+autism spectrum disorder.Notably, individualswith “primary autism
+spectrum conditions”referred formisophoniaevaluationwere excluded
+from thesample(i.e., misophoniaintheafore mentioned 14individu-
+alswasjudged tobe“separate”from autism), indicatingthattheover-
+lapbetween these conditions could potentially besubstantially larger.
+Additionally, 38of1061 individuals(3.6%)inalarge onlinesample
+ofadults with self-reported misophoniareported havingbeen diagnosed
+with autism (Claiborn etal.,2020 ),apreva lence nearly doublethatof
+thegeneralpopulation(Dietz etal.,2020 ).Inanother large clinicalsam-
+ple,over onefourth ofchildren referred toaspecialistpediatric hyper-
+acusiscenter(60%ofwhom were diagnosed with autism) identified
+classicmisophoniatriggers(i.e., “peoplechew ing,breath ing,andsnor-
+ing”)asthespecificsounds causingdistress (Amir etal.,2018 ).Lastly,
+inthesurveyofDSTinautism performed byLawetal.(2016) ,many
+parentsreported thatenvironmentalsounds made their children irrita-
+ble(61.3 %),frustrated (43.9 %)orannoyed (40.9 %),raisingthepossi-
+bilitythatsome ofthese episodes may arise from misophonic reactions
+(Potgieter etal.,2019 ).
+Anumberofpersonal accounts also support thecontention that
+autisticindividualswith DST may beexperiencingmisophonia-like
+symp toms (Cesaroni andGarber, 1991 ;Grinker, 2007 ;Landon etal.,
+2016 ;A.E.Robertson andSimmons, 2015 ;Smith andSharp, 2013 ).A
+particularly classicaccount ofanautisticpersondisplayingmisophonic
+reactions comes from anthropologistRoyGrinker, who described his
+autisticteenage daugh terIsabel’sreactiontovery specificsounds such
+asthroat -clearingandthesounds ofcertainwords:…shestillhates certainsounds, likeababy crying,thecaralarm
+thattellsyouyour seatbeltisn’tfastened, orthesound ofabath-
+tubdrain ing.When shehears them, shegetsagitated, holds her
+hands overherears, andvocalizestoblock outthesound. Shehas
+thesame reactionwhen shehears meclear mythroat, orwhen
+some onesays words associated with bathing, such as“bath, ”
+“shower ”or“sham poo.”(Grinker, 2007, p.299)
+Other examples have been published ofautisticadults reacting
+strongly tosounds considered tobecommon misophonic triggers,
+“Small noises annoyme,likebreath ing,crunch ingfood or…some one
+whistling …itmakes meratty”(A.E.Robertson andSimmons, 2015,
+p.575)ordescribingexperiences ofbeingemotionally“triggered ”by
+sounds inawaythey retrospectively view asexcessive:
+…there isallthisenergy racingaround insidemeoutofirrita-
+tionandthink ingabout these things …itsbuild ingupinsideand
+youcan’tletitout,youcan’tgo“ahhhhhbequiet ”orwhatever
+andcan’tbejump ingupanddown ordoinganything …(Landon
+etal.,2016, p.47).
+Remark ably, many ofthese individualsreportingmisophonia-like
+experiences alsoseemed toconcurrently experience problems tolerating
+loud noises (Landon etal.,2016 ),suggestingthatanumberofautistic
+individualswith DSTmaymeet criteriaforboth misophoniaandhyper-
+acusis.Overall,these results together provide substantialevidence that
+atleast some cases ofDSTinautism arelikely duetomisophonia,al-
+though additional research isneeded toestimate thepreva lence ofmiso-
+phonia,itsco-occurrence with other types ofDST, anditsfunctional
+consequences inthispopulation.
+3.3.Phonophobia inautism
+Comorbidanxietydisordersareexceedingly common inautisticin-
+dividuals(Hollocks etal.,2019 ;Laietal.,2019 ),presentingasamix-
+tureof“typical”anxietysymp toms and“atypical”fears thatareunique
+toautism (Kerns etal.,2014 ,2016 ;Kerns andKendall, 2012 ;B.Y.
+Lauetal.,2020 ;Rodgers etal.,2016 ;Scahill etal.,2019 ;Wood and
+Gadow, 2010 ).Among these autism -specific fears, anumberofstudies
+have listed loud noises (eitherloud noises ingeneralorspecific noises
+such astoiletsflushing)astheobjectofachild’sspecificphobia(Gjevik
+etal.,2011 ;Kerns etal.,2014 ,2016 ;B.Y.Lauetal.,2020 ;Leyfer et
+al.,2006 ;Mayes etal.,2013 ;Mukaddes andFateh, 2010 ;Ozsivadjian et
+al.,2012 ),andmultipleautism -specific anxietyquestionnaires include
+items directly assessingafearofloud noise (Rodgers etal.,2016 ;Scahill
+etal.,2019 ).Thisparticularfearispresentinasizableminorityofautis-
+ticchildren, with onelarge study findingthat23%hadaphobiaofloud
+sounds (e.g., babiescrying,hairdryer sounds), andanadditional 6%had
+fears ofother specificsounds (B.Y.Lauetal.,2020 ).Inaddition, over
+halfofautisticchildren with DSTinthestudy byLawetal.(2016) were
+reported tobecome “scared ”(55%)or“nervous”(54%)inresponse to
+bothersome sounds. Nostudy hasinvestigated thepreva lence ofphono -
+phobiainadults ontheautism spectrum, butqualitativereports indicate
+thatmany autisticadults continue toexperience anxietyinresponse to
+loud noises (Simonoff, 2020 ),resultinginpatterns ofavoid ance consis-
+tentwith aspecificphobiaofthese sounds (Bemporad, 1979 ;Cesaroni
+andGarber, 1991 ;Landon etal.,2016 ;Smith andSharp, 2013 ).
+Although published studiesconfirmthepresence ofphono phobiain
+many individualsontheautism spectrum, onemajorunresolved ques-
+tioninthisarea iswhether thisphono phobiaissecondary tohypera-
+cusisorunrelated toabnormalitiesinloudnessperception. Asnoted by
+Jastreboff andJastreboff (2015) ,phono phobiaispractically inevitable
+incases ofsevere hyperacusis,asanxiousapprehensionandhypervig-
+ilance directed toward every daysounds caneasilydevelop from re
+6
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+peated exposures toextremely unpleas ant/painful stimuli.Kerns etal.
+(2016) provide arelevant case example,inwhich anautisticchild de-
+velopsananticipatoryfearoffirealarms asaresultofpre-existinghy-
+peracusis.However, these authors arguethatthemajorityofDST-re-
+lated impairment experienced bythispatient isduetohyperacusis,and
+there foreadiagnosisofspecificphobiaisnotwarranted unlessamore
+impairingpatternofavoid ance behaviordevelops.Interestingly, there is
+some limitedevidence thatbehavioral tolerance oftheaversivesound
+stimuluscanbeachieved bytreatingthephobiawith graded expo-
+sure (Johnston etal.,2020 ;Koegel etal.,2004 ).This may indicate a
+bidirectional relationship between sound -induced discomfortandanx-
+iety,whereby interventions targetingeitherhyperacusisorphono pho-
+biasymp toms have thepotentialtoreduce symp toms intheother do-
+main. Asacute stress candecrease LDLs insome individuals(Hasson
+etal.,2013 ),reducingphobicanxietycould feasiblyimprove both the
+emotional reactiontothefeared sound anditsperceived loudness. How-
+ever, asthese studiesdidnotinclude judgments ofsubjectiveloud-
+ness orpain, anyeffects ofexposure therapyontheperceptualquali-
+tiesofaversivesounds remain speculative. Analternativepossibilityis
+thattheparticipants inthese studiesdidnotsufferfrom hyperacusisat
+all,andthus treatment ofphono phobiawassufficient toeliminate all
+DSTinthose individuals.Additional research isnecessarytodetermine
+whether autisticpeoplewith psychoacousti cally-confirmed hyperacusis
+canexperience areductioninsubjectiveDSTfrom interventions target-
+ingphono phobiaoranxietyingeneral.
+4.Potential mechanisms ofdecreased sound tolerance inautism
+While DST inautism isfrequently discussed from aclinicalper-
+spective, theneurobiologicalcorrelates ofthissymp tomclusterremain
+poorly understood. Awide range ofabnormalitiesinthestructureand
+functionoftheauditorysystemhave been demon strated inboth autistic
+individualsandpreclinicalanimalmodelsofautism (Beers etal.,2014 ;
+Chin etal.,2013 ;McCullagh etal.,2020 ;O’Connor, 2012 ;Pillion et
+al.,2018 ;Williams, Abdelmessih, etal.,2020 ),butfewtheoreticalmod-
+elshave been constructed tolinkthese findingstobehavioral sound in-
+tolerance. Instead, currenttheoreticalframe works forsensory hyperre-
+activityinautism tend tofocusonmulti -modal itysensory processing
+(Mottron etal.,2006 ;Pellicano andBurr, 2012 ;C.E.Robertson and
+Baron -Cohen, 2017 ;VandeCruys etal.,2014 ;Ward, 2019 )inanat-
+tempt toexplain thewide range ofsensory differences seen inautis-
+ticindividuals.Alternatively, anumberoftheoreticalmech anisms of
+DST have been proposed based onfindingsinnon-autisticindividuals
+(Auerbach, 2019 ;Auerbach etal.,2014 ;Brout etal.,2018 ;Diehl and
+Schaette, 2015 ;P.J.Jastreboff andJastreboff, 2014 ,2015 ;Kumar etal.,
+2017 ;Palumbo etal.,2018 ;Pienkowski, 2019 ;Pienkowski etal.,2014 ;
+Sheppard etal.,2020 ;Suhnan etal.,2017 ),fewofwhich have been
+specif ically considered inthecontextofautism -associated DST. Thus,
+thepurpose ofthissectionistosynthesizetheliteratureonthese re-
+lated topics,generatingexplana toryneurocog nitivemodelstoaccount
+forthepresence ofhyperacusis,misophonia,andphono phobiainindi-
+vidualsontheautism spectrum. Although evidence tosupportourpro-
+posed mech anisms ofDSTinautism islimitedatthistime, these theo-
+reticalmodelswillprovideaframe work forfutureresearch inthisarea,
+generatinghypothe sesabout theunderlyingneurobiologyofDST and
+providingcontextforfindingsrelated toauditoryphysiologyinautism
+andrelated conditions.
+4.1.Model ofhyperacusis: enhanced central gain
+Although theunderlyingbiologyofhyperacusisisstillpoorly un-
+derstood, agrow ingbody ofevidence suggests thatthesymp toms of
+loudness hyperacusisaregenerated byapatho logicalincrease incen-
+tralauditory gain (Auerbach, 2019 ;Auerbach etal.,2014 ;Diehl andSchaette, 2015 ;Pienkowski, 2019 ;Salvi etal.,2020 ;Sheppard etal.,
+2020 )inwhich “neural activityfrom more centralauditorystructures is
+paradoxically increased atsuprathresh oldintensities”(Auerbach etal.,
+2014, p.1).Inparticular,animalmodelsofhyperacusisdisplaysteeper
+neural input-outputfunctions inmultiplecorticalandsubcorticalareas,
+with thelargest increases seenintheinferiorcolliculus(IC)andprimary
+auditorycortex(Auerbach etal.,2019 ;Y.-C.Chen etal.,2015 ;Maet
+al.,2020 ;Salvi etal.,2020 ;Stolzberg etal.,2012 ;Wong etal.,2020 ).
+Although there have been fewstudiesexaminingsound -evoked neural
+activityinhumans with hyperacusis(J.-H.Hwang etal.,2009 ),those
+thathave examinedhyperacusisintinnituspatients have typically found
+increased activitycomparabletothatseen inthese animalmodels(Gu
+etal.,2010 ;Lanting etal.,2008 ;Melcher etal.,2009 ).Asactivityinthe
+primary andsecondary auditory cortexisthought toencode loudness
+rather than intensity(Behler andUppenkamp, 2016 ,2020 ;Langers et
+al.,2007 ;RöhlandUppenkamp, 2012 ;Schmidt etal.,2020 ;Schreiner
+andMalone, 2015 ;Uppenkamp andRöhl,2014 ),hyperactiveresponses
+tosounds inthese areasarehypothesized tobethesubstrate ofloud-
+nesshyperacusis.While some studieshave indicated thatthisenhanced
+neural activitymay beinsufficient toexplain hyperacusis-likebehavior
+inanimalmodels(Möhrleetal.,2019 ;Radziwon etal.,2019 ),thecen-
+tralgainmodel remains themost empirically-supported model ofhyper-
+acusispatho physiologyproposed todate (Auerbach, 2019 ;Auerbach et
+al.,2014 ;Diehl andSchaette, 2015 ;Pienkowski, 2019 ;Sheppard etal.,
+2020 ).
+Given thestrong associations between hyperacusis,tinnitus,and
+noise exposure(Pienkowski etal.,2014 ;Tyler etal.,2014 ),thecentral
+gain model ofhyperacusistypically posits thatanincrease incentral
+gain isahome ostaticconsequence ofreduced neural outputfrom the
+cochlea (i.e., sensorineural hearinglossorpotentially “cochlear synap -
+topathy”;Auerbach etal.,2014 ;Hickox andLiberman, 2014 ).However,
+rates ofperipheralhearinglossarenotgreatly elevated inpersons on
+theautism spectrum (Beers etal.,2014 ),andthemajorityofautisticin-
+dividualswith reduced LDLs have hearingacuitywithin normallimits
+(Demopoulos andLewine, 2016 ;Dunlop etal.,2016 ;Khalfa etal.,2004 ;
+Rosenhall etal.,1999 ),indicatingthatthecentralgainmech anism that
+putatively driveshyperacusisinautism may arise viaadifferentmech -
+anism. Though weareonly able tospeculateabout theways inwhich
+aberrantneurodevelopment inautism could contribute toenhanced cen-
+tralauditorygain, multipleplausiblemech anisms existbased oncurrent
+understand ingsofautism neuropathol ogy(Fig.1).
+One likely source ofenhanced centralgain inautism isauditory
+brain stem dysfunction, which hasbeen observed inboth idiopathic
+autism and several neurodevelopmentalsyndromes that frequently
+cause autism, such asfragileXsyndrome (McCullagh etal.,2020 ;
+Pillion etal.,2018 ).Postmortem human androdent studieshave doc-
+umented anumberofabnormalitiesinauditorybrain stem nuclei,with
+multiplestudiesconvergingonpathol ogyinthesuperiorolivary com-
+plex (Etoetal.,2017 ;Kulesza etal.,2011 ;Kulesza andMangunay,
+2008 ;Lietal.,2003 ;Lukose etal.,2011 ,2015 ;Mansour etal.,2019 ;
+Mansour andKulesza, 2020 ;McCullagh etal.,2020 ;Rodier etal.,1997 ;
+Rotschafer etal.,2015 ;Rotschafer andCramer, 2017 ;Toyoshima et
+al.,2009 ;Zimmerman etal.,2018 ,2020 ),agroup ofnucleithatmedi-
+atesaspects ofbinauralprocessingandtheefferentauditorypathways
+(Guinan, 2006 ,2018 ;Laumen etal.,2016 ).Though data aremixed re-
+gardingthepresence andnatureoffunctional auditory brain stem ab-
+normalitiesinautism (Bennetto etal.,2017 ;Dabbous, 2012 ;Danesh
+andKaf, 2012 ;ElMoazen etal.,2020 ;Gravel etal.,2006 ;Kafand
+Danesh, 2013 ;B.K.Lauetal.,2018 ;Lukose etal.,2013 ;McCullagh
+etal.,2020 ;Mercati etal.,2017 ;Miron etal.,2018 ,2020 ;Ohmura
+etal.,2019 ;Pillion etal.,2018 ;Santos etal.,2017 ;Talge etal.,
+2018 ;Tharpe etal.,2006 ;Wilson etal.,2017 ),preliminary studies
+have indicated thatcertainauditorybrain stem assaysmay differentiate
+autisticindividualswith andwithoutconcurrenthyperacusis(Mercati
+7
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Fig.1.(A)Schematic ofascendinginformationpathwayinthecentralauditorysystem. Descend ingandrecurrentconnections have been omittedforsimplicity.(B)Hypothesized model
+ofenhanced centralgain andhyperacusisinautism resultingfrom impaired brain stem transmission. Home ostaticupregulationofgain intheinferiorcolliculus(IC)results inexcessive
+sound -evoked activityinthehigher structures oftheauditorysystem, includingprimary/ secondary auditorycortex,theputativesource ofenhanced loudnessperception. (C)Alternate
+model ofenhanced centralgain andhyperacusisinautism asaresultofexcitation/ inhibitionimbalance intheIC,thalamus, and/orauditorycortex.Notably, enhanced auditorycortical
+activityislikely sufficient tocause hyperacusis,andwhile other centralauditorystructures maycontribute, pathol ogycould feasiblybelimitedtocorticalareas.SOC=SuperiorOlivary
+Complex.
+etal.,2017 ;Ohmura etal.,2019 ;Wilson etal.,2017 ).Incases where
+such brain stem dysmorphologydoes exist,datafrom animalmodelssug-
+gests thatfewer inhibitory axonsprojectfrom variousareasoftheau-
+ditory brain stem totheIC(Lietal.,2003 ;Zimmerman etal.,2020 ).
+Asthecentralgain model typically posits increased spontaneous and
+sound -evoked activityintheICandhigher auditoryregions (Auerbach
+etal.,2014 ),aplausiblemodel ofcentralgain inautism would likely
+include similarenhance ments ofactivityinthese areas,brought on
+byhome ostaticadaptations toaberrant brain stem information trans-
+fer.Wethere forepropose amodel wherein structural abnormalitiesin
+theauditorybrain stem duringearly neurodevelopment leadtocompen-
+satory changes intheICandauditorycortexinautism, which resultin
+anoverallincrease incentralauditorygain andhyperacusissymp toms
+(Fig.1B).Asthepercept ofsubjectiveloudness (rather than sound in-
+tensity) isnotseem ingly represented untilauditorycortex(Behler and
+Uppenkamp, 2016 ;Langers etal.,2007 ;RöhlandUppenkamp, 2012 ;
+Schreiner andMalone, 2015 ;Uppenkamp andRöhl,2014 ),increased
+centralgain occurringonly incorticalstructures may alsoreasonably
+explain thephenomenonofhyperacusisinautism. Furtherresearch us-
+ingboth animalmodelsandhuman neuroimag ingisthus necessaryto
+validate thismodel, investigatingthepresence ofincreased centralau-
+ditorygaininautism ateitherthecorticalorsubcorticallevel.
+Analternativeexplanation forincreased centralauditory gain in
+autism isthepresence ofanimbalance intheratioofexcitatory and
+inhibitory neurotransmission(E/Iratio)inkeysubcorticalandcortical
+auditorystructures (McCullagh etal.,2020 ),leadingtoanoverallin-
+crease inactivityoftheIC,thalamus, and/orauditorycortex(Fig.1C).
+Such anincrease inE/Iratioisnotinconsistentwith theprevioushy-
+pothesisofbrain stem dysfunction, asanimbalanced E/Iratiocould fea-
+siblyserve asthecircuit-level substrate ofdecreased brain stem infor-
+mationtransferorthehome ostaticactivityup-regulationseen inthe
+ICand/orauditorycortex(McCullagh etal.,2020 ;Zimmerman etal.,2020 ).Furthermore, itisquite likely thatanincreased E/Iratioisre-
+sponsibleforincreases incentralgain seen inmodelsofhyperacusis
+elicited bysalicylates (G.-D.Chen etal.,2013 ;Gong etal.,2008 ;Luet
+al.,2011 ;W.Sunetal.,2009 )oracoustic trauma (Heeringa andvan
+Dijk, 2016 ;Maetal.,2020 ;Salvi etal.,2000 ;Scholl andWehr, 2008 ;
+WeiSunetal.,2012 ).
+Amodel ofincreased E/Iratiohaslong been posited asacom-
+mon finalpathwaytoexplain thecore features ofautism (Culotta and
+Penzes, 2020 ;Foss-Feigetal.,2017 ;Leeetal.,2017 ;Nelson andValakh,
+2015 ;Rubenstein andMerzenich, 2003 ;Sohal andRubenstein, 2019 )as
+wellassome associatedconditions such asepilepsy (Bozzi etal.,2018 ).
+Although some recent data have suggested that thisimbalance isan
+epiphe nomenonofautism rather than itsunderlyingcause (Antoine et
+al.,2019 ),thisdistinctionisirrelevant when determiningwhether E/I
+imbalance isresponsibleforhyperacusisandenhanced centralgain in
+some autisticindividuals.TheE/Iimbalance model wasfurther elab-
+orated byWard (2019) asapotentialexplanationforthewide range
+ofsensory features seen inautism. Inthisframe work, anincreased E/
+Iratioresults inboth anincreased signallevel butalsoincreased noise
+within aneural circuit’scomputations. Thus, agiven sensory stimu-
+luswillelicit astronger neural response, activatinglarger areasofcor-
+texandcorrespond ingtoamore intense (and inthecase ofhyper-
+acusis,louder) percept. Although evidence forthismodel ofsensory
+hyperreactivityismixed (Dickinson etal.,2016 ;Ward, 2019 ),there
+arenostudiesspecif ically investigatingtherelationshipofloudnesshy-
+peracusisandE/Iimbalance inhumans. Asinglestudy (Naples etal.,
+2020 )hasexamined therelationship between self-reported “auditory
+sensitivity”(asmeasured bytheGlasgow Sensory Questionnaire; A.E.
+Robertson andSimmons, 2013 )andE/Iimbalance (asmeasured by
+theHurst exponent oftherestingEEG power spectrum) inasample
+ofadults with andwithoutdiagnoses ofautism orschizophrenia,find-
+ingamoderatecorrelationbetween thetwometrics. Inaddition, co
+8
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+morbidepilepsy isassociated with DSTinautisticchildren (Lawetal.,
+2016 ),implicatingE/Iimbalance asapotentialcause ofboth co-occur-
+ringconditions. Furthermore, both rodent andhuman studiessuggest
+thatthephenotype ofDSTandincreased auditorycorticalactivityseen
+infragileXsyndrome (Ethridge etal.,2016 ;McCullagh etal.,2020 ;
+Rotschafer andRazak, 2013 )canbeattributed toanE/Iimbalance in
+auditory cortex(Ethridge etal.,2017 ;Lovelace etal.,2020 ;Wen et
+al.,2018 ).Given theplausibilityofE/Iimbalance asamech anism for
+centralauditorygain andhyperacusisinautism, futurestudiesonthis
+topic should incorporatehuman neuroimag ingmetricsofE/Ibalance
+(Bruining etal.,2020 ;Dickinson etal.,2016 ;Trakoshis etal.,2020 ),
+testingwhether psychoacousti cally-defined loudness growth isassoci-
+atedwith anexcessofexcitatoryneurotransmission.
+4.2.Model ofMisophonia: conditioned allocation ofexcess salience
+Incontrast tohyperacusis,there hasbeen relatively littleresearch
+seekingtounderstand thepatho logicalbasisofmisophoniainnon-autis-
+ticindividuals.Based onneurophysiologic modelsoftinnitusandhy-
+peracusis,Jastreboff andJastreboff (2014 ,2015) proposed amodel of
+misophonia/phono phobia(considered tobethesame construct intheir
+frame work) inwhich theprocessingoflow-level auditoryinformation
+isintact, but“thefunctional connections between theauditoryandthe
+limbicandautonomic nervous systems areenhanced forspecific pat-
+terns ofsound, ”(P.J.Jastreboff andJastreboff, 2014, p.111).This
+model suggests thattheaversiveresponses tosounds seen inmisopho-
+niaaredeveloped andmain tained, atleast inpart, byassociativelearn -
+ingmech anisms, andthusthatthebrain areasmost likely implicated in
+misophoniaarethose involved inemotion, memory,andlearn ing(Brout
+etal.,2018 ).Sofar,asmall numberofstudieshave beguntovalidate
+parts ofthismodel. Forinstance, itisnow fairly well established that
+individualswith misophoniahave normalhearingacuity(Jager etal.,
+2020 )andthatexposuretomisophonic triggersinduces adegreeofau-
+tonomic arousal greater than thatseen inhealthy controls (Edelstein et
+al.,2013 ;Kumar etal.,2017 ;Schröderetal.,2019 ).Furthermore, pre-
+liminary neuroimag ingstudiesofmisophoniaindicatethatmisophonic
+triggers elicit intense emotional responses that arecoupled with hy-
+peractivationofanteriorinsularcortex(Kumar etal.,2017 ;Schröder
+etal.,2019 ),akeynode ofthebrain ’ssalience network (Menon and
+Uddin, 2010 ;Uddin, 2015 ).Oneofthese studiesalsoinvestigated func-
+tional connectivityoftheanteriorinsula duringthepresentation of
+misophonic triggersounds (Kumar etal.,2017 ),findinganincrease
+inconnectivitybetween theinsulaandventromedialprefrontal cortex,
+posteromedialcortex,hippocam pusandamyg dala, limbicregions in-
+volved inemotional processingandregulation. Thus, while misophonic
+reactions arelikely mediated inpartbythelimbicsystem, theprimary
+process atwork may instead betheattributionofexcessivesalience to
+specificsounds.
+Theattributionofsalience tospecific auditorystimuliisanimpor-
+tantneurocog nitiveprocess thatallows individualstoefficiently focus
+attentiononimportantenvironmentalsignals(e.g., afirealarm orpolice
+siren) andtoenactatimely behavioral response (Huang andElhilali,
+2017 ;Kaya andElhilali, 2017 ).Ofparticularnote, thehuman audi-
+tory systemhasbeen evolutionarilyprimed todetectandrespond to
+thecries ofouryoung (Arnal etal.,2015 ;Soltis, 2004 ),andthus, the
+acoustic propertiesofaninfant’scrycause thissound tobeexception-
+allysalient. Usingacoustic analy sis,psychophys icalexperiments, and
+neuroimag ing,Arnal etal.(2015) demon strated thatawide range of
+naturalandartificialalarm signals(includinghumanscreams, airhorns,
+andsports arena buzzers) allcontain amplitude modulations inthe
+30–150Hzrange, which correlatewith thepsychoacoustic attribute of
+rough ness (seealsoTrevor etal.,2020 ).Therough ness ofasound is
+highly predictiveofitssalience andsubjectiveaversiveness (Arnal et
+al.,2015 ,2019 ;Zhao etal.,2019 ),andindividualscanlocalizeroughstimuliboth more quickly andmore accurately than other sounds (Arnal
+etal.,2015 ).Notably, theperception ofrough sounds isassociated
+with unique patterns ofbrain activity,includingthesynchronization
+oflarge-scale salience -related networks that include superiortempo-
+ralregions, subcorticalandcorticallimbicareas,frontal areas(e.g.,
+inferiorfrontal gyrus, orbitofrontal cortex), andinsularcortex(Arnal
+etal.,2019 ).Aspreliminary neuroimag ingstudiesimplicate many of
+these areasinthepatho physiologyofmisophonia(Kumar etal.,2017 ;
+Schröderetal.,2019 ),wehypothesizethatmisophoniaischaracterized
+bydysfunctional hyperactivationofthisspecialized “auditorysalience
+detection”network, causingindividualswith misophoniatocategorize
+anumberofevery daysounds asdisproportionately salient andaversive.
+Inaddition toneuroimag ingstudies,severalother factorssuggest
+thataninappropriateattributionofsalience toauditory stimulicould
+lieattheheart ofmisophonia.Subjectively, patients with misophonia
+routinely describe anintense hyper-focusontheir varioustriggerstim-
+uli(daSilva andSanchez, 2019 ;Edelstein etal.,2013 ;Osuagwu etal.,
+2020 ;Schröderetal.,2017 ),which mayserve tofurtheramplify theal-
+ready intense emotional reactions elicited bythose stimuli.More over,
+inthefirstpublished study tosystematically evaluatecognitivebehav-
+ioral therapyinmisophonia,Schröderetal.(2017) targeted hyper-fo-
+cusontriggersounds asacore symp tomofmisophoniainadditionto
+thepatients ’negativeemotional reactions (seealsoAazh etal.,2019 ).
+Thepotentialinteractions between hyper-focusontriggers, intense emo-
+tional experiences, andautonomic arousal canbefurtherexplained by
+thelarge degree offunctional overlapbetween neural circuits respon-
+sibleforsympathetic arousal, emotion, andsalience detection(Beissner
+etal.,2013 ).Asthesalience ofanauditorystimulusishighly associ-
+ated with itsperceived emotional intensity(Anikin, 2020 ),itisquite
+possiblethattheintense negativeemotional reactions seen inmisopho-
+niacould becoupled with anover-activationofsalience neurocircuitry,
+along with associated projections tolimbicareas.More over, asaudi-
+torysalience attributionisremark ably contextdependent (Huang and
+Elhilali, 2017 ),asalience mech anism helps account forthevariablere-
+actions thatindividualswith misophoniacanhave tothesame stimulus
+across differentsituations. Furthermore, theinabilityofself-produced
+sounds totriggeramisophonic reactioncanpotentially beexplained
+bythereduced salience attributed toself-generated stimuli,aphenom-
+enonknown asself-suppression(Hughes etal.,2013 ;Whitford, 2019 ).
+Like other authors, wecontend thattheidiosyncratic natureofmiso-
+phonic triggers istheresultofeach individual’sunique learn inghis-
+tory; however, assome sounds have been reported totriggerthevast
+majorityofindividualswith misophonia(e.g., chew ing,nasal/ breath ing
+sounds; Jager etal.,2020 ),wealsobelieve thatsome acoustic property
+ofthese sounds preferentially activates theafore mentioned salience at-
+tributionneurocircuitry inpersonswith misophonia,increas ingthelike-
+lihood thatagiven individualwillfindthem aversive.
+With regard totheneural underpinnings ofmisophonia,wehave
+noapriorireasontoexpect thatthepatho physiologyofthiscondition
+would differinautisticandnon-autisticindividuals.More over, thein-
+sulaandsalience network have been heavilyimplicated inthepathol -
+ogyofautism (Nomi etal.,2019 ;Uddin, 2015 ),andchanges ininsular
+structure/ functionmaycontribute toahigher rateofmisophoniainin-
+dividualsontheautism spectrum. This hypothesisisfurthersupported
+byneuroimag ingstudiesinautisticchildren thatindicatethatnonspe-
+cific (auditory-tactile) sensory hyperreactivityisrelated toincreased
+resting-state connectivitybetween thesalience network andamyg dala
+(Green etal.,2016 ;Green andWood, 2019 ).This findingalsoraises
+thequestionofwhether theintolerance ofstimuliinother modal ities
+seen inautism could similarly beattributed tothemech anism ofexces-
+sivesalience attribution. Additional research isnecessarytounderstand
+themannerinwhich thesalience network contributes tosensory pro
+9
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+cessingabnormalitiesinautism, particularly inthecontextofcomorbid
+misophonia.
+4.3.Model ofphonophobia: pathological fearlearning andextinction
+Asaform ofspecific phobia,theneurobiologicalunderpinnings of
+phono phobiaarefarmore established than those ofeither hyperacu-
+sisormisophonia.Alarge body ofresearch hasbeen published onthe
+neural correlates offearconditioningandanxietydisorders(Chavanne
+andRobinson, 2020 ;Garcia, 2017 ;Herry andJohansen, 2014 ;Ipser
+etal.,2013 ;LeDoux etal.,2017 ;Tovote etal.,2015 ),aswell asthe
+ways inwhich auditorystimuliacquire affectivevalence (Frühholz et
+al.,2016 ).While acomprehensiveoverview ofboth topicsisbeyond the
+scope ofthisreview, weseek tointegrate these twolines ofresearch
+intoaneurocog nitivemodel ofphono phobia,which canbeapplied to
+autisticaswellasnon-autisticindividuals.
+Thepredominant neurocircuitry involved infearandfearcondition-
+ingcentersonconnections within andbetween nucleioftheamyg dala,
+hippocam pus, andmultipleareasofmedialprefrontal cortex,includ-
+inganteriorcingulatecortex(ACC) andventromedialprefrontal cortex
+(vmPFC; Chavanne andRobinson, 2020 ;Fullana etal.,2020 ;Tovote et
+al.,2015 ).Theamyg dalaisessentialfortheacquisition, storage,andex-
+pressionoflearned fearassociations, servingasamajorhubinanumber
+offear-andanxiety-related neural circuits (LeDoux, 2000 ).Addition-
+ally,theamyg dalaishighly connected toauditoryareasofthethalamus
+andcortex(Frühholz etal.,2016 ;Frühholz andStaib, 2017 ;LeDoux
+etal.,1991 ),andduringsound processing,theamyg dala isimplicated
+inboth themodulationofauditory corticalactivity(Aizenberg etal.,
+2019 )andencodingmultiplefeatures ofthesound stimulus,including
+itsperceived aversiveness(Kumar etal.,2012 ;Viinikainen etal.,2012 ).
+This hippocam pusisprimarilyinvolved inthelearn ing,storage, and
+retrieval offearmemories, aswell asinhibitingtheretrieval ofthese
+memoriesinspecificcontexts. TheACC, which plays aroleinassessing
+thesalience ofastimulusandregulatingemotional responsiveness, has
+been associatedwith theexpressionofconditioned fearresponses (Ipser
+etal.,2013 ).Viaconnections with theanteriorinsula, theACC also
+makes uppartofa“centralautonomic –interoceptivenetwork, ”which is
+responsibleforintegratingrepresentations ofone’scognitive, affective,
+andphysicalstate tofacilitatehome ostaticautonomic andbehavioral
+responses (Fullana etal.,2016 ).ThevmPFC plays aroleintheinhibi-
+tionofthreat expressionbydown regulatingamyg dalaactivity(Fullana
+etal.,2020 ),andthisregion isalsoimplicated inthegeneration, stor-
+age,andretrieval of“safety ”signals(i.e., extinctionmemories;Fullana
+etal.,2016 ;Milad andQuirk, 2012 ).Work inginconcert, thisfearcon-
+ditioningnetwork serves toevaluatethecontentofastimuluswithin the
+currentcontext, triggeringdown stream signalsof“danger”or“safety ”
+andprimingtheindividualtoenactanappropriatebehavioral response.
+Although appropriatefearlearn ingiskeytosurvival, dysfunctional
+fearneurocircuitry canleadtophobias, inwhich thefearexperienced by
+anindividualisdisproportionatetoanypotentialdanger.Neuroimag -
+ingstudieshave indicated thatspecific phobiaisassociated with hy-
+peractivation oftheamyg dala andinsularcortexwhen exposed to
+aphobicstimulus(Ipser etal.,2013 ),seem ingly indicatingthat the
+salience andsubjectiveaversiveness ofthestimulusareboth exagger-
+ated inthiscondition. Asafearofloud noises iscommon duringde-
+velopment (Meltzer etal.,2009 ;Ollendick etal.,2002 ),phono phobia
+isconsidered anonexperientialornonas sociativephobia(i.e., apho-
+bianotdeveloped through directexperience with thephobicobject;
+Garcia, 2017 ;Poulton andMenzies, 2002 ).While forthemajorityof
+children, thefearofloud noises istransient, there existsasmall group
+ofindividualsinwhom these fears intensifyover time rather than resolving,potentially duetoagenetic vulnerability(Muris etal.,2002 ).
+Accordingtoarecent model proposed byGarcia (2017) ,nonexperien-
+tialphobias aregenerated andmain tained byboth asensitizationof
+thefearresponse andadeficit infearextinctionlearn ing,resultingin
+overly exaggerated initialfearresponses andapersistence oftheirra-
+tional feardespite nontraumatic exposure tothefeared stimulus.This
+sensitized fearresponse islikely duetohyperactiveamyg dalaresponses
+toloud noises, which could resultfrom baselinedifferences intheex-
+tentofsound -evoked auditorycorticalactivity,amyg dala E/Ibalance,
+orauditory-limbicconnectivity.Individualswith hyperacusisinpartic-
+ularmay findspecific sounds extremely painful oraversive, leadingto
+asimilaravoidant phenotype seen inchronic pain patients with high
+levelsofpain anxiety(Greenberg andBurns, 2003 ).Inadditiontothis
+sensitized fearresponse, individualswith specificphobiasdisplaypersis-
+tentamyg dala activitytorepeated stimulationthatdoes nothabituate
+effectively (Garcia, 2017 ).Aninabilitytohabituatetorepeated expo-
+sures likely indicates anunderlyingdeficit intheabilitytoencode the
+“safety ”signalnecessarytoextinguish alearned fearresponse. Thus, ab-
+normalitiesinneurocircuitry involved infearextinction, includingthe
+vmPFC andhippocam pus(Fullana etal.,2016 ),likely play arolein
+thepatho logicalpersistence ofphobicresponses. Additionally, theex-
+tinctionprocess may behindered inpatients with hyperacusis,whose
+adverse reactions toloud and/orpainful sounds may serve toreinforce
+their maladaptiveresponses tophobicstimuli.
+Although thismodel ofphono phobiaisequally applicabletoautis-
+ticandnon-autisticindividuals,neuroimag ingstudiesofautism pro-
+vide further evidence ofitsutilityinthispopulation. Autis ticchil-
+dren andadolescents display elevated amyg dala activityinresponse
+tomildly aversive auditory stimuli(Green etal.,2013 ,2015 ),with
+stronger amyg dalaactivationpredictinghigher levelsofparent-reported
+sensory hyperreactivity(Green etal.,2013 ,2015 ).Inaddition, autis-
+ticindividualswith high levelsofsensory hyperreactivitydemon strate
+reduced amyg dala habituationover repeated presentations ofauditory
+andtactilestimuli(Green etal.,2015 ,2019 ),which isthought toresult
+from altered functional connectivityoftheamyg dalawith prefrontal re-
+gions (Green etal.,2015 ,2019 ).These findingsprovidepreliminary ev-
+idence thatthepatternofneural activityelicited bysensory stimuliin
+autisticindividualsmaybealtered insuch awayastopredispose these
+individualstodevelopingspecificphobias, includingphono phobia.This
+hypothesisisfurthersupported byclinicalstudiesdemon stratingcorre-
+lations between self/parentreports ofsensoryhyperreactivityandanx-
+ietysymp toms inautisticchildren andadults (Glod etal.,2015 ;Y.I.J.
+Hwang etal.,2020 ;Neiletal.,2016 ,2017 ;Pickard etal.,2020 ;Syu
+andLin,2018 ;Wigham etal.,2015 ),with particularly strong relation-
+ships between sensoryhyperreactivityandsymp toms ofspecificphobia
+(Bitsika etal.,2016 ;Black etal.,2017 ;MacLennan etal.,2020 ).Lon-
+gitudinalstudiesfurther indicate thatincreased sensory hyperreactiv-
+ityearly indevelopment ispredictiveoflater anxietysymp toms, both
+inautisticchildren andthegeneralpopulation(Carpenter etal.,2019 ;
+Green etal.,2012 ).This body ofresearch generallysupports thethe-
+orythathyperreactivitytosensorystimuliinautism may contribute to
+thehigh rates ofanxietydisorders seen inthispopulation(Green and
+Ben-Sasson, 2010 ;Kerns etal.,2016 ;McVey, 2019 ;Muskett etal.,2019 ;
+South andRodgers, 2017 ).However, assensory reactivitytodate has
+primarilybeen measured usingparentreports ofachild’sobservable
+behaviors, itremains possiblethatmany aversiveresponses tosensory
+stimuliareactuallythemanifestations ofspecificphobia(Koegel etal.,
+2004 ).Additional research relatingobserved sound intolerance behav-
+iors, psychoacoustic loudness growth, andphono phobiasymp toms is
+thus necessary toclarifytherelativecontributions ofhyperacusisand
+phono phobiatotheobservablephenotypeofDSTinautism.
+10
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+5.Conclusion andfuture directions
+Based onourreview oftheliteratureonDSTinautism, itislikely
+thatautisticindividualswith DSTpresentwith awide range ofsubjec-
+tivecomplaints, includinghyperacusis,misophonia,andphono phobia.
+Evidence from personal accounts, behavioral studies,andpsychophys -
+icaltests alltend tosupport thenotionthatautisticpeoplefrequently
+perceive every daysounds asunbearablyloud orpainful, suggestingthat
+asubstantialportionofDST behaviorscanbeexplained bythepres-
+ence ofhyperacusis.Inaddition, many autisticchildren andadults ex-
+hibit clinically significantanxietydirected towards specificsounds (i.e.,
+phono phobia), which mayarise onitsownorsecondary tohyperacusis.
+However, theinterplay between hyperacusisandphono phobiahasnot
+been studiedinautism, anditremains unclear whether these conditions
+arecomorbidinthemajorityofcases. Lastly, while much lessresearch
+hasexamined theoverlapofmisophoniaandautism, there ismoder-
+ateevidence tosuggestthataminorityofautisticindividualswith DST
+complaints likely meet diagnosticcriteriaformisophonia,regardlessof
+whether hyperacusisispresent.
+InadditiontodescribingthephenomenologyofDSTinautism, we
+propose neurocog nitivemodelstoexplain each subtype ofDSTandits
+occurrence inpeopleontheautism spectrum. Although hyperacusisin
+non-autisticindividualsistypically associated with cochlear damage,
+weinstead hypothesizethat analteration inthesubcorticalprocess-
+ingofauditoryinformationleads toenhanced centralauditorygain, re-
+sultinginthesame sound -evoked auditorycortexhyperactivityseen in
+patients with tinnitusandhyperacusis.Asopposed toourautism -spe-
+cificmodel ofhyperacusis,webelieve thattheneurocog nitiveprocesses
+leadingtomisophoniaandphono phobiaarethesame regardlessofthe
+presence ofautism, although certainneurobiologicalalterations seen
+inautism may predispose autisticindividualstothese conditions. We
+propose thatmisophoniaisadisorderofexcessivesalience attribution,
+inwhich neural machinerytodetectevolutionarilyimportantstimuli
+isabnormally sensitivetotheacoustic propertiesofcertainrepet itive
+sounds, causingwidespread neuronal synchronizationthatresults ina
+disproportionateemotional andautonomic response. This misophonic
+reactionbecomes associatedwith the“trigger”stimulusthrough associa-
+tivelearn ingmech anisms, potentially generalizingtoother stimuliover
+time. Similarly, wehypothesizethatphono phobiaresults from patho -
+logicalfear learn ing,includinganabnormally strong initialfear re-
+sponse toaversivesound stimuliandafailuretoextinguish thisresponse
+inthepresence ofnon-threat eningstimuli.Ourmodel furthersuggests
+thathyperacusisstrongly predisposes anindividualtophono phobia,as
+aversivereactions toloud orpainful sounds sensitizetheamyg dala to
+these stimuli,reinforcingandmain tainingthefearresponse inthepres-
+ence ofrepeated sound exposures. Though wefindpreliminary support
+forthese explana torymodelsintheautism literature, additional behav-
+ioral, psychophys ical,andneuroimag ingresearch isnecessary tovali-
+date model predictions andfurtherrefinetheproposed DSTconstructs.
+Bydevelopingthistheoreticalframe work, wehope tosetthestage for
+futureresearch onDSTinautism, encouragingthefield tomove beyond
+descriptivescience andintoanew eraofhypothesis-driveninvestiga-
+tions andmech anism-based therapeuticdevelopment.
+Although thiswork represents amajorstep forward inconceptu-
+alizingDST inautism, substantially more research inthisarea isnec-
+essary toimprove ourtheoreticalunderstand ingofthisconstruct and
+itsmech anisticunderpinnings. Thebody ofliteraturedescribingDSTin
+autism islimitedbyvariable andinconsistentterminologyandaten-
+dency togroup hyperacusis,misophonia,andphono phobiasymp toms
+together into theconstruct of“auditory over-responsiveness.”More -
+over, nostudy simultaneously assesses multipletypes ofDST inindividualsontheautism spectrum, makingitdifficulttodetermine the
+relativecontributions ofhyperacusis,misophonia,andphono phobiato
+DST inthispopulation. Perhaps most importantly, themost widely
+used measures ofsensoryresponsivenessinautisticchildren andadults
+(DuBois etal.,2017 ;Jorquera -Cabrera etal.,2017 ;Williams etal.,
+2018 )donoteffectively differentiatebetween DST subtypes, substan-
+tially limitingtheinferences thatcanbemade about DST usingthese
+tools. Importantfuturedirections inthisareaofresearch include (a)the
+abandonment of“auditory over-responsiveness”andgeneralized sen-
+sory hyperreactivityasunitary constructs, (b)theestablishment ofa
+common nomen clatureforDSTconditions across disciplines, (c)thede-
+velopment andvalidationofnovel DST questionnaires with adequate
+contentcoverageofhyperacusis,misophonia,andphono phobia,(d)the
+simultaneousassessment ofallDST subtypes andtheir developmental
+trajectoriesinautisticindividuals,(e)theinvestigationofDSTinrela-
+tiontoother sensoryfeatures ofautism, such ashyporeactivityandsen-
+soryseeking,(f)thecomparisonofpsychoacoustic andneurophysiologic
+indices ofauditoryprocessingbetween groups ofindividualswith each
+form ofDST, and(g)theevaluationofcandidate interventions specif i-
+cally targetingindividualDSTsubtypes incontrolled clinicaltrials.By
+partitioningDSTintothedistinct conditions ofhyperacusis,misophonia,
+andphono phobia,wecanreduce theheterogeneityinherentinautism
+andpotentially derivesubgroups ofautisticindividualswho differin
+neuropathol ogy,clinicalcourse, orresponse totreatment (Feczko etal.,
+2019 ;Harris, 2019 ;Uljarevi ćetal.,2017 ).
+Uncited reference
+Declaration ofCompeting Interest
+ZJW hasreceived consultingfeesfrom Roche. Heisalsoamember
+oftheFamilyAdvisory CommitteeoftheAutism Speaks Autism Treat -
+ment Network siteatVanderbiltUniversityandtheAutis ticResearcher
+Review Board oftheAutism InterventionResearch Network onPhysical
+Health (AIR-P).Theremain ingauthors declare nocompetinginterests,
+financialorotherwise.
+Acknowledgements
+This work was supported byNational Institute onDeafness and
+Other CommunicationDisorders grant F30-DC019510, National Insti-
+tuteofGeneralMedicalSciences grant T32-GM007347 (ZJW) ,andthe
+Nancy Lurie Marks familyfoundation(ZJW/ TGW). Theauthors would
+liketothank Patrick Dwyer, Jane Burton,andIraKraemerfortheir help-
+fulcomments onearlierversions ofthismanuscript.
+References
+Aazh ,H.,Landgrebe ,M.,Danesh ,A.A.,Moore ,B.C.J. ,2019. Cognitivebehavioral therapy
+foralleviatingthedistress caused bytinnitus,hyperacusisandmisophonia:current
+perspectives.Psychol. Res. Behav. Manag. 12,991–1002 .https: //doi.org/10.2147/
+PRBM. S179138 .
+Aizen berg,M.,Rolón-Martínez,S.,Pham ,T.,Rao,W.,Haas,J.S.,Geffen,M.N.,2019. Pro-
+jectionfrom theamyg dala tothethalamicreticularnucleus amplifiescorticalsound
+responses .CellRep. 28(3),605–615.https: //doi.org/10.1016/ j.celrep. 2019. 06.050,
+e4.
+Alcántara ,J.I.,Cope ,T.E.,Cope ,W.,Weisblatt,E.J.,2012. Auditory temporal-enve-
+lope processinginhigh-functioningchildren with autism spectrum disorder.Neu-
+ropsy cholo gia50(7),1235 –1251 .https: //doi.org/10.1016/ j.neuropsychologia. 2012.
+01.034.
+Amer icanPsychiatric Association,2013. DiagnosticandStatisticalManualofMental
+Disorders(DSM -5®),5thed.Amer icanPsychiatric AssociationPublishing.
+Amir ,I.,Lamer ton,D.,Montague ,M.-L.,2018. Hyperacusisinchildren: theEdinburgh
+experience.Int.J.Pediatr.Otorhi nolaryn gol.112,39–44.https: //doi.org/10.1016/ j.
+ijporl. 2018. 06.015.
+Anari ,M.,Axelsson,A.,Eliasson,A.,Magnusson,L.,1999. Hypersensitivitytosound: ques-
+tionnaire data, audiom etryandclassification.Scand. Audiol. 28(4),219–230.https:
+//doi.org/10.1080/ 010503999424653 .
+Anikin ,A.,2020. Thelinkbetween auditorysalience andemotionintensity.Cogn. Emot.
+1–14.https: //doi.org/10.1080/ 02699931. 2020. 1736992 .
+11
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Antoine ,M.W. ,Langberg,T.,Schne pel,P.,Feldman,D.E.,2019. Increased excitation-in-
+hibitionratiostabilizes synapse andcircuitexcitabil ityinfourautism mouse models.
+Neuron101(4),648–661.https: //doi.org/10.1016/ j.neuron. 2018. 12.026,e4.
+Arnal,L.H.,Flinker ,A.,Klein schmidt ,A.,Giraud,A.-L.,Poeppel,D.,2015. Humanscreams
+occupy aprivileged niche inthecommunication sound scape .Curr. Biol. 25(15),
+2051 –2056 .https: //doi.org/10.1016/ j.cub.2015. 06.043.
+Arnal,L.H.,Klein schmidt ,A.,Spinelli ,L.,Giraud,A.-L.,Mégevand ,P.,2019. Therough
+sound ofsalience enhances aversionthrough neural synchronisation.Nat. Commun.
+10(1),3671 .https: //doi.org/10.1038/ s41467 -019-11626 -7.
+Ashke nazi,A.,Mush taq,A.,Yang ,I.,Oshinsky,M.L.,2009. Ictalandinterictalphono pho-
+biainmigraine —aquantitativecontrolled study .Cepha lalgia29(10),1042 –1048 .
+https: //doi.org/10.1111/ j.1468 -2982. 2008. 01834. x.
+Auerbach,B.D.,2019. Physiologicalmech anisms ofhyperacusis:anupdate.ENT Audiol.
+News 27(January(6))https: //www. entandaudiologynews. com/ features/ audiology -
+features/ post/ physiological -mechanisms -of-hyperacusis -an-update .
+Auerbach,B.D.,Rodrigues ,P.V.,Salvi,R.J.,2014. Centralgaincontrolintinnitusandhy-
+peracusis.Front. Neurol.5(6),206.https: //doi.org/10.3389/ fneur. 2014. 00206 .
+Auerbach,B.D.,Radzi won,K.,Salvi,R.,2019. Testingthecentralgain model: loudness
+growth correlates with centralauditorygain enhance ment inarodent model ofhy-
+peracusis.Neuroscience 407,93–107.https: //doi.org/10.1016/ j.neuroscience. 2018.
+09.036.
+Ausderau ,K.,Sideris ,J.,Furlong,M.,Little,L.M.,Bulluck,J.,Baranek ,G.T.,2014. Na-
+tional surveyofsensoryfeatures inchildren with ASD: factorstructureofthesensory
+experience questionnaire (3.0).J.Autism Dev. Disord.44(4),915–925.https: //doi.
+org/10.1007/ s10803 -013-1945 -1.
+Baguley,D.M.,McFerran,D.J.,2011. Hyperacusisanddisorders ofloudness perception.
+In:Møller,A.R.,Langguth ,B.,DeRidder,D.,Klein jung,T.(Eds.), Textbook ofTinni-
+tus.Springer ,pp.13–23.https: //doi.org/10.1007/ 978-1-60761 -145-5_3.
+Beers ,A.N.,McBoyle ,M.,Kakande ,E.,DarSantos,R.C.,Kozak ,F.K.,2014. Autism and
+peripheralhearingloss:asystematicreview.Int.J.Pediatr.Otorhi nolaryn gol.78(1),
+96–101.https: //doi.org/10.1016/ j.ijporl. 2013. 10.063.
+Behler ,O.,Uppenkamp ,S.,2016. Therepresentationoflevel andloudness inthecen-
+tralauditory systemforunilateralstimulation.NeuroImage139,176–188.https: //
+doi.org/10.1016/ j.neuroimage. 2016. 06.025.
+Behler ,O.,Uppenkamp ,S.,2020. Activationinhuman auditorycortexinrelationtothe
+loudness andunpleas antness oflow-frequency andinfrasound stimuli.PLoS One15
+(2),e0229088 https: //doi.org/10.1371/ journal. pone. 0229088 .
+Beissner,F.,Meiss ner,K.,Bär,K.-J.,Napadow ,V.,2013. Theautonomic brain: anacti-
+vationlikelihood estimationmeta-analy sisforcentralprocessingofautonomic func-
+tion.J.Neurosci. 33(25),10503 –10511 .https: //doi.org/10.1523/ JNEUROSCI. 1103 -
+13.2013 .
+Belojević,G.,Öhrström,E.,Rylander,R.,1992. Effects ofnoise onmentalperformance
+with regard tosubjectivenoise sensitivity.Int.Arch. Occup. Environ.Health 64(4),
+293–301.https: //doi.org/10.1007/ BF00378288 .
+Bemporad,J.R.,1979. Adult recollections ofaformerly autisticchild.J.Autism Dev. Dis-
+ord.9(2),179–197.https: //doi.org/10.1007/ BF01531533 .
+Bennetto ,L.,Keith ,J.M.,Allen ,P.D.,Luebke,A.E.,2017. Children with autism spec-
+trum disorderhave reduced otoacoustic emissions atthe1kHzmid‐frequency region.
+Autism Res.10(2),337–345.https: //doi.org/10.1002/ aur.1663 .
+Ben-Sasson,A.,Hen,L.,Fluss,R.,Cermak,S.A.,Engel-Yeger ,B.,Gal,E.,2009. A
+meta-analy sisofsensory modulationsymp toms inindividualswith autism spectrum
+disorders.J.Autism Dev. Disord.39(1),1–11.https: //doi.org/10.1007/ s10803 -008-
+0593 -3.
+Ben-Sasson,A.,Gal,E.,Fluss,R.,Katz-Zetler ,N.,Cermak,S.A.,2019. Update ofa
+meta-analy sisofsensorysymp toms inASD: anewdecade ofresearch .J.Autism Dev.
+Disord.49(12),4974 –4996 .https: //doi.org/10.1007/ s10803 -019-04180 -0.
+Bitsika,V.,Sharp ley,C.F.,Mills,R.,2016. How aresensoryfeatures associatedwith seven
+anxietydisorders inboys with autism spectrum disorder?.Int.J.Dev. Neurosci. 50
+(1),47–54.https: //doi.org/10.1016/ j.ijdevneu. 2016. 03.005.
+Black ,K.R.,Steven son,R.A.,Segers ,M.,Ncube ,B.L.,Sun,S.Z.,Philipp -Muller ,A.,Bebko,
+J.M.,Barense ,M.D.,Ferber,S.,2017. Linkinganxietyandinsistence onsame nessin
+autisticchildren: theroleofsensory hypersensitivity.J.Autism Dev. Disord.47(8),
+2459 –2470 .https: //doi.org/10.1007/ s10803 -017-3161 -x.
+Blaesing ,L.,Kroener -Herwig,B.,2012. Self-reported andbehavioral sound avoid ance in
+tinnitusandhyperacusissubjects, andassociationwith anxietyratings.Int.J.Audiol.
+51(8),611–617.https: //doi.org/10.3109/ 14992027. 2012. 664290 .
+Bonnel,A.,McAdams ,S.,Smith ,B.,Berthi aume ,C.,Bertone ,A.,Ciocca ,V.,Burack,
+J.A.,Mottron,L.,2010. Enhanced pure-tone pitch discriminationamong personswith
+autism butnotAsperger syndrome .Neuropsy cholo gia48(9),2465 –2475 .https: //doi.
+org/10.1016/ j.neuropsychologia. 2010. 04.020.
+Bozzi ,Y.,Proven zano,G.,Casarosa ,S.,2018. Neurobiologicalbases ofautism –epilepsy
+comorbidity:afocusonexcitation/ inhibition imbalance.Eur. J.Neurosci. 47(6),
+534–548.https: //doi.org/10.1111/ ejn.13595 .
+Brandy ,W.T.,Lynn,J.M.,1995. Audiologic findingsinhyperacusicandnonhyperacusic
+subjects.Am.J.Audiol. 4(1),46–51.https: //doi.org/10.1044/ 1059 -0889. 0401. 46.
+Brinkert ,J.,Remington,A.,2020. MakingSense ofthePerceptualCapacitiesinAutis -
+ticand Non-Autis ticAdults.Autism https: //doi.org/10.1177/ 1362361320922640 ,
+1362361320922640 .
+Brout ,J.J.,Edelstein,M.,Erfanian,M.,Mannino,M.,Miller ,L.J.,Rouw ,R.,Kumar,S.,
+Rosen thal,M.Z.,2018. Investigatingmisophonia:areview oftheempiricalliterature,
+clinicalimplications, andaresearch agenda .Front. Neurosci. 12,373.https: //doi.org/
+10.3389/ fnins. 2018. 00036 .
+Bruining,H.,Hardstone ,R.,Juarez -Martinez,E.L.,Sprengers ,J.,Avramiea ,A.-E.,Sim-
+praga ,S.,Houtman,S.J.,Poil,S.-S.,Dallares,E.,Palva ,S.,Oranje ,B.,MatiasPalva ,J.,
+Mans velder ,H.D.,Linkenkaer -Hansen ,K.,2020. Measurement ofexcitation-inhibition
+ratioinautism spectrum disorderusingcriticalbrain dynamics.Sci.Rep. 10(1),9195 .
+https: //doi.org/10.1038/ s41598 -020-65500 -4.
+Bury,S.M.,Jellett,R.,Spoor ,J.R.,Hedley,D.,2020. “Itdefines who Iam”or“it’ssome -
+thing Ihave”:whatlanguage do[autis tic]Australian adults [ontheautism spectrum]
+prefer?.J.Autism Dev. Disord.https: //doi.org/10.1007/ s10803 -020-04425 -3.Buus,S.,Florentine,M.,Redden,R.B.,1982. TheSISItest:areview: partI.Audiology21
+(4),273–293.https: //doi.org/10.3109/ 00206098209072744 .
+Carpenter,K.L.H. ,Baranek ,G.T.,Copeland ,W.E.,Comp ton,S.,Zucker ,N.,Dawson,G.,
+Egger,H.L.,2019. Sensoryover-responsivity:anearly riskfactorforanxietyandbe-
+havioral challenges inyoung children.J.Abnorm. Child Psychol. 47(6),1075 –1088 .
+https: //doi.org/10.1007/ s10802 -018-0502 -y.
+Carter ,J.,Broder -Fingert,S.,Neumeyer ,A.,Giauque ,A.,Kao,A.,Iyasere ,C.,2017. Brief
+Report: meetingtheneeds ofmedically hospitalized adults with autism: aprovider
+andpatient toolkit .J.Autism Dev. Disord. 47(5),1510 –1529 .https: //doi.org/10.
+1007/ s10803 -017-3040 -5.
+Cascio,C.J.,Woynaroski ,T.,Baranek ,G.T.,Wallace,M.T.,2016. Toward aninterdiscipli-
+nary approach tounderstand ingsensoryfunctioninautism spectrum disorder.Autism
+Res.9(9),920–925.https: //doi.org/10.1002/ aur.1612 .
+Cesaroni,L.,Garber,M.,1991. Exploringtheexperience ofautism through firsthand
+accounts .J.Autism Dev. Disord. 21(3),303–313.https: //doi.org/10.1007/
+BF02207327 .
+Chavanne ,A.V.,Robin son,O.J.,2020. Theoverlapping neurobiologyofinduced and
+patho logicalanxiety:ameta-analy sisoffunctional neural activation.Am.J.Psychia-
+tryhttps: //doi.org/10.1176/ appi.ajp.2020. 19111153 ,appi.ajp.2020.19111153 .
+Chen ,G.-D.,Stolzberg ,D.,Lobarinas,E.,Sun,W.,Ding,D.,Salvi,R.,2013. Salicylate-in-
+duced cochlear impairments, corticalhyperactivityandre-tuning,andtinnitus.Hear.
+Res.295,100–113.https: //doi.org/10.1016/ j.heares. 2012. 11.016.
+Chen ,Y.-C.,Li,X.,Liu,L.,Wang ,J.,Lu,C.-Q.,Yang ,M.,Jiao,Y.,Zang,F.-C.,Radzi -
+won,K.,Chen ,G.-D.,Sun,W.,Mutha iah,V.P.K. ,Salvi,R.,Teng,G.-J.,2015. Tinni-
+tusandhyperacusisinvolve hyperactivityandenhanced connectivityinauditory-lim-
+bic-arousal -cerebellarnetwork .ELife 4,e06576 https: //doi.org/10.7554/ elife.06576 .
+Chin,R.Y.,Moran ,T.,Fenton,J.E.,2013. Theotologicalmanifestations associated with
+autisticspectrum disorders.Int.J.Pediatr.Otorhi nolaryn gol.77(5),629–634.https:
+//doi.org/10.1016/ j.ijporl. 2013. 02.006.
+Claiborn,J.M.,Dozier ,T.H.,Hart,S.L.,Lee,J.,2020. Self-Identifiedmisophoniaphenom-
+enology, impact, andclinicalcorrelates.Psychol.Thought 13(2),349–375.https: //
+doi.org/10.37708/ psyct. v13i2. 454.
+Crane ,L.,Goddard,L.,Pring ,L.,2009. Sensoryprocessinginadults with autism spectrum
+disorders.Autism 13(3),215–228.https: //doi.org/10.1177/ 1362361309103794 .
+Culotta,L.,Penzes,P.,2020. Exploringthemech anisms underlyingexcitation/ inhibition
+imbalance inhumaniPSC-derived modelsofASD.Mol.Autism 11(1),32.https: //doi.
+org/10.1186/ s13229 -020-00339 -0.
+daSilva,F.E.,Sanchez ,T.G.,2019. Evaluationofselectiveattentioninpatients with miso-
+phonia.Braz. J.Otorhi nolaryn gol.85(3),303–309.https: //doi.org/10.1016/ j.bjorl.
+2018. 02.005.
+Dabbous,A.O.,2012. Characteristicsofauditorybrain stem response latenciesinchildren
+with autism spectrum disorders.Audiol. Med. 10(3),122–131.https: //doi.org/10.
+3109/ 1651386X. 2012. 708986 .
+Danesh ,A.A.,Aazh ,H.,2020. Misophonia:aneurologic, psychologic, andaudiologic com-
+plex.Hear. J.73(3),20.https: //doi.org/10.1097/ 01.HJ.0000657984. 74790. d5.
+Danesh ,A.A.,Kaf,W.A.,2012. DPOAEs andcontralat eralacoustic stimulationandtheir
+linktosound hypersensitivityinchildren with autism .Int.J.Audiol. 51(4),345–352.
+https: //doi.org/10.3109/ 14992027. 2011. 626202 .
+Danesh ,A.A.,Lang,D.,Kaf,W.,Andreassen ,W.D.,Scott,J.,Eshraghi ,A.A.,2015. Tinni-
+tusandhyperacusisinautism spectrum disorderswith emphasisonhigh functioning
+individualsdiagnosed with Asperger ’ssyndrome .Int.J.Pediatr.Otorhi nolaryn gol.79
+(10),1683 –1688 .https: //doi.org/10.1016/ j.ijporl. 2015. 07.024.
+Dang ,J.,King,K.M.,Inzlicht ,M.,2020. Why areself-report andbehavioral measures
+weakly correlated? .Trends Cogn. Sci.24(4),267–269.https: //doi.org/10.1016/ j.tics.
+2020. 01.007.
+Demopou los,C.,Lewine ,J.D.,2016. Audiometricprofilesinautism spectrum disorders:
+Does subclinicalhearinglossimpact communication? .Autism Res. 9(1),107–120.
+https: //doi.org/10.1002/ aur.1495 .
+DePape,A.-M.,Lindsay,S.,2016. Lived experiences from theperspectiveofindividuals
+with autism spectrum disorder:aqualitativemeta-synthesis.FocusAutism Dev. Dis-
+abil. 31(1),60–71.https: //doi.org/10.1177/ 1088357615587504 .
+Dickinson,A.,Jones ,M.,Milne ,E.,2016. Measuringneural excitationandinhibitionin
+autism: differentapproaches, differentfindings anddifferentinterpretations.Brain
+Res.1648 ,277–289.https: //doi.org/10.1016/ j.brainres. 2016. 07.011.
+Diehl ,P.U.,Schaette ,R.,2015. Abnormalauditorygaininhyperacusis:investigationwith
+acomputational model .Front. Neurol.6,157.https: //doi.org/10.3389/ fneur. 2015.
+00157 .
+Dietz,P.M.,Rose,C.E.,McArthur ,D.,Maen ner,M.,2020. National andstate estimates
+ofadults with autism spectrum disorder.J.Autism Dev. Disord.https: //doi.org/10.
+1007/ s10803 -020-04494 -4.
+Donkers ,F.C.L. ,Schipul ,S.E.,Baranek ,G.T.,Cleary ,K.M.,Willoughby ,M.T.,Evans ,A.M.,
+Bulluck,J.C.,Lovmo ,J.E.,Belger,A.,2015. Attenuatedauditoryevent -related poten-
+tialsandassociations with atypicalsensoryresponse patterns inchildren with autism .
+J.Autism Dev. Disord.45(2),506–523.https: //doi.org/10.1007/ s10803 -013-1948 -y.
+Dozier ,T.H.,Morrison,K.L.,2017. Phenomenologyofmisophonia:initialphysicaland
+emotional responses .Am. J.Psychol. 130(4),431–438.https: //doi.org/10.5406/
+amerjpsyc. 130.4.0431 ,JSTOR.
+DuBois ,D.,Lymer,E.,Gibson,B.,Desarkar ,P.,Nalder ,E.,2017. Assessingsensory pro-
+cessingdysfunctioninadults andadolescents with autism spectrum disorder:ascop-
+ingreview.Brain Sci.7(8),108.https: //doi.org/10.3390/ brainsci7080108 .
+Dunlop,W.A.,Enticott,P.G.,Rajan,R.,2016. Speech discrimination difficultiesin
+high-functioningautism spectrum disorderarelikely independent ofauditory hy-
+persensitivity.Front. Hum. Neurosci. 10(77),2382 .https: //doi.org/10.3389/ fnhum.
+2016. 00401 .
+Edelstein,M.,Brang ,D.,Rouw ,R.,Ramachan dran,V.S.,2013. Misophonia:physiological
+investigations andcase descriptions.Front. Hum. Neurosci. 7,296.https: //doi.org/
+10.3389/ fnhum. 2013. 00296 .
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Ellermeier ,W.,Eigen stetter,M.,Zimmer,K.,2001. Psychoacoustic correlates ofindividual
+noise sensitivity.J.Acoust. Soc.Am.109(4),1464 –1473 .https: //doi.org/10.1121/ 1.
+1350402 .
+ElMoazen ,D.,Sobhy ,O.,Abdou,R.,AbdelMotaleb,H.,2020. Binauralinteractioncom-
+ponent oftheauditorybrain stem response inchildren with autism spectrum disorder.
+Int.J.Pediatr.Otorhi nolaryn gol.131,109850 https: //doi.org/10.1016/ j.ijporl. 2019.
+109850 .
+Elwin,M.,Ek,L.,Schröder,A.,Kjellin ,L.,2012. Autobiograph icalaccounts ofsensing
+inAsperger syndrome andhigh-functioningautism .Arch. Psychiatr.Nurs. 26(5),
+420–429.https: //doi.org/10.1016/ j.apnu. 2011. 10.003.
+Elwin,M.,Ek,L.,Kjellin ,L.,Schröder,A.,2013. Toomuch ortoolittle:hyper-and
+hypo-reactivityinhigh-functioningautism spectrum conditions.J.Intellect.Dev. Dis-
+abil. 38(3),232–241.https: //doi.org/10.3109/ 13668250. 2013. 815694 .
+Ethridge ,L.E.,White ,S.P.,Mosconi ,M.W. ,Wang ,J.,Byerly,M.J.,Sweeney ,J.A.,2016.
+Reduced habituationofauditoryevoked potentialsindicatecorticalhyper-excitabil ity
+inFragileXsyndrome .Transl. Psychiatry6,e787.https: //doi.org/10.1038/ tp.2016.
+48.
+Ethridge ,L.E.,White ,S.P.,Mosconi ,M.W. ,Wang ,J.,Pedapati,E.V.,Erickson,C.A.,Byerly,
+M.J.,Sweeney ,J.A.,2017. Neural synchronizationdeficits linked tocorticalhyper-ex-
+citabil ityandauditoryhypersensitivityinfragileXsyndrome .Mol.Autism 8(1),22.
+https: //doi.org/10.1186/ s13229 -017-0140 -1.
+Eto,M.I.,Hara,N.,Ohkawara ,T.,Narita ,M.,2017. Mech anism ofauditoryhypersensitiv-
+ityinhuman autism usingautism model rats.Pediatr.Int.59(4),404–407.https: //
+doi.org/10.1111/ ped.13186 .
+Fackrell,K.,Potgieter,I.,Shekhawat ,G.S.,Baguley,D.M.,Sereda ,M.,Hoare ,D.J.,2017.
+Clinicalinterventions forhyperacusisinadults: ascopingreview toassessthecurrent
+positionanddetermine prioritiesforresearch .Biomed Res.Int.2017 ,1–22.https: //
+doi.org/10.1155/ 2017/ 2723715 .
+Fackrell,K.,Stratmann ,L.,Kennedy ,V.,MacDonald,C.,Hodg son,H.,Wray ,N.,Farrell,
+C.,Mead ows,M.,Sheldrake ,J.,Byrom,P.,Baguley,D.M.,Kentish,R.,Chap man,S.,
+Marriage,J.,Phillips ,J.,Pollard,T.,Henshaw ,H.,Gronlund,T.A.,Hoare ,D.J.,2019.
+Identifyingandprioritisingunanswered research questions forpeoplewith hyperacu-
+sis:james Lind Alliance HyperacusisPrioritySettingPartnership.BMJ Open 9(11),
+e032178 https: //doi.org/10.1136/ bmjopen -2019 -032178 .
+Fagel son,M.A.,Baguley,D.M. (Eds.), 2018. HyperacusisandDisordersofSound Intoler-
+ance: ClinicalandResearch Perspectives.Plural Publishing.
+Feczko ,E.,Miranda -Dominguez ,O.,Marr,M.,Graham,A.M.,Nigg,J.T.,Fair,D.A.,2019.
+Theheterogeneityproblem:approaches toidentifypsychiatric subtypes .Trends Cogn.
+Sci.23(7),584–601.https: //doi.org/10.1016/ j.tics.2019. 03.009.
+Flores,E.N.,Duggan,A.,Madathany ,T.,Hogan ,A.K.,Márquez ,F.G.,Kumar,G.,Seal,R.P.,
+Edwards ,R.H.,Liber man,M.C.,García-Añoveros ,J.,2015. Anon-canon icalpathway
+from cochlea tobrain signalstissue-damagingnoise .Curr. Biol. 25(5),606–612.https:
+//doi.org/10.1016/ j.cub.2015. 01.009.
+Foss-Feig,J.H.,Adkinson,B.D.,Ji,J.L.,Yang ,G.,Srihari,V.H.,McPartland,J.C.,Krys-
+tal,J.H.,Murray,J.D.,Anticevic,A.,2017. Search ingforcross-diagnosticconver-
+gence: Neural mech anisms governingexcitationandinhibitionbalance inschizophre-
+niaandautism spectrum disorders.Biol.Psychiatry81(10),848–861.https: //doi.
+org/10.1016/ j.biopsych. 2017. 03.005.
+Fowler ,E.P.,1965. Some attributes of“loudness recruitment ”and“loudness decruit-
+ment ”.Ann. Otol. Rhinol. Laryn gol. 74(2),500–506.https: //doi.org/10.1177/
+000348946507400218 .
+Frühholz ,S.,Staib ,M.,2017. Neurocircuitry ofimpaired affectivesound processing:aclin-
+icaldisordersperspective.Neurosci. Biobe hav.Rev. 83,516–524.https: //doi.org/10.
+1016/ j.neubiorev. 2017. 09.009.
+Frühholz ,S.,Trost ,W.,Kotz,S.A.,2016. Thesound ofemotions—towards aunifying
+neural network perspectiveofaffectivesound processing.Neurosci. Biobe hav. Rev.
+68,96–110.https: //doi.org/10.1016/ j.neubiorev. 2016. 05.002.
+Fullana,M.A.,Harrison,B.J.,Soriano-Mas,C.,Vervliet ,B.,Cardoner ,N.,Àvila-Parcet ,A.,
+Radua ,J.,2016. Neural signatures ofhuman fearconditioning:anupdated andex-
+tended meta-analy sisoffMRI studies.Mol.Psychiatry21(4),500–508.https: //doi.
+org/10.1038/ mp.2015. 88.
+Fullana,M.A.,Dunsmoor ,J.E.,Schruers ,K.R.J. ,Savage,H.S.,Bach,D.R.,Harrison,B.J.,
+2020. Human fearconditioning:fromneuroscience totheclinic .Behav. Res. Ther.
+124,103528 https: //doi.org/10.1016/ j.brat.2019. 103528 .
+Fung,L.K.,Chahal,L.,Libove,R.A.,Bivas,R.,Hardan ,A.Y.,2012. Aretrospectivereview
+oftheeffectivenessofaripiprazoleinthetreatment ofsensoryabnormalitiesinautism .
+J.Child Adolesc. Psychophar macol.22(3),245–248.https: //doi.org/10.1089/ cap.
+2010. 0103 .
+Garcia,R.,2017. Neurobiologyoffearandspecificphobias.Learn. Mem. 24(9),462–471.
+https: //doi.org/10.1101/ lm.044115. 116.
+Giarelli,E.,Nocera,R.,Turchi ,R.,Hardie ,T.L.,Pagano ,R.,Yuan ,C.,2014. Sensorystim-
+uliasobstaclestoemer gency care forchildren with autism spectrum disorder.Adv.
+Emerg. Nurs. J.36(2),145–163.https: //doi.org/10.1097/ TME. 0000000000000013 .
+Gjevik,E.,Eldevik,S.,Fjæran-Granum ,T.,Sponheim ,E.,2011. Kiddie-SADS reveals high
+rates ofDSM-IVdisordersinchildren andadolescents with autism spectrum disorders.
+J.Autism Dev. Disord.41(6),761–769.https: //doi.org/10.1007/ s10803 -010-1095 -
+7.
+Glod,M.,Riby,D.M.,Honey ,E.,Rodgers ,J.,2015. Psychologicalcorrelates ofsensory
+processingpatterns inindividualswith autism spectrum disorder:asystematicre-
+view.Rev. J.Autism Dev. Disord.2(2),199–221.https: //doi.org/10.1007/ s40489 -
+015-0047 -8.
+Goebel ,G.,Floezinger ,U.,2008. Pilotstudy toevaluatepsychiatric co-morbidityintinni-
+tuspatients with andwithouthyperacusis.Audiol. Med. 6(1),78–84.https: //doi.org/
+10.1080/ 16513860801959100 .
+Goldsmith ,H.H.,VanHulle ,C.A.,Arneson,C.L.,Schreiber ,J.E.,Gerns bacher ,M.A.,2006.
+Apopulation-based twin study ofparentally reported tactileandauditorydefensive-
+nessinyoung children.J.Abnorm. Child Psychol. 34(3),378–392.https: //doi.org/
+10.1007/ s10802 -006-9024 -0.Gomes ,E.,Rotta ,N.T.,Pedroso ,F.S.,Sleifer ,P.,Danesi ,M.C.,2004. Auditoryhypersensi-
+tivityinchildren andteenagers with autisticspectrum disorder.Arq. Neuropsiquiatr.
+62(3B),797–801.https: //doi.org/10.1590/ s0004 -282x2004000500011 .
+Gomes ,E.,Pedroso ,F.S.,Wagner,M.B.,2008. Auditory hypersensitivityintheautistic
+spectrum disorder.Pró-Fono Revista deAtualizaçãoCient ífica20(4),279–284.https:
+//doi.org/10.1590/ s0104 -56872008000400013 .
+Gong ,N.,Zhang ,M.,Zhang ,X.-B.,Chen ,L.,Sun,G.-C.,Xu,T.-L.,2008. Theaspirin
+metabo litesalicylateenhances neuronal excitation inrathippocam palCA1 area
+through reducingGABAer gicinhibition.Neurophar macology54(2),454–463.https:
+//doi.org/10.1016/ j.neuropharm. 2007. 10.017.
+Gravel ,J.S.,Dunn ,M.,Lee,W.W. ,Ellis,M.A.,2006. Peripheralauditionofchildren on
+theautisticspectrum.EarHear. 27(3),299–312.https: //doi.org/10.1097/ 01.aud.
+0000215979. 65645. 22.
+Green ,S.A.,Ben-Sasson,A.,2010. Anxietydisordersandsensoryover-responsivityinchil-
+dren with autism spectrum disorders: Isthere acausal relationship? .J.Autism Dev.
+Disord.40(12),1495 –1504 .https: //doi.org/10.1007/ s10803 -010-1007 -x.
+Green ,S.A.,Wood ,E.T.,2019. Theroleofregulationandattentioninatypicalsensorypro-
+cessing.Cogn. Neurosci. 10(3),160–162.https: //doi.org/10.1080/ 17588928. 2019.
+1592141 .
+Green ,S.A.,Ben-Sasson,A.,Soto,T.W.,Carter ,A.S.,2012. Anxietyandsensory over-re-
+sponsivityintoddlers with autism spectrum disorders: bidirectional effects across
+time.J.Autism Dev. Disord. 42(6),1112 –1119 .https: //doi.org/10.1007/ s10803 -
+011-1361 -3.
+Green ,S.A.,Rudie ,J.D.,Colich,N.L.,Wood ,J.J.,Shirinyan ,D.,Hernandez,L.,Totten-
+ham,N.,Dapretto ,M.,Bookheimer ,S.Y.,2013. Overreactivebrain responses tosen-
+sorystimuliinyouth with autism spectrum disorders.J.Am.Acad. Child Adolesc.Psy-
+chiatry52(11),1158 –1172 .https: //doi.org/10.1016/ j.jaac.2013. 08.004.
+Green ,S.A.,Hernandez,L.,Tottenham,N.,Krasileva ,K.,Bookheimer ,S.Y.,Dapretto ,M.,
+2015. Neurobiologyofsensory overresponsivityinyouth with autism spectrum dis-
+orders.JAMA Psychiatry72(8),778–786.https: //doi.org/10.1001/ jamapsychiatry.
+2015. 0737 .
+Green ,S.A.,Hernandez,L.,Bookheimer ,S.Y.,Dapretto ,M.,2016. Salience network con-
+nectivityinautism isrelated tobrain andbehavioral mark ersofsensoryoverrespon-
+sivity.J.Am. Acad. Child Adolesc. Psychiatry55(7),618–626.https: //doi.org/10.
+1016/ j.jaac.2016. 04.013,e1.
+Green ,S.A.,Hernandez,L.,Lawrence ,K.E.,Liu,J.,Tsang ,T.,Yeargin,J.,Cummings ,K.,
+Lauge son,E.,Dapretto ,M.,Bookheimer ,S.Y.,2019. Distinct patterns ofneural habit-
+uationandgeneralizationinchildren andadolescents with autism with lowandhigh
+sensoryoverresponsivity.Am.J.Psychiatry176(12),1010 –1020 .https: //doi.org/10.
+1176/ appi.ajp.2019. 18121333 .
+Green berg,J.,Burns ,J.W.,2003. Pain anxietyamong chronic pain patients: Specificpho-
+biaormanifestationofanxietysensitivity?.Behav.Res.Ther. 41(2),223–240.https:
+//doi.org/10.1016/ S0005 -7967(02)00009 -8.
+Griffith,G.M.,Totsika,V.,Nash,S.,Hastings,R.P.,2011. ‘Ijustdon’tfitanywhere ’:
+support experiences and future support needs ofindividualswith Asperger syn-
+drome inmiddleadult hood .Autism 16(5),532–546.https: //doi.org/10.1177/
+1362361311405223 .
+Grinker ,R.R.,2007. Unstrange Minds: Remap ping theWorld ofAutism .BasicBooks .
+Gu,J.W.,Halpin ,C.F.,Nam,E.-C.,Levine ,R.A.,Melcher ,J.R.,2010. Tinnitus,diminished
+sound -level tolerance, andelevated auditoryactivityinhumans with clinically normal
+hearingsensitivity.J.Neurophysiol.104(6),3361 –3370 .https: //doi.org/10.1152/ jn.
+00226. 2010 .
+Guinan ,J.J.,2006. Olivo cochlear efferents: anatomy, physiology, function, andthemea-
+surement ofefferenteffects inhumans .EarHear. 27(6),589–607.https: //doi.org/
+10.1097/ 01.aud.0000240507. 83072. e7.
+Guinan ,J.J.,2018. Olivo cochlear efferents: theiraction, effects, measurement anduses,
+andtheimpact ofthenew conceptionofcochlear mechanicalresponses .Hear. Res.
+362,38–47.https: //doi.org/10.1016/ j.heares. 2017. 12.012.
+Habib ,A.,Harris,L.,Pollick,F.,Melville ,C.,2019. Ameta-analy sisofwork ingmemoryin
+individualswith autism spectrum disorders.PLoS One14(4),e0216198 https: //doi.
+org/10.1371/ journal. pone. 0216198 .
+Harris,J.C.,2019. Thenecessitytoidentifysubtypes ofautism spectrum disorder.JAMA
+Psychiatry76(11),1116 .https: //doi.org/10.1001/ jamapsychiatry. 2019. 1928 .
+Hasson,D.,Theorell,T.,Bergquist ,J.,Canlon,B.,2013. Acute stress induces hyperacusis
+inwomen with high levelsofemotional exhaustion.PLoSOne8(1),e52945 https: //
+doi.org/10.1371/ journal. pone. 0052945 .
+Hayward ,S.M.,McVilly ,K.R.,Stokes ,M.A.,2019. Autism andemployment: what works .
+Res.Autism Spectr. Disord.60,48–58.https: //doi.org/10.1016/ j.rasd.2019. 01.006.
+Hazen ,E.P.,Stornelli,J.L.,O’Rourke ,J.A.,Koesterer ,K.,McDougle ,C.J.,2014. Sensory
+symp toms inautism spectrum disorders.Harv.Rev.Psychiatry22(2),112–124.https:
+//doi.org/10.1097/ 01.HRP. 0000445143. 08773. 58.
+Hébert,S.,Fournier ,P.,Noreña,A.,2013. Theauditorysensitivityisincreased intinnitus
+ears.J.Neurosci. 33(6),2356 –2364 .https: //doi.org/10.1523/ JNEUROSCI. 3461 -12.
+2013 .
+Hedley,D.,Cai,R.,Uljarevi ć,M.,Wilmot ,M.,Spoor ,J.R.,Richdale,A.,Dissanayake ,
+C.,2018. Transitiontowork: perspectives from theautism spectrum.Autism 22(5),
+528–541.https: //doi.org/10.1177/ 1362361316687697 .
+Heeringa ,A.N.,vanDijk,P.,2016. Theimmediateeffects ofacoustic trauma onexcita-
+tionandinhibitionintheinferiorcolliculus:aWiener -kernelanaly sis.Hear. Res.331,
+47–56.https: //doi.org/10.1016/ j.heares. 2015. 10.007.
+Herry ,C.,Johansen ,J.P.,2014. Encodingoffearlearn ingandmemoryindistributed neu-
+ronal circuits.Nat.Neurosci. 17(12),1644 –1654 .https: //doi.org/10.1038/ nn.3869 .
+Hickox ,A.E.,Liber man,M.C.,2014. Isnoise -induced cochlear neuropathykeytothegen-
+erationofhyperacusisortinnitus?.J.Neurophysiol.111(3),552–564.https: //doi.
+org/10.1152/ jn.00184. 2013 .
+Hollocks ,M.J.,Lerh,J.W.,Magiati,I.,Meiser -Stedman,R.,Brugha ,T.S.,2019. Anxi-
+etyanddepression inadults with autism spectrum disorder: asystematicreview
+and meta-analy sis.Psychol. Med. 49(4),559–572.https: //doi.org/10.1017/
+s0033291718002283 .
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Howe ,F.E.J. ,Stagg ,S.D.,2016. How sensory experiences affectadolescents with an
+autisticspectrum condition within theclassroom .J.Autism Dev. Disord. 46(5),
+1656 –1668 .https: //doi.org/10.1007/ s10803 -015-2693 -1.
+Huang ,N.,Elhilali,M.,2017. Auditorysalience usingnaturalsound scapes .J.Acoust. Soc.
+Am.141(3),2163 –2176 .https: //doi.org/10.1121/ 1.4979055 .
+Hudac,C.M.,DesChamps ,T.D.,Arnett,A.B.,Cairney,B.E.,Ma,R.,Webb ,S.J.,Bernier ,
+R.A.,2018. Early enhanced processinganddelayed habituationtodeviance sounds
+inautism spectrum disorder.Brain Cogn. 123,110–119.https: //doi.org/10.1016/ j.
+bandc. 2018. 03.004.
+Huettel,L.G.,Collins ,L.M.,2004. Atheoreticalanaly sisofnormal-andimpaired -hearing
+intensitydiscrimination.IeeeTrans. Speech AudioProcess. 12(3),323–333.https: //
+doi.org/10.1109/ TSA.2004. 825672 .
+Hughes ,G.,Desantis,A.,Waszak ,F.,2013. Mech anisms ofintentional bindingandsen-
+sory attenuation: theroleoftemporalprediction, temporalcontrol, identitypredic-
+tion, andmotorprediction.Psychol. Bull. 139(1),133–151.https: //doi.org/10.1037/
+a0028566 .
+Hussein,S.,Bahmei,B.,Gustafson ,K.,Fisher ,R.,Iarocci ,G.,Arzan pour,S.,Birming-
+ham,E.,2019. Familyexperiences ofauditoryhypersensitivityinASD.May.In:In-
+ternational SocietyforAutism Research Annual Meeting,Montreal, QC.https: //insar.
+confex. com/ insar/ 2019/ webprogram/ Paper30947. html.
+Hwang ,J.-H.,Chou ,P.-H.,Wu,C.-W.,Chen ,J.-H.,Liu,T.-C.,2009. Brain activationinpa-
+tients with idiopathic hyperacusis.Am.J.Otolaryn gol.30(6),432–434.https: //doi.
+org/10.1016/ j.amjoto. 2008. 08.005.
+Hwang ,Y.I.J. ,Arnold ,S.,Srasuebkul,P.,Trollor,J.,2020. Understand inganxietyinadults
+ontheautism spectrum: aninvestigationofitsrelationshipwith intolerance ofuncer-
+tainty, sensorysensitivitiesandrepet itivebehaviours.Autism 24(2),411–422.https:
+//doi.org/10.1177/ 1362361319868907 .
+Ipser,J.C.,Singh ,L.,Stein ,D.J.,2013. Meta -analy sisoffunctional brain imaginginspe-
+cific phobia.PsychiatryClin. Neurosci. 67(5),311–322.https: //doi.org/10.1111/
+pcn.12055 .
+Irimia,P.,Cittadini,E.,Paemeleire ,K.,Cohen,A.S.,Goadsby ,P.J.,2008. Unilateralpho-
+tophobiaorphono phobiainmigraine compared with trigem inalautonomic cepha lal-
+gias.Cepha lalgia28(6),626–630.https: //doi.org/10.1111/ j.1468 -2982. 2008. 01565.
+x.
+Jager ,I.,deKoning,P.,Bost,T.,Denys ,D.,Vulink ,N.,2020. Misophonia:phenom enology,
+comorbidityanddemograph icsinalarge sample.PLoSOne15(4),e0231390 https: //
+doi.org/10.1371/ journal. pone. 0231390 .
+Jastreboff,M.M. ,Jastreboff,P.J.,2002. Decreased sound tolerance andtinnitusretraining
+therapy(TRT) .Aust. New Zealand J.Audiol. 24(2),74–84.
+Jastreboff,P.J.,Jastreboff,M.,2014. Treat ments fordecreased sound tolerance (hyperacu-
+sisandmisophonia).Semin. Hear. 35(2),105–120.https: //doi.org/10.1055/ s-0034 -
+1372527 .
+Jastreboff,P.J.,Jastreboff,M.M. ,2015. Decreased sound tolerance: hyperacusis,misopho-
+nia,dipla cousis, andpolyacousis .In:In:Aminoff ,M.J.,Boller ,F.,Swaab ,D.F.(Eds.),
+Hand book ofClinicalNeurologyVol.129,Elsevier,pp.375–387.https: //doi.org/10.
+1016/ B978 -0-444-62630 -1.00021 -4.
+Job,R.F.S. ,1999. Noise sensitivityasafactorinfluencinghuman reactiontonoise .Noise
+Health 1(3),57–68.
+Johnston,D.,Egermann ,H.,Kearney,G.,2020. Sound Fields: avirtualrealitygame de-
+signed toaddress auditoryhypersensitivityinindividualswith autism spectrum disor-
+der.Appl. Sci.10(9),2996 .https: //doi.org/10.3390/ app10092996 .
+Jones ,R.S.P. ,Quigney ,C.,Huws ,J.C.,2003. First-hand accounts ofsensoryperceptualex-
+periences inautism: aqualitativeanaly sis.J.Intellect.Dev. Disabil. 28(2),112–121.
+https: //doi.org/10.1080/ 1366825031000147058 .
+Jones ,C.R.G. ,Happ é,F.,Baird ,G.,Simonoff ,E.,Marsden,A.J.S. ,Tregay,J.,Phillips ,R.J.,
+Goswami ,U.,Thom son,J.M.,Charman,T.,2009. Auditory discriminationandau-
+ditorysensory behaviours inautism spectrum disorders.Neuropsy cholo gia47(13),
+2850 –2858 .https: //doi.org/10.1016/ j.neuropsychologia. 2009. 06.015.
+Jones ,E.K.,Hanley,M.,Riby,D.M.,2020. Distraction, distress anddiversity:explor ingthe
+impact ofsensory processingdifferences onlearn ingandschool lifeforpupils with
+autism spectrum disorders.Res.Autism Spectr. Disord.72,101515 https: //doi.org/10.
+1016/ j.rasd.2020. 101515 .
+Jorquera -Cabrera,S.,Romero -Ayuso ,D.,Rodriguez -Gil,G.,Triviño-Juárez,J.-M.,2017.
+Assessment ofsensory processingcharacteristicsinchildren between 3and11years
+old:asystematicreview.Front. Pediatr.5,57.https: //doi.org/10.3389/ fped.2017.
+00057 .
+Jüris,L.,Andersson,G.,Larsen ,H.C.,Ekselius ,L.,2014. Cognitivebehaviourtherapyfor
+hyperacusis:arandomizedcontrolled trial.Behav. Res.Ther. 54,30–37.https: //doi.
+org/10.1016/ j.brat.2014. 01.001.
+Kaf,W.A.,Danesh ,A.A.,2013. Distortion-productotoacoustic emissions andcontralat eral
+suppressionfindingsinchildren with Asperger ’sSyndrome .Int.J.Pediatr.Otorhi no-
+laryn gol.77(6),947–954.https: //doi.org/10.1016/ j.ijporl. 2013. 03.014.
+Kargas,N.,López,B.,Reddy ,V.,Morris,P.,2015. Therelationshipbetween auditorypro-
+cessingandrestricted, repet itivebehaviorsinadults with autism spectrum disorders.
+J.Autism Dev. Disord.45(3),658–668.https: //doi.org/10.1007/ s10803 -014-2219 -
+2.
+Kaya,E.M.,Elhilali,M.,2017. Modellingauditoryattention.Philos.Trans. Biol. Sci.372
+(1714 ),20160101 .https: //doi.org/10.1098/ rstb.2016. 0101 .
+Keating,C.T.,Cook ,J.L.,2020. FacialExpressionProductionandRecog nitioninAutism
+Spectrum Disorders:aShiftingLandscape .Child andAdolescentPsychiatric Clinicsof
+North Amer icahttps: //doi.org/10.1016/ j.chc.2020. 02.006.
+Keith ,J.M.,Jamieson ,J.P.,Bennetto ,L.,2019. Theimportance ofadolescent self-report
+inautism spectrum disorder:integrationofquestionnaire andautonomic measures .J.
+Abnorm. Child Psychol. 47(4),741–754.https: //doi.org/10.1007/ s10802 -018-0455 -
+1.
+Kenny ,L.,Hattersley,C.,Molins ,B.,Buckley,C.,Povey ,C.,Pellicano,E.,2016. Which
+terms should beused todescribe autism? Perspectives from theUKautism commu-
+nity.Autism 20(4),442–462.https: //doi.org/10.1177/ 1362361315588200 .
+Kern,J.K.,Trivedi ,M.H.,Garver ,C.R.,Granne mann ,B.D.,Andrews ,A.A.,Savla ,J.S.,
+Johnson,D.G.,Mehta ,J.A.,Schroeder ,J.L.,2006. Thepatternofsensory processingabnormalities inautism .Autism 10 (5),480–494.https: //doi.org/10.1177/
+1362361306066564 .
+Kerns ,C.M.,Kendall ,P.C.,2012. Thepresentationandclassificationofanxietyinautism
+spectrum disorder.Clin. Psychol. Sci.Pract. 19(4),323–347.https: //doi.org/10.
+1111/ cpsp. 12009 .
+Kerns ,C.M.,Kendall ,P.C.,Berry ,L.,Souders,M.C.,Franklin ,M.E.,Schultz ,R.T.,Miller ,J.,
+Herrington,J.,2014. Traditional andatypicalpresentations ofanxietyinyouth with
+autism spectrum disorder.J.Autism Dev. Disord.44(11),2851 –2861 .https: //doi.
+org/10.1007/ s10803 -014-2141 -7.
+Kerns ,C.M.,Rump ,K.,Worley,J.,Kratz ,H.,McVey ,A.,Herrington,J.,Miller ,J.,2016.
+Thedifferentialdiagnosisofanxietydisordersincognitively -ableyouth with autism .
+Cogn. Behav.Pract. 23(4),530–547.https: //doi.org/10.1016/ j.cbpra. 2015. 11.004.
+Khalfa ,S.,Bruneau ,N.,Rogé,B.,Georgi eff,N.,Veuil let,E.,Adrien ,J.-L.,Barth élémy,C.,
+Collet,L.,2004. Increased perceptionofloudness inautism .Hear. Res. 198(1–2),
+87–92.https: //doi.org/10.1016/ j.heares. 2004. 07.006.
+Kirby ,A.V.,Dickie ,V.A.,Baranek ,G.T.,2015. Sensoryexperiences ofchildren with autism
+spectrum disorder:intheir own words .Autism 19(3),316–326.https: //doi.org/10.
+1177/ 1362361314520756 .
+Kjellberg,A.,Landström,U.,Tesarz ,M.,Söderberg,L.,Akerlund,E.,1996. Theeffects
+ofnonphysicalnoise characteristics,ongoingtaskandnoise sensitivityonannoyance
+anddistractionduetonoise atwork .J.Environ.Psychol. 16(2),123–136.https: //
+doi.org/10.1006/ jevp.1996. 0010 .
+Kliuchko ,M.,Heinonen -Guze jev,M.,Vuust,P.,Tervaniemi ,M.,Brattico,E.,2016. Awin-
+dow into thebrain mech anisms associated with noise sensitivity.Sci.Rep. 6(1),
+39236 .https: //doi.org/10.1038/ srep39236 .
+Koegel ,R.L.,Open den,D.,Koegel ,L.K.,2004. Asystematicdesensitizationparadigm to
+treat hypersensitivitytoauditorystimuliinchildren with autism infamilycontexts.
+Res.Pract. Pers. With Sev.Disabil.29(2),122–134.https: //doi.org/10.2511/ rpsd.29.
+2.122.
+Kuiper ,M.W.M. ,Verhoeven,E.W.M. ,Geurts ,H.M.,2019. Stop makingnoise! Auditory
+sensitivityinadults with anautism spectrum disorderdiagnosis:physiologicalhabitu-
+ationandsubjectivedetectionthresh olds.J.Autism Dev. Disord.49(5),2116 –2128 .
+https: //doi.org/10.1007/ s10803 -019-03890 -9.
+Kulesza ,R.J.,Mangunay,K.,2008. Morphologicalfeatures ofthemedialsuperiorolive in
+autism .Brain Res.1200 ,132–137.https: //doi.org/10.1016/ j.brainres. 2008. 01.009.
+Kulesza ,R.J.,Lukose ,R.,Stevens ,L.V.,2011. Malformationofthehuman superiorolive
+inautisticspectrum disorders.Brain Res.1367 ,360–371.https: //doi.org/10.1016/ j.
+brainres. 2010. 10.015.
+Kumar,S.,vonKrieg stein,K.,Friston,K.,Griffiths,T.D.,2012. Features versusfeelings:
+dissociablerepresentations oftheacoustic features andvalence ofaversivesounds .
+J.Neurosci. 32(41),14184 –14192 .https: //doi.org/10.1523/ JNEUROSCI. 1759 -12.
+2012 .
+Kumar,S.,Tansley-Hancock,O.,Sedley,W.,Winston,J.S.,Callaghan ,M.F.,Allen ,M.,
+Cope ,T.E.,Gander,P.E.,Bamiou ,D.-E.,Griffiths,T.D.,2017. Thebrain basisformiso-
+phonia.Curr. Biol. 27(4),527–533.https: //doi.org/10.1016/ j.cub.2016. 12.048.
+Lai,M.-C.,Kassee ,C.,Besney ,R.,Bonato,S.,Hull,L.,Mandy ,W.,Szatmari,P.,Ameis ,
+S.H.,2019. Preva lence ofco-occurringmentalhealth diagnoses intheautism popula-
+tion: asystematicreview andmeta-analy sis.Lancet Psychiatry6(10),819–829.https:
+//doi.org/10.1016/ s2215 -0366(19)30289 -5.
+Landgrebe ,M.,Langguth ,B.,2011. Tinnitusandanxiety.In:Møller,A.R.,Langguth ,B.,De
+Ridder,D.,Klein jung,T.(Eds.), Textbook ofTinnitus.Springer ,pp.499–503.https: //
+doi.org/10.1007/ 978-1-60761 -145-5_64.
+Landon,J.,Shepherd,D.,Lodhia,V.,2016. Aqualitativestudy ofnoise sensitivityinadults
+with autism spectrum disorder.Res. Autism Spectr. Disord.32,43–52.https: //doi.
+org/10.1016/ j.rasd.2016. 08.005.
+Langers ,D.R.M. ,vanDijk,P.,Schoen maker ,E.S.,Backes ,W.H. ,2007. FMRI activationin
+relationtosound intensityandloudness.NeuroImage35(2),709–718.https: //doi.
+org/10.1016/ j.neuroimage. 2006. 12.013.
+Lanting,C.P.,DeKleine ,E.,Bartels,H.,VanDijk,P.,2008. Functional imagingofuni-
+lateraltinnitususingfMRI.Acta Otolaryn gol.128(4),415–421.https: //doi.org/10.
+1080/ 00016480701793743 .
+Lau,B.K.,Maddox,R.K.,Estes,A.,Dager ,S.,Lee,A.K.,2018. Combiningclinical,behav-
+ioral, andneurophysiologicalmeasures toinvestigateauditoryprocessingabnormali-
+tiesinindividualswith autism spectrum disorder.Proc. Meet. Acoust. 35(1),050004 .
+https: //doi.org/10.1121/ 2.0000971 .
+Lau,B.Y.,Leong ,R.,Uljarevic,M.,Lerh,J.W.,Rodgers ,J.,Hollocks ,M.J.,South ,M.,
+McConachie ,H.,Ozsivadjian,A.,VanHecke ,A.,Libove,R.,Hardan ,A.,Leekam ,S.,
+Simonoff ,E.,Magiati,I.,2020. Anxietyinyoung peoplewith autism spectrum dis-
+order:common andautism -related anxietyexperiences andtheir associations with
+individualcharacteristics.Autism 24(5),1111 –1126 .https: //doi.org/10.1177/
+1362361319886246 .
+Laumen,G.,Ferber,A.T.,Klump ,G.M.,Tollin ,D.J.,2016. Thephysiologicalbasisandclin-
+icaluseofthebinauralinteractioncomponent oftheauditorybrain stem response .Ear
+Hear. 37(5),e276–e290.https: //doi.org/10.1097/ AUD. 0000000000000301 .
+Law,J.K.,Ruben stein,E.,Marvin,A.R.,Toroney ,J.,Lipkin,P.H.,2016. Auditorysensitiv-
+ityissuesinchildren with autism spectrum disorders: characteristicsandburden.May.
+In:Pediatric AcademicSocieties Meeting,Baltimore, MD.https: //iancommunity. org/
+sites/ default/ files/ galleries/ conference -presentations/ Law_PAS_2016. pdf.
+Lawson,R.P.,Aylward ,J.,White ,S.,Rees,G.,2015. Astrikingreductionofsimpleloud-
+nessadaptationinautism .Sci.Rep. 5(1)https: //doi.org/10.1038/ srep16157 .
+LeDoux ,J.E.,2000. Emotioncircuits inthebrain .Annu. Rev. Neurosci. 23(1),155–184.
+https: //doi.org/10.1146/ annurev. neuro. 23.1.155.
+LeDoux ,J.E.,Farb,C.R.,Romanski,L.M.,1991. Overlapping projections totheamyg dala
+andstriatumfrom auditory processingareasofthethalamus andcortex.Neurosci.
+Lett. 134(1),139–144.https: //doi.org/10.1016/ 0304 -3940(91)90526 -Y.
+LeDoux ,J.E.,Moscarello ,J.,Sears ,R.,Campese ,V.,2017. Thebirth, death andresurrec-
+tionofavoid ance: arecon ceptualizationofatroubled paradigm .Mol.Psychiatry22
+(1),24–36.https: //doi.org/10.1038/ mp.2016. 166.
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Lee,E.,Lee,J.,Kim,E.,2017. Excitation/ inhibitionimbalance inanimalmodelsofautism
+spectrum disorders.Biol.Psychiatry81(10),838–847.https: //doi.org/10.1016/ j.
+biopsych. 2016. 05.011.
+Leekam ,S.R.,Nieto,C.,Libby ,S.J.,Wing ,L.,Gould ,J.,2007. Describingthesensory
+abnormalitiesofchildren andadults with autism .J.Autism Dev. Disord. 37(5),
+894–910.https: //doi.org/10.1007/ s10803 -006-0218 -7.
+Leyfer ,O.T.,Folstein,S.E.,Bacalman,S.,Davis ,N.O.,Dinh,E.,Morgan,J.,Tager -Flus-
+berg,H.,Lainhart,J.E.,2006. Comorbidpsychiatric disordersinchildren with autism:
+interview development andrates ofdisorders.J.Autism Dev. Disord.36(7),849–861.
+https: //doi.org/10.1007/ s10803 -006-0123 -0.
+Li,H.,Takeda ,Y.,Niki,H.,Ogawa ,J.,Kobayashi ,S.,Kai,N.,Akasaka ,K.,Asano ,M.,Sudo,
+K.,Iwakura ,Y.,Watan abe,K.,2003. Aberrantresponses toacoustic stimuliinmice de-
+ficient forneural recog nitionmoleculeNB-2.Eur.J.Neurosci. 17(5),929–936.https:
+//doi.org/10.1046/ j.1460 -9568. 2003. 02514. x.
+,.
+Liu,C.,Glowatzki ,E.,Fuchs ,P.A.,2015. Unmyeli nated type IIafferentneurons report
+cochlear damage.Proc. Natl. Acad. Sci.112(47),14723 –14727 .https: //doi.org/10.
+1073/ pnas. 1515228112 .
+Lorenz ,T.,Frischling ,C.,Cuadros ,R.,Heinitz ,K.,2016. Autism andovercomingjobbarri-
+ers:comparingjob-related barriersandpossiblesolutions inandoutsideofautism -spe-
+cificemployment .PLoS One11(1),e0147040 https: //doi.org/10.1371/ journal. pone.
+0147040 .
+Lovelace ,J.W.,Rais,M.,Palacios,A.R.,Shuai ,X.S.,Bishay ,S.,Popa,O.,Pirbhoy,P.S.,
+Binder ,D.K.,Nelson,D.L.,Ethell ,I.M.,Razak ,K.A.,2020. DeletionofFmr1 from fore-
+brain excitatoryneurons triggersabnormalcellular,EEG, andbehavioral phenotypes
+intheauditorycortexofamouse model offragileXsyndrome .Cereb .Cortex30(3),
+969–988.https: //doi.org/10.1093/ cercor/ bhz141 .
+Lu,J.,Lobarinas,E.,Deng ,A.,Goodey ,R.,Stolzberg ,D.,Salvi,R.J.,Sun,W.,2011.
+GABAer gicneural activityinvolved insalicylate-induced auditory cortexgain en-
+hance ment .Neuroscience 189,187–198.https: //doi.org/10.1016/ j.neuroscience.
+2011. 04.073.
+Lucker ,J.R.,2013. Auditory hypersensitivityinchildren with autism spectrum disor-
+ders.Focus Autism Other Dev. 28(3),184–191.https: //doi.org/10.1177/
+1088357613475810 .
+Lugo-Marín,J.,Magán-Maganto,M.,Rivero -Santana,A.,Cuellar-Pompa ,L.,Alviani,M.,
+Jenaro-Rio,C.,Díez,E.,Canal -Bedia,R.,2019. Preva lence ofpsychiatric disordersin
+adults with autism spectrum disorder:asystematicreview andmeta-analy sis.Res.
+Autism Spectr. Disord.59,22–33.https: //doi.org/10.1016/ j.rasd.2018. 12.004.
+Lukose ,R.,Schmidt ,E.,Wolski,T.P.,Murawski ,N.J.,Kulesza ,R.J.,2011. Malformationof
+thesuperiorolivary complexinananimalmodel ofautism .Brain Res.1398 ,102–112.
+https: //doi.org/10.1016/ j.brainres. 2011. 05.013.
+Lukose ,R.,Brown ,K.,Barber,C.M.,Kulesza ,R.J.,2013. Quan tificationofthestape dialre-
+flexreveals delayed responses inautism: delayed brain stem reflexes inautism .Autism
+Res.6(5),344–353.https: //doi.org/10.1002/ aur.1297 .
+Lukose ,R.,Beebe ,K.,Kulesza ,R.J.,2015. Organizationofthehuman superiorolivary
+complexin15qduplicationsyndromes andautism spectrum disorders.Neuroscience
+286,216–230.https: //doi.org/10.1016/ j.neuroscience. 2014. 11.033.
+Ma,L.,Ono,M.,Qin,L.,Kato,N.,2020. Acoustic trauma induced thealteration oftheac-
+tivitybalance ofexcitatoryandinhibitory neurons intheinferiorcolliculusofmice.
+Hear. Res.391,107957 https: //doi.org/10.1016/ j.heares. 2020. 107957 .
+MacLen nan,K.,Roach ,L.,Tavas soli,T.,2020. Therelationshipbetween sensoryreactiv-
+itydifferences andanxietysubtypes inautisticchildren.Autism Res.13(5),785–795.
+https: //doi.org/10.1002/ aur.2259 .
+Mansour,Y.,Kulesza ,R.J.,2020. Three dimensional reconstructions ofthesuperioroli-
+vary complexfrom children with autism spectrum disorder.Hear. Res.107974 .https:
+//doi.org/10.1016/ j.heares. 2020. 107974 .
+Mansour,Y.,Mangold,S.,Chosky ,D.,Kulesza ,R.J.,2019. Auditorymidbrain hypopla sia
+anddysmorphologyafterprenatalvalproic acidexposure.Neuroscience 396,79–93.
+https: //doi.org/10.1016/ j.neuroscience. 2018. 11.016.
+Marriage,J.,Barnes ,N.M.,1995. Iscentralhyperacusisasymp tomof5-hydroxytrypt a-
+mine (5-HT)dysfunction? .J.Laryn gol.Otol. 109(10),915–921.https: //doi.org/10.
+1017/ s0022215100131676 .
+Mayes ,S.D.,Calhoun ,S.L.,Aggarwal,R.,Baker ,C.,Math apati,S.,Molitoris,S.,Mayes ,
+R.D.,2013. Unusual fears inchildren with autism .Res.Autism Spectr. Disord.7(1),
+151–158.https: //doi.org/10.1016/ j.rasd.2012. 08.002.
+McCullagh,E.A.,Rotschafer ,S.E.,Auerbach,B.D.,Klug,A.,Kaczmarek ,L.K.,Cramer ,K.S.,
+Kulesza ,R.J.,Razak ,K.A.,Lovelace ,J.W.,Lu,Y.,Koch ,U.,Wang ,Y.,2020. Mech a-
+nisms underlyingauditoryprocessingdeficits infragileXsyndrome .Faseb J.34(3),
+3501 –3518 .https: //doi.org/10.1096/ fj.201902435R .
+McVey ,A.J.,2019. Theneurobiologicalpresentationofanxietyinautism spectrum disor-
+der:asystematicreview.Autism Res.12(3),346–369.https: //doi.org/10.1002/ aur.
+2063 .
+Melcher ,J.R.,Levine ,R.A.,Bergevin ,C.,Norris,B.,2009. Theauditorymidbrain ofpeople
+with tinnitus:abnormalsound -evoked activityrevisited.Hear. Res.257(1–2),63–74.
+https: //doi.org/10.1016/ j.heares. 2009. 08.005.
+Meltzer ,H.,Vosta nis,P.,Dogra,N.,Doos,L.,Ford,T.,Good man,R.,2009. Children’sspe-
+cificfears.Child Care Health Dev. 35(6),781–789.https: //doi.org/10.1111/ j.1365 -
+2214. 2008. 00908. x.
+Menon ,V.,Uddin,L.Q.,2010. Saliency, switch ing,attentionandcontrol:anetwork model
+ofinsulafunction.Brain Struct. Funct. 214(5–6),655–667.https: //doi.org/10.1007/
+s00429 -010-0262 -0.
+Mercati,O.,Huguet ,G.,Danck aert,A.,André-Leroux,G.,Maru ani,A.,Bellinzoni ,M.,Rol-
+land,T.,Gouder ,L.,Math ieu,A.,Buratti,J.,Amsellem ,F.,Benabou,M.,Van-Gils,J.,
+Beggiato ,A.,Konyukh ,M.,Bourgeois ,J.-P.,Gazzel lone,M.J.,Yuen ,R.K.C. ,Walker ,
+S.,etal.,2017. CNTN6 mutations areriskfactorsforabnormalauditorysensoryper-
+ceptioninautism spectrum disorders.Mol.Psychiatry22(4),625–633.https: //doi.
+org/10.1038/ mp.2016. 61.
+Micoulaud -Franchi ,J.-A.,Lopez ,R.,Vaillant,F.,Richieri ,R.,El-Kaim ,A.,Bioulac ,S.,
+Philip ,P.,Boyer ,L.,Lancon,C.,2015. Perceptualabnormalitiesrelated tosensorygatingdeficit arecoresymp toms inadults with ADHD .PsychiatryRes.230(2),357–363.
+https: //doi.org/10.1016/ j.psychres. 2015. 09.016.
+Milad,M.R.,Quirk ,G.J.,2012. Fear extinctionasamodel fortranslational neuroscience:
+tenyears ofprogress .Annu. Rev. Psychol. 63(1),129–151.https: //doi.org/10.1146/
+annurev. psych. 121208. 131631 .
+Millin ,R.,Kolodny ,T.,Flevaris,A.V.,Kale,A.M.,Schallmo ,M.-P.,Gerdts ,J.,Bernier ,R.A.,
+Murray,S.,2018. Reduced auditorycorticaladaptationinautism spectrum disorder.
+ELife 7,20150355 https: //doi.org/10.7554/ elife.36493 .
+Miron ,O.,Beam ,A.L.,Kohane,I.S.,2018. Auditorybrain stem response ininfants andchil-
+dren with autism spectrum disorder:ameta‐analy sisofwave V.Autism Res.11(2),
+355–363.https: //doi.org/10.1002/ aur.1886 .
+Miron ,O.,Delgado,R.E.,Delgado,C.F.,Simp son,E.A.,Yu,K.-H.,Gutier rez,A.,Zeng,
+G.,Gerstenberger ,J.N.,Kohane,I.S.,2020. Prolonged auditorybrain stem response in
+universalhearingscreen ingofnewborns with autism spectrum disorder.Autism Res.
+https: //doi.org/10.1002/ aur.2422 .
+Møller,A.R.,2011. Misophonia,phono phobia,and“explodinghead”syndrome .In:Møller,
+A.R.,Langguth ,B.,DeRidder,D.,Klein jung,T.(Eds.), Textbook ofTinnitus.Springer ,
+pp.25–27.https: //doi.org/10.1007/ 978-1-60761 -145-5_4.
+Möhrle,D.,Hofmeier ,B.,Amend ,M.,Wolpert ,S.,Ni,K.,Bing,D.,Klose ,U.,Pichler,B.,
+Knipper,M.,Rüttiger ,L.,2019. Enhanced centralneural gain compensates acoustic
+trauma -induced cochlear impairment, butunlikely correlates with tinnitusandhyper-
+acusis.Neuroscience 407,146–169.https: //doi.org/10.1016/ j.neuroscience. 2018. 12.
+038.
+Moore ,D.J.,2015. Acute painexperience inindividualswith autism spectrum disorders: a
+review.Autism 19(4),387–399.https: //doi.org/10.1177/ 1362361314527839 .
+Moore ,B.C.J. ,Glasberg,B.R.,Hess,R.F.,Birchall,J.P.,1985. Effects offlank ingnoise
+bands ontherateofgrowth ofloudness oftones innormalandrecruitingears.J.
+Acoust. Soc.Am.77(4),1505 –1513 .https: //doi.org/10.1121/ 1.392045 .
+Moos savi,A.,Moallemi ,M.,2019. AuditoryProcessingandAuditoryRehabilitationAp-
+proaches inAutism .AuditoryandVestibu larResearch https: //doi.org/10.18502/ avr.
+v28i1. 410.
+Mottron,L.,Dawson,M.,Souli ères,I.,Hubert,B.,Burack,J.,2006. Enhanced perceptual
+functioninginautism: anupdate, andeight principlesofautisticperception.J.Autism
+Dev. Disord.36(1),27–43.https: //doi.org/10.1007/ s10803 -005-0040 -7.
+Mukad des,N.M.,Fateh ,R.,2010. High rates ofpsychiatric co-morbidityinindividuals
+with Asperger ’sdisorder.World J.Biol. Psychiatry11(2–2),486–492.https: //doi.
+org/10.3109/ 15622970902789130 .
+Muris ,P.,Merckelbach,H.,deJong,P.J.,Ollendick,T.H.,2002. Theetiologyofspecific
+fears andphobiasinchildren: acritique ofthenon-associativeaccount .Behav. Res.
+Ther. 40(2),185–195.https: //doi.org/10.1016/ S0005 -7967(01)00051 -1.
+Muskat ,B.,Burnham Riosa ,P.,Nicholas ,D.B.,Roberts ,W.,Stoddart,K.P.,Zwaigen baum ,
+L.,2015. Autism comes tothehospital:theexperiences ofpatients with autism spec-
+trum disorder,their parentsandhealth -careproviders attwoCanadianpaediatric hos-
+pitals.Autism 19(4),482–490.https: //doi.org/10.1177/ 1362361314531341 .
+Muskett,A.,Capri ola-Hall,N.N.,Radtke ,S.R.,Factor,R.,Scarpa ,A.,2019. Repet itivebe-
+haviorsinautism spectrum disorder:associations with depressionandanxietysymp -
+toms.Res. Autism Spectr. Disord. 68,101449 https: //doi.org/10.1016/ j.rasd.2019.
+101449 .
+Naples ,A.,Wolf,J.,Carlos,C.L.,Foss-Feig,J.H.,Anticevic,A.,Kala,S.,Bagdasarov ,A.,
+Cummings ,E.M.,Srihari,V.,McPartland,J.,2020. DynamicsofE/Iactivitypredictso-
+cialandsensorysymp toms transdiagnostically.June 3.In:INSAR2020 VirtualMeet-
+ing.https: //insar. confex. com/ insar/ 2020/ meetingapp. cgi/Paper/ 34960 .
+Neal,M.,Cavanna ,A.E.,2013. Selectivesound sensitivitysyndrome (miso phonia)inapa-
+tient with Tourette wyndrome .J.Neuropsy chiatryClin. Neurosci. 25(1),E01.https:
+//doi.org/10.1176/ appi.neuropsych. 11100235 .
+Neil,L.,Olsson,N.C.,Pellicano,E.,2016. Therelationship between intolerance ofun-
+certainty, sensory sensitivities,andanxietyinautisticandtypically developingchil-
+dren.J.Autism Dev. Disord. 46(6),1962 –1973 .https: //doi.org/10.1007/ s10803 -
+016-2721 -9.
+Neil,L.,Green ,D.,Pellicano,E.,2017. Thepsychometricpropertiesofanew measure
+ofsensory behaviorsinautisticchildren.J.Autism Dev. Disord.47(4),1261 –1268 .
+https: //doi.org/10.1007/ s10803 -016-3018 -8.
+Nelson,S.B.,Valakh ,V.,2015. Excitatory/ inhibitory balance andcircuithome ostasis
+inautism spectrum disorders.Neuron87(4),684–698.https: //doi.org/10.1016/ j.
+neuron. 2015. 07.033.
+Nicholas ,D.B.,Zwaigen baum ,L.,Muskat ,B.,Craig ,W.R.,Newton,A.S.,Kilmer ,C.,Green -
+blatt,A.,Roberts ,W.,Cohen-Silver,J.,2016. Experiences ofemer gency department
+carefrom theperspectiveoffamiliesinwhich achild hasautism spectrum disorder.
+Soc.Work Health Care 55(6),409–426.https: //doi.org/10.1080/ 00981389. 2016.
+1178679 .
+Nomi ,J.S.,Molnar-Szakacs,I.,Uddin,L.Q.,2019. Insularfunctioninautism: update and
+future directions inneuroimag ingandinterventions.Prog.Neuropsy chophar macol.
+Biol. Psychiatry89,412–426.https: //doi.org/10.1016/ j.pnpbp. 2018. 10.015.
+Noreña,A.J.,Chéry-Croze ,S.,2007. Enriched acoustic environment rescales auditory
+sensitivity.Neuroreport 18 (12),1251 –1255 .https: //doi.org/10.1097/ wnr.
+0b013e3282202c35 .
+O’Connor,K.,2012. Auditoryprocessinginautism spectrum disorder:areview.Neurosci.
+Biobe hav.Rev. 36(2),836–854.https: //doi.org/10.1016/ j.neubiorev. 2011. 11.008.
+Ohmura ,Y.,Ichikawa ,I.,Kumagaya,S.,Kuniyoshi ,Y.,2019. Stape dialreflexthresh old
+predicts individualloudness tolerance forpeoplewith autisticspectrum disorders.
+Exp. Brain Res.237(1),91–100.https: //doi.org/10.1007/ s00221 -018-5400 -6.
+Ollendick,T.H.,King,N.J.,Muris ,P.,2002. Fears andphobiasinchildren: phenom enol-
+ogy,epidemiology,andaetiology.Child Adolesc.Ment. Health 7(3),98–106.https: //
+doi.org/10.1111/ 1475 -3588. 00019 .
+Osuagwu ,F.C.,Osuagwu ,V.C.,Machoka ,A.M.,2020. Methylphenidate ameliorates wors-
+eningdistractibil itysymp toms ofmisophoniainanadolescentmale.Prim. Care Com-
+panionCNSDisord.22(5),19l02553 .https: //doi.org/10.4088/ PCC.19l02553 .
+Ozsivadjian,A.,Knott ,F.,Magiati,I.,2012. Parentandchild perspectives onthenatureof
+anxietyinchildren andyoung peoplewith autism spectrum disorders: afocusgroup
+study .Autism 16(2),107–121.https: //doi.org/10.1177/ 1362361311431703 .
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Palumbo ,D.B.,Alsalman ,O.,DeRidder,D.,Song,J.-J.,Vanneste ,S.,2018. Misophonia
+andpotentialunderlyingmech anisms: aperspective.Front. Psychol. 9,219.https: //
+doi.org/10.3389/ fpsyg. 2018. 00953 .
+Paulin ,J.,Andersson,L.,Nordin ,S.,2016. Characteristicsofhyperacusisinthegen-
+eralpopulation.Noise Health 18(83),178–184.https: //doi.org/10.4103/ 1463 -1741.
+189244 .
+Pelletier ,M.-F.,Hodgetts,H.M.,Lafleur ,M.F.,Vincent,A.,Trem blay,S.,2016. Vulnera-
+bilitytotheirrelevant sound effectinadult ADHD .J.Atten.Disord.20(4),306–316.
+https: //doi.org/10.1177/ 1087054713492563 .
+Pellicano,E.,Burr,D.,2012. When theworld becomes “tooreal”:aBayesian explanation
+ofautisticperception.Trends Cogn. Sci.16(10),504–510.https: //doi.org/10.1016/ j.
+tics.2012. 08.009.
+Phillips ,D.P.,Carr,M.M. ,1998. Disturbances ofloudnessperception.J.Am.Acad. Audiol.
+9(5),371–379.
+Pickard ,H.,Hirsch ,C.,Simonoff ,E.,Happ é,F.,2020. Exploringthecognitive, emotional
+andsensory correlates ofsocialanxietyinautisticandneurotyp icaladolescents .J.
+Child Psychol. Psychiatryhttps: //doi.org/10.1111/ jcpp.13214 ,jcpp.13214 .
+Pienkowski ,M.,2019. Rationale andefficacy ofsound therapiesfortinnitusandhyper-
+acusis.Neuroscience 407,120–134.https: //doi.org/10.1016/ j.neuroscience. 2018. 09.
+012.
+Pienkowski ,M.,Tyler ,R.S.,Roncancio,E.R.,Jun,H.J.,Brozoski ,T.,Dauman,N.,Coelho ,
+C.B.,Andersson,G.,Keiner ,A.J.,Cacace,A.T.,Martin,N.,Moore ,B.C.J. ,2014. Are-
+view ofhyperacusisandfuture directions: partII.Measurement, mech anisms, and
+treatment .Am. J.Audiol. 23(4),420–436.https: //doi.org/10.1044/ 2014_ AJA-13-
+0037 .
+Pillion,J.P.,Boatman-Reich,D.,Gordon,B.,2018. Auditorybrain stem pathol ogyinautism
+spectrum disorder:areview.Cogn. Behav.Neurol.31(2),53–78.https: //doi.org/10.
+1097/ wnn.0000000000000154 .
+Plutchik ,R.,1963. Auditorypain thresh oldsforintermittent, “beat”andsteady signals.
+Percept.Mot. Skills 16(3),863–870.https: //doi.org/10.2466/ pms.1963. 16.3.863.
+Pollard,B.,2019. Clinicaladvance ments formanaginghyperacusiswith pain.Hear. J.72
+(10),10.https: //doi.org/10.1097/ 01.HJ.0000602900. 16223. 0e.
+Potgieter,I.,MacDonald,C.,Partridge ,L.,Cima ,R.,Sheldrake ,J.,Hoare ,D.J.,2019. Miso-
+phonia:ascopingreview ofresearch .J.Clin. Psychol. 75(7),1203 –1218 .https: //doi.
+org/10.1002/ jclp.22771 .
+Poulton,R.,Menzies,R.G.,2002. Non-associativefearacquisition: areview oftheevidence
+from retrospectiveandlongitudinalresearch .Behav. Res. Ther. 40(2),127–149.
+https: //doi.org/10.1016/ S0005 -7967(01)00045 -6.
+Preece ,D.,Jordan,R.,2010. Obtainingtheviews ofchildren andyoung peoplewith
+autism spectrum disorders about their experience ofdaily lifeandsocialcare sup-
+port.Br.J.Learn. Disabil. 38(1),10–20.https: //doi.org/10.1111/ j.1468 -3156. 2009.
+00548. x.
+Preyer ,S.,Gummer,A.W.,1996. Nonlinearityofmecha noelectricaltransductionofouter
+haircells asthesource ofnonlinearbasilar-membrane motionandloudness recruit-
+ment .Audiol. Neurotol.1(1),3–11.https: //doi.org/10.1159/ 000259185 .
+Punch ,J.,Joseph ,A.,Rakerd,B.,2004. Most comfortableanduncomfortableloudnesslev-
+els:sixdecades ofresearch .Am.J.Audiol. 13(2),144–157.https: //doi.org/10.1044/
+1059 -0889(2004/ 019).
+Radzi won,K.,Auerbach,B.D.,Ding,D.,Liu,X.,Chen ,G.-D.,Salvi,R.,2019. Noise -Induced
+loudnessrecruitment andhyperacusis:insufficient centralgaininauditorycortexand
+amyg dala.Neuroscience 422,212–227.https: //doi.org/10.1016/ j.neuroscience. 2019.
+09.010.
+Remington,A.,Fairnie ,J.,2017. Asound advantage: increased auditory capacityin
+autism .Cognition166,459–465.https: //doi.org/10.1016/ j.cognition. 2017. 04.002.
+Robert son,C.E.,Baron -Cohen,S.,2017. Sensoryperceptioninautism .Nat.Rev. Neurosci.
+18(11),671–684.https: //doi.org/10.1038/ nrn.2017. 112.
+Robert son,A.E.,Simmons ,D.R.,2013. Therelationship between sensory sensitivityand
+autistictraits inthegeneralpopulation.J.Autism Dev. Disord.43(4),775–784.https:
+//doi.org/10.1007/ s10803 -012-1608 -7.
+Robert son,A.E.,Simmons ,D.R.,2015. Thesensoryexperiences ofadults with autism spec-
+trum disorder:aqualitativeanaly sis.Perception44(5),569–586.https: //doi.org/10.
+1068/ p7833 .
+Rodgers ,J.,Wigham ,S.,McConachie ,H.,Freeston,M.,Honey ,E.,Parr,J.R.,2016. De-
+velopment oftheanxietyscale forchildren with autism spectrum disorder(ASC-ASD) .
+Autism Res.9(11),1205 –1215 .https: //doi.org/10.1002/ aur.1603 .
+Rodier ,P.M.,Ingram ,J.L.,Tisdale,B.,Croog ,V.J.,1997. Linkingetiologiesinhumans and
+animalmodels:studiesofautism .Reprod. Toxicol.11(2),417–422.https: //doi.org/
+10.1016/ S0890 -6238(97)80001 -U.
+Röhl,M.,Uppenkamp ,S.,2012. Neural codingofsound intensityandloudnessinthehu-
+manauditorysystem.J.Assoc.Res.Otolaryn gol.13(3),369–379.https: //doi.org/10.
+1007/ s10162 -012-0315 -6.
+Rosen hall,U.,Nordin ,V.,Sandström,M.,Ahlsén,G.,Gillberg,C.,1999. Autism and
+hearingloss.J.Autism Dev. Disord. 29(5),349–357.https: //doi.org/10.1023/ A:
+1023022709710 .
+Rotschafer ,S.E.,Cramer ,K.S.,2017. Developmentalemer gence ofphenotypes intheaudi-
+torybrain stem nucleiofFmr1 knock outmice.ENeuro 4(6)https: //doi.org/10.1523/
+ENEURO. 0264 -17.2017 ,ENEURO.0264 -17.2017 .
+Rotschafer ,S.E.,Razak ,K.,2013. Altered auditoryprocessinginamouse model offrag-
+ileXsyndrome .Brain Res.1506 ,12–24.https: //doi.org/10.1016/ j.brainres. 2013. 02.
+038.
+Rotschafer ,S.E.,Marshak,S.,Cramer ,K.S.,2015. DeletionofFmr1 altersfunctionand
+synap ticinputsintheauditorybrain stem.PLoS One10(2),e0117266 https: //doi.org/
+10.1371/ journal. pone. 0117266 .
+Ruben stein,J.L.R. ,Merzenich ,M.M. ,2003. Model ofautism: increased ratioofexcitation/
+inhibitioninkeyneural systems.Genes Brain Behav.2(5),255–267.https: //doi.org/
+10.1034/ j.1601 -183X. 2003. 00037. x.
+Salvi,R.J.,Wang ,J.,Ding,D.,2000. Auditory plasticityandhyperactivityfollowing
+cochlear damage.Hear. Res. 147 (1),261–274.https: //doi.org/10.1016/ S0378 -
+5955(00)00136 -2.Salvi,R.J.,Auerbach,B.D.,Lau,C.,Chen ,Y.-C.,Manohar ,S.,Liu,X.,Ding,D.,Chen ,G.-D.,
+2020. Functional Neuroanatomy ofSalicylate-andNoise -induced TinnitusandHyper-
+acusis.1–28.https: //doi.org/10.1007/ 7854_ 2020_ 156.
+Sandbank,M.,Bottema-Beutel,K.,Crow ley,S.,Cassidy,M.,Dunham,K.,Feldman,J.I.,
+Crank ,J.,Albarran,S.A.,Raj,S.,Mahbub,P.,Woynaroski ,T.G.,2020. ProjectAIM:
+autism interventionmeta-analy sisforstudiesofyoung children.Psychol. Bull. 146(1),
+1–29.https: //doi.org/10.1037/ bul0000215 .
+Sandrock ,S.,Schütte,M.,Griefahn ,B.,2008. Impairingeffects ofnoise inhigh andlow
+noise sensitivepersons work ingondifferentmentaltasks.Int.Arch. Occup.Environ.
+Health 82(6),779.https: //doi.org/10.1007/ s00420 -008-0379 -0.
+Santos,M.,Marques,C.,Nóbrega Pinto ,A.,Fernandes,R.,Coutinho ,M.B.,Almeida e
+Sousa ,C.,2017. Autism spectrum disordersandtheamplitude ofauditorybrain stem
+response wave I:autism spectrum disordersandtheamplitude ofABR wave I.Autism
+Res.10(7),1300 –1305 .https: //doi.org/10.1002/ aur.1771 .
+Scahill,L.,Lecav alier,L.,Schultz ,R.T.,Evans ,A.N.,Maddox,B.,Pritch ett,J.,Herrington,
+J.,Gillespie,S.,Miller ,J.,Amoss ,R.T.,Aman ,M.G.,Bearss ,K.,Gadow ,K.,Edwards ,
+M.C.,2019. Development oftheparent-rated anxietyscale foryouth with autism spec-
+trum disorder.J.Am.Acad. Child Adolesc. Psychiatry58(9),887–896.https: //doi.
+org/10.1016/ j.jaac.2018. 10.016,e2.
+Schauder ,K.B.,Bennetto ,L.,2016. Toward aninterdisciplinary understand ingofsensory
+dysfunctioninautism Spectrum disorder:anintegrationoftheneural andsymp tom
+literatures.Front. Neurosci. 10,268.https: //doi.org/10.3389/ fnins. 2016. 00268 .
+Schmidt ,F.H.,Mauer mann ,M.,Kollmeier ,B.,2020. Neural representationofloudness:
+corticalevoked potentialsinaninduced loudnessreductionexperiment .Trends Hear.
+24,2331216519900595 https: //doi.org/10.1177/ 2331216519900595 .
+Schoen ,S.A.,Lane,S.J.,Mailloux,Z.,May‐Benson,T.,Parham ,L.D.,Roley,S.S.,Schaaf ,
+R.C.,2019. Asystematicreview ofAyres SensoryIntegrationinterventionforchildren
+with autism .Autism Res.12(1),6–19.https: //doi.org/10.1002/ aur.2046 .
+Scholl ,B.,Wehr ,M.,2008. Disruption ofbalanced corticalexcitation andinhibition
+byacoustic trauma .J.Neurophysiol.100(2),646–656.https: //doi.org/10.1152/ jn.
+90406. 2008 .
+Schreiner ,C.E.,Malone,B.J.,2015. Representationofloudnessintheauditorycortex.In:
+In:Aminoff ,M.J.,Boller ,F.,Swaab ,D.F.(Eds.), Hand book ofClinicalNeurologyVol.
+129,Elsevier,pp.73–84.https: //doi.org/10.1016/ B978 -0-444-62630 -1.00004 -4.
+Schroder ,A.C.,Viemeis ter,N.F.,Nelson,D.A.,1994. Intensitydiscrimination innor-
+mal‐hearingandhearing‐impaired listeners.J.Acoust. Soc.Am.96(5),2683 –2693 .
+https: //doi.org/10.1121/ 1.411276 .
+Schröder,A.E.,Vulink ,N.,Denys ,D.,2013. Misophonia:diagnosticcriteriaforanew
+psychiatric disorder.PLoSOne 8(1),e54706 https: //doi.org/10.1371/ journal. pone.
+0054706 .
+Schröder,A.E.,Vulink ,N.C.,vanLoon,A.J.,Denys ,D.A.,2017. Cognitivebehavioral ther-
+apyiseffectiveinmisophonia:anopen trial.J.Affect.Disord.217,289–294.https: //
+doi.org/10.1016/ j.jad.2017. 04.017.
+Schröder,A.E.,vanWingen,G.,Eijsker,N.,Giorgi ,R.S.,Vulink ,N.C.,Turbyne,C.,Denys ,
+D.,2019. Misophoniaisassociated with altered brain activityintheauditory cor-
+texandsalience network .Sci.Rep. 9(1),7542 .https: //doi.org/10.1038/ s41598 -019-
+44084 -8.
+Sheldrake ,J.,Diehl ,P.U.,Schaette ,R.,2015. Audiometriccharacteristicsofhyperacusis
+patients .Front. Neurol.6(1),105.https: //doi.org/10.3389/ fneur. 2015. 00105 .
+Sheppard,A.,Stock ing,C.,Ralli,M.,Salvi,R.,2020. Areview ofauditorygain, low-level
+noise andsound therapyfortinnitusandhyperacusis.Int.J.Audiol. 59(1),5–15.
+https: //doi.org/10.1080/ 14992027. 2019. 1660812 .
+Simonoff ,E.,2020. Mentalhealth inautisticpeople:settingaresearch agenda forthe
+comingdecade [INSAR 2020 virtual-keynote webinar].June 3.In:International
+SocietyforAutism Research Annual Meeting.https: //insar. confex. com/ insar/ 2020/
+meetingapp. cgi/Paper/ 36311 .
+Sinha ,Y.,Silove ,N.,Wheeler ,D.,Williams ,K.,2006. Auditoryintegrationtrainingand
+other sound therapiesforautism spectrum disorders: asystematicreview.Arch. Dis.
+Child. 91(12),1018 –1022 .https: //doi.org/10.1136/ adc.2006. 094649 .
+Smith ,R.S.,Sharp ,J.,2013. Fascinationandisolation: agrounded theoryexploration of
+unusual sensoryexperiences inadults with Asperger syndrome .J.Autism Dev. Disord.
+43(4),891–910.https: //doi.org/10.1007/ s10803 -012-1633 -6.
+Sohal,V.S.,Ruben stein,J.L.R. ,2019. Excitation-inhibitionbalance asaframe work for
+investigatingmech anisms inneuropsy chiatric disorders.Mol.Psychiatry24(9),
+1248 –1257 .https: //doi.org/10.1038/ s41380 -019-0426 -0.
+Soltis ,J.,2004. Thesignalfunctions ofearly infant crying.Behav. Brain Sci.27(4),
+443–458.https: //doi.org/10.1017/ S0140525X0400010X .
+Sörqvist ,P.,2010. Theroleofwork ingmemorycapacityinauditorydistraction: areview.
+Noise Health 12(49),217–224.https: //doi.org/10.4103/ 1463 -1741. 70500 .
+Sörqvist ,P.,Marsh ,J.E.,2015. How concentrationshields against distraction.Curr. Dir.
+Psychol. Sci.24(4),267–272.https: //doi.org/10.1177/ 0963721415577356 .
+Sörqvist ,P.,Rönnberg ,J.,2014. Individualdifferences indistractibil ity:anupdate anda
+model .Psych J.3(1),42–57.https: //doi.org/10.1002/ pchj.47.
+South ,M.,Rodgers ,J.,2017. Sensory, emotional andcognitivecontributions toanxiety
+inautism spectrum disorders.Front. Hum. Neurosci. 11,20.https: //doi.org/10.3389/
+fnhum. 2017. 00020 .
+Stans feld,S.A.,1992. Noise, noise sensitivityandpsychiatric disorder:epidemiological
+andpsychophys iologicalstudies.Psychol. Med. Monogr. Suppl. 22,1–44.https: //doi.
+org/10.1017/ S0264180100001119 .
+Stans feld,S.A.,Clark ,C.,2019. Mentalhealth effects ofnoise .In:Nriagu ,J.(Ed.), Ency-
+clopediaofEnvironmentalHealth ,2nded.Elsevier,pp.287–294.https: //doi.org/10.
+1016/ B978 -0-12-409548 -9.11814 -7.
+Stans feld,S.A.,Clark ,C.R.,Turpin ,G.,Jenkins,L.M.,Tarnopol sky,A.,1985. Sensitivity
+tonoise inacommunitysample:II.Measurement ofpsychophys iologicalindices .Psy-
+chol. Med. 15(2),255–263.https: //doi.org/10.1017/ S0033291700023539 .
+Stefanelli ,A.C.G.F. ,Zanchetta ,S.,Furtado,E.F.,Stefanelli ,A.C.G.F. ,Furtado,E.F.,2020.
+Auditoryhyper-responsivenessinautism spectrum disorder,terminologiesandphys-
+iologicalmech anisms involved: systematicreview.CoDAS32(3),e20180287 https: //
+doi.org/10.1590/ 2317 -1782/ 20192018287 .
+
+UNCORRECTEDPROOFZ.J. Williams et al. Neuroscience and Biobehavioral Reviews xxx(xxxx)xxx-xxx
+Steigner ,J.,Ruhlin,S.U.,2014. Systematicdesensitizationofhyperacusisandvocalpitch
+disordertreatment inapatient with autism .TheInternetJournalofAlliedHealth Sci-
+ences andPractice12(1),1–6.
+Stiegler ,L.N.,Davis ,R.,2010. Understand ingsound sensitivityinindividualswith autism
+spectrum disorders.FocusAutism Other Dev. 25(2),67–75.https: //doi.org/10.1177/
+1088357610364530 .
+Stolzberg ,D.,Chros towski ,M.,Salvi,R.J.,Allman,B.L.,2012. Intracorticalcircuits am-
+plify sound -evoked activityinprimary auditorycortexfollowingsystemic injectionof
+salicylateintherat.J.Neurophysiol.108(1),200–214.https: //doi.org/10.1152/ jn.
+00946. 2011 .
+Suhnan,A.P.,Finch ,P.M.,Drum mond ,P.D.,2017. Hyperacusisinchronic pain: neural
+interactions between theauditory andnociceptivesystems.Int.J.Audiol. 56(11),
+801–809.https: //doi.org/10.1080/ 14992027. 2017. 1346303 .
+Sun,W.,Lu,J.,Stolzberg ,D.,Gray,L.,Deng ,A.,Lobarinas,E.,Salvi,R.J.,2009. Salicy-
+lateincreases thegainofthecentralauditorysystem.Neuroscience 159(1),325–334.
+https: //doi.org/10.1016/ j.neuroscience. 2008. 12.024.
+Sun,Wei,Deng ,A.,Jayaram ,A.,Gibson,B.,2012. Noise exposureenhances auditorycor-
+texresponses related tohyperacusisbehavior.Brain Res.1485 ,108–116.https: //doi.
+org/10.1016/ j.brainres. 2012. 02.008.
+Syu,Y.-C.,Lin,L.-Y.,2018. Sensoryoverresponsivity,loneliness, andanxietyintaiwanese
+adults with autism spectrum disorder.Occup. Ther. Int.2018 ,1–7.https: //doi.org/
+10.1155/ 2018/ 9165978 .
+Talge ,N.M.,Tudor,B.M.,Kileny ,P.R.,2018. Click ‐evoked auditorybrain stem responses
+andautism spectrum disorder:ameta‐analytic review.Autism Res.11(6),916–927.
+https: //doi.org/10.1002/ aur.1946 .
+Tavas soli,T.,Miller ,L.J.,Schoen ,S.A.,Nielsen ,D.M.,Baron -Cohen,S.,2014. Sensory
+over-responsivityinadults with autism spectrum conditions.Autism 18(4),428–432.
+https: //doi.org/10.1177/ 1362361313477246 .
+Tavas soli,T.,Brandes-Aitken ,A.,Chu,R.,Porter ,L.,Schoen ,S.,Miller ,L.J.,Gerdes ,M.R.,
+Owen ,J.,Mukher jee,P.,Marco ,E.J.,2019. Sensoryover-responsivity:parentreport,
+directassessment measures, andneural architecture.Mol.Autism 10(1),4.https: //
+doi.org/10.1186/ s13229 -019-0255 -7.
+Tharpe ,A.M.,Bess,F.H.,Sladen ,D.P.,Schissel ,H.,Couch ,S.,Schery,T.,2006. Auditory
+characteristicsofchildren with autism .EarHear. 27(4),430–441.https: //doi.org/10.
+1097/ 01.aud.0000224981. 60575. d8.
+Tovote ,P.,Fadok ,J.P.,Lüthi,A.,2015. Neuronal circuits forfearandanxiety.Nat.Rev.
+Neurosci. 16(6),317–331.https: //doi.org/10.1038/ nrn3945 .
+Toyoshima ,M.,Sakurai,K.,Shimazaki ,K.,Takeda ,Y.,Shimoda ,Y.,Watan abe,K.,2009.
+Deficiency ofneural recog nition molecule NB-2affects thedevelopment ofgluta-
+mater gicauditory pathways from theventralcochlear nucleus tothesuperioroli-
+varycomplexinmouse .Dev. Biol. 336(2),192–200.https: //doi.org/10.1016/ j.ydbio.
+2009. 09.043.
+Trakoshis ,S.,Martínez-Cañada,P.,Rocchi,F.,Canella ,C.,You,W.,Chakrabarti ,B.,
+Ruigrok ,A.N.,Bullmore ,E.T.,Suckling,J.,Markicevic,M.,Zerbi ,V.,MRC AIMS Con-
+sortium,Baron -Cohen,S.,Gozzi ,A.,Lai,M.-C.,Panzeri,S.,Lombardo ,M.V.,2020.
+Intrinsicexcitation-inhibitionimbalance affects medialprefrontal cortexdifferently in
+autisticmenversuswomen .ELife 9,e55684 https: //doi.org/10.7554/ eLife. 55684 .
+Trevor ,C.,Arnal,L.H.,Frühholz ,S.,2020. Terrifyingfilmmusicmimicsalarm ingacoustic
+featureofhuman screams .J.Acoust. Soc. Am. 147(6),EL540 –EL545 .https: //doi.
+org/10.1121/ 10.0001459 .
+Tyler ,R.S.,Pienkowski ,M.,Roncancio,E.R.,Jun,H.J.,Brozoski ,T.,Dauman,N.,Coelho ,
+C.B.,Andersson,G.,Keiner ,A.J.,Cacace,A.T.,Martin,N.,Moore ,B.C.J. ,2014. Are-
+view ofhyperacusisandfuturedirections: partI.Definitions andmanifestations.Am.
+J.Audiol. 23(4),402–419.https: //doi.org/10.1044/ 2014_ AJA-14-0010 .
+Uddin,L.Q.,2015. Salience processingandinsularcorticalfunctionanddysfunction.Nat.
+Rev. Neurosci. 16(1),55–61.https: //doi.org/10.1038/ nrn3857 .
+Uljarevi ć,M.,Baranek ,G.,Vivanti ,G.,Hedley,D.,Hudry ,K.,Lane,A.,2017. Heterogene-
+ityofsensory features inautism spectrum disorder:challenges andperspectives for
+futureresearch .Autism Res.10(5),703–710.https: //doi.org/10.1002/ aur.1747 .
+Uppenkamp ,S.,Röhl,M.,2014. Human auditoryneuroimag ingofintensityandloudness.
+Hear. Res.307,65–73.https: //doi.org/10.1016/ j.heares. 2013. 08.005.
+VandeCruys ,S.,Evers ,K.,VanderHallen ,R.,VanEylen ,L.,Boets ,B.,de-Wit,L.,Wage -
+mans ,J.,2014. Preciseminds inuncertainworlds: predictivecodinginautism .Psy-
+chol. Rev. 121(4),649–675.https: //doi.org/10.1037/ a0037665 .
+VanHulle ,C.A.,Schmidt ,N.L.,Goldsmith ,H.H.,2012. Issensoryover-responsivitydistin-
+guish able from childhood behaviorproblems? Aphenotypic andgenetic analy sis.J.
+Child Psychol. Psychiatry53(1),64–72.https: //doi.org/10.1111/ j.1469 -7610. 2011.
+02432. x.
+VanHulle ,C.A.,Lemery -Chalfant,K.,HillGoldsmith ,H.,2018. Parent-offspring transmis-
+sionofinternalizingandsensory over-responsivitysymp toms inadolescence .J.Ab-
+norm. Child Psychol. 46(3),557–567.https: //doi.org/10.1007/ s10802 -017-0300 -y.
+vanKamp ,I.,Job,R.F.S. ,Hatfield,J.,Haines ,M.,Stellato,R.K.,Stans feld,S.A.,2004. The
+roleofnoise sensitivityinthenoise -response relation: acomparisonofthree inter-
+national airportstudies.J.Acoust. Soc.Am.116(6),3471 –3479 .https: //doi.org/10.
+1121/ 1.1810291 .
+Viinikainen ,M.,Kätsyri,J.,Sams ,M.,2012. Representationofperceived sound valence in
+thehuman brain .Hum. Brain Mapp. 33(10),2295 –2305 .https: //doi.org/10.1002/
+hbm. 21362 .Vingen,J.V.,Pareja ,J.A.,Støren,O.,White ,L.R.,Stovner ,L.J.,1998. Phono phobiain
+migraine .Cepha lalgia18(5),243–249.https: //doi.org/10.1111/ j.1468 -2982. 1998.
+1805243. x.
+Viziano ,A.,Micarelli ,A.,Alessan drini,M.,2017. Noise sensitivityandhyperacusisinpa-
+tients affected bymultiplechem icalsensitivity.Int.Arch. Occup.Environ.Health 90
+(2),189–196.https: //doi.org/10.1007/ s00420 -016-1185 -8.
+Volkmar,F.R.,Cohen,D.J.,1985. Theexperience ofinfantileautism: afirst-personac-
+count byTony W.J.Autism Dev. Disord. 15(1),47–54.https: //doi.org/10.1007/
+BF01837898 .
+Ward ,J.,2019. Individualdifferences insensorysensitivity:asynthesizingframe work and
+evidence from normalvariationanddevelopmentalconditions.Cogn. Neurosci. 10
+(3),139–157.https: //doi.org/10.1080/ 17588928. 2018. 1557131 .
+Watts ,S.J.,Rodgers ,J.,Riby,D.,2016. Asystematicreview oftheevidence forhypore-
+sponsivityinASD.Rev. J.Autism Dev. Disord.3(4),286–301.https: //doi.org/10.
+1007/ s40489 -016-0084 -y.
+Weitlauf,A.S.,Sathe ,N.,McPheeters ,M.L.,Warren,Z.E.,2017. Interventions targeting
+sensory challenges inautism spectrum disorder:asystematicreview.Pediatrics 139
+(6),e20170347 https: //doi.org/10.1542/ peds. 2017 -0347 .
+Wen,T.H.,Afroz ,S.,Reinhard,S.M.,Palacios,A.R.,Tapia ,K.,Binder ,D.K.,Razak ,K.A.,
+Ethell ,I.M.,2018. Genetic reductionofmatrixmetalloproteinase -9promotes forma-
+tionofperineuronal netsaround parvalbumin-express inginterneu ronsandnormalizes
+auditorycortexresponses indevelopingFmr1 knock -outmice.Cereb .Cortex28(11),
+3951 –3964 .https: //doi.org/10.1093/ cercor/ bhx258 .
+Whitford,T.J.,2019. Speak ing-induced suppressionoftheauditorycortexinhumans and
+itsrelevance toschizophrenia.Biol.PsychiatryCogn. Neurosci. Neuroimag ing4(9),
+791–804.https: //doi.org/10.1016/ j.bpsc. 2019. 05.011.
+Wigham ,S.,Rodgers ,J.,South ,M.,McConachie ,H.,Freeston,M.,2015. Theinterplay
+between sensoryprocessingabnormalities,intolerance ofuncertainty, anxietyandre-
+stricted andrepet itivebehaviours inautism spectrum disorder.J.Autism Dev. Disord.
+45(4),943–952.https: //doi.org/10.1007/ s10803 -014-2248 -x.
+Williams ,Z.J.,Failla ,M.D.,Gotham ,K.O.,Woynaroski ,T.G.,Cascio,C.,2018. Psychome-
+tricevaluationoftheShort SensoryProfileinyouth with autism spectrum disorder.J.
+Autism Dev. Disord.48(12),4231 –4249 .https: //doi.org/10.1007/ s10803 -018-3678 -
+7.
+Williams ,Z.J.,Abdelmes sih,P.G.,Key,A.P.,Woynaroski ,T.G.,2020. Corticalauditory
+processingofsimplestimuliisaltered inautism: ameta-analy sisofauditoryevoked
+responses .Biol.PsychiatryCogn. Neurosci. Neuroimag inghttps: //doi.org/10.1016/ j.
+bpsc. 2020. 09.011.
+Williams ,Z.J.,Suzman,E.,Woynaroski ,T.G.,2020. APhenotypic ComparisonofLoudness
+andPain Hyperacusis:Symp toms, Comorbidity,andAssociatedFeatures inaMulti na-
+tional Patient Registry.EarHear.
+Williams ,Z.J.,Suzman,E.,Woynaroski ,T.G.,2020. Preva lence ofDecreased Sound Tol-
+erance (hyperacusis)inIndividualsWith Autism Spectrum Disorder:aMeta-analy -
+sis.Manuscript SubmittedforPublication
+Wilson,U.S.,Sadler ,K.M.,Hancock,K.E.,Guinan ,J.J.,Lichtenhan,J.T.,2017. Efferent
+inhibitionstrength isaphysiologicalcorrelateofhyperacusisinchildren with autism
+spectrum disorder.J.Neurophysiol.118(2),1164 –1172 .https: //doi.org/10.1152/ jn.
+00142. 2017 .
+Wong ,E.,Radzi won,K.,Chen ,G.-D.,Liu,X.,Manno ,F.A.M. ,Manno ,S.H.C.,Auerbach,B.,
+Wu,E.X.,Salvi,R.,Lau,C.,2020. Functional magnetic resonance imagingofenhanced
+centralauditorygainandelectrophysiologicalcorrelates inabehavioral model ofhy-
+peracusis.Hear. Res.389,107908 https: //doi.org/10.1016/ j.heares. 2020. 107908 .
+Wood ,J.J.,Gadow ,K.D.,2010. Exploringthenatureandfunctionofanxietyinyouth with
+autism spectrum disorders.Clin. Psychol. Sci.Pract. 17(4),281–292.https: //doi.org/
+10.1111/ j.1468 -2850. 2010. 01220. x.
+Wood house ,A.,Drum mond ,P.D.,1993. Mech anisms ofincreased sensitivitytonoise and
+light inmigraine headache .Cepha lalgia13(6),417–421.https: //doi.org/10.1046/ j.
+1468 -2982. 1993. 1306417. x.
+Zentall,S.S.,Shaw ,J.H.,1980. Effects ofclassroom noise onperformance andactivity
+ofsecond-grade hyperactiveandcontrolchildren.J.Educ. Psychol. 72(6),830–840.
+https: //doi.org/10.1037/ 0022 -0663. 72.6.830.
+Zhang ,K.D.,Coate ,T.M.,2017. Recentadvances inthedevelopment andfunctionoftype
+IIspiralganglion neurons inthemam malian innerear.Semin. CellDev. Biol. 65,
+80–87.https: //doi.org/10.1016/ j.semcdb. 2016. 09.017.
+Zhao,S.,Yum,N.W.,Benjamin ,L.,Benhamou ,E.,Yoneya ,M.,Furukawa ,S.,Dick,F.,
+Slaney ,M.,Chait ,M.,2019. Rapid ocularresponses aremodulated bybottom-up-dri-
+venauditory salience .J.Neurosci. 39(39),7703 –7714 .https: //doi.org/10.1523/
+JNEUROSCI. 0776 -19.2019 .
+Zimmerman,R.,Patel,R.,Smith ,A.,Pasos,J.,Kulesza ,R.J.,2018. Repeated prenatalex-
+posuretovalproic acidresults inauditorybrain stem hypopla siaandreduced calcium
+bindingproteinimmuno labeling.Neuroscience 377,53–68.https: //doi.org/10.1016/
+j.neuroscience. 2018. 02.030.
+Zimmerman,R.,Smith ,A.,Fech,T.,Mansour,Y.,Kulesza ,R.J.,2020. Inutero exposure
+tovalproic acid disrupts ascendingprojections tothecentralnucleus oftheinferior
+colliculusfrom theauditorybrain stem.Exp.Brain Res.238(3),551–563.https: //doi.
+org/10.1007/ s00221 -020-05729 -7.
+17
+View publication statsView publication stats

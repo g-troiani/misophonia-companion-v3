@@ -1,0 +1,398 @@
+## Trends in Cognitive Sciences
+
+## Opinion
+
+## The tie that binds: temporal coding and adaptive emotion
+
+Jingyi Wang , 1 Arielle Tambini , 2 and Regina C. Lapate 1, *
+
+Emotions are temporally dynamic, but the persistence of emotions outside of their appropriate temporal context is detrimental to health and well-being. Yet, precisely howtemporal coding and emotional processing interact remains unclear. Recently unveiled temporal context representations in the hippocampus, entorhinal cortex (EC), and prefrontal cortex (PFC) support memory for what happened when . Here, we discuss how these neural temporal representations may interact with densely interconnected amygdala circuitry to shape emotional functioning. We propose a neuroanatomically informed framework suggesting that high/uniFB01 delity temporal representations linked to dynamic experiences promote emotion regulation and adaptive emotional memories. Then, we discuss how newly-identi /uniFB01 ed synaptic and molecular features of amygdala -hippocampal projections suggest that intense, amygdala-dependent emotional responses may distort temporalcoding mechanisms. We conclude by identifying key avenues for future research.
+
+## A neuroanatomically grounded framework for understanding emotion -temporal interactions
+
+When you are afraid, time stops. And it /uniFB02 ies when you re having fun. Time ' -emotion interactions are intuitively familiar, but they go beyond /uniFB01 gures of speech -and we are only beginning to understand how. This perspective integrates recent /uniFB01 ndings from the historically separate disciplines of temporal memory and emotion, highlighting their mutual interplay to make predictions for neural mechanisms supporting adaptive functioning.
+
+Here, we propose that intact function of the hippocampal -entorhinal region and interconnected PFC may provide high- delity temporal stamps for dynamic emotional experiences, supporting /uniFB01 /uniFB02 exible emotional learning and memory formation, thereby reducing vulnerability to psychopathology. Precise time-coding mechanisms, including time cells (see Glossary), ramping cells , and gradually drifting ensembles , have recently been identi /uniFB01 ed in human and non-human primates, predicting temporal memory organization [1 -7] and adding to a rich literature unveiling associations between the similarity of BOLD fMRI neural activity patterns and temporal memory [5,8 -18]. Moreover, new anatomical evidence [19,20] suggests that negative emotional events could be prone to distorting time-coding mechanisms via powerful amygdalar -hippocampal projections that can directly compete with temporal context information arriving from the EC. Relatedly, the neural substrates underlying the persistence of emotional responses that in /uniFB02 uences processing of unrelated stimuli ( ' affective spillover ' ), impacting emotional memory formation, include amygdala -hippocampal interactions and dorsolateral PFC (DLPFC) circuitry [21 -26]. Affective states may ' spillover ' via persistent amygdala-evoked changes in neural activity [22,26], including hippocampal neural activity patterns that signal a shared temporal context [22,23], while DLPFC function may constrain affective spillover [21,25]. Together, these advances support a neurobiological model to understand emotion -temporal interactions, as detailed next.
+
+## Highlights
+
+Emotion dysregulation in mood and anxiety disorders is often associated with the persistence of emotional states outside of their appropriate temporal context.
+
+Recent research provides key insights into temporal-coding mechanisms in the hippocampus, entorhinal cortex (EC), and prefrontal cortex (PFC) that underlie temporal memory formation -including time cells, ramping cells, and gradually drifting patterns.
+
+We propose that function of the hippocampal formation, EC, and PFC provides high- delity temporal stamps for dynamic /uniFB01 emotional experiences, supporting contextualized emotional memory formation and expression, thereby reducing vulnerability to psychopathology.
+
+Heightened emotional reactivity may be prone to distorting temporal-coding mechanisms via powerful amygdalar -hippocampal projections that can compete with incoming temporal context information.
+
+1 Department of Psychological &amp; Brain Sciences, University of California, Santa Barbara, Santa Barbara, CA 93106, USA 2 Center for Biomedical Imaging and Neuromodulation, Nathan Kline Institute for Psychiatric Research, Orangeburg, NY 10962, USA
+
+*Correspondence:
+
+lapate@ucsb.edu (R.C. Lapate).
+
+## Trends in Cognitive Sciences
+
+## Persistence of emotional responses in mood and anxiety disorders
+
+## Glossary
+
+A hallmark of emotion dysregulation in mood and anxiety disorders is not the mere expression of particular emotional states, but rather their persistence over time -outside of their appropriate temporal context [27,28]. For instance, the extreme fear response in post-traumatic stress disorder (PTSD) is likely adaptive in the face of life-threatening danger but maladaptive when it extends beyond it; likewise, the duration, rather than mere presence, of hopelessness and apathy symptoms is central to the diagnosis of depression [28]. Moreover, persistent negative affect in mood disorders has been proposed to bias memory toward negative experiences [29]. On a /uniFB01 ner temporal scale, continuous measurements of emotional reactivity and recovery [e.g., using facial electromyography (EMG)] indicate that the recovery or persistence of emotional reactions (rather than initial reactivity) most strongly correlates with well-being [30,31] and best differentiates individuals diagnosed with depression from healthy controls [27,32,33]. Neurally, persistent amygdalar responding to negative events correlates with higher negative (and lower positive) affect in daily life and greater neuroticism, a risk factor for mood and anxiety disorders [26,34].
+
+In summary, time is of the essence when characterizing deviations from normative or adaptive emotional responding. Building on in /uniFB02 uential computational models of context and memory organization [35], recent work has explicitly incorporated the in /uniFB02 uence of emotion on modulating temporal context representations via enhancing item-context bindings [36] and by including emotional valence in contextual representations [29].
+
+Yet, it is unknown whether the neural coding of temporal context is itself modulated during emotional processing, and whether this governs the fate of emotional responses -including their propensity to ' spillover ' to bias future events, and the malleability of emotional memories. Temporally disorganized memories are a cardinal symptom of PTSD (reviewed in [37]); in depression, autobiographical memories often lack episodic details and feature temporal discontinuities [38,39]. Fine-grained temporal coding depends on function of the hippocampus [40], a region whose structural integrity is often compromised in (and confers prospective risk for) PTSD and depression [41 -43]. Likewise, function of the DLPFC, where temporal context coding cells have been newly identi ed [4,6], determines prospective risk for mood disorders and regulates the /uniFB01 temporally persistent in /uniFB02 uence of affect [21,25,32,44].
+
+Next, we highlight new /uniFB01 ndings on the neural basis of temporal coding in hippocampal -EC and PFC circuitry [1 -7,45 -48] that inform novel predictions for why and how high/uniFB01 delity temporal stamps linked to emotional experiences may be bene /uniFB01 cial for amygdala-dependent emotional learning and regulatory processes. Then, we describe recently identi /uniFB01 ed features of amygdala -hippocampal circuitry [19,20,22,49] that suggest that amygdala-dependent responding to salient emotional events may distort temporal-coding mechanisms.
+
+## Developments in temporal-coding mechanisms inform a neurobiological framework for emotion -temporal interactions
+
+The past few years have witnessed an extraordinary surge of empirical work delineating core mechanisms underlying temporal context encoding and memory. First, time cells, ramping cells, and gradually drifting population ensembles, /uniFB01 rst identi /uniFB01 ed in the hippocampus, EC, and PFC of rodents [46,50 -52] and non-human primates [3,6,7,53], have now been found in humans [1,2,45], providing a putative neural signature for temporally organized memories in both structured, temporally predictable experiences (e.g., time cells) and in one-shot emotional episodes (e.g., ramping cells and gradually drifting ensembles) [54]. Underscoring their likely behavioral relevance, the reliability of time fields and ramping cell activity is associated with temporally organized memory in humans [1,45]. Nonetheless, even though the reliability of time cell /uniFB01 ring
+
+Affective spillover: persistence of previously provoked affect beyond its temporal epoch that biases processing of other, unrelated events -indexed behaviorally by emotion-driven biases on ratings of later-presented (often neutral) stimuli, or neurally via temporally persistent emotion-evoked neural activity during other stimulus-processing epochs.
+
+## Conjunctive representations:
+
+integrated representations of multiple features of an event (what, when, and where) linking temporal information with event-speci c content (such as stimulus /uniFB01 color or spatial information); evident in ramping cells, time cells, and multivariate neural activity patterns.
+
+Fear conditioning: the associative process by which an originally neutral stimulus (conditioned stimulus/CS+; e.g., tone) provokes conditioned responses (e.g., sweat) associated with an unconditioned, aversive stimulus that typically follows it (US; e.g., shock). In delay conditioning, the CS+ coterminates with the US. In trace conditioning, a temporal gap separates the CS+ and the US.
+
+Gradually drifting ensembles: cell /uniFB01 ring and BOLD multivariate neural activity patterns (e.g., in the hippocampus) gradually change over time. As a result, the dissimilarity of those neuronal ensembles can be used to decode time elapsed over various timescales, ranging from seconds to minutes, hours, and days. Likewise, greater similarity of BOLD multivariate neural activity patterns representing two distinct events is often associated with shorter temporal distances between them.
+
+Ramping cell: ramping cells signal temporal context by typically responding as soon as an event takes place. Then, their /uniFB01 ring monotonically ramps up or decays at varying rates, with a wide distribution of time constants, ranging from seconds to tens of minutes. Ramping cells are prominent in the entorhinal cortex -a major hippocampal input -and in the hippocampus. Retiming: akin to ' remapping ' in the spatial domain, time /uniFB01 elds can change (retime) following changes in the environment, such as changes in condition and temporal structure; likewise, ramping cell function is sensitive to the temporal structure
+
+## Trends in Cognitive Sciences
+
+patterns may be meaningful during structured experiences, time /uniFB01 elds and ramping cells are malleable, such that changes in the environment can alter their temporal-coding patterns -that is, provoking retiming [46,47,50], which may underlie the separation of experiences over time [40,54] (Figure 1A(1) and A(2)). Finally, conjunctive representations , in which events and their context are represented together -considered a building block of episodic memory -are evident in temporal codes [55]: conjunctive ' what and when codes have been found in time cells [6,51], ' ' ' ramping cells [3,4,46], and in multivariate neural activity patterns [9,12,17,48].
+
+Trends in Cognitive Sciences
+
+Figure 1. Temporal-coding mechanisms in hippocampal -EC PFC circuitry and hypothesized impact of -amygdala-engaging emotional events. (A) Time cells. The /uniFB01 ring rate of each time cell increases at a speci /uniFB01 c epoch within a temporal interval. The sequential /uniFB01 ring of a time-cell population (cells a+b+c in A(1) ) represents the entire interval. A(2) shows retiming: when the temporal interval changes (e.g., increases), certain time /uniFB01 elds remain stable (cell a), others change (cell c), and new cells are recruited to represent the interval (cell d). A (3) and A(4) illustrate the hypothesized impact of a negative emotional experience (poisoned fruit) on time cells, widening time /uniFB01 elds (cells a and c) and suppressing timecell /uniFB01 ring (cells b and d). Black line: time /uniFB01 eld. (B) Ramping cell activity is shown for six hypothetical trials. In B (1) , ramping cell (e) codes trial time, ramping cell (f) session time, and ramping cell (g) show conjunctive coding of trial time and condition. B(2) shows the hypothesized impact of negative events (poisoned fruits) on ramping cell time constants, producing faster plateau (cell e), suppression (cell f), and sustained /uniFB01 ring (cell g). (C) Multivariate neural activity patterns are shown. In C (1) , the similarity of multivariate neural activity patterns is higher when events are closer (apple vs. orange) versus farther apart in time (orange vs. pear). C (2) shows a negative event (poisoned orange) producing greater similarity of ensuing neural activity patterns, compared with a neutral condition (C(1) vs. C(2) orange -pear distance). A(1) and A(2) adapted from [40]; B(1) and B(2) adapted from [46]. Abbreviations: EC, entorhinal cortex; PFC, prefrontal cortex.
+
+(repetitive vs. novel) of ongoing experiences.
+
+Time cell: time cells /uniFB01 re at particular intervals of temporally structured events. Different time points within an interval are often represented by different time cells, such that the whole interval of an event sequence can be represented by the aggregate time cells' sequential /uniFB01 ring pattern.
+
+Time field: the temporal epoch during which a time cell shows its highest /uniFB01 ring rate.
+
+## Trends in Cognitive Sciences
+
+As discussed next, these and other developments inform a new neurobiological framework to understand emotion -temporal interactions.
+
+## Granular temporal stamps may bene /uniFB01 t amygdala-dependent emotional learning and regulation
+
+It is well established that the amygdala is required for orchestrating emotional responses to salient events [56], learning of emotional associations such as in fear conditioning [57], and that amygdala-driven modulation of arousal and amygdala -hippocampal interactions underlie the emotional modulation of episodic memory [58 -60]. Prior work has characterized amygdala -hippocampal functional and anatomical interactions that support emotional in uences on memory /uniFB02 [60 -62] and the role of contextual encoding in psychopathology [29,63] (Box 1). Here, we elaborate on recent neuroanatomical /uniFB01 ndings that point to putative mechanisms and functional consequences of how emotion and temporal coding properties may interact in the hippocampus and interconnected circuitry.
+
+Although emotional learning and episodic memory formation often interact, they can also dissociate, such that amygdala-dependent learning and responding (including fear-conditioned responses) can occur independently or with varying levels of hippocampal participation [64,65]. Thus, the /uniFB01 delity and strength of temporal context encoded in hippocampus and interconnected structures likely varies across individuals and emotional experiences. We argue that the properties of temporal context coding associated with an emotional event may determine the nature and /uniFB02 exibility of emotional memory formation.
+
+## Box 1. Beyond time: emotional memory, amygdala -hippocampal interactions and psychopathology
+
+Memory for emotional events -particularly high-arousal, negative ones -is often enhanced and enriched by vivid details and subjective con /uniFB01 dence, compared with neutral event memories [62,99,112]. Amygdalar strong reciprocal projections to perirhinal, hippocampal, and entorhinal cortices [113 -115] (Box 3) underlie a plethora of these effects [57,59,60,62,116].
+
+Speci cally, memory accuracy for emotional items correlates with amygdalar and perirhinal engagement [96,117], amyg/uniFB01 dala -perirhinal interactions, and sensory (e.g., visual) modulation during encoding (reviewed in [63,112]). Of note, perirhinal activity has also been found to correlate with temporal memory judgments [11,118], putatively due to this region's engagement relating to item memory strength and vividness, which could be used to infer event recency [119]. Amygdala -hippocampal connectivity typically increases during negative emotional processing and correlates with emotion-modulated item memory [59] (but see [62,63] for discussions on the causal role of hippocampal function for emotional memory).
+
+In contrast to item memory, memory for contextual detail is not always prioritized by emotion and may be deprioritized [120] as indicated by experiments on source memory (contextual details accompanying an item [121]), which relies on hippocampal function [117,120]. Bisby and Burgess note that negative emotional processing often impairs relational binding and correlates with lower hippocampal engagement during emotional event retrieval [63]. Their framework concurs with ours and others [36] in postulating that amygdala -hippocampal competitive processes may shape the extent to which emotional memories are (de)contextualized, with potential relevance for our understanding of psychopathology [37,63].
+
+Nonetheless, memory for contextual features intrinsic to emotional events and important for survival, such as a threatening item's location, may be enhanced by emotion [99,122]. Precisely which contextual aspects and associations become prioritized or deprioritized via amygdala -hippocampal synergistic versus competitive interactions likely varies by one's goals, contextual salience, and relatedness to emotional events (see [97,99,112,120] for in-depth discussions).
+
+A recent computational model [20] inspired by newly discovered synaptic features of amygdala -hippocampal projections [19] indicates that amygdala -hippocampal interactions may cause fewer features of a remembered pattern to be available to CA1 for comparison with EC's input, resulting in an impoverished context memory template, which agrees with other models [29,36]. Of note, this model is compatible with amygdalar competition with EC- and HPC-dependent contexts beyond time -such as, for instance, space. Indeed, place cells drift over time [67]. Understanding the fate of spatiotemporal context that evolves during emotional episodes, and the extent to which whether time and space fold together in drifting patterns, or dissociate, will be an important direction for future research.
+
+## Trends in Cognitive Sciences
+
+## Temporal context may shape emotional response associability and memory malleability
+
+Temporal coding cells and gradually changing population ensembles in the hippocampus-EC and PFC are thought to provide event memories with a temporal context tag -serving as the putative neural basis for temporal memory on timescales ranging from seconds to days [13,66,67]. The granularity and strength of temporal context encoding via this circuitry likely depends on the following properties: the overall magnitude of temporal context encoding, putatively re /uniFB02 ecting the number of time cells and ramping cells that code for a particular epoch [6,66]; the width of time /uniFB01 elds [4,6,68] (Figure 1A (1) ); and the drift rate of ramping cells [3,46] (Figure 1B (1) ), which together likely impact gradually changing representations at the ensemble level [69] and produce a temporal context signal that can be reliably detected at relatively coarser resolutions by examining the similarity of multivariate neural activity patterns over time (e.g., using fMRI) (Figure 1C(1) ). In general, the greater the dissimilarity of population-level ensembles and multivariate BOLD activity patterns representing two temporally distinct events in hippocampus, EC, and PFC, the greater the temporal distance between them [5,8 -13,15 -17]. Growing evidence suggests that multivariate patterns in the human EC and hippocampus may code for temporal context at the level of /uniFB01 ne temporal interval durations and veridical (in addition to perceived) temporal relation between events both at encoding and retrieval [12,13,15,17]. Major contextual shifts between events (perceived as event boundaries) can produce discontinuities in these signals and likely comprise an organizing principle for chunking experiences into discrete event memories (Box 2).
+
+Of interest, the temporal resolution of recently identi /uniFB01 ed ramping cells (Figure 1B(1) ; on the order of seconds to minutes) is well aligned with the time course of many complex emotional experiences; moreover, because ramping cell function (unlike phasic time cell /uniFB01 ring) does not appear to depend
+
+## Box 2. Contextual shifts in hippocampal -EC representations: potential interactions with amygdala-dependent emotional responses
+
+The neural representation of time is not a faithful metric clock but is instead modulated by changes in the environment. For instance, when the delay between a stimulus and subsequent response interval changes, time /uniFB01 elds representing the delay change accordingly [47,50] -they ' retime ' (see Figure 1A(2) in main text). Likewise, ramping cells are reset by landmark events and are sensitive to the temporal structure of experiences [46] (see Figure 1B(1) in main text). Abrupt changes in context, termed ' event boundaries , typically reduce the similarity of hippocampal multivariate neural activity patterns for ' items spanning the boundary, incurring a performance cost in temporal memory judgments [8,9,16,107,123].
+
+However, these contextual shifts have by and large only been studied in neutral contexts (for an exception, see [86]). What happens when contextual shifts are accompanied by emotional changes, such as when going from an aversive (traf c disagreement) /uniFB01 to a neutral event (water cooler conversation with a coworker)? While this question has begun to be addressed in computational models of temporal context and its in uence on memory organization [29,36,97], less empirical work has considered the neural /uniFB02 mechanisms associated with the potential in uence of emotion and amygdala signaling on context shifts. /uniFB02
+
+On one hand, emotional state changes, such as from aversive to neutral, may themselves function as event boundaries, reaching the basolateral nucleus of the amygdala (BLA) directly from hippocampus to help constrain temporally persistent emotional responses. Anterior hippocampal regions CA1, prosubiculum, and subiculum project directly to the BLA [113,114] (Box 3 and see Figure I in Box 3), synapsing on inhibitory neurons, which can therefore inhibit amygdala responses [124]. Thus, event boundary-related signals reaching the BLA may help limit emotional responses to their original episode and temporal context via a direct hippocampal -amygdala pathway, thereby promoting contextually appropriate behavioral repertoires, rather than reverberations of past emotions.
+
+Conversely, amygdala signals following strong emotional events may compete locally in hippocampus with temporal context information emanating from EC [91,125]. It is thus possible that amygdala signaling disrupts hippocampal -EC representations associated with contextual shifts: for instance, retiming in EC might fail to update hippocampal representations due to local amygdala competition, blurring ' event boundaries ' as represented by this circuitry. Since early time points following events are typically encoded with greater temporal precision [2,4,6,52,68], amygdala -EC competition could result in coarser temporal coding of otherwise neutral events that follow high-intensity, emotional ones, causing the previous temporal context to perpetuate even as new neutral events unfold, potentially yielding ' spillover ' of affect or emotional biasing (see Figure 2A in the main text).
+
+## Trends in Cognitive Sciences
+
+on previously learned, structured experiences, they are well suited to support the formation of one-shot episodic memories [54]. Thus, ramping cells, prominent in the EC and hippocampus [1,3,46,53] and recently identi /uniFB01 ed in the non-human primate DLPFC [4,6,7], may comprise a critical temporal context signal that accompanies (and possibly determines) incidental affective spillover and emotional memory formation. In summary, intra- and interindividual variation in the previously reviewed temporal-coding mechanisms likely determines the granularity and strength of temporal stamps linked to event memories.
+
+Relatively coarse (as opposed to /uniFB01 ne-grained) temporal coding in this circuitry should intrinsically produce greater representational similarity between events that occurred at different times; at the extreme, they could be irrevocably linked and provoke the same response repertoire (indeed, fear learning spreads via a shared temporal context in hippocampus (CA1) [23]). Conversely, /uniFB01 negrained temporal tagging should effectively separate incoming information in memory, potentially reducing the associability of emotional states over time (Figure 2A, Key /uniFB01 gure). We propose that emotional events (and ensuing responses) accompanied by high- delity temporal stamps should /uniFB01 be less prone to ' spilling over ' (Prediction 1) and more malleable to future updating in dynamic environments (Prediction 2).
+
+## Prediction 1: /uniFB01 ne-grained temporal tagging reduces affective spillover
+
+An emotional response that lingers over time can bias behavioral and neural processing and appraisals of unrelated stimuli in the environment, a phenomenon we call ' affective spillover ' [21,24,25]. While this mechanism may underlie rapid emotional learning [70] and be advantageous under certain circumstances, it can be maladaptive when automatic associations between emotional responses and subsequent events are too liberally formed, in the absence of a causal or predictive relationship between affective and surrounding stimuli. We postulate that stronger and /uniFB01 ne-grained temporal context codes, bound to the original emotional provocation and response, maylimit the temporal associability of emotional experiences by decreasing their similarity and contiguity with later-processed, unrelated events, thereby limiting affective spillover. In the laboratory, we typically assay affective spillover by examining the extent to which emotional processing in /uniFB02 uences evaluations of unrelated, neutral stimuli presented several seconds or minutes later [21,22,24,25]. Critically, affective spillover, which may depend in part on amygdala function [24 -26,34], has lasting consequences for how novel stimuli are remembered, underscoring the pervasiveness of emotional processing [21,22,24].
+
+Consistent with the idea that temporal coding in hippocampal -PFC circuitry helps constrain emotional reactions to their appropriate temporal context, hippocampal lesions prolong negative emotional responding (i.e., impair recovery) after a sadness induction procedure, even after memory for the sadness-inducing event has faded [71]. Relatedly, greater emotion regulatory dif /uniFB01 culties have been reported following hippocampal lesions [72]. Function of the DLPFC, where temporal context coding cells have been identi /uniFB01 ed [4,6], plays a causal role in preventing the unwarranted spillover of affect. DLPFC inhibition via brain stimulation (transcranial magnetic stimulation; TMS) produces affective spillover in the laboratory, resulting in emotionally biased /uniFB01 rst impressions of novel neutral faces [21]. Moreover, these emotionally biased associations are long lasting and measurable outside the laboratory several days later, suggesting one-trial emotional memory formation [21]. Whether this is due to DLPFC function maintaining relevant temporal contexts per se and/or instantiating temporally sensitive, emotion regulatory goals is unknown. The representation of temporally sensitive goals in DLPFC may rely on recently identi /uniFB01 ed ramping cell activity [4,7], interactions with hippocampal -EC circuitry [73], or projections from the frontal pole, a highly integrative region involved in sequence monitoring [74,75].
+
+## Trends in Cognitive Sciences
+
+## Key figure
+
+The proposed neural architecture underlying emotion -temporal interactions in amygdala and hippocampal -EC PFC circuitry -
+
+Trends in Cognitive Sciences
+
+(See /uniFB01 gure legend at the bottom of the next page.)
+
+## Trends in Cognitive Sciences
+
+## Prediction 2: /uniFB01 ne-grained temporal tagging increases emotional memory malleability in dynamic environments
+
+The neural signatures of a gradually drifting temporal context are recovered during successful episodic memory recall [5], suggesting event memory stamped by ' temporal tags ' (see also [76]). During retrieval of real-life memories, anterior hippocampal multivariate patterns revealed temporal context information with durations spanning up to 1 month [13]. These /uniFB01 ndings suggest that temporal context ' tags ' from previously acquired emotional associations may be automatically retrieved and compared with ongoing experiences.
+
+Temporal information retrieved in conjunctive representations of previously acquired emotional associations might have implications for learning updating in dynamic environments. When hippocampal -PFC function is impaired, emotional associations (such as fear-conditioned responses) are preserved and still supported by amygdala circuitry [64]. However, if reinforcement contingencies change, emotional learning is likely to be less /uniFB02 exible if devoid of its temporal context cues. In other words, in the absence of /uniFB01 ne-grained temporal context retrieval, the organism can still rely on previously acquired emotional associations to respond, but overriding prior learning would become challenging, as temporal context itself differentiates current stimulus -outcome contingencies from prior (outdated) ones. Put differently, granular temporal stamping of previously learned information, supported by hippocampal -EC PFC circuitry, should provide a strong -contextual signal that promotes learning updating if contingencies change (Figure 2A), supporting adaptive learning and /uniFB02 exibility if temporal context serves as a marker of relevant (vs. obsolete) contingencies, such as in reversal learning.
+
+In agreement with a well-known hippocampal involvement in bridging temporal discontinuities during learning [77], CA1 neural ensembles represent contingencies with other time-varying information (gradual drifts) during reversal learning [78]. At the macroscale, gray matter (GM) density in the hippocampus and frontal pole (involved in temporal and sequential representation in humans [10,11,74,75]) have been implicated in performance in probabilistic reversal learning [79,80]. Frontal pole GM density was associated with whether participants incorporate temporal structure to update beliefs about the past, whereas hippocampal and frontal pole GM density correlated with the timescale over which information was inferred [79]. Relatedly, the extent to which humans are in uenced by temporal context to anticipate contingency reversals was associated /uniFB02 with GM volume in hippocampus [80]. Collectively, these data are consistent with the idea that function in hippocampal -PFC circuitry may promote /uniFB02 exible behavior in dynamic environments.
+
+Figure 2. (A) Granular temporal representations in HPC -EC PFC circuitry are proposed to promote adaptive emotional -learning and updating in dynamic environments (e.g., facilitating contingency reversals in reversal learning; left inset), as well as constrain the unwarranted spillover of affect from emotional events (poisoned orange) to subsequent ones (apple) (right inset) by decreasing the representational similarity between temporally distinct events. Conversely, coarse temporal stamps due to aberrant function of this circuitry may contribute to the persistence of affect outside of its appropriate temporal context and outdated reinforcement contingencies by increasing the representational similarity between distinct events. DLPFC-supported temporal context monitoring or context-sensitive affect regulation, as well as a direct hippocampal -amygdala projection are proposed to underlie these effects (see main text and Box 2). (B) The topology of amygdala -hippocampal projections (right inset). Dual synaptic system (top bubble): powerful amygdalar terminations from the same axon synapse on a common dendritic segment of inhibitory parvalbumin (PV) neurons in hippocampus [19]. Consequently, only hippocampal neurons receiving amygdalar inputs overcome PV inhibition, resulting in their sustained activation (red cell, bottom plot) accompanied by suppression of hippocampal neurons not receiving amygdalar inputs (blue cell). Direct and indirect (serial) pathways connecting the amygdala to hippocampus (left inset). The functional impact of emotional events on hippocampal temporal processing via the direct versus indirect (via EC) amygdala -hippocampal pathways likely differs (Box 3). Arrow and circle: event onset and offset. DLPFC (green), AMY (red), EC (light blue), and HPC (blue). (B) Adapted from [19]. Abbreviations: AMY, amygdala; CRpos/CRneg: appetitive/aversive conditioned response; DLPFC, dorsolateral PFC; EC, entorhinal cortex; HPC, hippocampus; PFC, prefrontal cortex; T, time.
+
+## Trends in Cognitive Sciences
+
+Conversely, following hippocampal damage, associations that resist updating have been noted, yielding reversal learning de /uniFB01 cits. In eyeblink conditioning, hippocampectomized rabbits required more trials to acquire reversal learning, even though they were intact during initial learning [81,82]. These animals showed a response perseveration to CS -(previously CS+). Similar data have been reported in humans; amnesic subjects make more perseverative errors after reversals [83 -85], and hippocampal sclerosis patients show dif /uniFB01 culty learning the temporal aspect of a reversal learning task to make anticipatory reversals [80]. In summary, the use of temporally organized sequence information may promote /uniFB02 exible updating because temporal context helps disambiguate relevant reinforcement contingencies.
+
+Moving forward, experiments aimed at manipulating the granularity of temporal coding using behavioral paradigms (e.g., event boundary tasks [86,87]) or neural interventions (e.g., TMS) will be crucial to establish the causal role of /uniFB01 ne-grained temporal coding in governing adaptive learning and the /uniFB02 exibility of emotional memories.
+
+Next, we examine the /uniFB02 ipside of this circuitry: how may emotional events alter temporal-coding mechanisms?
+
+## Amygdala hippocampal projections suggest emotion in -/uniFB02 uences temporal coding
+
+Recent anatomical, molecular, and functional data suggest that amygdala -hippocampal projections could be prone to distorting temporal-coding mechanisms following intense emotional experiences, as detailed next.
+
+## Powerful amygdala -hippocampal projections suggest temporally persistent amygdala in uence /uniFB02 on hippocampal processes
+
+Recent work clari /uniFB01 es how intense, amygdala-engaging episodes may distort temporal-coding mechanisms. In the non-human primate, prior work shows a direct pathway from the amygdala basolateral nucleus to hippocampal sub /uniFB01 elds CA1 and CA3, which is signi /uniFB01 cantly larger than surrounding boutons, suggesting its prominent in /uniFB02 uence [19]. Further, multiple amygdalar terminations from the same axon synapse on a common dendritic segment in CA3 [19]. This rare phenomenon is called a ' dual synaptic system ' (Figure 2B), which allows the amygdala to cast a powerful in /uniFB02 uence on hippocampal neurons.
+
+Optogenetic amygdala manipulations increase cyclic AMP-responsive element-binding protein (CREB) levels in CA1 and CA3 neurons, which yield sustained activation of those neurons over time [88 -90]. If amygdalar neurons synapse onto CA1 and CA3 time cells that also receive EC inputs, this could result in sustained time cell (Figure 1A (3) , A (4) , cell c) and ramping cell activation over time (Figure 1B(2) , cells e and g), leading to widened time /uniFB01 elds and distortion of ramping cell activities. Consequently, the temporal resolution of hippocampal time cells and ramping cells could become broader and/or noisier [4,46]. As discriminable neural patterns in the hippocampal -ECcircuitry typically code for distinct temporal contexts, amygdala-driven excitation of hippocampal activity for extended periods would be detrimental to an informative, gradually drifting temporal code (Figure 1C(2) ).
+
+## Amygdala targets hippocampal neurons that can inhibit temporal context input from EC
+
+Recently discovered anatomical features of the amygdala -hippocampal pathway also suggest that emotionally evocative information can suppress inputs from surrounding brain regions [19], including temporal information emanating from EC [46,91]. Amygdala and EC inputs into the hippocampus can compete and interact locally, as they co-terminate in the same layer [19,92]. This con guration raises the possibility that local competition determines whether it is the /uniFB01
+
+## Trends in Cognitive Sciences
+
+amygdala or EC that drives hippocampal temporal representations. In addition, amygdalar afferents are large and synapse on powerful parvalbumin (PV) inhibitory neurons in CA3 [19]. These PV neurons can strongly inhibit their postsynaptic targets (e.g., Figure 1A(3) A(4) , cells b and d; Figure 2B; reviewed in [93]). Therefore, powerful amygdala -hippocampal afferents may alter hippocampal function by suppressing other, nonemotional (e.g., temporal or contextual) surrounding information -for instance, from EC (as suggested by a recent computational model [20]). Current theoretical models posit that entorhinal inputs underlie hippocampal timecell activity [91,94,95]. EC inputs and associated hippocampal time cell functional integrity are therefore susceptible to disruption via amygdala-provoked PV inhibition; consistently, EC -hippocampal connectivity has been found to be greater during encoding of neutral versus negative items [96]. Thus, competing inputs from amygdala and EC into CA3 suggest distinct and opposing in uence of emotion and time coding in the hippocampus /uniFB02 -a competition that is governed in part by the strength of amygdala inputs and perceived signi /uniFB01 cance of emotional events (including salience, valence, and arousal coding), and in part by the strength of incoming temporal context encoding from EC. We propose that this is a key mechanism that determines the nature and magnitude of emotion and temporal-context coding interactions. Following amygdala-engaging emotional provocations, if amygdala -hippocampal input predominates over EC -hippocampal input, widened time cells, and slower drifting neural activity patterns (due to less incoming information from EC ramping cells) would produce coarser temporal context coding, perhaps blurring event boundaries, and resulting in stronger incidental emotional learning (including ' affective spillover ; Box 2) but poorer emotional memory updating (Figure 2A). These ' effects may occur via a direct amygdala -hippocampal PV neuron projection, as described previously, or via an indirect amygdala -EC hippocampal pathway (Box 3 and Figure 2B). In conclusion, -newly discovered synaptic and molecular properties of amygdala -hippocampal projections shed light onto how emotional events can distort temporal coding in the hippocampal -EC region.
+
+## Prolonged amygdala -hippocampal interactions after emotional processing
+
+Novel functional evidence underscores that amygdala engagement by emotional stimuli can have a sustained impact on hippocampal function, with consequences for the similarity of neural activity patterns in temporal epochs surrounding emotional events.
+
+For instance, recent research examined whether temporal context links disparate memories [23]. Greater overlap of neural representations of emotional and neutral memories acquired closer in time in the hippocampus (CA1) was postulated to result in greater similarity of acquired behavioral response (compared with memories acquired further apart in time). This work indicated that conditioned fear (freezing) ' spills over ' to a new context encountered within 5 hours (but not a week) from the fear conditioning session -suggesting that temporal contexts represented by overlapping neural ensembles can be tagged by emotion [23]. Accordingly, a recent study showed that intense negative events can provoke sustained amygdala -hippocampal interactions that persist for tens of minutes and bias later neutral event memory [22]. Moreover, multiple measures of emotion-related brain activity, including amygdala -whole-brain connectivity patterns and hippocampal patterns, persisted from emotional events into subsequent neutral events, providing evidence for ' affective spillover ' at the neural level [22].
+
+Precisely how these amygdala-engaging negative emotional events impact temporal memory is a burgeoning area of research [29,36,86,97,98]. In broad agreement with our proposal, an intracranial study found that the unidirectional in /uniFB02 uence from amygdala to hippocampus during emotional events (mediated via neural oscillations in the alpha band) was associated with emotional memory errors consistent with amygdala-driven loss of speci /uniFB01 c event details [49]. Whether those regionally speci /uniFB01 c neural oscillatory signatures underlie amygdala -hippocampal interactions with
+
+## Trends in Cognitive Sciences
+
+## Box 3. Two functionally distinct (direct and indirect) routes for amygdala -hippocampal interactions
+
+Thus far, we focused primarily on how direct amygdala -hippocampal projections may mediate the impact of emotion on hippocampal-based temporal representations. However, it is important to note that the amygdala can also modulate hippocampal function indirectly, via an EC projection (see Figure 2B in the main text). Thus, direct and indirect amygdala -hippocampal pathways may differentially impact emotion -temporal interactions due to their distinct topology.
+
+Anterograde tracer studies in non-human primates reveal that the direct pathway, which originates in the basolateral amygdala (BLA), preferentially terminates in the CA1 and CA3 /uniFB01 elds of the anterior hippocampus [19,114], whereas the indirect pathway -emanating from both BLA and the lateral nucleus (LA) -terminates in layers 2 and 3 of the lateral division of anterior EC, which sends dense inputs to posterior hippocampus [92,114,115,126] (Figure I). Several studies have found that the anterior hippocampus may represent more general temporal structure across wide-ranging temporal intervals and contain coarser temporal information, whereas the posterior hippocampus has been found to represent detailed temporal information, including /uniFB01 ne-grained temporal scales [9,13,127], consistent with other functional differences along the longitudinal axis [128,129] (but see also [1]). Thus, amygdalar direct and indirect pathways may modulate distinct types of temporal coding processes in the hippocampus by targeting anterior and posterior hippocampus, respectively.
+
+Considering that the indirect pathway projects to posterior hippocampus via EC, it is likely that the consequences of amygdala information transferred via direct versus indirect pathways differ: EC also receives inputs from PFC, perirhinal, and parahippocampal cortices (reviewed in [130]), which can be integrated with amygdala signals (including LA sensory information) prior to their arrival in hippocampus. Thus, the indirect amygdala -hippocampal pathway likely carries more integrated, semantically richer emotional information, including recent past experiences and items in the environment, compared with the direct pathway. In sum, direct and indirect pathways differ both in their origin and terminations and likely exert distinct impacts on hippocampal function and temporal-coding processes.
+
+Relatedly, recent studies underscore a key role for anterior-lateral EC in supporting /uniFB01 ne-grained temporal representations (including temporal duration) [15,118]. Prominent ramping cell activity has been noted in the lateral EC [46]. It is therefore possible that strong direct amygdalar inputs to this division of EC may impact the encoding of detailed temporal information by altering (e.g., locking) ramping cell activity (see Figure 1B in the main text) [115], suggesting a critical but littleexplored site for emotion -temporal interactions.
+
+Figure I. Pathways between subregions of the hippocampus, amygdala, and entorhinal cortex. (A) The bidirectional pathways between the basolateral (BLA) and lateral (LA) nucleus of the amygdala (red) and entorhinal cortex (EC, light blue). Dotted arrows show the indirect pathway among BLA and LA, lateral EC (Lat. EC), and the posterior hippocampus. (B) The bidirectional pathways between the amygdala and the CA /uniFB01 elds of the anterior hippocampus (HPC, blue). Arrows show the direct pathways between BLA and CA /uniFB01 elds. Atlas slices adapted from [131], 1.3 mm from anterior commissure (A) and 17.2 mm from anterior commissure (B). Abbreviations: cs, collateral sulcus; Opt, optical tract; V, ventricle.
+
+consequences for temporal coding is an interesting question for future research. Of note, as intense emotional events often produce amygdala-dependent neuromodulation of arousal and sympathetic nervous systems, yielding relatively slow physiological responses lasting far
+
+## Trends in Cognitive Sciences
+
+beyond the duration of the original emotion-eliciting event, their persistence may itself continue to reinforce (and perpetuate) temporal context signals associated with the original emotional experience.
+
+## Outstanding questions
+
+Further, the magnitude of emotion-linked changes in arousal could determine whether emotional events may also enhance temporal memory [98] and distort it primarily following highly arousing, personally relevant aversive experiences [20,99,100] (although see [101]). In agreement with our framework, a recent study found that exposure to a threatening naturalistic environment -a haunted house paradigm -incurred losses in spontaneously recalled temporal order and duration information in an autobiographical recall task (compared with a neutral environment) [102]. By contrast, in more controlled laboratory studies (i.e., picture-based), arousal has also been found to increase rather than decrease temporal order memory [101] (for a review, see [103]). Extant work has often focused on examining the consequences of negative emotional processing -therefore, it remains to be elucidated whether positive versus negative emotional events exert similar or distinct impacts on the neural mechanisms of temporal context encoding and memory. Moving forward, a mixture of naturalistic, self-relevant ( in the ' /uniFB01 eld ) and laboratory studies that use positive ' and negative stimuli will be necessary to fully unveil the impact of emotional valence and arousal on temporal context encoding and memory.
+
+## Concluding remarks
+
+Emotions are temporally dynamic, but how temporal coding shapes the time course of emotion and emotional memories is not understood. Recent /uniFB01 ndings on the neural architecture of temporal coding and temporal memory in rodents, humans, and non-human primates render this question ripe for new investigation. Here, we reviewed recent advances and situated them in relation to amygdala-dependent emotional processing and regulation. We proposed that emotion and temporal coding mutually in /uniFB02 uence one another: high/uniFB01 delity temporal tagging of emotional experiences is posited to limit incidental emotional learning and emotion-driven biases in appraisals and result in /uniFB02 exible emotional memories that adaptively inform future behavior. Conversely, we argued that the topology of amygdala -hippocampal projections suggests that amygdalaengaging emotional events could distort temporal coding by engendering prolonged hippocampal excitation and suppressing hippocampal afferents carrying temporal context information. Insights gleaned from functional neuroimaging and intracranial studies offer initial support for this proposal by revealing prolonged emotion-driven functional coupling between amygdala and hippocampus with consequences for memory formation [22] and opposing impacts of amygdala -hippocampal in /uniFB02 uence on memory quality and overgeneralization [49].
+
+It is important to note that the precise and speci /uniFB01 c contributions of temporal coding to the previously reviewed phenomena remain to be speci ed, and we hope our conceptual framework in/uniFB01 spires cross-species research aimed at that goal (see Outstanding questions). We make testable predictions about how high- delity temporal coding and tagging of emotional experiences may im/uniFB01 pact learning and memory /uniFB02 exibility (Figure 2A). Paradigms experimentally targeting the /uniFB01 delity of temporal coding are particularly fruitful avenues for future work.
+
+For instance, both excitatory and inhibitory theta-burst TMS protocols can alter PFC function [104] and, indirectly, hippocampal circuitry [105,106]; behaviorally, event boundary tasks produce shifts in temporal order and distance judgments [8,107]. These behavioral and brain stimulation interventions can be combined with fMRI to assess their impact on temporal coding: as multivariate patterns in hippocampal -EC PFC -circuitry carry /uniFB01 ne, conjunctive stimulus-temporal representations, these multimodal causal approaches are well suited to unveil whether the granularity of temporal coding determines emotional associations and their malleability, as hypothesized
+
+Does the impact of emotion on neural mechanisms of temporal coding and memory vary by valence (positive vs. negative) or arousal?
+
+Do increases in amygdala activity following emotionally salient events distort temporal coding in hippocampal -ECcircuitry -for instance, blurring temporal context representations, as re /uniFB02 ected by increased multivariate pattern similarity metrics? Do they distort ramping and time-cell physiology?
+
+How do amygdala-dependent responses to emotional events impact function of PFC regions shown to track temporal context (e.g., DLPFC and rostrolateral PFC)? Are the primary relevant projections inhibitory or excitatory in nature, and what are their net functional effects?
+
+How do ramping cells versus hippocampal (including time-cell) drifts contribute to temporal memory for emotional episodes? Does the novelty or predictability of emotional experiences determine the primary temporal-coding mechanism involved?
+
+Do shared neural representations of temporal context between emotional and subsequent events in uence the /uniFB02 perceived temporal contiguity between them, an important factor underlying one-trial learning?
+
+Can the strength and/or granularity of temporal coding be altered using brain stimulation targeting hippocampus-EC or DLPFC? Do such perturbations alter incidental emotional learning and/or the /uniFB02 exibility of emotional memories, as hypothesized?
+
+Are neural mechanisms underlying temporal context coding altered in individuals with PTSD and depression? What about the /uniFB01 delity of temporal context bound to retrieved emotional memories?
+
+Is DLPFC-dependent emotion regulation related to the maintenance of temporal context during emotional episodes and/or conjunctive temporal goal representations?
+
+Does the perceived goal or survival relevance of temporal information during
+
+## Trends in Cognitive Sciences
+
+here. Conversely, amygdala-engaging emotional provocations should reduce the granularity of hippocampal EC mediated temporal coding via direct or indirect pathways (Box 3). Intracranial -methods can shed important light onto cell-type speci city in the proposed framework and clarify /uniFB01 whether ramping cells or slow-drifting neural ensembles underlie rapid episodic memory formation during novel emotional experiences [54,108].
+
+Finally, amygdala-dependent emotional responses likely modulate function of prefrontal regions involved in temporal context encoding -such as DLPFC and rostrolateral PFC [4,6,10,74,75]. However, given the polysynaptic nature of amygdala projections to those regions, their net excitatory and inhibitory effects remain unclear. For instance, amygdala inputs to lateral BA10 likely synapse in BA32 or BA25 and may produce excitation or inhibition due to those intermediary projections [109 -111]. Therefore, future anatomical, molecular, and electrophysiological work is required to unveil whether and how amygdala alters temporal context encoding in PFC (see Outstanding questions).
+
+In closing, we believe that a deeper understanding of emotion -temporal interactions promises to not only shed light on the malleability of temporal coding in biologically signi /uniFB01 cant situations but also reveal whether temporal tags associated with dynamic emotional experiences render them functionally different. We hope that our framework will serve as a springboard for new inquiry to answer the fundamental question of how emotional experiences are structured over time to promote adaptive behavior and well-being.
+
+## Acknowledgments
+
+This manuscript is dedicated to the memory of our friend and colleague Sarah DuBrow, a pioneer in the study of temporal memory.
+
+## Declaration of interests
+
+No interests are declared.
+
+## References
+
+- 1. Umbach, G. et al. (2020) Time cells in the human hippocampus and entorhinal cortex support episodic memory. Proc. Natl. Acad. Sci. U. S. A. 117, 28463 28474 -
+- 2. Reddy, L. et al. (2021) Human hippocampal neurons track moments in a sequence of events. J. Neurosci. 41, 6714 -6725
+- 3. Bright, I.M. et al. (2020) A temporal record of the past with a spectrum of time constants in the monkey entorhinal cortex. Proc. Natl. Acad. Sci. U. S. A. 117, 20274 20283 -
+- 4. Cruzado, N.A. et al. (2020) Conjunctive representation of what and when in monkey hippocampus and lateral prefrontal cortex during an associative memory task. Hippocampus 30, 1332 1346 -
+- 5. Folkerts, S. et al. (2018) Human episodic memory retrieval is accompanied by a neural contiguity effect. J. Neurosci. 38, 4200 4211 -
+- 6. Tiganj, Z. et al. (2018) Compressed timeline of recent experience in monkey lateral prefrontal cortex. J. Cogn. Neurosci. 30, 935 950 -
+- 7. Naya, Y. et al. (2017) Contributions of primate prefrontal cortex and medial temporal lobe to temporal-order memory. Proc. Natl. Acad. Sci. U. S. A. 114, 13555 13560 -
+- 8. Ezzyat, Y. and Davachi, L. (2014) Similarity breeds proximity: pattern similarity within and across contexts is related to later mnemonic judgments of temporal proximity. Neuron 81, 1179 1189 -
+- 9. Hsieh, L.-T. et al. (2014) Hippocampal activity patterns carry information about objects in temporal context. Neuron 81, 1165 1178 -
+- 10. Jenkins, L.J. and Ranganath, C. (2010) Prefrontal and medial temporal lobe activity at encoding predicts temporal context memory. J. Neurosci. 30, 15558 15565 -
+- 11. Jenkins, L.J. and Ranganath, C. (2016) Distinct neural mechanisms for remembering when an event occurred. Hippocampus 26, 554 -559
+- 12. Thavabalasingam, S. et al. (2019) Evidence for the incorporation of temporal duration information in human hippocampal longterm memory sequence representations. Proc. Natl. Acad. Sci. U. S. A. 116, 6407 6414 -
+- 13. Nielson, D.M. et al. (2015) Human hippocampus represents space and time during retrieval of real-world memories. Proc. Natl. Acad. Sci. U. S. A. 112, 11078 11083 -
+- 14. Lositsky, O. et al. (2016) Neural pattern change during encoding of a narrative predicts retrospective duration estimates. eLife 5, e16070
+- 15. Bellmund, J.L.S. et al. (2019) Mapping sequence structure in the human lateral entorhinal cortex. eLife 8, e45333
+- 16. DuBrow, S. and Davachi, L. (2014) Temporal memory is shaped by encoding stability and intervening item reactivation. J. Neurosci. 34, 13998 14005 -
+- 17. Deuker, L. et al. (2016) An event map of memory space in the hippocampus. eLife 5, e16534
+- 18. Sherman, B.E. et al. (2021) Mnemonic content and hippocampal patterns shape judgments of time. bioRxiv Published online August 4, 2021. https://doi.org/10.1101/2021.08.03. 454949
+- 19. Wang, J. and Barbas, H. (2018) Speci city of primate amygdalar /uniFB01 pathways to hippocampus. J. Neurosci. 38, 10019 10041 -
+- 20. John, Y.J. et al. (2022) Emotional intensity can enrich or degrade memories: impact of the amygdalar pathway on hippocampus through inhibitory neurons. bioRxiv Published online March 19, 2022. https://doi.org/10.1101/2022.03.17.484812
+
+emotionally salient events determine whether temporal memory is enhanced versus distorted by emotion?
+
+Do event boundaries rely on retiming mechanisms? What role do they play in emotional memory organization?
+
+- 21. Lapate, R.C. et al. (2017) Inhibition of lateral prefrontal cortex produces emotionally biased /uniFB01 rst impressions: a transcranial magnetic stimulation and electroencephalography study. Psychol. Sci. 28, 942 -953
+- 22. Tambini, A. et al. (2017) Emotional brain states carry over and enhance future memory formation. Nat. Neurosci. 20, 271 -278
+- 23. Cai, D.J. et al. (2016) A shared neural ensemble links distinct contextual memories encoded close in time. Nature 534, 115 118 -
+- 24. Grupe, D.W. et al. (2018) Behavioral and neural indices of affective coloring for neutral social stimuli. Soc. Cogn. Affect. Neurosci. 13, 310 -320
+- 25. Lapate, R.C. et al. (2016) Awareness of emotional stimuli determines the behavioral consequences of amygdala activation and amygdala-prefrontal connectivity. Sci. Rep. 6, 1 -16
+- 26. Puccetti, N.A. et al. (2021) Linking amygdala persistence to real-world emotional experience and psychological well-being. J. Neurosci. 41, 3721 3730 -
+- 27. Lapate, R.C. and Heller, A.S. (2020) Context matters for affective chronometry. Nat. Hum. Behav. 4, 688 -689
+- 28. Davidson, R.J. (2000) Affective style, psychopathology, and resilience: brain mechanisms and plasticity. Am. Psychol. 55, 1196 -1214
+- 29. Cohen, R.T. and Kahana, M.J. (2022) A memory-based theory of emotional disorders. Psychol. Rev. 129, 742 -776
+- 30. Javaras, K.N. et al. (2012) Conscientiousness predicts greater recovery from negative emotion. Emotion 12, 875 -881
+- 31. Schaefer, S.M. et al. (2013) Purpose in life predicts better emotional recovery from negative stimuli. PLoS One 8, e80329
+- 32. Heller, A.S. et al. (2009) Reduced capacity to sustain positive emotion in major depression re ects diminished maintenance of /uniFB02 fronto-striatal brain activation. Proc. Natl. Acad. Sci. U. S. A. 106, 22445 22450 -
+- 33. Lapate, R.C. et al. (2014) Prolonged marital stress is associated with short-lived responses to positive stimuli. Psychophysiology 51, 499 -509
+- 34. Schuyler, B.S. et al. (2014) Temporal dynamics of emotional responding: amygdala recovery predicts emotional traits. Soc. Cogn. Affect. Neurosci. 9, 176 -181
+- 35. Polyn, S.M. et al. (2009) A context maintenance and retrieval model of organizational processes in free recall. Psychol. Rev. 116, 129 -156
+- 36. Talmi, D. et al. (2019) A retrieved context model of the emotional modulation of memory. Psychol. Rev. 126, 455 -485
+- 37. Ehlers, A. and Clark, D.M. (2000) A cognitive model of posttraumatic stress disorder. Behav. Res. Ther. 38, 319 345 -
+- 38. Sumner, J.A. et al. (2010) Overgeneral autobiographical memory as a predictor of the course of depression: a meta-analysis. Behav. Res. Ther. 48, 614 -625
+- 39. Habermas, T. et al. (2008) Stuck in the past: negative bias, explanatory style, temporal order, and evaluative perspectives in life narratives of clinically depressed individuals. Depress. Anxiety 25, E121 E132 -
+- 40. Eichenbaum, H. (2014) Time cells in the hippocampus: a new dimension for mapping memories. Nat. Rev. Neurosci. 15, 732 744 -
+- 41. Roddy, D.W. et al. (2019) The hippocampus in depression: more than the sum of its parts? Advanced hippocampal substructure segmentation in depression. Biol. Psychiatry 85, 487 497 -
+- 42. Belleau, E.L. et al. (2019) The impact of stress and major depressive disorder on hippocampal and medial prefrontal cortex morphology. Biol. Psychiatry 85, 443 -453
+- 43. Gilbertson, M.W. et al. (2002) Smaller hippocampal volume predicts pathologic vulnerability to psychological trauma. Nat. Neurosci. 5, 1242 -1247
+- 44. Koenigs, M. et al. (2008) Distinct regions of prefrontal cortex mediate resistance and vulnerability to depression. J. Neurosci. 28, 12341 12348 -
+- 45. Yoo, H.B. et al. (2021) Boundary cells in the representation of episodes in the human hippocampus. bioRxiv Published online May 29, 2021. https://doi.org/10.1101/2021.05.28.446233
+- 46. Tsao, A. et al. (2018) Integrating time from experience in the lateral entorhinal cortex. Nature 561, 57 -62
+
+## Trends in Cognitive Sciences
+
+- 47. Shimbo, A. et al. (2021) Scalable representation of time in the hippocampus. Sci. Adv. 7, eabd7013
+- 48. Dimsdale-Zucker, H.R. et al. (2022) Representations of complex contexts: a role for hippocampus. J. Cogn. Neurosci. Published online September 26, 2022. https://doi.org/10.1162/ jocn_a_01919
+- 49. Zheng, J. et al. (2019) Multiplexing of theta and alpha rhythms in the amygdala-hippocampal circuit supports pattern separation of emotional information. Neuron 102, 887 898.e5 -
+- 50. MacDonald, C.J. et al. (2011) Hippocampal ' time cells ' bridge the gap in memory for discontiguous events. Neuron 71, 737 749 -
+- 51. MacDonald, C.J. et al. (2013) Distinct hippocampal time cell sequences represent odor memories in immobilized rats. J. Neurosci. 33, 14607 14616 -
+- 52. Tiganj, Z. et al. (2017) Sequential /uniFB01 ring codes for time in rodent medial prefrontal cortex. Cereb. Cortex 27, 5663 -5671
+- 53. Naya, Y. and Suzuki, W.A. (2011) Integrating what and when across the primate medial temporal lobe. Science 333, 773 -776
+- 54. Sugar, J. and Moser, M.-B. (2019) Episodic memory: neuronal codes for what, where, and when. Hippocampus 29, 1190 1205 -
+- 55. Allen, T.A. et al. (2016) Nonspatial sequence coding in CA1 neurons. J. Neurosci. 36, 1547 1563 -
+- 56. LeDoux, J. (2007) The amygdala. Curr. Biol. 17, R868 R874 -
+- 57. Phelps, E.A. and LeDoux, J.E. (2005) Contributions of the amygdala to emotion processing: from animal models to human behavior. Neuron 48, 175 -187
+- 58. Ritchey, M. et al. (2008) Role of amygdala connectivity in the persistence of emotional memories over time: an event-related FMRI investigation. Cereb. Cortex 18, 2494 2504 -
+- 59. Richardson, M.P. et al. (2004) Encoding of emotional memories depends on amygdala and hippocampus and their interactions. Nat. Neurosci. 7, 278 -285
+- 60. McGaugh, J.L. (2004) The amygdala modulates the consolidation of memories of emotionally arousing experiences. Annu. Rev. Neurosci. 27, 1 -28
+- 61. Phelps, E.A. (2004) Human emotion and memory: interactions of the amygdala and hippocampal complex. Curr. Opin. Neurobiol. 14, 198 -202
+- 62. Yonelinas, A.P. and Ritchey, M. (2015) The slow forgetting of emotional episodic memories: an emotional binding account. Trends Cogn. Sci. 19, 259 -267
+- 63. Bisby, J.A. and Burgess, N. (2017) Differential effects of negative emotion on memory for items and associations, and their relationship to intrusive imagery. Curr. Opin. Behav. Sci. 17, 124 132 -
+- 64. Bechara, A. et al. (1995) Double dissociation of conditioning and declarative knowledge relative to the amygdala and hippocampus in humans. Science 269, 1115 1118 -
+- 65. Knight, D.C. et al. (2009) Neural substrates of explicit and implicit fear memory. Neuroimage 45, 208 -214
+- 66. Mau, W. et al. (2018) The same hippocampal CA1 population simultaneously codes temporal information over multiple timescales. Curr. Biol. 28, 1499 1508.e4 -
+- 67. Mankin, E.A. et al. (2015) Hippocampal CA2 activity patterns change over time to a larger extent than between spatial contexts. Neuron 85, 190 -201
+- 68. Kraus, B.J. et al. (2013) Hippocampal ' time cells : time versus ' path integration. Neuron 78, 1090 1101 -
+- 69. Manns, J.R. et al. (2007) Gradual changes in hippocampal activity support remembering the order of events. Neuron 56, 530 -540
+- 70. Spetch, M.L. et al. (1981) Backward conditioning: a reevaluation of the empirical evidence. Psychol. Bull. 89, 163 -175
+- 71. Feinstein, J.S. et al. (2010) Sustained experience of emotion after loss of memory in patients with amnesia. Proc. Natl. Acad. Sci. U. S. A. 107, 7674 7679 -
+- 72. McCormick, C. et al. (2016) Hippocampal damage increases deontological responses during moral decision making. J. Neurosci. 36, 12157 12167 -
+- 73. Yadav, N. et al. (2022) Prefrontal feature representations drive memory recall. Nature 608, 153 -160
+- 74. Desrochers, T.M. et al. (2015) The necessity of rostrolateral prefrontal cortex for higher-level sequential behavior. Neuron 87, 1357 1368 -
+
+## Trends in Cognitive Sciences
+
+- 75. Desrochers, T.M. et al. (2019) Sequential control underlies robust ramping dynamics in the rostrolateral prefrontal cortex. J. Neurosci. 39, 1471 -1483
+- 76. Manning, J.R. et al. (2011) Oscillatory patterns in temporal lobe reveal context reinstatement during memory search. Proc. Natl. Acad. Sci. U. S. A. 108, 12893 12897 -
+- 77. Clark, R.E. and Squire, L.R. (1998) Classical conditioning and brain systems: the role of awareness. Science 280, 77 -81
+- 78. Hasz, B.M. and Redish, A.D. (2020) Dorsomedial prefrontal cortex and hippocampus represent strategic context even while simultaneously changing representation throughout a task session. Neurobiol. Learn. Mem. 171, 107215
+- 79. FitzGerald, T.H.B. et al. (2017) Sequential inference as a mode of cognition and its correlates in fronto-parietal and hippocampal brain regions. PLoS Comput. Biol. 13, e1005418
+- 80. Vilà-Balló, A. et al. (2017) Unraveling the role of the hippocampus in reversal learning. J. Neurosci. 37, 6686 -6697
+- 81. Berger, T.W. and Orr, W.B. (1983) Hippocampectomy selectively disrupts discrimination reversal conditioning of the rabbit nictitating membrane response. Behav. Brain Res. 8, 49 -68
+- 82. Weikart, C.L. and Berger, T.W. (1986) Hippocampal lesions disrupt classical conditioning of cross-modality reversal learning of the rabbit nictitating membrane response. Behav. Brain Res. 22, 85 -89
+- 83. Carrillo, M.C. et al. (2001) Spared discrimination and impaired reversal eyeblink conditioning in patients with temporal lobe amnesia. Behav. Neurosci. 115, 1171 1179 -
+- 84. Myers, C.E. et al. (2006) Conditional discrimination and reversal in amnesia subsequent to hypoxic brain injury or anterior communicating artery aneurysm rupture. Neuropsychologia 44, 130 139 -
+- 85. Shohamy, D. et al. (2009) Distinct hippocampal and basal ganglia contributions to probabilistic learning and reversal. J. Cogn. Neurosci. 21, 1820 1832 -
+- 86. Clewett, D. and Davachi, L. (2021) Emotional arousal ripples across time to bind subsequent episodes in memory. PsyArXiv Published online September 1, 2021. https://doi.org/10.31234/ osf.io/ne5vs
+- 87. Dunsmoor, J.E. et al. (2018) Event segmentation protects emotional memories from competing experiences encoded close in time. Nat. Hum. Behav. 2, 291 -299
+- 88. Yang, Y. et al. (2016) Opposite monosynaptic scaling of BLP -vCA1 inputs governs hopefulness- and helplessness-modulated spatial learning and memory. Nat. Commun. 7, 1 -14
+- 89. Park, A. et al. (2019) A time-dependent role for the transcription factor CREB in neuronal allocation to an engram underlying a fear memory revealed using a novel in vivo optogenetic tool to modulate CREB function. Neuropsychopharmacology 45, 916 924 -
+- 90. Zhou, Y. et al. (2009) CREB regulates excitability and the allocation of memory to subsets of neurons in the amygdala. Nat. Neurosci. 12, 1438 -1443
+- 91. Rolls, E.T. and Mills, P. (2019) The generation of time in the hippocampal memory system. Cell Rep. 28, 1649 1658.e6 -
+- 92. Witter, M.P. and Amaral, D.G. (2021) The entorhinal cortex of the monkey: VI. Organization of projections from the hippocampus, subiculum, presubiculum, and parasubiculum. J. Comp. Neurol. 529, 828 -852
+- 93. Freund, T.F. and Buzsáki, G. (1996) Interneurons of the hippocampus. Hippocampus 6, 347 -470
+- 94. Robinson, N.T.M. et al. (2017) Medial entorhinal cortex selectively supports temporal coding by hippocampal neurons. Neuron 94, 677 -688.e6
+- 95. Howard, M.W. et al. (2014) A uni /uniFB01 ed mathematical framework for coding time, space, and sequences in the hippocampal region. J. Neurosci. 34, 4692 -4707
+- 96. Bisby, J.A. et al. (2016) Opposing effects of negative emotion on amygdalar and hippocampal memory for items and associations. Soc. Cogn. Affect. Neurosci. 11, 981 990 -
+- 97. Palombo, D.J. and Cocquyt, C. (2020) Emotion in context: remembering when. Trends Cogn. Sci. 24, 687 -690
+- 98. Palombo, D.J. et al. (2021) Exploring the facets of emotional episodic memory: remembering ' what, ' ' when, ' and ' which . ' Psychol. Sci. 32, 1104 -1114
+- 99. Mather, M. and Sutherland, M.R. (2011) Arousal-biased competition in perception and memory. Perspect. Psychol. Sci. 6, 114 -133
+- 100. Hennings, A.C. et al. (2021) Emotional learning retroactively enhances item memory but distorts source attribution. Learn. Mem. 28, 178 -186
+- 101. Schmidt, K. et al. (2011) Emotion s in ' /uniFB02 uence on memory for spatial and temporal context. Cognit. Emot. 25, 229 -243
+- 102. Reisman, S. et al. (2021) In /uniFB02 uence of naturalistic, emotional context and intolerance of uncertainty on arousal-mediated biases in episodic memory. PsyArXiv Published online February 8, 2021. https://doi.org/10.31234/osf.io/fy2tm
+- 103. Petrucci, A.S. and Palombo, D.J. (2021) A matter of time: how does emotion in /uniFB02 uence temporal aspects of remembering? Cognit. Emot. 35, 1499 1515 -
+- 104. Lowe, C.J. et al. (2018) The effects of theta burst stimulation (TBS) targeting the prefrontal cortex on executive functioning: a systematic review and meta-analysis. Neuropsychologia 111, 344 359 -
+- 105. Tambini, A. et al. (2018) Hippocampal-targeted theta-burst stimulation enhances associative memory formation. J. Cogn. Neurosci. 30, 1452 1472 -
+- 106. Hebscher, M. and Voss, J.L. (2020) Testing network properties of episodic memory using non-invasive brain stimulation. Curr. Opin. Behav. Sci. 32, 35 -42
+- 107. DuBrow, S. and Davachi, L. (2016) Temporal binding within and across events. Neurobiol. Learn. Mem. 134, 107 -114
+- 108. Davachi, L. and DuBrow, S. (2015) How the hippocampus preserves order: the role of prediction and context. Trends Cogn. Sci. 19, 92 -99
+- 109. Ghashghaei, H.T. et al. (2007) Sequence of information processing for emotions based on the anatomic dialogue between prefrontal cortex and amygdala. Neuroimage 34, 905 -923
+- 110. Medalla, M. and Barbas, H. (2010) Anterior cingulate synapses in prefrontal areas 10 and 46 suggest differential in /uniFB02 uence in cognitive control. J. Neurosci. 30, 16068 16081 -
+- 111. Joyce, M.K.P. and Barbas, H. (2018) Cortical connections position primate area 25 as a keystone for interoception, emotion, and memory. J. Neurosci. 38, 1677 -1698
+- 112. Kensinger, E.A. (2009) Remembering the details: effects of emotion. Emot. Rev. 1, 99 -113
+- 113. Fudge, J.L. et al. (2012) Revisiting the hippocampal-amygdala pathway in primates: association with immature-appearing neurons. Neuroscience 212, 104 -119
+- 114. Saunders, R.C. and Rosene, D.L. (1988) A comparison of the efferents of the amygdala and the hippocampal formation in the rhesus monkey: I. Convergence in the entorhinal, prorhinal, and perirhinal cortices. J. Comp. Neurol. 271, 153 -184
+- 115. Pitkänen, A. et al. (2002) Projections from the lateral, basal, and accessory basal nuclei of the amygdala to the entorhinal cortex in the macaque monkey. Hippocampus 12, 186 -205
+- 116. Murty, V.P. et al. (2010) fMRI studies of successful emotional memory encoding: a quantitative meta-analysis. Neuropsychologia 48, 3459 3469 -
+- 117. Ritchey, M. et al. (2019) Dissociable medial temporal pathways for encoding emotional item and context information. Neuropsychologia 124, 66 -78
+- 118. Montchal, M.E. et al. (2019) Precise temporal memories are supported by the lateral entorhinal cortex in humans. Nat. Neurosci. 22, 284 -288
+- 119. DuBrow, S. and Davachi, L. (2017) Commentary: Distinct neural mechanisms for remembering when an event occurred. Front. Psychol. 8, 189
+- 120. Mather, M. (2007) Emotional arousal and memory binding: an object-based framework. Perspect. Psychol. Sci. 2, 33 -52
+- 121. Rimmele, U. et al. (2011) Emotion enhances the subjective feeling of remembering, despite lower accuracy for contextual details. Emotion 11, 553 -562
+- 122. Rimmele, U. et al. (2012) Memory for time and place contributes to enhanced con dence in memories for emotional events. /uniFB01 Emotion 12, 834 -846
+- 123. DuBrow, S. et al. (2017) Does mental context drift or shift? Curr. Opin. Behav. Sci. 17, 141 -146
+
+- 124. Bazelot, M. et al. (2015) Hippocampal theta input to the amygdala shapes feedforward inhibition to gate heterosynaptic plasticity. Neuron 87, 1290 -1303
+- 125. Howard, M.W. (2018) Memory as perception of the past: compressed time in mind and brain. Trends Cogn. Sci. 22, 124 -136
+- 126. Insausti, R. et al. (1987) The entorhinal cortex of the monkey: III. Subcortical afferents. J. Comp. Neurol. 264, 396 408 -
+- 127. Bellmund, J.L.S. et al. (2021) Structuring time: the hippocampus constructs sequence memories that generalize temporal relations across experiences. bioRxiv Published online February 4, 2022. https://doi.org/10.1101/2021.04.23.440002
+
+## Trends in Cognitive Sciences
+
+- 128. Zeidman, P. and Maguire, E.A. (2016) Anterior hippocampus: the anatomy of perception, imagination and episodic memory. Nat. Rev. Neurosci. 17, 173 -182
+- 129. Poppenk, J. et al. (2013) Long-axis specialization of the human hippocampus. Trends Cogn. Sci. 17, 230 240 -
+- 130. Barbas, H. et al. (2018) Pathway mechanism for excitatory and inhibitory control in working memory. J. Neurophysiol. 120, 2659 2678 -
+- 131. Mai, J.K. et al. (2004) Atlas of the Human Brain , Elsevier Academic Press

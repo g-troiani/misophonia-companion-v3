@@ -1,0 +1,647 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:JournalofAdvanced Pharmacy Education andResearch
+ArticleTitle: Theffectiveness ofcathodal(tDCS)inrightinsularegionandcognitive-behavioral therapy
+inmisophonia disorder
+ArticleAuthor: zahrapourmohammad shandiz,Hamidreza Aghamohammadian Sharbaf,Mohammad
+SaeidAbdeKhodaei ,SeyedRuhollah Hosseini
+Vol:14Date:2025Pages:11-17
+OCLC-1404803185; ISSN-1404803185;
+Publisher: SocietyofPharmaceutical Education andResearch [SPER]
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution -Non Commercial -
+ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non -commercially, as long as appropriate credit is 
+given and the new creations are licensed under the identical terms.  
+ 
+© 20 24 Journal  of Advanced Pharmacy Education & Research | Published by SPER Publication                                         1 
+   
+The effectiveness of cathodal (tDCS)  in right insulla  region and  
+cognitive -behavioral thrapy in misophonia disorder  
+Zahra Pourmohammad Shandiz1, Hamidreza Aghamohammadian Sharbaf1*, Mohammad Saeid 
+AbdeKhodaei1*, Seyed Ruhollah Hosseini1 
+1Department of Clinical Psychology, Faculty of Education and Psychology, Ferdowsi University Of Mashhad, Mashhad, Iran  
+Correspondence:  Hamidreza Aghamohammadian Sharbaf , Department of Clinical Psychology, Faculty of Education and Psychology, Ferdowsi University 
+Of Mashhad, Mashhad, Iran . Aghamohammadian@Ferdowsi.ac.um.ir  
+ABSTRACT  
+Misophonia disorder is a neurological disorder in which people show emotional, physical or aggressive reactions upon hearing a series of 
+sounds, which ultimately leads to disruption in the work environment and relationships of these people. Therefore, the aim of this study 
+was to investigate the effectiveness of cathodal tDCS and cognitive -behavioral therapy in reducing the symptoms of misophonia disorder.   
+The current research is practical based on the purpose and based on the method of data collection, it was a semi -experimental type of 
+pre-test and post -test with a control group. People with misophonia were selected and randomly assigned to five groups of 10 people, 
+which included four experimental groups and one control group. The interventions included 9  sessions (tDCS) for 15 minutes with an 
+intensity of 1 milliampere and 9 sessions of group cognitive behavioral therapy (120 minutes) and Wu's noise aversion questio nnaire was 
+used. For data analysis, multivariate analysis of covariance was performed with SPSS -25 software.  
+The findings showed that each of the tdcs and cognitive -behavioral treatments individually and also in combination reduce the symptoms 
+of misophonia disorder.   It seems that tdcs along with cognitive behavioral therapy has more effectiveness, which reminds the need to 
+pay more attention to this combined treatment method, also, cognitive -behavioral therapy and electrical stimulation each have significant 
+results a nd effects in They have a reduction in the symptoms of misophonia disorder . 
+ 
+Keywords:   Hearing impairment, Misophonia disorder, Cognitive -behavioral therapy, Electrical stimulation of the brain . 
+ 
+Introduction    
+Misophonia is a strong emotional reaction to normally occurring 
+sounds. Jastreboff & Jastreboff coined this term at the beginning 
+of the new millennium [1]. Lexicologically, miso means dislike 
+or hatred and phonia means sound. Thus, misophonia means 
+sound aversion or hatred of sound. According to Dozier, 
+misophonia is a term that does not include the hatred of all 
+sounds, but only the hatred of certain sound s, which are called 
+triggers [2]. Misophonia was also first described as an 
+overreaction of the limbi c and autonomic systems of the brain in 
+response to specific auditory stimuli [3]. The term “misophonia” 
+means hatred of sound, which was first introduced to the 
+scientific community in 2001 by Jastreboff, although this term 
+was used at first to express the difference between different 
+terms in the field of hearing, which was caused by  intolerance to 
+sound, such as hyperacusis and phonophobia. None of these terms expressed the psychological state of a person suffering 
+from misophonia. Thus, the new term mis ophonia was coined. 
+However, more experts expanded the meaning and concept of 
+this disorder due to the prevalence of this disorder.  
+The symptoms of this disorder include a very intense and 
+negative reaction toward trigger sounds [4, 5, 6] .  Trigger sounds 
+are often related to the sound of the nose or mouth, such as the 
+sounds of breathing, finning, straining, and chewing food, and 
+some other sounds such as typing and the ticking of the clock. 
+They are considered stimulating sounds for some pe ople. The 
+patients are mostly aware of the inappropriateness of their 
+reaction to the sound source but are unable to control their 
+reaction and use  a series of coping mechanisms such as avoiding 
+the social environment [7]. Using these mechanisms leads to 
+disruption in the work environment and relationships between 
+these people. These people experience loneliness and exclusion 
+from society [8]. The rejection of these people leads to more 
+loneliness leading to more anxiety and the worsening of the
+
+Pourmohammad Shandiz  et al.: The effectiveness of cathodal (tDCS)  in right insulla  region and  cognitive -behavioral thrapy in 
+misophonia disorder  
+ 
+2                                                                                      Journal of Advance d Pharmacy Education & Research  | 2024 | Vol 14  | Issue S1   symptoms of this disorder and comorbid disorders with this 
+disorder . 
+Misophonia disorder is a mental disorder in which people have a 
+kind of sound sensitivity syndrome and show emotional, 
+physical, or aggressive reactions when hearing some sounds. 
+These can affect people's nerves. They can include the sound of 
+typing on a keyboard, a car wiper, a faucet running, drawing 
+chalk on a board, breathing, a clock ticking, chewing, or 
+whistling, and other sounds that can cause annoyance and 
+sensitivity to people.   In other words, misophonia are sounds that 
+are repeated frequently and people with this disorder show 
+nervous reactions to them. The frequency of creating this sound 
+can exacerbate this disorder [9]. 
+Materials and Methods  
+Research design and participants  
+The present study is applied regarding purpose and quasi -
+experimental type of pre -test, and post -test, with a control 
+group in terms of data collection method. The statistical 
+population of the present study included all people with 
+misophonia in Mashhad i n 2022. A convenient purposeful 
+sampling method was used in this study.  
+Accordingly, explanations were given about misophonia disorder 
+to the participants in a call on various social networks. Then, the 
+subjects were asked to answer the misophonia questionnaire. 
+Then, the inclusion and exclusion criteria were applied. The 
+inclusion criteria of the study included the willingness to 
+cooperate and participate in the study, having at least a secondary 
+level of education, physical and cognitive ability, not suffering 
+from physical diseases to participate in therapeutic interventions , 
+being in the age range of 15 to 55 years, and not taking drugs at 
+least two weeks before the start of the intervention. The 
+exclusion criteria included pregnant women, people outside the 
+age range of 15 to 55 years, and people with physical illnesses, 
+using drugs, alcohol consumption, and suffering from brain and 
+skull injuries. Accordingly, 60 people with misophonia were 
+selected based on the inclusion and exclusion criteria and were 
+randomly assigned to five groups of 12 people.  
+ 
+ 
+According to  Research design , the quasi -experimental design of 
+the present with the participation of 50 people includes four 
+experimental groups (Group 1: tDCS therapy, Group 2: 
+cognitive behavioral therapy, Group 3: tDCS therapy plus 
+cognitive behavioral therapy, and Group 4: sham group) and one 
+control group. The experimental and control groups were 
+rando mly matched and before the experimental interventions 
+were assigned to the experimental and control groups, a pre -test 
+was implemented on them. The diffe rence between the pre -test 
+and the post -test of each group was analyzed based on statistical 
+significance. Accordingly, the effectiveness of tDCS and 
+cognitive behavioral therapy was applied to determine its effect on reducing the symptoms of misophonia disorder. The data 
+collection tool included Wu et al .’s (2014) misophonia 
+questionnaire  [10]. After selecting the sample group and 
+assigning them randomly into four experimental groups and one 
+control group, the experimental groups received the 
+interventions.  
+Tools  
+Misophonia Questionnaire: The Misophonia Questionnaire is a 
+self-report tool developed by Wu et al. in 2014 to assess the 
+symptoms of misophonia and emotional and behavioral 
+responses, the overall intensity of sound sensitivity, and 
+functional impairment  [10]. This questionnaire contains 17 items 
+divided into two subscales [10]. 
+1- Subscale of misophonia symptoms: This subscale evaluates the 
+frequency and severity of misophonia symptoms experienced by 
+the respondent. The items of this subscale assess the intensity of 
+bad reactions to specific stimuli that are usually associated wi th 
+misophonia.  
+2- Subscale of emotions and behaviors caused by misophonia: this 
+subscale assesses the emotional and behavioral responses caused 
+by misophonia stimuli. It assesses the range of emotional 
+experiences (such as anger and anxiety) and coping behaviors 
+(such as  avoidance) in response to stimulus stimuli.  
+This questionnaire is scored on a 5 -point Likert scale ranging 
+from very high, high, moderate, low, and very low in a score 
+from 0 to 4 indicating the intensity of or degree of agreement of 
+the respondent to each item. This questionnaire provides a 
+compreh ensive assessment of misophonia symptoms, and 
+emotional responses, and allows a multidimensional 
+understanding of this disorder. Cronbach's alpha coefficient was 
+calculated at 0.86 for the scale of misophonia symptoms, 0.86 for 
+the subscale of emotions and  behaviors caused by misophonia, 
+and 0.89 for the whole scale [10]. 
+Transcranial direct current stimulation  (tDCS): tDCS is a non -
+invasive brain stimulation method that uses low electrical current 
+to modulate brain activity. Two electrodes are usually involved 
+in tDCS: an anode (positive electrode) and a cathode (negative 
+electrode). A small brain stimulation dev ice that transmits a 
+constant electric current from the skull to the brain by 
+connecting electrodes with the different polarity of the anode 
+(activating) and cathode (inhibiting) that are installed on the 
+scalp, and  the electrodes that are mostly made of carbon and 
+conductive materials, are placed on the scalp and the device 
+transmits direct electrical current from the skull to the brain. A 
+sponge soaked in salt solution is often used to prevent chemical 
+reactions at  the electrode -skin interface. The device was 
+powered by a 9 V battery, with a maximum current of 2 mA and 
+a maximum voltage of 80 V in direct current (DC) format [10]. 
+At this stage, the target brain regions were selected according to 
+the international sy stem of 10 -20 electrodes. A 2.5 x 2.5 cm 
+cathodal electrode was placed at the midpoint between F8 and 
+T4, while the anode electrode was placed on the arm in both 
+cases, and the subject was exposed to sounds and images that
+
+Pourmohammad Shandiz  et al.: The effectiveness of cathodal (tDCS)  in right insulla  region and  cognitive -behavioral thrapy in 
+misophonia disorder  
+ 
+Journal of Advance d Pharmacy Education & Research  | 2024 | Vol 14  | Issue S1                                                                                       3 stimulated misophonia. The electrodes were approximately the 
+same size. In each tDCS session, a constant current of 1 mA was 
+applied for 15 min. The total number of sessions was 9. 
+Stimulation for the sham group was stopped after 30 seconds. 
+Each group rec eived 5 stimulation sessions every other day. This 
+montage was adapted by applying changes from the montage that 
+Sagliano et al. (2019) designed in 2020  [11]. After completing the 
+treatment sessions, all the subjects in the experimental, control, 
+and sham groups underwent a post -test. One of the experimental 
+groups received cathodal and cognitive behavioral sessions 
+simultaneously.  
+Cognitive behavioral therapy: In this section, all subjects 
+underwent a pre -test before the intervention. The experimental 
+group received 9 sessions (45 minutes) of counterconditioning -
+focused cognitive behavioral therapy. In the counterconditioning 
+stage,  based on new results in the field of the role of mirror cells 
+in causing misophonia disorder, images containing pleasant faces 
+and also desirable sounds were used after presenting the 
+misophonic stimulus. After the completion of the treatment 
+sessions, al l the subjects underwent a post -test and the 
+experimental and control groups were compared. As mentioned, 
+one of the experimental groups received tDCS and cognitive 
+behavioral sessions simultaneously. The treatment protocol of 
+the cognitive behavioral ther apy was adapted from Jager et al. 
+(2020) and the changes considered by the researcher (related to 
+the counterconditioning part) were added  [12]. 
+Cognitive behavioral therapy protocol (based on 
+counterconditioning)  
+The first session: welcome, introduction, initial evaluations, and 
+familiarity with the program. In this session, Lazarus Coping 
+Styles Questionnaire and Misophonia Questionnaire were 
+completed by the subjects.  
+The second session: interaction of thoughts, emotions, 
+physiology, and behavior, and identification of automatic 
+thoughts.  
+The third session: evaluation of automatic thoughts related to 
+misophonic stimuli, training of thought model of behavior 
+emotion.  
+The fourth session: Opposing automatic thoughts and replacing 
+proportional logic. Identifying intermediary thoughts and core 
+thoughts and explaining them to avoid stressful situations.  
+The fifth session: Identifying specific mediating beliefs and 
+analyzing thoughts and how to reconstruct and prepare logical 
+opposing.  
+The sixth session: In this session, relaxation training was 
+performed. Accordingly, the person was placed in a comfortable 
+place and began to contract and extend all his muscles from head 
+to toe in a quiet and peaceful environment.  
+The seventh session: continuation of relaxation along with 
+playing misophonic images and sounds and immediately after that 
+playing pictures of happy faces with soft music.  
+The eighth session: Continuing the process of the seventh session 
+and selecting an alternative behavior instead of avoiding and 
+confronting the client's opinion.  The ninth session: Termination of treatment and completion of 
+misophonia and coping styles questionnaire.  
+Data analysis  
+ The data were analyzed in two sections using SPSS -25 software.  
+The first section: This section presents a report of descriptive 
+results using prevalence, percentage, mean, and standard 
+deviation indices.  
+The second section: In this section, to test the hypotheses of the 
+study, after examining the assumptions of the multivariate 
+analysis of covariance (MANCOVA), which includes the 
+normality and homogeneity of the variances, multivariate analysis 
+of covariance test (with control of pre -test scores ) was used.  
+Results and Discussion  
+Descriptive results  
+ 
+ 
+ Base on finding regarding the misophonia variable, the highest 
+mean in the groups is related to the tDCS group, and the lowest 
+mean is related to the control group in the pre -test stage. Also, 
+the highest mean is related to the sham group, and the lowest 
+mean is related t o cognitive behavioral therapy in the post -test 
+phase. Also, regarding the variable of excitement caused by 
+misophonia, the highest mean is related to the sham group, and 
+the lowest mean is related to the control group in the pre -test 
+stage. The highest mean is related to the sham group and the 
+lowest mean is related to the cognitive behavioral and tDCS 
+group in the post -test stage.  
+Inferential results  
+In this section, based on the research hypothesis, a multivariate 
+covariance analysis test was used. Therefore, we will examine the 
+assumptions required to use the test:  
+Normal distribution of variables: This assumption means that the 
+distribution of variables in this society was normal. In other 
+words, the parametric test can be used when the population 
+distributions do not differ much from the normal distribution 
+[13]. To examine the normal distribution of the variables due to 
+the small sample size, the Shapiro -Wilk test was used. A 
+significance level higher than P<0.001 in this test indicates the 
+normal distribution of the variables [14]. The following table 
+presents the  results.  
+ 
+ 
+The results  show that the distribution of all variables by groups is 
+normal (P ≤0.05).  
+2. Equality of variances: This assumption means that two samples 
+have been selected from populations with equal variances. In 
+other words, the parametric test can be used when the variances
+
+Pourmohammad Shandiz  et al.: The effectiveness of cathodal (tDCS)  in right insulla  region and  cognitive -behavioral thrapy in 
+misophonia disorder  
+ 
+4                                                                                      Journal of Advance d Pharmacy Education & Research  | 2024 | Vol 14  | Issue S1   of the population do not differ much from the state of equality 
+[13]. To examine the equality of variances, Levene's test of 
+equality of variances was used. In this test, if the significance level 
+is higher than 0.05, it means that the assumption of equality of 
+variances is fulfilled [15]. The results of this hypothesis are shown 
+in the table below.  
+ 
+Table 1. Results of Levene's test to examine the equality 
+of variance error  
+Variable  F Df1 Df2 Sig 
+Misophonia  1.50  4 44 0.217  
+Excitement caused 
+by misophonia  2.17  4 44 0.087  
+  
+According to the results of the above table, it can be concluded 
+that the equality of variances has been fulfilled in all variables.  
+3. The assumption of equality of variance -variance matrices: the 
+fulfillment of this assumption is necessary for multivariate 
+variance analysis. Generally, the assumption of equality of 
+variances seeks to investigate whether the samples are selected 
+from p opulations with equal variances or not. When this 
+assumption is fulfilled, the data from these two populations can 
+be combined to obtain an unbiased estimate of the population 
+variance [13]. 
+The implementation of the assumption of equality of variance -
+variance matrices also follows such a goal. Box's M test is used to 
+examine the quality of the variance -variance matrices of the 
+research variables. Based on the significance level obtained in th is 
+test, it is possible to judge the equality or non -equality of the 
+variance -variance matrices. Thus, if the obtained significance 
+level is higher than P = 0.05, the matrices are equal and vice 
+versa [15]. The results of this hypothesis are shown in the t able 
+below.  
+ 
+Table 2. Examining the assumption of the equality of 
+variance -covariance matrices  
+Box` s M  F Df1 Df2 Sig 
+25.42  1.90  12 13939.921  0.059  
+ 
+The results of the above table show that the assumption of 
+equality of the variance -covariance matrix has been fulfilled 
+(P<0.05).  
+3. Multiple Correlation of Dependent Variables: There are 
+disagreements about the extent to which dependent variables 
+should be correlated with each other. This assumption is 
+examined using Bartlett's test. The significant coefficients of this 
+test indicat e the multivariate correlation between the dependent 
+variables [14]. The results of this hypothesis are shown in the 
+table below. The results indicate the fulfillment of this 
+assumption.  
+ 
+Table 3. Results of Bartlett's test of sphericity  
+X2 value  df sig 12.47  2 0.002  
+ 
+Based on the results of Table 6 , the above assumption is fulfilled.  
+Given what was stated, the necessary assumptions to implement 
+the test have been fulfilled. Thus, the test results are reported.  
+ 
+ 
+The assumption of equality of the regression slope is fulfilled for 
+all variables (significance level is higher than 0.05).  
+A multivariate test was used in this study. This test compares the 
+linear combination of variables among the subjects of different 
+groups. The results of the Wilks -Lambda test are presented as 
+one of the most valid multivariate tests when the assumptions o f 
+the analysis are fulfilled. The results a re reported in the table 
+below.  
+ 
+Table 4. Multivariate test  
+Variable  Wilks -
+lambda  F Sig 
+Group membership  0.403  5.889  0.00  
+ 
+ the difference in the linear combination of variables in the groups 
+is statistically significant. The level of effect or difference 
+according to the Wilks -Lambda test is 0.403, in other words, 
+40% of individual differences in the post -test scores of 
+misop honia symptoms and excitements and behaviors caused by 
+misophonia is related to the effectiveness of TDCS and cognitive 
+behavioral therapy in people suffering from misophonia (group 
+membership).  
+ 
+Table 5. Covariance test results  
+Independent 
+variable  dependent 
+variable  sum of 
+squares  df mean 
+sum of 
+squares  F sig Effect 
+size 
+ 
+Group 
+membership  
+ misophonia  688.454  4 172.113  8.03  0.00  0.434  
+Excitement 
+caused by 
+misophonia  1493.084  4 373.272  10.72  0.00  0.505  
+According to the above table, it can be concluded that by 
+controlling the pre -test effect, there is a significant difference 
+between groups based on group membership in all variables. 
+Thus, the general hypothesis of the  study is confirmed.  
+ 
+ 
+ 
+Table 6. Pairwise comparison of misophonia variable  
+Group 1  Group 2  Mean 
+difference  Sig 
+ 
+Cognitive behavioral 
+therapy plus tDCS  tDCS  0.694  0.001 
+Cognit ive behavioral 
+therapy  1.654 - 0.001 
+sham  9.284 - 0.000 
+Control  -5.694  0.009
+
+Pourmohammad Shandiz  et al.: The effectiveness of cathodal (tDCS)  in right insulla  region and  cognitive -behavioral thrapy in 
+misophonia disorder  
+ 
+Journal of Advance d Pharmacy Education & Research  | 2024 | Vol 14  | Issue S1                                                                                       5  
+tDCS  Cognit ive behavioral 
+therapy  2.348 - 0.289  
+sham  9.977 - 0.000 
+Control  6.387 - 0.007  
+Cognit ive behavioral 
+therapy  sham  7.629 - 0.002  
+Control  4.04 - 0.005 
+Control  sham  3.59 - 0.097  
+ 
+As shown in Table 6, by controlling the pre -test, there is a 
+significant difference between the subjects in the tDCS, cognitive 
+behavioral therapy, cognitive behavioral group plus tDCS, sham, 
+and control groups regarding the variable of misophonia 
+symptoms. Therefore, the hy pothesis related to the variable of 
+misophonia symptoms is confirmed (p<0.05). In other words, 
+the tDCS therapy, cognitive behavioral therapy, and cognitive 
+behavioral therapy plus tDCS according to the mean symptoms 
+of misophonia of the subjects in the ex perimental groups 
+compared to the mean of the control group and the sham group 
+caused a decrease in the misophonia symptoms in the 
+experimental groups.  
+Table 7. Pairwise comparison of the excitement caused by 
+misophonia variable  
+Group 1  Group 2  Mean 
+difference  Sig 
+ 
+Cognitive 
+behavioral 
+therapy plus 
+tDCS  tDCS  5.689  0.000 
+Cognitive b ehavioral 
+therapy  5.442  0.001 
+sham  8.87 - 0.002  
+Control  6.637 - 0.001 
+ 
+tDCS  Cognit ive behavioral 
+therapy  0.247 - 0.000 
+sham  14.559 - 0.000 
+Control  12.326 - 0.000 
+Cognit ive 
+behavioral 
+therapy  sham  14.312 - 0.000 
+Control  -12.079  0.00  
+Control  sham  2.223 - 0.412  
+ 
+Based on Tables 6 and 7, if the significance level related to 
+pairwise comparison is less than 0.05, the difference will be 
+significant.  
+As presented in Table 7, by controlling the pre -test, there is a 
+significant difference between the subjects in the TDCS, 
+cognitive behavioral therapy, cognitive behavioral group plus 
+tDCS, sham, and control groups regarding the variable of 
+excitement caused by misophonia. Thus,  the hypothesis related 
+to the excitement caused by misophonia is confirmed (p<0.05). 
+In other words, tDCS therapy, cognitive behavioral therapy, and 
+cognitive behavioral therapy plus tDCS according to the mean 
+symptoms of misophonia  of the subjects in the experimental 
+groups compared to the mean of the control and the sham groups 
+reduced the excitement caused by misophonia in the 
+experimental groups.  The present study investigates the effectiveness of tDCS based on 
+brain mapping in the right anterior insular region and 
+counterconditioning -focused cognitive behavioral therapy in 
+reducing the symptoms of misophonia disorder and improving 
+the coping style . Multivariate analysis of covariance was used for 
+this purpose. The results revealed that both tDCS therapy and 
+cognitive behavioral therapy separately and the simultaneous use 
+of tDCS therapy and cognitive behavioral therapy reduce the 
+symptoms of misoph onia disorder and improve coping styles in 
+people with misophonia disorder.  
+These results are in line with those of studies by Kumar et al. 
+(2017) regarding the effectiveness of tDCS, Schr öder et al. 
+(2017), Aazh et al. (2019), Jager et al. (2021), and Safari (2021) 
+regarding the effectiveness of cognitive behavioral therapy in 
+reducing misophonia symptoms  [12, 16 -19]. Although the 
+difference between the intervention methods was not significant, 
+based on mean symptoms of misophonia in the subjects of the 
+experimental groups compared to the mean of the control group, 
+it can be concluded ethat among the three types of in tervention 
+or treatment (1 -tDCS, 2 - cognitive behavioral therapy, 3 - tDCS 
+plus cognitive behavioral therapy) in reducing the symptoms of 
+misophonia, tDCS therapy was more effective than the other two 
+methods of inter vention, and the cognitive -behavioral plus tDCS 
+has the least effect.  Also, tDCS therapy was more effective in 
+reducing the excitement caused by misophonia, and cognitive 
+behavioral therapy was less effective than the other two 
+interventions. These results are somewhat consistent with the 
+results of studies by Safari (2021) and Abramovitch et al. (2024)  
+[19, 20] . In interpreting and explaining these results and the 
+reason for the higher effectiveness of tDCS therapy in reducing 
+misophonia symptoms, we can refer to the results of 
+Abramovitch et al. (2024), who studied the neuropsychology of 
+misophonia  [20]. 
+In this study, people with misophonia disorder performed 
+significantly weaker in 2 neuropsychological outcomes, including 
+verbal memory recovery and attention, than the control group. 
+The misophonia group reported significantly higher symptoms of 
+anxiety, behavioral impulsivity, and functional disorders. They 
+had a higher rate of ADHD and OCD. Thus, based on the 
+mentioned study, it can be stated that misophonia disorder is 
+widely related to the nervous system and brain. In this regard, 
+misophonia has been d escribed as an overreaction of the limbic 
+and autonomic systems of the brain in response to specific 
+auditory stimuli in one of the well -known definitions [3]. Thus, 
+tDCS can have significant effectiveness. Also, the number of 
+cognitive behavioral therapy sessions and the improvement of the 
+skills in conducting the sessions make this intervention method 
+to be more effective. Also, it seems that the interference , fatigue, 
+loss of quality, and accuracy in the simultaneous use of tDCS and 
+cognitive behavioral therapy lead to a decrease in its 
+effectiveness.  
+Conclusion
+
+Pourmohammad Shandiz  et al.: The effectiveness of cathodal (tDCS)  in right insulla  region and  cognitive -behavioral thrapy in 
+misophonia disorder  
+ 
+6                                                                                      Journal of Advance d Pharmacy Education & Research  | 2024 | Vol 14  | Issue S1   It is concluded that each tDCS and cognitive behavioral therapy 
+individually and simultaneously using them reduces the 
+symptoms of misophonia disorder. However, tDCS is more 
+effective, highlighting the need to pay more attention to this 
+method of treatment . Also, cognitive behavioral therapy has 
+significant effects in reducing misophonia disorder symptoms. 
+Accordingly, one of the treatments mentioned above methods 
+can be considered considering the conditions and facilities. 
+However, observing and paying att ention to considerations such 
+as the conditions of the clients, the correct application of the 
+principles and techniques of cognitive behavioral therapy, setting 
+the appropriate number of sessions, conducting treatment 
+follow -up courses, and using up -to-date guidelines can 
+significantly increase the effectiveness of cognitive behavioral 
+intervention.  
+The results revealed that cognitive behavioral therapy, despite its 
+effectiveness in reducing misophonia symptoms, was less 
+effective than tDCS therapy. Thus, it is recommended to pay 
+more attention to the number of sessions, principles, and 
+techniques of cognitive behavioral therapy, and up -to-date 
+protocols in this area. Additionally, due to the significant 
+effectiveness of the tDCS method, the introduction of this 
+method of intervention in scientific and academic workshops, 
+and mass media, healthcare cen ters should benefit from this 
+method along with other treatment methods.  
+Acknowledgments: We thank the esteemed staff of Ferdowsi 
+University Cognitive Science Laboratory.  
+Conflict of interest: None  
+Financial support: . The paper was extracted from the PhD.  thesis  of 
+the first author Department of psychology Faculty of education sciences 
+and psychology ferdowsi University of  mashhad  
+Ethics statement: All ethical principles are considered in this article. 
+The participants were informed of the purpose of the research and its 
+implementation stages. They were also assured about the confidentiality 
+of their information and were free to leave the study whene ver they 
+wished, and if desired, the research results would be available to them. 
+Written consent has been obtained from the subjects. principles of the 
+APA and Helsinki Convention were also observed.  
+This study was approved by the Ethics Committee of the University of 
+ferdowsi of mashhad  (Code  ir.um.rec.1402.159).  
+References  
+1. Rouw R, Erfanian M. A Large -Scale Study of Misophonia. J 
+Clin Psychol. 2018 Mar;74(3):453 -479. 
+2. Dozier TH . Understanding and overcoming misophonia: a 
+conditioned aversive reflex disorder. Treatment Institute, 
+Livermore, CA, USA. 2017;11 -22. 
+3. Naylor J, Caimino C, Scutt P, Hoare DJ, Baguley DM. The 
+Prevalence and Severity of Misophonia in a UK Undergraduate Medical Student Population and Validation 
+of the Amsterdam Misophonia Scale. Psychiatr Q. 2021 
+Jun;92(2):609 -19. 
+4. Edelstein M, Brang D, Rouw R, Ramachandran VS. 
+Misophonia: physiological investigations and case 
+descriptions. Front Hum Neurosci. 2013 Jun 25;7:296.  
+5. Jastreboff PJ, Jastreboff MM. Treatments for decreased 
+sound tolerance (hyperacusis and misophonia). InSeminars 
+in hearing 2014 May (Vol. 35, No. 02, pp. 105 -120). 
+Thieme Medical Publishers.  
+6. Schröder A, Vulink N, Denys D. Misophonia: diagnostic 
+criteria for a new psychiatric disorder. PLoS One. 
+2013;8(1):e54706.  
+7. Banker SM, Na S, Beltr án J, Koenigsberg HW, Foss -Feig 
+JH, Gu X, et al. Disrupted computations of social control in 
+individuals with obsessive -compulsive and misophonia 
+symptoms. iScience. 2022 Jun 16;25(7):104617.  
+8. Guzick AG, Cervin M, Smith EEA, Clinger J, Draper I, 
+Goodman WK, et al. Clinical characteristics, impairment, 
+and psychiatric morbidity in 102 youth with misophonia. J 
+Affect Disord. 2023 Mar 1;324:395 -402. 
+9. Cavanna AE, Seri S. Misophonia: current perspectives. 
+Neuropsychiatr Dis Treat. 2015 Aug 18;11:2117 -23.  
+10. Wu MS, Lewin AB, Murphy TK, Storch EA. Misophonia: 
+incidence, phenomenology, and clinical correlates in an 
+undergraduate student sample. J Clin Psychol. 2014 
+Oct;70(10):994 -1007.   
+11. Sagliano L, Atripaldi D, De Vita D, D'Olimpio F, Trojano 
+L. Non -invasive brain stimulation in generalized anxiety 
+disorder: A systematic review. Prog 
+Neuropsychopharmacol Biol Psychiatry. 2019 Jul 13;93:31 -
+8.  
+12. Jager IJ, Vulink NCC, Bergfeld IO, van Loon AJJM, Denys 
+DAJP. Cognitive behavioral therapy for misophonia: A 
+randomized clinical trial. Depress Anxiety. 2020 Dec 
+18;38(7):708 –18. 
+13. Ferguson GA, Takane Y. Statistical Analysis in Psychology 
+and Education. (6th ed.). New York: McGraw -Hill. 1989.  
+14. Meyers LS, Gamst GC, Guarino AJ. Performing data 
+analysis using IBM SPSS. John Wiley & Sons; 2013 Jul 17.  
+15. Brace N, Kemp R, Snelgar R. SPSS for psychologists: A 
+guide to data analysis using SPSS for Windows. Lawrence 
+Erlbaum Associates Publishers; 2006.  
+16. Kumar S, Tansley -Hancock O, Sedley W, Winston JS, 
+Callaghan MF, Allen M, et al. The Brain Basis for 
+Misophonia. Curr Biol. 2017 Feb 20;27(4):527 -33. 
+17. Schröder AE, Vulink NC, van Loon AJ, Denys DA. 
+Cognitive behavioral therapy is effective in misophonia: An 
+open trial. J Affect Disord. 2017 Aug 1;217:289 -94.  
+18. Aazh H, Landgrebe M, Danesh AA, Moore BC. Cognitive 
+Behavioral Therapy For Alleviating The Distress Caused By 
+Tinnitus, Hyperacusis And Misophonia: Current 
+Perspectives. Psychol Res Behav Manag. 2019 Oct 
+23;12:991 -1002.
+
+Pourmohammad Shandiz  et al.: The effectiveness of cathodal (tDCS)  in right insulla  region and  cognitive -behavioral thrapy in 
+misophonia disorder  
+ 
+Journal of Advance d Pharmacy Education & Research  | 2024 | Vol 14  | Issue S1                                                                                       7 19. Safari L. Compare the efficacy of exposure therapy and 
+prevention of response and cognitive behavioral therapy in 
+misophonia disorder on university students in Kermanshah. 
+Master's thesis in the field of general psychology, Faculty of 
+Psychology and Educat ional Sciences, Tabriz University. 
+2021.  20. Abramovitch A, Herrera TA, Etherton JL. A 
+neuropsychological study of misophonia. J Behav Ther Exp 
+Psychiatry. 2024 Mar;82:101897.

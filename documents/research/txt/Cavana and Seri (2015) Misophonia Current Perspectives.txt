@@ -1,0 +1,641 @@
+© 2015 Cavanna and Seri. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution – Non Commercial (unported,  v3.0)  
+License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0 /. Non-commercial uses of the work are permitted without any further 
+permission from Dove Medical Press Limited, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Limited. Information on 
+how to request permission may be found at: http://www.dovepress.com/permissions.phpNeuropsychiatric Disease and Treatment 2015:11 2117–2123Neuropsychiatric Disease and Treatment Dove press
+submit your manuscript | www.dovepress.co m
+Dove press  2117Reviewopen access to scientific and medical research
+Open Access Full T ext Article
+http: //dx.doi.org/10.2147/NDT .S8143 8Misophonia: current perspectives
+Andrea e Cavanna1–3
+Stefano Seri3,4
+1Department of Neuropsychiatry,  
+Birmingham and Solihull Mental 
+Health NHS Foundation Trust 
+and University of Birmingham,  
+Birmingham, 2Sobell Department of 
+Motor Neuroscience and Movement 
+Disorders, institute of Neurology,  
+University College London, London,  
+3School of Life and Health Sciences,  
+Aston Brain Centre, wellcome Trust 
+Laboratory for M eG Studies, Aston 
+University, 4Children’s epilepsy 
+Surgery Programme, The Birmingham 
+Children’s Hospital NHS Foundation 
+Trust, Birmingham, UKAbstract:  Misophonia is characterized by a negative reaction to a sound with a specific pattern 
+and meaning to a given individual. In this paper, we review the clinical features of this relatively 
+common yet underinvestigated condition, with focus on co-occurring neurodevelopmental 
+disorders. Currently available data on the putative pathophysiology of the condition can inform 
+our understanding and guide the diagnostic process and treatment approach. Tinnitus retrain -
+ing therapy and cognitive behavior therapy have been proposed as the most effective treatment 
+strategies for reducing symptoms; however, current treatment algorithms should be validated 
+in large population studies. At the present stage, competing paradigms see misophonia as a 
+physiological state potentially inducible in any subject, an idiopathic condition (which can 
+present with comorbid psychiatric disorders), or a symptomatic manifestation of an underly -
+ing psychiatric disorder. Agreement on the use of standardized diagnostic criteria would be 
+an important step forward in terms of both clinical practice and scientific inquiry. Areas for 
+future research include phenomenology, epidemiology, modulating factors, neurophysiological 
+underpinnings, and treatment trials.
+Keywords:  misophonia, selective sound sensitivity syndrome, hyperacusis, neurodevelopmental 
+disorders, Tourette syndrome, obsessive-compulsive spectrum
+What is misophonia?
+Shortly after the turn of the new millennium, Jastreboff et al first reported original 
+clinical observations of subjects complaining of decreased sound tolerance with or 
+without tinnitus.1–3 Interestingly, classic descriptions of hyperacusis (as characterized 
+in patients who respond consistently to sounds above a certain intensity and whose 
+reactions can be correlated with the physical parameters of the sound) did not fit 
+majority of the reported cases. The authors therefore proposed misophonia as a new 
+medical entity and defined misophonia as present when an abnormally strong reaction 
+occurs to a sound with a specific pattern and/or meaning to an individual, with the 
+context in which sound is presented frequently playing a role as well. Misophonic 
+reactions often include autonomic arousal and unpleasant emotional experiences, 
+such as anxiety, in response to specific sounds. Since the first scientific descriptions 
+by Jastreboff et al, selective sound sensitivity syndrome has sometimes been used as 
+a synonym of misophonia, alongside a range of layman’s terms such as sound-rage, 
+whereas decreased sound tolerance encompasses both misophonia and hyperacusis.4–6 
+Individuals with misophonia are sensitive to a specific set of trigger sounds, which are 
+usually recognized since childhood; these sounds tend to be trivial noises produced 
+by other people, including gum popping, food chewing or crunching, nose sniffing, 
+breathing, pen clicking, clock ticking, whistling, lip smacking, and finger or foot tap -
+ping. However, it is important to note that trigger sounds do not necessarily need to be 
+produced by other people: the noise produced by a train or an airplane, distant sounds 
+of engines, as well as sounds made by animals can all potentially result in misophonic Correspondence: Andrea e Cavanna
+Department of Neuropsychiatry, National 
+Centre for Mental Health, 25 vincent 
+Drive, Birmingham B15 2FG, UK
+email a.cavanna@ion.ucl.ac.u k Journal name: Neuropsychiatric Disease and Treatment
+Article Designation: Review
+Y ear: 2015
+Volume: 11
+Running head verso: Cavanna and Seri
+Running head recto: Current perspectives in misophonia
+DOI: http://dx.doi.org/10.2147/NDT.S81438
+Neuropsychiatric Disease and Treatment downloaded from https://www.dovepress.com/ on 10-Sep-2023
+For personal use only.
+
+Neuropsychiatric Disease and Treatment 2015:11submit your manuscript | www.dovepress.co m
+Dove press Dove press
+2118Cavanna and Seri
+reactions in selected individuals. Interestingly, in addition 
+to auditory cues, the observation of specific movements 
+(eg, fingers pointing, legs swinging, and hair twirling) can 
+also trigger intense aversive responses associated with feel -
+ings of distress, disgust, irritability, and anger.7–10 In contrast 
+to phonophobia, a specific case of misophonia in which fear 
+is the dominant emotion experienced in response to sound, 
+misophonia is characterized by feelings of anxiety, distress, 
+and occasionally anger. A range of physical manifestations 
+have been described, which can accompany these psychologi -
+cal reactions, including tightness or pain in the chest, arms, 
+head, or entire body, increased muscular tone, diaphoresis, 
+dyspnea, tachycardia, hypertension, and hyperthermia.6 In 
+general, there is a perception that the media have occasionally 
+popularized misophonia by propagating an idea of extreme 
+reaction of young people to sound related to eating; although 
+such cases exist, misophonia can indeed emerge in elderly 
+people and to a vast variety of sound as well. Moreover, 
+contrary to the media reports, misophonic reactions in the 
+majority of cases are mild-to-moderate, and external reac -
+tions can typically be kept under control. Finally, although 
+persons with misophonia have a relatively preserved insight 
+into the disproportionate nature of their feelings and reac -
+tions to sounds/movements that the vast majority of people 
+would consider irrelevant, misophonic symptoms can lead 
+to significant impairment across school, work, family, and 
+social domains. In fact, stimulus-avoidance and other dys -
+functional behaviors triggered by the auditory cues often 
+affect the person’s ability to achieve daily life goals and 
+enjoy interpersonal interactions.7–9
+The clinical spectrum of misophonia
+The majority of studies on misophonia to date have been case 
+reports/series, and although more systematic studies have 
+recently been conducted, potentially more informative addi -
+tional population studies are still needed.7–9,11 A large sample 
+of 42 persons with misophonia was clinically characterized 
+by Schröder et al in 2013.8 These authors developed the 
+Amsterdam Misophonia Scale, a six-item self-report rating 
+scale to assess the type and severity of misophonia symp -
+toms. Although this instrument was developed based on the 
+Y ale-Brown Obsessive Compulsive Scale used for obsessive-
+compulsive disorder, it also maps onto a set of six criteria 
+proposed for the diagnosis of misophonia: 1) the presence or 
+anticipation of a specific sound, produced by a human being 
+(eg, eating sounds, breathing sounds), provokes an impulsive 
+aversive physical reaction, which starts with irritation or 
+disgust that instantaneously becomes anger; 2) this anger initiates a profound sense of loss of self-control with rare 
+but potentially aggressive outbursts; 3) the person recognizes 
+that the anger or disgust is excessive, unreasonable, or out 
+of proportion to the circumstances or the provoking stres -
+sor; 4) the person tends to avoid the misophonic situation, 
+or if he/she does not avoid it, endures encounters with the 
+misophonic sound situation with intense discomfort, anger, 
+or disgust; 5)  the person’s anger, disgust, or avoidance causes 
+significant distress (ie, it bothers the person for whom he or 
+she has the anger or disgust) or significant interference in the 
+person’s day-to-day life (eg, the anger or disgust may make 
+it difficult for the person to perform important tasks at work, 
+meet new friends, attend classes, or interact with others); and 
+6) the person’s anger, disgust, and avoidance are not better 
+explained by another disorder, such as obsessive-compulsive 
+disorder (eg, disgust in someone with an obsession about con -
+tamination) or posttraumatic stress disorder (eg, avoidance of 
+stimuli associated with a trauma related to threatened death, 
+serious injury, or threat to the physical integrity of self or 
+others).8 According to the Diagnostic and Statistical Manual 
+of Mental Disorders  (DSM) criteria, rates of psychiatric 
+conditions in this misophonia sample were as follows: mood 
+disorder 7.1%, Tourette syndrome 4.8%, attention-deficit 
+and hyperactivity disorder 4.8%, trichotillomania 4.8%, skin 
+picking 2.4%, panic disorder 2.4%, and hypochondria 2.4%. 
+Although DSM axis-1 obsessive-compulsive disorder was 
+diagnosed in 2.4% of subjects, more than half of the sample 
+met diagnostic criteria for axis-2 obsessive-compulsive 
+personality disorder (52.4%). Based on their observations, 
+Schröder et al suggested that misophonia is a primary 
+nosological entity, which can be appropriately categorized 
+within obsessive-compulsive spectrum disorders, a group of 
+conditions sharing elements of obsessionality, compulsivity, 
+and impulsivity.8,12,13 This definition of misophonia contrasts 
+with the one originally proposed by Jastreboff et al accord -
+ing to which the six criteria developed by Schröder would 
+capture only a subset of individuals with misophonia (those 
+with obsessive-compulsive and impulsive features) rather 
+than all cases.1–3 In fact, the work by Jastreboff et al provides 
+evidence of exceptions to each one of the six criteria: the 
+misophonic trigger can sometimes be produced by animals 
+or machines instead of human beings, and reactive anger is 
+not observed in all subjects; beyond anger, negative reactions 
+such as irritation and annoyance can create tension, but many 
+subjects are able to control the external manifestation of 
+misophonic reaction and keep self-control (with extra effort), 
+as aggressive outbursts are observed only in a subgroup of 
+patients (usually of young age); although the anger or disgust 
+Powered by TCPDF (www.tcpdf.org)
+
+Neuropsychiatric Disease and Treatment 2015:11submit your manuscript | www.dovepress.co m
+Dove press Dove press
+2119Current perspectives in misophonia
+is recognized as excessive, unreasonable, or out of propor -
+tion to the circumstances/provoking stressor in the majority 
+of cases, some subjects believe that other people behave 
+in an unreasonable/disrespectful manner toward them, and 
+therefore, their feelings/reactions are normal and justified; 
+misophonic reactions can frequently be limited to annoyance 
+or mild discomfort, rather than intense discomfort, disgust, 
+or occasionally anger, and sometimes individuals with 
+misophonia decide not to participate in a given activity due 
+to concerns that their behavior would be distressful to their 
+loved ones; negative reactions can interfere with daily life, 
+although they do not necessarily involve anger or disgust; the 
+presence of psychiatric or psychological disorders (diagnosed 
+in ~5% of cases in a recent large study on 184 consecutive 
+subjects with misophonia) does not seem to play a role in 
+determining misophonic reactions.11
+Other observations, however, raise the possibility that 
+at least in some cases, misophonia could be attributed to 
+(or associated with) neuropsychiatric disorders, despite 
+preliminary evidence supporting the suggestion that sensory 
+over-responsivity can occur as a sole diagnosis.14,15 Intrigu -
+ingly, misophonic symptoms and sensory over-responsivity 
+have been recently documented in the context of pediatric 
+obsessive-compulsive disorder,16–18 as well as a number 
+of neurodevelopmental conditions, including attention-
+deficit hyperactivity disorder, autistic spectrum disorder, and 
+Fragile X syndrome.19–21
+Furthermore, atypical sensory responses have been 
+described in young patients with tic disorders, a group of con -
+ditions characterized by repetitive sudden, rapid, nonrhythmic 
+movements (motor tics) or vocalizations (vocal of phonic 
+tics).22,23 Tourette syndrome is a neurodevelopmental disorder 
+characterized by chronic multiple motor and vocal/phonic tics 
+and, in the majority of patients, specific obsessive-compulsive 
+symptoms.24,25 A recently published report from the Interna -
+tional College of Obsessive-Compulsive Spectrum Disorders 
+revealed that the most common comorbidity of obsessive-
+compulsive disorder in terms of obsessive-compulsive-related 
+disorders was tic disorder (12.5%), suggesting a bidirectional 
+link between these patient populations where symptoms of 
+misophonia have been reported.26 Importantly, although overt 
+tics are the defining feature of Tourette syndrome, patients 
+commonly report specific urges to tic, which are characterized 
+by a strong sensory component.27,28 Premonitory urges are 
+difficult to describe for many patients and result in unpleas -
+ant sensations, which increase in severity and are transiently 
+relieved by tic expression.29–32 An article published in 1994 by 
+Michael Kane, a graduate student with Tourette syndrome, offered useful insights into these experiences, which can 
+be perceived as more bothersome than the tics themselves 
+and bear resemblance with misophonia-related discomfort 
+(eg, urge to flee, comment on the noise, or otherwise avoid the 
+noise).33 Based on his introspective case study, Kane proposed 
+that the premonitory urges that precede tics are manifestations 
+of sensory hyperawareness. In his words,
+Perhaps the best description for the sensory state of Tourette 
+syndrome is a somatic hyperattention: it is not as itch-like 
+as it is an enduring somatosensory bombardment.33
+Although a recent publication showed that subjects with miso -
+phonia can have enhanced autonomic reactivity to a sound, 
+but not to other sensory stimuli,7 the subjective experiences 
+described by these subjects following exposure to trigger 
+sounds share qualitative features with the sensory symptoms 
+reported by patients with tic disorders. Moreover, patients with 
+Tourette syndrome often report the phenomenon of site sensiti -
+zation, in which they become acutely aware of, distracted, and 
+distressed by faint sensory stimuli, which include the auditory 
+modality.34 A study on 28 patients with Tourette syndrome 
+revealed that 70% reported heightened sensitivity to auditory, 
+tactile, and/or visual stimuli, including noise from the televi -
+sion, electrical appliances, and loud settings such as parties.35 
+A more recent study using standardized questionnaires and 
+in-depth interviews with 19 adult patients with Tourette syn -
+drome and 19 aged-matched healthy controls showed that 80% 
+of the patients described a heightened sensitivity to external 
+stimuli in at least one sensory modality, namely smell (70%), 
+tactile perception (65%), light (60%), sound (55%), and taste 
+(50%). Interestingly, these patients reported that stimuli that 
+were faint, repetitive, or constant and nonsalient were the most 
+bothersome, whereas intense stimuli were perceived as less 
+troublesome.36 Recent reports have also suggested that miso -
+phonic symptoms can be found in the context of two of the 
+most common psychiatric comorbidities of Tourette syndrome, 
+in addition to obsessive-compulsive disorder, generalized 
+anxiety disorder,37,38 and schizotypal personality disorder.39,40 
+Overall, although there is preliminary evidence supporting the 
+suggestion that misophonia can occur as a sole diagnosis, these 
+observations raise the possibility that in some cases, it could 
+also be attributed to underlying neuropsychiatric disorders.
+An elusive pathophysiology
+Research into the neurobiological underpinnings of miso -
+phonia is still in its infancy, and there are still a number of 
+unanswered questions regarding the clinical characterization 
+of this condition (Table 1). For example, the variability of 
+Powered by TCPDF (www.tcpdf.org)
+
+Neuropsychiatric Disease and Treatment 2015:11submit your manuscript | www.dovepress.co m
+Dove press Dove press
+2120Cavanna and Seri
+the time course (onset, natural history) seems to depend on 
+both life circumstances and degrees of exposure to trigger 
+sounds.4,8 However, it is unclear which factors contribute to 
+individual differences in severity of responses to misophonic 
+triggers and in the nature of the triggers themselves. Both 
+intrinsic and extrinsic factors, including family accommo -
+dation and exposure to visual stimuli typically associated 
+with sound (eg, seeing somebody eating),11,15 seem to play 
+a role in determining interindividual variability in the clini -
+cal presentation, which could be reflected in heterogeneous 
+pathophysiological processes underlying misophonia. There 
+is also uncertainty with regard to a possible genetic com -
+ponent to misophonia, as early observations identified the 
+condition in multiple family members.4
+Existing literature highlights broad similarities with tin -
+nitus, a symptom that is often considered in the differential 
+diagnosis of misophonia.1–3,6 According to Jastreboff and 
+Hazell, both conditions could share a pattern of increased 
+connectivity between auditory and limbic structures, result -
+ing in heightened reactions to sounds.41 A comprehensive 
+description of this interesting pathophysiological model, 
+including proposed mechanisms by which conditioned 
+reflexes can result in enhanced functional connections 
+between the auditory system and other systems in the brain, 
+particularly the limbic and autonomic nervous systems, 
+has been included in recent publications by Jastreboff and 
+Jastreboff.42,43 However, in misophonia, clinical manifesta -
+tions are triggered by external, mostly human-produced 
+sounds and situations, whereas persons who experience tin -
+nitus report distress related to internally perceived, abstract 
+sounds. Moreover, it is known that the majority of people can 
+experience general and unelaborated emotional reactions to a range of annoying sounds: among the most familiar examples 
+are the sounds of train wheels on rail tracks, fingernails on 
+glass, or chalk on blackboard.44–46 It is possible that symptoms 
+of misophonia reflect a more extreme subjective discomfort 
+and physiological response to these and other emotionally 
+evocative stimuli. This hypothesis would be consistent with 
+the mentioned overlap with neurodevelopmental disorders, 
+including Tourette syndrome, where sensory hyperawareness 
+accompanied by subjective distress has been reported. The 
+pathophysiology of the anomalous physiological/autonomic 
+effects in the context of misophonia has recently been investi -
+gated: a study by Edelstein et al showed increased autonomic 
+responses to auditory (but not visual) stimuli in six subjects 
+with misophonia, compared to typically developed controls.7 
+Albeit in a small cohort, findings from this study using skin 
+conductance responses provided an objective corrobora -
+tion to subjective reports that specific sounds evoke intense 
+emotional and physical reactions.
+Evidence from the pharmacological modulation of the 
+severity of misophonic symptoms might offer some insight 
+on its pathophysiological mechanisms. Alcohol can alleviate 
+the intensity of misophonia, whereas caffeine, a substance 
+known to reduce auditory sensory gating in a paired-click 
+auditory paradigm,47 has been reported to have opposite 
+effects on symptom severity.7 Importantly, these notions are 
+derived from early observations that are to be interpreted 
+with caution until future studies on larger populations have 
+been conducted.
+Treatment approaches
+Since the first documentation of misophonia cases in the 
+scientific literature, there have been few treatment studies or 
+empirical reports that could provide an evidence base for the 
+treatment of its distressing symptoms. Until recently,11 there 
+have been no large empirical treatment studies to evaluate the 
+efficacy of therapeutic approaches to misophonia. Moreover, 
+the lack of a coherent theoretical and etiological framework 
+has hindered the identification of effective management strat -
+egies. Analysis of the coping strategies adopted by persons 
+with misophonia have revealed that avoidance (removing 
+self from distressing situations) and other socially dysfunc -
+tional behaviors (challenging the person who generates the 
+trigger noise) can be replaced by more positive approaches. 
+These include mimicry to cancel out the trigger sound, use 
+of earplugs, headsets, or music, focusing consciousness to 
+own sounds, self-distraction, and positive internal dialogs.7 
+Jastreboff and Jastreboff recently reported a success rate of 
+83% in a large treatment study of 184 patients recruited at a Table 1  Suggestions for future research into misophonia
+Domain Research question
+epidemiology Prevalence in the general population
+Prevalence in special populations
+Phenomenology Clinical characteristics of misophonic triggers
+Clinical characteristics of response to triggers
+Clinical correlates and comorbidities
+Factors modulating the misophonic response
+Psychological aspects
+Genetics Hereditary patterns
+Pathophysiology Neurophysiological processes
+Neuroanatomical correlates
+Structural and functional connectivity
+Neurochemical pathways involved
+Treatment Behavioral strategies
+Pharmacological options
+Other treatment modalities (biofeedback, etc)
+Powered by TCPDF (www.tcpdf.org)
+
+Neuropsychiatric Disease and Treatment 2015:11submit your manuscript | www.dovepress.co m
+Dove press Dove press
+2121Current perspectives in misophonia
+specialist center.11 The treatment approach followed general 
+tinnitus retraining therapy principles, with additional use of 
+four specific protocols for misophonia, sometimes including 
+multisensory stimulation, and was based on active extinc -
+tion of conditioned reflexes with incorporating principle of 
+complex conditioned stimuli.11,48
+Coming from a different perspective and building on 
+the phenomenological similarity between misophonia and 
+obsessive-compulsive spectrum disorders, Webber and 
+Storch recently proposed a theoretical model based on 
+the central role of anxiety and distress in order to explore 
+potentially helpful treatment interventions.10 According to 
+this model, the auditory or visual clues act as triggers for 
+a negative emotional reaction (involving distress, anger, 
+or anxiety) that is negatively reinforced by the behavioral 
+response. The few published treatment studies for misopho -
+nia have limitations in scope, methodology, and sample size. 
+The therapeutic approaches used in these studies ranged from 
+psychoeducation and habituation to exposure and response 
+prevention.49 The latter could be more effective in patients 
+who experience significant anxiety and distress in response to 
+the misophonic triggers, whereas patients who report severe 
+anger or rage may be more likely to benefit from cognitive 
+restructuring or stress inoculation.50 Other possibilities to 
+explore in the treatment of misophonia are mindfulness- and 
+acceptance-based approaches, such as dialectical behavior 
+therapy and acceptance and commitment therapy.51 Overall, 
+it seems likely that treatment plans need to be tailored to the 
+needs of individual patients. It is also possible that persons 
+who report misophonia in the context of neurodevelopmental 
+and/or anxiety disorders could respond to pharmacological 
+agents modulating serotonergic and/or antidopaminergic 
+pathways, although these speculative suggestions need to 
+be tested in clinical trials.4
+Physiological state, symptom, or 
+disorder?
+The reviewed literature suggests a number of open questions 
+about the exact nature of misophonia. According to the defi -
+nition originally proposed by Jastreboff, misophonia is not 
+to be considered a pathology or a psychological/psychiatric 
+problem.1–3 Therefore, misophonic reactions could be induced 
+in any person by creating an association between specific pat -
+terns and any type of sounds with negative reinforcement: it is 
+enough that certain sounds regularly accompany situations of 
+emotional stress, when the subject experiences pain or other 
+negative emotions (for instance, as a result of hyperacusis or 
+tensor tympanic syndrome, annoyance, anxiety) or beliefs (such as the belief that a specific sound will enhance tinni -
+tus, produce hearing loss, or is produced by a person who is 
+perceived in a negative manner). Real-life examples include 
+the sound of the steps of the stepmother who is following the 
+subject and makes his/her life miserable; the sound of kissing 
+made by a sibling and accompanied by negative comments to 
+irritate the subject; the sound of a train passing by after the 
+subject has been in a car accident where the car was hit by a 
+train; the clicking sound made by the claws of a cat walking 
+over hard surfaces near the subject, who dislikes cats jumping 
+on the table, etc.42 This definition challenges the subsequently 
+proposed views that misophonia is a discrete/idiopathic 
+condition (which can present with comorbid psychiatric 
+disorders)8 or a symptomatic manifestation of an underly -
+ing psychiatric disorder, at least in a proportion of cases.4 If 
+confirmed by future systematic studies in large populations, 
+the presence of high rates of comorbidity would go against 
+the argument that misophonia should be labeled as a primary 
+diagnosis. In fact, it would suggest that it is a symptom 
+manifestation of other underlying or comorbid diagnoses and 
+should more appropriately be labeled as a symptom, rather 
+than as a stand-alone diagnosis. Either way, the addition of 
+misophonia to nosographic classification systems of psy -
+chiatric disorders, such as the DSM, would require careful 
+consideration. This issue was raised in a poignant way by 
+Ronald Pies in a  relevant commentary on the appropriateness 
+of designating Internet addiction as a mental disorder in the 
+fifth edition of the DSM (DSM-V). Pies eloquently argued 
+that in recent years psychiatric nosography proliferated in an 
+unprecedented and apparently unstoppable way, leading the 
+general public to believe that the definitions of psychiatric 
+disorders are settled by “vote by committee” in the academic 
+equivalent of the “smoke-filled room”.52 Needless to say, 
+such a view, albeit possibly exaggerated, can affect public 
+trust in psychiatry to a significant extent.
+Although misophonia is believed to be far from rare,8,42 
+this topic has attracted relatively little academic interest to 
+date. Encouraging trends include the First International Con -
+ference on Hyperacusis, which was organized by the tinnitus 
+and hyperacusis therapy team of the Royal Surrey County 
+Hospital and held at Birkbeck College (University of London) 
+in 2013.53 This landmark event was followed by a highly suc -
+cessful second scientific meeting held at the same premises in 
+2015. There is general awareness that further research needs 
+to be conducted before firm conclusions can be drawn with 
+regard to both the pathophysiology and treatment of miso -
+phonia. Ideally, a comprehensive research agenda should also 
+encompass epidemiological, phenomenological, and genetic 
+Powered by TCPDF (www.tcpdf.org)
+
+Neuropsychiatric Disease and Treatment 2015:11submit your manuscript | www.dovepress.co m
+Dove press Dove press
+2122Cavanna and Seri
+aspects (Table 1). It is hoped that by combining qualitative 
+and quantitative data from large populations, it will become 
+possible to fully elucidate the hidden nature of this intrusive 
+condition and alleviate the distress that it can cause.
+Acknowledgment
+Gratitude is expressed to the anonymous reviewers for their 
+valuable comments.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+ 1. Jastreboff PJ. Tinnitus habituation therapy (THT) and tinnitus retraining 
+therapy (TRT). In: Tyler RS, editor. Tinnitus Handbook . San Diego: 
+Singular, Thomson Learning; 2000:357–376.
+ 2. Jastreboff MM, Jastreboff PJ. Components of decreased sound toler -
+ance: hyperacusis, misophonia, phonophobia. ITHS News Lett . 2001;  
+2:5–7.
+ 3. Jastreboff PJ, Jastreboff MM. Tinnitus retraining therapy for patients 
+with tinnitus and decreased sound tolerance. Otolaryngol Clin North 
+Am. 2003;26:321–336.
+ 4. Cavanna AE. What is misophonia and how can we treat it? Exp Rev 
+Neurother . 2014;14:357–359.
+ 5. Hadjipavlou G, Baer S, Lau A, Howard A. Selective sound intolerance 
+and emotional distress: what every clinician should hear. Psychosom 
+Med. 2008;70:739–740.
+ 6. Schwartz P, Leyendecker J, Conlon M. Hyperacusis and misophonia: 
+the lesser-known siblings of tinnitus. Minn Med . 2011;94:42–43.
+ 7. Edelstein M, Brang D, Rouw R, Ramachandran VS. Misophonia: 
+physiological investigations and case descriptions. Front Hum Neurosci . 
+2013;7:296.
+ 8. Schröder A, Vulink N, Denys D. Misophonia: diagnostic criteria for a 
+new psychiatric disorder. PLoS One . 2013;1:e54706.
+ 9. Wu MS, Lewin AB, Murphy TK, Storch EA. Misophonia: incidence, 
+phenomenology, and clinical correlates in an undergraduate student 
+sample. J Clin Psychol . 2014;70:994–1007.
+ 10. Webber TA, Storch EA. Toward a theoretical model of misophonia. 
+Gen Hosp Psychiatry . 2015;37(4):369–370.
+ 11. Jastreboff PJ, Jastreboff MM. Treatments for decreased sound tolerance 
+(hyperacusis and misophonia). Semin Hear . 2014;35:105–120.
+ 12. Hollander E, Wong CM. Obsessive-compulsive spectrum disorders. 
+J Clin Psychiatry . 1995;56(suppl 4):3–6.
+ 13. Starcevic V, Janca A. Obsessive-compulsive spectrum disorders: still 
+in search of the concept-affirming boundaries. Curr Opin Psychiatry . 
+2011;24:55–60.
+ 14. Reynolds S, Lane SJ. Diagnostic validity of sensory over-responsivity: 
+a review of the literature and case reports. J Autism Dev Disord . 
+2008;38:516–529.
+ 15. Johnson PL, Webber TA, Wu MS, Lewin AB, Murphy TK, Storch EA. 
+When selective audiovisual stimuli become unbearable: a case series 
+on pediatric misophonia. Neuropsychiatry . 2013;3:569–575.
+ 16. Hazen EP, Reichert EL, Piacentini JC, et al. Sensory intolerance as a 
+primary symptom of pediatric OCD. Ann Clin Psychiatry . 2008;20:  
+199–203.
+ 17. Lewin AB, Wu MS, Murphy TK, Storch EA. Sensory over-responsivity 
+in pediatric obsessive compulsive disorder. J Psychopathol Behav 
+Assess . 2015;37:134–143.
+ 18. Webber TA, Johnson PL, Storch EA. Pediatric misophonia with comor -
+bid obsessive-compulsive spectrum disorders. Gen Hosp Psychiatry . 
+2014;36:231.e1–e2. 19. Reynolds S, Lane SJ. Sensory overresponsivity and anxiety in children 
+with ADHD. Am J Occup Ther . 2009;63:433–440.
+ 20. Green SA, Ben-Sasson A. Anxiety disorders and sensory over-  
+responsivity in children with autism spectrum disorders: is there a causal 
+relationship? J Autism Dev Disord . 2010;40:1495–1504.
+ 21. Tavassoli T, Miller LJ, Schoen SA, Nielsen DM, Baron-Cohen S. 
+Sensory over-responsivity in adults with autism spectrum conditions. 
+Autism . 2014;18:428–432.
+ 22. Hazen EP, Reichert EL, Piacentini JC, et al. Case series: sensory intol -
+erance as a primary symptom of pediatric OCD. Ann Clin Psychiatry . 
+2008;20:199–203.
+ 23. Neal M, Cavanna AE. Selective sound sensitivity syndrome (miso -
+phonia) in a patient with Tourette syndrome. J Neuropsychiatry Clin 
+Neurosci . 2013;25(1):e1.
+ 24. Cavanna AE, Rickards HE. The psychopathological spectrum of Gilles de 
+la Tourette syndrome. Neurosci Biobehav Rev . 2013;37:1008–1015.
+ 25. Eddy CM, Cavanna AE. Tourette syndrome and obsessive compulsive 
+disorder: compulsivity along the continuum. J Obsess Compuls Rel 
+Disord . 2014;3:363–371.
+ 26. Lochner C, Fineberg NA, Zohar J, et al. Comorbidity in obsessive-
+compulsive disorder (OCD): a report from the International College 
+of Obsessive-Compulsive Spectrum Disorders (ICOCS). Compr Psy -
+chiatry . 2014;55:1513–1519.
+ 27. Rajagopal S, Seri S, Cavanna AE. Premonitory urges and sensorimotor 
+processing in Tourette syndrome. Behav Neurol . 2013;27:65–73.
+ 28. Tinaz S, Belluscio BA, Malone P, van der Veen JW, Hallett M, 
+Horovitz SG. Role of the sensorimotor cortex in Tourette syndrome 
+using multimodal imaging. Hum Brain Mapp . 2014;35:5834–5846.
+ 29. Eddy CM, Cavanna AE. Premonitory urges in adults with complicated and 
+uncomplicated Tourette syndrome. Behav Modif . 2013;38:264–275.
+ 30. Crossley E, Cavanna AE. Sensory phenomena: clinical correlates and 
+impact on quality of life in adult patients with Tourette syndrome. 
+Psychiatry Res . 2013;209:705–710.
+ 31. Crossley E, Seri S, Stern JS, Robertson MM, Cavanna AE. Premoni -
+tory urges for tics in adult patients with Tourette syndrome. Brain Dev . 
+2014;36:45–50.
+ 32. Reese HE, Scahill L, Peterson AL, et al. The premonitory urge to tic: 
+measurement, characteristics, and correlates in older adolescents and 
+adults. Behav Ther . 2014;45:177–186.
+ 33. Kane MJ. Premonitory urges as “attentional tics” in Tourette’s syn -
+drome. J Am Acad Child Adolesc Psychiatry . 1994;33:805–808.
+ 34. Leckman JF, Bloch MH, Sukhodolsky DG, Scahill L, King RA. 
+Phenomenology of tics and sensory urges: the self under siege. In: 
+Martino D, Leckman JF, editors. Tourette Syndrome . Oxford: Oxford 
+University Press; 2013:3–25.
+ 35. Cohen AJ, Leckman JF. Sensory phenomena associated with Gilles de 
+la Tourette’s syndrome. J Clin Psychiatry . 1992;53:319–323.
+ 36. Belluscio BA, Jin L, Watters V, Lee TH, Hallett M. Sensory sensitiv -
+ity to external stimuli in Tourette syndrome patients. Mov Disord . 
+2011;26:2538–2543.
+ 37. Khalifa N, Von Knorring A-L. Tourette syndrome and other tic disorders 
+in a total population of children: clinical assessment and background. 
+Acta Paediatr . 2005;94:1608–1614.
+ 38. Conelea CA, Carter AC, Freeman JB. Sensory over-responsivity in a 
+sample of children seeking treatment for anxiety. J Dev Behav Pediatr . 
+2014;35:510–521.
+ 39. Cavanna AE, Robertson MM, Critchley HD. Schizotypal personality 
+traits in Gilles de la Tourette syndrome. Acta Neurol Scand . 2007;  
+116:385–391.
+ 40. Ferreira GM, Harrison BJ, Fontenelle LF. Hatred of sounds: misophonic 
+disorder or just an underreported psychiatric symptom? Ann Clin Psy -
+chiatry . 2013;25:271–274.
+ 41. Jastreboff PJ, Hazell J. Tinnitus Retraining Therapy : Implementing the 
+Neurophysiological Model . New Y ork: Cambridge University Press; 
+2004.
+ 42. Jastreboff PJ, Jastreboff MM. Using TRT to treat hyperacusis, miso -
+phonia and phonophobia. ENT Audiol News . 2013;21:88–90.
+Powered by TCPDF (www.tcpdf.org)
+
+Neuropsychiatric Disease and Treatment
+Publish your work in this journal
+Submit your manuscript here:  http://www.dovepress.com/neuropsychiatric-disease-and-treatment-journa lNeuropsychiatric Disease and Treatment is an international, peer-
+reviewed journal of clinical therapeutics and pharmacology focusing  
+on concise rapid reporting of clinical or pre-clinical studies on a  
+range of neuropsychiatric and neurological disorders. This journal  
+is indexed on PubMed Central, the ‘PsycINFO’ database and CAS,  and is the official journal of The International Neuropsychiatric 
+ Association (INA). The manuscript management system is completely 
+online and includes a very quick and fair peer-review system, which 
+is all easy to use. Visit http://www.dovepress.com/testimonials.ph p to 
+read real quotes from published authors.
+Neuropsychiatric Disease and Treatment 2015:11submit your manuscript | www.dovepress.co m
+Dove press Dove press
+Dove pres s
+2123Current perspectives in misophonia
+ 43. Jastreboff PJ, Jastreboff MM. Decreased sound tolerance: hyperacusis, 
+misophonia, diplacousis, and polyacousis. Handb Clin Neurol . 2015;  
+129:375–387.
+ 44. Halpern L, Blake R, Hillenbrand J. Psychoacoustics of a chilling sound. 
+Percept Psychophys . 1986;39:77–80.
+ 45. Zald DH, Pardo JV. The neural correlates of aversive auditory stimula -
+tion. Neuroimage . 2002;16:746–753.
+ 46. Kumar S, von Kriegstein K, Friston K, Griffiths TD. Features versus 
+feelings: dissociable representations of the acoustic features and valence 
+of aversive sounds. J Neurosci . 2012;32:14184–14192.
+ 47. Ghisolfi ES, Schuch A, Strimitzer IM Jr, et al. Caffeine modulates P50 
+auditory sensory gating in healthy subjects. Eur Neuropsychopharma -
+col. 2006;16(3):204–210.
+ 48. Jastreboff MM, Jastreboff PJ. Decreased sound tolerance and tinnitus 
+retraining therapy (TRT). Aust N Z J Audiol . 2002;24:74–84. 49. Bernstein RE, Angell KL, Dehle CM. A brief course of cognitive 
+behavioural therapy for the treatment of misophonia: a case example. 
+Cogn Behav Ther . 2013;6:e10–e13.
+ 50. Beck R, Fernandez E. Cognitive-behavioral therapy in the treatment of 
+anger: a metaanalysis. Cogn Ther Res . 1998;22:63–74.
+ 51. Schneider RL, Arch JJ. Potential treatment targets for misophonia. Gen 
+Hosp Psychiatry . 2015;37:370–371.
+ 52. Pies R. Should DSM-V designate “internet addiction” a mental disorder? 
+Psychiatry . 2009;6:31–37.
+ 53. Aazh H, McFerran D, Salvi R, Prasher D, Jastreboff M, Jastreboff P. 
+Insights from the First International Conference on Hyperacusis: causes, 
+evaluation, diagnosis and treatment. Noise Health . 2014;16:123–126.
+Powered by TCPDF (www.tcpdf.org)

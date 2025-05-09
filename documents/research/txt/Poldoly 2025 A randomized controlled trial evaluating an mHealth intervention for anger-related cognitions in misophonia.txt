@@ -1,0 +1,1565 @@
+Foranyissueswiththisdocument, pleasecontactyourlibrary.
+____________________________________________________________________________________
+Title:Journalofaffectivedisorders.
+ArticleTitle: Arandomized controlled trialevaluating anmHealthintervention foranger-related
+cognitions inmisophonia
+ArticleAuthor: Podoly
+OCLC-38911953; ISSN-01650327; LCN-2004233074;
+Publisher: 2025-03-01
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Journal Pre-proof
+Arandomized controlled trialevaluating anmHealth intervention
+for anger -related cognitions in misophonia
+Tamar Y onit Podoly , Hadar Even Ezra, Guy Doron
+PII: S0165-0327(25)00398-2
+DOI: https://doi.or g/10.1016/j.jad.2025.03.060
+Reference: JAD 19026
+To appear in:
+Received date: 2 December 2024
+Revised date: 26 February 2025
+Accepted date: 10 March 2025
+Please citethisarticle as:T.Y.Podoly ,H.E. Ezra andG.Doron, Arandomized controlled
+trial evaluating anmHealth intervention foranger -related cognitions inmisophonia,
+(2024), https://doi.or g/10.1016/j.jad.2025.03.060
+This isaPDF fileofanarticle thathasunder gone enhancements after acceptance, such
+astheaddition ofacover page andmetadata, andformatting forreadability ,butitis
+notyetthedefinitive version ofrecord. This version willunder goadditional copyediting,
+typesetting andreview before itispublished initsfinal form, butweareproviding this
+version togive early visibility ofthearticle. Please note that, during theproduction
+process, errors may bediscovered which could affectthecontent, andalllegal disclaimers
+that apply to the journal pertain.
+© 2025 Published by Elsevier B.V .
+
+Journal Pre-proof
+Journal Pre-proof
+1 Article title:  
+A Randomized Controlled Trial Evaluating An mHealth Intervention for Anger -Related 
+Cognitions in Misophonia  
+Tamar Yonit Podoly1, Hadar Even Ezra2, Guy Doron2 
+ 
+Guy Doron, PhD (Corresponding Author)  
+Associate Professor  
+2Baruch Ivcher  School of Psychology  
+Reichman University (IDC) Herzliya  
+P.O. Box 167, Herzliya 46150   Israel  
+Tel +972  9 952 2850 gdoron1@gmail.com  
+ 
+Tamar Yonit Podoly PHD  
+Teaching Associate  
+1School of Psychological Sciences  
+University of Haifa  
+199 Aba Hushi St. Haifa Israel  
+tamarpw@yahoo.com  
+ 
+Abstract  
+Misophonia is a condition characterized by strong, aversive reactions to specific 
+sounds produced by others, often manifesting as intense negative emotions like 
+anger or rage in response to nearby noises. The pres ent study aimed to evaluate the 
+effectiveness of an mHealth app in reducing misophonia symptoms and related 
+cognitions. In this study, 85 participants were randomly assigned to an immediate 
+app use (iApp) or delayed app use (dApp) group and completed measu res at 
+baseline (T0), after 15 days of app use (T1 for iApp, T2 for dApp), and at 1 -month 
+follow -up (T3). Intention -to-treat analyses at T1 revealed significant interaction 
+effects; compared with the dApp group, the iApp group exhibited lower misophonia 
+symptoms on select measures (interaction effect sizes ranging from d  = 0.06 to 0.52) 
+as well as reductions in anger ruminations and anger -related metacognitions 
+(interaction effect sizes of d  = 0.47). Within -group analyses demonstrated substantial 
+reductions  in misophonia symptoms from baseline to follow -up (iApp: d  = 0.62–1.51; 
+dApp: d  = 0.89–1.75) with similar decreases in anger -related outcomes (iApp:
+
+Journal Pre-proof
+Journal Pre-proof
+2 d = 0.89–0.92; dApp: d  = 0.85–0.90). Mediation analyses, however, did not support 
+an indirect effect of th e intervention on misophonia symptoms via changes in 
+rumination or anger -related metacognitions. mHealth applications show promise in 
+alleviating misophonia symptoms and related cognitive processes. Further research 
+is needed to elucidate the roles of ange r rumination and metacognitions in 
+misophonia.  
+Keywords  
+Misophonia, Anger, Metacognitions, Mobile app, Randomized Controlled Trial  
+ 
+Introduction  
+Misophonia  
+Misophonia  is a condition in which individuals react negatively to patterns of sound 
+or sounds that occur in specific situations or settings but tolerate other sounds with 
+similar physical features (Jastreboff & Jastreboff, 2001). Common misophonic 
+triggers are huma n‐generated sounds, such as chewing and sniffing. However, 
+each individual with misophonia may have their own unique set of triggers. These 
+triggers may include different types of sounds or even particular visual stimuli, for 
+example, the sight of lips mov ing or seeing someone chewing gum, even though the 
+chewing noise is inaudible. Usually, triggers start with a familiar person and expand 
+to include unfamiliar individuals in broader social contexts (Edelstein et al., 2013; 
+Johnson et al., 2013; Schröder et  al., 2013; Taylor, 2017). Self -produced sounds 
+usually do not trigger misophonic triggers (Potgieter et al., 2019).  
+The reported prevalence of misophonia is between 6% and 20% (Wu et al., 2014; 
+Zhou et al., 2017), with the onset of symptoms usually occurring in childhood or early 
+adolescence (Johnson et al., 2013; Schröder et al., 2013). Misophonia has been 
+associated with various disorders of sensory intolerance (tinnitus, hyperacusis, 
+phonophobia), as well as with anxiety, depression, obsessive -compulsive symptoms, 
+Tourette’s syndrome, eating disorders, and attention deficit hyperactivity disorder 
+(Kluckow et al., 2014; Neal & Cavanna, 2013; Schröder et al., 2013; Wu et al., 
+2014). However, no empirical support was found for misophonia symptoms bein g 
+attributed to auditory disorders caused by neurological dysfunction (Schröder et al., 
+2013) or other neurological abnormalities (Jastreboff & Hazell, 2008; Jastreboff & 
+Jastreboff, 2013; Kumar et al., 2017; Møller, 2011). Misophonia has no official 
+diagn ostic criteria within the Diagnostic and Statistical Manual of Mental Disorders 
+fifth edition or the International Statistical Classification of Diseases and Related 
+Health Problems 10th revision (Kumar et al., 2017).  
+Misophonia symptoms are provoked by t he presence or anticipation of a specific 
+sound produced by other people (e.g., eating or breathing sounds). Individuals with 
+misophonia report difficulty averting their attention from the misophonic sound (Jager
+
+Journal Pre-proof
+Journal Pre-proof
+3 et al., 2020) and an impulsive aversive phy sical reaction to these sounds. These 
+reactions are reported to start with feelings of irritation or disgust, followed by anger 
+and a profound sense of loss of self -control (Schröder et al., 2013).  
+Individuals with misophonia usually recognize that their emotional responses may be 
+unreasonable or excessive to the circumstances. Although uncommon, misophonic 
+triggers can lead to aggressive outbursts (Schröder et al., 2013). Negative 
+behavioral reactions to misophonic triggers may also include deliberately m imicking, 
+glaring at, or verbally confronting the person creating the misophonic triggers (e.g., 
+castigating, yelling, or tantrums in the case of children and adolescents; Taylor, 
+2017). Indeed, research findings have linked misophonia symptoms with increa sed 
+feelings of anger and disgust, leading to avoidance or externalization by confronting 
+the person making the offending sound (Jager et al., 2020; Taylor, 2017). Moreover, 
+misophonic symptoms have been linked with anger -related maladaptive beliefs, 
+including the attribution of selfish intentions to others and believing that close others 
+are uncaring (Bernstein et al., 2013).  
+There have been several attempts to find an effective treatment for misophonia 
+(Bernstein et al., 2013; Dozier, 2015; McGuire et al ., 2015; Rabasco & McKay, 2021; 
+Schröder et al., 2017). For instance, Schröder and colleagues (2017), used 
+systematic confrontation with the aversive stimuli (i.e., exposure) to decrease 
+misophonic triggers. However, they reported this approach to be less successful and 
+found such an approach may even increase misophonia symptoms. Other attempts, 
+however, showed more encouraging results. For instance, Bernstein et al. (2013) 
+reported a single case study using a brief targeted course of Cognitive behavioral 
+therapy (CBT) to treat misophonia. This intervention included a cognitive component 
+in which the participant identified maladaptive thoughts and recognized that their 
+emotional reactions stemmed from core beliefs (e.g., “My needs were not important 
+to othe rs”). The intervention also incorporated attention redirection techniques and 
+role-playing exercises, ultimately resulting in significant symptom improvement.  
+More recent studies have evaluated interventions based on the Unified Protocol (UP) 
+for treating misophonia symptoms (Barlow et al., 2018). For instance, Tonarely et al. 
+(2023) described a single case study in which the UP -A was applied to a 16 -year-old 
+client with misophonia and comorbid anxiety, reporting qualitative improvements in 
+emotional and be havioral reactions to triggers. Similarly, Lewin et al. (2021) found 
+that the UP -C/A for children and adolescents led to modest improvements in 
+misophonia symptoms based on evaluator -rated measures, with additional benefits 
+from standard relaxation protoco ls. McMahon et al. (2024) extended this research by 
+evaluating the acceptability and preliminary efficacy of the UP among adults with 
+misophonia, reporting effect sizes ranging from d = 0.33 to d = 1.03 in a sample of 
+10 participants. However, the findings  from these studies are limited by small sample 
+sizes, case -study designs, and limited statistical power, constraining the 
+generalizability of the results.
+
+Journal Pre-proof
+Journal Pre-proof
+4 Similarly, Rabasco and McKay (2021) presented two cases in which stress 
+management and exposure ther apy-based treatment reduced misophonic symptoms 
+in adults. Their protocol incorporated misophonia -specific exposure hierarchies, 
+structured exposure exercises, and stress management strategies to facilitate 
+engagement. In a larger study (n = 90), Schröder et al. (2017) found that CBT -based 
+interventions —including task concentration exercises, counterconditioning, stimulus 
+manipulation, and relaxation exercises —led to symptom reduction in more than half 
+of their clients.  
+ Cognitive behavioral models of psych opathology suggest that maladaptive 
+interpretations of internal or external events can trigger excessive emotional 
+responses (Kovacs & Beck, 1978; Tremblay & Dozios, 2009). In misophonia, 
+exposure to trigger sounds typically results in immediate irritation  or rage. Beliefs 
+that others are inconsiderate or deliberately produce these triggering sounds may 
+intensify through anger -related rumination further reinforcing beliefs about others' 
+intentionally provocative behavior (Bernstein et al., 2013; Salguero et  al., 2020). 
+When such interpretations combine with metacognitive beliefs about emotional 
+dysregulation or sound intolerance, individuals may resort to avoidance behaviors, 
+ultimately increasing their emotional distress. These behaviors, in turn, may lead to a 
+self-perpetuating cycle that maintains and exacerbates emotional reactivity to 
+triggers. Indeed, research indicates that addressing maladaptive cognitions and 
+reducing anger rumination can enhance emotional regulation and decrease 
+misophonic sound sen sitivity (Schröder et al., 2017). Targeting anger -related beliefs 
+may, therefore, reduce misophonia symptoms.   
+This model is consistent with findings indicating maladaptive appraisals of the human 
+origins of misophonic sounds are an essential component to individuals ’ maladaptive 
+responses to them (Schröder et al., 2013). For instance, Edelstein et al. (2020) used 
+self-rating and skin conductance measurements to assess the aversiveness of 
+various sounds for individuals with misophonia symptoms. They found t hat human 
+eating sounds were more averse to these individuals than animal or noneating 
+sounds. These authors concluded that attributing the sound’s source to humans 
+plays a decisive role in what are considered trigger sounds in misophonia.  
+The Current Stu dy  
+The current study is a randomized controlled trial (RCT) designed to evaluate 
+whether reducing anger -related cognitions would be associated with reductions in 
+misophonia symptoms. To do this, we used an mHealth intervention (GGanger) 
+specifically desig ned to target anger -related cognitions. Several benefits of the 
+mHealth interventions include accessibility and availability (i.e., increased access to 
+and delivery of care to people worldwide; Kumar et al., 2013; Linardon et al., 2019, 
+2020), low cost, an onymity (Grist et al., 2017; Linardon et al., 2019; Olff, 2015), and 
+playfulness.  
+One module on the ocd.app of the GGtude mHealth platform is GGanger. The
+
+Journal Pre-proof
+Journal Pre-proof
+5 GGtude platform has significant empirical findings supporting its efficacy (Aboody et 
+al., 2020; Aki n-Sari et al., 2022; Ben -Zeev et al., 2021; Cerea et al., 2020, 2021, 
+2022; Gamoran & Doron, 2023; Giraldo -O’Meara et al., 2022; Oron et al., 2020; 
+Pascual -Vera et al., 2018; Roncero et al., 2018, 2019). Ten RCTs have shown that 
+training on the GGtude plat form is associated with decreased anxiety, depression, 
+obsessive compulsive disorder (OCD), relationship OCD (ROCD), negative body 
+image, and COVID -19-related distress symptoms (Aboody et al., 2020; Akin -Sari et 
+al., 2022; Ben -Zeev et al., 2022; Cerea et a l., 2020; 2021; Roncero et al., 2019). 
+Training on the GGtude platform has also been associated with increased self -
+esteem, positive body perceptions, positive recovery attitudes (Aboody et al., 2020; 
+Ben-Zeev et al., 2022; Cerea et al., 2021; 2022; Girald o-O’Meara et al., 2022).  
+The GGtude platform is designed to increase the accessibility of adaptive cognitions 
+over maladaptive ones. Repeated exposure to adaptive cognitions may increase 
+their availability and accessibility to users ’ inner monologues. The  routine use of 
+such exercises may increase awareness of users ’ inner monologues and reduce 
+rigid anger -provoking interpretations of daily events. Succinct psychoeducation 
+scripts (e.g., “Believing that you must continue thinking about what angers you 
+main tains anger. This, in turn, negatively impacts your wellbeing and interactions 
+with others. Here, we start reducing this belief “) may further motivate and facilitate 
+users ’ comprehension of fundamental CBT principles.  
+In this study, we assessed whether t argeting anger -related maladaptive cognitions 
+would be associated with decreased misophonic symptoms. We hypothesized that 
+compared to the delayed -use app group (dApp) at T1, the immediate -use app group 
+(iApp), who started using the app immediately after t he baseline measurement, 
+would show a statistically significant decrease in misophonia symptoms and anger -
+related cognitions. We also expected that the dApp group would exhibit a significant 
+decline in all measurements following crossover (between T1 and T 2: after 15 days 
+of app use, T1 for iApp, T2 for dApp). All reductions in symptoms and maladaptive 
+cognitions found in the iApp group were expected to be maintained at follow -up. 
+Finally, we expected that changes in anger ruminations and metacognitions wou ld function as 
+mediators in the relationship between the intervention and misophonia symptoms.  
+Methods  
+Participants  
+The sample consisted of 97 Hebrew -speaking individuals who self -reported as 
+suffering from misophonia. The inclusion criteria required part icipants to be aged 17 
+years or older, with no gender -based exclusions, and to score above a moderate 
+level (21 –30) on the Amsterdam Misophonia Scale -Revised (AMISOS -R) 
+questionnaire. Of the 97 participants who enrolled in this study, 12 dropped out 
+before  completing the T0 assessment and were excluded from the analyses. The
+
+Journal Pre-proof
+Journal Pre-proof
+6 remaining 85 participants all met the inclusion criteria. The AMISOS -R sum scores 
+for the sample ranged from 24 to 47, with a mean score of 35.11 ( SD = 5.91). 
+Participants were recruite d via social media platforms, specifically through forums 
+and groups dedicated to misophonia on networks (Facebook and WhatsApp). They 
+were provided with an online consent form detailing the study’s purpose and were 
+informed of their right to withdraw at a ny point. The gender distribution included 74 
+females (87.1%) and 11 males, with a mean age of 36.55 years ( SD = 11.26).  
+Measures  
+Misophonia Symptoms Measures  
+Amsterdam Misophonia Scale. The Amsterdam Misophonia Scale (A -MISO -S; 
+Schröder et al., 2013) is a n 8-item questionnaire in which participants review their 
+experience and avoidance levels from facing misophonia sounds in the last 7 days. 
+They rated their emotions on a 5 -point scale ranging from 0 ( none ) to 4 ( extreme ), 
+except for Items 1 and 8, which w ere open questions. The two open -ended 
+questions from this questionnaire were excluded for quantitative statistical analyses. 
+The focus was retained solely on the six numerically rated items. Cronbach’s alphas 
+at the measurement points were α = .66 (T0), α = .63 (T1), α = .59 (T2), and α = .62 
+(T3).  
+Amsterdam Misophonia Scale -Revised.  The Amsterdam Misophonia Scale -
+Revised (AMISOS -R; Jagger et al., 2020) was adapted from the A -MISO -S 
+(Schröder et al., 2013). In this 12 -item measure, participants reviewed th eir 
+experience of facing misophonia sounds in the last 3 days and rate their emotions on 
+a 5-point scale from 0 ( not at all ) to 4 ( extreme ), except for Item 12, which ranges 
+from 0 ( always ) to 4  (never ). The first two items of this questionnaire aim to ide ntify 
+the types of sounds that trigger sensitivity and the range of emotions experienced in 
+response. These questions allow multiple responses and, therefore, were excluded 
+from the statistical analysis. Consequently, only 10 of the 12 items were included in 
+the analysis. Cronbach’s alphas at the measurement points were α = .87 (T0), α = 
+.80 (T1), α = .87 (T2), and α = .87 (T3).  
+Misophonia Screening List. In the 14 -item Misophonia Screening Scale (MISO -
+SCREE; Jager et al., 2020; Schröder & Spape , 2014), par ticipants reviewed their 
+experience and rated the answers that were most applicable to them on a 5 -point 
+scale from 0 ( very much disagree ) to 4 ( very much agree ). Cronbach’s alphas at the 
+measurement points were α = .82 (T0), α = .80 (T1), α = .72 (T2), an d α = .79 (T3).  
+Table 1 presents the Cronbach’s alpha values for all misophonia measurements 
+across assessment points.  
+<<Table 1 near here>>  
+Ruminations, Metacognitions, and Thoughts About Anger Measures   
+Anger Rumination Scale.  Anger rumination was assessed by the 19 -item Anger
+
+Journal Pre-proof
+Journal Pre-proof
+7 Rumination Scale (ARS; Sukhodolsky et al., 2001), which includes four factors: 
+angry afterthoughts (six items; α = .86), thoughts of revenge (four items; α = .72), 
+angry memories (five  items; α = .85), and understanding of causes (four items; α = 
+.77). The items were rated on a 4 -point Likert -type scale from 1 ( almost never ) to 4 
+(almost always ) for how well the items corresponded to the participants’ beliefs about 
+themselves. Cronbach’s alphas at the meas urement points were α = .93 (T0), α = .83 
+(T1), α = .81 (T2), and α = .88 (T3).  
+Metacognition and Anger Processing Scale.  The Metacognition and Anger 
+Processing Scale (MAP; Moeller et al., 2016) is a 31 -item scale that includes three 
+factors: positive metacognitions about anger (nine items; α = .85), negative 
+metacognitions about anger (12 items; α = .86), and rumination (10  items; α = .85). 
+The items are rated on a 4 -point scale of 1 ( never true ), 2 (sometimes true ), 3 (often 
+true), and 4 ( always true ). Due to theoretical considerations, we decided to include 
+only the rumination factor (MAP -R) in our questionnaires. Cronbach ’s alphas at the 
+measurement points were α = .92 (T0), α = .86 (T1), α = .71 (T2), and α = .80 (T3).  
+State -Trait Anger Expression Inventory.  The State -Trait Anger Expression 
+Inventory (STAXI; Spielberger, 1985) is a 44 -item scale that includes five factors : trait 
+anger (10 items; α = .86), anger control (eight items; α = .79), anger in (six items; α = 
+.73), anger out (11  items, α = .82), and the fifth factor, state anger, which was not 
+used in our study due to theoretical considerations. The items are rated  on a 4 -point 
+scale from 0 ( almost never ) to 3 ( almost always ). Only the trait anger subscale 
+(STAXI -T) was used in our study to assess baseline differences between groups. 
+Cronbach’s alphas at the measurement points were α = .85 (T0), and α = .78 (T3).  
+Materials and Procedure  
+The first assessment point (T0) involved participants completing a demographic 
+survey along with measures  related to misophonia and anger (misophonic -related 
+appraisals: MISO -SCREE, A -MISO -S, AMISOS -R, ARS, MAP -R, STAXI -T). The 
+same set of questionnaires was administered for subsequent evaluation points  
+(T1, T2, T3), excluding the demographic survey.  
+Following completion of the baseline assessment (T0), participants were randomly 
+allocated to one of two experimental conditions. Those  in the immediate intervention 
+group (iApp) began the intervention shortly after this initial assessment and used the 
+GGtude platform over 2 weeks, followed by a postintervention assessment (T1). A 
+final assessment was conducted at a 1 -month follow -up (T3;  see Figure 1).  
+In the delayed -use app group (dApp), participants completed the baseline 
+questionnaires (T0), waited 2 weeks, and completed them again at T1. They then 
+used the GGtude platform for 2 weeks before completing the assessment at T2. One 
+month later, the dApp group completed the final follow -up at T3 (see Figure 1).  
+<<Figure 1 near here>>
+
+Journal Pre-proof
+Journal Pre-proof
+8 Intervention  
+GGanger is a module within the ocd.app that addresses maladaptive metacognitions 
+associated with anger difficulties. This module consists of 56 l evels grouped into 14 
+days. First -time app users complete a short tutorial on the effect of our inner 
+monologue on their anger reactions. They then learn to use brief play -like 
+interactions to make their inner monologue calmer and healthier. Each training 
+session includes heightened cognitions (“my extreme anger keeps me safe”) or 
+challenges maladaptive metacognitions related to anger (e.g., “I see more clearly 
+when I’m calm”). Users learn to identify and adopt helpful cognitions (i.e., ones 
+inconsistent wi th maladaptive beliefs) by swiping them down toward themselves to 
+the bottom of the screen. They practice discarding cognitions that match their 
+maladaptive metacognitions by sliding them up (off the screen). The application also 
+includes exercises to stre ngthen and improve learning. For example, users may be 
+asked to identify which of three cognitions appeared in the previous level or to 
+choose the adaptive response between two or three options. At the end of each 
+practice day, there is a breathing relaxat ion exercise.  
+Statistical Analyses  
+Analyses were conducted using IBM SPSS (Version 27). To compare the two 
+experiment groups (iApp and dApp), a 2 x 2 (Group [iApp, dApp] x Time [T0, T1]) 
+repeated measures multivariate analysis of variance (MANOVA) was per formed on 
+six dependent variables. This analysis allowed us to assess changes within each 
+group over time and between -group differences at both time points.  In addition, 
+we conducted separate repeated -measures MANOVAs for each group to evaluate 
+within -group effects across three time points (T0, T1, and T2) and at a 30 -day 
+follow -up. These analyses enabled us to examine immediate and sustained changes 
+followin g the intervention. In addition, pre - to post intervention changes within each 
+group were analyzed using repeated measures MANOVA, with time as the within -
+subject variable. Finally, we used the SPSS PROCESS macro (Hayes,2018) for 
+testing whether the effect  of condition (iApp vs. dApp) on post -intervention 
+misophonia symptoms at T1 was mediated by post -intervention anger meta -
+cognitions at T1 and anger ruminations at T1. Baseline levels (T0) of misophonia 
+symptoms, anger ruminations, meta -cognitions, as well  as demographic covariates 
+(gender and age) were controlled for in this model. A 5000 -sample bootstrap 
+procedure was used to estimate bias -corrected 95% confidence intervals (CIs) to 
+test the significance of indirect effect of the relationships. If CIs do not contain 0, 
+indirect relationships are significant, indicating significant mediating effect (Hayes, 
+2018).   
+ 
+Results
+
+Journal Pre-proof
+Journal Pre-proof
+9 Preliminary Analysis  
+Post intervention assessments were completed by 65.5% of participants, and 56.9% 
+completed the follow -up assessment  (see Figure 2). We used an intent -to-treat 
+approach to prevent the potential bias effect of randomized allocation and missing 
+responses and implemented a multiple imputation strategy to replace missing values 
+(Hollis & Campbell, 1999). Multiple imputation  is considered a suitable method of 
+handling missing data in repeated measure designs. It has been shown to have 
+utility with levels of missing data greater than that observed in this study (Vallejo et 
+al., 2011). Specifically, we used multivariate imputat ion with chained equations (Van 
+Buuren & Groothuis -Oudshoorn, 2011). Multiple imputation methods follow three 
+steps: a) imputing , repeating over several iterations ( i) as opposed to a single 
+imputation; b) analyzing , after each iteration, the dataset compl eted is analyzed, 
+leading to a distribution of i statistics, one per dataset; c) pooling , the i results are 
+pooled into one estimate. Multiple imputation, therefore, also has the added benefit 
+of examining the variance in estimates over iterations, reflect ing the degree of 
+uncertainty over which value to impute (Lall, 2016).  
+<<Figure 2 near here>>  
+First, we compared the iApp and dApp groups in terms of gender, age, education, 
+status, and their A -MISO -S, AMISOS -R, MISO -SCREE, ARS, MAP -R (anger 
+rumination), and STAXI -T (trait anger) scores at baseline. The groups did not 
+significantly differ in gender, age, education, status, and self -report measures (iApp: 
+N = 48; dApp: N = 49; see Table 2).  
+<<Table 2 near here>>  
+We then conducted Pearson product -moment corr elation. These analyses indicated 
+that individuals with higher levels of misophonia symptoms also reported higher 
+levels of anger rumination and anger traits (see Table 3).  
+<<Table 3 near here>>  
+Between -Group Differences (iApp Group Versus dAapp Group)  
+We examined the effectiveness of GGtude in reducing misophonia symptoms (A -
+MISO -S, AMISOS -R, and MISO -SCREE) and anger symptoms (MAP -R and ARS) 
+scores with 2 x 2 (Group [iApp, dApp] x Time [T0, T1]) repeated measures MANOVA. 
+Group was treated as a between -subject factor, and time was treated as a within -
+subject factor. Type 1 error was controlled using the false discovery rate (Benjamini 
+& Hochberg, 1995; Keselman et al., 1999) correction ( p < .05). The false discovery 
+rate adjusts the criterion alpha level f or significance based on the number of 
+statistical tests conducted that fail to reach an increasingly stringent probability level. 
+In this study, two tests were not significant (A -MISO -S, AMISOS -R); therefore, the 
+criterion alpha was adjusted to 0.044.  
+With regards to misophonia symptom measures, the follow -up ANOVAs indicated a
+
+Journal Pre-proof
+Journal Pre-proof
+10 significant group x time interaction effect for MISO -SCREE, marginal significance for 
+AMISOS -R (p = 0.073), and nonsignificant findings for A -MISO -S. Analyses of the 
+anger -related measures revealed a significant group x time interaction effect for 
+MAP -R and ARS (see Table 4 and Figure 3).  
+<<Table 4 near here>>  
+<<Figure 3 near here>>  
+Within Group and 30 Days Follow -Up Effects: iApp Group  
+In the iApp  group, we expected pre –post reduction in misophonia symptoms, anger 
+rumination, anger trait, negative anger metacognitions, and retention of these effects 
+in the follow -up period. Therefore, we examined pre –post changes with a repeated 
+measures MANOVA wit h within -group Bonferroni corrections between T0, T1, and 
+T3. Mauchly’s test of sphericity indicated that all measures met the assumption of 
+sphericity.  
+The AMISOS -R, MISO -SCREE, and MAP -R scores significantly decreased from T0 
+to T1, whereas the ARS did not decrease significantly at this time point. In addition, 
+there were no significant changes from T1 to T3 for the AMISOS -R, MISO -SCREE, 
+and MAP_R. However, there was a significant decrease in the ARS (see Table 5). 
+These results indicated that the iApp g roup exhibited lower misophonia and anger 
+metacognition symptoms at T1 than at T0 and that these reductions were maintained 
+at the 1 -month follow -up (T3). Anger ruminations showed a different pattern whereby 
+significant reductions were indicated only at T3  compared to T0 (rather than at T1 
+compared to T0).   
+<<Table 5 near here>>  
+Within -Group and 30 Days Follow -Up Effects: dApp Group  
+In the dApp group, we expected crossover ( i.e., app use) to be associated with a 
+significant decrease in misophonia and anger  symptoms. Thus, we conducted a 
+repeated measures MANOVA with Bonferroni corrections between T0, T1, T2, and 
+T3. Mauchly’s test of sphericity indicated that all measures met the assumption of 
+sphericity.  
+As expected, there were no significant differences between T0 and T1 before the 
+intervention. In addition, as expected, within -group differences between T1 and T2 
+revealed significant reductions in the AMISOS -R, MISO -SCREE, ARS, and MAP -R. 
+Participants in the dApp group exhibited significantly lower misoph onia and anger 
+symptoms at T2 compared to T1. In addition, there were no significant changes from 
+T2 to T3 for AMISOS -R, MISO -SCREE, ARS, and MAP -R (see Table 5). These 
+results suggest that the reductions identified in misophonia symptoms, anger 
+metacognit ion, and rumination symptoms at T2 were maintained at the 1 -month 
+follow -up (T3).
+
+Journal Pre-proof
+Journal Pre-proof
+11 Mediation analysis of anger ruminations and metacognitions  
+To assess whether anger related cognitions (anger ruminations and metacognitions) 
+mediate the effects of the inter vention of misophonia symptoms we used the 
+PROCESS macro model 4 (Hayes,2018).  This analysis indicated that the 
+intervention condition (iApp vs. dApp) had a direct effect on post -intervention 
+misophonia symptoms, controlling for baseline symptoms, anger r elated cognitions, 
+and demographic factors (B = -0.1142, SE = 0.0443, p = 0.0118, 95% CI [ -0.2024, -
+0.0260]). At T1, participants in the iApp condition reported significantly lower 
+misophonia symptoms compared to those in the dApp group. The total effect o f the 
+intervention on post -intervention misophonia symptoms was also significant (B = -
+0.1159, SE = 0.0429, p = 0.0085, 95% CI [ -0.2013, -0.0304]) see table 6.  
+The indirect effects of the intervention on misophonia symptoms via post -intervention 
+anger rumi nations and meta -cognitions, however, were not statistically significant. 
+Although the intervention condition significantly reduced post -intervention 
+ruminations (B = -0.1041, SE = 0.0466, p = 0.0284), these ruminations did not 
+significantly predict post -intervention misophonia symptoms (B = -0.0759, SE = 
+0.1198, p = 0.5284) see table 6. Further, the effects of condition did not significantly 
+predict post -intervention anger meta -cognitions (B = -0.0503, SE = 0.0418, p = 
+0.2322), and anger meta -cognitions di d not significantly predict post -intervention 
+symptoms (B = 0.1897, SE = 0.1335, p = 0.1595). The specific indirect effects 
+through anger meta -cognitions (effect = -0.0096, 95% CI [ -0.0402, 0.0113]) and 
+ruminations (effect = 0.0079, 95% CI [ -0.0177, 0.0327 ]), as well as the total indirect 
+effect (effect = -0.0017, 95% CI [ -0.0348, 0.0249]), were non -significant see table 6. 
+Demographic covariates, including gender and age, also had no significant effect on 
+post-intervention misophonia symptoms (all p > 0.05 ). 
+<<Table 6 near here>>  
+<<Figure 4 near here>>  
+ 
+Discussion  
+Misophonia is characterized by an intense emotional and physiological response to 
+specific sounds, leading to significant distress and impaired daily functioning 
+(Jastreboff & Jastreboff, 2001; S chröder et al., 2013; Taylor, 2017). Current CBT -
+based interventions have been shown to alleviate misophonic symptoms. However, 
+most studies have been limited by noncontrolled design (e.g., Bernstein et al., 2013; 
+Dozier, 2015) and small size (e.g., Mattso n et al., 2023). Previous studies also used 
+costly face -to-face design (e.g., McMahon et al., 2024; Rosenthal et al., 2023) and 
+did not exclusively focus on anger -related ruminations and metacognitions (e.g., 
+McMahon et al., 2024; Schröder et al., 2017).
+
+Journal Pre-proof
+Journal Pre-proof
+12 The current RCT included 85 participants, used a low -cost mHealth intervention, and 
+specifically targeted anger -related ruminations and metacognitions. Our findings 
+indicate that compared with the controlled group (dApp), participants in the 
+immediate inte rvention group (iApp) showed significantly lower anger -related 
+ruminations and metacognition at T1, sustained at the 1 -month follow -up. 
+Participants also showed lower misophonia symptoms on the MISO -SCREE, 
+marginal reductions on the AMISOS -R, and no reduct ion on the A -MISO -S. Within -
+group analyses support the effectiveness of the intervention in reducing anger 
+rumination, maladaptive metacognitions, and misophonia symptoms.  
+Previous research identified anger as a key component of misophonia (Jager et al., 
+2020; Schröder et al., 2013; Taylor, 2017). Current CBT models suggest maladaptive 
+thinking patterns, metacognitions, and related interpretations of events can lead to 
+excessive emotional responses (Kovacs & Beck, 1978). In line with this, reducing 
+these t hought patterns may help alleviate symptoms of misophonia and associated 
+anger (Schröder et al., 2013). For instance, Salguero et al. (2020) proposed that 
+maladaptive and rigid metacognitions (e.g., “I can’t control my anger”) sustain anger 
+rumination. Thi s leads to heightened anger, aggressive behavior, or avoidance of 
+anger -inducing situations  
+Our findings support these models by showing that targeting ruminations and anger -
+related metacognitions are associated with reductions in some measures of 
+misophon ic symptoms (MISO -SCREE). Following the intervention, medium effect -
+size reductions were found in rumination, maladaptive metacognitions, and two 
+measures of misophonia symptoms (.40 < d < .52). Moreover, following crossover, 
+the dApp group showed signific ant reductions in anger ruminations and presented 
+similar patterns to those in the iApp group. Both groups exhibited lower misophonia 
+symptoms, anger metacognition, and rumination immediately after app use, with 
+sustained improvements at the 1 -month follow -up (T3).  
+To further explore the mechanisms underlying the observed reductions in 
+misophonia symptoms, we conducted mediation analyses evaluating whether 
+changes in anger rumination and metacognitions mediated the effect of the 
+intervention on misophonia symptoms. The results suggested that the relationship 
+between our intervention and misophonia symptom reduction is more complex than 
+expected. Although the intervention reduced misophonia symptoms and ruminations, 
+these improvements were not mediated by ch anges in anger -related metacognitions 
+and ruminations. The intervention predicted decreases in ruminations, but neither 
+ruminations nor metacognition predicted post -intervention misophonia symptoms. 
+This suggests that symptom reduction was driven by direct  effects rather than 
+through anger related ruminations or meta -cognitions. That is, the condition × time 
+interactions effects shown in the repeated measures ANOVA for ruminations and 
+anger -related metacognitions did not translate into significant mediation  pathways.  
+This discrepancy may reflect methodological differences. Our mediation analyses
+
+Journal Pre-proof
+Journal Pre-proof
+13 controlled for baseline mediator values, reducing available variance and statistical 
+power, particularly in limited size samples like ours. ANOVA analyses, however,  
+assesses raw changes over time, making it more sensitive to group differences. 
+Further, the ANOVA is sensitive to within -group changes and detects differences in 
+the pattern of change over time, whereas the mediation model evaluates whether the 
+interventi on explains unique variance in post -intervention outcomes after controlling 
+for baseline levels. The strong predictive power of baseline meta -cognitions may 
+have attenuated the ability to detect an intervention effect in the mediation analysis. 
+Together, t hese findings suggest that although the intervention impacted on the 
+trajectories of the assessed anger -related processes, the observed changes were 
+not sufficiently robust, after accounting for baseline, to mediate reductions in 
+misophonia symptoms.  
+Takin g these statistical limitations into consideration, the efficacy of the intervention 
+in reducing misophonia symptoms may also be explained by its impact on 
+maladaptive cognitive patterns not measured in this study. Specifically, the GGanger 
+intervention ta rgets self and other -oriented perfectionistic beliefs (e.g., "Imperfection 
+is failure"; “Others never try hard enough”), negative perceptions of others (e.g., 
+"People are not considerate of my needs"), and self -critical metacognitions (e.g., "I 
+must always  criticize myself to improve"). Previous studies have shown that modules 
+on the GGtude platform successfully decrease such cognitions (e.g., Abramovitch, et 
+al,.2024).  The additional beliefs targeted by the intervention   may have played a 
+more central rol e in symptom reduction than the specific anger -related processes 
+measured in this study. Future studies should explore the role of additional 
+mechanisms to better understand how mHealth interventions reduce misophonia 
+symptoms. Future studies might also be nefit from larger scale longitudinal mediation 
+models to capture dynamic changes over time and improve sensitivity to indirect 
+effects.  
+Research on internet -based interventions for treating misophonia has been limited. 
+Previous findings that used Internet -based or mHealth interventions in misophonia 
+(e.g., Aazh et al., 2023; Ghorbani et al., 2022) used online face -to-face sessions or 
+unguided Internet -based CBT. Our findings, which demonstrate symptom 
+improvement of misophonia following the use of the GGang er module, support 
+previous research, showing benefits across various psychopathologies with mobile 
+app-based psychological interventions (Lui et al., 2017; Oliveriea et al., 2021). 
+Moreover, this study assessed a fully remote mHealth intervention that did  not 
+involve exposure to triggering sounds, making it more accessible and appealing to a 
+broader audience. Fully remote mobile health apps have unique advantages, 
+including an appeal to young people, the ability to monitor progress, continuous 
+availability , wide reach, very low cost, and anonymity (Aboody et al., 2020).  
+Compared to the waitlist control group (between T0 and T1), app use in our study 
+demonstrated varying levels of symptom reduction across distinct misophonia 
+symptom measures. Statistically s ignificant reductions were observed in the MISO -
+
+Journal Pre-proof
+Journal Pre-proof
+14 SCREE, marginal decreases were found in the AMISOS -R, and non -significant 
+reductions were noted in the A -MISO -S. These variations in symptom reduction can 
+be attributed to the three measures’ unique structure s, focuses, and sensitivities.  
+The MISO -SCREE, a comprehensive 14 -item questionnaire, assesses various 
+misophonia symptoms. It uses a nuanced scale that captures subtle changes, 
+contributing to its higher sensitivity and the statistically significant reduc tions 
+observed. In contrast, the AMISOS -R evaluates immediate emotional responses 
+over a narrow 3 -day timeframe. It exhibited only marginal decreases, given that its 
+limited scope may not fully reflect broader or longer -term symptom changes. Last, 
+the A -MISO-S demonstrated nonsignificant reductions. This lack of sensitivity may 
+be due to its shorter length. Additionally, the questionnaire’s low reliability might have 
+influenced the nonsignificant reductions in the A -MISO -S, further limiting its ability to 
+detect meaningful symptom changes. These findings underscore how the design and 
+focus of each instrument shape their effectiveness in capturing the impact of 
+interventions.  
+Within -group analysis of the iApp group showed significant reductions in misophonia 
+symptoms and maladaptive anger metacognitions immediately after using the app 
+(T1). These improvements were maintained at the 1 -month follow -up for both 
+groups. An intriguing finding was the reduction in misophonia symptoms and anger -
+related metacognition observed in the iApp group between T0 and T1, despite no 
+significant decrease in anger ruminations during this period. Notably, anger 
+ruminations showed a significant reduction only at T3 compared to T0. This pattern 
+aligns with the idea that, although met acognitive interventions can influence thinking 
+patterns, the effects of these changes are not immediate. They take time and 
+practice to manifest (Love et al., 2022).  
+Overall, the results indicate that GGanger may effectively reduce some misophonia 
+symptom s, anger -related metacognition, and anger rumination, and that these gains 
+may be maintained for at least 1 month without further use. These findings align with 
+previous research linking the use of the GGtude platform with decreases in 
+maladaptive beliefs,  metacognitions (e.g., OCD -related beliefs or body -image beliefs; 
+Akin-Sari et al., 2022; Cerea et al., 2020; Giraldo ‐O'Meara et al,, 2021; Roncero et 
+al., 2019) and associated symptoms (Cerea  et al., 2020, 2021, 2022; Pascual -Vera 
+et al., 2018; Roncero et al., 2018, 2019). For instance, Cerea et al. (2020) showed 
+significant medium -large reductions in OCD -related beliefs like perfectionism, 
+intolerance of uncertainty, over importance of though ts and their control, as well as 
+decreases in ROCD symptoms (Doron et al., 2014). Similarly, our findings suggest 
+medium -large effect -size reductions in anger cognitions and in measures of 
+misophonia symptoms.  
+Our intervention targeted anger -related rumin ations and metacognitions, along with 
+perfectionism, negative perceptions of others, and self -criticism. However, the 
+intervention did not specifically target beliefs about misophonia -related sounds or
+
+Journal Pre-proof
+Journal Pre-proof
+15 intent (i.e., attributions of intent behind trigger so unds or the perceived aversiveness 
+of specific sounds). This approach was based on evidence highlighting the central 
+role of anger in misophonia (Jager et al., 2020; Schröder et al., 2013). However, 
+targeting beliefs explicitly addressing misophonia trigge rs (e.g., “They are making 
+these chewing sounds on purpose” or “They don’t care that making these sounds is 
+extremely distressing for me”) could potentially enhance the efficacy of the evaluated 
+intervention. Future research would benefit from exploring th e efficacy of such an 
+adapted version of the intervention on misophonia symptoms.  
+Limitations  
+Although this study may offer some insights regarding misophonia symptoms and 
+their treatment, several limitations should be noted. Interventions involving cognitive 
+behavioral therapy (CBT) typically report dropout rates ranging from 30% to 40% for 
+short -term programs (Amagai et al., 2022; Linardon et al., 2020) and unguided 
+internet -based CBT interventions can reach up to attrition rates exceeding 50%, 
+(Grist et al., 2017). Nevertheless, the 21.18% dropout rate in our study was notable.  
+The relative scar city of internet -based CBT or mHealth interventions specifically 
+designed for misophonia may have contributed to the lower attrition rate in our study. 
+Further, our sample's mean age of 35.58 years (SD = 10.76) represents an older, 
+typically more committed  demographic compared to adolescents and young adults, 
+who generally show higher dropout rates in mHealth interventions (Egilsson et al., 
+2021). Another factor that may have increased engagement is the game -like design 
+of the evaluated intervention. Previo us research suggests that such a design can 
+sustain user engagement by reducing common attrition triggers like boredom and 
+frustration (Amagai et al., 2022). However, the dropout rate remains a limitation of 
+this study and should be addressed in future res earch.  
+Additionally, most participants were women, limiting the generalizability of the 
+findings. There are conflicting findings regarding the impact of gender on the 
+prevalence of misophonia. Although some studies suggest that misophonia is more 
+common in  women, most research indicated that gender does not significantly 
+influence its prevalence (Jakubovski  et al., 2022; Koroglu & Durat, 2024; Vitoratou et 
+al., 2023 ). Future research should aim to recruit a more diverse sample in terms of 
+gender, age, and e thnicity to increase the generalizability of the results. Additionally, 
+self-report measures may have introduced bias. The literature suggested a 
+neurophysiological approach to misophonia (Jastreboff et al, 2023). Hence, future 
+research should include obje ctive measures, such as physiological assessments, to 
+provide a more accurate evaluation  of misophonia. The follow -up period for this 
+study was relatively short, and long -term effects need further investigation. It remains 
+uncertain whether the observed re ductions in misophonia symptoms will be 
+sustained over time. Last, future studies should explore whether booster sessions or 
+ongoing treatment may be required to maintain therapeutic gains.
+
+Journal Pre-proof
+Journal Pre-proof
+16 Conclusion and clinical implications  
+This study demonstrates tha t a short, daily mHealth -based intervention targeting 
+various metacognitions can effectively reduce misophonia symptoms, anger -related 
+metacognitions, and anger rumination. This CBT -based app provides a scalable, 
+cost-effective alternative to face -to-face therapy, particularly for individuals with 
+limited access to traditional CBT. Unlike conventional interventions, this approach 
+does not rely on exposure to aversive sounds or classic behavioral techniques. The 
+findings highlight a link between anger -relate d metacognitions and reductions in 
+misophonia symptoms, suggesting that targeting these cognitive processes may be 
+a promising treatment avenue. However, given that anger -related cognitions did not 
+mediate symptom reduction, future interventions may benefi t from a more 
+comprehensive approach that addresses both the sensory and cognitive -emotional 
+components of misophonia. Additionally, while mHealth apps show potential, 
+research suggests that integrating them with some level of human guidance can 
+enhance tr eatment outcomes (Linardon et al., 2019; Grist et al., 2017). Clinically, 
+therapists could incorporate apps as adjuncts to CBT to reinforce core therapeutic 
+strategies like cognitive restructuring to improve patient engagement. Further 
+research is needed t o replicate these findings and examine the long -term effects of 
+the GGtude anger module on misophonia and anger -related symptoms.  
+ 
+Declaration of generative AI and AI -assisted technologies in the writing 
+process.  
+During the preparation of this work, the au thor(s) used ChatGPT to improve the 
+readability and language of the manuscript. After using this tool/service, the author(s) 
+reviewed and edited the content as needed and take(s) full responsibility for the 
+content of the published article.  
+References  
+Aazh , H., Taylor, L., Danesh, A.A., Moore, B.C. 2023. The effectiveness of unguided 
+internet -based cognitive behavioral therapy for tinnitus for patients with tinnitus alone 
+or combined with hyperacusis and/or misophonia: A preliminary analysis. J. Am. 
+Acad. A udiol. 33, 405 –416. https://doi -org/10.1055/a -2087 -0262  
+Aboody, D., Siev, J., Doron, G. 2020 . Building resilience to body image triggers using brief 
+cognitive training on a mobile application: A randomized controlled trial. Beh. Res. 
+Ther. 134, 103723 .  https://doi -org/10.1016/j.brat.2020.103723
+
+Journal Pre-proof
+Journal Pre-proof
+17 Abramovitch A, Uwadiale A, Robinson A. 2024. A randomized clinical trial of a gamified 
+app for the treatment of perfectionism. Br J Clin Psychol.;63(1):73 -91. doi: 
+10.1111/bjc.12444.  
+Akin -Sari, B., Inozu, M., Hacio meroglu, A.B., Cekci, B.C., Uzumcu, E., Doron, G. 2022. 
+Cognitive training via a mobile application to reduce obsessive -compulsive -related 
+distress and cognitions during the COVID -19 outbreaks: A randomized controlled 
+trial using a subclinical cohort. Beh.  Ther. 53(5), 776–792.  https://doi -
+org/10.1016/j.beth.2021.12.008  
+Amagai S, Pila S, Kaat AJ, Nowinski CJ, Gershon RC. Challenges in Participant Engagement 
+and Retention Using Mobile Health Apps: Literature Review. J Med Internet Res. 
+2022 Apr 26;24(4):e35 120. doi: 10.2196/35120.  
+Barlow, D. H., Farchione, T. J., Sauer -Zavala, S., Latin, H. M., Ellard, K. K., Bullis, J. R., 
+Bentley, K. H., Boettcher, H. T., & Cassiello -Robbins, C. (2018). Unified Protocol 
+for Transdiagnostic Treatment of Emotional Disorders : Therapist guide  (2nd ed.). 
+Oxford University Press.  
+Benjamini, Y., Hochberg, Y. 1995 . Controlling the false discovery rate: A practical and 
+powerful approach to multiple testing. J. R. Stat. Soc. Seroes. B. Stat. Methodol. 
+57(1), 289–300.  https://doi -org/10.1111/j.2517 -6161.1995.tb02031.x  
+Ben-Zeev, D., Chander, A., Tauscher, J., Buck, B., Nepal, S., Campbell, A., Doron, G. 2021. 
+A smartphone intervention for people with serious mental illness: Fully remote 
+randomized controlled trial of CORE. J. Med. Internet Res. 23(11), e29201 .  
+https://doi.org/10.2196/29201  
+Bernstein, R.E., Angell, K.L., Dehle, C.M. 2013. A brief course of cognitive behavioural 
+therapy for the treatment of misophonia: A case example. Cog. Beh. Ther. 6, e10.  
+https://doi.org/10.1017/S17 54470X13000172
+
+Journal Pre-proof
+Journal Pre-proof
+18 Cerea, S., Doron, G., Manoli, T., Patania, F., Bottesi, G., Ghisi, M. 2022. Cognitive training 
+via a mobile application to reduce some forms of body dissatisfaction in young 
+females at high -risk for body image disorders: A randomized control led trial. Body 
+Image, 42, 297–306.   https://doi -org/10.1016/j.bodyim.2022.07.010  
+Cerea, S., Ghisi, M., Bottesi, G., Carraro, E., Broggio, D., Doron, G. 2020. Reaching reliable 
+change using short, daily, cognitive training exercises delivered on a mobile 
+application: The case of relationship obsessive compulsive disorder (ROCD) 
+symptoms and cognitions in a subclinical cohort. J. Affect. Disord. 276, 775 –787. 
+https://doi -org/10.1016/j.jad.2020.07.043  
+Cerea, S., Ghisi, M., Bottesi, G., Manoli, T., Carraro, E ., Doron, G. 2021 . Cognitive 
+behavioral training using a mobile application reduces body image -related symptoms 
+in high -risk female university students: a randomized controlled study. Beh. Ther. 
+52(1), 170–182.  https://doi -org/10.1016/j.beth.2020.04.002  
+Doron, G., Derby, D.S.  Szepsenwol, O. 2014. Relationship obsessive compulsive disorder 
+(ROCD): A conceptual framework.  Journal of Obsessive -Compulsive and Related 
+Disorders,  3(2), pp.169 -180. 
+Dozier, T.H. 2015. Counterconditioning treatment for misophonia.  Clin. Case. Studies. 14(5), 
+374–387.  https://doi -org/10.1177/1534650114566924  
+Edelstein, M., Brang, D., Rouw, R., Ramachandran, V.S. 2013 . Misophonia: Physiological 
+investigations and case descriptions. Front. Hum. Neurosci. 7, 296.  https://doi -
+org/10.3 389/fnhum.2013.00296  
+Edelstein, M., Monk, B., Ramachandran, V.S., Rouw, R. 2020 . Context influences how 
+individuals with misophonia respond to sounds [Preprint]. BioRxiv, 2020 -09.  
+https://doi.org/10.1101/2020.09.12.292391  
+Egilsson E, Bjarnason R, Njardvik  U. 2021 Usage and Weekly Attrition in a Smartphone -
+
+Journal Pre-proof
+Journal Pre-proof
+19 Based Health Behavior Intervention for Adolescents: Pilot Randomized Controlled 
+Trial JMIR Form Res 2021;5(2):e21432. DOI: 10.2196/21432  
+Gamoran, A., Doron, G. 2023. Effectiveness of brief daily training using a mobile app in 
+reducing obsessive compulsive disorder (OCD) symptoms: Examining real world data 
+of “OCD.app -Anxiety, mood & sleep”. J. Obsessive. Compuls. Relat. Disord. 36, 
+100782 . https://doi -org/10.1016 /j.jocrd. 2023.100782   
+Ghorbani, S., Ashouri,  A., Gharraee, B. Farahani, H. 2022. Effectiveness of online group -
+mindfulness and acceptance‐based therapy and cognitive -behavioral therapy on 
+misophonia.  Iranian Journal of Psychiatry and Behavioral Sciences,  16(2). 
+Giraldo‐O'Meara, M., Doron, G. 2021. Can self -esteem be improved using short daily 
+training on mobile applications? Examining real world data of GG Self -esteem users. 
+Clin. Psychol. 25(2), 131 –139.  https://doi -org/10.1080/13284207.2021.1923126  
+Grist, R., Porter, J., Stallard, P. 2017. Mental  health mobile apps for preadolescents and 
+adolescents: A systematic review. J. Med. Internet Res. 19, e176. https://doi -
+org/10.2196/jmir.7332  
+Hayes, A. F. (2018). Introduction to Mediation, Moderation, and Conditional Process 
+Analysis: A Regression -Based Approach  (2nd ed.). New York: Guilford Press.  
+Hollis, S. and Campbell, F. 1999. What is meant by intention to treat analysis? Survey of 
+published randomised controlled trials.  Bmj,  319(7211), pp.670 -674. 
+Jager, I., de Koning, P., Bost, T., Denys, D., Vuli nk, N. 2020. Misophonia: Phenomenology, 
+comorbidity and demographics in a large sample. PloS One, 15(4), e0231390 .  
+https://doi.org/10.1371/journal.pone.0231390  
+Jakubovski, E., Müller, A., Kley, H., de Zwaan, M. Müller -Vahl, K. 2022. Prevalence and 
+clinica l correlates of misophonia symptoms in the general population of 
+Germany.  Frontiers in psychiatry,  13, p.1012424.
+
+Journal Pre-proof
+Journal Pre-proof
+20 Jastreboff, M.M., Jastreboff, P.J. 2001 . Hyperacusis. Audiol. Online. 122, 1–5.  
+Jastreboff, P.J., Hazell, J.W. 2008. Tinnitus retraining ther apy: Implementing the 
+neurophysiological model. Cambridge University Press.  
+Jastreboff, P.J., Jastreboff, M.M. 2013. Using TRT to treat hyperacusis, misophonia and 
+phonophobia. ENT. Audiol. News. 21(6), 88 –90. 
+Jastreboff, P.J. Jastreboff, M.M.2023. The neu rophysiological approach to misophonia: 
+Theory and treatment.  Frontiers in Neuroscience,  17, p.895574.  
+Johnson, P.L., Webber, T.A., Wu, M.S., Lewin, A.B., Murphy, T.K., Storch, E.A. 2013. 
+When selective audiovisual stimuli become unbearable: A case series on pediatric 
+misophonia. Neuropsychiatry, 3(6), 569 –575. http://dx.doi.org/10.2217/npy.13.70  
+Keselman, H.J., Cribbie, R., Holland, B. 1999. The pairwise multiple comparison multiplicity 
+problem: An alternative approach to familywise and comparison wise Typ e I error 
+control. Psychol. Methods. 4(1), 58.  https://doi -org/10.1037/1082 -989X.4.1.58  
+Kluckow, H., Telfer, J., Abraham, S. 2014. Should we screen for misophonia in patients with 
+eating disorders? A report of three cases. Int. J. Eat. Disord. 47(5), 558 –561.  
+https://doi -org/10.1002/eat.22245  
+Koroglu, S. Durat, G. 2024. Factors Associated With Misophonia: A Systematic 
+Review.  Revista Colombiana de Psiquiatría.  
+Kovacs, M., Beck, A.T. 1978. Maladaptive cognitive structures in depression. Am. J. 
+Psychiatry. 135(5), 525–533.  
+Kumar, S., Nilsen, W.J., Abernethy, A., Atienza, A., Patrick, K., Pavel, M., Swendeman, D. 
+2013. Mobile health technology evaluation: The mHealth evidence workshop. Am. J. 
+Prev. Med. 45(2), 228 –236. https://doi -org/10.1016/j.amepre.2013.0 3.017  
+Kumar, S., Tansley -Hancock, O., Sedley, W., Winston, J.S., Callaghan, M.F., Allen, M., 
+Cope, T.E., Gander, P.E., Bamiou, D -.E., Griffiths, T.D. 2017 . The brain basis for
+
+Journal Pre-proof
+Journal Pre-proof
+21 misophonia. Curr. Biol. 27(4), 527–533.  https://doi -org/10.1016/j.cub.2016.12. 048 
+Lall, R.   2016. How multiple imputation makes a difference.  Political Analysis,  24(4), 
+pp.414 -433. 
+Lewin, A. B., Dickinson, S., Kudryk, K., Karlovich, A. R., Harmon, S. L., Phillips, D. A., 
+Tonarely, N. A., & Ehrenreich -May, J. 2021. Transdiagnostic co gnitive behavioral 
+therapy for misophonia in youth: Methods for a clinical trial and four pilot cases. 
+Journal of Affective Disorders, 291 , 400 –408. 
+https://doi.org/10.1016/j.jad.2021.04.027  
+Linardon, J., Cuijpers, P., Carlbring, P., Messer, M., Fuller ‐Tyszkiewicz, M. 2019. The 
+efficacy of app ‐supported smartphone interventions for mental health problems: A 
+meta‐analysis of randomized controlled trials. World. Psychiatry. 18(3), 325 –336. 
+https://doi -org/10.1002/wps.20673  
+Linardon, J., Shatte, A., Messer, M. , Firth, J., Fuller -Tyszkiewicz, M. 2020. E -mental health 
+interventions for the treatment and prevention of eating disorders: An updated 
+systematic review and meta -analysis. J. Consult. Clin. Psychol. 88(11), 994. 
+https://doi/10.1037/ccp0000575  
+Love, S., K annis -Dymand, L., Davey, J. Freeman, J. 2022. Metacognition, rumination and 
+road rage: an examination of driver anger progression and expression in 
+Australia.  Transportation research part F: traffic psychology and behaviour,  84, pp.21 -
+32. 
+Lui, J.H., Marcus , D.K., Barry, C.T. 2017. Evidence -based apps? A review of mental health 
+mobile applications in a psychotherapy context. Prof. Psychol. Res. Pr. 48(3), 199. 
+https://doi.org/10.1037/pro0000122  
+Mattson, S.A., D'Souza, J., Wojcik, K.D., Guzick, A.G., Goodman,  W.K., Storch, E.A. 2023. 
+A systematic review of treatments for misophonia. Pers. Med. Psyhiatry. 39, 100104.
+
+Journal Pre-proof
+Journal Pre-proof
+22 McGuire, J.F., Wu, M.S., Storch, E.A. 2015. Cognitive -behavioral therapy for 2 youths with 
+misophonia. J. Clin. Psychiatry. 76(5), 573 –574. 
+https: //doi.org/10.4088/JCP.14cr09343  
+McMahon, K., Cassiello -Robbins, C., Greenleaf, A., Guetta, R., Frazer -Abel, E., Kelley, L., 
+Rosenthal, M.Z. 2024. The unified protocol for transdiagnostic treatment of emotional 
+disorders for misophonia: a pilot trial exploring acceptability and efficacy. Front. 
+Psychol. 14, 1294571. https://doi.org/10.3389/fpsyg.2023.1294571  
+Møller, A.R. 2011. Misophonia, phonophobia, and “exploding head” syndrome, in: Møller, 
+A.R., Langguth, B., De Ridder, D., Kleinjung, T. (Eds.), Te xtbook of tinnitus. 
+Springer, New York, NY. pp. 25–27.  https://doi -org/10.1007/978 -1-60761 -145-5_4 
+Moeller, S.B. 2016. The metacognitive anger processing (MAP) scale: Preliminary 
+testing.  Behavioral and Cognitive Psychotherapy,  44(4), pp.504 -509. 
+Neal, M. , Cavanna, A.E. 2013 . Selective sound sensitivity syndrome (misophonia) in a 
+patient with Tourette syndrome. J. Neuropsyciatry. Clin. Neurosci. 25(1), e01.  
+https://doi -org/10.1176/appi.neuropsych.11100235  
+Olff, M. 2015. Mobile mental health: A challenging  research agenda. Eur. J. Psychotramatol. 
+6(1), 27882 .  https://doi -org/10.3402/ejpt.v6.27882  
+Oliveira, C., Pereira, A., Vagos, P., Nóbrega, C., Gonçalves, J., Afonso, B. 2021. 
+Effectiveness of mobile app -based psychological interventions for college stude nts: A 
+systematic review of the literature. Front. Psychol. 12, 647606. 
+https://doi.org/10.3389/fpsyg.2021.647606  
+Oron, Y., Ben David, B.M., Doron, G. 2022. Brief cognitive -behavioral training for tinnitus 
+relief using a mobile application: A pilot open tr ial. Health. Informatics. J. 28(1), 
+14604582221083483 .  https://doi.org/10.1177/14604582221083483  
+Pascual -Vera, B., Roncero, M., Doron, G., Belloch, A. 2018. Assisting relapse prevention in
+
+Journal Pre-proof
+Journal Pre-proof
+23 OCD using a novel mobile app –based intervention: A case report. Bu ll. Meninger. 
+Clin. 82(4), 390-406.  https://doi.org/10.1521/bumc.2018.82.4.390  
+Potgieter, I., MacDonald, C., Partridge, L., Cima, R., Sheldrake, J., Hoare, D.J. 2019. 
+Misophonia: A scoping review of research. J. Clin. Psychol. 75(7), 1203 –1218. 
+https://do i.org/10.1002/jclp.22771  
+Rabasco, A., McKay, D. 2021 . Exposure Therapy for misophonia: Concepts and procedures. 
+J. Cogn. Psychother. 35(3), 156–166.  https://doi -org/10.1891/jcpsy -d-20-00042  
+Roncero, M., Belloch, A., Doron, G. 2018. A novel approach to cha llenging OCD related 
+beliefs using a mobile -app: An exploratory study. J. Behav. Ther. Exp. Psychiatry. 59, 
+157–160.  https://doi.org/10.1016/j.jbtep.2018.01.008  
+Roncero, M., Belloch, A., Doron, G. 2019. Can brief, daily training using a mobile app help 
+change maladaptive beliefs? Crossover randomized controlled trial. JMIR. Mhealth. 
+Uhealth. 7(2), e11443 . https://doi.org/ 10.2196/11443   
+Rosenthal, M.Z., Shan, Y., Trumbull, J. 2023. Treatment of misophonia. Adv. Psychiatry. 
+Behav. Health. 3(1), 33 –41. https ://doi.org/10.1016/j.ypsc.2023.03.009  
+Salguero, J.M., García‐Sancho, E., Ramos‐Cejudo, J.  Kannis‐Dymand, L. 2020. Individual 
+differences in anger and displaced aggression: The role of metacognitive beliefs and 
+anger rumination.  Aggressive behavior,  46(2), pp.162 -169. 
+Schröder, A., Spape, M. 2014 . Amsterdam misophonia scale –revised (AMISOS -R) 
+[Measurement instrument].   
+Schröder, A., Vulink, N., Denys, D. 2013. Misophonia: Diagnostic criteria for a new 
+psychiatric disorder. PloS One. 8(1), e54706. 
+https://do i.org/10.1371/journal.pone.0054706  
+Schröder, A.E., Vulink, N.C., van Loon, A.J., Denys, D.A. 2017 . Cognitive behavioral 
+therapy is effective in misophonia: An open trial. J. Affect. Disord. 217, 289–294.
+
+Journal Pre-proof
+Journal Pre-proof
+24 https://doi.org/10.1016/j.jad.2017.04.017  
+Spielberg er, C. D., Johnson, E. H., Russell, S. F., Crane, R. J., Jacobs, G. A., Worden, T. J. 
+1985. The experience and expression of anger: Construction and validation of an 
+anger expression scale. In M. A. Chesney& R. H. Rosenman (Eds.), Anger and 
+hostility in ca rdiovascular and behavioral disorders(pp. 5 -30). New York: Hemisphere  
+Sukhodolsky, D.G., Golub, A., Cromwell, E.N.2001. Development and validation of 
+the anger rumination scale.  Personality and individual differences , 31(5), pp.689 -700. 
+Taylor, S. 2017. Mi sophonia: A new mental disorder? Med. Hypotheses. 103, 109 –117. 
+https://doi.org/10.1016/j.mehy.2017.05.003  
+Tonarely -Busto, N. A., Phillips, D. A., Saez -Clarke, E., Karlovich, A., Kudryk, K., Lewin, A. 
+B., & Ehrenreich -May, J. 2023. Applying the Unified Pro tocol for transdiagnostic 
+treatment of emotional disorders in children and adolescents to misophonia: A case 
+example. Evidence -Based Practice in Child and Adolescent Mental Health, 8 (1), 133 –
+147. https://doi.org/10.1080/23794925.2022.2025631  
+Tremblay, P.F., Dozois, D.J. 2009 . Another perspective on trait aggressiveness: Overlap with 
+early maladaptive schemas. Pers. Individ. Dif. 46(5–6), 569–574.  
+https://doi.org/10.1016/j.paid.2008.12.009  
+Vallejo, G., Fernández, M.P., Livacic -Rojas, P.E. Tuer o-Herrero, E. 2011. Comparison of 
+modern methods for analyzing repeated measures data with missing 
+values.  Multivariate Behavioral Research,  46(6), pp.900 -937. 
+Van Buuren, S. Groothuis -Oudshoorn, K. 2011. mice: Multivariate imputation by chained 
+equations in R.  Journal of statistical software,  45, pp.1 -67. 
+Vitoratou, S., Hayes, C., Uglik -Marucha, N., Pearson, O., Graham, T. Gregory, J. 2023. 
+Misophonia in the UK: Prevalence and norms from the S -Five in a UK representative 
+sample.  PLoS One,  18(3), p.e0282777 .
+
+Journal Pre-proof
+Journal Pre-proof
+25 Wu, M.S., Lewin, A.B., Murphy, T.K., Storch, E.A. 2014 . Misophonia: Incidence, 
+phenomenology, and clinical correlates in an undergraduate student sample. J. Clin. 
+Psychol. 70(10), 994–1007 .  https://doi -org/10.1002/jclp.22098  
+Zhou, X., Wu, M.S., Storch, E.A. 2017. Misophonia symptoms among Chinese university 
+students: Incidence, associated impairment, and clinical correlates. J. Obsessive. 
+Compuls. Relat. Disord. 14, 7 –12. https://doi.org/10.1016/j.jocrd.2017.05.001
+
+Journal Pre-proof
+Journal Pre-proof
+26 Figure Captions  
+Figure 1. Procedure Flow Chart  
+Note . iApp study (intervention) group; dApp: control (delayed) group.  
+ 
+Figure 2. Participants Flow  
+ 
+Figure 3.  Graphs of the Outcome Measures Across T0 and T1 for iApp and dApp 
+Groups   
+Note . MAP -R = Metacognition and Anger Processing Scale -Rumination, ARS = 
+Anger Rumination Scale, MISO -SCREE = Misophonia Screening Scale, A -MISO -S = 
+Amsterdam Misophonia Scale, AMISOS -R = Amsterdam Misophonia Scale -Revised.  
+Figure 4.  Mediation Model of Condit ion Effects on Misophonia Symptoms via Meta -
+Cognitions and Ruminations  
+Note . Results shown after controlling doe baseline symptoms, meta cognitions, 
+ruminations, gender, and age.
+
+Journal Pre-proof
+Journal Pre-proof
+27 Tables  
+Table 1 
+Cronbach’s Alpha Values for Misophonia Measurements Across  Assessment Points  
+Measurement  Assessment 
+T0 (N = 85)  Assessment 
+T1 (N = 85)  Assessment 
+T2 (N = 45)  Assessment 
+T3 (N = 85)  
+MISO -SCREE  α = .87  α = .82  α = .72  α = .79  
+A-MISO -S α = .66  α = .63  α = .59  α = .62  
+AMISOS -R α = .87  α = .80  α = .77  α = .77  
+Note . MISO -SCREE = Misophoia Screening Scale; A -MISO -S = Amsterdam 
+Misophonia Scale; AMISOS -R = Amsterdam Misophonia Scale -Revised.  
+ 
+Table 2 
+Sociodemographic Variables and Outcome Measures at Baseline: Comparisons 
+Between Immediate -Use App (iApp) Group and Del ayed -Use App (dApp) Group  
+Demographic  iApp Group  
+M (SD) 
+(N = 40)  dApp Group  
+M (SD) 
+(N = 45)  t(83) p 
+Gender      
+Male  6 5   
+Female  34 40   
+Age 35.58 (10.76)  37.58 (11.40)  -0.83 0.93 
+Education  2.08 (0.79)  1.73 (0.72)  2.08 0.85 
+High School  10 18   
+BA/BS  18 22   
+MA 11 4   
+PHD  1 1   
+STAXI -T 2.31 (0.54)  2.30 (0.59)  0.10 0.35 
+MAP -R 2.40 (0.59)  2.36 (0.63)  0.49 0.66 
+ARS total  2.50 (0.56)  2.28 (0.58)  1.83 0.87 
+MISO -SCREE  2.75 (0.72)  2.67 (0.60)  0.49 0.15 
+A-MISO -S 2.00 (0.60)  2.08 (0.50)  0.72 0.39 
+AMISOS -R 3.51 (0.58)  3.50 (0.60)  0.05 0.73 
+Note.  STAXI -T = State -Trait Anger Expression Inventory -Trait Anger; MAP -R = 
+Metacognition and Anger Processing Scale -Rumination; ARS = Anger Rumination 
+Scale; MISO -SCREE = Misophonia Screening Scale; A -MISO -S = A msterdam 
+Misophonia Scale; AMISOS -R = Amsterdam Misophonia Scale -Revised.
+
+Journal Pre-proof
+Journal Pre-proof
+28 Table 3 Intercorrelations Between Study Variables at T0 (N = 85)  
+Variable  STAXI  MAP  ARS MISO -SCREE  A-MISO -S AMISOS -R 
+STAXI -T - - - - - - 
+MAP -R 0.71**  - - - - - 
+ARS 0.54**  0.60**  - - - - 
+MISO -SCREE  0.48**  0.46**  0.34**  - - - 
+A-MISO -S 0.39**  0.31**  0.24*  0.54**  - - 
+AMISOS -R 0.40**  0.32**  0.35**  0.69**  0.69**  - 
+Note . STAXI -T = State -Trait Anger Expression Inventory -Trait Anger; MAP -R = 
+Metacognition and Anger Processing Scale -Rumination; ARS = Anger Rumination 
+Scale; MISO -SCREE = Misophonia Screening Scale; A -MISO -S = Amsterdam 
+Misophonia Scale; AMISOS -R = Amsterdam Misophonia Scale -Revised.  
+*p < .05; ** p < .01.  
+Table 4 Means, Standard Deviations, and Comparisons Across  T0 and T1 for iApp 
+and dApp Groups  
+ T0 T1 Time  Group  Time x Group  
+ M (SD) M (SD) F 
+(83,
+1) p d F 
+(83,
+1) p d F 
+(83,
+1) p d  iAp
+p dAp
+p iAp
+p dAp
+p 
+Anger 
+measure              
+MAP -
+R 2.4
+2 
+(0.6
+0) 2.3
+6 
+(0.6
+3) 2.2
+1 
+(0.5
+4) 2.3
+7 
+(0.6
+0) 3.75
+8 0.0
+56 0.
+42 0.1
+44 0.7
+05 0.0
+90 4.6
+45 0.0
+34 0.
+47 
+ARS 2.5
+0 
+(0.5
+5) 2.2
+0 
+(0.5
+8) 2.3
+6 
+(0.5
+4) 2.3
+3 
+(0.5
+0) 0.91
+7 0.3
+41 0.
+21 1.3
+51 0.2
+48 0.2
+50 4.6
+42 0.0
+35 0.
+47 
+Misophonia 
+symptom              
+MISO
+-
+SCR
+EE 2.7
+5 
+(0.7
+2) 2.6
+7 
+(0.6
+) 2.4
+5 
+(0.7
+0) 2.6
+0 
+(0.5
+5) 14.8
+90 0.0
+00 0.
+85 0.1
+05 0.7
+46 0.0
+63 5.7
+02 0.0
+19 0.
+52 
+A-
+MISO
+-S 2.0
+0 
+(0.6
+0) 2.0
+8 
+(0.5
+) 1.9
+6 
+(0.6
+4) 2.0
+1 
+(0.5
+4) 0.75
+6 0.3
+87 0.
+19 0.4
+08 0.5
+25 0.1
+40 0.0
+70 0.7
+92 0.
+06
+
+Journal Pre-proof
+Journal Pre-proof
+29 Note . MAP -R = Metacognition and Anger Processing Scale -Rumination; ARS = 
+Anger Rumination Scale; MISO -SCREE = Misophonia Screening Scale; A -MISO -S = 
+Amsterdam Misophonia Scale; AMISOS -R = Amsterdam Misophonia Scale -Revised.  
+ 
+Table 5 
+Means, Standard Deviations, and Comparisons Across Three Time Points for iApp 
+and Four Time Points for dApp Groups  
+Measure  Group  T0 
+M 
+(SD) T1 
+M 
+(SD) T2 
+M 
+(SD) T3 
+M 
+(SD) F 
+(39,1)  
+F 
+(44,1)  p Cohen’s 
+d Post-
+hoc 
+MAP -R iApp 2.42 
+(0.59)  2.21 
+(0.55)  - 2.20 
+(0.51)  7.788  0.008  0.89 T0 vs 
+T1, p = 
+0.015  
+T0 vs 
+T3, p = 
+0.020  
+T1 vs 
+T3, p = 
+1.000  
+ dApp  2.36 
+(0.63)  2.37 
+(0.60)  2.09 
+(0.42)  2.15 
+(0.40)  9.097  0.004  0.90 T0 vs 
+T1, p = 
+1.000  
+T0 vs 
+T2, p = 
+0.030  
+T0 vs 
+T3, p = 
+0.130  
+T1 vs 
+T2, p = 
+0.002  
+T1 vs 
+T3, p = 
+0.025  
+T2 vs 
+T3, p = AMIS
+OS-R 3.5
+1 
+(0.5
+8) 3.5
+0 
+(0.6
+) 3.2
+0 
+(0.5
+7) 3.4
+1 
+(0.5
+7) 11.3
+10 0.0
+01 0.
+70 0.8
+64 0.3
+55 0.2
+00 3.2
+99 0.0
+73 0.
+40
+
+Journal Pre-proof
+Journal Pre-proof
+30 1.000  
+ARS iApp 2.50 
+(0.56)  2.36 
+(0.54)  - 2.31 
+(0.55)  8.528  0.006  0.93 T0 vs 
+T1, p = 
+0.127  
+T0 vs 
+T3, p = 
+0.027  
+T1 vs 
+T3, p = 
+-0.094  
+ dApp  2.28 
+(0.58)  2.33 
+(0.50)  2.08 
+(0.41)  2.11 
+(0.40)  7.980  0.007  0.85 T0 vs 
+T1, p = 
+1.000  
+T0 vs 
+T2, p = 
+0.039  
+T0 vs 
+T3, p = 
+0.271  
+T1 vs 
+T2, p = 
+0.000  
+T1 vs 
+T3, p = 
+0.029  
+T2 vs 
+T3, p = 
+1.000  
+MISO -
+SCREE  iApp 2.74 
+(0.72)  2.35 
+(0.70)  - 2.43 
+(0.63)  19.500  0.000  1.41 T0 vs 
+T1, p = 
+0.000  
+T0 vs 
+T3, p = 
+0.000  
+T1 vs 
+T3, p = 
+1.000
+
+Journal Pre-proof
+Journal Pre-proof
+31  dApp  2.67 
+(0.60)  2.60 
+(0.55)  2.18 
+(0.51)  2.28 
+(0.45)  33.560  0.000  1.75 T0 vs 
+T1, p = 
+1.000  
+T0 vs 
+T2, p = 
+0.000  
+T0 vs 
+T3, p = 
+0.000  
+T1 vs 
+T2, p = 
+0.000  
+T1 vs 
+T3, p = 
+0.000  
+T2 vs 
+T3, p = 
+0.885  
+A-MISO -
+S iApp 2.00 
+(0.60)  1.96 
+(0.64)  - 1.82 
+(0.58)  3.773  0.059  0.62 T0 vs 
+T1, p = 
+1.000  
+T0 vs 
+T3, p = 
+0.178  
+T1 vs 
+T3, p = 
+1.000  
+ dApp  2.08 
+(0.50)  2.01 
+(0.54)  1.80 
+(0.44)  1.84 
+(0.45)  8.820  0.005  0.89 T0 vs 
+T1, p = 
+1.000  
+T0 vs 
+T2, p = 
+0.015  
+T0 vs 
+T3, p = 
+0.100  
+T1 vs 
+T2, p = 
+0.116  
+T1 vs 
+T3, p = 
+0.405
+
+Journal Pre-proof
+Journal Pre-proof
+32 T2 vs 
+T3, p = 
+1.000  
+A-
+MISOS -
+R iApp 3.51 
+(0.58)  3.20 
+(0.57)  - 3.15 
+(0.60)  22.369  0.000  1.51 T0 vs 
+T1, p = 
+0.001  
+T0 vs 
+T3, p = 
+0.000  
+T1 vs 
+T3, p = 
+1.000  
+ dApp  3.50 
+(0.60)  3.41 
+(0.57)  2.92 
+(0.60)  3.13 
+(0.54)  22.790  0.000  1.43 T0 vs 
+T1, p = 
+1.000  
+T0 vs 
+T2, p = 
+0.000  
+T0 vs 
+T3, p = 
+0.004  
+T1 vs 
+T2, p = 
+0.000  
+T1 vs 
+T3, p = 
+0.014  
+T2 vs 
+T3, p = 
+0.144  
+Note . MAP -R = Metacognition and Anger Processing Scale -Rumination; ARS = 
+Anger Rumination Scale; MISO -SCREE = Misophonia Screening Scale; A -MISO -S = 
+Amsterdam Misophonia Scale; AMISOS -R = Amsterdam Misophonia Scale -Revised.
+
+Journal Pre-proof
+Journal Pre-proof
+33 Path   
+R2  F    
+df
+1 
+  
+df
+2 Bet
+a p  
+SE  
+t-
+valu
+e Boo
+t 
+Indir
+ect 
+Effe
+ct Boo
+t 
+SE 95
+% 
+CI 
+(LL) 95
+% 
+CI 
+(UL
+) 
+Total 
+and 
+Direct 
+Effects  Total 
+Effect 
+of 
+Condi
+tion 
+on 
+T1SC
+REE 0.6
+553 24.
+71 6 7
+8 -
+0.11
+59 0.0
+085 0.0
+429 -
+2.6
+993   -
+0.2
+013 -
+0.0
+304 
+ 
+Direct 
+Effect 
+of 
+Condi
+tion 
+on 
+T1SC
+REE 0.6
+643 18.
+79 8 7
+6 
+-
+0.11
+42 0.0
+118
+  0.0
+443 -
+2.5
+798   -
+0.2
+024 -
+0.0
+260 
+Rumin
+ations 
+Path Condi
+tion -> 
+T1MM
+R 0.5
+11 13.
+92 6 7
+8 -
+0.1
+041 0.0
+284 0.0
+466 -
+2.2
+339   -
+0.1
+970 -
+0.0
+113 
+ T1MM
+R -> 
+T1SC
+REE 0.6
+643 18.
+79 8 7
+6 -
+0.0
+759 0.5
+284
+  0.11
+98 -
+0.6
+334   -
+0.3
+144 0.4
+557 
+ Indir
+ect 
+effec
+t     
+    0.00
+79 0.0
+124 -
+0.0
+177 0.0
+327 
+Anger 
+Meta -
+Cogniti
+ons 
+Path Condi
+tion -> 
+T1MA
+RST 0.5
+244 14.
+34 6 7
+8 -
+0.0
+503 0.2
+322 0.0
+418 -
+1.2
+040   -
+0.1
+336 0.0
+329 
+ 
+T1MA
+RST -
+> 
+T1SC
+REE 0.6
+643 18.
+79 8 7
+6 0.1
+897 0.1
+595 0.1
+335 1.4
+206   -
+0.0
+763 0.4
+557 
+ 
+Indir
+ect 
+effec
+t     
+    -
+0.00
+96 0.0
+128 -
+0.0
+402 0.0
+113 
+ Table 6 Total, Direct, and Indirect Effect of condition, Ruminations and Anger Meta -
+Cognitions  
+Note . T1MARST -Total score of Anger Rumination Scale at T1, T1SCREE - Total score of Misophonia Screening 
+Scale at T1,  T1MMR - Total score of Metacognition and Anger Processing Scale -Rumination at T1  
+CRediT author statement  
+acknowledgement: none
+
+Journal Pre-proof
+Journal Pre-proof
+34  Funding source:none  
+Prof’ Guy Dor on: Conceptualization, Methodology, Software,  Resources 
+supervision  
+Hadar Even Ezra : Investigation: Data collecting, Writing,  Formal analysis  
+Dr Tamar Podoly: Writing - Reviewing and Editing,  Formal analysis, Visualization
+
+Journal Pre-proof
+Journal Pre-proof
+35 Highlights  
+Negative emotions like anger are common reactions to human noises in misophonia  
+Daily training with a mobile app may reduce anger rumination and misophonia 
+symptoms  
+Improvements in anger rumination were maintained at a 1 -month follow -up 
+Results highlight the potential of c ost-effective, accessible mHealth interventions

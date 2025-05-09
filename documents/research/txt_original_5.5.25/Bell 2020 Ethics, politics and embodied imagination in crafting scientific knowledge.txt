@@ -1,0 +1,543 @@
+human relationshttps://doi.org/10.1177/0018726719876687human relations
+2020, Vol. 73(10) 1366 –1387
+© The Author(s) 2019
+Article reuse guidelines:  
+sagepub.com/journals-permissions
+DOI: 10.1177/0018726719876687
+journals.sagepub.com/home/humEthics, politics and embodied 
+imagination in crafting  scientific knowledge
+Emma Bell
+Open University, UK
+Hugh Willmott
+City University, UK and Cardiff Business School, UK
+Abstract
+This article explores ‘research-as-craft’ as a sensitizing concept for disclosing the presence of ethics and politics, as well as embodiment and imagination, in the doing and representation of scientific activity. Routinely unnoticed, marginalized or suppressed in methodology sections of articles and methodology textbooks, research-as-craft gestures towards messy, tacit, uncertain, yet rarely thematized, practices that are central to getting science done. To acknowledge and address the significance of research-as-craft in knowledge production, we show how it relates to three forms of reflexivity – constitutive, epistemic and disruptive. Through this we demonstrate the craftiness that is required when struggling with the indeterminacy that is endemic to the production and communication of scientific knowledge. By showing how empirical situations require imaginative interpretation by embodied researchers, we argue that our conception of research-as-craft facilitates appreciation of scientific inquiry as an indexical activity that involves the crafted object and the researcher in an ethico-political process of co-constituting knowledge.
+Keywords
+Craft, ethics, knowledge, methodology, reflexivity
+Corresponding author:
+Emma Bell, Open University, Walton Hall, Milton Keynes, MK7 6AA, UK. Email: emma.bell@open.ac.uk876687 HUM 0010.1177/0018726719876687Human RelationsBell and Willmott
+research-article 2019
+
+Bell and Willmott 1367
+‘Craft’ is used figuratively and as a synonym, to characterize the process of generating 
+and disseminating social and natural scientific knowledge (Bernard, 2006; Beuving and De Vries, 2015; Booth et al., 2016; Kvale and Brinkmann, 2009; Prasad, 2005; Vagle, 2016). Bernard (2006: 1, emphases in original) declares that: ‘[r]esearch is a craft. I’m not talking analogy here. Research isn’t like a craft. It is a craft’. Frequent but rarely elaborated reference is made to ‘craft’ when characterizing aspects of scientific knowl-edge production, especially in qualitative inquiry (Atkinson, 2013; Liberman, 1999; O’Connor, 2017), including in management and organization studies (Baer and Shaw, 2017; Patriotta, 2017). Yet there has been little sustained reflection on the significance of craft as a means of advancing self-understanding in scientific work, and thereby inform-ing research practice. To address this anomaly, we commend the notion of research-as-craft to thematize what is opaque, yet signified by ‘craft’ in research practice. We therefore seek to facilitate a more purposive enactment of research-as-craft.
+Etymologically, craft is polysemic.
+1 It speaks to the embodied, imaginative, ethical and 
+political nature of practice. Reference to craft typically evokes dedication to the perfection of practice based on the acquisition of embodied skill over time (Sennett, 2008), a dedica-tion rendered intrinsically problematic by the presumption of perfection (Clarke and Knights, 2018). With regard to scientific practice, attentiveness to research-as-craft is congruent with ‘calls for continued deliberation and innovation – in particular, delibera-tion over the ontological relation between self (as researcher) and Other (as researched)’ (Rhodes, 2009: 665). Relatedly, craft is invoked to signal scientists’ struggles with inde-terminacy in the research process (Collins and Pinch, 1993; Latour and Woolgar, 1986; Pinch, 1981) that defy the certainties to which ‘idealized notions of expertise’ aspire but ‘axiomatically are impossible to achieve’ (Clarke and Knights, 2018: 1396). It is the ‘indeterminacy inherent in social action’ (Knorr-Cetina, 1983: 134) in producing and dis-seminating scientific knowledge that frustrates the realization of idealized characteriza-tions attributed to openness of judgement as an ideal of scientific practice.
+2 Craft gestures 
+to what, in the social sciences, Klag and Langley (2013: 163) term ‘the mysterious dimen-sion of qualitative methodology’, a feature they describe as ‘magical’ but which we char -
+acterize as ‘crafted’ and ‘crafty’, although we argue here that this term should not be reserved for qualitative research. Its broader relevance is indicated by Pinch (1981: 151) when he observes that ‘[c]raft practices . . . enable the scientist to get on with the every-
+day business of doing science [emphasis in the original]’ before commenting that because scientific practices ‘rest on tacit knowledge, they are frequently messy, and they cannot be easily generalized outside the local situation’. In short, craft is important for understand-ing and informing our practices as (social) scientists: it is central to getting science done. But in accounts of research practice, craft(iness) is merely glimpsed and gestured towards, rather than registered or appreciated as scientists – natural and social – may be only dimly aware of the presence and significance of their craft(iness).
+In management and organization studies, recognition of craft as central to processes of 
+knowledge production is signalled but unelaborated by Prasad (2005: 7, emphasis added) when she characterizes ‘science in practice’ as ‘an inventive form of craftsmanship that is constantly engaged in adjusting and reconfiguring scientific protocols to meet the vagar -
+ies of each unique empirical situation’. Acknowledgement of the ‘uniqueness’ of context is critical but its features should not be regarded as self-evident. This is because each
+
+1368 Human Relations 73(10)
+empirical situation must be interpreted imaginatively, or craftily, by embodied researchers 
+working within communities of practice (Bourdieu et al., 1991; Lave and Wenger, 1991). Since this indexical
+3 (and reflexive) quality of research practice is generally taken for 
+granted, disregarded or suppressed, researchers are ‘largely left in the dark’ (Van Maanen et al., 2007: 1149). To thematize the presence of craft in research, and redress its neglected significance, we propose ‘research-as-craft’ as a sensitizing concept.
+4 In addition to devel-
+oping awareness of the embodied (Sudnow and Dreyfus, 2001), imaginative (Weick, 1969) nature of knowledge production, we commend the concept of research-as-craft to strengthen appreciation of its political and ethical formation and effects (Haraway, 1988).
+By ethics we do not mean a set of ‘rules, virtues or formulas [or protocols] that is used 
+to ensure or judge righteousness’ (Rhodes and Carlsen, 2018: 1297). Rather, we commend a conception of ethics-in-practice characterized by complexities in the conduct of research that resist mechanical application of rules (Derrida, 2002; Guillemin and Gillam, 2004). Struggles with such complexities are marked by vulnerability and conditioned by events that escape prediction and control, as ‘one’s own knowledge and self-understanding are themselves [rendered] open to question through the research encounter’ (Rhodes and Carlsen, 2018: 1297). Research-as-craft conceives of knowledge producers as embodied beings who struggle imaginatively with ‘the radical contingency [of social objectivity] that mark[s] our inquiries, our lives’ (Bernstein, 1991: 336). Codes or virtues may inform strug-gles with indeterminacy but, ultimately, an ethical leap is required. Understood in this way, research, as a craft, ‘is always and inextricably fused with the ethics of our relations with the people we study’ (Liberman, 1999: 55). By politics, we mean the mobilization of mate-rial and symbolic resources to produce and disseminate knowledge. The production of scientific knowledge is thus understood recursively as embedded in institutional contexts that it actively reproduces and, potentially, transforms.
+When indeterminacy is considered, or assumed, to be intrinsic to social worlds, then 
+reflexivity is required to establish and maintain a sense of their stability and continuity – that is, their social objectivity. Reflexivity is constitutive of social worlds, including the worlds in which science is generated and communicated. Whether acknowledged or not, we conceive of research practices as inherently reflexive, involving a measure of craft(iness) in coping with indeterminacy and thereby evading dislocation and ‘reality disjuncture’ (Pollner, 1987: 67). We begin by thematizing the role of craft in knowledge production in relation to three forms of reflexivity – constitutive, epistemic and disrup-tive. We then argue that the invocation of craft in accounts of research practice points to the significance of indeterminacy and disruptive reflexivity. Next, we address two key aspects of research-as-craft, imagination and embodied knowing, before showing how invocations of craft in accounts of research practice signal the importance of politics and ethics in generating, evaluating and disseminating knowledge. In conclusion, we con-sider the implications of craft for researchers’ self-understanding and the practice of social scientific inquiry.
+Mobilizing reflexivities
+In addition to being imaginative and embodied, etymologically, ‘craft’ connects the application of skill to the ethics of self-formation (see note 1). It encompasses ‘the power
+
+Bell and Willmott 1369
+to control one’s own pattern of life, its shape and speed, to resist through the process of 
+making and designing’ (Greenhalgh, 2002: 8). This capability, and the responsibilities arising from researchers’ involvement in representing and changing their objects of study, invites consideration of reflexivity in processes of knowledge production. Exemplified by a capacity to become aware of ‘how knowledge changes its own object’ (Smith, 2005: 12; see also Alvesson et al., 2008; Bourdieu, 2004), the significance of reflexivity for research resides in the provision of ‘a guard against . . . the assumption 
+that there is an unproblematic relationship between us and the world, including social scientific practices and its products, which results in a valid and reliable representation of the world’ (May and Perry, 2017: 4).
+In the absence of reflexivity, research findings, and the assumptions on which they are 
+based, are treated as quasi-autonomous, fetishized nuggets of knowledge, acquired with-out regard to their sensuous and socially organized production and application. Such an approach to the production of knowledge (re)produces an objectivistic sense of being ‘in the world, not with the world’ (Freire, 2005: 75, emphases in original). The Cartesian separation between subject (researcher) and object (researched) contrives to bestow credibility on knowledge that is declared to be devoid of subjectivity, and therefore neu-tral and objective (Sandberg and Tsoukas, 2011). Conversely, when this dualism is placed in question by a dialectical understanding of the subject–object relationship, claims to neutrality are reframed as expressions of ideology, not least because those claims are seen to dissemble or mystify the political and ethical conditions and consequences of scientific knowledge production.
+To explain the relation of subject and object, we distinguish three forms of reflexivity: 
+constitutive, epistemic and disruptive. The first form, constitutive reflexivity, affords a suspension of doubt about the reality of social objectivity. The operation of constitutive reflexivity enables actors to maintain what Giddens (1979: 128) terms ‘the basic security system’ that underpins the (re)production of social realities, including everyday and sci-entific life-worlds. Constitutive reflexivity is articulated as ‘knowledgeability’ which comprises everything known by actors – tacitly and discursively – about how to ‘carry on’ their activity (Giddens, 1984: 375). It is a ubiquitous condition of the ongoing pro-duction of social/material order(ing) in its diverse forms. So endemic that it is ‘seen but unnoticed’ (Garfinkel, 1967), constitutive reflexivity ensures a sense of self-evidence or taken-for-grantedness. The ‘knowledgeability’ accomplished by constitutive reflexivity provides an accountable (sense of) lay and scientific orderliness that is, however, inher -
+ently vulnerable to disjuncture. Its fragility is demonstrated when lay or scientific routine is breached resulting, in extremis, in the collapse or breakdown of the ‘basic security 
+system’ (Giddens, 1979) as manifest, in the scientific realm, in a paradigm shift (Kuhn, 1969). A routine example of constitutive reflexivity is the identification of a ‘publishable article’ by reviewers following its submission to a scholarly journal, thereby fixing its (previously undecided) status. This status is nonetheless vulnerable to disjuncture, as when an editor overrides the assessment of reviewers, or when the publishable status of an article is placed in question by allegations of fraud or defamation.
+Second, epistemic reflexivity is mobilized when testing, and thereby warranting or 
+falsifying, the validity of knowledge claims. Epistemic reflexivity interrogates the plausi-bility, and ultimately the truth, of manifestations of knowledgeability. Centrally, it
+
+1370 Human Relations 73(10)
+warrants claims to objectivity. Epistemic reflexivity is distinguished by its adoption of a 
+God-like position from which ‘a methodological basis for enhancing objectivity’ (Lynch, 2000: 26) is established. This form of reflexivity assumes and promotes a sense of sover -
+eignty by revealing and removing extra-epistemic influences (e.g. biases) in knowledge production (Rouse, 1996). In the context of a pre-modern, medieval worldview, the appli-cation of distinctive, scientific epistemic reflexivity challenged established practices which were regarded as an impediment to innovations and progress promised by science. In the modern context, the target of epistemic reflexivity is indeterminacy, manifest as uncertainty or equivocation. It advocates the refinement of ‘technique’ as the means of removing sources of indeterminacy (e.g. bias), thereby warranting objectivity (Bell et al., 2017). Mastery of technique, whether quantitative or qualitative, is presumed ‘to display a discovered order with a high degree of fidelity and verisimilitude’ (Deetz, 1996: 197). Epistemic reflexivity is engaged by diverse producers of knowledge – from scientific Marxists to evidence-based positivists – when striving to validate their knowledge claims. In management and organization studies, epistemic reflexivity is apparent in what Cornelissen (2017): 376 characterizes as ‘factor analytic’ approaches but is pervasive through variants of neopositivism (Johnson et al., 2006; Prasad and Prasad, 2002).
+To illustrate the limitations of epistemic reflexivity in dealing with the contingencies 
+of research, we use an example from the domain of culinary science. Molecular gas-tronomy works within ‘the regimes of experimental deduction’ (Roosth, 2013: 8) to pur -
+sue a decontextualized science of food preparation that disregards ‘interactions of people with national, familial, and ethnic identities, senses of nostalgia, taste and historicity’ (2013: 12). In such research contexts ‘the unity of science, craftsmanship and artistic quality’ (Gustavsson, 2004: 11) becomes fragmented – with the consequence that faith in the superiority of an idealized, monist conception of science drives out ‘every other pos-sibility of revealing’ (Heidegger, 1977: 14; see also Collins, 1999) in a manner that paral-lels ‘abstracted empiricism’ in the social sciences (Mills, 1959: 50).
+Finally, disruptive reflexivity amplifies doubt by breaching convention and challeng-
+ing the basis of knowledge claims. It attends to what knowledge produced according to the principles of epistemic reflexivity ‘is not capable of saying’ (Alvesson and Sköldberg, 2000: 246). This form of reflexivity thereby challenges applications of epistemic reflex-ivity where craft(iness) is required, but is confined to the service of refining technique. It points to contingencies, paradoxes and uncertainties in (social) scientific endeavour, and so attends to how claims to objectivity may obfuscate their contingency. This amplifies a central lesson concerning the pervasiveness of constitutive reflexivity: namely, that ‘a necessary feature of action is its partial indeterminacy’ (Nicolini, 2013: 48). Indeterminacy may be obscured but it cannot be removed as everyone is a participant in the ‘reflexive and self-reflexive project of monitoring, sense-making and control’ and we are also ‘caught up in its uncertainty, its incompleteness, its plurality’ (Law, 2004: 2). Disruptive reflexivity recalls the limits of order generated by constitutive and epistemic reflexivity as it ‘reclaim[s] conflicts suppressed in everyday life realities, meaning systems and self conceptions’ (Alvesson and Deetz, 2000: 203), including the symbolic universes of sci-ence and its exponents. It is attentive to how every remedy for dis-order, as sought out by constitutive and epistemic reflexivity, is irredeemably vulnerable to unintended (circum-stantial) or deliberate (reflexive) disruption.
+
+Bell and Willmott 1371
+Disruptive reflexivity deconstructs the orderly, reductionist objectification of craft(y) 
+practices to ‘mere’ skill. It also discloses the contingency of the boundaries that define the 
+meaning of constructs, such as craft, as it debunks their apprehension as something exter -
+nal comprising distinctive, observable and measurable elements, rather than viewing this boundary as an unstable outcome of processes of co-production within asymmetrical rela-tions of power. This enables understanding of how, for example, procedures of concept clarification, specification of variables, and testing of propositions, are enacted through normative (ethical and political) practices. It recalls how, in practice, clarity, specificity and testing are products of (normalized) convention, not unforced consensus. Hence, a one-sided, undialectical approach limited by epistemic reflexivity can be maintained only by excluding or suppressing what does not comply with, and thereby affirm, the approved procedures of what Hirsch and Levin (1999) term ‘validity policing’.
+However, because disruptive reflexivity does not succumb to performing a ‘god trick’ 
+(Lynch, 2000: 26), it may problematize but it cannot invalidate their claims (Anderson and Sharrock, 2015: 6). Rather, it draws attention to the inherent impossibility of such ambition. The allure of omniscience to which Anderson and Sharrock (2015) refer is perennial, but consistent application of this form of reflexivity heightens sensitivity to ethico-political conditions and consequences of producing knowledge. This sensitivity is exemplified by Marks (2008) in a social scientific study of how knowledge about stem cells is produced. When attending to the restrictiveness and limits of scientific reflection (2008: 243), while acknowledging that her analysis is itself perspectival, she writes:
+Although I am committed to helping scientists be more reflexive by giving them a sociologically 
+informed understanding of their knowledge, I do not argue that my knowledge claims are more truthful than theirs. They are instead offered as ways to open-up for examination and change the 
+already-existing, often crystallised, and sometimes problematic forms of public engagement. 
+Thus, the interpretative reflexivity I am advocating is different to Bourdieu’s reflexivity thesis, and social scientific understandings are not seen as truer than natural scientific or commonsensical ones. (2008: 236, emphases in original)
+Marks’ stance distances the knowledge claims generated by disruptive reflexivity, or 
+what she terms ‘interpretative reflexivity’ (2008: 31), from those generated by epistemic 
+reflexivity, which assumes the possibility of transcending contingency to attain objectively ‘truer’ understandings. Her stance is, unfortunately, easily mis-read, especially by those steeped in epistemic reflexivity, as advocating a position that aspires to displace, rather 
+than one that seeks to debate, existing ways of making sense of the effects of definition and classification. We, in contrast, interpret Marks’ attentiveness to contingency as resonant with an understanding of craft as ‘the workmanship of risk’ (Pye, 1995: 20)  in which there is an awareness of how ‘the quality of the result is continuously at risk during the process of making’ (1995: 20). Contingency is recognized through the situatedness of practice, particularity of materials, and above all, is associated with the limitations of knowledge producers who are not ‘all-seeing gods’ but ‘very much part of what we survey’ (Chia, 1996: 54). In sum, the contribution of disruptive reflexivity is not to advance, refine or falsify claims to objectivity found in ‘the workmanship of certainty’ but rather to value and maintain openness, thereby permitting new possibilities.
+
+1372 Human Relations 73(10)
+It is important to caveat these claims by emphasizing the limits to disruption, or what 
+we might wish to conserve from current practices of knowledge production. We illustrate 
+this using the example of the academic peer review process as a potentially productive site for greater disruption of epistemic and normative conventions and customs. At the same time, we suggest there are certain normative and ethical aspects of these practices that deserve to be supported and maintained. Disruptive reflexivity is necessary in order to challenge the semblance of openness that is associated, for example, with State-led research assessment exercises, which selectively use peer review to legitimate the restructuring of higher education institutions and withdrawal of funding from individuals and departments (Willmott, 2003). It is also needed to resist systems of knowledge pro-duction associated with highly ranked journals, which use peer review to prioritize, and occasionally fetishize, epistemic reflexivity at the expense of disruptive reflexivity, resulting in elitist, conservative systems of producing knowledge that tend to exclude other ways of knowing that are not compliant with these (restrictive) norms (Bell et al., 2017). However, some aspects of peer review systems of knowledge production have ethico-political or crafty potential that warrants their ongoing support. This arises as knowledge producers – including journal editors, reviewers and authors – develop affec-tive relations between themselves and the ‘objects’ they engage with (Bell and Bridgman, 2019). Similar to the craftsperson, these embodied, enacted and sensuous practices are characterized by care or love (Kiriakos and Tienari, 2018), rather than self-aggrandise-ment or defensiveness.
+The significance of craftiness: Working with indeterminacy
+As the preceding discussion highlights, the significance of craft in the social sciences arises from indeterminacy that mobilizes constitutive, epistemic and disruptive reflexiv-ity. Indeterminacy is evident in the ‘insecurity regarding the basic assumptions, discourse and practice used in describing reality’ (Pollner, 1991: 370). Indeterminacy defies every-day as well as scientific closure. As Amis and Silk (2008; see also Sandberg, 2005) note, recognition of indeterminacy is acknowledged and embraced by exponents of a post-foundationalist orientation to the production of social scientific knowledge. Instead of striving to establish the adequacy of categories, research-as-craft attends to the ‘moral, social and political consequences, of constructing categories’ (Amis and Silk, 2008: 467). Researchers who disregard or deny the significance of indeterminacy are more inclined to favour a form of scientific practice that requires compliance with criteria such as internal and external validity, reliability and generalizability. Scientific practices that seek to minimize indeterminacy aspire to impose fixity and stasis on entities that are in constant flow (Burrell, 1996). Where discipline drives out openness, analysis becomes violent as, for example, it simplifies in order to prescribe a classificatory order.
+Research-as-craft is exemplified by Kondo’s (1990: 24) account of knowledge pro-
+duction as ‘a complex negotiation, taking place within specific, but shifting, contexts where power and meaning, “personal” and “political” are inseparable . . . [Acts of craft-
+ing] are the complicated outcomes of power-fraught negotiations between “Self” and “Other”’. Knowledge production is as a work-in-progress where the scientist experi-ences and responds to moments when ‘it is no longer clear how the subject is to “go on”’
+
+Bell and Willmott 1373
+(Glynos and Howarth, 2007: 129). In such moments, constitutive reflexivity stalls as 
+awareness of ‘the mess of relations not yet organized into terms such as “subject” and “object”’ (Manning, 2016: 29). In what Manning (2016: 29) terms the ‘relational field of emergent experience’, the seemingly ‘pre-constituted subject-position external to the event’ has yet to be constructed and (impermanently) fixed. Craftiness accomplishes (precarious) closure by temporarily resolving the undecidability of contingency – for example by appearing to overcome the under-determination of theories by experimental facts (Pickering, 1986). Research-as-craft recognizes this craftiness and recalls the ines-capable contingency of claims to objectivity.
+A powerful demonstration of the three forms of reflexivity outlined above is provided 
+in Delamont and Atkinson’s (2001) study of doctoral students undertaking laboratory and field research. As undergraduates, these students had acquired a sense of science as comparatively settled, comprising ‘[d]emonstrations of classic phenomena [and] reca-pitulations of predictable laboratory procedures’ (2001: 87). As Feyerabend (1993: 11) notes, representations of science typically simplify and separate its participants, thereby ‘making the history of science duller, simpler, more uniform, more “objective” and more easily accessible to treatment by strict and unchangeable rules’. Constitutive reflexivity can be seen to enable students to regard science as effectively ‘settled’ and ‘predictable’. Later, when the doctoral students were undertaking their own research, they came to ‘discover that “real” science is more complex’ (Delamont and Atkinson, 2001: 88), and lacks the predictability they had presupposed. In other words, they came to experience such closure as an achievement that is contingent upon engaging what we have called epistemic reflexivity by developing the (crafty) capacity to work with indeterminacy in order to ‘master’ it (2001: 88). Only then was it possible for the doctoral students to generate scientifically warranted forms of ‘closure’ in the guise of stable, ‘usable results’. Such efforts to address the discovery that ‘“real” science is more complex’ had the poten-tial to draw them towards awareness of another – disruptive – form of reflexivity. But this possibility is (craftily) neutralized as they acquired skills and tactics that confined their work within, and enabled them to defend, the boundaries of epistemic reflexivity. When engaging in (laboratory and field) practices of science, the apprentice researchers learnt that ‘in order to produce useable results’ they were required to ‘master indetermi-nate skills and knowledge’ (2001: 88), an acquisition of craft(y) skills that is also regis-tered by Latour (1987: 6) when he observes that scientists’ research practices ‘bear little resemblance to the models of scientific procedure’. So, for example, when seeking to publish their research, the apprentice scientists found that all reference to their exercise of ‘crafty’ capacities had to be excluded. No mention of indeterminacy and/or the intru-siveness of disruptive reflexivity was permitted as they ‘learn[ed] to write public accounts of their investigations which omit the uncertainties, contingencies and personal craft skills’ (Delamont and Atkinson, 2001: 88). As noted earlier, direct parallels can be drawn with management studies where, for example, processes of abduction are obscured by the separation of theory from method, leaving researchers ‘wishing to learn the craft of research’ ‘in the dark’ about the role of imagination in processes of scientific knowledge production (Van Maanen et al., 2007: 1149–1150).
+The crafting of research is cast into shadow whenever a preoccupation with demon-
+strating the epistemic purity of scientific knowledge prevails. The resulting positioning
+
+1374 Human Relations 73(10)
+of disruptive reflexivity as ‘dark’, and ostensibly dangerous, is an epiphenomenon of 
+equating reflexivity with the refinement of epistemes. In a context where a conception of science confined to constitutive and epistemic reflexivity has become highly authorita-tive, negative professional and personal consequences can follow from questioning this restriction as it unsettles the stable narrative of how knowledge is produced (see Bell et al., 2017; Pratt, 2008). Thus, in a context where knowledge producers face increasing precarity and pressures (Bristow et al., 2017), including to publish their research in highly ranked journals that valorize epistemic reflexivity such that the production of theory as well as the generation and analysis of data is reduced to the demonstration of fetishized technique, it is important to acknowledge the potential elitism of craft values in promoting an ethos that is accessible only to the privileged few who have the security and resources to enable its pursuit. However, we suggest that this does not negate the potential of craft as a resource that researchers can use, individually and collectively, to challenge epistemic norms of scientific knowledge production that threaten to under -
+mine the ethico-political significance of research.
+We now elaborate on the imaginative and embodied characteristics of research-as-
+craft (Dant, 2010) understood as a flexible, accomplished working on, and with, physical or symbolic materials (Becker, 1978), before turning to consider how research-as-craft incorporates appreciation of the ethical and political dimensions of scientific knowledge production.
+Beyond skill: Imaginative and embodied knowledge
+Craft includes ‘skill’ but, etymologically, is not reducible to it. Research-as-craft speaks to aspects of inquiry that, in exemplifying a ‘turn to experience’ (Evered and Louis, 1981), disclose knowledge production as an imaginative, embodied process that is learned through processes of inter-subjective transmission (Lave and Wenger, 1991). When actively practised, such affective relationships put the self at risk through a pro-cess of opening up to the other and letting go of ‘presumed certainties’ (Rhodes and Carlsen, 2018: 1306). Imaginative creativity is an endemic, yet largely unacknowledged, feature of scientific practice that arises from the contingency and epistemic contestability of facts. Craft(iness) is largely obscured in disciplines such as medicine and law, and we suggest increasingly in the mainstream of management studies, by the requirement for ‘statements of fact’ without which ‘bases for treatment or judgement would be so shaky as to destroy public confidence not only in the knowledge that purports to inform . . . 
+[practice], but in the social fabric of which these institutions comprise central threads’ (Code, 2006: 96). Building on Haraway’s conception of ‘situated knowledge’, Code’s (2006) proposal of ‘negotiated empiricism’ acknowledges the complex construction of location as a basis for producing empirically based knowledge. This offers a means of engaging ‘critically in and with the material and affective-political detail of situations, as natural sites of knowledge making inhabited by particular fallible, vulnerable human beings’ whose epistemic practices are shaped by the institutional context ‘within which they craft their knowledge’ (Code, 2006: 117, emphasis in original).
+The imagination that Mills (1959) terms ‘intellectual craftsmanship’ is fuelled by sus-
+pension of belief in accounts of knowledge production framed as an impersonal, asocial
+
+Bell and Willmott 1375
+process of devising and testing propositions by applying theory and following methodo-
+logical protocols. Intellectual craftship is threatened by methodological fetishism, result-ing in a devaluing of imagination, especially where scholarship is designed or retrofitted to comply with restrictive, self-referential norms of many ‘top-tier’ journals (Alvesson and Sandberg, 2013). Imagination is then disciplined (Weick, 1969) to the point that it is confined exclusively to epistemic reflexivity.
+However, when the openness of craft(iness) is not entirely suppressed by the rigours 
+of epistemic discipline, there are ways of subverting the creeping impoverishment of imagination. Abbott (2004) advocates analogical reasoning, taking inspiration from sur -
+prising and unconventional sources, and borrowing analytic frameworks and language from other disciplines. Deetz (1996) commends postmodern literary theory for disclos-ing how the indeterminacy of the text is reclaimed against any fixity of determination. With regard to embodiment, craft implies an intimacy of engagement, a process of bring-ing objects into being (Heidegger, 1971), as form is constituted through physical, phe-nomenological interactions with materials of making (Atkinson, 2013; O’Connor, 2017). Invoking embodiment, Abbott (2004: 83) urges researchers to:
+come at an issue with only a gut feeling that there is something interesting about it . . . Indeed, 
+figuring out what the puzzle really is and what the answer ought to look like often happens in 
+parallel with finding the answer itself.
+In its recognition and valorization of imagination and embodiment, research-as-craft 
+speaks to a more or less purposive ‘act of extending our person into the subsidiary aware-ness of particulars which compose a whole’ (Polanyi, 1958: 65), using embodied curios-ity to fire the imagination. This imaginative approach is consistent with Feyerabend’s (1993) concept of counterinductive theory development, whereby hypotheses that are inconsistent with generally accepted ways of thinking are intentionally created. Such openness relies on adoption of a ‘pluralistic’ methodology that draws on theories from ‘wherever one is able to find them’ (1993: 33), including ways of knowing that are silenced by colonizing cultures (see Connell, 2007). For example, Kvale and Brinkmann’s (2009) commentary on the conduct of interviews commends an approach that relies on repeated imaginative responses to indeterminacy and contingencies learned through experience and absorbed through practice. Trust in ‘gut feeling’ and a willingness to inhabit indeterminacy is also illustrated by Barley’s (2004) notion of ‘puddle jumping’ – a physical metaphor that conveys imaginative craftiness and recommends improvisa-tion by pilfering from other fields and collecting ‘disparate ideas with the hope that they may prove relevant for future innovation’ (Abbott, 2004: 77).
+The corporeality of craft acts as a ‘tool of human feeling’ (Yanagi, 1972: 108; see also 
+O’Connor, 1997) that helps to problematize, and thereby re-unite, dualisms of subject and object, mind and body. It has the capacity to engender embodied receptiveness to how phenomena ‘develop, and change throughout a process, requiring minute, subtle reactions and decisions’ (Hardy, 2004: 181). When commenting on her orientation to studying Japanese artisans, Kondo (1992: 47) notes how ‘the aim is to go beyond a purely cognitive level of learning, and to learn with the body’. This aspiration foreshad-ows Abbott’s (2004: 83) reference to ‘gut feeling’, gesturing to how scientists participate
+
+1376 Human Relations 73(10)
+with matter in movement, entering the flow, and surrendering to the material, following 
+where it leads them (Deleuze and Guattari, 2004; Rhodes, 2009). This can be facilitated by cultivating an embodied, rather than overly cognitive orientation to processes of knowledge production, as alluded to by Allay (1998: 234) who characterizes ‘scientific writing’ as:
+a craft that requires preparation . . . Running, walking, and bicycling . . . give you a chance to 
+think about the structure of a document, play a strategy in your mind, and see if it makes sense 
+. . . long enough that I begin daydreaming.
+A further illustration of embodied research practice is provided by Turner (n.d.) who 
+reports how he was ‘deeply influenced’ by Mills’ (1959) concept of ‘craftsmanship’ that he takes to be a practical, embodied project that relies on physical preparedness.
+Recognition of the embodied nature of research activity problematizes and erodes the 
+separation of mind and body and enables creativity to flow in undirected and unantici-pated ways (Ingold, 2007). By unleashing imagination and embodied feeling, a sensibil-ity emerges that counteracts the reduction of ‘the world to a spectacle and our own bodies to mere mechanisms’, reflecting a loss of ‘vitality, that mysterious richness’ that charac-terizes ‘our common experience’ (Langer, 1989: 15). When Cartesianism is unsettled by disruptive reflexivity, knowledge production is no longer apprehended as the outcome of an inner, dematerialized, cerebral self that gathers and processes information to know and master the outer world of matter (Lewin, 1985). Instead, knowledge is understood as inextricably situated, fostering awareness of how materials are in process, always on their way to becoming something else (Barad, 2007; Ingold, 2013).
+Craft as politics and ethics
+Craft has a long historical, as well as etymological, connection with politics and ethics. In the 18th century, craft encompassed ‘political acumen and shrewdness’ (Dormer, 1997: 5). Before that, practices of witchcraft were associated with the exercise of occult power and secret knowledge that presented a challenge to conventional, religious wis-dom. Politics, ethics and craft came together in the formation of the Arts and Crafts Movement (Krugh, 2014; Ullrich, 2004). The Movement presented an ethical and politi-cal challenge to Modernist orthodoxy, which presumes that advances in engineering and technical expertise necessarily deliver promised social, moral and spiritual improve-ments in addition to material benefits (Krugh, 2014; Naylor, 1971). Assessments of the Movement have tended to focus one-sidedly on its adherents’ elitist assumptions and nostalgia for an idealized golden era, yet its members were guided by an ethical and political commitment to create a different and better, less brutalizing, modernity by ‘seeking to re-enchant and re-embed “Life” in a new kind of society’ (Crook, 2009: 29).
+5
+When Mills (1959) invokes the notion of intellectual craftship, he insists researchers 
+must engage with politics as well as ethics. He invites researchers to abandon a ‘bureau-cratic ethos’ of inquiry where standardization and rationalization are prioritized, and where politics and ethics are ostensibly removed by demonstrating compliance with methodological procedures. They are urged to take personal responsibility for the form
+
+Bell and Willmott 1377
+and consequences of scientific work – a responsibility that, ethically, involves ‘a choice 
+of how to live as well as a choice of career’ (1959: 216).6 Mills’ injunction is echoed by 
+Law (2004: 143) who foregrounds ethical and political moments in the production and dissemination of social scientific knowledge, and notes that accounts of research practice are contingent constructions that can be ‘otherwise’. The presence of politics and ethics is also articulated by Rouse (2001: 197) who states that ‘[a] modest and self-critical attentiveness to our own partiality and situatedness, and accountability for what we say and do, are the political responsibility incurred by our own contingent positionings within the cultures of science’. This responsiveness incorporates appreciation of how ways of framing and fulfilling ethical commitments are contingent on participation in, and influenced by, a broader structure of social relations, including engagement in research communities that support particular practices. Consequently, social science is made intelligible as a complex of practices enacted by ‘ethical’ as well as ‘political subject[s] who [take] action in response to the call of the ethical demand’ (McMurray et al., 2011: 557). This understanding is attentive to the ‘contingency, historicity and precariousness’ of practices in a way that appreciates ‘the constructed and political char -
+acter of social objectivity’ (2011: 557, emphases in original). Likewise, ‘the way we write’ is ‘intertwined [with] aesthetic, moral and political dimensions that themselves limit what is able to be said and to whom we are able to say it (Grey and Sinclair, 2006)’ (Rhodes, 2019: 25). By challenging restrictive modes of scientific representation, and by seeking to cultivate ‘new ethical and political practices’ (Gilmore et al., 2019: 3), includ-ing those rooted in feminine/feminist understandings of the body and female difference (Cixous, 1976), research-as-craft acts to liberate practices of knowledge production from their ‘self-imposed conservatism’ (Rhodes, 2019: 24).
+While craft(iness) is present, and can be actively engaged, in the reporting of scien-
+tific inquiry, it is also evident in the subversive potential of research-as-craft where ‘transgressive academic practice . . . exposes the relations between truth and power’ in 
+politically important ways (Schubert, 1995: 1005), or facilitates and supports the devel-opment of alternative organizations (e.g. Esper et al., 2017). Notably, craftiness inspires possibilities, as Marks (2008) notes, for social scientists to contribute to a parallel, expansive transformation of scientific practice that challenges Cartesian dualisms. It can thereby amplify political and ethical critiques of much of what is normalized and ‘indus-trialized’ in social science when framed within the restrictions of epistemic reflexivity (Bell et al., 2017; Law, 2004; Mills, 1959; Pollner, 1991; Symon et al., 2018).
+Discussion: Crafty capabilities
+Our conjecture has been that craft(iness) is more or less consciously and purposefully exercised, developed and valued by researchers as they struggle with indeterminacies that repeatedly destabilize their practices. While some degree of craftiness, in the form of ethics and politics, is endemic to research activity, it is routinely unacknowledged or actively suppressed. The presence and significance of craft is explicitly signalled only when it is directly attributed to some aspect of research practice. Yet, scientists – natural and social – continuously undertake the ethically and politically significant work of cre-ating or maintaining their favoured approach because they must: indeterminacy demands
+
+1378 Human Relations 73(10)
+(crafty) initiative and improvisation to sustain established scientific practices but also, 
+potentially, to disrupt and transform them. Irreducible to a formula, or to a set of proto-cols, craft(iness) involves ‘a preparedness to confront the unknown. It is tied inextricably to the freedom to think freshly, to see propositions of every kind in an ever-changing light’ (Boyer, 1990: 17, cited in Alvesson and Sandberg, 2013: 143).
+Preparedness to confront the unknown is consistent with a conception of research-as-
+craft in which disruptive reflexivity is incorporated, rather than domesticated by epis-temic reflexivity. It makes no presumption that a remedy can be found for the messy and problematic (Lynch, 2000) nature of scientific practice. Ontological openness is under -
+stood to have primacy. Forms of ontic closure, which are simultaneously compelling and precarious, are accomplished through practices of constitutive and epistemic reflexivity, and are unsettled by disruptive reflexivity. Research-as-craft recollects the contingencies that produce the sense of closure, but without claiming that its attentiveness transcends contingency. Indeed, research-as-craft is itself another manifestation of ontic closure. But insofar as it intentionally destabilizes foundationalism, exemplified by epistemic reflexivity, it is less prone to reductionism and/or formulaic practices. By acknowledg-ing, rather than concealing, its contingent articulation, research-as-craft is, we argue, more open and inclusive in representing scientific knowledge production.
+By incorporating disruptive reflexivity, research-as-craft pushes back against, and 
+thereby destabilizes, ostensibly disembodied, value-free, apolitical conceptions of sci-entific activity. In contrast to research-as-technique (Bell et al., 2017; Hammersley, 2011), research-as-craft accounts for, and fosters awareness of, the positioned or situ-ated nature of knowledge where ‘location is about vulnerability; location resists the politics of closure’ (Haraway, 1988: 590). Resistance to closure, enabled by the unset-tling effects of disruptive reflexivity, and supported by other ‘multi-perspectival’ and ‘positioning’ modes of reflexivity (Alvesson et al., 2008: 482–486),
+7 is incorporated 
+into the comparatively open framing of research-as-craft. This is, we contend, consist-ent with an etymology of craft(iness) that includes ingenuity as well as slyness, and implies deviation from and disruption of conventions – a sensibility characteristic of receptivity to openness rather than compliance with discipline (March, 1996). Such openness facilitates disclosure of how, in Haraway’s (1988: 590, emphasis added) words, ‘[r]ational knowledge is power-sensitive conversation’, such that science ‘becomes the paradigmatic model, not of closure, but of that which is contestable and 
+contested’. The sensitizing concept of research-as-craft signals the contingent bound-ary conditions of generating and evaluating knowledge claims in ways that make apparent their precarious, ethico-political basis.
+Research-as-craft fosters and conveys the subtlety and ineffability of the interplay 
+between researcher and researched. In place of the researcher as a transcendent subject, ‘ultimate arbiter’ or falsifier of the validity of theoretical propositions (Alvesson and Sandberg, 2013: 145), s/he is portrayed as engaged in an open, critical dialogue in which ‘there are not self-certifying epistemic foundations immune from criticism’ (Rouse, 2001: 197). Accordingly, apprehending and articulating ‘the set of contingencies that play on others’ (Van Maanen, 2011: 219) – the subjects of research – and representing their world ‘in a “different light”’ (Dey and Nentwich, 2006: 13) requires an exercise of craftiness that comprises practical, embodied ethics in the form of ‘subtle reactions and
+
+Bell and Willmott 1379
+decisions’ (Hardy, 2004: 181), as well as political acumen and shrewdness in communi-
+cating knowledge claims (Dormer, 1997).
+We therefore invite researchers to take up the notion of research-as-craft as a way to 
+examine and potentially shift self-understandings and associated practices from that of ‘the neutral expert observer to engaged interpreter and facilitator’ (Cunliffe and Scaratti, 2017: 41). Practising research-as-craft through experiential being-in-the-world (Sudnow and Dreyfus, 2001) problematizes the reduction of knowledge production to a cognitive activity. It resists pressures to shoe-horn, or reverse engineer, research in order to make it compliant, at least dramaturgically, with notions of validity and reliability (Cornelissen et al., 2012). When actively and self-consciously pursued, research-as-craft expands ‘the reach of our thinking, of seeing what else we could be thinking and asking, of increasing the ability of our ideas to deal with the diversity of what goes on in the world’ (Becker, 1998: 7).
+By pursuing the ‘workmanship of risk’ (Pye, 1995), the crafty researcher negotiates a 
+path through ‘the irrationality, complexity, and paradoxicality of organizational worlds’ (Prasad, 2005: 292). Instead of striving to domesticate indeterminacy through formulaic representations, recognition of craft(iness) in research practice respects the ‘radical con-tingency of materiality’ (Glynos and Howarth, 2007: 129). By attending to this contin-gency, and drawing out the performative significance of the marginalization of openness in processes of knowledge production, research-as-craft points to ‘the end of political innocence’ (Law, 2004: 149) that is associated with the attempted separation of truth from politics. Disruptive reflexivity interrogates this separation as it dis-closes how ‘[t]ruth and politics go together one way or another’; ‘once the performativity of method is recognised this implies responsibilities to both [truth and politics]’ (Law, 2004: 149). Conceived in this way, research-as-craft apprehends knowledge production as an ethical and political process wherein craftship encompasses experiential, pre-codified under -
+standings of the potential and limitations of our embodiment, our relatedness to, and dependence upon materialities (Collins, 2004).
+Finally, and reflexively, we acknowledge that our conception of research-as-craft may 
+itself be interpreted as a crafty application of two forms of reflexivity outlined earlier. Constitutive reflexivity, it may be argued, has been mobilized to suspend doubt in the credibility of our conjectures on research-as-craft. It may also be suggested that our the-matizing of research-as-craft exemplifies disruptive reflexivity inasmuch that it prob-lematizes accounts of scientific activity in which the presence of craft(iness) is disregarded or suppressed. More specifically, ‘disruptive reflexivity’ is evident in our attentiveness to how, ‘scientific practices do not reveal what is already there as its reality-in-itself defies our reach; rather, what is “disclosed” is the effect of the intra-active engagements of our participation with/in and as part of the world’s differential becom-ing’ (Barad, 2007: 361; see also Diprose, 2012; Rhodes, 2009).
+Conclusion
+The presence of craft in research is widely signalled but seldom thematized. This omis-sion is problematic because the practice of science involves the crafty work of strug-gling with indeterminacy in order to establish and maintain shared frames of reference
+
+1380 Human Relations 73(10)
+(e.g. paradigms of inquiry) within which knowledge is warranted. Thematizing the 
+presence of craft in research can, we have suggested, facilitate a re-visioning of the theory and practice of how scientific knowledge is produced. Invocations of craft in practices of scientific knowledge production and communication, we have claimed, signal an inherent feature of scientific activity that is intuitively resonant, yet rendered opaque through omission or suppression. The notion of ‘research-as-craft’ has been commended for fostering awareness of (social) scientific practice as an ethical and political, as well as skilful, embodied and imaginative activity. Etymologically, craft encompasses power (politics) and virtue (ethics), as well as science. It thereby presents an alternative to Cartesian conceptions of science that presume, or aspire to attain, neu-trality and objectivity. Within a post-Cartesian conception of scientific knowledge pro-duction, the researcher-as-craftist is enjoined with the artefact in the process of its formation (Cooke, 2007).
+When conceived and executed as a craft(y) practice, scientific knowledge production 
+is understood as an activity that is more embodied, less certain, less cognitive and more emotionally demanding (Broussine et al., 2014). By connecting scientific practice to the ethics and politics of craft (and craftiness), and especially to ‘its genesis as a social cri-tique’, we have surfaced how central elements of craft have ‘always had a subversive potential’, while underscoring a lack of ‘sustained critical attention’ (Cooke, 2007: 6), despite being repeatedly invoked in accounts of scientific knowledge production.
+Research-as-craft fosters a subversive sensibility, but it does not directly advocate 
+any particular form, or means, of social scientific knowledge generation. It takes seriously the indeterminacy associated with understanding that the meaning of terms like ‘quality’ and ‘rigour’ is contingent upon their development and application within specific intellectual traditions and contexts. Because there is ‘no consensus on universally applicable epistemic virtues’ (Ketokivi and Mantere, 2010: 317), the ‘choice’ of subscribing to research-as-craft as a practice, or as a characterization of scientific practice, is ‘ultimately arbitrary in a logical sense’ (Harley and Cornelissen, 2018: 65). Hence, researchers must rely on the exercise of ethics-in-practice to make the required leap of faith.
+Our position does not dismiss forms of knowledge production based upon epistemic 
+reflexivity. Instead, we invite openness about, and acknowledgement of, how engaging any methodology involves craft(iness) as researchers struggle, in diverse ways and with varied outcomes, to demonstrate methodological compliance or to become their ‘own methodologist[s]’ (Mills, 1959: 135). Research-as-craft does not deny the distinctive contribution and application of ‘discipline’ – with respect, for example, to ‘learn[ing] something from overall attempts to codify methods’ (Mills, 1959: 136). Instead, it attends to, and valorizes, an ‘openness’ that allows and enables ‘theory and method [to] become part of the practice of a craft’ (Mills, 1959: 246). Research-as-craft thereby challenges the consistency of advocating seemingly universal epistemic values, such as those of coherence and inference to the best explanation, while simultaneously acknowledging that scholars ‘go about reasoning within and as part of their chosen approach’ (Harley and Cornelissen, 2018: 68, emphasis added). Most importantly, craft-as-research directs attention to how struggles with indeterminacy required to produce scientific knowledge are animated by (contingent) ethical commitments and political forces that establish and
+
+Bell and Willmott 1381
+secure transient forms of determination, or closure. The sensibility of research-as-craft 
+provides a reminder of how ethical and political work, embodied and imaginative, is required not only to establish ontological closure and protect it from disruption, but also to challenge the basis of such attempted protection in scientific research.
+Acknowledgements
+The authors would like to thank Rebecca Piekkari and Carl Rhodes for commenting on an earlier 
+version of this article.
+Funding
+The authors received no financial support for the research, authorship and/or publication of this article.
+ORCID iD
+Emma Bell  https://orcid.org/0000-0001-9026-7224
+Notes
+1 craft (n.) Old English cræft (West Saxon, Northumbrian), -creft (Kentish), originally ‘power, 
+physical strength, might,’ from Proto-Germanic *krab-/*kraf- (source also of Old Frisian kreft, Old High German chraft, German Kraft ‘strength, skill;’ Old Norse kraptr ‘strength, 
+virtue’). Sense expanded in Old English to include ‘skill, dexterity; art, science, talent’ (via 
+a notion of ‘mental power’), which led by late Old English to the meaning ‘trade, handicraft, calling,’ also ‘something built or made.’ The word still was used for ‘might, power’ in Middle English.
+crafty (adj.) mid-12c., crafti, from Old English cræftig ‘strong, powerful,’ later ‘skillful, 
+ingenious,’ degenerating by c. 1200 to ‘cunning, sly’ (but through 15c. also ‘skillfully done or made; intelligent, learned; artful, scientific’) from craft (n.) + -y (2). Related: Craftily; crafti-
+ness. (Source: https://www.etymonline.com/word/crafty (accessed 12 June 2018).)
+2 The underdetermination of action by antecedent constraints and the overdetermination of 
+interpreted constraints impedes and disrupts efforts to exclude or remove craft from science, 
+as exemplified by the representation of methodology as technique (Bell et al., 2017).
+3 ‘Indexicality’ is a manifestation of indeterminacy: ‘All meanings are constantly subject to negotiation and renegotiation as expressions are used and concepts are applied. We may say, 
+in the unsatisfactory philosophical idiom, that both the sense and reference of expressions 
+is continually problematic, and that neither the intension nor extension of concepts can be delineated clearly, fully, and “objectively” in advance of use’ (Barnes and Law, 1976: 226).
+4 Sensitizing concepts are usually derived from the research participants’ perspective – in this case, the ‘participant’ is the researcher who characterizes some aspect of his or her practice as 
+‘craft’ – that suggests a certain line of inquiry. See Van den Hoonard (2008).
+5 The association of craft with politics and ethics, and its ‘subversive potential’ (Cooke, 2007: 
+6) to question and offer alternatives to industrial capitalism, continues today in the contem-porary Craftivist Movement (e.g. Greer, 2008; Parker, 1996). Craftivism comprises participa-
+tory, community-based craft projects that address contemporary social, environmental and 
+political issues, including global poverty, human rights injustices and degradation(s) of cor -
+porate and institutional culture (Black and Burisch, 2014; Bratich and Brush, 2011), as well as critiquing established, depersonalized means of addressing such issues (Vachhani, 2013).
+
+1382 Human Relations 73(10)
+Its members celebrate continuity with, and renewal of, elements of the values and vision of 
+the Arts and Crafts Movement.
+6 This injunction is echoed by Gouldner (1971: 489) when he contends that the ‘question 
+[reflexive social scientists] must confront is not merely how to work but how to live’.
+7 On this point, we differ from Alvesson et al. (2008) who align ‘multi-perspective prac-
+tices’ with what they term R-reflexivity, whereas we identify its potential to contribute to D-reflexivity.
+References
+Abbott A (2004) Methods of Discovery: Heuristics for the Social Sciences. New York: Norton & 
+Co.
+Allay M (1998) The Craft of Scientific Writing. New York: Springer.
+Alvesson M and Deetz S (2000) Doing Critical Research. London: SAGE.
+Alvesson M and Sandberg J (2013) Has management studies lost its way? Ideas for more imagina-
+tive and innovative research. Journal of Management Studies 50(1): 128–152.
+Alvesson M and Sköldberg K (2000) Reflexive Methodology: New Vistas for Qualitative Research. 
+London: SAGE.
+Alvesson M, Hardy C and Harley B (2008) Reflecting on reflexivity: Reflexive textual practices 
+in organization and management theory. Journal of Management Studies 45(3): 480–501.
+Amis JM and Silk ML (2008) The philosophy and politics of quality in qualitative organizational 
+research. Organizational Research Methods 11(3): 456–480.
+Anderson RJ and Sharrock WW (2015) Radical reflexivity: A comment on the use of recursivity 
+in sociology. Unpublished manuscript. Available at: http://www.sharrockandanderson.co.uk/wp-content/uploads/2017/04/Reflexivity-Publication-Version.pdf (accessed 23 January 2018).
+Atkinson P (2013) The ethnography of craft and the craft of ethnography. Qualitative Inquiry 
+19(5): 397–404.
+Baer N and Shaw JD (2017) From the editors: Falling in love again with what we do: Craftsmanship 
+in the management sciences. Academy of Management Journal 60(4): 1213–1217.
+Barad K (2007) Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter 
+and Meaning. London: Duke University Press.
+Barley SR (2004) Puddle jumping as a career strategy. In: Stablein R and Frost PJ (eds) Renewing 
+Research Practice. Stanford, CA: Stanford Business Books, 67–82.
+Barnes B and Law J (1976) Whatever should be done with indexical expressions? Theory and 
+Society 3(2): 223–237.
+Becker HS (1978) Arts and crafts. American Journal of Sociology 83(4): 862–889.Becker HS (1998) Tricks of the Trade: How to Think about Your Research While You’re Doing It. 
+Chicago, IL: University of Chicago Press.
+Bell E and Bridgman T (2019) Editorship-as-curatorship: Celebrating 50 years of Management 
+Learning. Management Learning 50(2): 147–151.
+Bell E, Kothiyal N and Willmott H (2017) Methodology-as-technique and the meaning of rigor in 
+globalized management research. British Journal of Management 28(3): 534–550.
+Bernard HR (2006) Research Methods in Anthropology: Qualitative and Quantitative Approaches. 
+Oxford: Altamira Press.
+Bernstein RJ (1991) The New Constellation: The Ethical/Political Horizons of Modernity/
+Postmodernity. Boston, MA: MIT Press.
+Beuving J and De Vries G (2015) Doing Qualitative Research: The Craft of Naturalistic Inquiry. 
+Amsterdam: Amsterdam University Press.
+
+Bell and Willmott 1383
+Black A and Burisch N (2014) Craft hard die free: Radical curatorial strategies for craftivism. 
+In: Buszek ME (ed.) Extra/ordinary: Craft and Contemporary Art. Durham, USA: Duke 
+University Press, 204–221.
+Booth W, Colomb GG and Williams JM (2016) The Craft of Research. Chicago, IL: University 
+of Chicago Press.
+Bourdieu P (2004) Science and Reflexivity. London: Polity.Bourdieu P, Chamboredon JC, Passeron JC, et al. (1991) The Craft of Sociology: Epistemological 
+Preliminaries. Berlin: De Gruyter.
+Boyer EL (1990) Scholarship Reconsidered. Princeton, NJ: Carnegie Foundation for Advancement 
+of Teaching.
+Bratich JZ and Brush HM (2011) Fabricating activism: Craftwork, popular culture, gender. 
+Utopian Studies 22(2): 233–260.
+Bristow A, Robinson S and Ratle O (2017) Being an early-career CMS academic in the context 
+of insecurity and ‘excellence’: The dialectics of resistance and compliance. Organization 
+Studies 38(9): 1185–1207.
+Broussine M, Clarke C and Watts L (eds) (2014) Researching with Feeling: The Emotional Aspects 
+of Social and Organizational Research. London: Routledge.
+Burrell G (1996) Normal science, paradigms, metaphors, discourses and genealogies of analysis. 
+In: Clegg S, Hardy C and Nord WD (eds) Handbook of Organization Studies. London: SAGE.
+Chia R (1996) The problem of reflexivity in organizational research: Towards a postmodern sci-
+ence of organization. Organization 3(1): 31–59.
+Cixous H (1976) The laugh of the Medusa. Signs 1(4): 875–893.Clarke C and Knights D (2018) Practice makes perfect? Skilful performances in veterinary work. 
+Human Relations 71(10): 1395–1421.
+Code L (2006) Ecological Thinking: The Politics of Epistemic Location. Oxford: Oxford University 
+Press.
+Collins HM (1999) The science police. Social Studies of Science 29(2): 287–294.Collins H (2004) Gravity’s Shadow: The Search for Gravitational Waves. Chicago, IL: University 
+of Chicago Press.
+Collins H and Pinch T (1993) The Golem: What Everybody Should Know about Science. 
+Cambridge: Cambridge University Press.
+Connell R (2007) Southern Theory: Social Science and the Global Dynamics of Knowledge. 
+Oxford: Polity Press.
+Cooke ES Jr (2007) Modern craft and the American experience. American Art 21(1): 2–9.
+Cornelissen J (2017) Preserving theoretical divergence in management research: Why the explana-
+tory potential of qualitative research should be harnessed rather than suppressed. Journal of 
+Management Studies 53(3): 368–383.
+Cornelissen J, Gajewska-De Mattos H, Piekkari R, et al. (2012) Writing up as a legitimacy seeking 
+process: Alternative publishing recipes for qualitative research. In: Symon G and Cassell C 
+(eds) Qualitative Organizational Research. London: SAGE, 184–203.
+Crook T (2009) Craft and the dialogics of modernity: The Arts and Crafts Movement in late-
+Victorian and Edwardian England. Journal of Modern Craft 2(2): 17–32.
+Cunliffe A and Scaratti G (2017) Embedding impact in engaged research: Developing socially use-
+ful knowledge through dialogical sensemaking. British Journal of Management 28(1): 29–44.
+Dant T (2010) The work of repair: Gesture, emotion and sensual knowledge. Sociological Research 
+Online 15(3): http://www.socresonline.org.uk/15/3/7.html10.5153/sro.2158 (accessed 17 
+January 2017).
+Deetz S (1996) Describing differences in approaches to organizational science: Rethinking Burrell 
+and Morgan and their legacy. Organization Science 7(2): 191–207.
+
+1384 Human Relations 73(10)
+Delamont S and Atkinson P (2001) Doctoring uncertainty: Mastering craft knowledge. Social 
+Studies of Science 31(1): 87–107.
+Deleuze G and Guattari F (2004) A Thousand Plateaus: Capitalism and Schizophrenia. Trans. 
+Massumi B. London: Continuum.
+Derrida J (2002) Negotiations. Stanford, CA: Stanford University Press.
+Dey P and Nentwich JC (2006) The identity politics of qualitative research: A discourse analytic inter-
+text. Forum Qualitative Sozialforschung/Forum: Qualitative Social Research S1(7): http://www.
+qualitative-research.net/index.php/fqs/article/view/173/387 (accessed 17 January 2017).
+Diprose R (2012) Continental philosophy: Thinking the corporeal with the political. Southern 
+Journal of Philosophy 50(2): 220–233.
+Dormer P (1997) The salon de refuse? In: Dormer P (ed.) The Culture of Craft: Status and Future. 
+Manchester: Manchester University Press, 2–16.
+Esper S, Cabantous L, Barin-Cruz L, et al. (2017) Supporting alternative organizations? Exploring 
+scholars’ involvement in the performativity of worker-recovered companies. Organization 24(5): 671–699.
+Evered R and Louis MR (1981) Alternative perspectives in the organizational sciences: ‘Inquiry from 
+the inside’ and ‘inquiry from the outside’. Academy of Management Review 6(3): 385–395.
+Feyerabend P (1993) Against Method. London: Verso.Freire P (2005) The Pedagogy of the Oppressed (30th anniversary edn). London: Continuum.Garfinkel H (1967) Studies in Ethnomethodology. Englewood Cliffs, NJ: Prentice Hall.Giddens A (1979) Central Problems in Social Theory. London: Macmillan.
+Giddens A (1984) The Constitution of Society. Berkeley, CA: University of California Press.
+Gilmore S, Harding N, Helin J, et al. (2019) Writing differently. Management Learning 50(1): 
+3–10.
+Glynos J and Howarth D (2007) Logics of Critical Explanation in Social and Political Theory. 
+London: Routledge.
+Gouldner A (1971) The Coming Crisis in Western Sociology. London: Heinemann.Greenhalgh P (2002) Introduction: Craft in a changing world. In: Greenhalgh P (ed.) The 
+Persistence of Craft. London: A & C Black Publishing, 1–17.
+Greer B (2008) Knitting for Good! A Guide to Creating Personal, Social and Political Change 
+Stitch by Stitch. Boston, MA: Shambala Publications.
+Grey C and Sinclair A (2006) Writing differently. Organization 13(3): 443–453.
+Guillemin M and Gillam L (2004) Ethics, reflexivity, and ‘ethically important moments’ in 
+research. Qualitative Inquiry 10(2): 261–280.
+Gustavsson IB (2004) Culinary arts and meal science: A new scientific research discipline. Food 
+Science Technology 4(1): 9–20.
+Hammersley M (2011) Methodology: Who Needs It? London: SAGE.Haraway D (1988) Situated knowledges: The science question in feminism and the privilege of 
+partial perspective. Feminist Studies 14(3): 575–599.
+Hardy M (2004) Feminism, crafts, and knowledge. In: Fariello A and Owen P (eds) Objects and 
+Meaning: New Perspectives on Art and Craft. Oxford: Scarecrow Press, 176–183.
+Harley B and Cornelissen J (2018) Reframing rigor as reasoning: Challenging technocratic con-
+ceptions of rigor in management research. In: Research in the Sociology of Organizations. 
+Emerald, 59–76.
+Heidegger M (1971) The thing. In: Poetry, Language, Thought. Trans. Hofstadter A. New York: 
+Harper & Row, 161–180.
+Heidegger M (1977) The Question Concerning Technology and Other Writings. Trans. Lovitt W. 
+New York: Harper & Row.
+
+Bell and Willmott 1385
+Hirsch PM and Levin DZ (1999) Umbrella advocates versus validity police: A life-cycle model. 
+Organization Science 10(2): 199–212.
+Ingold T (2007) Lines: A Brief History. London: Routledge.
+Ingold T (2013) Making: Anthropology, Archaeology, Art and Architecture. London: Routledge.
+Johnson P, Buehring A, Cassell CM, et al. (2006) Evaluating qualitative management research: 
+Towards a contingent criteriology. International Journal of Management Reviews 8(3): 131–156.
+Ketokivi M and Mantere S (2010) Two strategies for inductive reasoning in organizational 
+research. Academy of Management Review 33(2): 315–333.
+Kiriakos C and Tienari J (2018) Academic writing as love. Management Learning 49(3): 263–277.Klag M and Langley A (2013) Approaching the conceptual leap in qualitative research. 
+International Journal of Management Reviews 15(2): 149–166.
+Knorr-Cetina K (1983) The ethnographic study of a scientific work: Towards a constructionist 
+interpretation of science. In Knorr-Cetina K (ed.) Science Observed: Perspectives on the Social Study of Science. London: SAGE, 115–140.
+Kondo DK (1990) Crafting Selves: Power, Gender, and Discourses of Identity in a Japanese 
+Workplace. Chicago, IL: University of Chicago Press.
+Kondo DK (1992) Multiple selves: The aesthetics and politics of artisanal identities. In: Rosenberger 
+NR (ed.) Japanese Sense of Self. Cambridge: Cambridge University Press, 40–66.
+Krugh M (2014) Joy in labour: The politicization of craft from the Arts and Crafts Movement to 
+Etsy. Canadian Review of American Studies 44(2): 281–301.
+Kuhn TS (1969) The Structure of Scientific Revolutions. Chicago, IL: University of Chicago Press.
+Kvale S and Brinkmann S (2009) InterViews: Learning the Craft of Qualitative Research 
+Interviewing. Los Angeles, CA: SAGE.
+Langer MM (1989) Merleau-Ponty’s Phenomenology of Perception: A Guide and Commentary. 
+London: Palgrave.
+Latour B (1987) Science in Action: How to Follow Scientists and Engineers through Society. 
+Cambridge, MA: Harvard University Press.
+Latour B and Woolgar S (1986) Laboratory life: The construction of scientific facts. Farnham: 
+Ashgate.
+Lave J and Wenger E (1991) Situated Learning: Legitimate Peripheral Participation. Cambridge: 
+Cambridge University Press.
+Law J (2004) After Method: Mess in Social Science Research. London: Routledge.
+Lewin ML (1985) The Body’s Recollection of Being: Phenomenological Psychology and the 
+Deconstruction of Nihilism. London: Routledge, Kegan & Paul.
+Liberman K (1999) From walkabout to meditation: Craft and ethics in field inquiry. Qualitative 
+Inquiry 5(1): 47–63.
+Lynch M (2000) Against reflexivity as an academic virtue and source of privileged knowledge. 
+Theory, Culture and Society 17(3): 26–54.
+McMurray R, Pullen A and Rhodes C (2011) Ethical subjectivity and politics in organizations: A 
+case of health care tendering. Organization 18(4): 541–561.
+Manning E (2016) The Minor Gesture. Durham, NC: Duke University Press.March JG (1996) Continuity and change in theories of organizational action. Administrative 
+Science Quarterly 41(2): 278–287.
+Marks NJ (2008) Opening up spaces for reflexivity? Scientists’ discourses about stem cell 
+research and public engagement. PhD Thesis, University of Edinburgh. Available at: https://www.era.lib.ed.ac.uk/bitstream/handle/1842/2690/Nicola%20J%20Marks%20PhD%20.pdf?sequence=2&isAllowed=y (accessed 23 January 2018).
+May T and Perry B (2017) Reflexivity: The Essential Guide. London: SAGE.
+
+1386 Human Relations 73(10)
+Mills C Wright (1959) The Sociological Imagination (40th anniversary edn). Oxford: Oxford 
+University Press.
+Naylor G (1971) The Arts and Crafts Movement. London: Studio Vista.
+Nicolini D (2013) Practice Theory, Work, and Organization: An Introduction. Oxford: Oxford 
+University Press.
+O’Connor E (1997) Embodied knowledge in glassblowing: The experience of meaning and the 
+struggle towards proficiency. Sociological Review 55(s1): 127–141.
+O’Connor E (2017) Touching tacit knowledge: Handwork as ethnographic method in a glassblow-
+ing studio. Qualitative Research 17(2): 217–230.
+Parker R (1996) The Subversive Stitch: Embroidery and the Making of the Feminine. London: The 
+Women’s Press.
+Patriotta G (2017) Crafting papers for publication: Conventions in academic writing. Journal of 
+Management Studies 54(5): 747–759.
+Pickering A (1986) Constructing Quarks: Sociological History of Particle Physics. Chicago, IL: 
+University of Chicago Press.
+Pinch M (1981) The sun-set: The presentation of certainty in scientific life. Social Studies of 
+Science 11(1): 131–158.
+Polanyi M (1958) Personal Knowledge: Towards a Post-Critical Philosophy. Chicago, IL: 
+University of Chicago Press.
+Pollner M (1987) Mundane Reason: Reality in Everyday and Sociological Discourse. Cambridge: 
+Cambridge University Press.
+Pollner M (1991) Left of ethnomethodology: The rise and decline of radical reflexivity. American 
+Sociological Review 56: 370–380.
+Prasad P (2005) Crafting Qualitative Research: Working in the Post-Positivist Traditions. 
+Armonk, NY: ME Sharpe.
+Prasad A and Prasad P (2002) The coming of age of interpretive organisational research. 
+Organizational Research Methods 5(4): 4–11.
+Pratt M (2008) Fitting oval pegs into round holes: Tensions in evaluating and publishing qualita-
+tive research in top-tier North American journals. Organizational Research Methods 11(3): 
+481–509.
+Pye D (1995) The Nature and Art of Workmanship. Bethel Court: Cambium Press.Rhodes C (2009) After reflexivity: Ethics, freedom and the writing of organization studies. 
+Organization Studies 30(6): 653–672.
+Rhodes C (2019) Sense-ational organization theory! Practices of democratic scriptology. 
+Management Learning 50(1): 24–37.
+Rhodes C and Carlsen A (2018) The teaching of the other: Ethical vulnerability and generous 
+reciprocity in the research process. Human Relations 71(10): 1295–1318.
+Roosth S (2013) Of foams and formalisms: Scientific expertise and craft practice in molecular 
+gastronomy. American Anthropologist 115(1): 4–16.
+Rouse J (1996) Beyond epistemic sovereignty. In: Galison P and Stump DJ (eds) The Disunity 
+of Science: Boundaries, Contexts and Power. Stanford, CA: Stanford University Press, 398–416.
+Rouse J (2001) Two concepts of practices. In: Schatzki TR, Knorr-Cetina K and Von Savigny E 
+(eds) The Practice Turn in Contemporary Theory. London: Routledge, 189–198.
+Sandberg J (2005) How do we justify knowledge produced within interpretive approaches? 
+Organizational Research Methods 8(1): 41–68.
+Sandberg J and Tsoukas H (2011) Grasping the logic of practice: Theorizing through practical 
+rationality. Academy of Management Review 36(2): 338–360.
+
+Bell and Willmott 1387
+Schubert JD (1995) From a politics of transgression towards an ethics of reflexivity. American 
+Behavioral Scientist 38(7): 1003–1017.
+Sennett R (2008) The Craftsman. London: Penguin.
+Smith R (2005) Does reflexivity separate the human sciences from the natural sciences? History of 
+the Human Sciences 18(4): 1–25.
+Sudnow D and Dreyfus HL (2001) Ways of the Hand: A Rewritten Account. Cambridge, MA: MIT 
+Press.
+Symon G, Cassell C and Johnson P (2018) Evaluative practices in qualitative management 
+research: A critical review. International Journal of Management Reviews 20(1): 134–154.
+Turner B (n.d.) How to write practically. Writing Across Boundaries. Available at: https://www.
+dur.ac.uk/writingacrossboundaries/writingonwriting/bryanturner (accessed 7 June 2018).
+Ullrich P (2004) Workmanship: The hand and body as perceptual tools. In: Fariello AM and Owen 
+P (eds) Objects and Meaning: New Perspectives on Art and Craft. Lanham, MD: Scarecrow 
+Press, 198–215.
+Vachhani S (2013) (Re)creating objects from the past: Affect, tactility and everyday creativity. 
+Management and Organizational History 8(1): 91–104.
+Vagle MD (2016) Crafting Phenomenological Research. Walnut Creek, CA: Left Coast Press.Van den Hoonard WC (2008) Sensitizing concepts. In: Given LM (ed.) The SAGE Encyclopedia 
+of Qualitative Research Methods (2 vols). London: SAGE, 812–814.
+Van Maanen J (2011) Ethnography as work: Some rules of engagement. Journal of Management 
+Studies 48(1): 218–234.
+Van Maanen J, Sørensen JP and Mitchell TR (2007) The interplay between theory and method. 
+Academy of Management Review 32(4): 1145–1154.
+Weick KE (1969) Theory construction as disciplined imagination. Academy of Management 
+Review 14(4): 516–531.
+Willmott H (2003) Commercializing higher education in the UK: The state, industry and peer 
+review. Studies in Higher Education 28(2): 129–141.
+Yanagi S (1972) The Unknown Craftsman. Tokyo: Kodanska International.
+Emma Bell is Professor of Organization Studies at the Open University, UK. Her work is concerned 
+with understanding how meaning is produced, disseminated and contested in organizations. 
+Previous projects focused on the importance of religious and spiritual beliefs in shaping organiza-tional cultures and leadership, popular cultural representations of management and organization and understanding embodiment, materiality and learning in organizations. A commitment to qualitative 
+inquiry runs throughout. She has authored and edited six books and published articles in journals 
+including Academy of Management Learning & Education, Human Relations, Organization, 
+Management Learning and British Journal of Management. [Email: emma.bell@open.ac.uk]
+Hugh Willmott (PhD Manchester University; Honorary PhD, Lund University) is Professor of 
+Management at Cass Business School Research, City University and Research Professor in Organization Studies, Cardiff Business School. He previously held professorial appointments at 
+UMIST (now Manchester Business School) and the Judge Business School. His research interests 
+focus around the application of critical social theories to the study of management and organiza-tions. Hugh is a Fellow of the British Academy. He is a past Associate Editor of Academy of Management Review and Associate Editor of Organization. He has also served on the editorial boards of Accounting, Organizations and Society, Journal of Management Studies and Organization 
+Studies. Full details can be found on his homepage: https://sites.google.com/site/hughwill-mottshomepage. [Email: Hugh.Willmott.1@city.ac.uk]
+
+Copyright
+of
+Human
+Relations
+is
+the
+property
+of
+Sage
+Publications
+Inc.
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

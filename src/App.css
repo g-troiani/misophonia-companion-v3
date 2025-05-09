@@ -1,0 +1,444 @@
+/* File: src/App.css */
+
+/* ───────────────────────────────────────────── */
+/* GLOBAL RESET                                 */
+html, body {
+  margin: 0 !important;      /* kill the 8 px UA margin */
+  padding: 0;
+  height: 100%;              /* body fills the viewport vertically */
+}
+
+/* optional – keeps sizing predictable everywhere */
+*, *::before, *::after { box-sizing: border-box; }
+/* ───────────────────────────────────────────── */
+
+/* ----- BODY --------------------------------------------- */
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Nunito', 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+  color: #3a3a3a;
+  background: linear-gradient(120deg, #f8f6ff 0%, #b2d8d8 100%);
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.animated-bg {
+  position: fixed;
+  z-index: 0;
+  width: 100vw;
+  height: 100vh;
+  top: 0; left: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.bubble {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.3;
+  animation: float 18s infinite linear;
+  background: #b2d8d8;
+}
+.bubble1 { width: 120px; height: 120px; left: 10vw; top: 80vh; animation-delay: 0s; background: #b2d8d8; }
+.bubble2 { width: 80px; height: 80px; left: 70vw; top: 70vh; animation-delay: 4s; background: #f8f6ff; }
+.bubble3 { width: 90px; height: 90px; left: 50vw; top: 90vh; animation-delay: 8s; background: #e0e7ef; }
+.bubble4 { width: 60px; height: 60px; left: 20vw; top: 85vh; animation-delay: 2s; background: #f7cac9; }
+.bubble5 { width: 100px; height: 100px; left: 80vw; top: 95vh; animation-delay: 6s; background: #b5ead7; }
+.bubble6 { width: 70px; height: 70px; left: 30vw; top: 92vh; animation-delay: 10s; background: #ffdac1; }
+.bubble7 { width: 110px; height: 110px; left: 60vw; top: 85vh; animation-delay: 12s; background: #c7ceea; }
+.bubble8 { width: 50px; height: 50px; left: 40vw; top: 98vh; animation-delay: 14s; background: #f6dfeb; }
+@keyframes float {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-90vh); }
+}
+
+/* ----- LAYOUT WRAPPER ----------------------------------- */
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  z-index: 1;
+  position: relative;
+  min-width: 340px;
+  background: none;
+  box-shadow: none;
+}
+
+/* ----- CARD --------------------------------------------- */
+.card {
+  background: rgba(255,255,255,0.96);
+  border-radius: 22px;
+  box-shadow: 0 6px 32px rgba(31,38,135,.13);
+  padding: 2rem 1.2rem;
+  margin: 2.5rem 0;
+  max-width: 520px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: box-shadow 0.18s;
+}
+
+/* mobile tweaks – ONE block */
+@media (max-width: 700px) {
+  .container { 
+    max-width: 98vw; 
+    padding: 1rem; 
+  }
+  .card { 
+    padding: 1.2rem 0.5rem; 
+    border-radius: 16px; 
+    max-width: 99vw;
+  }
+  .navbar {
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.97rem;
+  }
+  .chatbot-box {
+    padding: 1rem 0.3rem;
+    border-radius: 16px;
+  }
+  .msg {
+    font-size: 0.99rem;
+  }
+  .chat-avatar {
+    width: 30px; height: 30px;
+  }
+}
+
+/* ----- NAVBAR ------------------------------------------- */
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.navbar button {
+  background: #e6e6fa;
+  color: #3a3a3a;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 18px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  box-shadow: 0 2px 8px rgba(178, 216, 216, 0.09);
+}
+
+.navbar button.active, .navbar button:hover {
+  background: #b2d8d8;
+  color: #234e52;
+}
+
+.title {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+  color: #234e52;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #6d7b8d;
+  margin-bottom: 2rem;
+}
+
+main {
+  padding: 1.5rem 0;
+}
+
+h2 {
+  color: #234e52;
+  margin-bottom: 1rem;
+}
+
+/* Chatbot styles (always apply) */
+.chatbot-box {
+  background: linear-gradient(135deg, rgba(248,246,255,0.93) 60%, rgba(178,216,216,0.10) 100%);
+  border-radius: 26px;
+  box-shadow: 0 4px 28px 0 rgba(31, 38, 135, 0.11), 0 1.5px 5px 0 rgba(178,216,216,0.08);
+  padding: 2.2rem 1.2rem 1.5rem 1.2rem;
+  margin: 0.5rem 0 0.5rem 0;
+  min-height: 350px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: 1.5px solid #e0e7ef;
+  backdrop-filter: blur(3px);
+  position: relative;
+  transition: box-shadow 0.2s;
+}
+
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  padding-bottom: 0.5rem;
+  border-radius: 18px 18px 8px 8px;
+  animation: fadeIn 0.7s;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.msg {
+  max-width: 80%;
+  display: flex;
+  align-items: flex-end;
+  gap: 0.6rem;
+  font-size: 1.08rem;
+  word-break: break-word;
+  box-shadow: 0 1px 6px 0 rgba(31, 38, 135, 0.03);
+  margin-bottom: 0.1rem;
+}
+
+.msg.user {
+  align-self: flex-end;
+  flex-direction: row-reverse;
+}
+
+.msg.bot {
+  align-self: flex-start;
+}
+
+.bubble-content {
+  padding: 0.7rem 1.1rem;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #b2d8d8 60%, #e0e7ef 100%);
+  color: #2a3d3d;
+  font-size: 1.08rem;
+  box-shadow: 0 1px 6px 0 rgba(31, 38, 135, 0.03);
+}
+
+.msg.bot .bubble-content {
+  background: linear-gradient(90deg, #f8f6ff 60%, #e9f7f7 100%);
+  color: #5b3a6b;
+}
+
+.chat-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  margin: 0 0.2rem;
+  box-shadow: 0 2px 8px 0 rgba(31, 38, 135, 0.05);
+  background: #fff;
+  object-fit: cover;
+}
+
+.chat-input-row {
+  display: flex;
+  gap: 0.6rem;
+  border-top: 1.5px solid #e0e7ef;
+  padding-top: 1rem;
+  margin-top: 0.3rem;
+  align-items: center;
+}
+
+.chat-input {
+  flex: 1;
+  height: 48px;
+  padding: 0 1rem;
+  border-radius: 12px;
+  border: 1.5px solid #c6e2e2;
+  font-size: 1.08rem;
+  outline: none;
+  background: #f4fafd;
+  color: #2a3d3d;
+  box-sizing: border-box;
+  transition: border-color 0.18s;
+}
+
+.chat-input:focus {
+  border-color: #b2d8d8;
+}
+
+.chat-send {
+  height: 48px;
+  min-width: 90px;
+  padding: 0 1.2rem;
+  border-radius: 12px;
+  border: none;
+  background: #b2d8d8;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.08rem;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.18s;
+  box-shadow: 0 1.5px 6px 0 rgba(31, 38, 135, 0.07);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-send:hover:not(:disabled) {
+  background: #81b0b0;
+  box-shadow: 0 4px 16px 0 rgba(31, 38, 135, 0.13);
+}
+
+.chat-send:disabled {
+  background: #f4fafd;
+  color: #b2d8d8;
+  cursor: not-allowed;
+  border: 1.5px solid #e0e7ef;
+  box-shadow: none;
+}
+
+/* More forceful styling for avatar labels */
+.chat-avatar, [class*="avatar"], [class*="circle"] {
+  font-size: 10px !important;
+  width: 45px !important;
+  height: 45px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* ----- RESEARCH-ASSISTANT POP-UP ------------------------ */
+.ra-wrapper {
+  position: fixed;            /* stick to viewport */
+  bottom: 84px;               /* enough to clear the floating disclaimer */
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(1100px, 96vw);    /* A little wider on desktop, still fully responsive on phones */
+  max-height: 70vh;           /* room for long answers w/ scroll */
+  overflow-y: auto;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 8px 22px rgba(0,0,0,.07);
+  padding: 2rem 2.25rem;
+}
+
+/* ─── research-assistant sticky search bar ───────────────────── */
+.rag-form{
+  position: sticky;
+  bottom: 0;                  /* hugs the card's bottom edge            */
+  z-index: 2;
+  padding: 1rem 0 0.5rem;     /* little breathing room                  */
+  background: rgba(255,255,255,.96);   /* white backdrop while it floats */
+  backdrop-filter: blur(3px);
+}
+
+.ra-input-row {
+  display: flex;
+  gap: 0.6rem;
+  margin-bottom: 1.25rem;
+}
+
+.ra-input {
+  flex: 1 1 auto;
+  font-size: 1.05rem;
+  padding: 0.65rem 0.9rem;
+  border: 2px solid #d0e4e4;
+  border-radius: 10px;
+}
+
+.ra-btn {
+  background: #669c99;
+  color: #fff;
+  border: 0;
+  padding: 0 1.25rem;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ----- DISCLAIMER (single source of truth) --------------- */
+.disclaimer-footer {
+  position: fixed;
+  bottom: 0;            /* 0 means literally the last pixel */
+  left: 0;
+  width: 100%;
+  font-size: 0.75rem;
+  color: #666;
+  text-align: center;
+  padding: 0;       /* adjust or set to 0 for no inner gap */
+  background: transparent;      /* or rgba(255,255,255,.85) if you want a strip */
+  z-index: 30;          /* higher than bubbles / page cards */
+}
+
+/* ─── RAG assistant layout tweak ─────────────────────────────── */
+.rag-card {
+  max-height: 75vh;               /* card never taller than viewport */
+  overflow-y: auto;               /* inner scroll, NOT page scroll   */
+  display: flex;
+  flex-direction: column;         /* children stack top→bottom       */
+}
+
+/* scrolling area for answer + sources */
+.rag-body {
+  flex: 1 1 auto;                 /* fill remaining height           */
+  overflow-y: auto;
+}
+
+/* search row always visible inside the scrolling card */
+.rag-input-row {
+  flex-shrink: 0;                 /* never shrinks                   */
+  position: sticky;
+  bottom: 0;                      /* sticks to card's bottom         */
+  background: #fff;               /* white strip over scrolled text  */
+  padding-top: 1rem;              /* add gap so it doesn't hug text  */
+}
+
+/* ─── RAG card: same width as before, inner scroll, sticky input ───────── */
+.ra-card {
+  width: 100%;                 /* full width of the central container    */
+  max-width: 1000px;           /* equals the old Bootstrap template      */
+  margin: 0 auto;              /* keep it centred                        */
+
+  /* original "card" visual style (copied, not changed) */
+  background: rgba(255,255,255,0.96);
+  border-radius: 22px;
+  box-shadow: 0 6px 32px rgba(31,38,135,.13);
+  padding: 2rem 1.2rem;
+
+  /* NEW: make the inside scroll but freeze the input row */
+  display: flex;
+  flex-direction: column;
+  max-height: 75vh;            /* never taller than the viewport         */
+  overflow-y: auto;
+}
+
+/* scrolling part (answer + citations) */
+.ra-body {
+  flex: 1 1 auto;
+  overflow-y: auto;
+}
+
+/* sticky search row – always visible */
+.ra-input-row {
+  flex-shrink: 0;
+  position: sticky;
+  bottom: 0;
+  background: #fff;            /* white strip so text doesn't peek under */
+  padding-top: 1rem;           /* gap between content & bar              */
+}
+
+/* RAG research card & footer separation ---------------- */
+.ra-card, .rag-card {
+  /* just ~1 em gap – enough to clear the footer without a chasm */
+  margin-bottom: 1.3rem;
+}
+
+/* keep the search bar fixed just above the footer text (≈24 px) */
+.ra-input-row {
+  position: sticky;
+  bottom: 1.5rem;
+}

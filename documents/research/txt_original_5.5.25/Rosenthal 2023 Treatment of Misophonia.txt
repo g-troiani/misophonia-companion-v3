@@ -1,0 +1,624 @@
+Processed byMinitexon:5/2/2023 2:22:11PM
+ThismaterialcomestoyoufromtheUniversity ofMinnesota collection oranotherparticipating library
+oftheMinitexLibraryInformation Network.
+Patrons:pleasecontactyourlibraryforhelpaccessing thisdocument. 
+Librarystaff:forissuesorassistance withthisdocument, pleaseemail:mtx-edel@umn.edu andprovide
+thefollowing information:
+ArticleID:MIH01MNPALSIHC0010387
+Patronemailaddress
+____________________________________________________________________________________
+Title:Advances inPsychiatry andBehavioral Health
+ArticleTitle: Treatment ofMisophonia
+ArticleAuthor: Rosenthal
+Date:2023-04-01
+ISSN-26673827;
+Source:LibKeyNomad
+Copyright: CCG
+____________________________________________________________________________________
+NOTICE CONCERNING COPYRIGHT RESTRICTIONS:
+Thecopyright lawoftheUnitedStates[Title17,UnitedStatesCode] governsthemakingofphotocopies
+orotherreproductions ofcopyrighted materials.
+Undercertainconditions specified inthelaw,librariesandarchivesareauthorized tofurnisha
+photocopy orotherreproduction. Oneofthesespecificconditions isthatthephotocopy isnottobe
+"usedforanypurposeotherthanprivatestudy,scholarship, orresearch." Ifausermakesarequestfor,or
+lateruses,aphotocopy orreproduction forpurposes inexcessof"fairuse,"thatusermaybeliablefor
+copyright infringement.
+Thisinstitution reservestherighttorefusetoacceptacopyingorderif,initsjudgment, fulfillment of
+thatorderwouldinvolveviolation ofcopyright law.
+
+Treatment of Misophonia
+M. Zachary Rosenthal, PhDa,b,*, Yanyan Shan, MAa,b, Jacqueline Trumbull, MAa,b
+aDepartment of Psychiatry & Behavioral Sciences, Duke University, DUMC, 6400 Pratt Street, North Pavilion, 6th Floor, Room 6043, Durham,
+NC 27705, USA;bDepartment of Psychology & Neuroscience, Duke University, Durham, NC, USA
+Misophonia was recently defined as a disorder charac-
+terized by intolerance of specific auditory stimuli and
+associated cues causing significant psychologicaldistress and interference in social, occupational, or aca-demic functioning [1]. Aversive stimuli in this context
+may be labeled as “triggers ”that are commonly repeti-
+tive sounds produced by others. Primary triggeringstimuli in misophonia most often (but not always)
+originate from facial (eg, nose noises, throat-clearing)
+or oral (eg, lip-smacking, chewing, drinking) sources.However, there are individual differences in the types
+of cues and contexts (eg, the same sound may have
+different effects when produced by specific people)associated with misophonia symptoms [2,3].
+Individuals with impairing levels of misophonia
+symptoms may have strong multi-modal emotional re-sponses to contexts in which triggering cues are antici-pated or encountered. For example, common responses
+include central (eg, insula) [4] and peripheral nervous
+system activation (eg, increased heart rate and skinconductance) [5], negative affect (eg, irritation, anger,
+anxiety, disgust) [6,7], and behavioral patterns that canbe conceptualized as consistent with freeze (eg, hypervig-
+ilance), flight (eg, escape or avoidance behavior), and
+fight behaviors (eg, interpersonally aggressive verbalbehavior) [8]. These responses are highly distressingand different than how most others might react [1].
+Jastreboff and Jastreboff are credited for coining the
+term misophonia over 20 years ago [9]. The term trans-lates to hatred or dislike (miso) of sound (phonia).
+However, this literal translation is misleading, as the
+condition is neither uniquely associated with the affec-tive experience of hate or dislike, nor are auditory cues
+the only stimuli that can function as triggers. The first
+pilot studies directly examining misophonia were pub-lished only 9 years ago [5,10]. Since then, over 60 pub-
+lished empirical studies have investigated misophonia,
+with roughly 25% of these published over the lastyear in the first special section in a peer-reviewed scien-tific journal dedicated to misophonia ( Frontiers in
+Neuroscience ).
+Recent reviews suggest that misophonia may be
+associated with a wide variety of mental health problems
+[1–3]. The majority of studies have used self-report
+*Corresponding author, E-mail address: mark.rosenthal@duke.eduKEYWORDS
+/C15Misophonia /C15Treatment /C15Psychotherapy /C15Unified protocol /C15Process-based therapy
+/C15Multi-disciplinary treatment
+KEY POINTS
+/C15Introduces misophonia and reviews published psychotherapy treatment studies.
+/C15Outlines a multi-disciplinary strategy for treatment.
+/C15Describes the application of two transdiagnostic psychotherapies with emerging evidence in misophonia (Unified Protocol
+and Process-Based Therapy).
+/C15Suggests an agenda for future research and treatment development.Advances in Psychiatry and Behavioral Health -(2023) -–-
+ADVANCES IN PSYCHIATRY AND BEHAVIORAL HEALTH
+https://doi.org/10.1016/j.ypsc.2023.03.009 www.advancesinpsychiatryandbehavioralhealth.com
+2667-3827/23/ © 2023 Elsevier Inc. All rights reserved. 1
+
+methodologies and have found that misophonia symp-
+tom severity is positively correlated transdiagnostically
+with, for example, neuroticism, anxiety symptoms,depressive symptoms, difficulties with emotion regula-
+tion, affective instability, anxiety sensitivity, some
+obsessive-compulsive disorder (OCD) symptoms,perfectionism, and somatic pain [11 –19]. Additionally,
+adults with misophonia may be significantly more likely
+than those without misophonia to self-report a lifetime
+history of attention-deficit/hyperactivity disorder(ADHD), OCD, bipolar disorder, substance use disor-
+der, post-traumatic stress disorder, and conversion disor-
+der [17,20].
+Two recent studies have used structured psychiatric
+diagnostic interviews as a more rigorous approach to
+the assessment of misophonia and associated mentalhealth problems. In one study, 575 adults presenting
+for treatment at a clinic in Amsterdam were interviewed
+using the Mini International Neuropsychiatric Interview[21], a structured interview assessing 15 current psychi-atric problems (Jager and colleagues, 2020a) [14]. Re-
+sults indicated that most (72%) participants did not
+meet the full criteria for a current psychiatric disorder.The most common current disorders were mood disor-
+ders (10.1%), anxiety disorders (9%), ADHD (5.4%),
+and personality disorders (5%).
+Rosenthal and colleagues [8] conducted the first study
+to characterize diagnsotic and statistical manual of mental
+disorders (DSM-5) disorders using structured diagnosticinterviews in a nationally recruited community sampleof 207 adults with high misophonia symptoms. Results
+indicated that anxiety disorders were the most common
+type of current mental health problem (56.9%). Addi-tionally, high rates of lifetime history of psychiatric dis-
+orders were observed, including diagnoses of any
+anxiety (73%), mood (61%), obsessive-compulsive(27%), substance use (26%), trauma-related (24%),
+eating (18%), or personality disorders (13%).
+The findings from Jager and colleagues [14] suggest
+that most adults seeking outpatient treatment of miso-
+phonia in Amsterdam may not have a current psychiat-
+ric disorder. In contrast, Rosenthal and colleagues [8]indicate that adults across the United States with highmisophonia symptoms may be most likely to meet
+the full criteria for a current anxiety disorder or lifetime
+history of any anxiety or mood disorders. A consistentinterpretation of findings across all studies is that higher
+misophonia symptoms do not appear to be uniquely
+related to any specific psychiatric disorder. Accordingly,it is premature to conclude that any specific treatment
+protocol for any specific psychiatric disorder is best
+for the treatment of misophonia.TREATMENT OF MISOPHONIA
+Multi-Disciplinary Model: Audiology
+There is no gold standard evidence-based treatment ofmisophonia, and it is not a disorder within the purview
+of any specific clinical discipline. Because it appears to
+be a problem at the intersection of various clinicalfields, a multi-disciplinary treatment model may bevaluable. For example, audiologists may be important
+in the assessment and treatment of misophonia as it
+is defined as a sound intolerance condition. Becausemisophonia may need to be differentiated from hyper-
+acusis, audiologists may be helpful in assessment and
+treatment planning. For example, audiologists use eval-uative measures to assess sensitivity thresholds and can
+discern if one is hypersensitive to auditory stimuli.
+With regard to treatment, audiologists can work with
+patients to determine the pros and cons of using sound-
+based therapies. These approaches use patient-
+controlled devices unobtrusively placed in the ear canalto diminish (eg, noise cancellation), mask (eg, staticbrown or white noise), and change responses to audi-
+tory input. Although these interventions have not
+been tested empirically using randomized trials forthe treatment of misophonia, promising support has
+come from clinical observations reported by Jastreboff
+and Jastreboff, who pioneered the adaptation ofTinnitus Retraining Therapy for patients with misopho-
+nia and report high rates of success in uncontrolled tri-
+als [22]. This approach uses sound therapy andbehavioral training to change response patterns to trig-gering contexts and cues, and was reported by the devel-
+opers to be highly effective in a clinical setting.
+Multi-Disciplinary Model: Occupational
+Therapy
+Because misophonia may occur in the context of multi-
+sensory over-responsivity, it may be valuable to include
+occupational therapists in a multi-disciplinary assess-ment and treatment approach. Occupational therapistsemphasize improvement of functioning across key do-
+mains of life. Because occupational therapists are the ex-
+perts in sensory processing within health care, they mayoffer helpful coping strategies to manage misophonia
+effectively. Occupational therapy includes treatments
+designed to help improve central sensory processingthrough interventions designed to enhance sensory
+integration functioning. Treatments may identify and
+intervene upon environmental barriers to adaptive sen-sory processing or train new adaptive reactions to
+emotionally evocative sensory cues. Like approaches
+used by audiologists, there are no randomized2 Rosenthal, Shan, Trumbull
+
+controlled trials evaluating the efficacy of occupational
+therapy interventions with misophonia. However, these
+interventions have a long history of being used toimprove sensory processing, and, as such, may be worth
+considering for those with misophonia.
+Multi-Disciplinary Model: Mental Health
+Some early clinical observations [22] and the large
+study by Jager and colleagues [14] indicate that adultswith misophonia may present for treatment without
+co-occurring psychiatric disorders. On the other hand,
+there is a growing body of research and clinical observa-tions pointing to misophonia occurring in the context
+of varied and debilitating psychiatric disorders [8] and
+an associated need for mental health professionals tobe involved in the treatment of this disorder. Accord-
+ingly, evaluation and treatment recommendations
+from mental health providers are indicated in a multi-disciplinary model of care for misophonia.
+Treatment Studies
+Most publications describing possible psychotherapies
+for misophonia have been small case studies (Table 1)
+[23–35]. These treatments were mostly conducted using
+branded (eg, acceptance and commitment therapy;
+ACT) and non-branded interventions from the family
+of cognitive behavioral therapies (CBTs), and the au-thors reported descriptions of successful treatment inone or several individuals.
+Examples of non-branded interventions include
+cognitive restructuring [23,24,26,30 –32,35], relaxa-
+tion exercises [26,28,32,35], counter-conditioning
+[27,28], acceptance and distress tolerance strategies
+[25,26,29,30,33,35], exposure and response preven-tion [23 –26,30 –32,34], interpersonal communication
+skills [24,32,33], attentional control skills [24,30,34],
+and parent management training [26,32]. Case studiesare useful beginning points for treatment development
+and provide a direction for clinicians in the absence of
+a clear gold standard of care. However, these casestudies do not provide compelling evidence of efficacyfor any particular intervention.
+OPEN TRIALS
+Three open trials have been conducted to treat miso-phonia [36 –38]. Schröder and colleagues [38] conduct-
+ed an uncontrolled trial involving 90 adults with
+misophonia, showing promise for a cognitive behav-ioral approach using brief group therapy. In this trial,
+48% of participants improved on a clinician rating of
+outcome, and 30% reported a significant reduction insymptoms on a self-report measure of misophonia.
+The treatment included four main components: (1)
+attentional shifting away from trigger stimuli, (2)counter-conditioning to disrupt classically conditioned
+associations between neutral/positive stimuli that have
+become paired with negative emotional experiences,(3) stimulus manipulation exercises (allowing theparticipant to manipulate trigger sounds), and (4) relax-
+ation exercises. Because this intervention occurs in a
+group, validation and support from other sufferersmay also be an important component of this treatment.
+Frank and McKay reported that 18 participants
+received 12 sessions of exposure therapy before or afterstress management training [36]. The exposure proced-
+ure used an inhibitory learning model, emphasizing
+altered expectations for the target sounds along withthe deliberate practice of hearing sounds on an individ-
+ual hierarchy. Rather than targeting habituation of psy-
+chological distress when exposed to triggers, theinhibitory learning approach to exposure enhances pa-tient motivation to approach triggering cues and con-
+texts by changing the features of these cues or their
+responses to them in an effort to change expectations,increase psychological flexibility, enhance valued ac-
+tions, and increase the perception of control over reac-
+tions to misophonic cues. This study demonstratesthat without habituation to certain sounds, inhibitory
+learning-based exposure procedures may be a prom-
+ising way to enhance perceived control over emotionalreactions to misophonia triggers.
+Finally, Jager and colleagues [37] used an open trial
+to evaluate the efficacy of eye movement desensitiza-
+tion and reprocessing (EMDR) therapy in treating miso-phonia in eight participants. Misophonia-related
+emotionally disturbing memories were addressed with
+EMDR in an average of 2.6 sessions lasting 60 to 90 mi-nutes. Participants reported a statistically significant
+20% average reduction (with a large effect size estimate
+ofd51.14) in symptoms of misophonia on a self-
+report measure of misophonia. No statistically signifi-
+cant changes were observed in psychological distress
+or impairment in functioning on secondary outcomemeasures. Due to the uncontrolled experimental designof these open trials, no definitive conclusions can be
+drawn from these studies about treatment efficacy,
+though these are valuable studies pointing to possibletreatments to further evaluate.
+RANDOMIZED CLINICAL TRIAL
+Jager and colleagues [39] conducted the only random-ized controlled trial for misophonia (Table 2). UsingTreatment of Misophonia 3
+
+TABLE 1
+Case Studies of Misophonia Treatment
+Studies TreatmentStrategies
+Age Gender Comorbidity#o f
+sessionsMisophonia Assessment
+Cognitive
+RestructuringRelaxation
+ExercisesCounter-
+ConditioningAcceptance
+and Distress
+Tolerance ERPInterpersonal
+SkillsAttention
+ControlParenting
+Training Baseline PostSymptom
+Reduce
+Bernstein
+[24], 2013CBT OO O O 19 Female None 6 NA NA NA
+Dozier [27],
+2015(a)NRT O 48 Female NA 14 MAQ41 MAQ9 MAQ78%
+Dozier [28],
+2015(b)NRT OO 21 Female None 4 MAQ49 MAQ13 MAQ73%
+McGuire
+[31], 2015CBT OO 17 Female None 10 MQ55
+MSS12MQ37
+MSS7MQ33%
+MSS42%
+11 Female None 18 MQ31
+MSS5MQ25
+MSS4MQ19%
+MSS20%
+Reid [34],
+2016CBT OO O 14 Female OCD, MDD,
+phobia,
+ADHD14 AMISOS17 AMISOS7 AMISOS59%
+Kamody
+[29], 2017DBT O 16 Female social
+anxiety7I135G AMISO22
+MAQ51AMISO10
+MAQ16AMISO 55%
+MAQ 71%
+Schneider
+[35], 2017DBT and
+ACTOO 17 Male None 10 AMISOS14 AMISOS8 AMISOS57%
+Altýnöz
+2018CBT OO 18 Female NA 6 MAS6
+MPRS6
+AMISOS11MAS2
+MPRS2
+AMISOS4MAS67%
+MPRS67%
+AMISOS64%
+Muller [32],
+2018CBT OO O O O 14 Female None 24 NA NA NA
+Dover [26],
+2021CBT OO O O O 10 Female OCSD 30 AMISOS10
+MQ27AMISOS3
+MQ6AMISO70%
+MQ78%
+Lewin [30],
+2021UP OO O O 4 cases, NA 10 MAQ25
+AMISOS13MAQ13
+AMISOS9MAQ48%
+AMISOS31%
+MAQ18
+AMISOS15MAQ25
+AMISOS12MAQ139%
+AMISOS20%
+MAQ12
+AMISOS9MAQ3
+AMISOS6MAQ75%
+AMISOS33%
+MAQ54
+AMISOS17MAQ13
+AMISOS10MAQ76%
+AMISOS42%
+Cowan
+[25], 2022EASE [1] OO 14 Female NA 6 NA NA NA
+Petersen
+[33], 2022ACT OO 12 Female NA 16 AMISOS10 AMISOS5 AMISOS50%
+Abbreviations: ACT, acceptance and commitment therapy; ADHD, attention deficit hyperactivity disorder; AMISO, Amsterdam Misophonia Scale; CBT, cognitive behav ioral therapy; DBT,
+dialectic behavioral therapy; EASE, experiential acceptance and stimulus engagement; ERP, exposure and reaction prevention; MAQ, misophonia ass essment questionnaire; MAS, mi-
+sophonia activation scale; MPRS, misophonia psychological response scale; MQ, misophonia questionnaire; MSS, misophonia severity scale; NA, not applicable; NRT, neural repatterning
+technique; OCD, obsessive-compulsive disorder; OCSD, obsessive-compulsive spectrum disorder; 7I 135G, 7 individual sessions and 35 group sessions.4 Rosenthal, Shan, Trumbull
+
+TABLE 2
+Open Trials and Randomized Clinical Trial of Misophonia Treatment
+Studies TreatmentCognitive
+RestructuringRelaxation
+ExercisesCounter-
+ConditioningAttention
+Control ERPStimulus
+manipulation Others Participants Age Comorbidity # of SessionsSymptom
+Reduce
+Open Trials
+Schröder
+[38], 2017Group-CBT OO O O 90 36 NA 8 AMISOS-R 33%
+Frank [36],
+2019Inhibitory
+LearningOO 18 35 56% 12 NA
+Jager [37],
+2021EMDR Desensitization
+and
+reprocessing10 35 50% Axis I,
+60%
+Axis II2.6 AMISOS-R 20%
+Randomized Clinical Trial
+Jager [39],
+2020Group-CBT OO O O O Psychoeducation
+for family and
+friends27 31 NA 12 AMISOS-R 32%
+Abbreviations: AMISOS-R, Amsterdam misophonia scale —revised; CBT, cognitive behavioral therapy; EMDR, eye movement desensitization and reprocessing; NA, not applicable.Treatment of Misophonia 5
+
+a cross-over design, adults with misophonia ( N554)
+were randomly assigned to 3 months of weekly CBT
+in a group therapy format or to a waitlist. Participantswere assessed at baseline, 3 months (following CBT or
+waitlist), 6 months (after cross-over), and between
+months 15 and 18 (1-year follow-up). CBT groupsincluded task concentration, arousal reduction, positiveaffect labeling, and stimulus manipulation. Across all
+participants, symptoms of misophonia reduced by
+32% after 3 months of CBT (a large effect size estimateofd51.97). Clinical improvement was observed in
+37% of the CBT group compared to 0% in the waiting
+list group. Those who responded to CBT at post-treatment demonstrated no significant changes in
+symptoms of misophonia 1 year later, suggesting the ef-
+fects of CBT maintained over time.
+This randomized trial is the clearest evidence sup-
+porting the use of any specific treatment of misophonia.
+However, it should be noted that the comparison con-dition was an unblinded wait list control without anyactive intervention components. Additional studies are
+needed comparing this protocol to credible control con-
+ditions featuring non-specific factors such as psycho-education, therapist time and attention, validation,
+and/or support. Nonetheless, the findings of this trial
+and, collectively, the combined findings across the pre-liminary case studies and open trials largely indicate
+that components from CBTs (eg, cognitive restructuring,
+exposure and counter-conditioning, relaxation exer-cises, interpersonal communication, and acceptance-based skills) may be reasonable for clinicians to
+consider and in need of future study as treatments of
+misophonia in both youth and adults.
+TRANSDIAGNOSTIC APPROACHES TO
+PSYCHOTHERAPY
+Unified Protocol
+As outlined, early studies suggest misophonia (a) is not
+best accounted for by any psychiatric disorder, (b) is asso-
+ciated with various transdiagnostic psychological prob-
+lems, and (c) pilot studies developing promisingtreatments have used various interventions from the fam-
+ily of CBTs. Accordingly, when considering which treat-
+ment approaches to scientifically evaluate, it is unclearwhether it is appropriate to use a specific branded psy-
+chotherapy protocol designed for a specific diagnosis.
+Although untested, transdiagnostic psychotherapiesmay be a flexible and pragmatic alternative. The Unified
+Protocol (UP) is a reasonable candidate for transdiagnos-
+tic psychotherapy to consider, as it has been developedand evaluated for use with a wide range of “emotional
+disorders, ”including anxiety and mood disorders [40].
+The UP is a 16-week skills-based treatment that con-
+sists of five core modules: mindful emotional awareness,
+cognitive flexibility, identifying and changing emotional
+avoidance, increasing tolerance of emotion-relatedphysical sensations, and emotional exposures [41]. Pa-tients with misophonia may be characterized by prob-
+lems with emotional reactivity, limited access to
+emotion regulation strategies, and intolerance ofelevated physical sensations when exposed to trigger
+sounds [13,42]. The core modules in the UP target these
+processes. The transdiagnostic approach of the UP hasdemonstrated efficacy against single-disorder treatments
+in multiple studies [41,43]. This success may be due to
+the high rates of co-occurrence between emotional dis-orders, with anxiety and depressive disorders having life-
+time rates of co-occurrence as high as 75% [43]. As
+examples of efficacy, the UP has demonstrated improve-ments in anxiety [41], OCDs [44], and dysregulatedanger across a range of clinical presentations [45]. Pa-
+tients with misophonia may have high rates of co-
+occurring mental health problems [8,14], suggestingthat the UP may be a helpful approach to consider.
+Although a recent case study examined UP as a
+possible treatment of adolescents with misophonia[46], controlled clinical trials are needed before conclu-
+sions can be made about the efficacy of UP for miso-
+phonia. Our own research team is currentlyconducting preliminary open trials and developing amanual using the UP to treat adults with misophonia.
+Of eight participants treated with the UP, none dropped
+out of the treatment, and all reported that they foundthe treatment helpful. Patients also reported that
+learning about their own unhelpful coping mechanisms
+was important, as was enhanced skill use for emotionalresponses to trigger sounds [47].
+Process-Based Therapy (PBT)
+Although manualized models of psychotherapy such asthe UP may be helpful, another candidate approach
+that is transdiagnostic and highly flexible is the PBT
+framework [48]. In PBT, therapists leverage evidence-based therapeutic processes that are common across
+therapies (eg, strong therapeutic alliance, empathy, sup-
+port, motivational enhancement) and specific proced-ures used across protocols for various diagnoses and
+problems (eg, the list of interventions in Table 1). PBT
+assessment features functional analyses to identify mal-adaptive and adaptive patterns and measurement-based
+care using both qualitative and psychometrically vali-
+dated quantitative measures of functioning and change6 Rosenthal, Shan, Trumbull
+
+processes. Additionally, targets for treatment are collab-
+oratively selected in a sequence that is acceptable to pa-
+tients and intended to impact other targets in a networkof related change processes. This enables an emphasis
+on patient strengths and empowerment, with assump-
+tions of non-linear change leading to iterative and flex-ible changes in targets and therapeutic proceduresthroughout treatment.
+When using PBT for misophonia, a therapist and pa-
+tient determine through functional analyses that thereare problematic patterns before, during, or after being
+triggered across attentional (eg, hypervigilance), cogni-
+tive (eg, internal, stable, and global attributions), physi-ological (eg, sympathetic arousal), social (eg, verbal
+confrontations), or other behavioral (eg, avoidance or
+escape behavior) levels of functioning. After discerningspecific personally-relevant patterns, problematic pat-
+terns are collaboratively prioritized for targeted change.
+Next, therapeutic procedures known empirically toimpact targeted patterns are offered by the therapist,and the patient chooses the one they are most willing
+and able to do (eg, to reduce physiological arousal
+when triggered, the patient could choose any protocolknown to reduce sympathetic arousal). The intervention
+is administered, the patient applies the intervention in
+their daily life, and measures are taken to determine theeffects of the intervention. When progress is made on a
+prioritized target, the patient selects the next most prior-
+itized target to address, and the process repeats itself untilpatients are satisfied that they have met treatment goals.PBT is an approach that our group is currently testing
+for misophonia, with a manual under development iter-
+atively based on patient feedback. As such, it is unknownif this approach is efficacious for misophonia.
+RESEARCH AGENDA FOR TREATMENT
+DEVELOPMENT
+Mechanistic Translational Studies
+Studies identifying underlying neurobehavioral mecha-
+nisms of misophonia are needed to develop optimal in-
+terventions that target precise biological, social, orbehavioral change processes. Candidate targets include
+difficulties with attention (eg, hypervigilance toward
+possible misophonic cues), cognition (eg, attributionalstyles, hopelessness), behavior (eg, avoidance, escape),
+social (eg, indirect aggression), and emotional (eg, sensi-
+tivity, reactivity) processes. As researchers seek todiscover underlying biopsychosocial change processes
+in misophonia, it will be important to do so using
+multi-method studies with objective laboratory-basedmeasures. Processes that are unique to misophonia
+and those shared with other sound intolerance or mental
+health conditions need to be elucidated empirically us-ing thoughtful experimental and statistical approaches.
+Global Research with Diverse Participants
+To date, most studies investigating misophonia have
+included disproportionately White, educated women
+as participants. It may be that these demographic factorsalign with access to knowledge about misophonia or
+motivation to participate in research. However, some
+studies using sampling methodologies with more repre-sentative approaches have not reported gender differ-
+ences in misophonia symptoms [49]. Similarly, no
+studies have explored ethnicity, race, or multiculturalconsiderations related to misophonia. To understandthe nature and features of misophonia for all people,
+it is essential for researchers to use sampling methods
+that include diverse participants.
+Multi-Disciplinary Treatment Models
+Although a multi-disciplinary model of evaluations and
+treatment is recommended as a general strategy, there
+are no studies empirically testing this approach. Todetermine for whom, how, and why this model maybe helpful, multi-disciplinary research is needed. This
+could include direct testing of such an approach
+compared to usual treatment or discipline-specific inter-ventions. This also could include using adaptive designs
+that begin with fewer resources and, for those who are
+non-responsive, randomizing participants to higherresource treatment approaches.
+Psychoeducation and Support
+It is uncommon for clinical providers or the lay public to
+have extensive knowledge about misophonia. This
+overall lack of public awareness about misophoniafrequently translates into patients and loved ones
+needing foundational psychoeducation and support in
+how to make sense of and manage misophonia. Partic-ularly for caregivers and those with somewhat less
+impairing misophonia presentations, it may be that psy-
+choeducation and support can serve as an important,low-cost, and scalable component of an overall treat-ment approach. Studies are needed to examine whether,
+for whom, and how such approaches can be helpful.
+Digital Health
+Another recommended approach for treatment develop-
+ment is the use of digital health-based models of care.
+This could include, for example, interventions using mo-
+bile phones with misophonia support apps to screen,Treatment of Misophonia 7
+
+educate, support, and provide specific real-time interven-
+tions targeting underlying mechanistic change processes
+(eg, attentional hypervigilance, emotional reactivity, in-direct interpersonal aggression, approach or avoidance
+behavior, cognitive reframing, or defusion). In addition,
+digital health approaches that train novel coping skills invirtual environments or with augmented reality coulddirectly target underlying mechanistic targets of change
+and, in some instances, provide real-time feedback and
+tailored interventions based on user input and machinelearning. These platforms can provide immersive and
+engaging experiences that may be more desirable for
+some than conventional treatment approaches such aspsychotropic medication or psychotherapy.
+CLINICS CARE POINTS
+FUNDING
+Funding for this work was provided by anonymous sup-
+porters of the Duke Center for Misophonia andEmotion Regulation.
+DISCLOSURE
+The authors have nothing to disclose.REFERENCES
+[1]Swedo SE, Baguley DM, Denys D, et al. Consensus defi-
+nition of misophonia: a delphi study. Front Neurosci2022;16:841816 .
+[2]Brout JJ, Edelstein M, Erfanian M, et al. Investigating mi-
+sophonia: a review of the empirical literature, clinical im-plications, and a research agenda. Front Neurosci 2018;12:36 .
+[3]Potgieter I, MacDonald C, Partridge L, et al. Misophonia:
+a scoping review of research. J Clin Psychol 2019;75(7):1203 –18.
+[4]Kumar S, Tansley-Hancock O, Sedley W, et al. The brain
+basis for misophonia. Curr Biol 2017;27(4):527 –33.
+[5]Edelstein M, Brang D, Rouw R, et al. Misophonia: phys-
+iological investigations and case descriptions. Front Hum
+Neurosci 2013;7:296 .
+[6] Remmert N, Schmidt KMB, Mussel P, et al. The Berlin
+Misophonia Questionnaire (BMQ): development andvalidation of a symptom-oriented diagnostical instru-
+ment for the measurement of misophonia. PsyArXiv
+2021. https://doi.org/10.31234/osf.io/mujya.
+[7]Rosenthal MZ, Anand D, Cassiello-Robbins C, et al.
+Development and initial validation of the duke miso-
+phonia questionnaire. Front Psychol 2021;12:709928 .
+[8]Rosenthal MZ, McMahon K, Greenleaf AS, et al. Pheno-
+typing misophonia: psychiatric disorders and medical
+health correlates. Front Psychol 2022;13:941898 .
+[9]Jastreboff MM, Jastreboff PJ. Components of decreased
+sound tolerance: hyperacusis, misophonia, phonopho-bia. ITHS News Letter 2001;2(5 –7):1–5.
+[10] Schröder A, Vulink N, Denys D. Misophonia: diagnostic
+criteria for a new psychiatric disorder. PLoS One 2013;8(1):e54706 .
+[11] Cassiello-Robbins C, Anand D, McMahon K, et al.
+A Preliminary investigation of the association between
+misophonia and symptoms of psychopathology and per-sonality disorders. Front Psychol 2021;11:519681 .
+[12] Cusack SE, Cash TV, Vrana SR. An examination of the
+relationship between misophonia, anxiety sensitivity,and obsessive-compulsive symptoms. J Obsessive Com-puls Relat Disord 2018;18:41 –8.
+[13] Guetta RE, Cassiello-Robbins C, Trumbull J, et al. Exam-
+ining emotional functioning in misophonia: the role ofaffective instability and difficulties with emotion regula-tion. PLoS One 2022;17(2):e0263230 .
+[14] Jager I, de Koning P, Bost T, et al. Misophonia: phenom-
+enology, comorbidity and demographics in a large sam-ple. PLoS One 2020;15(4):e0231390 .
+[15] McKay D, Kim SK, Mancusi L, et al. Profile Analysis of
+psychological symptoms associated with misophonia: a
+community sample. Behav Ther 2018;49(2):286 –94.
+[16] Quek TC, Ho CS, Choo CC, et al. Misophonia in singa-
+porean psychiatric patients: a cross-sectional study. Int J
+Environ Res Public Health 2018;15(7):1410 .
+[17] Rouw R, Erfanian M. A large-scale study of misophonia.
+J Clin Psychol 2018;74(3):453 –79./C15Misophonia symptoms can occur with or without
+psychiatric disorders or other health problems. Start
+treatment with a multi-disciplinary strategy of evalu-ations and treatment recommendations across audi-ology, occupational therapy, and mental health
+providers.
+/C15There are no cures, evidence-based medications, or
+proven treatments for misophonia. Aim to enhancefunctioning using interventions known to impact pri-
+mary processes underlying problematic patterns
+(physiological arousal, attention, cognition, behavior,communication).
+/C15Given the absence of a proven mental health treat-
+ment of misophonia, transdiagnostic evidence-based
+therapies (eg, UP) and flexible patient-centered
+frameworks leveraging evidence-based change pro-cess may be useful to tailor interventions to the indi-
+vidual (eg, PBT), although require further evaluation.
+/C15Habituation-based exposure therapy is not indicated,
+but inhibitory learning models of exposure therapymay be helpful as part of a broader treatmentapproach.8 Rosenthal, Shan, Trumbull
+
+[18] Siepsiak M, Sobczak AM, Bohaterewicz B, et al. Preva-
+lence of misophonia and correlates of its symptomsamong inpatients with depression. Int J Environ Res Pub-
+lic Health 2020;17(15):5464 .
+[19] WuMS,Lewin AB, Murphy TK,etal.Misophonia:incidence,
+phenomenology, and clinical correlates in an undergradu-ate student sample. J Clin Psychol 2014;70(10):994 –1007 .
+[20] Kılıç C, Öz G, Avano /C21glu KB, et al. The prevalence and
+characteristics of misophonia in Ankara, Turkey:population-based study. BJPsych Open 2021;7(5):e144 .
+[21] Sheehan DV, Lecrubier Y, Sheehan KH, et al. The mini-
+international neuropsychiatric interview (M.I.N.I): thedevelopment and validation of a structured diagnosticpsychiatric interview for DSM-IV and ICD-10. J Clin Psy-
+chiatry 1998;59(Suppl 20):22 –33.
+[22] Jastreboff PJ, Jastreboff MM. Treatments for decreased
+sound tolerance (hyperacusis and misophonia). SeminHear 2014;35(2):105 –20.
+[23] Alt ınöz AE, Ünal NE, Alt ınöz S ¸T. The effectiveness of
+cognitive behavioral psychotherapy in misophonia: acase report. Turk J Clin Psychiatry 2018;21(4):414 –7.
+[24] Bernstein RE, Angell KL, Dehle CM. A brief course of
+cognitive behavioural therapy for the treatment of miso-phonia: A case example. Cogn Behav Ther 2013;6:e10 .
+[25] Cowan EN, Marks DR, Pinto A. Misophonia: a psycho-
+logical model and proposed treatment. J Obsessive Com-
+puls Relat Disord 2022;32:100691 .
+[26] DoverN,McGuireJF.Family-basedcognitivebehavioral ther-
+apy for youth with Misophonia: a case report. Cogn Behav
+Pract 2021. https://doi.org/10.1016/j.cbpra.2021.05.005.
+[27] Dozier TH. Counterconditioning treatment for Misopho-
+nia. Clin Case Stud 2015;14(5):374 –87.
+[28] DozierTH. Treating the initial physical reflexof misophonia
+with the neural repatterning technique: a countercondi-
+tioning procedure. Psychol Thought 2015;8(2):189 –210.
+[29] Kamody RC, Del Conte GC. Using dialectical behavior
+therapy to treat misophonia in adolescence. Prim Care
+Companion CNS Disord 2017;19(5). https://doi.org/10.
+4088/PCC.17l02105.
+[30] Lewin AB, Dickinson S, Kudryk K, et al. Transdiagnostic
+cognitive behavioral therapy for misophonia in youth:
+methods for a clinical trial and four pilot cases. J AffectDisord 2021;291:400 –8.
+[31] McGuire JF, Wu MS, Storch EA. Cognitive-behavioral
+therapy for 2 youths with misophonia. J Clin Psychiatry
+2015;76(5):573 –4.
+[32] Muller D, Khemlani-Patel S, Neziroglu F. Cognitive-behav-
+ioral therapy for an adolescent female presenting with miso-
+phonia: a case example. Clin Case Stud 2018;17(4):249 –58.
+[33] Petersen JM, Twohig MP. Acceptance and commitment
+therapy for a child with misophonia: a case study. Clin
+Case Stud 2022. https://doi.org/10.1177/153465012211
+261 15346501221126136.
+[34] Reid AM, Guzick AG, Gernand A, et al. Intensive
+cognitive-behavioral therapy for comorbid misophonic
+and obsessive-compulsive symptoms: a systematic case
+study. J Obsessive Compuls Relat Disord 2016;10:1 –9.[35] Schneider RL, Arch JJ. Case study: a novel application of
+mindfulness-and acceptance-based components to treatmisophonia. J Contextual Behav Sci 2017;6(2):221 –5.
+[36] Frank B, McKay D. The suitability of an inhibitory
+learning approach in exposure when habituation fails:a clinical application to misophonia. Cogn Behav Pract2019;26(1):130 –42.
+[37] Jager I, Vulink N, de Roos C, et al. EMDR therapy for mi-
+sophonia: a pilot study of case series. Eur J Psychotrau-matol 2021;12(1):1968613 .
+[38] Schröder AE, Vulink NC, van Loon AJ, et al. Cognitive
+behavioral therapy is effective in misophonia: an opentrial. J Affect Disord 2017;217:289 –94.
+[39] Jager IJ, Vulink NC, Bergfeld IO, et al. Cognitive behav-
+ioral therapy for misophonia: a randomized clinical trial.
+Depress Anxiety 2020;38(7):708 –18.
+[40] Barlow DH, Sauer-Zavala S, Carl JR, et al. The nature,
+diagnosis, and treatment of neuroticism back to the
+future. Clin Psychol Sci 2014;2(3):344 –65.
+[41] Barlow DH, Farchione TJ, Bullis JR, et al. The unified pro-
+tocol for transdiagnostic treatment of emotional disor-
+ders compared with diagnosis-specific protocols for
+anxiety disorders: a randomized clinical trial. JAMA Psy-chiatr 2017;74(9):875 –84.
+[42] Dozier TH, Morrison KL. Phenomenology of misopho-
+nia: initial physical and emotional responses. Am J Psy-
+chol 2017;130(4):431 –8.
+[43] Steele SJ, Farchione TJ, Cassiello-Robbins C, et al. Effi-
+cacy of the Unified Protocol for transdiagnostic treat-
+ment of comorbid psychopathology accompanying
+emotional disorders compared to treatments targetingsingle disorders. J Psychiatr Res 2018;104:211 –6.
+[44] Sakiris N, Berle D. A systematic review and meta-analysis of
+the Unified Protocol as a transdiagnostic emotion regula-
+tion based intervention. Clin Psychol Rev 2019;72:101751 .
+[45] Cassiello-Robbins C, Sauer-Zavala S, Brody LR, et al.
+Exploring the effects of the mindfulness and countering
+emotional behaviors modules from the Unified Protocolon dysregulated anger in the context of emotional disor-ders. Behav Ther 2020;51(6):933 –45.
+[46] Tonarely-Busto NA, Phillips DA, Saez-Clarke E, et al.
+Applying the unified protocol for transdiagnostic treat-ment of emotional disorders in children and adolescentsto misophonia: a case example. Evid Based Pract Child
+Adolesc Ment Health 2022;1 –15.https://doi.org/10.10
+80/23794925.2022.2025631.
+[47] McMahon K, Cassiello-Robbins C, Rosenthal MZ.
+Exploring the Acceptability and Efficacy of a Transdiag-
+nostic Treatment for Misophonia. Misophonia ResearchFund Annual Report 2021;1 –3.
+[48] S.C. Hayes, S.G. Hofmann (Eds.), Process-based CBT: the
+science and core clinical competencies of cognitive
+behavioral therapy, New Harbinger Publications, Inc,Oakland, CA, 2018.
+[49] Jakubovski E, Müller A, Kley H, et al. Prevalence and clinical
+correlates of misophonia symptoms in the general popula-
+tion of Germany. Front Psychiatry 2022;13:012424 .Treatment of Misophonia 9

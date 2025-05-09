@@ -1,0 +1,816 @@
+© 2023 International Journal of Environmental Health Engineering | Published by Wolters Kluwer - Medknow1
+Original Article
+IntroductIon
+The effect of noise on human brain activity and its cognitive 
+function has often been taken for granted.[1] Noise has various 
+detrimental effects, including interruptions in cognitive 
+processing, negative effects on mental and physical health,[2] 
+nonauditory effects such as interruptions in comprehension 
+processes, cognitive disturbances, cardiac discomforts, 
+and sleep issues.[1] Exposure to noise in different work 
+and nonwork places is considered to be a problem. Noises 
+impertinent to professional duties are highly dangerous to 
+the safety, efficiency, and personal health of an individual.[3] 
+A number of studies have demonstrated that exposure to 
+noise could negatively affect the individuals’ safety due to 
+causing professional mistakes and interruptions in safety 
+communications and alarms. Furthermore, cognitive effects 
+resulting from noise such as losing attention and increase in anxiety might bring about a higher possibility of accident 
+occurrence.[4‑6]
+The type of noise and its features, the amount of being exposed 
+to it, personal characteristics, and sensitivity to noise determine 
+the harmful effects of noise. Studies report that age, sex, genetic 
+factors, underlying diseases, personal characteristics, and other 
+personal features such as sensitivity to noise have a significant The Analysis of the Cognitive Function Parameters in Exposure 
+to Noise Using Emotiv‑EPOC Electroencephalography Headset
+Zohreh Mohebian, Samane Khorshidikia, Farhad Forouharmajd1, Siamak Pourabdian1
+Student Research Committee and Department of Occupational Health Engineering, School of Health, Isfahan University of Medical Sciences, Isfahan, Iran, 
+1Department of Occupational Health Engineering, School of Health, Isfahan University of Medical Sciences, Isfahan, Iran
+Aim:  Exposure to noise in different work and nonwork places is considered to be a problem. Noises impertinent to professional duties are 
+highly dangerous to the safety, efficiency, and personal health of an individual. This study aims to analyze the electroencephalography (EEG) 
+signals to reveal the effect of produced noises in a laboratory environment on the cognitive function of the brain. Materials  and Methods:  In 
+this case/control study, the sample volume was determined based on similar studies and previous researches of 20 individuals. Fifty percentage 
+of the individuals were male and the other half were female. Initially, the EEG device was connected to the students’ heads. The duration of 
+this test was 8 min; the student took it a number of times, while his cognitive performance was measured with the EEG device in the midst 
+and at the end of the test. The fulfillment of cognitive duties (the daily quota of lessons) and the n‑back test took place for the cohort in an 
+environment in which a simulated noise was provided. Results:  The age average in boys and girls were respectively 24 ± 4.2 and 23 ± 3.5. 
+The results demonstrated that cognitive parameters of concentration, excitement, anxiety, calmness, commitment, and interest in exposure to 
+low‑frequency sound using an EEG Emotiv EPOC headset in different intervals. The parameters of commitment, concentration, and calmness 
+decreased as the allotted time increased, and only the fall in commitment parameter was significant (P = 0.006). Conclusion:  The findings 
+of the present study demonstrate that the decrease in cognitive performance and brain signals in exposure to 85 dB noise was significant. 
+This could have also been caused by psycho‑acoustic factors such as sound level, tonality, duration of exposition, and the type of sound. In 
+relation to exposure time, results have shown that in the presence of loud noise and in comparison, to quietude, the average response time 
+to stimulants increase (slower response).
+Keywords:  Brain waves, cognitive function, noise
+Access this article online
+Quick Response Code:
+Website:   
+www.ijehe.org
+DOI:   
+10.4103/ijehe.ijehe_43_22Address for correspondence:  Dr. Farhad Forouharmajd,  
+Department of Occupational Health Engineering, School of Health, Isfahan 
+University of Medical Sciences, Isfahan, Iran.  
+E‑mail: forouhar@hlth.mui.ac.ir
+This is an open access journal, and articles are distributed under the terms of the 
+Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, which 
+allows others to remix, tweak, and build upon the work non‑commercially, as long 
+as appropriate credit is given and the new creations are licensed under the identical 
+terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+How to cite this article:  Mohebian Z, Khorshidikia S, Forouharmajd F, 
+Pourabdian S. The analysis of the cognitive function parameters in exposure 
+to noise using Emotiv‑EPOC electroencephalography headset. Int J Env 
+Health Eng 2023;12:29.
+Received:  12‑09‑2022,  Revised:  11‑04‑2023,  
+Accepted:  14‑04‑2023,  Published:  21‑11‑2023Abstract
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20232role in the nonauditory effects of noise.[4,7‑9] Previous survey 
+has shown that exposure to noise affects health, professional 
+memory, consciousness, and being professionally content, 
+which varies based on the complexity of the job.[10]
+Until 1930, a common belief was that noise effects on health 
+were limited to decreasing hearing ability. In a published study 
+in US acoustic association magazine, it was concluded that 
+noise effects on human beings go much further than decreasing 
+hearing ability.[11] Subsequent to a meager improvement in this 
+scientific field in 1960s, the 1970s brought about a number 
+of research instances to evaluate the annoyance caused by 
+environment noises.[12‑14] Exposure to noise causes disturbance 
+in calmness and increases physiological provocation and 
+anxiety.[15] Exposure to noise could have early and later effects. 
+One of the main effects is the decrease of cognitive function, 
+which could lead to professional accidents to a great extent[16] 
+Easterbrook “states that exposure to noise could elevate the 
+threshold of sensitivity to noise, in a way that if noise exceeds 
+the sufficient amount, it could cause the lowering of focus.”[17] 
+The annoyance resulting from environmental noise is under the 
+effect of nonacoustic causes such as personal characteristics 
+and an individual’s stance toward the source of the noise. 
+Noise sensitivity is considered to be a stabilizing element or 
+an annoyance mediator, and among the other noise effects are 
+mental interruptions during sleep or disruptions in function 
+while awake.[18] Most probably, the noise will not only affect 
+a worker’s function through intense confrontation but also on 
+the accounts of hazardous confrontations of higher levels.[19,20] 
+According to Leather, Beale and Sullivan, it seems a decrease 
+in environmental noise would lead to the fall in social and 
+mental anxiety in workplaces.[6]
+A number of various techniques could be utilized to measure the 
+reflex of an individual’s cognitive and physiological parameters 
+in exposure to noise. Among these techniques, we can mention 
+the continuous performance test to measure people’s sustained 
+attention and the paced auditory serial addition test to measure 
+working memory capacity and performance.[21,22]
+Another of these techniques is using electroencephalography 
+(EEG), in which a series of indicators dependent on EEG have 
+been used.[23] EEG performance is in the form of registering 
+the brain’s electrical activities, where the produced signals are 
+sent to the neural cells of the brain. EEG could be measured 
+noninvasively subsequent to the placement of electrodes on 
+the surface of the head skin.[24‑26] An advantage of using EEG is 
+that one could use its results for determining the amount of an 
+individual’s confrontation with noise. One could also find out 
+the constant psycho‑physiological indicators of an individual, 
+rendering the individual’s explicit response unnecessary.[27]
+Several studies exist on the effect of noise on brain’s cognitive 
+functions. Due to the fact that sound pressure level is one of the 
+most effective causes regarding the effect of noise on cognitive 
+performance and brain signals, the present study focuses 
+on a level of 85 dBA. Furthermore, having considered the 
+paradoxical results in other studies on cognitive performance and its significance in several duties, and in turn the rarity of 
+studies on the effects of noise on brain activity patterns, this 
+study aims to analyze the EEG signals to reveal the effect of 
+produced noises in a laboratory environment on the cognitive 
+function of the brain.
+MaterIals  and Methods
+In this case/control study, the sample size was determined based 
+on similar studies and previous researches of 20 individuals 
+(10 men and 10 women); however, due to the break of 
+COVID‑19, the authors faced several discomforts in collecting 
+data which led to the participation of 16 individuals in the 
+study.[3] Fifty percentage of the individuals were male (8 men) 
+and the other half were female (8 women). The current 
+research was undertaken in 2022, aiming to analyze the effect 
+of noise on such student cognitive performance as excitement, 
+engagement, focus, relax, stress, interest in using EEG device, 
+and measurement of professional memory using the n‑back test. 
+The individuals sampled for this study were those who were 
+formerly tested for previous high exhaustion, and consumption 
+of special drugs and caffeine, while these were considered as the 
+inputs and outputs of the study. The duration of the study was 
+40 min. The study proceeded in the manner described below:
+Initially, the EEG device was connected to the students’ heads. 
+The EEG Emotive EPOC + portable device, made in the USA, 
+including 14 sensors was mounted on the head according to the 
+manufacturer’s instructions. Sensors were moisturized using 
+brine. It was then connected to its software on the computer via 
+a USB connection. Subsequent to the initiation of the focused 
+parameters, the rate of anxiety received by the headset from 
+Bluetooth waves was noted and recorded in the software.
+Primarily, the student started his daily studying routine 
+which included studying a textbook, Q/A, and searching for 
+a scientific subject related to his very own major. His brain 
+performance was recorded while doing the activities and then 
+he began taking the n‑back test. The duration of this test was 
+8 min; the student took it a number of times, while his cognitive 
+performance was measured with the EEG device in the midst 
+and at the end of the test.
+In the end, the student filled out the noise annoyance 
+questionnaire to determine his feeling toward the conditions 
+of the experiment.
+The fulfillment of cognitive duties (the daily quota of lessons) 
+and the n‑back test took place for the cohort in an environment 
+in which a simulated industrial noise was provided. Industrial 
+noises are such as those made by grinders, sandpaper machines, 
+hammer, vehicles, and drills. The sound pressure level was 
+adjusted to 85 dBA, set proportionately to the minimum level 
+of hearing protection performance (for an 8‑h workday) as 
+suggested by EU (EC/10/2003 EU instructions).[28] Thus, we 
+found out the degree of the effect of noise on the students’ 
+cognitive performances through changes in peak cognitive 
+function indicated by EEG.
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20233
+Bearing in mind the fact that this experiment was comprised of 
+students and was undertaken in a laboratory, the sound pressure 
+level was set lower than standard to observe ethical norms and 
+ensure the safety of students. On the other hand, the duration 
+of the exposition was determined in a way that the safety of 
+students would not be compromised. The control cohort was 
+studied under the same circumstances, however without any 
+exposition to noise.
+Brain waves were recorded using the Emotiv‑EPOC + which 
+has 14 active electrode channels: (i) Frontal lobe: AF3, AF4, 
+F3, F4, F7, F8, FC6, FC5,[29] and Temporal lobe: T7, T8.[24] 
+Occipital lobe: O1 and O2, and[30] Parietal lobe: P7 and P8. 
+In a 14‑channeled EEG device, the frequency of Theta waves 
+is 4–8 Hz, Alpha’s 8–12 Hz, Beta’s 12–25 Hz, and Gamma’s 
+25–45 Hz. The θ waves have a higher domain in a state of 
+drowsiness. The α waves are of a higher domain in a state of 
+tranquility. The β wave has signals with short domains which 
+tend to appear while working when one is alarmed, and when 
+one is engaged in an activity.[29]
+N‑back is a test that measures the cognitive performance 
+related to executive function, which is normally used in 
+neuroimaging studies to provoke the brain functions of 
+the subjects. This test was first introduced by Kirchner in 
+1958.[31] The test proceeded as follows: A series of stimulants 
+(often visual) would be offered to the subject step‑by‑step, 
+and the subject would find out if the recent stimulant is in 
+accordance with the one offered in the previous step. The 
+test would take place with different n values and the higher 
+the value of n, the more difficult the test was. Thus, in the 
+1‑back (n = 1), the last offered stimulant would be compared 
+with the previous stimulant, and also in 3‑back (n = 3), the 
+last offered stimulant would be compared with the last three 
+stimulants (in this test, n could be 1, 2, 3).
+This test has been deemed an appropriate method of evaluating 
+professional memory and in the recent years has been widely 
+employed in this field. Studies have shown that the various 
+modes of this test could well be employed in laboratory studies 
+on professional memory and other cognitive actions such as 
+fluid intelligence.[32] Using this test as an evaluating indicator of 
+professional memory performance is highly acceptable. While 
+doing the tasks of n‑back, executive actions such as controlling 
+and focusing attention, decision‑making, and planning the 
+processing of peripheral information is engaged. Also in the 
+field of professional memory, the highest rate of engagement 
+in the performance of the central executive system is achieved 
+while doing these tasks.[32] At the end of this test, the degree 
+of sensitivity to noise was evaluated using a noise annoyance 
+questionnaire. The questionnaire comprises three sections or 
+three subscales: (1) The misophonia scale (measures the signs of 
+misophonia and has 7 items) is Graded 0–4.  (2) Behaviors and 
+excitements caused by misophonia (measures the exciting and 
+behavioral reactions caused by misophonia and has 10 items) 
+and is Graded 0–4. The overall grade of the questionnaire is 
+comprised of the items related to the misophonia subscale and the exciting and behavioral reactions caused by misophonia 
+and the range is between 0 and 68. (3) Misophonia intensity 
+scale, which includes a general question and is an adaptation 
+of the obsessive‑compulsive disorder demarcated by the 
+National Institute of Mental Health, and evaluates the general 
+intensity of misophonia from 1 (minimum) to 15 (very intense). 
+A Grade of 7 or higher is a testimonial of significant clinical 
+symptoms.[33]
+Finally, continuous variables were reported in an average 
+manner  (standard deviation) and the qualitative variables were 
+reported based on plenitude (percentage). The comparison of 
+cognitive parameters and the n‑back test results at different 
+times and levels were tested, using repeated measures if the 
+data were normal, and Friedman test if the data were not 
+normal. The results of n‑back test were used to measure the 
+relation between cognitive parameters, the Pearson correlation 
+coefficient was used to measure the intensity of normal data, 
+and Spearman Coefficient was used for the abnormal data. All 
+statistical analyses were done using SPSS software version 20.
+Ethical clearance
+Ethical approval for this study (Research Ethics Committee 
+No.IR.MUI.MED.REC.1400.494) was provided by the 
+Research Ethics Committees of School of Medicine ‑ Isfahan 
+University of Medical Sciences, on 20 September 2021.
+results
+Based on the results, 50% of the students were female and the 
+other half were male. The age average in boys and girls were 
+respectively 24 ± 4.2 and 23 ± 3.5. Table 1 shows the results 
+of cognitive parameters of engagement, excitement, focus, 
+relaxation, stress, and interest in exposure to low‑frequency 
+sound using an EEG Emotive EPOC headset in different 
+intervals. The parameters of engagement, focus, and relaxation 
+decreased as the allotted time increased, and only the fall in 
+engagement parameter was significant ( P = 0.006).
+Table 2 shows the results of the n‑back test at various levels. 
+The average number of unanswered or wrongly answered 
+questions increase with the increase in levels, and this increase 
+Table 1: Results of cognitive parameters of engagement, 
+excitement, focus, interest, relax and stress in exposure 
+to noise using the Emotive‑EPOC electroencephalography 
+headset in various intervals
+Mean±SD P
+Time 1 
+(t=15)Time 2 
+(t=25)Time 3 
+(t=40)
+Engagement 76.50±10.35 71.90±10.60 64.10±11.76 0.006
+Excitement 55.70±32.37 42.20±24.09 50.30±33.67 0.638
+Focus 51.10±15.06 49.60±16.48 44.80±19.92 0.370
+Interest 65.80±13.47 66.30±13.60 66.00±12.22 0.974
+Relax 40.10±15.82 39.20±14.77 34.60±19.27 0.578
+Stress 47.90±20.45 50.20±19.63 41.10±23.44 0.520
+SD: Standard deviation
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20234was only significant in the average number of unanswered 
+questions (P = 0.002). The average number of questions 
+correctly answered and the result percentage decreases 
+with the rise in levels, and the fall is significant in both 
+cases (respectively  P = 0.001 and  P < 0.001). The increase in 
+the average responding time is more in level 2 in comparison 
+with the other 2 levels (P = 0.001). Table 3 shows the rate of 
+sensitivity intensity in the participants; the average and the 
+standard deviation of sensitivity intensity was 2.53 ± 5.20. 
+Fifty percentage of the participants reported low sensitivities.
+Table 4 shows the correlation between the cognitive parameters 
+resulting from EEG headset in different intervals and levels of 
+n‑back test. Fifteen minutes after starting the excitement test, 
+this parameter showed a negative relation with the number 
+of correct choices in level 1. Furthermore, 25 min after the 
+initiation of the test, it showed a positive relationship with 
+the wrong choices in level 3. On the other hand, after 40 min 
+there was a positive relation with the unanswered questions in 
+level 1, a negative relation with the correct answers in level 1, 
+and a positive relation with the wrong answers in level 3. The 
+focus variable after 25 min had a negative relation with the 
+results percentage in level 1. Focus in 40 min had a positive 
+relationship with the unanswered questions in level 1 and 
+the number of wrongly answered questions in levels 2 and 
+3. Fifteen minutes after the initiation of the test, the interest 
+and relax variables had a negative relation with the number of 
+correct choices and the results percentage in level 1. Interest 
+after 25 and 40 min had, respectively, a positive relationship 
+with the number of correctly answered question in level 3 
+and the results percentage in level 2. The relax parameter 
+after 25 and 40 min had, respectively, a positive relation with 
+the correctly answered questions in level 3 and a negative 
+relation with the number of wrongly answered questions. The 
+stress parameter after 15 min had a positive relationship with 
+the number of wrong answers in level 2. Furthermore, after 
+40 min, it had a positive relationship with the correct answers 
+and the result percentage in level 2. The remaining correlative 
+coefficients were not significant in tables (P < 0.05). Table 5 
+shows the correlation between the intensity of sensitivity and 
+the cognitive parameters which resulted from the EEG headset 
+in different intervals. The intensity of sensitivity showed a 
+positive and significant relation with a focus in 25 min and 
+relaxation in 40 min.dIscussIon
+Within this section, the effect of noise on the parameters 
+of cognitive performance (EEG device and n‑back test) 
+was explicated and its probable causes were analyzed. 
+Subsequently, the limitations and the participation in the study 
+were discussed.
+According to the findings of the present study, the parameters of 
+engagement, focus, and relaxation descended with the increase 
+in the exposition time. Over time, when the human body is 
+exposed to a dangerous physical factor (noise), stress will in 
+turn occur as a physiological response. Such a phenomenon 
+could be explained using Walter Cannon’s fight‑or‑flight 
+response theory. This theory explains that when an individual 
+feels stress, the autonomous nervous system is activated and 
+a physiological provocation appears in response to it. At 
+thatprecise time, negative feelings might be created.[34] On 
+the other hand, these observations of performance disruptions 
+in stressful circumstances are in direct accordance with the 
+previous findings. Based on the findings of this study, the alpha 
+waves are more sensitive to mental stress in comparison with 
+other EEG waves.[35]
+The findings of this research demonstrated that as a 
+stress‑inducing factor, noise impacts cognitive performance 
+and brain signals. Also, sound pressure level is an important 
+factor in causing an interruption in cognitive performance, 
+meaning that a low sound pressure level is not as disruptive 
+in performance as a higher sound pressure level. It could 
+be claimed that the findings of this study are in accordance 
+with the proposition that there is a relation between weak 
+performance and sound pressure level.[36] In addition to 
+increasing stress level, noise has a great impact on reaction Table 2: Comparing different levels of the n‑back test
+Mean±SD P
+Level 1 Level 2 Level 3
+False_response 2.00±3.06 2.50±4.53 3.50±5.87 0.430
+Not_response 60.90±6.42 75.60±5.99 83.50±9.00 0.002
+Result_truenmber 50.80±20.05 40.90±2.18 31.90±3.63 0.001
+Result_darsad 47.80±8.28 33.50±2.27 26.60±3.06 <0.001
+Responsetime_avg 700.20±184.16 726.10±195.62 629.00±177.48 0.001
+SD: Standard deviation
+Table 3: Grades of intensity of sensitivity in the 
+participants
+Intensity of sensitivity groups Range n (%)
+Mean±SD 5.20±2.53
+Very low 1–3 1 (10.0)
+Low 4–6 5 (50.0)
+Medium 7–9 3 (30.0)
+High 10–12 1 (10.0)
+Very high 13–15 0
+SD: Standard deviation
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20235
+Interest 1 Interest 2 Interest 3 Relax 1 Relax 2 Relax 3 Stress 1 Stress 2 Stress 3
+Level_1_false_response 0.18 0.36 −0.39 0.60 −0.09 −0.793** 0.42 0.40 −0.51
+Level_1_not_response 0.46 0.54 0.44 0.60 −0.10 0.06 0.51 0.62 0.14
+Level1_result_truenmber −0.759* −0.18 0.03 −0.855** 0.28 0.21 −0.60 −0.36 0.14
+Level1_result_darsad −0.710* −0.27 0.07 −0.886** 0.38 0.38 −0.36 −0.42 0.15
+Level1_responsetime_avg 0.21 0.01 0.12 0.08 0.38 0.38 0.39 −0.07 0.02
+level_2_fals_eresponse 0.59 −0.03 0.05 0.60 0.04 0.08 0.678* 0.04 0.15
+Level_2_not_response 0.03 0.17 0.19 0.01 −0.50 0.08 −0.22 0.29 −0.22
+Level2_result_truenmber −0.09 0.47 0.56 −0.12 0.36 0.23 −0.32 0.30 0.673*
+Level2_result_darsad 0.12 0.39 0.691* −0.01 0.21 0.39 −0.30 0.23 0.798**
+Level2_responsetime_avg 0.13 0.10 0.04 0.10 0.43 0.27 0.52 0.08 −0.12
+Level_3_fals_eresponse 0.02 0.44 0.58 0.15 −0.06 0.10 0.20 0.40 0.41
+Level_3_not_response 0.05 −0.02 0.33 −0.16 −0.43 0.28 −0.32 0.03 0.03
+Level3_result_truenmber 0.07 0.636* 0.35 0.13 0.712* 0.20 0.22 0.51 0.35
+Level3_result_darsad 0.18 0.44 0.47 0.10 0.61 0.36 0.20 0.28 0.51
+Level3_responsetime_avg 0.24 −0.05 0.07 0.10 0.33 0.35 0.44 −0.10 −0.02
+**Correlation is significant at the 0.01 level (two‑tailed), *Correlation is significant at the 0.05 level (two‑tailed)Table 4: Relation between the cognitive parameters resulted from the Emotive‑EPOC electroencephalography headset in different intervals with the results of 
+n‑back
+Engagment 1 Engagment 2 Engagment 3 Excitement 1 Excitement 2 Excitement 3 Focus 1 Focus 2 Focus 3
+Level_1_false_response −0.15 0.42 −0.17 0.23 0.57 0.07 0.10 0.60 0.28
+Level_1_not_response −0.13 −0.23 −0.02 0.25 0.28 0.774** 0.20 0.43 0.683*
+Level1_result_truenmber 0.04 0.29 −0.06 −0.678* −0.20 −0.679* −0.60 −0.46 −0.63
+Level1_result_darsad 0.28 0.06 0.21 −0.55 −0.50 −0.47 −0.43 −0.812** −0.56
+Level1_responsetime_avg 0.05 0.11 −0.36 −0.23 −0.53 −0.07 −0.24 −0.55 −0.28
+level_2_fals_eresponse 0.16 −0.34 −0.13 0.55 0.27 0.55 0.43 0.22 0.642*
+Level_2_not_response −0.33 −0.19 −0.22 −0.30 −0.17 0.38 −0.29 0.06 0.02
+Level2_result_truenmber −0.16 0.12 0.20 −0.07 0.28 −0.17 −0.01 0.33 0.06
+Level2_result_darsad −0.10 0.01 0.16 0.07 0.34 0.03 0.12 0.42 0.20
+Level2_responsetime_avg −0.01 0.00 −0.31 −0.26 −0.60 0.02 −0.27 −0.61 −0.21
+Level_3_fals_eresponse 0.15 −0.17 0.25 0.18 0.661* 0.663* 0.16 0.49 0.769**
+Level_3_not_response 0.03 −0.08 0.17 −0.11 −0.23 0.27 −0.01 −0.08 −0.09
+Level3_result_truenmber −0.34 −0.06 −0.19 −0.24 −0.23 −0.09 −0.24 −0.13 −0.03
+Level3_result_darsad −0.11 −0.04 −0.14 −0.09 −0.11 −0.02 −0.09 −0.10 0.04
+Level3_responsetime_avg 0.13 0.03 −0.29 −0.13 −0.52 0.01 −0.15 −0.56 −0.21
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20236ability and focus. In other words, as the noise level rises, it 
+will have a negative and more significant impact on focus. One 
+of the explicable viewpoints avers that exposition to low‑ or 
+high‑level noise is likely to hinder the brain’s stability. Stress 
+is any internal or external provocation that is perceived by 
+human. When the provocation is more complex and intense, 
+mental and physical performance might be impaired. Stress 
+compromises human efficiency and has close ties with 
+mental and physical issues. It could create negative feelings 
+such as anxiety and depression, and more serious stress 
+could cause mental disruptions such as anxiety issues and 
+melancholy.[37] In an indoor situation and amidst a stressful 
+situation, each individual has a different physiological, 
+emotional, or behavioral reaction.[38,39] In a study by Selye H, 
+the EEG signals were used as a new method for the analysis 
+of stress‑inducing circumstantial factors. Using EEG to 
+bypass the limitations of physiological evaluation methods 
+is suggested[37] Melamed, Samuel  et al . suggest an eclectic 
+use of all the above to improve the evaluation of cognitive 
+and mental stress.[40] Patricia Tassi  et al . demonstrated that 
+the Stroop effect and the performance of mental calculation 
+in exposure to a 50 dBA noise has increased compared to a 
+70 dBA noise. Patricia Tassi  et al . reported that exposition 
+to noise higher than 85 dBA could cause vulnerability, 
+exhaustion, and stress; a result in accordance with the present 
+study.[41] The findings of Patricia E. C. Poulton  et al . showed 
+that exposure to noise decreases focus in people, a claim in 
+concord with the study at hand.[42] The effects of exposure to 
+high sound pressure level on cognitive performance could 
+be linked to  Poulton’s  provocation model, which claims that 
+confronting noise will at first heighten cognitive performance, 
+mainly to increase provocation to reduce noise’s effect on 
+cognitive performance. However, gradually, the provocation 
+effect fades and the adverse effects of exposure to noise on 
+cognitive performance begin.[43] The findings of the study 
+at hand are explicable through the provocation theory. This 
+theory poses that the activity level of the central nervous 
+system (which alternates between sleep and vigilance) adjusts 
+human’s response to stimulants. Currently, there is no general 
+agreement on the credibility of this theory, and some believe 
+that it could not be used to describe the relation between 
+exposition to noise and cognitive performance. Nevertheless, 
+bearing this theory in mind, one could aver that however 
+low or high provocation is, or with every degree of stress, 
+performance faces a decline.[44] In previous studies, there were 
+a number of paradoxical results about the effects of noise 
+on cognitive performance. A  number of studies posed that 
+noise had improved cognitive performance,[45] while others 
+concluded that it acted otherwise.[46] The findings of the present 
+study demonstrate that the decrease in cognitive performance 
+and brain signals in exposure to 85 dB noise was significant. 
+This could have also been caused by psycho‑acoustic factors 
+such as noise level, tonality, duration of exposition, and the 
+type of noise. The importance of noise pitch and its effects 
+on the brain’s cognitive performance and activity has been 
+emphasized in other studies.[47‑49] Studies undertaken by Table 5: Relationship between the cognitive parameters resulted from the Emotive‑EPOC electroencephalography headset in different intervals with the intensity 
+of sensitivity caused by noise
+EEG cognitive parameters 
+in different intervalsEngagment 1 Engagment 2 Engagment 3 Excitement 1 Excitement 2 Excitement 3 Focus 1 Focus 2 Focus 3
+P −0.492 0.165 −0.467 0.092 0.544 0.191 −0.059 0.780** 0.375
+Interest 1 Interest 2 Interest 3 Relax 1 Relax 2 Relax 3 Stress 1 Stress 2 Stress 3
+0.303 0.400 −0.099 0.636* −0.203 −0.413 0.243 0.492 −0.203
+**The maximum amount of p. EEG: Electroencephalography
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20237
+Allahverdy and Jafari demonstrated that the complexity of 
+brain activity increases in medium frequencies and shows 
+the effects of changes in frequency on brain activity.[50] The 
+simplicity or complexity of the action is quite effective 
+in the evaluation of cognitive performance. For instance, 
+in comparison to simpler actions, more complex actions 
+cause greater turbulence in cognitive performance. When 
+individuals face noise, personal characteristics could be of 
+noteworthy significance due to the fact that some individuals 
+might experience a decline in cognitive performance while 
+others might not, and some might even show symptoms of 
+a rise in cognitive performance.[51] These causes are perhaps 
+not so effective on this study to necessitate the analysis of 
+the subjects’ mental disruptions, cardiovascular disruption, 
+and behavioral anomalies. Several dimensions of the brain’s 
+behavior and performance could merely be discussed based 
+on the relation between neurons. All cognitive processes in the 
+brain are undertaken via nervous activities such as synapses 
+and spikes. Here, the analysis of brain signals demonstrated 
+that frequency bands such as alpha and beta were affected by 
+noise. With the increase in sound pressure level, the relative 
+power of alpha increased and that of beta decreased. While 
+various parts of the brain implement complex activities during 
+the analysis and confrontation with noise, measuring changes 
+in the temporal lobe was effective in evaluating stress. In the 
+same vein, the relation of high‑beta frequency which appears 
+when individuals are negatively provoked was made clear. 
+Studies have shown that the alpha and beta bands, respectively 
+correlate with stress levels and rapid brain activities such as 
+decision‑making, analysis, and processing of data.[52] Increase 
+in alpha demonstrates that the subject feels more relaxed 
+after being exposed to noise, following which the decrease 
+in alpha shows that he feels less tension or relaxation.[53] The 
+comparison between alpha and beta bands in men and women 
+and in 15, 25, 40‑min intervals, shown in Figures 1 and 2, 
+reveals a significant difference; after being situated in a noisy 
+place, the decrease in the range of alpha bands and the increase 
+in the range of beta bands were more in women than men. 
+Because the alpha bands are in correlated with relaxation and 
+the beta bands with focus, the results of our study show that 
+men have more relax than women and the latter have more focus in noisy places than the former. Relax might come with 
+stress and a noise‑induced focus. Stress and relax signify 
+emotional statements with opposite meanings.[54] A similar 
+effect of noise on alpha and beta band have been reported in 
+previous studies. This would mean that noise could induce 
+stress in individuals. In fact, one of the ways of diagnosing 
+stress is through brain signals, high range of beta bands and 
+low range of alpha bands.[55]
+In the study at hand, the average of unanswered and wrongly 
+answered questions increased with a raise in n‑back levels 
+and extension of the duration of being exposed to noise, and 
+this increase was only significant for the average number of 
+the answered questions. The average number of correctly 
+answered questions was reduced with a rise in n‑back levels 
+and the increase in the duration of exposition to noise. These 
+results are in concord with the previous studies. For instance, 
+Zheng‑Guang Li et al. stated that exposition to noise causes an 
+increase in reaction time and the possibility of error occurrence 
+in field and laboratory studies.[56] Kristiane Roed Jensen  et al. 
+found a noteworthy effect of noise on memory.[20] A.Rabat et al. 
+analyzed the impact of sound pressure level on the participants’ 
+short‑term memory. They figured out the percentage of 
+correct answers using a negative correlation.[57] Eva‑Maria 
+Elmenhorst  et al. found that exposition to high sound pressure 
+level, particularly when duties were medium or challenging 
+in difficulty (levels 2 and 3 of n‑back test), caused a major 
+reduction in focus and professional memory.[58] Smith reported 
+that the speed of encrypting new data and operating a response 
+is interrupted when exposed to noise and therefore changes 
+are caused in the individuals’ performance.[59] Professional 
+memory consists of encryption, summoning of data and 
+appropriate conduct. Thus, as the complexity of an action 
+grows, sound pressure level becomes responsible for distracting 
+attention and processing of data within the memory, leading 
+to a downfall in performance when undertaking cognitive 
+duties. As a result, supervising several sources of information 
+simultaneously in the presence of a distracting factor (noise) 
+while doing a task becomes increasingly difficult. In simpler 
+actions, a stimulating factor (noise), and on more complex 
+levels, uniqueness, the newness of stimulant and distraction 
+determine cognitive performance. In fact, when the burden on 
+051015202530354045
+15 25 40man
+women
+exposure time (min )Band power
+Figure 1: Comparison of the alpha band of men and women exposed to 
+noise at different time intervals02468101214161820
+15 25 40man
+women
+exposure time (min )Band power
+Figure 2 : Comparison of the beta band of men and women exposed to 
+noise at different time intervals
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20238professional memory increases, focus and therefore resistance 
+against distraction decreases and disturbing stimulants lead 
+to the hindering of data processing. In relation to reaction 
+time, results have shown that at the presence of loud noise 
+and in comparison, to quietude, the average response time to 
+stimulants increase (slower response), which could be the result 
+of noise‑induced stress and might have made the participant 
+to respond with more latency. In a calm situation, focus and 
+short‑term’s memory performance is better and reaction time 
+grows faster. This is due to the absence of annoying noise.[60] 
+These results are in accordance with Andrew P Smith  et al.’s 
+study, whereby the analysis of noise’s effect on focus and 
+short‑term memory, they found that an increase in sound 
+pressure level culminates in the extension of the duration of 
+time to react.[61]
+The strengths, weaknesses, and limitations of the study
+Among the strengths of this study, we can mention the 
+examination of cognitive performance parameters in the face 
+of noise using the EEG Emotive‑EPOC headset. In this study, 
+there was no invasive method in conducting the tests, and the 
+test was stopped when the subjects felt tired. There are better 
+and more efficient tools to check the memory level such as 
+simple, complex, and meaningful Stroop software tests, but in 
+this research, we were not able to prepare them due to financial 
+problems. In this study, due to the outbreak of COVID‑19, 
+some people did not attend the study and it was difficult to 
+find the cooperation of some people.
+conclusIon
+The findings of the present study demonstrate that the decrease 
+in cognitive performance and brain signals in exposure to 
+85 dB noise was significant. This could have also been caused 
+by psychoacoustic factors such as sound level, tonality, 
+duration of exposition, and the type of sound. In relation to 
+exposure time, results have shown that in the presence of loud 
+noise and in comparison, to quietude, the average response 
+time to stimulants increase (slower response).
+Acknowledments
+Financial support and sponsorship
+This study is a research project approved and financially 
+supported by Isfahan University of Medical Sciences as  
+Master’s Thesis, Grant Number: #24085.
+Ethics code
+The study was also approved by the Ethics Committee of 
+Isfahan University of Medical Sciences, No. IR.MUI.MED.
+REC.1400.494.
+Conflicts of interest
+There are no conflicts of interest.
+references
+1. Basner M, Babisch W, Davis A, Brink M, Clark C, Janssen S, 
+et al.  Auditory and non‑auditory effects of noise on health. Lancet 
+2014;383:1325‑32.2. Stansfeld SA, Matheson MP. Noise pollution: Non‑auditory effects on 
+health. Br Med Bull 2003;68:243‑57.
+3. Ke J, Du J, Luo X. The effect of noise content and level on cognitive 
+performance measured by electroencephalography (EEG). Autom 
+Constr 2021;130:103836.
+4. Abbasi AM, Darvishi E, Rodrigues MA, Sayehmiri K. Gender differences 
+in cognitive performance and psychophysiological responses during 
+noise exposure and different workloads. Appl Acoust 2022;189:108602.
+5. Babisch W. Stress hormones in the research on cardiovascular effects of 
+noise. Noise Health 2003;5:1‑11.
+6. Leather P, Beale  D, Sullivan L. Noise, psychosocial stress and their 
+interaction in the workplace. J Environ Psychol 2003;23:213‑22.
+7. Belojevic G, Jakovljevic B, Slepcevic V . Noise and mental performance: 
+Personality attributes and noise sensitivity. Noise Health 2003;6:77‑89.
+8. Park J, Chung S, Lee J, Sung JH, Cho SW, Sim CS. Noise sensitivity, 
+rather than noise level, predicts the non‑auditory effects of noise in 
+community samples: A  population‑based survey. BMC Public Health 
+2017;17:315.
+9. Heinonen‑Guzejev M. Noise sensitivity: Medical, psychological and 
+genetic aspects. Helsingin yliopisto 2009;10:364‑72.
+10. Wright B, Peters E, Ettinger U, Kuipers E, Kumari V . Understanding 
+noise stress‑induced cognitive impairment in healthy adults and its 
+implications for schizophrenia. Noise Health 2014;16:166‑76.
+11. Obata J, Morita S, Hirose Ki, Matsumoto H. The effects of noise upon 
+human efficiency. J Acoust Soc Am 1934;5:255‑61.
+12. Berglund B, Hassmén P, Job RF. Sources and effects of low‑frequency 
+noise. J Acoust Soc Am 1996;99:2985‑3002.
+13. Robinson DW. An Outline Guide to Criteria for the Limitation of Urban 
+Noise. Ministry of Technology, London: 1970;1112.
+14. Bangjun Z, Lili  S, Guoqing D. The influence of the visibility of the 
+source on the subjective annoyance due to its noise. Appl Acoust 
+2003;64:1205‑15.
+15. Benfield JA, Rainbolt GA, Troup LJ, Bell PA. Anthropogenic noise 
+source and intensity effects on mood and relaxation in simulated park 
+environments. Front Psychol 2020;11:570694.
+16. Sepehri S, Aliabadi M, Golmohammadi R, Babamiri M. The effects of 
+noise on human cognitive performance and thermal perception under 
+different air temperatures. J Res Health Sci 2019;19:e00464.
+17. Easterbrook JA. The effect of emotion on cue utilization and the 
+organization of behavior. Psychol Rev 1959;66:183‑201.
+18. Schreckenberg D, Griefahn B, Meis M. The associations between noise 
+sensitivity, reported physical and mental health, perceived environmental 
+quality, and noise annoyance. Noise Health 2010;12:7‑16.
+19. Button DC, Behm DG, Holmes M, Mackinnon SN. Noise and muscle 
+contraction affecting vigilance task performance. Occup Ergon 
+2004;4:157‑71.
+20. Jensen KR, Hvidman L, Kierkegaard O, Gliese H, Manser T, Uldbjerg N, 
+et al.  Noise as a risk factor in the delivery room: A  clinical study. PLoS 
+One 2019;14:e0221860.
+21. Bhang SY , Yoon J, Sung J, Yoo C, Sim C, Lee C, et al.  Comparing attention 
+and cognitive function in school children across noise conditions: 
+A quasi‑experimental study. Psychiatry Investig 2018;15:620‑7.
+22. Nowakowska‑Kotas M, Pokryszko‑Dragan A, Brodowski M, Szydło M, 
+Podemski R. Effects of noise and mental task performance upon changes 
+in cerebral blood flow parameters. Noise Health 2015;17:422‑8.
+23. Pope AT, Bogart EH, Bartolome DS. Biocybernetic system evaluates 
+indices of operator engagement in automated task. Biol Psychol 
+1995;40:187‑95.
+24. Prinzel LJ 3rd, Freeman FG, Scerbo MW, Mikulka PJ, Pope AT. Effects of 
+a psychophysiological system for adaptive automation on performance, 
+workload, and the event‑related potential P300 component. Hum Factors 
+2003;45:601‑13.
+25. Berka C, Levendowski DJ, Ramsey CK, Davis G, Lumicao MN, 
+Stanney K, et al., editors. Evaluation of an EEG‑Workload Model in the 
+Aegis simulation environment. Biomonitoring Physiol Cogn Perform 
+During Mil Oper 2008;5797:90‑9.
+26. Makeig S, Inlow M. Lapses in alertness: Coherence of fluctuations in 
+performance and EEG spectrum. Electroencephalogr Clin Neurophysiol 
+1993;86:23‑35.
+27. Rabbi AF, Zony A, de Leon P, Fazel‑Rezai R. Mental workload and 
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023
+
+Mohebian, et al.: The analysis of the cognitive function parameters in exposure to noise
+International Journal of Environmental Health Engineering ¦ 20239
+task engagement evaluation based on changes in electroencephalogram. 
+Biomed Eng Lett 2012;2:139‑46.
+28. An S, Kim K, Ahn D, Lee H, Son M, Beck D. Effects of auditory 
+pre‑stimulation on cognitive task performance in a noisy environment. 
+Appl Sci 2022;12:58.
+29. Kim H, Hong T, Kim J, Yeom S. A psychophysiological effect of indoor 
+thermal condition on college students’ learning performance through 
+EEG measurement. Build Environ 2020;184:107223.
+30. Araújo Alves J, Neto Paiva F, Silva LT, Remoaldo P. Low‑frequency 
+noise and Its main effects on human health – A review of the literature 
+between 2016 and 2019. Applied Sciences 2020;10:5205.
+31. Kirchner WK. Age differences in short‑term retention of rapidly 
+changing information. J Exp Psychol 1958;55:352‑8.
+32. Golmohammadi  R, Darvishi E, Faradmal J, Poorolajal J, Aliabadi M. 
+Attention and short‑term memory during occupational noise exposure 
+considering task difficulty. Appl Acoust 2020;158:107065.
+33. Sanders RD Jr., Scorgie MA. The Effect of Sound Delivery Methods 
+on a User’s Sense of Presence in a Virtual Environment. United states 
+Navy: Naval Postgraduate School Monterey CA; 2002.
+34. Alyan E, Saad NM, Kamel N, Al‑Bawri SS, Zakariya MA, Rahman MA, 
+editors. Identifying the Impact of Noise‑Levels on Mental Stress: An 
+EEG‑fNIRS Study. Bristol: Journal of Physics: Conference Series; IOP 
+Publishing; 2021.
+35. Irgens‑Hansen K, Gundersen H, Sunde E, Baste V , Harris A, Bråtveit M,  
+et al.  Noise exposure and cognitive performance: A  study on personnel 
+on board Royal Norwegian Navy vessels. Noise Health 2015;17:320‑7.
+36. Choi Y , Kim M, Chun C. Measurement of occupants’ stress based on 
+electroencephalograms (EEG) in twelve combined environments. Build 
+Environ 2015;88:65‑72.
+37. Selye H. The Stress of Life. McGraw‑Hill Book Company:58‑10432;1956.
+38. Selye H. The evolution of the stress concept. Stress and cardiovascular 
+disease. Am J Cardiol 1970;26:289‑99.
+39. Al‑Shargie F, Kiguchi M, Badruddin N, Dass SC, Hani AF, Tang TB. 
+Mental stress assessment using simultaneous measurement of EEG and 
+fNIRS. Biomed Opt Express 2016;7:3882‑98.
+40. Melamed S, Bruhis S. The effects of chronic industrial noise exposure 
+on urinary cortisol, fatigue and irritability: A  controlled field experiment. 
+J Occup Environ Med 1996;38:252‑6.
+41. Tassi P, Rohmer O, Bonnefond A, Margiocchi F, Poisson F, 
+Schimchowitsch S. Long term exposure to nocturnal railway noise 
+produces chronic signs of cognitive deficits and diurnal sleepiness. 
+J Environ Psychol 2013;33:45‑52.
+42. Poulton E. Masking, beneficial arousal and adaptation level: A  reply to 
+Hartley. Br J Psychol 1981;72:109‑16.
+43. Yerkes RM, Dodson JD. The relation of strength of stimulus to rapidity 
+of habit‑formation. J Comp Neurol  Psychology Psychol 1908;18:459‑
+82.
+44. Hoskin R, Hunter MD, Woodruff PW. Stress improves selective attention 
+towards emotionally neutral left ear stimuli. Acta Psychol (Amst) 
+2014;151:214‑21.
+45. Staal MA. Stress, Cognition, and Human Performance: A  Literature 
+Review and Conceptual Framework. NASA/TM: 2004;212824.46. Kazempour M, Jafari M, Mehrabi Y , Alimohammadi I, Hatami J. The 
+impact of low frequency noise on mental performance during math 
+calculations. Iran Occup Health 2011;8:16.
+47. Pawlaczyk‑Luszczyńiska M, Dudarewicz A, Waszkowska M, 
+Szymczak W, Sliwińska‑Kowalska M. The impact of low‑frequency 
+noise on human mental performance. Int J Occup Med Environ Health 
+2005;18:185‑98.
+48. Naserpour M, Jafari M, Monazzam M, Saremi M. A  study of Students 
+cognitive performance under noise exposure, using Continuous 
+Performance Test “Study on the effects of noise on cognitive 
+performances”. J Health Saf Work 2014;4:41‑54.
+49. Allahverdy A, Jafari AH. Non‑auditory effect of noise pollution and 
+its risk on human brain activity in different audio frequency using 
+electroencephalogram complexity. Iran J Public Health 2016;45:1332‑9.
+50. Koelega HS, Brinkman JA. Noise and vigilance: An evaluative review. 
+Hum Factors 1986;28:465‑81.
+51. Lashgari M, Arab MR. Investigation of relationship between noise 
+annoyance and neurophysiological responses of drivers in exposure to 
+tractor sound. Iranian J Ergon 2018;6:65‑74.
+52. Kacha L, Matsumoto N, Mansouri A. Electrophysiological evaluation 
+of perceived complexity in streetscapes. J Asian Arch Build Eng 
+2015;14:585‑92.
+53. Zeng C, Lin W, Li N, Wen Y , Wang Y , Jiang W, et al.  
+Electroencephalography (EEG)‑based neural emotional response to the 
+vegetation density and integrated sound environment in a green space. 
+Forests 2021;12:1380.
+54. Sulaiman N, Taib MN, Lias S, Murat ZH, Aris SA, Hamid NH. Novel 
+methods for stress features identification using EEG signals. Int J Simul 
+2011;12:27‑33.
+55. Tseng LH, Cheng MT, Chen ST, Hwang JF, Chen CJ, Chou CY , editors. 
+An EEG Investigation of the Impact of Noise on Attention. Trans Tech 
+Publications, Switzerland:  Advanced Materials Research, Trans Tech 
+Publ; 2013.
+56. Li ZG, Di GQ, Jia L. Relationship between electroencephalogram 
+variation and subjective annoyance under noise exposure. Appl Acoust 
+2014;75:37‑42.
+57. Rabat A, Bouyer JJ, George O, Le Moal M, Mayo W. Chronic exposure 
+of rats to noise: Relationship between long‑term memory deficits and 
+slow wave sleep disturbances. Behav Brain Res 2006;171:303‑12.
+58. Elmenhorst EM, Elmenhorst D, Wenzel J, Quehl J, Mueller U, Maass H, 
+et al.  Effects of nocturnal aircraft noise on cognitive performance in the 
+following morning: Dose‑response relationships in laboratory and field. 
+Int Arch Occup Environ Health 2010;83:743‑51.
+59. Saeki T, Fujii T, Yamaguchi S, Harima S. Effects of acoustical noise on 
+annoyance, performance and fatigue during mental memory task. Appl 
+Acoust 2004;65:913‑21.
+60. Monteiro R, Tomé D, Neves P, Silva D, Rodrigues MA. The interactive 
+effect of occupational noise on attention and short‑term memory: A  pilot 
+study. Noise Health 2018;20:190‑8.
+61. Smith A. Noise, performance efficiency and safety. Int Arch Occup 
+Environ Health 1990;62:1‑5.
+Downloaded from http://journals.lww.com/ijeh by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AW
+nYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 11/28/2023

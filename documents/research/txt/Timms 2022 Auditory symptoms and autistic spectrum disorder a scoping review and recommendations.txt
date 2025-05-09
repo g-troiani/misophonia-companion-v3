@@ -1,0 +1,286 @@
+## Journal Pre-proof
+
+Auditory symptoms and autistic spectrum disorder: A scoping review and recommendations for future research
+
+Sara Timms, Sirat Lodhi, Jack Bruce, Emma Stapleton
+
+PII:
+
+S1672-2930(22)00052-6
+
+DOI:
+
+https://doi.org/10.1016/j.joto.2022.08.004
+
+Reference:
+
+JOTO 271
+
+To appear in:
+
+Journal of Otology
+
+Received Date:
+
+9 August 2022
+
+Accepted Date:
+
+24 August 2022
+
+Please cite this article as: Timms, S., Lodhi, S., Bruce, J., Stapleton, E., Auditory symptoms and autistic spectrum disorder: A scoping review and recommendations for future research, Journal of Otology (2022), doi: https://doi.org/10.1016/j.joto.2022.08.004.
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version will undergo additional copyediting, typesetting and review before it is published in its final form, but we are providing this version to give early visibility of the article. Please note that, during the production process, errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+© [copyright Year] PLA General Hospital Department of Otolaryngology Head and Neck Surgery. Production and hosting by Elsevier (Singapore) Pte Ltd. All rights reserved.
+
+## Auditory symptoms and autistic spectrum disorder: a scoping review and recommendations for future research
+
+## Authors
+
+Miss Sara Timms, MBBS 1
+
+Dr. Sirat Lodhi, MBChB 1
+
+Mr. Jack Bruce 2
+
+Miss Emma Stapleton, FRCS 1
+
+## Institutional affiliations
+
+- 1. Department of Otolaryngology, Manchester Royal Infirmary, Manchester, UK, M13 9WL
+- 2. The University of Manchester Medical School, Oxford Road, Manchester, UK, M13 9PL
+
+ORCID 0000-0002-6473-3655 ORCID 0000-0003-4925-1241 ORCID 0000-0002-9554-2712 ORCID 0000-0002-7763-9705 Journal Pre-proof
+
+## Author responsible for correspondence:
+
+Miss Emma Stapleton Department of Otolaryngology, Manchester Royal Infirmary Oxford Road, Manchester, M13 9WL Email: emmastapleton@doctors.org.uk
+
+## ABSTRACT
+
+Introduction: Auditory symptoms in individuals with Autistic Spectrum Disorder (ASD) are well described within the neurodevelopmental literature, yet there is minimal mention of ASD in Otolaryngology literature. This is surprising considering the potential clinical and diagnostic implications of this link, and the potential for ASD to present to Otolaryngologists in the form of unexplained auditory symptoms. The aims of this literature review were to explore the intersection of auditory symptoms and ASD from the perspective of clinical Otolaryngology, and to outline a clinically focused research agenda based on emerging themes relevant to Otolaryngology.
+
+Methods: We searched Pubmed, Embase, Ovid and Cochrane library for studies until November 2021. Four authors independently reviewed 227 publications identified. 39 were filtered into the final analysis. The PRISMA 2020 guidelines were followed. The heterogeneity of literature meant that a Systematic Review was not feasible. Included studies were therefore classified thematically, forming the basis of the scoping review. Results: Diagnostic theories for auditory symptoms in ASD include the entire auditory pathway and brain. There is a growing body of literature on auditory symptoms in ASD, suggesting that a primary diagnosis of ASD should be considered in patients presenting with otherwise unexplained auditory symptoms, and indicating a learning need for Otolaryngologists and audiologists, to whom these patients may present. Journal Pre-proof
+
+Conclusion: We recommend a research agenda focusing on multidisciplinary collaboration, stakeholder engagement, responsible clinical screening, and clarification of pathophysiological mechanisms and terminology.
+
+MeSH KEYWORDS: Autistic disorder, Audiology, Otolaryngology, Tinnitus, Hyperacusis
+
+## KEY POINTS
+
+- · Atypical responses to the auditory environment in individuals with Autistic Spectrum Disorder (ASD) are well documented in the neurodevelopmental literature.
+- · Evidence regarding the intersection of auditory symptoms and ASD is minimal, considering the potential clinical and diagnostic implications of this link.
+- · Published literature consists of diagnostic theories which include the entire auditory pathway and brain, and a growing body of evidence that individuals with ASD have a very high incidence of auditory symptoms. · A primary diagnosis of ASD should be considered in patients presenting with otherwise unexplained auditory symptoms. Journal Pre-proof
+- · Future research should incorporate multidisciplinary collaboration, stakeholder engagement, clinical screening and clarification of pathophysiological mechanisms and terminology.
+
+## MAIN BODY OF TEXT (2784 words)
+
+## 1. Introduction
+
+Atypical responses to the auditory environment in individuals with Autistic Spectrum Disorder (ASD) are not a new observation [1]. There is a body of published work linking auditory symptoms such as tinnitus and decreased sound tolerance (DST) to ASD, largely within the neurodevelopmental literature. Decreased sound tolerance (DST) as a collective term for hyperacusis, misophonia and phonophobia [2] is used within this manuscript. Several aetiological theories for the link between tinnitus, DST and ASD have been proposed, including processing differences at brainstem [3,4] and auditory cortex level [5], and abnormal behavioural responses to sound [6,7]. However, evidence regarding the intersection of auditory symptoms and ASD remains surprisingly minimal, considering the potential clinical and diagnostic implications of this link. Journal Pre-proof
+
+A recent meta-analysis [8] concluded that most individuals on the autistic spectrum experience DST at some point in their lives. ASD prevalence studies in child populations [9] suggest that many adults with ASD remain undiagnosed [10] and may present in adulthood with medical or neuropsychological complaints. The possibility of an ASD diagnosis in patients presenting to ENT and Audiology services with tinnitus and/or DST could therefore have a significant impact on our clinical practice, highlighting a learning need for professionals in ENT and Audiology, and potentially offering more focused management options to our patients.
+
+Tinnitus and DST present frequently to ENT and Audiology services. Tinnitus has a reported prevalence 5.1% - 42.7% [11] in general populations, and hyperacusis 0.2% - 17.2% [12]. These symptoms can have a profound effect on patients' lives [13]. It is therefore essential that we investigate and manage them optimally.
+
+Tinnitus is defined as a sound in the head or ears that occurs in the absence of any external acoustic source [14]. Various diagnostic algorithms aim to identify its origin [15], with bilateral tinnitus of unknown aetiology often being assigned a psychogenic cause [16] especially in patients with a history of psychiatric illness. Unilateral tinnitus requires crosssectional imaging [17] but the incidence of retrocochlear pathology is just 2.7% [18], higher in patients with ipsilateral hearing loss. Unilateral tinnitus with no identified aetiology is considered idiopathic and managed with tinnitus retraining therapy [19] based on a neuropsychological model and considered to offer significant help for 80% of patients. Decreased sound tolerance is defined as reduced tolerance to sound, often accompanied by painful sensitivity to ordinary environmental sounds, with perceptual, psychological, and social dimensions [20]. There is currently no widely accepted investigation or treatment pathway, and management strategies focus on behavioural techniques [21]. Journal Pre-proof
+
+The primary aim of this work was to review the literature on ASD and auditory symptoms, exploring the intersection of these themes and identifying evidence for auditory symptoms as a presenting feature of ASD in ENT and Audiology services. A secondary aim was to outline a research agenda based on themes emerging from this work.
+
+Our decision to carry out a scoping review followed an initial literature search (Figure 1) and analysis of current literature (Figure 2). We discovered that a systematic review would yield little useful information due to literature heterogeneity. Scoping studies can be used to map key concepts underpinning a research area and the evidence available, to identify research gaps in the existing literature [22]. A scoping review was therefore deemed an appropriate model for this work.
+
+Journal Pre-proof
+
+## 2. Materials and methods
+
+A methodological framework for scoping studies [22] was used. 227 relevant publications were identified independently by the authors in November 2021 using PubMed; Embase via OVID; CINAHL Plus via EBSCOhost; and the Cochrane Library (Table 1). Studies were included which explored tinnitus and/or DST in the context of ASD. No restrictions were applied regarding the age of patient populations, or outcomes assessed in the studies.
+
+The included studies were heterogeneous in study type and outcome measures (Figure 2). They were therefore classified according to theme (Figure 3) and these formed the basis of the scoping review. This work involved analysis of published literature only, therefore ethical approval was not required.
+
+Authors independently screened all study abstracts. 38 duplicates were removed; 117 removed for irrelevant content; five not in the English language and eight for other reasons. 59 studies underwent full-text review by all authors. Twenty were excluded (nineteen irrelevant, one inaccessible). Reference lists and citing papers were screened to identify additional studies. 39 studies were included in the final scoping review. (Figure 1). Journal Pre-proof
+
+## 3. Results and analysis
+
+## 3.1 Study characteristics
+
+Of the 39 included studies, twenty-two were original prospective research, twelve literature reviews, four retrospective case series, and one meta-analysis (Figure 2). Only five were published in the ENT literature, seventeen originated from neurodevelopmental journals, nine from audiology, five from basic science, two from paediatrics, and one from osteopathic medicine. Twenty of the thirty-nine papers presented diagnostic theory regarding the intersection of ASD and tinnitus and/or DST. Nine papers analysed the prevalence of auditory symptoms including hearing loss in autistic populations, while three papers evaluated the prevalence of ASD among those presenting with auditory symptoms. Six were descriptive reviews and one paper described patient experience. The results of our review are presented according to these five themes. 3.2 Diagnostic theory Journal Pre-proof
+
+Twenty studies investigated diagnostic theories for abnormal auditory symptoms in patients with ASD. These explored all levels of the auditory processing pathway.
+
+## 3.2.1 Inner ear
+
+No studies identified significant inner ear abnormalities in patients with ASD and auditory symptoms. One literature review [23] commented on the challenges of behavioural testing in autistic individuals, concluding that there was no evidence of
+
+greater levels of hearing loss in autistic children compared to their neurotypical counterparts. A study investigating cochlear microphonic found no difference in children with ASD compared with controls [24]. Another study found no difference in sound-induced suppression of distortion product otoacoustic emissions in those with and without Asperger's syndrome, a high -functioning form of autism [25]. Another study [4] found that DPOAE suppression was increased in hyperacusis patients, but that this was not well correlated with hyperacusis severity score. A study investigating autistic children with and without auditory hypersensitivity behaviour found superior semicircular canal dehiscence in 29% of subjects with hypersensitivity and in none of those without, though the study numbers were small [26].
+
+## 3.2.2 Brainstem
+
+If inner ear function is largely normal in those with decreased sound tolerance, symptoms may arise from higher processing of auditory stimuli. This process begins in the brainstem, with the cochlear nerve synapsing in the superior olivary nucleus and inferior colliculus. Some evidence of abnormality at this level is indicated by abnormal auditory brainstem responses wave latencies [27]. Another study found that the physiological suppression of transient evoked otoacoustic emissions by the brainstem-mediated medial olivocochlear reflex was significantly greater in children with ASD and severe hyperacusis, when compared with other children with ASD and neurotypical controls [3]. The stapedial reflex, which dampens excessively loud auditory stimuli, is mediated by a short reflex arc involving the auditory brainstem. Ohmura et al [4] investigated stapedial reflexes as an index of the level at which a Journal Pre-proof
+
+## 3.2.3 Thalamus
+
+sound is perceived as uncomfortable, finding that the reflex threshold was significantly lower in the autistic group than the control group. The paper concluded that the inner ear is highly sensitive in autistic individuals and that stapedial reflexes could even be used as part of a panel of diagnostic tests for ASD. Another study found stapedial reflexes to be slower, with lower thresholds and greater asymmetry in children with ASD [28]. Other evidence of brainstem abnormalities comes from a rat model of autism, created through prenatal thalidomide exposure. Immunostaining demonstrated significant variation in auditory neurone numbers in the superior olivary complex and medial nucleus of the trapezoid body, indicating altered auditory localisation and processing [29,30]. One study explored auditory processing in the thalamus [31] finding smaller nuclei in the auditory region of the thalamus in a rat model of ASD, with fewer connections to ascending nuclei. Journal Pre-proof
+
+## 3.2.4 Auditory cortex
+
+Two studies examined primary auditory cortex response to sound stimuli, using functional neuroimaging. Responses were found to be slower in autistic children with auditory hypersensitivity compared with children without auditory hypersensitivity and children without ASD [5,32]. The authors theorize that hypersensitivity may result from a failure of the normal acceleration of the cortical response with age. One study identified normal sensory gating in children with ASD,
+
+except those with the lowest IQ scores [33]. Another found little evidence of significant difference between children under five years old with and without autism [34].
+
+## 3.2.5 Other
+
+Some researchers argue that DST in ASD is behavioural in aetiology. Lucker [6] examined 200 children with auditory hypersensitivity, fifty of whom had an ASD diagnosis, and found that most could tolerate sounds above 100dB, concluding that emotional response, rather than auditory function, causes DST behaviour. A 2010 literature review reached a similar conclusion, arguing that DST in ASD can be explained by fear, and that autistic individuals can learn to alter their behavioural response to distressing sounds [7]. Journal Pre-proof
+
+Behavioural responses in rats have been studied using a model of Fragile X syndrome, the most common monogenetic cause of autism. In one study, these rats were found to react faster to auditory stimuli with a wide bandwidth, unlike wildtype rats [35]. These differences were restored to normal when glutamate antagonists were administered, implicating abnormal neurotransmission in the auditory pathway and suggesting potential therapeutic targets for future research. One paper studied the non-classical pathway of auditory processing, finding that autistic individuals are more likely to perceive a change in the loudness of an auditory stimulus when a concurrent electrical impulse is applied to the wrist [36]. This gives evidence for interaction between different sensory modalities in autism. Only one paper considered genetic causes of DST, identifying two genes (CNTN6, CNTN5) that are expressed at high levels in the auditory pathway, and were found to
+
+have mutations in some autistic subjects at a significantly higher rate than in the general population [37].
+
+## 3.3 Descriptive reviews
+
+A Cochrane review [38] summarised six randomised controlled trials of auditory integration therapy in ASD, concluding no evidence for its effectiveness, though limited by disparate outcome measures. A systematic review focussing on terminology [39] concluded that disparity in terminology renders synthesis of literature challenging. Gomes et al [40] noted a gap in the literature, recommending further research to better understand communicative behaviours in ASD. Moller [41] proposed that autism and tinnitus are both caused by alterations in neural plasticity. McCullagh et al [42] reviewed auditory processing deficits in Fragile X syndrome. Smith et al [43] proposed the utility of auditory testing to screen for ASD. 3.4 ASD in patients presenting with DST Journal Pre-proof
+
+Two papers were paediatric hyperacusis case series. Myne [44] observed that 13% of 61 children referred with hyperacusis had a pre-existing ASD diagnosis. Amir [45] observed that of 412 children referred with hyperacusis, 60% had a pre-existing ASD diagnosis, and 99% had normal audiometry. An epidemiological study performed in Finland surveyed 4397 eight-year-olds and found that auditory hypersensitivity indicated a 22-fold increase in prevalence of ASD [46].
+
+## 3.5 Auditory symptoms in ASD
+
+The Finnish epidemiological study reported auditory hypersensitivity in 43% of children with ASD, and in 3% of children without ASD [46]. The only meta-analysis included in our scoping review gives a prevalence of 40% for hyperacusis in those with ASD, and a lifetime prevalence of 60%, increasing with age [8]. In a survey of 55 children and adults with highfunctioning autism, 69% reported hyperacusis [47] . Williams' 2020 literature review quotes a prevalence of 38-45% for DST in autistic individuals [48]. Another 2021 review quotes similar figures [49].
+
+3.6 Patient experience One study explored patient and parental experience of DST in autistic children by means of a questionnaire. Families described frequent negative reaction to sounds, including reacting to the anticipation of sound. Loud, high-pitched, and sudden sounds were rated the most distressing, and management strategies were described including pre-warning the child about a sound, avoiding noisy places and taking 'time out' where necessary. Many parents commented that aversion to sounds prevented their child from participating in social Activities [50]. Journal Pre-proof
+
+## 4. Discussion
+
+This is the first literature review on this theme from an ENT perspective, and therefore has significant potential to influence future research. It draws on publications from multidisciplinary areas, particularly the neurodevelopmental literature, highlighting auditory symptoms in ASD as an intersectional theme which has relevance across several specialties. Its clinical applicability is of great importance considering that undiagnosed ASD may present to ENT and Audiology in the form of unexplained auditory symptoms. The concept of considering a potential undiagnosed condition is an inherent limitation of this work.
+
+Our primary aim was to review the literature on ASD and auditory symptoms, exploring the intersection of these themes and identifying evidence for auditory symptoms as a presenting feature of ASD in ENT and Audiology services. The literature is heterogeneous, and several themes emerge. Our review analyses literature investigating diagnostic theories for the correlation between ASD and auditory symptoms, exploring the entire auditory pathway, including emotional and behavioral responses to sound. There have been several promising discoveries, and the pathophysiological mechanism of tinnitus and DST in individuals with DST is likely to be multifactorial. Literature reviews have highlighted disparities in terminology, gaps in the literature, proposals for future research on communicative behaviours and the potential for auditory testing to screen for ASD, and that there is limited evidence for the effectiveness of auditory integration therapy. An interesting feature of published research in the neurodevelopmental literature is that tinnitus and DST are rarely defined in terms of their laterality or specific nature. Journal Pre-proof
+
+Evidence for auditory symptoms as a presenting feature of ASD arises exclusively from paediatric populations in the existing literature; there is currently no published data on the incidence of ASD amongst adults presenting with tinnitus and DST. There is however a growing body of evidence highlighting a very high incidence of tinnitus and DST in both children and adults with an ASD diagnosis, indicating a significant potential that undiagnosed ASD may be presenting to ENT and Audiology services in the form of tinnitus and DST.
+
+But what are the implications of this? Our review highlights a need for focussed clinical research, and a potential learning need for professionals who investigate and manage patients with tinnitus and DST. Screening for a lifelong neurodevelopmental condition in a population presenting with an apparently unrelated symptom, carries implications for both patients and clinical services. Screening for ASD has been previously explored only in psychiatry outpatient populations. The concept of diagnosing ASD in ENT and Audiology services introduces numerous factors which need to be considered, including appropriate communication and patient counselling regarding the impact of such a diagnosis for patients, appropriate training of staff, and the subsequent impact of a new ASD diagnosis for primary care and other services. It is likely that a multidisciplinary approach would be beneficial in providing a holistic clinical service with robust governance. Journal Pre-proof
+
+A secondary aim of this review was to outline a research agenda based on themes emerging. Based on our in-depth analysis of existing literature and our observations of topics which
+
+could usefully be explored to enhance our clinical understanding of this theme, we recommend the following:
+
+- a) Collaborative research between disciplines, to optimise the multidisciplinary approach.
+- b) Robust, ethical screening studies in both paediatric and adult populations, to identify the incidence of diagnosed and undiagnosed ASD presenting to ENT and Audiology services with tinnitus and/or DST.
+- c) Formulation of a core outcome set for future trials involving auditory symptoms in individuals with ASD, in order that these can be compared and summarised. d) Clarification of terminologies used to describe and investigate auditory symptoms in patients with ASD, via a consensus process. e) Studies to ascertain whether individuals with ASD are likely to experience unilateral and/or bilateral tinnitus and DST, and the nature of these, to refine diagnostic algorithms. Journal Pre-proof
+- f) Qualitative research to better understand the experience and impact of auditory symptoms for individuals with ASD.
+- g) Trials of therapies for auditory symptoms in individuals with ASD.
+- h) Further research to clarify and understand the physiological mechanisms of auditory symptoms in ASD, which are likely to be multifactorial.
+- i) Engagement of autistic researchers, autistic advocates, and robust patient and public involvement in any future work which affects or implicates autistic populations.
+
+## 5. Conclusion
+
+There is a growing body of literature demonstrating a very high incidence of tinnitus and DST in individuals with ASD. This suggests a high possibility that patients presenting to ENT and Audiology services with these symptoms may have a primary diagnosis of ASD to account for their otherwise unexplained auditory symptoms.
+
+This also indicates a learning need for professionals who investigate and manage tinnitus and DST, as well as a requirement to refine existing protocols, which currently focus on the identification and exclusion of identifiable inner ear conditions, to consider neurodevelopmental disorders as a potential primary diagnosis. A collaborative, multidisciplinary model is essential, considering the potential implications of a new ASD diagnosis. Journal Pre-proof
+
+There is a pressing need for further research on this clinically important theme. We outline a research agenda with a focus on multidisciplinary collaboration, stakeholder engagement, clinical screening, and clarification of pathophysiological mechanisms and terminology.
+
+## Acknowledgements
+
+- · This research was supported by the National Institute for Health Research Manchester Biomedical Research Centre.
+
+## Declaration of funding sources
+
+- · This research did not receive any specific grant from funding agencies in the public, commercial or not-for-profit sectors.
+
+Competing interests · The authors have no relevant financial or non-financial interests to disclose. · ES (supervising author) is an Editorial Board member of European Archives of OtoRhino-Laryngology journal. Ethics approval · This was a literature review and therefore ethical approval was not required. Data sharing and availability · No primary data were used in the production of this manuscript. Journal Pre-proof
+
+- · Our Search Strategy is available in Table 1.
+- · This study and its analysis were not pre-registered.
+
+## Authorship statement:
+
+ES designed the work; ST, SL, JB, ES acquired and analysed data, drafted, revised, and approved the manuscript; ST and ES agree to be accountable for all aspects of the work. All authors have read and approved this manuscript.
+
+## REFERENCES
+
+- 1. Rosenhall U, Nordin V, Sandstrom M, Ahlsen G, Gillberg2 C. Autism and Hearing Loss. Vol. 29, Journal of Autism and Developmental Disorders. 1999.
+- 2. Jastreboff MM, Jastreboff PJ. Components of decreased sound tolerance : hyperacusis, misophonia, phonophobia [Internet]. 2001. Available from:
+- http://www.audiologyonline.com
+- 3. Wilson US, Sadler KM, Hancock KE, Guinan JJ, Lichtenhan JT. Efferent inhibition strength is a physiological correlate of hyperacusis in children with autism spectrum disorder. Journal of Neurophysiology. 2017 Aug 4;118(2):1164 -72. 4. Ohmura Y, Ichikawa I, Kumagaya S, Kuniyoshi Y. Stapedial reflex threshold predicts individual loudness tolerance for people with autistic spectrum disorders. Experimental Brain Research. 2019 Jan 31;237(1):91 -100. 5. Matsuzaki J, Kagitani-Shimono K, Goto T, Sanefuji W, Yamamoto T, Sakai S, et al. Differential responses of primary auditory cortex in autistic spectrum disorder with auditory hypersensitivity. NeuroReport. 2012 Jan 25;23(2):113 -8. Journal Pre-proof
+- 6. Lucker JR. Auditory hypersensitivity in children with autism spectrum disorders. Vol. 28, Focus on Autism and Other Developmental Disabilities. 2013. p. 184 -91.
+- 7. Stiegler LN, Davis R. Understanding sound sensitivity in individuals with autism spectrum disorders. Vol. 25, Focus on Autism and Other Developmental Disabilities. 2010. p. 67 -75.
+- 8. Williams ZJ, Suzman E, Woynaroski TG. Prevalence of Decreased Sound Tolerance (Hyperacusis) in Individuals with Autism Spectrum Disorder: A Meta-Analysis. Ear and Hearing. 2021;1137 -50.
+
+- 9. Redfield RR, Kent CK, Leahy MA, Martinroe JC, Spriggs SR, Yang T, et al. Morbidity and Mortality Weekly Report Prevalence of Autism Spectrum Disorder Among Children Aged 8 Years-Autism and Developmental Disabilities Monitoring Network, 11 Sites, United States, 2014 Surveillance Summaries Centers for Disease Control and Prevention MMWR Editorial and Production Staff (Serials) MMWR Editorial Board. 2014.
+- 10. Brosnan M. An Exploratory Study of a Dimensional Assessment of the Diagnostic Criteria for Autism. Journal of Autism and Developmental Disorders. 2020 Nov 1;50(11):4158 -64. 11. McCormack A, Edmondson-Jones M, Somerset S, Hall D. A systematic review of the reporting of tinnitus prevalence and severity. Vol. 337, Hearing Research. Elsevier B.V.; 2016. p. 70 -9. 12. Ren J, Xu T, Xiang T, Pu JM, Liu L, Xiao Y, et al. Prevalence of Hyperacusis in the General and Special Populations: A Scoping Review. Vol. 12, Frontiers in Neurology. Frontiers Media S.A.; 2021. Journal Pre-proof
+- 13. Nondahl DM, Cruickshanks KJ, Dalton DS, Klein BEK, Klein R, Schubert CR, et al. The Impact of Tinnitus on Quality of Life in Older Adults. Vol. 18, J Am Acad Audiol. 2007.
+- 14. Baguley D, McFerran D, Hall D. Tinnitus. In: The Lancet. Elsevier B.V.; 2013. p. 1600 -7.
+- 15. Crummer RW, Hassan GA. Diagnostic Approach to Tinnitus - American Family Physician [Internet]. Vol. 69, American Academy of Family Physicians. 2004. Available from: www.aafp.org/afp.
+- 16. Miura M, Goto F, Inagaki Y, Nomura Y, Oshima T, Sugaya N. The effect of comorbidity between tinnitus and dizziness on perceived handicap, psychological distress, and
+
+quality of life. Frontiers in Neurology. 2017 Dec 22;8(DEC).
+
+- 17. Tunkel DE, Bauer CA, Sun GH, Rosenfeld RM, Chandrasekhar SS, Cunningham ER, et al. Clinical practice guideline: Tinnitus executive summary. Otolaryngology - Head and Neck Surgery (United States). 2014 Oct 12;151(4):533 -41.
+- 18. Choi KJ, Sajisevi MB, Kahmke RR, Kaylie DM. Incidence of Retrocochlear Pathology Found on MRI in Patients With Non-Pulsatile Tinnitus. Vol. 36, Otol Neurotol. 2015.
+- 19. Jastreboff PJ. 25 Jahre Tinnitus-Retraining-Therapie. HNO. 2015 Apr 11;63(4):307 -11.
+- 23. Beers AN, McBoyle M, Kakande E, Dar Santos RC, Kozak FK. Autism and peripheral hearing loss: A systematic review. International Journal of Pediatric Otorhinolaryngology. 2014 Jan;78(1):96 -101.
+- 20. di Stadio A, Dipietro L, Ricci G, della Volpe A, Minni A, Greco A, et al. Hearing loss, tinnitus, hyperacusis, and diplacusis in professional musicians: A systematic review. Vol. 15, International Journal of Environmental Research and Public Health. MDPI AG; 2018. 21. Potgieter I, Fackrell K, Kennedy V, Crunkhorn R, Hoare DJ. Hyperacusis in children: A scoping review. Vol. 20, BMC Pediatrics. BioMed Central; 2020. 22. Arksey H, O'Malley L. Scoping studies: Towards a methodological framework. International Journal of Social Research Methodology: Theory and Practice. 2005 Feb;8(1):19 -32. Journal Pre-proof
+- 24. Osman Dabbous A. Cochlear microphonics recording during ABR threshold testing in children. Hearing, Balance and Communication. 2016 Oct 1;14(4):163 -82.
+- 25. Kaf WA, Danesh AA. Distortion-product otoacoustic emissions and contralateral supp ression findings in children with Asperger's Syndrome. International Journal of
+
+Pediatric Otorhinolaryngology. 2013 Jun;77(6):947 -54.
+
+- 26. Thabet EM, Zaghloul HS. Auditory profile and high resolution CT scan in autism spectrum disorders children with auditory hypersensitivity. European Archives of OtoRhino-Laryngology. 2013 Aug;270(8):2353 -8.
+- 27. Dabbous AO. Characteristics of auditory brainstem response latencies in children with autism spectrum disorders. Audiological Medicine. 2012 Sep;10(3):122 -31.
+- 28. Lukose R, Brown K, Barber CM, Kulesza RJ. Quantification of the stapedial reflex reveals delayed responses in autism. Autism Research. 2013 Oct;6(5):344 -53.
+- 29. Ida-Eto M, Hara N, Ohkawara T, Narita M. Mechanism of auditory hypersensitivity in human autism using autism model rats. Pediatrics International. 2017 Apr 1;59(4):404 -7. 30. Tsugiyama LE, Ida-Eto M, Ohkawara T, Noro Y, Narita M. Altered neuronal activity in the auditory brainstem following sound stimulation in thalidomide-induced autism model rats. Congenital Anomalies. 2020 May;60(3):82 -6. 31. Mansour Y, Ahmed SN, Kulesza R. Abnormal morphology and subcortical projections to the medial geniculate in an animal model of autism. Experimental Brain Research. 2021 Feb 1;239(2):381 -400. Journal Pre-proof
+- 32. Matsuzaki J, Kagitani-Shimono K, Sugata H, Hirata M, Hanaie R, Nagatani F, et al. Progressively increased M50 responses to repeated sounds in autism spectrum disorder with auditory hypersensitivity: A magnetoencephalographic study. PLoS ONE. 2014 Jul 23;9(7).
+- 33. Orekhova E v., Stroganova TA, Prokofyev AO, Nygren G, Gillberg C, Elam M. Sensory gating in young children with autism: Relation to age, IQ, and EEG gamma oscillations. Neuroscience Letters. 2008 Mar 28;434(2):218 -23.
+
+- 34. Dwyer P, de Meo-Monteil R, Saron CD, Rivera SM. Effects of age on loudnessdependent auditory ERPs in young autistic and typically-developing children. Neuropsychologia. 2021 Jun 18;156.
+- 35. Auerbach BD, Manohar S, Radziwon K, Salvi R. Auditory hypersensitivity and processing deficits in a rat model of fragile X syndrome. Neurobiology of Disease. 2021 Dec 1;161.
+- 36. Møller AR, Kern JK, Grannemann B. Are the non-classical auditory pathways involved in autism and PDD? Neurological Research. 2005 Sep;27(6):625 -9.
+- 37. Mercati O, Huguet G, Danckaert A, André-Leroux G, Maruani A, Bellinzoni M, et al. CNTN6 mutations are risk factors for abnormal auditory sensory perception in autism spectrum disorders. Molecular Psychiatry. 2017 Apr 1;22(4):625 -33. 38. Sinha Y, Silove N, Hayen A, Williams K. Auditory integration training and other sound therapies for autism spectrum disorders (ASD). Cochrane Database of Systematic Reviews. 2011 Dec 7; 39. Stefanelli ACGF, Zanchetta S, Furtado EF. Auditory hyper-responsiveness in autism spectrum disorder, terminologies and physiological mechanisms involved: Systematic review. CODAS. 2020;32(3). Journal Pre-proof
+- 40. Gomes E, Fleming S, Wagner M. Auditory hypersensitivity in the autistic spectrum disorder. 2008.
+- 41. Møller AR. Plasticity diseases. Vol. 31, Neurological research. 2009. p. 1023 -30.
+- 42. McCullagh EA, Rotschafer SE, Auerbach BD, Klug A, Kaczmarek LK, Cramer KS, et al. Mechanisms underlying auditory processing deficits in Fragile X syndrome. Vol. 34, FASEB Journal. John Wiley and Sons Inc.; 2020. p. 3501 -18.
+
+- 43. Smith A, Storti S, Lukose R, Kulesza RJ. Structural and functional aberrations of the auditory brainstem in autism spectrum disorder. Journal of the American Osteopathic Association. 2019 Jan 1;119(1):41 -50.
+- 44. Myne S, Kennedy V. Hyperacusis in children: A clinical profile. International Journal of Pediatric Otorhinolaryngology. 2018 Apr 1;107:80 -5.
+- 45. Amir I, Lamerton D, Montague ML. Hyperacusis in children: The Edinburgh experience. International Journal of Pediatric Otorhinolaryngology. 2018 Sep 1;112:39 -44.
+- 48. Williams ZJ, He JL, Cascio CJ, Woynaroski TG. A review of decreased sound tolerance in autism: Definitions, phenomenology, and potential mechanisms. Vol. 121, Neuroscience and Biobehavioral Reviews. Elsevier Ltd; 2021. p. 1 -17.
+- 46. Jussila K, Junttila M, Kielinen M, Ebeling H, Joskitt L, Moilanen I, et al. Sensory Abnormality and Quantitative Autism Traits in Children With and Without Autism Spectrum Disorder in an Epidemiological Population. Journal of Autism and Developmental Disorders. 2020 Jan 1;50(1):180 -8. 47. Danesh AA, Lang D, Kaf W, Andreassen WD, Scott J, Eshraghi AA. Tinnitus and hyperacusis in autism spectrum disorders with emphasis on high functioning individuals diagnose d with Asperger's Syndrome. International Journal of Pediatric Otorhinolaryngology. 2015 Oct 1;79(10):1683 -8. Journal Pre-proof
+- 49. Danesh AA, Howery S, Aazh H, Kaf W, Eshraghi AA. Hyperacusis in Autism Spectrum Disorders. Audiology Research. 2021 Oct 14;11(4):547 -56.
+- 50. Scheerer NE, Boucher TQ, Bahmei B, Iarocci G, Arzanpour S, Birmingham E. Family Experiences of Decreased Sound Tolerance in ASD. Journal of Autism and Developmental Disorders. 2022 Sep;52(9):4007-21
+
+## FIGURES
+
+Figure 1. PRISMA flow diagram displaying the systematic search methodology.
+
+Figure 2. Chart showing literature types included within the analysis
+
+Figure 3. Thematic analysis of the included literature
+
+## TABLES
+
+Table 1. Search strategy used to identify relevant publications.
+
+Journal Pre-proof
+
+Figure 1. PRISMA flow diagram displaying the systematic search methodology.
+
+3%
+
+Figure 2. Chart showing literature types included within the analysis
+
+Figure 3. Thematic analysis of the included literature
+
+Journal Pre-proof
+
+| Database                  | Search terms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Embase (OVID)             | 1. Hyperacusis.mp. 2. Misophonia.mp. 3. Phonophobia.mp. 4. Decreased sound tolerance.mp. 5. DST.mp. 6. Exp tinnitus/ 7. 1 OR 2 OR 3 OR 4 OR 5 OR 6 8. exp autism/ (includes ASD, autistic disorder, PDD, persuasive developmental disorder(s), kanner syndrome, Asperger syndrome, childhood disintegrative disorder, persuasive developmental disorder not otherwise specified, rett syndrome) 9. Heller*.mp. 10. 8 OR 9 11. 7 AND 10                                                                                                                                                                                                                          |
+| PubMed                    | 1. tinnitus [All Fields} 2. hyperacusis [All Fields] 3. misophonia [All Fields] 4. phonophobia [All Fields] 5. 'decreased sound tolerance' [All Fields] 6. 'DST' [Text Word} 7. 1 or 2 or 3 or 4 or 5 or 6 8. autism [All Fields] 9. 'autism spectrum disorder' 10. 'autism spectrum condition' [All Fields] 11. Asperger*[All Fields] 12. 'high functioning autism'[All Fields] 13. 'childhood disintegrative disorder'[All Fields] 14. Heller* [All Fields] 15. 'atypical autism' [All Fields] 16. 'pervasive developmental disorder'[All Fields] 17. 'PDD - NOS'[All Fields] 18. 8 or 9 or 10 or 11 or 12 or 3 or 14 or 15 or 16 or 17 19. Journal Pre-proof |
+| CINAHL Plus via EBSCOhost | 1. TX Tinnitus 2. TX ( misophonia or selective sound sensitivity syndrome ) OR hyperacusis OR phonophobia OR decreased sound tolerance OR DST 3. 1 OR 2 4. "( autism or asd or autism spectrum disorder or asperger's or asperger's syndrome or autistic disorder or aspergers ) OR autism spectrum condition OR childhood disintegrative disorder OR pervasive developmental disorder OR pdd-nos OR heller*" 5. 3 AND 4                                                                                                                                                                                                                                        |
+
+Cochrane Library
+
+hyperacusis OR misophonia OR phonophobia OR "decreased sound tolerance" OR tinnitus OR "DST" AND autism OR "autistic spectrum" OR "persuasive developmental disorder" OR "kanner syndrome" OR Asperger* OR "childhood disintegrative disorder" OR heller* OR "PDD-NOS"
+
+Table 1. Search strategy used to identify relevant publications. Complete search syntax is displayed.
+
+Search performed in November 2021.

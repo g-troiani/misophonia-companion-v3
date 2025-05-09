@@ -1,0 +1,1896 @@
+Frontiers in Psychology 01 frontiersin.org
+A conceptual framework on 
+body representations and their 
+relevance for mental disorders
+Anne Möllmann *, Nina Heinrichs  and Arvid Herwig 
+Department of Psychology, Faculty of Psychology and Sports Science, Bielefeld University, 
+Bielefeld, Germany
+Many mental disorders are accompanied by distortions in the way the own 
+body is perceived and represented (e.g., eating disorders, body dysmorphic 
+disorder including muscle dysmorphia, or body integrity dysphoria). 
+We are interested in the way these distortions develop and aim at better 
+understanding their role in mental health across the lifespan. For this 
+purpose, we first propose a conceptual framework of body representation 
+that defines this construct and integrates different perspectives (e.g., 
+cognitive neuroscience, clinical psychology) on body representations. 
+The framework consists of a structural and a process model of body 
+representation emphasizing different goals: the structural model  aims 
+to support researchers from different disciplines to structure results 
+from studies and help collectively accumulate knowledge about body 
+representations and their role in mental disorders. The process model  is 
+reflecting the dynamics during the information processing of body-related 
+stimuli. It aims to serve as a motor for (experimental) study development 
+on how distorted body representations emerge and might be  changed. 
+Second, we  use this framework to review the normative development of 
+body representations as well as the development of mental disorders that 
+relate to body representations with the aim to further clarify the potential 
+transdiagnostic role of body representations.
+KEYWORDS
+body representation, body image, body schema, developmental psychopathology, 
+body dysmorphic disorder, muscle dysmorphia, eating disorders, body integrity 
+dysphoria
+1 Introduction
+The way people perceive their own body, that is, represent it mentally, is essential in 
+everyday life, and has thus been researched from a variety of disciplines and perspectives. 
+Some researchers primarily focus on the very basic functions  of body representations, such 
+as being able to move in three-dimensional space which is usually a perspective taken in 
+cognitive neurosciences, general psychology and motor sciences (e.g., Holmes and 
+Spence, 2004 ; Prinz et al., 2013 ). Others concentrate on the normative development  of 
+different body representations over the lifespan (e.g., Slaughter and Brownell, 2011 ) which 
+is usually a perspective taken in developmental psychology and again others are mainly 
+interested in the role body representations play in the context of different neurological or 
+mental disorders , a perspective usually taken in clinical psychology or psychiatry (e.g., 
+Keizer and Engel, 2022  for anorexia nervosa). Due to the many perspectives involved, OPEN ACCESS
+EDITED BY
+Andrea Hernández-Martínez,  
+University of Castilla-La Mancha, Spain
+REVIEWED BY
+Paolo Meneguzzo,  
+University of Padua, Italy
+Jamie Donald Feusner,  
+University of Toronto, Canada
+Emily Choquette,  
+Laureate Institute for Brain Research, 
+United States
+*CORRESPONDENCE
+Anne Möllmann   
+ anne.moellmann@uni-bielefeld.de
+RECEIVED 30 May 2023
+ACCEPTED 11 December 2023
+PUBLISHED 05 January 2024
+CITATION
+Möllmann A, Heinrichs N and Herwig A (2024) 
+A conceptual framework on body 
+representations and their relevance for 
+mental disorders.
+Front. Psychol.  14:1231640.
+doi: 10.3389/fpsyg.2023.1231640
+COPYRIGHT
+© 2024 Möllmann, Heinrichs and Herwig. 
+This is an open-access article distributed 
+under the terms of the Creative Commons 
+Attribution License (CC BY) . The use, 
+distribution or reproduction in other forums is 
+permitted, provided the original author(s) and 
+the copyright owner(s) are credited and that 
+the original publication in this journal is cited, 
+in accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.TYPE Review
+PUBLISHED  05 January 2024
+DOI 10.3389/fpsyg.2023.1231640
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 02 frontiersin.orgthere is a certain diversity of concepts and terms. In this article, 
+we therefore use the term body representation as an umbrella term for 
+many aspects that have been differentiated to investigate the way the 
+own body is mentally represented. Moreover, we attempt to elaborate 
+on each perspective with the aim of illustrating their useful 
+contributions ultimately to better understand mental disorders that 
+relate to body representations.
+Mental disorders associated with distortions in body 
+representations are often severe and persistent. Such disorders include 
+eating disorders, body dysmorphic disorder (BDD), muscle 
+dysmorphia (MD), and body integrity dysphoria (BID). The 
+distortions in body representation observable in the clinical picture of 
+each disorder may relate either to the whole body or to specific body 
+parts. The majority of the disorders are by criteria definitions (ICD-11; 
+World Health Organization, 2018 ) rather related to one of these poles 
+(e.g., criteria for eating disorders or muscle dysmorphia relate to the 
+body perception as too fat or too lean/unmuscular). However, even 
+with concerns relating to the entire body, it is not rare that also specific 
+parts of the body are evaluated negatively. In BDD, these specific 
+regions are often related to the face and perceived as defective or 
+flawed, or in BID, affected individuals perceive single limbs as not 
+belonging and thus desire an amputation ( World Health Organization, 
+2018 ). On a general level, a shared feature of these disorders are 
+distortions in the individuals’ body representation. However, it is 
+challenging to integrate research findings within one disorder or to 
+compare findings between disorders. This is due to conceptual and 
+methodological aspects, such as a remarkable heterogeneity in 
+terminology and assessments of concepts related to body 
+representations. For example, we identified more than 120 different 
+measures and tasks on body representations for a systematic review 
+focusing on BDD, MD and BID only ( Möllmann et al., 2020a ). The 
+problem is particularly evident in comparative research between 
+disorders and/or disciplines, with each discipline usually preferring 
+certain definitions of concepts and terms as well as different 
+assessments ( Smeets, 1997 ; Keizer and Engel, 2022 ). Importantly, 
+these conceptual problems not only complicate the integration of 
+findings, they also hinder improvement in understanding the 
+disorders and related treatment options (see e.g., Gadsby, 2021  or 
+Glashouwer et al., 2019  for a comprehensive discussion). Improving 
+treatment options, in turn, is highly needed, as remission rates for 
+most of the disorders associated with distorted body representations 
+are rather low, e.g., between 20 and 39% in BDD (e.g., Phillips et al., 
+2013 ; Wilhelm et al., 2014 ; Mataix-Cols et al., 2015 ; Enander et al., 
+2016 ; Fernández de la Cruz et al., 2021 ) or around 50% in anorexia 
+nervosa ( Steinhausen, 2002 ).
+As Gadsby (2017)  emphasizes, the understanding about normative 
+functioning of body representations can be improved by studying 
+malfunctioning or distortions of body representations in respective 
+disorders and vice versa. This underlines the importance to consider 
+research from multiple perspectives or disciplines, such as cognitive 
+neurosciences, and clinical psychology. In addition, we think it is very 
+fruitful to also look at the interplay between normative and 
+pathological development  of body representations to further clarify if 
+– and if so, how – these distorted body representations are involved in 
+the development or course of the respective disorders. It is well-known 
+that children face normative developmental challenges, for example 
+in form of domain-specific tasks (such as learning to be prosocial) and 
+that the (un-)successful completion is in turn associated with (impaired) further development in this domain with spreading effects 
+to other domains as well (i.e., cascade effects; Masten and Cicchetti, 
+2010 ). It is important to consider the development of body 
+representation as one such domain and we  will address such 
+developmental aspects in body representations below.
+To better understand the role of body representations in mental 
+health, we believe it is essential to provide a conceptual framework 
+first. This framework should allow to (a) integrate  the terminology  
+and conceptual understanding of different perspectives and (b) 
+systematically review and investigate  body representations in normative 
+development as well as in the development of psychopathology across 
+disorders and disciplines. With this approach, we address several of 
+the valuable recommendations from a comprehensive systematic 
+review on body representations in anorexia nervosa ( Glashouwer 
+et al., 2019 ). To this end, we propose a framework consisting of two 
+interconnected models, a structural and a process model.
+In the present article, we  first introduce the models in more detail, 
+focusing on the structural model, which includes the integration of 
+terminology and concepts from different perspectives. Second , 
+we  review the literature on the normative development of body 
+representations within the proposed model, identifying potential 
+sensitive developmental phases that may initiate cascade effects. Third , 
+we review distortions in body representation from a transdiagnostic 
+perspective across several mental disorders taking into account 
+developmental aspects. In this sense, we  follow a developmental 
+psychopathology approach to mental disorders including distorted 
+body representation. The specific role for body representations for 
+these mental disorders is not always clear: while in some disorders 
+certain aspects of body representations may be assumed to be a risk 
+factor (e.g., anorexia nervosa), for others there has been less research 
+and a lack of experimental and longitudinal studies that would help 
+clarifying if distorted body representations are a feature of the 
+disorder, an epiphenomenon or a (causal) risk factor. The development 
+of the models we  suggest in the next section is supposed to help 
+clarifying this important question.
+2 Conceptual framework on body 
+representations: a structural and a 
+process model
+Our conceptual framework on body representation includes a 
+structural model (categorial approach) and a process model (dynamic 
+approach). Both serve different purposes as outlined below. In 
+developing this framework, we  integrated and extended 
+conceptualizations, models, and empirical findings of researchers 
+from different disciplines, such as cognitive (neuro)sciences, 
+philosophy, experimental and clinical psychology (e.g., De Vignemont, 
+2010 ; Cash and Smolak, 2011 ; Longo, 2016 ; Vocks et al., 2018 ; Gadsby, 
+2021 ). The structural model  (Figure 1A ) may be especially useful to 
+categorize  different types of body representations and thus to 
+systematize  previous research or develop targeted new research 
+questions – both from different research perspectives as well as for 
+different mental (or other) disorders. Further, it may be used regarding 
+both, the representation of one’s own body and the representation of 
+others. In contrast, the process model  focuses on the (situational) 
+development and usage of a body representation. It thus rather reflects 
+a dynamic information processing model on body representation
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 03 frontiersin.org(Figure 1B ), illustrating how a body representation emerges in the 
+short- and long-term. As Medina (2022)  pointed out, this kind of 
+process model is highly needed in addition to more categorical 
+approaches for the development in the field of body 
+representation research.
+In the present article, we will primarily focus on the structural 
+model as it is our goal to first demonstrate how the presently available 
+results from studies on body representations may be structured to 
+identify and accumulate knowledge available and to inform future 
+research (areas). We will re-visit the process model in the discussion 
+section again to demonstrate how it may be used once the evidence 
+has been successfully structured.
+2.1 The three-dimensional structural model 
+of body representations
+As visualized in Figure 1A , the structural model considers three 
+dimensions on which body representations can be differentiated:
+Functions of body representations : body schema vs. body image 
+(perceptual and cognitive-affective).
+Sensory source : exteroception, proprioception and interoception.
+Stability:  short-term vs. long-term.
+Importantly, the model suggests differentiating between body 
+image and body schema in contrast to synonymously use the terms, 
+and it suggests separating body representations regarding the primary 
+source of information. Moreover, it distinguishes between body 
+representations that are short-term representing the body as it 
+currently is and long-term representing the body as it usually is. 
+Finally, the structural model can be used to classify representations of ones’ own body as well as representations of the bodies of others ( self-
+other ). We  will outline each dimension in more detail in the 
+following sections.
+2.1.1 Function of body representation: body 
+schema vs. body image
+We named the first dimension of the structural model function  to 
+underline our understanding that each body representation is needed 
+and used for a specific purpose, a function, such as to execute a 
+movement, perform a size estimation or answer questions about one’s 
+body (see Figure 1B , Process model, output). In clinical psychology, 
+unlike in other disciplines, the term body representation as an 
+umbrella term is rather uncommon. Instead, researchers are usually 
+familiar with a certain understanding about the body image, a concept 
+that is often used and understood synonymously to the body schema 
+(or perceptual body image and body schema as synonyms). The 
+synonymous use of the terms body image and body schema is unusual 
+in other disciplines, such as neuroscience, where the terms 
+characterize different functions of body representations. As this has 
+led to challenges in integrating research findings ( Glashouwer et al., 
+2019 ), we suggest, to align terminology across disciplines under the 
+in some areas already established umbrella term body representations 
+and use specific subterms for respective functions (i.e., body image 
+and body schema) or other aspects of body representations.
+In the structural model, we thus differentiate on a first level  body 
+image and body schema and subdivide body image further into the 
+cognitive-affective versus perceptual body image on a second level . 
+We define the cognitive-affective body image as feelings and attitudes 
+toward one’s body, as in common models on body image (e.g., 
+Gallagher, 1986 ; Cash and Smolak, 2011 ; Vocks et  al., 2018 ). It 
+FIGURE 1
+Conceptual framework of body representations consisting of (A) a three-dimensional structural model of body representation and (B) a process model 
+of body representation. The structural model (A) considers three dimensions (function, source, stability; see text for further details) on which body 
+representations can be differentiated. Moreover, the structural model can be used to classify representations of ones’ own body as well as 
+representations of the bodies of others (self-other). The process model (B) depicts the dynamics during the information processing of body-related 
+stimuli. Accordingly, a short-term representation emerges from (1) weighted sensory information about the body as it currently is from different 
+sensory sources (exteroceptive, proprioceptive, and interoceptive) and (2) stable information stored in long-term representations about the body as it 
+usually is. Short- and long-term representations are combined in the service of functions (e.g., movement, size-estimation, verbal report) which might 
+lead to (3) behavior-induced modifications of sensory input.
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 04 frontiersin.orgincludes body (dis)satisfaction (i.e., the evaluation of the physical 
+appearance) and the importance of the appearance for someone’s self-
+evaluation. We define the perceptual body image as the representation 
+of body “estimates, ” typically regarding size and shape (c.f. body 
+percept, Longo, 2016 ; Gadsby, 2017 ) but also regarding the body 
+composition related to other sensory sources, e.g., the intensity of 
+bodily sounds or odors (see next section). In contrast to some other 
+models on body image (e.g., Cash and Smolak, 2011 ; Vocks et al., 
+2018 ), we did not include a behavioral component, referring to body-
+related behaviors, such as body-checking in eating disorder. As 
+we certainly agree that these behaviors are important in many regards, 
+we would argue that they are not body representations in themselves 
+but rather are informed by or result from (distorted) body 
+representations – and also inform or change body representations (see 
+process model). The body image, in distinction to the body schema, 
+is not action-oriented but the subjective experience of one’s body (c.f., 
+Longo, 2016 ).
+In contrast, we  define the body schema according to De 
+Vignemont (2010)  as a function of body representation that is 
+necessary for body-scaled action and/or motor imagery ( Gadsby, 
+2017 ). It enables spontaneous, speeded movements, action or action 
+simulation while considering the dimensions of the own body and the 
+environment. The body schema develops bottom-up, without higher 
+cognitive processes such as feelings or attitudes toward one’s 
+appearance, and it includes representations of the body both as the 
+effector and as the goal of the action. Differentiating functions of body 
+representations does not mean that the functions are unrelated. 
+Interactions between different aspects seem very likely.
+The conceptualization of body image and body schema as 
+mentioned above differs from the common terminology in clinical 
+psychology. However, rethinking and specifying the current 
+understanding of body image might contribute to efforts of integrating 
+previous research ( Glashouwer et al., 2019 ). Accordingly, we believe 
+that differentiating body image and body schema can improve the 
+understanding of the way body representations are distorted in mental 
+disorders, such as eating disorders, BDD, MD, and BID, and eventually 
+improve treatment options. For example, such a differentiation led to 
+important research findings in anorexia nervosa. Engel and Keizer 
+(2017)  showed that after receiving cognitive-behavioral therapy 
+(CBT), individuals with anorexia nervosa still revealed a distortion of 
+the body schema. As CBT usually focuses on the cognitive-affective 
+component of body image, these findings motivated the authors to 
+develop intervention approaches that focus specifically on other 
+functions of body representations. A similar approach would 
+be important for under-researched disorders, such as BDD, MD, and 
+BID as well.
+2.1.2 Sensory sources: exteroception, 
+proprioception and interoception
+We receive a continuous flow of sensory information about the 
+body from various sources. These sources can be roughly parceled into 
+exteroception, proprioception and interoception ( Ceunen et al., 2016 ; 
+Khalsa et al., 2018 ). Exteroception refers to the perception of the body 
+and the environment from the outside. This includes sensory 
+information that stems from the sensory organs connecting the 
+outside environment to our inside via signal transmission, such as the 
+skin, eyes, ears and nose. Proprioception, on the other hand, refers to 
+the perception of the position and movement of limbs and the body as a whole. This includes information about muscle contractions, joint 
+angles and the position of the body in space. Finally, interoception 
+refers to the perception of stimuli and information from inside the 
+body, such as the physiological states of the organs, digestion, or heart 
+rate. Intertwined with this proposed tripartite division is the 
+somatosensory system ( De Haan and Dijkerman, 2020 ). In addition 
+to exteroceptive tactile perception, the somatosensory system includes 
+proprioception and interoceptive sensations of pain and temperature. 
+Here, we adhere to the initial categorization of sensory sources (i.e., 
+exteroception, proprioception, and interoception), as it provides a 
+more comprehensive picture of sensory sources while still allowing for 
+insights into the somatosensory system.
+While proprioception and some prominent exteroceptive 
+modalities (i.e., visual and tactile) are often taken into account in 
+research and it may therefore be easy to understand why they are part 
+of the model, the incorporation of interoception as well as further 
+exteroceptive modalities (e.g., auditory and olfactory) might not 
+be  so obvious at a first glance. However, interoception has been 
+increasingly recognized as a significant factor in body representations 
+and various mental health conditions including eating disorders (e.g., 
+Badoud and Tsakiris, 2017 ; Khalsa et al., 2018 ; Raimo et al., 2021 ). 
+Moreover, the sounds and odors emanating from our bodies are a 
+further exteroceptive source that affects the way the own body is 
+represented. For example, sounds (e.g., produced when breathing, 
+eating or walking) have an effect on the overall body awareness 
+(Murray et al., 2000 ; Azañón et al., 2016 ) and can even alter one’s own 
+perceived body weight ( Tajadura-Jiménez et al., 2015a ) as well as the 
+mental representation of arm length ( Tajadura-Jiménez et al., 2012 , 
+2015b ). Likewise, scent stimuli can affect participants’ perception of 
+body shape and weight ( Brianza et  al., 2019 ) and booster the 
+embodiment of a sex mismatching body in virtual reality ( Lesur et al., 
+2023 ). This research on the significance of certain sensory sources for 
+body representations, such as auditory and olfactory information, is 
+still in its infancy, as these sources were more difficult to control and 
+record experimentally in the past. However, we  think that a 
+comprehensive model on body representation should consider all 
+information available about one’s own body. This evaluation is also 
+supported by clinical conditions, such as misophonia and the 
+olfactory reference disorder, where (the processing of) this sensory 
+information is closely related to the disorder symptoms. Misophonia 
+describes a reduced tolerance toward certain sounds or associated 
+stimuli, most often related to eating or breathing sounds from 
+individuals close to the affected person, such as a partner or parent 
+(Swedo et al., 2022 ). Individuals with misophonia thus develop very 
+detailed body representations regarding other people’s bodily sounds. 
+In olfactory reference disorder, individuals are preoccupied about 
+emitting a strong body odor which is not or only slightly noticeable 
+for others ( Schmidt et al., 2021 ). This characteristic affects the body 
+image, based on olfactory information.
+Importantly, information from different sensory sources are often 
+encoded in separate brain regions and separate spatial frames of 
+reference. For example there are over a dozen distinct maps encoding 
+visual and tactile information about the body spanning the parietal 
+and frontal cortex ( Huang et al., 2012 ) as well as a multitude of body-
+sensing brain regions including the insula and somatosensory 
+cortices which form the neural basis of interoception ( Paulus et al., 
+2019 ). This requires elaborate computations to combine or integrate 
+these different inputs ( Ernst and Bülthoff, 2004 ; Kirsch and Kunde,
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 05 frontiersin.org2023 ). The exploration of the neural pathways and processes 
+underlying these computations is constantly expanding, which is not 
+surprising given the multitude of sensory sources and their potential 
+interactions. Therefore, an in-depth review of the neuronal basis of 
+sensory integration is beyond the scope of this article and can 
+be found elsewhere (e.g., Murray and Wallace, 2012 ; Y au et al., 2015 ). 
+From this research, it can be noted that multisensory integration 
+occurs within a broad hierarchically organized neural network that 
+involves numerous feedback loops. Of particular relevance in this 
+network is the parietal cortex which is involved in reference frame 
+remapping and mediating crossmodal interactions (e.g., between 
+vision and touch) in sensory cortex ( Y au et al., 2015 ). Moreover, 
+behavioral studies on multisensory integration have provided 
+evidence that integration is task-dependently taking into account, for 
+example, the relative reliabilities of the sensory input ( Ernst and 
+Banks, 2002 ). As a consequence, different sensory sources are used 
+in the formation of body representations ( De Vignemont, 2010 ; 
+Peviani et al., 2019 ) depending on the task, reliability, and availability 
+of sensory information. Although body-related distortions may 
+be the result of faulty multisensory integration (e.g., Saetta et al., 
+2020 ), distortions often occur at an earlier stage (i.e., before 
+integration) and thus originate at the level of individual sensory 
+sources (e.g., Feusner et al., 2007 ; Keizer et al., 2011 ; Longo, 2022 ). 
+Identifying where and how exactly the processing of sensory 
+information about the body is disturbed in mental disorders is 
+challenging given the intricate recurrent processing loops underlying 
+uni- and multisensory processing. However, we believe it is important 
+to underline the relevance of the main  constituting sensory source for 
+a specific body representation. Thus, we suggest body representations 
+can (and should) be further differentiated according to their main 
+constituting sensory source. Accordingly, the sensory sources serve 
+as a distinct, orthogonal dimension in our structural model of 
+body representations.
+Referring to the other two dimensions of function (body image 
+vs. body schema) and stability (short-term vs. long-term; see next 
+section), some sources appear to be more central than others. For 
+example, proprioceptive information is especially relevant for the 
+body schema due to its close relationship to movement. However, 
+actions can also be selected and controlled based on exteroceptive 
+information (e.g., auditory, visual, or olfactory information Herwig 
+et al., 2007 ; Smeets and Dijksterhuis, 2014 ; Herwig, 2015 ). Moreover, 
+research on the rare case of deafferented patients lacking 
+proprioceptive input suggests that these patients’ body schema can 
+instead be based on exteroceptive visual input only ( De Vignemont, 
+2010 ). Likewise, interoceptive signals have been linked to motor 
+control and the subjective experience of agency ( Pezzulo et al., 2015 ; 
+Marshall et al., 2018 ). Especially interoceptive signals related to itch 
+and pain play an important role in actions aimed at the own body 
+(Berlucchi and Aglioti, 2010 ). In case of body image, which is for 
+example used for the perception of body size, exteroception (and 
+especially visual information) seems to be more central than other 
+modalities. However, the body image can also be  based on other 
+sensory information when visual input is not reliable or available (e.g., 
+to estimate the size and shape of the back of one’s head) and is known 
+to be affected by tactile sensitivity ( Linkenauger et al., 2015 ), as well 
+as bodily sounds and odors (e.g., Tajadura-Jiménez et al., 2015b ; Lesur 
+et al., 2023 ). Disturbed interoceptive information also alters the body 
+image as evident by effects of local anesthesia, pain and cutaneous stimulation on the perceived size of body parts like the thumb and lips 
+(Gandevia and Phegan, 1999 ).
+In the case of mental disorders, some symptoms are more related 
+to specific sensory sources than others. For example, body checking 
+as a frequent symptom of eating disorders or BDD mostly leads to 
+visual or tactile information which might render body representations. 
+On the other hand, altered visual and proprioceptive information 
+seems to be more relevant when it comes to pretending behavior (e.g., 
+using crushes or wheelchairs) as one symptom of BID.
+2.1.3 Stability: short-term vs. long-term
+Body representations can be further classified according to their 
+temporal stability in short-term and long-term body representations 
+(Merleau-Ponty, 1962 ; O’Shaughnessy, 1980 ; Carruthers, 2008 ). Short-
+term or online body representations are dynamic representations of 
+the body as it currently is. As such they are constantly updated in 
+working memory by currently available sensory information (e.g., by 
+a look into the mirror, or by proprioceptive information about the 
+current body posture). In contrast, long-term or offline body 
+representations are more stable and represent the body as it is usually 
+like. Typical properties of long-term body representations are the 
+spatial organization and the size of body parts as well as learned 
+movement possibilities or generalized motor programs ( Berlucchi and 
+Aglioti, 1997 , 2010 ; Shea and Wulf, 2005 ; Schack and Mechsner, 2006 ).
+As elaborated by De Vignemont (2010) , the stability dimension 
+(short-term vs. long-term) is orthogonal to the perception-action 
+(body image vs. body schema) distinction. Moving the own body 
+typically requires an interaction of both, short-term and long-term 
+body schema representations. That is, for an arm movement, short-
+term information of the current position needs to be combined with 
+long-term information about its size and learned movement 
+possibilities ( De Vignemont, 2010 ). The same holds true for body 
+perception, which can be also conceived as an interaction between 
+short-term and long-term body image representations.
+It has been suggested that disturbances in body representation, as 
+reported for eating disorders, are more likely due to disturbances in 
+long-term representations permitting discrepant sensory input 
+(Gadsby, 2017 ). Accordingly, dynamic short-term representations are 
+thought to be  corrupted by distortions imported from long-term 
+representations. In fact, studies on anorexia nervosa indicate that 
+disturbances might result from a biased weighting of short- and long-
+term information about the own body ( Case et al., 2012 ; Keizer et al., 
+2013 ; Gadsby, 2017 ). For example, an oversized body representation 
+of patients suffering from anorexia nervosa might be the result of a 
+failed updating of long-term representations after sudden weight loss 
+or of a general devaluation of current sensory short-term 
+representations ( Guardia et al., 2012 ; Gadsby, 2017 ). Likewise, it has 
+been suggested that a failure to integrate short-term and long-term 
+body representations leads to BID ( Carruthers, 2008 ). It has to 
+be noted, however, that interactions between long-term and short-
+term body representations are manifold. On the one hand, long-term 
+body representations affect short-term representations as information 
+from long-term memory is typically combined with the actual sensory 
+input in working memory. On the other hand, short-term 
+representations affect long-term representations as long-term 
+information itself is constructed by accumulating short-term 
+information about the own body. Thus, this dimension might 
+be especially interesting from a developmental perspective on body
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 06 frontiersin.orgrepresentation and due to its dynamic nature studied in the context of 
+our process model.
+We will now move on focusing on the normative development of 
+body representation, beginning with the “function” dimension of the 
+structural model, body schema and body image, from a developmental 
+perspective. We  will refer to the source dimension alongside, 
+differentiating the different senses where applicable. The stability 
+dimension of the structural model will not be reviewed here from a 
+developmental perspective as we believe the process model to be more 
+suitable to investigate this dimension.
+3 The normative development of body 
+representations
+How and when do different body representations emerge and 
+develop during ontogenesis? In the following, we will first address this 
+question in the course of normative development. This will help to 
+better identify deviations and disturbances in the development of 
+body representations that may accompany certain mental disorders as 
+discussed later. Following the structural model of body representations 
+outlined before, we will address these questions separately for body 
+schema, and body image (including the perceptual body image and 
+the cognitive-affective body image).
+3.1 Body schema
+The existence of a body schema, that is the body representation 
+supporting body-scaled actions, can be found from very early on. An 
+important discovery was the neonate’s ability to imitate facial gestures, 
+requiring some sort of mapping between vision and motor response 
+(e.g., Meltzoff and Moore, 1994 ; Meltzoff et al., 2013 ). Moreover, three 
+to 5 months old infants already discriminate between pre-recorded 
+and live videos of own leg movements ( Bahrick and Watson, 1985 ; 
+Rochat and Morgan, 1995 ), thus showing early integration of visual 
+and proprioceptive signals during movement execution. This has led 
+to the suggestion that certain parts of the body schema (e.g., 
+supporting early manual-oral behaviors) are innate (e.g., Gallagher, 
+2005 ; Rochat, 2010 ), thus providing the foundation for the later 
+developing body image ( Brownell et al., 2012 ; see the discussion of the 
+body image in the next section). However, other authors view the 
+body schema as the result of pre- or postnatal experience ( Merleau-
+Ponty, 1962 ; see also Bremner, 2017 ). Innate or not, there is evidence 
+that the body schema is highly plastic and further develops during 
+infancy and childhood, reaching maturation not until adulthood.
+For instance, studies indicate that premature birth might impact 
+on the later development of the body schema and associated motor 
+skills as well as sensorimotor functioning ( De Kieviet et al., 2009 ; Di 
+Rosa et al., 2016 ; Butti et al., 2020 ). One of the reasons for these effects 
+might be  that preterm infants are exposed to atypical handling 
+routines and thus experience atypical sensory stimulation ( Peng et al., 
+2009 ). Interestingly, preterm children at the age of 8 to 14 years were 
+less efficient than full-term children in expressing hand-laterality 
+judgments on whole body stimuli ( Butti et al., 2020 ). This finding 
+provides a first tentative hint that early body-related experiences 
+during the first year of life might initiate a developmental cascade 
+impacting children’s developmental course. However, these difficulties were present regardless of whether the body was shown from the front 
+(and thus requiring a first-person mental transformation that is 
+known to involve one’s own body schema) or back (not necessarily 
+involving the body schema). Further studies are needed to pinpoint 
+the specific impact of premature birth on the body schema.
+A further line of evidence for developmental effects on the body 
+schema comes from tool use. For instance, children start using tools 
+like rakes to reach a desired toy during the second year of life (e.g., 
+Rat-Fischer et al., 2012 ). In adults, tool use modifies the body schema 
+as indexed by a change in the kinematics of subsequent free-hand 
+movements following a period of tool-use actions. More precisely, 
+after using a mechanical grabber to pick up objects, adults move their 
+arm as if it has become longer ( Martel et al., 2019 ). Thus, tools become 
+incorporated into the body schema and this incorporation lingers on 
+for a certain amount of time after the tool is no longer in use. 
+Importantly, the plastic capability of updating the body schema is 
+strongly affected by the pubertal status of 8–21 years old ( Martel et al., 
+2021 ). During early puberty, the kinematic changes that linger after a 
+period of tool-use oppose the patterns observed for adults - children 
+move their arm as if it has become shorter. This pattern reverses after 
+mid-puberty with the typical adult-like pattern emerging only at late 
+puberty, when body size stabilizes. Comparable shaped developmental 
+trajectories have also been observed for localisation performance of 
+the hand during movements ( Nardini et al., 2013 ), kinaesthetic acuity 
+(Visser et al., 1998 ), as well as the use of proprioceptive information 
+for postural control of the upper limbs ( Viel et al., 2009 ). Together, 
+these findings point to the beginning of puberty as a further sensitive 
+stage in the development and maturation of the body schema. After a 
+period of constant growth during childhood, the rate of body growth 
+increases sharply during the growth spurt leading to critical and fast 
+changes in body morphology. This might present special challenges to 
+the developing body schema and may therefore also be considered a 
+vulnerable phase for body representation distortions due to the 
+comprehensive adaptions in mental representation of the body 
+(Assaiante et al., 2014 ; but see De Haan et al., 2018 ).
+In sum, the findings on the development of the body schema 
+implicate that although the body schema begins to develop already 
+during a prenatal stage (or might be even partly innate), it remains 
+highly plastic until adulthood and is therefore vulnerable for abnormal 
+developments at least until then. Premature birth is a possible risk 
+factor for the later development of such abnormalities, and puberty 
+appears as a particularly sensitive phase due to the comprehensive 
+changes in body morphology.
+3.2 Body image
+3.2.1 Perceptual body image
+As concerns the perceptual body image, i.e., representations of any 
+body estimates (e.g., the body’s shape, size, spatial configuration, 
+intensity of bodily sounds or odors), there is converging evidence that 
+the abilities to represent our own bodies take significant developmental 
+time to emerge (e.g., Brownell et al., 2012 ; Bremner, 2022 ). Especially 
+during the first 3 years of life, different aspects of the perceptual body 
+image emerge and develop at different points in time. For example, the 
+ability to locate touch changes in children between 4 and 6 months of 
+age, as localization performance becomes increasingly influenced by 
+body shape and configuration. At the age of 4 month, children locate
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 07 frontiersin.orgtouch, as indexed by a tactile orienting response, equally well on their 
+crossed and uncrossed feet. At the age of 6 month, however, children 
+showed a tactile localization deficit with their feet crossed, indicating 
+external spatial coding of touch ( Begum Ali et al., 2015 ). This deficit 
+to locate touch on crossed limbs is also apparent in sighted (but not 
+blind) adults and arises from the influence of representations of the 
+canonical posture of the body in external space ( Röder et al., 2004 ; 
+Badde et al., 2019 ). Body representations underlying the ability to 
+locate touch are thus strongly affected by visual input during the first 
+months of life.
+Children in the first half of the second year initially become aware 
+of individual body parts in isolation from one another. At this age, 
+they can point to own body parts in response to a verbal label (i.e., 
+auditory input) but have difficulties to match someone else’s body 
+parts to their own using visuo-spatial information alone ( Brownell 
+et al., 2012 ). Between 18 and 22 months, children become first aware 
+that their bodies, like other objects, take up space and can serve as 
+obstacles, which is for instance demonstrated by a decline in attempts 
+to hand over a mat they are sitting on without first moving off it. Body 
+size awareness emerges a little later between 22 and 26 months, as 
+indexed by fewer scale errors like trying to put on doll clothes or to 
+squeeze through a too-small opening ( Brownell et al., 2007 ). Only by 
+the age of 30 months, children start to represent their bodies in terms 
+of a more detailed topographic representation and are now able to 
+correctly place stickers on unnamed body locations on themselves 
+using visuo-spatial information as well as imitate meaningless gestures 
+positioned at different body locations ( Brownell et al., 2010 ).
+The perceptual body image develops further in childhood as 
+indicated by studies investigating the rubber hand illusion ( Botvinick 
+and Cohen, 1998 ). In this illusion, the sight of a fake hand being 
+synchronously stroked with the real hand hidden from view, causes a 
+shift in the localization of the real hand. More precisely, the real hand 
+is perceived to be  closer located to the seen fake hand after 
+synchronous compared to asynchronous stroking. This self-
+localization without the possibility to move the real hand should 
+be mainly based on the perceptual body image using visual, tactile and 
+proprioceptive information. While children between 4 and 9 years are 
+as sensitive as adults to visual-tactile synchrony cues for hand position, 
+they perceive their hand generally (i.e., regardless of synchrony) to 
+be located closer to the fake hand than 10 to 13 years olds as well as 
+adult’s ( Cowie et al., 2013 , 2016 ). This might indicate two processes in 
+the development of the perceptual body image during childhood. One 
+process is based on the perceived temporal synchrony between visual 
+and tactile stimulation which matures by at least 4 years of age and 
+changes little after that. The other process is based on the integration 
+of visual and proprioceptive information and matures not until 
+10 years of age. The latter finding fits well to the idea that children, at 
+least before they enter puberty, rely more strongly on their visual than 
+proprioceptive body image for self-localization. One possible reason 
+might be that children’s proprioception needs more developmental 
+time than vision to provide reliable estimates.
+This finding is further complemented by a study investigating the 
+spatial and temporal rules for multisensory integration underlying 
+body representations in a sample of 5 to 12 years old ( Greenfield et al., 
+2017 ). In this study, children had to report whether they saw their 
+visually displaced hand in the same position as their actual hand and 
+whether they experienced a tactile stroke to their hand as synchronous 
+with a temporal delayed video of their own hand. Y ounger children showed an increased probability to mistakenly integrated together 
+body related information from different modalities separated in space 
+or time. Such broader integration windows of multisensory 
+information might also partly underly the finding of younger 
+children’s tendency to locate their real hand closer to the fake hand 
+even after asynchronous brushing reported by Cowie et  al. 
+(2013 , 2016) .
+In sum, the perceptual body image develops as the infant’s and 
+child’s information about its body becomes richer and more reliable. 
+A large part of the foundations is laid in early infancy and childhood, 
+when visual information becomes incorporated in representations 
+used to locate touch and body awareness slowly builds up. As the 
+child growths and reaches puberty, the visual dominance in self 
+localization decreases and integration windows of multisensory 
+information narrow.
+3.2.2 Cognitive-affective body image
+Research on the development of the cognitive-affective body 
+image during childhood and adolescence appears more strongly 
+directed toward distortions (e.g., body image concerns or body 
+dissatisfaction) rather than toward the normative development of 
+attitudes, beliefs or feelings about one’s body ( Smolak, 2011 ; Paxton 
+and Damiano, 2017 ). In comparison to the body schema and the 
+perceptual body image, the cognitive-affective body image develops 
+later, as the evaluation of one’s own body requires certain self-reflective 
+cognitive functions.
+One hypothesis is that it starts developing around the age of five, 
+as comparisons with others become more important in this phase 
+(Smolak, 2011 ). This hypothesis is derived from a common 
+assumption, that the cognitive-affective body image in relation to 
+oneself may be closely associated with the cognitive-affective body 
+image in relation to others (see also the self-other aspect in our 
+structural model, Figure  1A ), e.g., in the weight bias. This bias 
+describes negatively biased assumptions about others, for example 
+regarding their intelligence, kindness or competences, based on their 
+(higher) body weight ( Puhl and Suh, 2015 ; Spiel et al., 2016 ). It is 
+assumed that these negative attributions are initially only applied 
+regarding others before they are also applied in relation to oneself and 
+may thus lead to body dissatisfaction ( Durso and Latner, 2008 ; Latner 
+et al., 2013 ). Overall, however, the differentiation self - others appears 
+especially important during childhood and adolescence across the 
+development of different body representations.
+Deviating from the hypothesis, other studies indicate that the 
+cognitive-affective body image already starts developing earlier. Body 
+(dis)satisfaction and weight bias are researched in children from about 
+3 years of age ( Spiel et al., 2012 ), commonly using the current-ideal 
+discrepancy score from figure rating scales, in which the child is 
+presented with a certain number of body silhouettes that differ in 
+terms of body weight (e.g., Damiano et al., 2015a ,b). The children are 
+then asked to select their current self on the one hand and their 
+desired/ideal self on the other. In the case of agreement, this is 
+evaluated as body satisfaction, in the case of deviation as 
+dissatisfaction. These studies show that children from the age of 
+around three are developmentally able to make evaluative judgments 
+about their bodies. Further, a sensitive developmental phase for the 
+body-related self-evaluation around the age of six to seven might 
+be concluded from the studies with a kind of crossing point regarding 
+body dissatisfaction ( Dohnt and Tiggemann, 2006 ). Boys and girls at
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 08 frontiersin.org4 years show very small discrepancy scores with 72 and 62% being 
+satisfied with their bodies and within the groups of dissatisfied 
+children, twice to three times as many desired a larger figure ( Damiano 
+et al., 2015a ). With increasing age, the proportion of satisfied children 
+begins to decrease, while the thinner ideal gains in importance and 
+from age 6 there is a rapid increase in dissatisfaction with consistent 
+findings of up to half of the children up to age 12 desiring a thinner 
+ideal ( Schur et al., 2000 ; Truby and Paxton, 2002 , 2008 ; Ricciardelli 
+et al., 2009 ).
+A positive cognitive-affective body image has been repeatedly 
+linked to higher interoceptive acuity (e.g., in a heartbeat perception 
+task) in adults ( Duschek et al., 2015 ; Emanuelsen et al., 2015 ; Badoud 
+and Tsakiris, 2017 ; Todd et al., 2019 ). Thus, taking a developmental 
+perspective on interoception ( Murphy et al., 2017 ) might indirectly 
+inform about critical phases in the development of the cognitive-
+affective body image. There is very little data on interoception in early 
+infancy and it is not exactly clear at which age explicit awareness of 
+interoceptive signals develops. However, implicit interoception using 
+cortical measurements of cardiac information has been investigated 
+in children aged 3 years and older ( Immanuel et al., 2014 ). In this 
+study, children with sleep disordered breathing showed reduced 
+implicit interoception which correlated with problematic daytime 
+behavior. The first explicit measurements of interoceptive sensitivity 
+have been obtained in children aged 6 years and older ( Koch and 
+Pollatos, 2014 ). Here, low explicit interoceptive sensitivity (i.e., 
+heartbeat perception) has been linked to both obesity and the presence 
+of disordered eating behaviors over a one-year timeframe. Likewise, 
+reduced explicit interoceptive sensitivity is associated with adolescence 
+obesity in a sample of 12- to 18-year-olds ( Mata et al., 2015 ). Although 
+data on the normative development of interoception is not abundant, 
+it has been suggested that interoceptive ability varies throughout 
+development and is associated with periods of risk for the development 
+of psychopathology ( Murphy et al., 2017 ). Future studies should thus 
+trace the link between interoception and body representations across 
+different developmental periods.
+3.3 Significance of developmental 
+processes for distorted body 
+representation
+In summary, the different functions of body representations, body 
+schema, perceptual body image and cognitive-affective body image, 
+start developing at different ages with the earliest development in body 
+schema, followed by the perceptual body image and cognitive-affective 
+body image. They reveal a different level of plasticity and therefore 
+susceptibility for the development of distortions, again during 
+different phases of development. Regarding the sensory sources, most 
+studies focus on exteroception (mainly visual, tactile) and 
+proprioception. Studies on the normative development of 
+interoception are rare but could play a greater role in the future, as 
+atypical interoception could be closely related to the development of 
+psychopathology. The role of other exteroceptive sources (i.e., auditory 
+and olfactory) in the development of body representations is mostly 
+neglected. Whether (and if so, how) interferences during the 
+development of a specific body representation lead to a distorted body 
+representation and affect the subsequent development of other 
+representations, might be an important question for future research. From a clinical perspective, these phases of increased plasticity and 
+therefore susceptibility for the development of distortions might be a 
+gateway for the development of mental disorders characterized by 
+distortions of body representation.
+4 Mental disorders and distorted body 
+representations
+In this section we will now turn to apply our model to a selection 
+of mental disorders and examine if distorted body representations are 
+a transdiagnostic relevant factor for mental disorders. While a more 
+comprehensive systematic review on existing studies would 
+be necessary for answering such a question, and specifically more 
+longitudinal as well as experimental studies, we aim to start at this 
+point with a brief and exemplar review of studies. We will first shortly 
+describe the clinical features of mental disorders typically associated 
+with distorted body representations. Second, following the structural 
+model of body representations, we will review each function, body 
+schema and body image (perceptual and cognitive-affective body 
+image), regarding research findings on distortions present in the 
+respective mental disorders. Third, we will synthesize these findings 
+in relation to the applicability of our model.
+Several mental disorders are typically  associated with distorted 
+body representations, such as eating disorders, body dysmorphic 
+disorder (BDD) including muscle dysmorphia (MD), and body 
+integrity dysphoria (BID). It may be noted that beside these typical  
+disorders, body representations as conceptualized in our framework 
+may appear relevant for other (mental, neurodevelopmental) disorders 
+or conditions as well, for example the olfactory reference disorder, 
+pain disorders, misophonia, autism, or gender incongruence. For the 
+scope of the current article, we  will limit this section to eating 
+disorders, BDD, MD and BID to apply the model for the first time.
+4.1 Key features of mental disorders 
+typically associated with body 
+representation distortions
+Regarding the key features of the disorders, eating disorders, such 
+as anorexia nervosa (AN), bulimia nervosa (BN), and binge eating 
+disorder (BED), are characterized by the preoccupation with one’s 
+body weight and shape (ICD-11; World Health Organization, 2018 ) 
+with slight differences between disorders. For example, a disturbed 
+way of perceiving  one’s weight or body shape is especially emphasized 
+for AN (DSM-5-TR; American Psychiatric Association, 2022 ), while 
+the overly importance of weight and shape for self-evaluation  can 
+be found across eating disorders ( Grilo et al., 2019 ; Lydecker et al., 
+2022 ). In BDD, a disorder classified in the obsessive-compulsive 
+spectrum, individuals are preoccupied with at least one aspect of their 
+physical appearance which they perceive as flawed, defective, or 
+deformed ( American Psychiatric Association, 2022 ). They evaluate 
+this or these aspect(s) of their appearance as unattractive or even ugly 
+and hideous ( Veale and Neziroglu, 2010 ). The perceived flaws are not 
+at all or only slightly visible for others and up to 53% of individuals 
+with BDD even experience delusional beliefs regarding their perceived 
+defect ( Phillips, 2004 ). MD, as a form of BDD, describes the specific 
+preoccupation with one’s perceived insufficient muscularity
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 09 frontiersin.org(Cunningham et  al., 2017 ). Several authors see MD more closely 
+related to anorexia nervosa than to BDD, as the main concern 
+similarly involves the shape of the whole body and is weight-related 
+(Pope et al., 1993 ; Phillipou et al., 2016 ). BID is different from eating 
+disorders, BDD and MD on the phenomenological level. It describes 
+individuals with the intense and persistent desire to become physically 
+disabled for example by amputation of healthy limbs or by taking 
+actions to become paraplegic, blind or deaf ( First, 2005 ; First and 
+Fisher, 2011 ; Giummarra et al., 2012 ). This desire is accompanied by 
+intense feelings of inappropriateness concerning the current 
+non-disabled body configuration, described as “overcompleteness. ” 
+Since individuals with BID experience the apparently healthy and 
+functionally intact bodies or body parts as not belonging, the 
+disturbed body representations might qualitatively differ from the 
+distortions in the context of the other disorders.
+Comparing the age of onset of the disorders, BID stands out with 
+a typical begin already in early to middle childhood at an age around 
+7 years ( Blom et  al., 2012 ; Brugger et  al., 2016 ). Eating disorders 
+usually develop during puberty or early adulthood with some evidence 
+that AN starts slightly earlier than BN ( Herpertz et al., 2019 ). An onset 
+in later adulthood is less typical across eating disorders but most likely 
+for BED ( Stice et al., 2021 ). A large-scale epidemiological study with 
+10,123 adolescents aged between 13 and 18 years revealed median ages 
+of onset of 12.3 (AN), 12.4 (BN) and 12.6 (BED; Swanson et al., 2011 ). 
+The mean age of onset of BDD in adolescent samples is around the age 
+of 12 to 13 years, with around 10% of the individuals experiencing a 
+pre-pubertal onset ( Albertini and Phillips, 1999 ; Rautio et al., 2022 ). 
+For MD, the age of onset appears to be around the age of 19 (only 
+retrospective studies available), sometimes evolving from anorectic 
+symptoms ( Olivardia et al., 2000 ). The later age of onset compared to 
+BDD of the non-MD form and AN appears a bit surprising, given the 
+similarities between the disorders. However, the known bias in 
+retrospective studies estimating the age of onset to be higher than it 
+actually was might have influenced these estimates.
+Regarding the course of the disorders, BN and BED are rather 
+variable inter- and intra-individually and reveal higher rates of 
+(spontaneous and treatment supported) remission rates ( World 
+Health Organization, 2018 ) than the other disorders mentioned. The 
+experienced overcompleteness in BID, as well as the course of AN, 
+BDD and MD usually are chronic untreated, and even with 
+psychological treatment, still most of the patients do not reach 
+remission ( First and Fisher, 2011 ; Hartmann et al., 2013 ; Krebs et al., 
+2017 ; Waldorf et al., 2019a ; Underwood and Olivardia, 2022 ). For BID 
+the situation is even worse as there are currently no effective 
+(non-invasive) treatments leading to a remission or cure of BID 
+(Chakraborty et  al., 2021 ), despite several suggestions (e.g., 
+Ramachandran and McGeoch, 2007 ; Lenggenhager et al., 2014 ).
+4.2 Body schema distortions across the 
+disorders
+Compared to studies on the body image, less research has focused 
+on distortions of the body schema across eating disorders, BDD, MD 
+and BID.
+Meneguzzo et al. (2023)  report distortions in the body schema in 
+individuals with versus without AN, even after weight recovery (i.e., 
+atypical AN after treatment), as indicated by results from an image-word matching task. These results can be  interpreted with 
+regard to the interplay between body schema and body image, or – as 
+suggested by the study authors  - in the context of linguistic 
+embodiment, as an integration of different sensory sources, motor 
+imagery (i.e., body schema) and cognitive processes is needed for task 
+processing. Other studies used a door like aperture task, measuring 
+the ratio of shoulder rotation/aperture width as an indicator of the 
+body schema in individuals with and without AN. The results reveal 
+a body schema distortion in the clinical groups, which moved through 
+the aperture as if they had a wider body than their actual body ( Keizer 
+et al., 2013 ; Beckmann et al., 2021 ). For AN, these findings already 
+resulted in treatment approaches including components of body-
+scaled action, which reveal higher improvement rates for distortions 
+in body representations compared to treatment as usual ( Keizer 
+et al., 2019 ).
+For BDD, no study has yet focused on the body schema. Several 
+studies used paradigms that are primarily intended to assess the body 
+image, yet also activate the body schema. For example, studies used 
+facial stimuli – presented with or without emotional expressions, or 
+upright versus inverted – to investigate gazing behavior via 
+eye-tracking ( Grocholewski et  al., 2012 ) or visual processing 
+abnormalities via neuroimaging ( Feusner et  al., 2010 ). The tasks 
+therefore primarily capture the body image, although indirect body 
+schema influences are possible, since emotion recognition probably 
+involves facial mimicry ( Ponari et al., 2012 ) and inverted faces might 
+induce mental rotation ( Valentine and Bruce, 1988 ). Conversely, 
+however, the tasks do not allow specific conclusions to be drawn about 
+potential body schema distortions in BDD. In contrast to BDD of the 
+non-MD type, typical MD behaviors (e.g., excessive weight-lifting) 
+appear more closely related to the body schema. However, to our 
+knowledge, no study has yet investigated body schema in muscle 
+dysmorphia using, for example, action-oriented behavioral tasks 
+similar to the aperture tasks in AN studies mentioned above.
+BID is associated with specific neurological and behavioral 
+characteristics. For example, individuals with BID show structural and 
+functional changes in a distributed cortical network related to body 
+representation, specifically, including sensorimotor areas, and parietal 
+areas as well as the premotor cortex ( Saetta et al., 2020 , 2022 ). The use 
+of a paradigm for mental rotation of body parts showed no evidence 
+of a possible distortion of the body schema in BID ( Stone et al., 2019 ). 
+However, there are first indications that motor signals are differently 
+processed in BID in the right paracentral lobule ( Gandola et al., 2021 ). 
+Moreover, as a behavioral characteristic, BID is very often 
+accompanied by pretending behavior, that is the habitual simulation 
+of the desired body state by using crutches or wheelchairs, or binding 
+up the affected limb ( First and Fisher, 2011 ; Giummarra et al., 2011 ; 
+Blom et  al., 2012 ). There is still relatively little known about the 
+duration and frequency of pretending behavior in individuals with 
+BID. However, case reports suggest that a certain degree of 
+heterogeneity can be assumed (e.g., Kasten, 2009 ; Giummarra et al., 
+2011 ). Which behavior is expressed probably depends on the desired 
+body configuration, that is subjects with the amputation variant  of 
+BID ( Saetta et al., 2022 ) will mainly pretend by binding up the affected 
+limb and using crutches, whereas the paralysis variant  (Giummarra 
+et al., 2012 ) will mainly use wheelchairs. We suggest that different 
+forms of pretending are carried out to modify different kind of body 
+related information. For example, the primary aim of using a 
+wheelchair could be to simulate motor aspects of immobility (affecting
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 10 frontiersin.orgthe body schema), whereas the aim of tying up a body part could 
+be either to modify the shape of the body (affecting the body image) 
+or motor aspects of immobility of the limb (affecting the body schema) 
+or both. Interestingly, a recent study demonstrated a correlation of 
+neurological and behavioral markers of BID ( Saetta et  al., 2020 ). 
+Unfortunately, the correlational nature of the link between pretending 
+and body representation does not allow inferences on causality. One 
+possibility is, that a distorted body representation in BID causes 
+pretending behavior. However, an alternative possibility is, that 
+pretending behavior (e.g., as a reaction to specific triggering events 
+like encounters with severely physically ill and disabled individuals, 
+see Obernolte et  al., 2015 ) might cause a distorted body schema. 
+Simulating a disabled body state severely limits and modifies the 
+experience of movement of the body or body parts ( Burin et al., 2017 ). 
+In line with this, research on the effect of limb immobilization with 
+healthy individuals has shown that temporary immobilization, such 
+as through cast or splint, can lead to alterations in body representations 
+of the immobilized body part. This has been shown for different 
+factettes of body representations underlying body ownership, 
+sensorimotor functioning, motor simulation and motor control 
+(Toussaint and Meugnot, 2013 ; Burin et al., 2017 ; Debarnot et al., 
+2018 ; Scotto et al., 2020 ). Moreover, there are also first indications that 
+limb immobilization might lead to changes in the brain ( Huber et al., 
+2006 ; Langer et al., 2012 ). Future experimental studies are needed to 
+clarify the causal role of pretending and distorted body 
+representations in BID.
+4.3 Body image distortions across the 
+disorders
+In eating disorders, many studies focus on the long-term visual 
+cognitive-affective body image, often targeted with self-report 
+questionnaires about one’s appearance. This research shows high body 
+dissatisfaction and a high relevance of the body weight and shape for 
+self-evaluation (for AN Glashouwer et al., 2019 ; across EDs Prnjak 
+et al., 2022 ). Regarding the perceptual body image, individuals with 
+AN show larger overestimation of their body sizes and body parts 
+based on visual information (for a review, Gardner and Brown, 2014 ). 
+A recent multi-center study on typical as well as atypical AN and 
+weight bias, assessed with questionnaires and an experimental task 
+with visual body stimuli, reported similar weight biases in individuals 
+with and without (atypical) AN but higher body dissatisfaction (i.e., 
+two aspects of the cognitive-affective body image) and a more 
+pronounced overestimation of the own body (i.e., an aspect of the 
+perceptual body image) in the clinical groups, especially in the 
+individuals with atypical AN ( Behrens et  al., 2021 ). The authors 
+discuss the role of cognitive-affective body image judgments as 
+possibly more impactful compared to distortions in the perceptual 
+body image. However, it appears challenging to disentangle the 
+respective influences of specific distortions.
+Other studies in AN have focused on other exteroceptive sensory 
+sources, such as tactile information. For example, individuals with AN 
+overestimate the size of certain body parts based on visual as well as 
+tactile sensory information ( Keizer et  al., 2011 ). Similarly to the 
+findings on body schema distortions in AN, these distortions of the 
+perceptual body image even persist after successful weight 
+rehabilitation ( Engel and Keizer, 2017 ). In addition to studies revealing distortions in body image attributed to individual sensory sources, 
+there is also evidence suggesting that multisensory integration is 
+impaired in eating disorders. For example, studies using the rubber 
+hand illusion showed that the influence of proprioceptive signals 
+during the multisensory integration of proprioceptive und visual 
+information is reduced in AN compared to healthy controls ( Eshkevari 
+et al., 2012 ; Zopf et al., 2016 ). Interestingly, the influence of touch is 
+comparable in individuals with and without AN in the rubber hand 
+illusion ( Zopf et al., 2016 ) as well as in full body illusions, in which the 
+synchronous visuo-tactile stimulation is used to induce embodiment 
+of a virtual body ( Keizer et al., 2016 ; Provenzano et al., 2020 ). These 
+studies thus point to a weakened proprioceptive compared to 
+exteroceptive influence in multisensory integration in AN. A study on 
+the influence of auditory-driven signals on body weight perception in 
+individuals with and without AN also revealed a weakened auditory 
+influence in multisensory integration, speaking against an overreliance 
+on exteroceptive information ( Tajadura-Jiménez et al., 2022 ).
+Besides exteroception, interoceptive abilities have been linked to 
+the subjective experience of emotion ( Paulus and Stein, 2006 ) and the 
+cognitive-affective body image in particular (e.g., Duschek et al., 2015 ; 
+Badoud and Tsakiris, 2017 ). Several authors propose a disturbance in 
+the interoceptive system as a central mechanism of pathology in AN 
+(e.g., Pollatos et al., 2008 ; Kerr et al., 2016 ; Jacquemot and Park, 2020 ). 
+For example, patients with AN display significantly decreased 
+interoceptive sensitivity as assessed by a heartrate perception task 
+(Pollatos et  al., 2008 ) which is evident even in recovered patients 
+(Fischer et al., 2016 ). The insular plays a central role in the integration 
+and representation of interoceptive signals ( Craig, 2002 ) and AN 
+symptoms have been associated with abnormal visceral interoceptive 
+activity in the insula ( Kerr et al., 2016 ). While the role of interoception 
+is predominantly explored in AN, deficits in interoception have been 
+observed across other types of eating disorders (BN and BED) and 
+across several interoceptive modalities, such as gastric, pain, and 
+cardiac interoception ( Martin et al., 2019 ). However, the causal role of 
+interoceptive body representations in eating disorders is not exactly 
+clear. For example, in a recent longitudinal study with a non-clinical 
+sample interoceptive accuracy did not predict body image 
+dissatisfaction over a period of 8 weeks ( Drew et al., 2020 ). Therefore, 
+further prospective longitudinal studies with clinical populations as 
+well as experimental psychopathology studies are needed to clarify 
+this important question.
+Similar to research in the field of eating disorders, most BDD 
+studies focused on the cognitive-affective body image derived from 
+visual information. Several studies targeted interactions between 
+disorder specific behaviors involving visual information and effects on 
+the cognitive-affective body image. For example, BDD-like gazing at 
+facial photographs negatively affects attractiveness ratings, with 
+different effects depending on the gazing duration and the type of 
+stimuli, own versus other face ( Möllmann et al., 2019 , 2020b ). Another 
+study revealed a higher degree of negative affect, especially of sadness 
+and anger, after body exposure in individuals with BDD compared to 
+individuals with major depression and mentally healthy individuals 
+(Kollei and Martin, 2014 ). Some studies on the perceptual body image 
+in BDD investigated attentional biases during free viewing paradigms 
+and reported a negative bias towards least liked areas of own and 
+others face ( Grocholewski et al., 2012 ; Toh et al., 2017 ). Different from 
+AN, studies on body size estimations have not yet been published 
+for BDD.
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 11 frontiersin.orgFor MD, the research focus is similar. Individuals with MD show a 
+negatively biased cognitive-affective body image. Regarding aspects of 
+the visual perceptual body image, they show a positive bias towards 
+hyper-muscular bodies of others versus a negative bias towards one’s 
+own body, as assessed with eye-tracking and a mirror setup ( Waldorf 
+et al., 2019b ) or an own body avatar presented in virtual-reality ( Porras-
+Garcia et al., 2020 ). Other aspects of the perceptual body image, most 
+typically body size estimations, have not yet been investigated in 
+MD. For example, a recent systematic review on body image, muscle 
+dysmorphia and eating disorders reported only two studies including a 
+clinical group of individuals with MD across all body image facets, and 
+these studies did not assess perceptual body image ( Prnjak et al., 2022 ). 
+As individuals with MD experience their bodies as too lean (contrary 
+to individuals with AN), investigating body size estimations in this 
+clinical group might be an interesting future path.
+Other exteroceptive sensory sources have neither yet been 
+targeted in BDD nor in MD research, although for example BDD 
+behaviors, such as checking certain body parts, are closely related 
+to other sensory information. Regarding interoception, one study 
+reported a negative association between BDD symptoms and 
+cardiac interoceptive accuracy in a group with low BDD symptoms 
+but they did not find a significant association in the high BDD 
+symptom group ( Kunstman et al., 2016 ). In line with these findings, 
+a recent longitudinal survey-based study revealed a similar 
+association between MD symptoms and interoceptive sensibility, 
+both cross-sectionally and longitudinally ( Grunewald et al., 2023 ). 
+Studies on multisensory integration in tasks assessing the perceptual 
+body image in BDD and MD are rare. One study used the rubber 
+hand illusion. Individuals with BDD and mentally healthy 
+individuals did not show significantly different experiences of 
+illusion strength ( Kaplan et al., 2014 ), different from results on the 
+rubber hand illusion effect in AN, and thus not indicating deficits 
+in multisensory integration. However, the authors reported 
+significant positive correlations between the illusion strength and 
+body dissatisfaction ratings, indicating an interplay between the 
+perceptual and cognitive-affective body image.
+In the amputation variant of BID, several studies point to altered 
+uni- and multisensory processing of the affected and unaffected limb 
+that are probably linked to the perceptual and cognitive-affective 
+body image. For example, there are indications for impaired spatial–
+temporal integration of tactile stimuli ( Aoyama et al., 2012 ) as well 
+as structural and functional changes in parietal areas ( Saetta et al., 
+2020 , 2022 ). The parietal cortex is associated with multisensory 
+integration and the phenomenal components of the bodily self as 
+revealed by direct electrical brain stimulation. Stimulating the 
+superior parietal lobule in particular has been shown to result in 
+illusory distortions of body size and the sensation that a body part is 
+absent ( Dary et al., 2023 ). Besides altered exteroceptive processing, 
+individuals with BID also show altered interoceptive processing. For 
+example, pain and pain anticipation ( Brang et al., 2008 ; Romano 
+et al., 2015 ) as well as disgust responses to violations of the body 
+envelop are differently processed ( Bottini et al., 2015 ). There are also 
+first indications, that interoceptive awareness as assessed via self-
+report, is reduced in BID patients ( Capodici et al., 2023 ). Together, 
+these observations fit well to the observation of BID-related structural 
+alterations in the insula, an area that is known to play an important 
+role in the representation of interoceptive signals ( McGeoch et al., 
+2011 ; Hilti et al., 2013 ).5 Discussion
+We introduced a conceptual framework on body representations 
+with two interconnected models, the structural and the process model 
+and explored if this framework is useful in improving our 
+understanding of body representation distortions in mental disorders. 
+We  aimed to address inconsistencies in terminology and 
+conceptualizations in the literature across different disciplines and 
+shaped the potential transdiagnostic role body representation may 
+contribute to understanding psychopathology.
+We believe this conceptual work to be the only transdiagnostic 
+framework of body representation so far which facilitates to structure 
+and compare findings across research areas. The specific role of body 
+representations for the selected mental disorders (BDD, MD, BID or 
+eating disorders) is not always clear and it would be beneficial for 
+intervention optimization if we  knew certain aspects of body 
+representations were a risk factor (and also causally related to the 
+disorder development) or rather a feature of the disorder. We are 
+motivated by the striking clinical observation that certain mental 
+disorders, which are accompanied by distortions in the way the own 
+body is perceived and represented, are severe and - despite treatments - 
+quite persistent. These observations raise the question whether the 
+severeness and chronicity of such disorders might be connected to the 
+distortions in body representation. Other authors have already raised 
+this question for a specific disorder, namely anorexia nervosa 
+(Glashouwer et  al., 2019 ). With the current review, however, 
+we contribute three new aspects:
+ (1) We proposed a conceptual framework on body representations 
+allowing an interdisciplinary perspective,  as it integrates 
+concepts and terminology from different disciplines. The 
+framework helps to tackle problems identified in previous 
+research on body representations in the context of mental 
+disorders (e.g., heterogeneity in terminology and concepts 
+across and within disciplines; lack of experimental research), it 
+facilitates the integration of previous research and also enables 
+to derive future research directions (see also Section 5.2 
+Future directions).
+ (2) To improve the understanding of body representations in the 
+context of (mental) disorder development and maintenance, it 
+appeared important to also take a developmental 
+psychopathology perspective on body representations  – 
+irrespective of (mental) disorders - i.e. we reviewed research 
+findings on the (normative) development of body 
+representations across the lifespan.
+ (3) We have extended the perspective of focusing on one specific 
+mental disorder to a transdiagnostic perspective on body 
+representations  by comparing certain disorders that share the 
+feature of distorted body representations but can be described as 
+either more proximal or distal to each other regarding the 
+disorder symptoms (eating disorders, body dysmorphic disorder 
+including muscle dysmorphia, and body integrity dysphoria).
+5.1 Synthesis and conclusions
+Key differences in our model (compared to other available 
+models) are that we (a) distinguish the three orthogonal dimensions
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 12 frontiersin.orgof body representations and therefore provide a structuring system of 
+categories, (b) distinguish body schema from body image, as these 
+different functions may also differentially relate to disorders or 
+conditions (e.g., as causal risk factor versus correlate), and (c) 
+emphasize the sensory source more strongly in the first place (via a 
+separate dimension) to then differentiate along the sensory input.
+With the focus on the structural model in the current review, 
+we  may draw several conclusions about the amount of research 
+activity to date. We  identified certain major areas both in basic 
+research and in relation to clinical conditions. Significantly more 
+studies have addressed the body image than the body schema. And 
+significantly more studies have focused on (certain) exteroceptive 
+than interoceptive information. We believe that this is due to not only 
+the possibly higher perceived relevance, but also with the higher 
+complexity associated with investigating the other aspects, especially 
+for research in children. The studies that we have reviewed actually 
+indicate that this research may be expanded. For example regarding 
+the different functions of body representation, we found evidence for 
+developmental effects, indicating certain sensitive phases potentially 
+associated with an increased risk for developing distorted body 
+representations and thus maybe even for the development of mental 
+disorders. For body schema, for example, (at least) two phases 
+appeared relevant: unusual body-related experiences at a very young 
+age, such as care routines after pre-term birth, can affect body schema 
+development. Further, the growth spurt during puberty demands 
+major adaptations in existing body representations due to the fast 
+changes in body morphology. These findings indicate that it might 
+be worthwhile to investigate the body schema more intensively. Due 
+to the absence of longitudinal studies, we might so far only hypothesize 
+that the early single effects of unusual body-related experiences during 
+infancy could initiate developmental cascades. The accumulating 
+effects may unfold only during puberty, as another sensitive phase, 
+and only lead to permanent changes in the developmental result at this 
+point. For adult AN and weight-restored AN as well as for BID, body 
+schema distortions have been shown. Especially the findings on the 
+persistence of these distortions even after treatment (also present for 
+the perceptual body image) in AN suggest that these aspects may not 
+yet be  sufficiently targeted in the respective treatments, while 
+potentially playing a role for relapse.
+A similar imbalance in research activity was observed with regard 
+to sensory sources. There are significantly more studies on 
+exteroceptive sources (esp. visual) compared to interoception and 
+proprioception. At the same time, the findings on interoception for 
+distorted body representations and the clinical conditions indicate 
+that the relevance of this source might currently be  still 
+underestimated. For example, although interoceptive accuracy was 
+found to be  associated to disordered eating in young people and 
+reduced in (adult) AN, there are no or only single studies on the 
+relevance of interoceptive information for BDD and MD in the 
+transdiagnostic comparison. Furthermore, there are no experimental 
+studies on body size estimations in BDD and MD, despite the known 
+abnormalities in the AN.
+5.2 Future research directions
+To improve the understanding of the transdiagnostic role of body 
+representations in the context of body-related (mental) disorders and to identify relevant new research questions, it seems reasonable to first 
+depict the current state of research with systematic reviews and meta-
+analyzes. The structural model might be helpful in stimulating this 
+kind of knowledge accumulation, as it allows both, a theory-driven 
+and empirically driven approach to identify relevant and/or under-
+researched aspects of body representations (i.e., cells in the three-
+dimensional model) for any disorders or conditions. Similarly, it can 
+be used to identify which aspects of body representations are already 
+targeted in existing treatments. Based on our initial overview in the 
+current article, several possible research gaps emerged, which may 
+be  substantiated in a-priori  designed studies (e.g., the role of 
+interoception across several disorders).
+The second part of our conceptual framework  - the dynamic 
+process model - suggests different pathways of information processing 
+and allows testing these pathways more closely in the formation, 
+maintenance, or modification of distorted body representations. This 
+might be especially useful from the developmental psychopathology 
+perspective, if one aims to systematically investigate the “risk-factor 
+status” (p. 341; Kraemer et al., 1997 ) of a body representation. For 
+example, the formation  of distorted body representations might 
+be mainly driven by distorted (or absent) sensory input underlying 
+dynamic short-term body representations (i.e., representations about 
+how the own body currently is). If these unregular experiences take 
+place during potential sensitive developmental phases, they may have 
+the potential to initiate cascade effects spilling over to and stabilizing 
+in long-term body representations (i.e., representations about how the 
+own body usually is; see pathway 1 in the process model depicted in 
+part b of Figure 1 ). This is because according to the process model, 
+long-term representations themselves are constructed by accumulating 
+short-term information about the own body. As mentioned above, 
+atypical sensory stimulation due to premature birth ( Butti et al., 2020 ) 
+or the lack of visual input during the first months of life ( Röder et al., 
+2004 ) might have profound effects in the development of the body 
+schema and perceptual body image, respectively. In contrast, the 
+maintenance  of distorted body representations might be mainly driven 
+by two additional pathways depicted in the process model. The first 
+pathway is independent from the actual output and relies on the 
+interplay between short-term and long-term representations (see 
+pathway 2 in the process model). Once established, distortions can 
+be imported from long-term memory and thus affect the way the body 
+is dynamically represented as information from long-term memory is 
+typically combined with the actual sensory input in working memory 
+(e.g., for AN, Gadsby, 2017 ). As a consequence, precisely those now 
+distorted short-term representations are used to further stabilize the 
+distorted long-term representations. Another pathway possibly 
+involved in the maintenance of distorted body representations is more 
+dependent on the actual output (see pathway 3 in the process model). 
+If distortions in body representations result in changes in body-related 
+behaviors, as for example pretending behavior in BID or camouflaging 
+in BDD, these outputs in themselves create newly distorted input that 
+may further stabilize the distorted representations. The process model 
+thus provides first testable hypotheses about how (distorted) body 
+representations develop and how they are maintained. To clarify 
+causality, future experimental psychopathology research is needed. 
+Such research might for example test, whether experimentally 
+manipulating sensory input and/or behavioral output has an impact 
+on psychopathology. Finally, the process model can also be used for 
+developing ideas regarding the modification  of distorted body
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 13 frontiersin.orgrepresentations. This is especially relevant if one wants to proceed 
+investigating a specific body representation, which has ideally already 
+been identified as a risk factor. Consequently, the questions arise as to 
+whether (1) this specific body representation can be modified at all 
+and (2) the modifications lead to relevant changes in the disorder 
+pathology ( Kraemer et al., 1997 ). If so, these findings can directly 
+inform translational research regarding prevention and 
+treatment approaches.
+Author contributions
+AM: conception, writing–original draft, and writing–review and 
+editing. NH: conception, writing–original draft, writing–review and 
+editing, resources, and supervision. AH: conception, writing–original 
+draft, writing–review and editing, and supervision. All authors 
+contributed to the article and approved the submitted version.
+Funding
+This work was funded by the Deutsche Forschungsgemeinschaft  
+(DFG, German Research Foundation) – MO4224/1–1, Project 
+463,145,403.Acknowledgments
+We acknowledge the financial support of the German Research 
+Foundation (DFG) and the Open Access Publication Fund of Bielefeld 
+University for the article processing charge. The content of this article 
+has appeared in a previous version online as a preprint ( Möllmann 
+et al., 2023 ).
+Conflict of interest
+The authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their affiliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed or 
+endorsed by the publisher.
+References
+Albertini, R. S., and Phillips, K. A. (1999). Thirty-three cases of body dysmorphic 
+disorder in children and adolescents. J. Am. Acad. Child Adolesc. Psychiatry  38, 453–459. 
+doi: 10.1097/00004583-199904000-00019
+American Psychiatric Association. (2022) Diagnostic and statistical manual of mental 
+disorders . Virginia, United States: American Psychiatric Association.
+Aoyama, A., Krummenacher, P ., Palla, A., Hilti, L. M., and Brugger, P . (2012). Impaired 
+spatial-temporal integration of touch in xenomelia (body integrity identity disorder). 
+Spat. Cogn. Comput.  12, 96–110. doi: 10.1080/13875868.2011.603773
+Assaiante, C., Barlaam, F., Cignetti, F., and Vaugoyeau, M. (2014). Body schema 
+building during childhood and adolescence: A neurosensory approach. Neurophysiol. 
+Clin.  44, 3–12. doi: 10.1016/j.neucli.2013.10.125
+Azañón, E., Tamè, L., Maravita, A., Linkenauger, S. A., Ferrè, E. R., 
+Tajadura-Jiménez, A., et al. (2016). Multimodal contributions to body representation. 
+Multisens. Res.  29, 635–661. doi: 10.1163/22134808-00002531
+Badde, S., Röder, B., and Heed, T. (2019). Feeling a touch to the hand on the foot. Curr. 
+Biol.  29, 1491–1497.e4. doi: 10.1016/j.cub.2019.02.060
+Badoud, D., and Tsakiris, M. (2017). From the body’s viscera to the body’s image: is 
+there a link between interoception and body image concerns? Neurosci. Biobehav. Rev.  
+77, 237–246. doi: 10.1016/j.neubiorev.2017.03.017
+Bahrick, L. E., and Watson, J. S. (1985). Detection of intermodal proprioceptive–visual 
+contingency as a potential basis of self-perception in infancy. Dev. Psychol.  21, 963–973. 
+doi: 10.1037/0012-1649.21.6.963
+Beckmann, N., Baumann, P ., Herpertz, S., Trojan, J., and Diers, M. (2021). How the 
+unconscious mind controls body movements: body schema distortion in anorexia 
+nervosa. Int. J. Eat. Disord.  54, 578–586. doi: 10.1002/eat.23451
+Begum Ali, J., Spence, C., and Bremner, A. J. (2015). Human infants’ ability to perceive 
+touch in external space develops postnatally. Curr. Biol.  25, R978–R979. doi: 10.1016/j.
+cub.2015.08.055
+Behrens, S. C., Meneguzzo, P ., Favaro, A., Teufel, M., Skoda, E.-M., Lindner, M., et al. 
+(2021). Weight bias and linguistic body representation in anorexia nervosa: findings 
+from the BodyTalk project. Eur. Eat. Disord. Rev.  29, 204–215. doi: 10.1002/erv.2812
+Berlucchi, G., and Aglioti, S. (1997). The body in the brain: neural bases of corporeal 
+awareness. Trends Neurosci.  20, 560–564. doi: 10.1016/S0166-2236(97)01136-3
+Berlucchi, G., and Aglioti, S. M. (2010). The body in the brain revisited. Exp. Brain 
+Res. 200, 25–35. doi: 10.1007/s00221-009-1970-7
+Blom, R. M., Hennekam, R. C., and Denys, D. (2012). Body integrity identity disorder. 
+PLoS One  7:e34702. doi: 10.1371/journal.pone.0034702
+Bottini, G., Brugger, P ., and Sedda, A. (2015). Is the desire for amputation related to 
+disturbed emotion processing? A multiple case study analysis in BIID. Neurocase  21, 
+394–402. doi: 10.1080/13554794.2014.902969Botvinick, M., and Cohen, J. (1998). Rubber hands ‘feel’ touch that eyes see. Nature  
+391:756. doi: 10.1038/35784
+Brang, D., McGeoch, P . D., and Ramachandran, V . S. (2008). Apotemnophilia: A 
+neurological disorder. Neuroreport  19, 1305–1306. doi: 10.1097/WNR.0b013e32830abc4d
+Bremner, A. J. (2017). The origins of body representations in early life. In VignemontF. 
+de and A. J. T. Alsmith The subject’s matter: Self-consciousness and the body . Cambridge, 
+MA: The MIT Press, pp. 3–31.
+Bremner, A. J. (2022). “Developmental origins of bodily awareness” in The Routledge 
+handbook of bodily awareness . eds. A. J. T. Alsmith and M. R. Longo (Abingdon: 
+Routledge), 279–297.
+Brianza, G., Tajadura-Jiménez, A., Maggioni, E., Pittera, D., Bianchi-Berthouze, N., 
+and Obrist, M. (2019). “ As light as your scent: effects of smell and sound on body image 
+perception” in Human-computer interaction – INTERACT 2019 . eds. D. Lamas, F. 
+Loizides, L. Nacke, H. Petrie, M. Winckler and P . Zaphiris (Berlin: Springer International 
+Publishing), 179–202.
+Brownell, C. A., Nichols, S. R., Svetlova, M., Zerwas, S., and Ramani, G. (2010). The 
+head bone’s connected to the neck bone: when do toddlers represent their own body 
+topography? Child Dev.  81, 797–810. doi: 10.1111/j.1467-8624.2010.01434.x
+Brownell, C. A., Svetlova, M., and Nichols, S. R. (2012). “Emergence and early 
+development of the body image” in Early development of body representations . eds. C. A. 
+Brownell and V . Slaughter (Cambridge, UK: Cambridge University Press), 37–58.
+Brownell, C. A., Zerwas, S., and Ramani, G. B. (2007). “So big”: the development of 
+body self-awareness in toddlers. Child Dev.  78, 1426–1440. doi: 10.1111/j.14  
+67-8624.2007.01075.x
+Brugger, P ., Christen, M., Jellestad, L., and Hänggi, J. (2016). Limb amputation and 
+other disability desires as a medical condition. Lancet Psychiatry  3, 1176–1186. doi: 
+10.1016/S2215-0366(16)30265-6
+Burin, D., Garbarini, F., Bruno, V ., Fossataro, C., Destefanis, C., Berti, A., et al. (2017). 
+Movements and body ownership: evidence from the rubber hand illusion after 
+mechanical limb immobilization. Neuropsychologia  107, 41–47. doi: 10.1016/j.
+neuropsychologia.2017.11.004
+Butti, N., Montirosso, R., Giusti, L., Borgatti, R., and Urgesi, C. (2020). Premature 
+birth affects visual body representation and body schema in preterm children. Brain 
+Cogn.  145:105612. doi: 10.1016/j.bandc.2020.105612
+Capodici, A., Pennisi, A., Rizzo, G., Falzone, A., and Vicario, C. M. (2023). 
+Interoceptive and affective alterations in body integrity dysphoria: an online self-
+reporting study. Psychopathology  1–9, 1–9. doi: 10.1159/000532076
+Carruthers, G. (2008). Types of body representation and the sense of embodiment. 
+Conscious. Cogn.  17, 1302–1316. doi: 10.1016/j.concog.2008.02.001
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 14 frontiersin.orgCase, L. K., Wilson, R. C., and Ramachandran, V . S. (2012). Diminished size–weight 
+illusion in anorexia nervosa: evidence for visuo-proprioceptive integration deficit. Exp. 
+Brain Res.  217, 79–87. doi: 10.1007/s00221-011-2974-7
+Cash, T. F., and Smolak, L. (2011). Body image: A handbook of science, practice, and 
+prevention . 2nd Edn . New Y ork: Guilford Press.
+Ceunen, E., Vlaeyen, J. W . S., and Van Diest, I. (2016). On the origin of Interoception. 
+Front. Psychol.  7:743. doi: 10.3389/fpsyg.2016.00743
+Chakraborty, S., Saetta, G., Simon, C., Lenggenhager, B., and Ruddy, K. (2021). Could 
+brain–computer Interface be a new therapeutic approach for body integrity dysphoria? 
+Front. Hum. Neurosci.  15:830. doi: 10.3389/fnhum.2021.699830
+Cowie, D., Makin, T. R., and Bremner, A. J. (2013). Children’s responses to the rubber-
+hand illusion reveal dissociable pathways in body representation. Psychol. Sci.  24, 
+762–769. doi: 10.1177/0956797612462902
+Cowie, D., Sterling, S., and Bremner, A. J. (2016). The development of multisensory 
+body representation and awareness continues to 10 years of age: evidence from the 
+rubber hand illusion. J. Exp. Child Psychol.  142, 230–238. doi: 10.1016/j.jecp.2015.10.003
+Craig, A. D. (2002). How do you feel? Interoception: the sense of the physiological 
+condition of the body. Nat. Rev. Neurosci.  3, Article 8., 655–666. doi: 10.1038/nrn894
+Cunningham, M. L., Griffiths, S., Mitchison, D., Mond, J. M., Castle, D., and 
+Murray, S. B. (2017). Muscle dysmorphia: an overview of clinical features and treatment 
+options. J. Cogn. Psychother.  31, 255–271. doi: 10.1891/0889-8391.31.4.255
+Damiano, S. R., Gregg, K. J., Spiel, E. C., McLean, S. A., Wertheim, E. H., and 
+Paxton, S. J. (2015a). Relationships between body size attitudes and body image of 
+4-year-old boys and girls, and attitudes of their fathers and mothers. Journal of. Eat. 
+Disord.  3:16. doi: 10.1186/s40337-015-0048-0
+Damiano, S. R., Paxton, S. J., Wertheim, E. H., McLean, S. A., and Gregg, K. J. (2015b). 
+Dietary restraint of 5-year-old girls: associations with internalization of the thin ideal 
+and maternal, media, and peer influences. Int. J. Eat. Disord.  48, 1166–1169. doi: 
+10.1002/eat.22432
+Dary, Z., Lenggenhager, B., Lagarde, S., Medina Villalon, S., Bartolomei, F., and 
+Lopez, C. (2023). Neural bases of the bodily self as revealed by electrical brain 
+stimulation: A systematic review. Hum. Brain Mapp.  44, 2936–2959. doi: 10.1002/
+hbm.26253
+De Haan, E. H. F., and Dijkerman, H. C. (2020). Somatosensation in the brain: A 
+theoretical re-evaluation and a new model. Trends Cogn. Sci.  24, 529–541. doi: 10.1016/j.
+tics.2020.04.003
+de Haan, A. M., Smit, M., Van der Stigchel, S., Keyner, S. A., and Dijkerman, H. C. 
+(2018). Body representation does not lag behind in updating for the pubertal growth 
+spurt. J. Exp. Child Psychol.  175, 48–66. doi: 10.1016/j.jecp.2018.05.002
+De Kieviet, J. F., Piek, J. P ., Aarnoudse-Moens, C. S., and Oosterlaan, J. (2009). Motor 
+development in very preterm and very low-birth-weight children from birth to 
+adolescence: A meta-analysis. JAMA  302, 2235–2242. doi: 10.1001/jama.2009.1708
+De Vignemont, F. (2010). Body schema and body image–pros and cons. 
+Neuropsychologia  48, 669–680. doi: 10.1016/j.neuropsychologia.2009.09.022
+Debarnot, U., Huber, C., Guillot, A., and Schwartz, S. (2018). Sensorimotor 
+representation and functional motor changes following short-term arm immobilization. 
+Behav. Neurosci.  132, 595–603. doi: 10.1037/bne0000274
+Di Rosa, G., Cavallaro, T., Alibrandi, A., Marseglia, L., Lamberti, M., Giaimo, E., et al. 
+(2016). Predictive role of early milestones-related psychomotor profiles and long-term 
+neurodevelopmental pitfalls in preterm infants. Early Hum. Dev.  101, 49–55. doi: 
+10.1016/j.earlhumdev.2016.04.012
+Dohnt, H., and Tiggemann, M. (2006). The contribution of peer and media influences 
+to the development of body satisfaction and self-esteem in young girls: A prospective 
+study. Dev. Psychol.  42, 929–936. doi: 10.1037/0012-1649.42.5.929
+Drew, R. E., Ferentzi, E., Tihanyi, B. T., and Köteles, F. (2020). There are no short-term 
+longitudinal associations among interoceptive accuracy, external body orientation, and 
+body image dissatisfaction. Clin. Psychol. Europe  2:e2701. doi: 10.32872/cpe.v2i2.2701
+Durso, L. E., and Latner, J. D. (2008). Understanding self-directed stigma: development 
+of the weight Bias internalization scale. Obesity  16 Suppl 2, S80–S86. doi: 10.1038/
+oby.2008.448
+Duschek, S., Werner, N. S., Reyes del Paso, G. A., and Schandry, R. (2015). The 
+contributions of interoceptive awareness to cognitive and affective facets of body 
+experience. J. Individ. Differ.  36, 110–118. doi: 10.1027/1614-0001/a000165
+Emanuelsen, L., Drew, R., and Köteles, F. (2015). Interoceptive sensitivity, body image 
+dissatisfaction, and body awareness in healthy individuals. Scand. J. Psychol.  56, 167–174. 
+doi: 10.1111/sjop.12183
+Enander, J., Andersson, E., Mataix-Cols, D., Lichtenstein, L., Alström, K., 
+Andersson, G., et al. (2016). Therapist guided internet based cognitive behavioural 
+therapy for body dysmorphic disorder: single blind randomised controlled trial. BMJ  
+352:i241. doi: 10.1136/bmj.i241
+Engel, M. M., and Keizer, A. (2017). Body representation disturbances in visual 
+perception and affordance perception persist in eating disorder patients after completing 
+treatment. Sci. Rep.  7:16184. doi: 10.1038/s41598-017-16362-w
+Ernst, M. O., and Banks, M. S. (2002). Humans integrate visual and haptic information 
+in a statistically optimal fashion. Nature  415, 429–433. doi: 10.1038/415429aErnst, M. O., and Bülthoff, H. H. (2004). Merging the senses into a robust percept. 
+Trends Cogn. Sci.  8, 162–169. doi: 10.1016/j.tics.2004.02.002
+Eshkevari, E., Rieger, E., Longo, M. R., Haggard, P ., and Treasure, J. (2012). Increased 
+plasticity of the bodily self in eating disorders. Psychol. Med.  42, 819–828. doi: 10.1017/
+S0033291711002091
+Fernández de la Cruz, L., Enander, J., Rück, C., Wilhelm, S., Phillips, K. A., Steketee, G., 
+et al. (2021). Empirically defining treatment response and remission in body dysmorphic 
+disorder. Psychol. Med.  51, 83–89. doi: 10.1017/S0033291719003003
+Feusner, J. D., Moody, T., Hembacher, E., Townsend, J., McKinley, M., Moller, H., et al. 
+(2010). Abnormalities of visual processing and frontostriatal systems in body dysmorphic 
+disorder. Arch. Gen. Psychiatry  67, 197–205. doi: 10.1001/archgenpsychiatry.2009.190
+Feusner, J. D., Townsend, J., Bystritsky, A., and Bookheimer, S. (2007). Visual 
+information processing of faces in body dysmorphic disorder. Arch. Gen. Psychiatry  64, 
+1417–1425. doi: 10.1001/archpsyc.64.12.1417
+First, M. B. (2005). Desire for amputation of a limb: paraphilia, psychosis, or a new 
+type of identity disorder. Psychol. Med.  35, 919–928. doi: 10.1017/S0033291704003320
+First, M. B., and Fisher, C. E. (2011). Body integrity identity disorder: the persistent 
+desire to acquire a physical disability. Psychopathology  45, 3–14. doi: 10.1159/000330503
+Fischer, D., Berberich, G., Zaudig, M., Krauseneck, T., Weiss, S., and Pollatos, O. 
+(2016). Interoceptive processes in anorexia nervosa in the time course of cognitive-
+behavioral therapy: A pilot study. Front. Psych.  7:199. doi: 10.3389/fpsyt.2016.00199
+Gadsby, S. (2017). Distorted body representations in anorexia nervosa. Conscious. 
+Cogn.  51, 17–33. doi: 10.1016/j.concog.2017.02.015
+Gadsby, S. (2021). Visual self-misperception in eating disorders. Perception  50, 
+933–949. doi: 10.1177/03010066211056808
+Gallagher, S. (1986). Body image and body schema: A conceptual clarification. J. Mind 
+Behav.  7, 541–554.
+Gallagher, S. (2005). How the body shapes the mind . Oxford: Oxford University Press.
+Gandevia, S. C., and Phegan, C. M. L. (1999). Perceptual distortions of the human 
+body image produced by local anaesthesia, pain and cutaneous stimulation. J. Physiol.  
+514, 609–616. doi: 10.1111/j.1469-7793.1999.609ae.x
+Gandola, M., Zapparoli, L., Saetta, G., Reverberi, C., Salvato, G., Squarza, S. A. C., et al. 
+(2021). Brain abnormalities in individuals with a desire for a healthy limb amputation: 
+Somatosensory, motoric or both? A task-based fMRI verdict. Brain Sci.  11:Article 9. doi: 
+10.3390/brainsci11091248
+Gardner, R. M., and Brown, D. L. (2014). Body size estimation in anorexia nervosa: A 
+brief review of findings from 2003 through 2013. Psychiatry Res.  219, 407–410. doi: 
+10.1016/j.psychres.2014.06.029
+Giummarra, M. J., Bradshaw, J. L., Hilti, L. M., Nicholls, M. E. R., and Brugger, P . 
+(2012). Paralyzed by desire: A new type of body integrity identity disorder. Cogn. Behav. 
+Neurol.  25, 34–41. doi: 10.1097/WNN.0b013e318249865a
+Giummarra, M. J., Bradshaw, J. L., Nicholls, M. E. R., Hilti, L. M., and Brugger, P . 
+(2011). Body integrity identity disorder: deranged body processing, right Fronto-parietal 
+dysfunction, and phenomenological experience of body incongruity. Neuropsychol. Rev.  
+21, 320–333. doi: 10.1007/s11065-011-9184-8
+Glashouwer, K. A., Van der Veer, R. M. L., Adipatria, F., De Jong, P . J., and Vocks, S. (2019). 
+The role of body image disturbance in the onset, maintenance, and relapse of anorexia 
+nervosa: A systematic review. Clin. Psychol. Rev.  74:101771. doi: 10.1016/j.cpr.2019.101771
+Greenfield, K., Ropar, D., Themelis, K., Ratcliffe, N., and Newport, R. (2017). 
+Developmental changes in sensitivity to spatial and temporal properties of sensory 
+integration underlying body representation. Multisens. Res.  30, 467–484. doi: 
+10.1163/22134808-00002591
+Grilo, C. M., Crosby, R. D., and Machado, P . P . P . (2019). Examining the distinctiveness 
+of body image concerns in patients with anorexia nervosa and bulimia nervosa. Int. J. 
+Eat. Disord.  52, 1229–1236. doi: 10.1002/eat.23161
+Grocholewski, A., Kliem, S., and Heinrichs, N. (2012). Selective attention to imagined 
+facial ugliness is specific to body dysmorphic disorder. Body Image  9, 261–269. doi: 
+10.1016/j.bodyim.2012.01.002
+Grunewald, W ., Fogelberg, S., Ferguson, W ., Hines, S., Fortenberry, B., and Smith, A. R. 
+(2023). Longitudinal relationships between specific domains of interoception and 
+muscle dysmorphia symptoms. Eat. Behav.  48:101686. doi: 10.1016/j.eatbeh.2022.101686
+Guardia, D., Conversy, L., Jardri, R., Lafargue, G., Thomas, P ., Dodin, V ., et al. (2012). 
+Imagining One’s own and someone Else’s body actions: dissociation in anorexia nervosa. 
+PLoS One  7:e43241. doi: 10.1371/journal.pone.0043241
+Hartmann, A. S., Greenberg, J. L., and Wilhelm, S. (2013). The relationship between 
+anorexia nervosa and body dysmorphic disorder. Clin. Psychol. Rev.  33, 675–685. doi: 
+10.1016/j.cpr.2013.04.002
+Herpertz, S., Fichter, M., Herpertz-Dahlmann, B., Hilbert, A., Tuschen-Caffier, B., 
+Vocks, S., et al. (2019). S3-Leitlinie Diagnostik und Behandlung der Essstörungen . Berlin: 
+Springer.
+Herwig, A. (2015). Linking perception and action by structure or process? Toward an 
+integrative perspective. Neurosci. Biobehav. Rev.  52, 105–116. doi: 10.1016/j.
+neubiorev.2015.02.013
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 15 frontiersin.orgHerwig, A., Prinz, W ., and Waszak, F. (2007). Two modes of sensorimotor integration 
+in intention-based and stimulus-based actions. Q. J. Exp. Psychol.  60, 1540–1554. doi: 
+10.1080/17470210601119134
+Hilti, L. M., Hänggi, J., Vitacco, D. A., Kraemer, B., Palla, A., Luechinger, R., et al. 
+(2013). The desire for healthy limb amputation: structural brain correlates and clinical 
+features of xenomelia. Brain  136, 318–329. doi: 10.1093/brain/aws316
+Holmes, N. P ., and Spence, C. (2004). The body schema and multisensory 
+representation(s) of peripersonal space. Cogn. Process.  5, 94–105. doi: 10.1007/
+s10339-004-0013-3
+Huang, R.-S., Chen, C., Tran, A. T., Holstein, K. L., and Sereno, M. I. (2012). Mapping 
+multisensory parietal face and body areas in humans. Proc. Natl. Acad. Sci.  109, 
+18114–18119. doi: 10.1073/pnas.1207946109
+Huber, R., Ghilardi, M. F., Massimini, M., Ferrarelli, F., Riedner, B. A., Peterson, M. J., 
+et al. (2006). Arm immobilization causes cortical plastic changes and locally decreases 
+sleep slow wave activity. Nat. Neurosci.  9, 1169–1176. doi: 10.1038/nn1758
+Immanuel, S. A., Pamula, Y ., Kohler, M., Martin, J., Kennedy, D., Nalivaiko, E., et al. 
+(2014). Heartbeat evoked potentials during sleep and daytime behavior in children with 
+sleep-disordered breathing. Am. J. Respir. Crit. Care Med.  190, 1149–1157. doi: 10.1164/
+rccm.201405-0920OC
+Jacquemot, A. M. M., and Park, R. (2020). The role of Interoception in the 
+pathogenesis and treatment of anorexia nervosa: A narrative review. Front. Psych.  11:281. 
+doi: 10.3389/fpsyt.2020.00281
+Kaplan, R. A., Enticott, P . G., Hohwy, J., Castle, D. J., and Rossell, S. L. (2014). Is body 
+dysmorphic disorder associated with abnormal bodily self-awareness? A study using the 
+rubber hand illusion. PLoS One  9:e99981. doi: 10.1371/journal.pone.0099981
+Kasten, E. (2009). Body Integrity Identity Disorder (BIID): Befragung von Betroffenen 
+und Erklärungsansätze. Fortschr. Neurol.  77, 16–24. doi: 10.1055/s-0028-1100837
+Keizer, A., and Engel, M. (2022). “Body representation in anorexia nervosa” in The 
+Routledge handbook of bodily awareness . eds. A. J. T. Alsmith and M. R. Longo 
+(Abingdon: Routledge)
+Keizer, A., Engel, M. M., Bonekamp, J., and Van Elburg, A. (2019). Hoop training: A pilot 
+study assessing the effectiveness of a multisensory approach to treatment of body image 
+disturbance in anorexia nervosa. Eat. Weight.  24, 953–958. doi: 10.1007/s40519-018-0585-z
+Keizer, A., Smeets, M. A. M., Dijkerman, H. C., Uzunbajakau, S. A., Van Elburg, A., 
+and Postma, A. (2013). Too fat to fit through the door: First evidence for disturbed 
+body-scaled action in anorexia nervosa during locomotion. PLoS One  8:e64602. doi: 
+10.1371/journal.pone.0064602
+Keizer, A., Smeets, M. A. M., Dijkerman, H. C., Van den Hout, M., Klugkist, I., Van 
+Elburg, A., et al. (2011). Tactile body image disturbance in anorexia nervosa. Psychiatry 
+Res. 190, 115–120. doi: 10.1016/j.psychres.2011.04.031
+Keizer, A., Elburg, A.Van, Helms, R., and Dijkerman, H. C. (2016). A virtual reality 
+full body illusion improves body image disturbance in anorexia nervosa. PLoS One , 
+11:e0163921. doi: 10.1371/journal.pone.0163921
+Kerr, K. L., Moseman, S. E., Avery, J. A., Bodurka, J., Zucker, N. L., and Simmons, W . K. 
+(2016). Altered insula activity during visceral Interoception in weight-restored patients 
+with anorexia nervosa. Neuropsychopharmacology  41, 521–528. doi: 10.1038/
+npp.2015.174
+Khalsa, S. S., Adolphs, R., Cameron, O. G., Critchley, H. D., Davenport, P . W ., 
+Feinstein, J. S., et al. (2018). Interoception and mental health: A roadmap. Biol. Psychiatry  
+3, 501–513. doi: 10.1016/j.bpsc.2017.12.004
+Kirsch, W ., and Kunde, W . (2023). On the role of Interoception in body and object 
+perception: A multisensory-integration account. Perspect. Psychol. Sci.  18, 321–339. doi: 
+10.1177/17456916221096138
+Koch, A., and Pollatos, O. (2014). Interoceptive sensitivity, body weight and eating 
+behavior in children: A prospective study. Front. Psychol.  5:1003. doi: 10.3389/
+fpsyg.2014.01003
+Kollei, I., and Martin, A. (2014). Body-related cognitions, affect and post-event 
+processing in body dysmorphic disorder. J. Behav. Ther. Exp. Psychiatry  45, 144–151. doi: 
+10.1016/j.jbtep.2013.09.005
+Kraemer, H. C., Kazdin, A. E., Offord, D. R., Kessler, R. C., Jensen, P . S., and 
+Kupfer, D. J. (1997). Coming to terms with the terms of risk. Arch. Gen. Psychiatry  54, 
+337–343. doi: 10.1001/archpsyc.1997.01830160065009
+Krebs, G., Fernández de la Cruz, L., Monzani, B., Bowyer, L., Anson, M., Cadman, J., 
+et al. (2017). Long-term outcomes of cognitive-behavioral therapy for adolescent body 
+dysmorphic disorder. Behav. Ther.  48, 462–473. doi: 10.1016/j.beth.2017.01.001
+Kunstman, J. W ., Clerkin, E. M., Palmer, K., Peters, M. T., Dodd, D. R., and Smith, A. R. 
+(2016). The power within: the experimental manipulation of power interacts with trait 
+BDD symptoms to predict interoceptive accuracy. J. Behav. Ther. Exp. Psychiatry  50, 
+178–186. doi: 10.1016/j.jbtep.2015.08.003
+Langer, N., Hänggi, J., Müller, N. A., Simmen, H. P ., and Jäncke, L. (2012). Effects of 
+limb immobilization on brain plasticity. Neurology  78, 182–188. doi: 10.1212/
+WNL.0b013e31823fcd9c
+Latner, J. D., Durso, L. E., and Mond, J. M. (2013). Health and health-related quality 
+of life among treatment-seeking overweight and obese adults: associations with 
+internalized weight bias. Journal of. Eat. Disord.  1:3. doi: 10.1186/2050-2974-1-3Lenggenhager, B., Hilti, L., Palla, A., Macauda, G., and Brugger, P . (2014). Vestibular 
+stimulation does not diminish the desire for amputation. Cortex  54, 210–212. doi: 
+10.1016/j.cortex.2014.02.004
+Lesur, M. R., Stussi, Y ., Bertrand, P ., Delplanque, S., and Lenggenhager, B. (2023). 
+Different armpits under my new nose: olfactory sex but not gender affects implicit 
+measures of embodiment. Biol. Psychol.  176:108477. doi: 10.1016/j.
+biopsycho.2022.108477
+Linkenauger, S. A., Wong, H. Y ., Geuss, M., Stefanucci, J. K., McCulloch, K. C., 
+Bülthoff, H. H., et al. (2015). The perceptual homunculus: the perception of the relative 
+proportions of the human body. J. Exp. Psychol. Gen.  144, 103–113. doi: 10.1037/
+xge0000028
+Longo, M. R. (2016). “Types of body representation” in Foundations of embodied 
+cognition: Perceptual and emotional embodiment . eds. Y . Coello and M. H. Fischer 
+(Abingdon: Routledge/Taylor & Francis Group), 117–134.
+Longo, M. R. (2022). Distortion of mental body representations. Trends Cogn. Sci.  26, 
+241–254. doi: 10.1016/j.tics.2021.11.005
+Lydecker, J. A., Simpson, L., Smith, S. R., White, M. A., and Grilo, C. M. (2022). 
+Preoccupation in bulimia nervosa, binge-eating disorder, anorexia nervosa, and higher 
+weight. Int. J. Eat. Disord.  55, 76–84. doi: 10.1002/eat.23630
+Marshall, A. C., Gentsch, A., and Schütz-Bosbach, S. (2018). The interaction between 
+interoceptive and action states within a framework of predictive coding. Front. Psychol.  
+9:180. doi: 10.3389/fpsyg.2018.00180
+Martel, M., Cardinali, L., Bertonati, G., Jouffrais, C., Finos, L., Farnè, A., et al. (2019). 
+Somatosensory-guided tool use modifies arm representation for action. Sci. Rep.  9:5517. 
+doi: 10.1038/s41598-019-41928-1
+Martel, M., Finos, L., Koun, E., Farnè, A., and Roy, A. C. (2021). The long 
+developmental trajectory of body representation plasticity following tool use. Sci. Rep.  
+11:559. doi: 10.1038/s41598-020-79476-8
+Martin, E., Dourish, C. T., Rotshtein, P ., Spetter, M. S., and Higgs, S. (2019). 
+Interoception and disordered eating: A systematic review. Neurosci. Biobehav. Rev.  107, 
+166–191. doi: 10.1016/j.neubiorev.2019.08.020
+Masten, A. S., and Cicchetti, D. (2010). Developmental cascades. Dev. Psychopathol.  
+22, 491–495. doi: 10.1017/S0954579410000222
+Mata, F., Verdejo-Roman, J., Soriano-Mas, C., and Verdejo-Garcia, A. (2015). Insula 
+tuning towards external eating versus interoceptive input in adolescents with overweight 
+and obesity. Appetite  93, 24–30. doi: 10.1016/j.appet.2015.03.024
+Mataix-Cols, D., Fernández de la Cruz, L., Isomura, K., Anson, M., Turner, C., 
+Monzani, B., et al. (2015). A pilot randomized controlled trial of cognitive-behavioral 
+therapy for adolescents with body dysmorphic disorder. J. Am. Acad. Child Adolesc. 
+Psychiatry  54, 895–904. doi: 10.1016/j.jaac.2015.08.011
+McGeoch, P . D., Brang, D., Song, T., Lee, R. R., Huang, M., and Ramachandran, V . S. 
+(2011). Xenomelia: A new right parietal lobe syndrome. J. Neurol. Neurosurg. Psychiatry  
+82, 1314–1319. doi: 10.1136/jnnp-2011-300224
+Medina, J. (2022). “Distinguishing body representations” in The Routledge handbook 
+of bodily awareness . eds. A. J. T. Alsmith and M. R. Longo (Abingdon: Routledge)
+Meltzoff, A. N., and Moore, M. (1994). Imitation, memory, and the representation of 
+persons. Infant Behav. Dev.  17, 83–99. doi: 10.1016/0163-6383(94)90024-8
+Meltzoff, A. N., Williamson, R. A., and Marshall, P . J. (2013). “Developmental 
+perspectives on action science: lessons from infant imitation and cognitive neuroscience” 
+in Action science: Foundations of an emerging discipline . eds. W . Prinz, M. Beisert and A. 
+Herwig (Cambridge, MA: The MIT Press), 281–306.
+Meneguzzo, P ., Dal Brun, D., Collantoni, E., Meregalli, V ., Todisco, P ., Favaro, A., et al. 
+(2023). Linguistic embodiment in typical and atypical anorexia nervosa: evidence from 
+an image-word matching task. Eur. Eat. Disord. Rev.  31, 837–849. doi: 10.1002/erv.3008
+Merleau-Ponty, M. (1962). Phenomenology of perception (C. Smith, trans.) . Abingdon: 
+Routledge & Kegan Paul Ltd.
+Möllmann, A., Heinrichs, N., and Herwig, A. (2020a). Body representation in body 
+dysmorphic disorder and body integrity dysphoria – a conceptual framework and 
+systematic review. PROSPERO  2020:CRD42020220303
+Möllmann, A., Heinrichs, N., and Herwig, A. (2023). A conceptual framework on 
+body representations and their relevance for mental disorders. PsyArXiv  2023:234. doi: 
+10.31234/osf.io/gsepz
+Möllmann, A., Hunger, A., Dusend, C., van den Hout, M., and Buhlmann, U. (2019). 
+Gazing at facial features increases dissociation and decreases attractiveness ratings in 
+non-clinical females – A potential explanation for a common ritual in body dysmorphic 
+disorder. PLoS One  14:e0219791. doi: 10.1371/journal.pone.0219791
+Möllmann, A., Hunger, A., Schulz, C., Wilhelm, S., and Buhlmann, U. (2020b). Gazing 
+rituals in body dysmorphic disorder. J. Behav. Ther. Exp. Psychiatry  68:101522. doi: 
+10.1016/j.jbtep.2019.101522
+Murphy, J., Brewer, R., Catmur, C., and Bird, G. (2017). Interoception and 
+psychopathology: A developmental neuroscience perspective. Dev. Cogn. Neurosci.  23, 
+45–56. doi: 10.1016/j.dcn.2016.12.006
+Murray, C. D., Arnold, P ., and Thornton, B. (2000). Presence accompanying induced 
+hearing loss: implications for immersive virtual environments. Presence  9, 137–148. doi: 
+10.1162/105474600566682
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 16 frontiersin.orgMurray, M. M., and Wallace, M. T. (2012). The neural bases of multisensory processes . 
+Boca Raton, FL: CRC Press/Taylor & Francis.
+Nardini, M., Begus, K., and Mareschal, D. (2013). Multisensory uncertainty reduction 
+for hand localization in children and adults. J. Exp. Psychol. Hum. Percept. Perform.  39, 
+773–787. doi: 10.1037/a0030719
+O’Shaughnessy, B. (1980). The will: A dual aspect theory . Available at: https://
+philpapers.org/rec/oshtwa .
+Obernolte, C., Schnell, T., and Kasten, E. (2015). The role of specific experiences in 
+childhood and youth in the development of body integrity identity disorder (BIID). Am. 
+J. Appl. Psychol.  4:1. doi: 10.11648/j.ajap.20150401.11
+Olivardia, R., Pope, H. G. Jr., and Hudson, J. I. (2000). Muscle dysmorphia in male 
+weightlifters: A case-control study. Am. J. Psychiatry  157, 1291–1296. doi: 10.1176/appi.
+ajp.157.8.1291
+Paulus, M. P ., Feinstein, J. S., and Khalsa, S. S. (2019). An active inference approach to 
+interoceptive psychopathology. Annu. Rev. Clin. Psychol.  15, 97–122. doi: 10.1146/
+annurev-clinpsy-050718-095617
+Paulus, M. P ., and Stein, M. B. (2006). An insular view of anxiety. Biol. Psychiatry  60, 
+383–387. doi: 10.1016/j.biopsych.2006.03.042
+Paxton, S. J., and Damiano, S. R. (2017). The development of body image and weight 
+bias in childhood. Adv. Child Dev. Behav.  52, 269–298. doi: 10.1016/bs.acdb.2016.10.006
+Peng, N.-H., Bachman, J., Jenkins, R., Chen, C.-H., Chang, Y .-C., Chang, Y .-S., et al. 
+(2009). Relationships between environmental stressors and stress biobehavioral 
+responses of preterm infants in NICU. J. Perinat. Neonatal Nurs.  23, 363–371. doi: 
+10.1097/JPN.0b013e3181bdd3fd
+Peviani, V ., Melloni, L., and Bottini, G. (2019). Visual and somatosensory information 
+contribute to distortions of the body model. Sci. Rep.  9:1. doi: 10.1038/s41598-019-49979-0
+Pezzulo, G., Rigoli, F., and Friston, K. (2015). Active inference, homeostatic regulation 
+and adaptive behavioural control. Prog. Neurobiol.  134, 17–35. doi: 10.1016/j.
+pneurobio.2015.09.001
+Phillipou, A., Blomeley, D., and Castle, D. J. (2016). Muscling in on body image 
+disorders: what is the nosological status of muscle dysmorphia? Aust. N. Z. J. Psychiatry  
+50, 380–381. doi: 10.1177/0004867415615951
+Phillips, K. A. (2004). Psychosis in body dysmorphic disorder. J. Psychiatr. Res.  38, 
+63–72. doi: 10.1016/S0022-3956(03)00098-0
+Phillips, K. A., Menard, W ., Quinn, E., Didie, E. R., and Stout, R. L. (2013). A 4-year 
+prospective observational follow-up study of course and predictors of course in body 
+dysmorphic disorder. Psychol. Med.  43, 1109–1117. doi: 10.1017/S0033291712001730
+Pollatos, O., Kurz, A.-L., Albrecht, J., Schreder, T., Kleemann, A. M., Schöpf, V ., et al. 
+(2008). Reduced perception of bodily signals in anorexia nervosa. Eat. Behav.  9, 
+381–388. doi: 10.1016/j.eatbeh.2008.02.001
+Ponari, M., Conson, M., D’ Amico, N. P ., Grossi, D., and Trojano, L. (2012). Mapping 
+correspondence between facial mimicry and emotion recognition in healthy subjects. 
+Emotion  12, 1398–1403. doi: 10.1037/a0028588
+Pope, H. G., Katz, D. L., and Hudson, J. I. (1993). Anorexia nervosa and “reverse 
+anorexia” among 108 male bodybuilders. Compr. Psychiatry  34, 406–409. doi: 
+10.1016/0010-440X(93)90066-D
+Porras-Garcia, B., Exposito-Sanz, E., Ferrer-Garcia, M., Castillero-Mimenza, O., and 
+Gutiérrez-Maldonado, J. (2020). Body-related attentional Bias among men with high 
+and low muscularity dissatisfaction. J. Clin. Med.  9:1736. doi: 10.3390/jcm9061736
+Prinz, W ., Beisert, M., and Herwig, A. (2013). Action science: Foundations of an 
+emerging discipline . Cambridge, MA: MIT Press.
+Prnjak, K., Jukic, I., Mitchison, D., Griffiths, S., and Hay, P . (2022). Body image as a 
+multidimensional concept: A systematic review of body image facets in eating disorders 
+and muscle dysmorphia. Body Image  42, 347–360. doi: 10.1016/j.bodyim.2022.07.006
+Provenzano, L., Porciello, G., Ciccarone, S., Lenggenhager, B., Tieri, G., Marucci, M., 
+et al. (2020). Characterizing body image distortion and bodily self-plasticity in anorexia 
+nervosa via Visuo-tactile stimulation in virtual reality. J. Clin. Med.  9:98. doi: 10.3390/
+jcm9010098
+Puhl, R., and Suh, Y . (2015). Health consequences of weight stigma: implications for obesity 
+prevention and treatment. Curr. Obes. Rep.  4, 182–190. doi: 10.1007/s13679-015-0153-z
+Raimo, S., Boccia, M., Di Vita, A., Cropano, M., Guariglia, C., Grossi, D., et al. (2021). 
+The body across adulthood: on the relation between Interoception and body 
+representations. Front. Neurosci.  15:684. doi: 10.3389/fnins.2021.586684
+Ramachandran, V . S., and McGeoch, P . (2007). Can vestibular caloric stimulation 
+be  used to treat apotemnophilia? Med. Hypotheses  69, 250–252. doi: 10.1016/j.
+mehy.2006.12.013
+Rat-Fischer, L., O’Regan, J. K., and Fagard, J. (2012). The emergence of tool use during 
+the second year of life. J. Exp. Child Psychol.  113, 440–446. doi: 10.1016/j.jecp.2012.06.001
+Rautio, D., Jassi, A., Krebs, G., Andrén, P ., Monzani, B., Gumpert, M., et al. (2022). 
+Clinical characteristics of 172 children and adolescents with body dysmorphic disorder. 
+Eur. Child Adolesc. Psychiatry  31, 133–144. doi: 10.1007/s00787-020-01677-3
+Ricciardelli, L. A., McCabe, M. P ., Mussap, A. J., and Holt, K. E. (2009). “Body image 
+in preadolescent boys” in Body image, eating disorders, and obesity in youth: Assessment, prevention, and treatment . eds. L. Smolak and J. K. Thompson. 2nd ed (Washington, DC: 
+American Psychological Association), 77–96.
+Rochat, P . (2010). The innate sense of the body develops to become a public affair by 
+2–3 years. Neuropsychologia  48, 738–745. doi: 10.1016/j.neuropsychologia.2009.11.021
+Rochat, P ., and Morgan, R. (1995). Spatial determinants in the perception of self-
+produced leg movements in 3- to 5-month-old infants. Dev. Psychol.  31, 626–636. doi: 
+10.1037/0012-1649.31.4.626
+Röder, B., Rösler, F., and Spence, C. (2004). Early vision impairs tactile perception in 
+the blind. Curr. Biol.  14, 121–124. doi: 10.1016/j.cub.2003.12.054
+Romano, D., Sedda, A., Brugger, P ., and Bottini, G. (2015). Body ownership: when 
+feeling and knowing diverge. Conscious. Cogn.  34, 140–148. doi: 10.1016/j.
+concog.2015.04.008
+Saetta, G., Hänggi, J., Gandola, M., Zapparoli, L., Salvato, G., Berlingeri, M., et al. 
+(2020). Neural correlates of body integrity dysphoria. Curr. Biol.  30, 2191–2195.e3. doi: 
+10.1016/j.cub.2020.04.001
+Saetta, G., Ruddy, K., Zapparoli, L., Gandola, M., Salvato, G., Sberna, M., et al. (2022). 
+White matter abnormalities in the amputation variant of body integrity dysphoria. 
+Cortex  151, 272–280. doi: 10.1016/j.cortex.2022.03.011
+Schack, T., and Mechsner, F. (2006). Representation of motor skills in human long-
+term memory. Neurosci. Lett.  391, 77–81. doi: 10.1016/j.neulet.2005.10.009
+Schmidt, V . R. L., Behrens, C., Luckhof, M., Eggert, F., Heinrichs, N., and 
+Grocholewski, A. (2021). Is there a perceptual basis to olfactory reference disorder? J. 
+Obsess.  31:100692. doi: 10.1016/j.jocrd.2021.100692
+Schur, E. A., Sanders, M., and Steiner, H. (2000). Body dissatisfaction and dieting in 
+young children. Int. J. Eat. Disord.  27, 74–82. doi: 10.1002/(SICI)1098-108X(200001)27
+:1<74::AID-EAT8>3.0.CO;2-K
+Scotto, C. R., Meugnot, A., Casiez, G., and Toussaint, L. (2020). Short-term 
+sensorimotor deprivation impacts feedforward and feedback processes of motor control. 
+Front. Neurosci.  14:696. doi: 10.3389/fnins.2020.00696
+Shea, C. H., and Wulf, G. (2005). Schema theory: A critical appraisal and reevaluation. 
+J. Mot. Behav.  37, 85–102. doi: 10.3200/JMBR.37.2.85-102
+Slaughter, V ., and Brownell, C. A. (2011). Early development of body representations . 
+Cambridge, UK: Cambridge University Press.
+Smeets, M. A. M. (1997). The rise and fall of body size estimation research in anorexia 
+nervosa: A review and reconceptualization. Eur. Eat. Disord. Rev.  5, 75–95. doi: 10.1002/
+(SICI)1099-0968(199706)5:2<75::AID-ERV190>3.0.CO;2-A
+Smeets, M. A. M., and Dijksterhuis, G. (2014). Smelly primes – when olfactory primes 
+do or do not work. Front. Psychol.  5:96. doi: 10.3389/fpsyg.2014.00096
+Smolak, L. (2011). Body image: A handbook of science, practice, and prevention . 2. New 
+Y ork: The Guilford Press.
+Spiel, E. C., Paxton, S. J., and Y ager, Z. (2012). Weight attitudes in 3- to 5-year-old 
+children: age differences and cross-sectional predictors. Body Image  9, 524–527. doi: 
+10.1016/j.bodyim.2012.07.006
+Spiel, E. C., Rodgers, R. F., Paxton, S. J., Wertheim, E. H., Damiano, S. R., Gregg, K. J., 
+et al. (2016). ‘He’s got his father’s bias’: parental influence on weight bias in young 
+children. Br. J. Dev. Psychol.  34, 198–211. doi: 10.1111/bjdp.12123
+Steinhausen, H.-C. (2002). The outcome of anorexia nervosa in the 20th century. Am. 
+J. Psychiatr.  159, 1284–1293. doi: 10.1176/appi.ajp.159.8.1284
+Stice, E., Desjardins, C. D., Rohde, P ., and Shaw, H. (2021). Sequencing of symptom 
+emergence in anorexia nervosa, bulimia nervosa, binge eating disorder, and purging 
+disorder and relations of prodromal symptoms to future onset of these disorders. J. 
+Abnorm. Psychol.  130, 377–387. doi: 10.1037/abn0000666
+Stone, K. D., Dijkerman, H. C., Bekrater-Bodmann, R., and Keizer, A. (2019). Mental 
+rotation of feet in individuals with body integrity identity disorder, lower-limb amputees, 
+and normally-limbed controls. PLoS One  14:e0221105. doi: 10.1371/journal.
+pone.0221105
+Swanson, S. A., Crow, S. J., Grange, D. L., Swendsen, J., and Merikangas, K. R. (2011). 
+Prevalence and correlates of eating disorders in adolescents: results from the National 
+Comorbidity Survey Replication Adolescent Supplement. Arch. Gen. Psychiatry  68, 
+714–723. doi: 10.1001/archgenpsychiatry.2011.22
+Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., et al. 
+(2022). Consensus definition of Misophonia: A Delphi study. Front. Neurosci.  16:816. 
+doi: 10.3389/fnins.2022.841816
+Tajadura-Jiménez, A., Basia, M., Deroy, O., Fairhurst, M., Marquardt, N., and 
+Bianchi-Berthouze, N. (2015a). As light as your footsteps: altering walking sounds to 
+change perceived body weight, emotional state and gait . Proceedings of the 33rd Annual 
+ACM Conference on Human Factors in Computing Systems, pp. 2943–2952.
+Tajadura-Jiménez, A., Crucianelli, L., Zheng, R., Cheng, C., Ley-Flores, J., 
+Borda-Más, M., et al. (2022). Body weight distortions in an auditory-driven body 
+illusion in subclinical and clinical eating disorders. Sci. Rep.  12:20031. doi: 10.1038/
+s41598-022-24452-7
+Tajadura-Jiménez, A., Tsakiris, M., Marquardt, T., and Bianchi-Berthouze, N. (2015b). 
+Action sounds update the mental representation of arm dimension: contributions of 
+kinaesthesia and agency. Front. Psychol.  6:689. doi: 10.3389/fpsyg.2015.00689
+
+Möllmann et al. 10.3389/fpsyg.2023.1231640
+Frontiers in Psychology 17 frontiersin.orgTajadura-Jiménez, A., Väljamäe, A., Toshima, I., Kimura, T., Tsakiris, M., and 
+Kitagawa, N. (2012). Action sounds recalibrate perceived tactile distance. Curr. Biol.  22, 
+R516–R517. doi: 10.1016/j.cub.2012.04.028
+Todd, J., Aspell, J. E., Barron, D., and Swami, V . (2019). An exploration of the 
+associations between facets of interoceptive awareness and body image in adolescents. 
+Body Image  31, 171–180. doi: 10.1016/j.bodyim.2019.10.004
+Toh, W ., Castle, D. J., and Rossell, S. L. (2017). Attentional biases in body dysmorphic 
+disorder (BDD): eye-tracking using the emotional Stroop task. Compr. Psychiatry  74, 
+151–161. doi: 10.1016/j.comppsych.2017.01.014
+Toussaint, L., and Meugnot, A. (2013). Short-term limb immobilization affects cognitive 
+motor processes. J. Exp. Psychol. Learn. Mem. Cogn.  39, 623–632. doi: 10.1037/a0028942
+Truby, H., and Paxton, S. J. (2002). Development of the Children’s body image scale. 
+Br. J. Clin. Psychol.  41, 185–203. doi: 10.1348/014466502163967
+Truby, H., and Paxton, S. J. (2008). The Children’s body image scale: reliability and use 
+with international standards for body mass index. Br. J. Clin. Psychol.  47, 119–124. doi: 
+10.1348/014466507X251261
+Underwood, M., and Olivardia, R. (2022). ‘The day you  start lifting is the day 
+you  become forever small’: bodybuilders explain muscle dysmorphia. Health  27, 
+998–1018. doi: 10.1177/13634593221093494
+Valentine, T., and Bruce, V . (1988). Mental rotation of faces. Mem. Cogn.  16, 556–566. 
+doi: 10.3758/BF03197057
+Veale, D., and Neziroglu, F. (2010). Body dysmorphic disorder: A treatment manual . 
+New Y ork: John Wiley & Sons.
+Viel, S., Vaugoyeau, M., and Assaiante, C. (2009). Adolescence: A transient period of 
+proprioceptive neglect in sensory integration of postural control. Mot. Control.  13, 
+25–42. doi: 10.1123/mcj.13.1.25Visser, J., Geuze, R. H., and Kalverboer, A. F. (1998). The relationship between physical 
+growth, the level of activity and the development of motor skills in adolescence: 
+differences between children with DCD and controls. Hum. Mov. Sci.  17, 573–608. doi: 
+10.1016/S0167-9457(98)00014-1
+Vocks, S., Bauer, A., and Legenbauer, T. (2018). Körperbildtherapie bei Anorexia und 
+Bulimia nervosa—Ein kognitiv-verhaltenstherapeutisches Behandlungsprogramm  3rd Edn.  
+Göttingen, Germany: Hogrefe Verlag.
+Waldorf, M., Cordes, M., Taube, C., Trunk, J., and Vocks, S. (2019a). 
+“Muskeldysmorphie [muscle dysmorphia]” in Handbuch Klinische Psychologie . eds. T. 
+Schnell and K. Schnell (Berlin: Springer), 1–13.
+Waldorf, M., Vocks, S., Düsing, R., Bauer, A., and Cordes, M. (2019b). Body-oriented 
+gaze behaviors in men with muscle dysmorphia diagnoses. J. Abnorm. Psychol.  128, 
+140–150. doi: 10.1037/abn0000403
+Wilhelm, S., Phillips, K. A., Didie, E., Buhlmann, U., Greenberg, J. L., Fama, J. M., 
+et al. (2014). Modular cognitive-behavioral therapy for body dysmorphic disorder: 
+A randomized controlled trial. Behav. Ther.  45, 314–327. doi: 10.1016/j.
+beth.2013.12.007
+World Health Organization. (2018). International statistical classification of disease 
+and related health problems, eleventh revision (ICD-11) . Geneva: World 
+Health Organization.
+Y au, J. M., DeAngelis, G. C., and Angelaki, D. E. (2015). Dissecting neural circuits for 
+multisensory integration and crossmodal processing. Philos. Trans. R. Soc. B Biol. Sci.  
+370:20140203. doi: 10.1098/rstb.2014.0203
+Zopf, R., Contini, E., Fowler, C., Mondraty, N., and Williams, M. A. (2016). Body 
+distortions in anorexia nervosa: evidence for changed processing of multisensory bodily 
+signals. Psychiatry Res.  245, 473–481. doi: 10.1016/j.psychres.2016.09.003

@@ -1,0 +1,69 @@
+## P1.152
+
+## SHORT-LATENCY RESPONSES TO TRANSCRANIAL MAGNETIC STIMULATION IN AWAKE NONHUMAN PRIMATE BRAIN
+
+Neerav Goswami, Maya Clinton, Raveena Kothare, Stefan Goetz, Boshuo Wang, Warren Grill, Angel Peterchev, Marc Sommer. Duke University, USA
+
+## Abstract
+
+Transcranial magnetic stimulation (TMS) is a non-invasive form of neuromodulation used for both clinical and research purposes. While the macroscopic effects of TMS have been observed in humans, its effects on individual neurons and local networks are not well understood. In this study, we report TMS-evoked single neuron activity and local /uniFB01 eld potentials (LFPs) in primary motor cortex (M1), somatosensory cortex (S1), and parietal cortex across two nonhuman primate (NHP) subjects, with a focus on responses within the /uniFB01 rst 10 ms of the TMS pulse.
+
+Leveraging our novel electrophysiology system that allows for simultaneous neural recordings and TMS stimulation at the same site, we can recover low-latency neural signals within 0.5 ms of the end of the TMS pulse. These include high frequency oscillations at ~600 e 1000 Hz approximately 1 e 7 ms after the TMS pulse, whose amplitude and frequency are dose-dependent. These oscillations were observed in areas M1 and S1, but not in parietal cortex, suggesting that TMS recruits large populations of neurons to synchronously /uniFB01 re in these brain regions. Additionally, these oscillations were not observed in the sham con /uniFB01 guration. Single neurons also exhibited TMS-evoked responses in the form of low latency excitation followed by a rebound. Some neurons in areas M1 and S1 /uniFB01 red synchronously with the peaks of the high frequency oscillations in the active TMS con /uniFB01 guration, but not in sham. These results demonstrate the differences in local, electrophysiological responses toTMS across distinct regions of primate cerebral cortex.
+
+## Research Category and Technology and Methods
+
+Basic Research: 10. Transcranial Magnetic Stimulation (TMS)
+
+Keywords
+
+Transcranial magnetic stimulation, Non-human primate, Local /uniFB01 eld potentials, Single neuron recording
+
+http://dx.doi.org/10.1016/j.brs.2024.12.591
+
+## P1.153
+
+## TRANSCRANIAL MAGNETIC STIMULATION OF MOTOR CORTEX PRODUCES ANALGESIA VIA OPIOIDERGIC DESCENDING PAIN CONTROL CIRCUITS
+
+Nicole Mercer Lindsay 1 , Simon Haziza 1 , Yanping Zhang 1 , Thomas Baer 1 , Gregory /C19 Scherrer 2 , Mark Schnitzer 1 . 1 Stanford University, USA; 2 The University of North Carolina at Chapel Hill, USA
+
+## Abstract
+
+The heavy burden of chronic pain and the opioid epidemic has prompted an urgent search for alternative methods of analgesia. One promising alternative is transcranial magnetic stimulation (TMS) of the motor cortex. While studies have shown that motor cortical TMS can reduce chronic pain in human subjects, the underlying antinociceptive mechanisms remain elusive, preventing improvement of treatment ef /uniFB01 cacy and duration. Here, we dissected the circuit mechanism underpinning TMS-induced antinociception in a mouse model of trigeminal neuropathic pain.
+
+We /uniFB01 rst developed a mouse-scaled transcranial magnetic stimulation (miniTMS) device that we used to focally stimulate motor cortex in mice with a chronic constriction injury of the trigeminal nerve (CCI). We quanti /uniFB01 ed mouse behavioral responses to innocuous and noxious mechanical stimuli before and after TMS. Finally, we used Neuropixels highdensity electrophysiological recordings to identify neural responses toTMS protocols ( e.g. , intermittent theta burst).
+
+Motor cortical miniTMS induced a dose-dependent decrease in re /uniFB02 exive and affective-motivational pain behaviors in CCI mice. Focusing /uniFB01 rst on the stimulation site, we found that layer 5 pyramidal neurons are both activated by TMS and required for TMS-induced antinociception. We traced the outputs of motor cortical neurons activated during TMS and determined they directly project to the rostral ventromedial medulla (RVM), a key node in the descending pain control pathway. RVM intracranial naloxone injections were suf /uniFB01 cient to prevent TMS analgesia, while opiorphin enhanced both the antinociceptive effect and duration. Finally, we recorded neural responses to TMS, determining how pain modulating neurons are affected.
+
+Together, these data elucidate the mechanism of TMS-induced analgesia by revealing that motor cortical TMS utilizes endogenous opioid signaling in medullary descending pain control pathways to produce antinociception. This novel knowledge paves the way to improving existing and designing novel TMS protocols.
+
+## Research Category and Technology and Methods
+
+Basic Research: 10. Transcranial Magnetic Stimulation (TMS)
+
+## Keywords
+
+TMS, Analgesia, Mouse model, Motor cortex
+
+http://dx.doi.org/10.1016/j.brs.2024.12.592
+
+## P1.154
+
+## NEURAL DIFFERENTIATION OF MISOPHONIC INDIVIDUALS FROM CLINICAL CONTROLS BY LEFT INSULA FUNCTIONAL CONNECTIVITY BEFORE R-TMS INTERVENTION
+
+Nimesha Gerlus, Kevin LaBar, Andrada Neacsiu. Duke University, USA
+
+## Abstract
+
+Misophonia is a debilitating disorder marked by reduced tolerance to trigger sounds and associated stimuli. We have shown that high-frequency (HF) rTMS reduces distress associated with trigger sounds and enhances cognitive regulation of distress. During exposure to trigger sounds, previous studies of misophonia have shown involvement of the insula, a brain region that integrates cognitive, affective, and sensory processing. Therefore, understanding how insula functional connectivity (FC) in individuals with misophonia differs from that of clinical controls may lead to optimized targeting for rTMS interventions to treat misophonia.
+
+In a blinded clinical trial, 30 clinical controls and 29 adults with misophonia completed a task paradigm in a 3T MRI scanner; they heard personalized misophonic, aversive, and neutral sounds and were asked to either listen to sounds or downregulate associated emotions. Generalized psychological-physiological interaction models were implemented in FSL and used the left insula as a seed to examine its FC changes during regulating versus listening to sounds.
+
+Compared to hearing misophonic sounds, regulation of misophonia-driven emotions led to signi /uniFB01 cantly higher left insula FC with the left midcingulate cortex in the misophonia group vs. controls (zmax_cluster ¼ 3.69, p ¼ .0241). Furthermore, adults with misophonia versus controls showed signi /uniFB01 cantly lower FC between left insula and right superior temporal sulcus when hearing misophonic versus aversive sounds (zmax_cluster ¼ 3.53, p ¼ .022). When regulating versus hearing non-misophonic aversive sounds, adults with misophonia showed higher insula FC with the right supplementary motor area (zmax_cluster ¼ 4.35, p ¼ .001) and the right dorsolateral prefrontal cortex (zmax_cluster ¼ 4.23-4.29, p &lt; .002).
+
+Individuals with misophonia show greater left insula engagement of cognitive control regions during regulation of non-misophonic but not misophonic sounds. Group differences in insula FC during sound reactivity and regulation suggest that insula circuitry may be a promising target for future HF-rTMS misophonia interventions.
+
+## Research Category and Technology and Methods
+
+Translational Research: 18. Functional Brain Imaging Keywords functional connectivity, insula, misophonia, rTMS
+
+http://dx.doi.org/10.1016/j.brs.2024.12.593

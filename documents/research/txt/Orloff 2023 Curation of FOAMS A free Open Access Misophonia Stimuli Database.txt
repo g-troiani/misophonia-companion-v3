@@ -1,0 +1,265 @@
+## Curation of FOAMS: a Free Open-Access Misophonia Stimuli Database
+
+DEAN M. ORLOFF
+
+DANIELLE BENESCH
+
+HEATHER A. HANSEN
+
+*Author affiliations can be found in the back matter of this article
+
+## ABSTRACT
+
+Misophonia  is  a  disorder  of  decreased  tolerance  to  certain  'trigger'  sounds  (e.g., chewing,  tapping,  clicking).  While  misophonia  research  is  scant  in  general,  studies presenting sounds are especially rare and methodologically variable, likely due to the labor and time required to create stimuli. Thus, we introduce FOAMS: Free Open-Access Misophonia Stimuli, a sound bank publicly available on Zenodo, accompanied by pilot discomfort  ratings  for  32  of  these  sounds  (4  exemplars  of  8  classes).  The  FOAMS database  aims  to  decrease  the  burden  on  researchers,  facilitating  reproducibility and the pursuit of nuanced research questions to better understand this perplexing disorder.
+
+DATA PAPER
+
+## CORRESPONDING AUTHOR:
+
+## Heather A. Hansen
+
+Department of Psychology, The Ohio State University, Columbus, OH, USA
+
+hansen.508@osu.edu
+
+## KEYWORDS:
+
+Misophonia; sound sensitivity; stimulus set; sound bank; database
+
+## TO CITE THIS ARTICLE:
+
+Orloff, D. M., Benesch, D., &amp; Hansen, H. A. (2023). Curation of FOAMS: a Free Open-Access Misophonia Stimuli Database. Journal of Open Psychology Data, 11: 15, pp. 1-8. DOI: https://doi. org/10.5334/jopd.94
+
+## (1) BACKGROUND
+
+Misophonia  is  a  disorder  of  decreased  tolerance  to specific sounds or stimuli associated with those sounds (Swedo  et  al.,  2022).  Although  often  thought  of  as an  aversion  to  oral/nasal  sounds  in  particular  (Jager et  al.,  2020;  Kumar  et  al.,  2021;  Schröder  et  al.,  2013), large-scale  surveys  and  experimental  investigations  of misophonia  have  revealed  a  wide  variety  of  reported triggers: chewing,  sniffling,  keyboard  typing,  rustling plastic/paper, cutlery noises, etc. (Cavanna &amp; Seri, 2015; Hansen et al., 2021; Vitoratou et al., 2021). Misophonia is  a  prevalent  disorder  -  population  studies  estimate 5-20% of the general population is affected (Vitoratou et al.,  2023; Kılıç et al., 2021; Jakubovski et al., 2022) and leads to significant impairment in daily life activities for sufferers (Rouw &amp; Erfanian, 2017; Swedo et al., 2022). Consequently, studying the disorder and its effects has been a focus of recent research.
+
+To experimentally study a disorder of sound processing,  one  logical  approach  is  to  present  sounds to participants; however, only about a dozen studies so far  have  incorporated  sound  stimuli.  We  surmise  this is  true for a few reasons: First, except in rare instances of  collaboration,  each  research  team  must  start  from scratch  in  compiling  their  own  stimulus  sets,  which  is both time and labor intensive. Additionally, perhaps due to  the  overwhelming range of sounds that misophonic individuals find bothersome,  existing  studies  in  the literature vary widely in which sound stimuli are used in their  'triggering'  condition.  For  example,  some  studies use  primarily  oral/nasal  sounds,  such  as  chewing  or sniffling  (Daniels  et  al.,  2020;  Edelstein  et  al.,  2020; Kumar et al.,  2017;  Savard  et  al.,  2022;  Siepsiak  et  al., 2023),  whereas  others  equally  incorporate  non-oral/ nasal  or  nonhuman  sounds  as  triggers  (Enzler  et  al., 2021; Grossini et al.,  2022;  Hansen  et  al.,  2021).  While useful starting points, both approaches have drawbacks: The  latter  is  more  time-consuming  and  may  include trigger  sounds  that  not  all  misophonic  individuals  are personally averse to, but the former may not sufficiently capture  the  variation  in  misophonia  and  subsequently isolate individuals who experience triggers that are less common.  Similarly, most  experiments incorporating stimuli  thus  far  have  included  single  instances  of  each trigger sound (e.g., Daniels et al., 2020; Enzler et al., 2021; Grossini et al., 2022; Hansen et al., 2021; Heller &amp; Smith, 2022;  Kumar  et  al.,  2017;  Seaborne  &amp;  Fiorella,  2018; Silva &amp; Sanchez, 2018). While simpler methodologically, individuals with misophonia often report varied reactions to  the  same sound produced by different sources (e.g., more aversion to a loved one chewing than a stranger chewing (Edelstein et al., 2013, 2020)); thus, using a single exemplar introduces uncertainty regarding whether the particular  stimulus  chosen  will  feel  bothersome  to  a participant with that trigger.
+
+In  addition  to  the  differences  in  stimulus  content, wide  variability  exists  in  other  choices  regarding  how misophonia stimuli are presented. For instance, previous misophonia research has used sound stimuli that vary in duration from around 2 seconds (e.g., Enzler et al., 2021) to 30 seconds (e.g., Grossini et al., 2022) and in breadth from fewer than 5 trigger sounds (e.g., Heller &amp; Smith, 2022) to more than 100 potential triggers (e.g., Hansen et al., 2021). Thus, it is unclear whether any resultant effects are  attributable  to  misophonia  or  merely  a  byproduct of  how  long  (or  how  many)  stimuli  were  listened  to. Similarly,  low-level  acoustic  properties  can  also  affect responses, as stimuli played at excessively high volume levels can be bothersome to most listeners (Kaernbach et al., 2011; Skagerstrand et al., 2017), regardless of their misophonia  status.  Additionally,  stimuli  played  at  low volume levels may also affect participants' responses if they  are  inaudible  enough  to  be  recognized,  since  the misophonic reaction has been shown to be dependent upon sound identification (Edelstein et al., 2020; Hansen et  al.,  2021;  Heller  &amp;  Smith,  2022;  Savard  et  al.,  2022). Thus, different recordings of the same trigger sound may evoke different experimental responses due to variations in acoustics and context. Without access to the original stimuli, replication of individual studies is challenging.
+
+Taken  together,  the  field  would  benefit  greatly  from some  common  ground  on  which  to  study  misophonia. To fill in this gap, we present the FOAMS database-Free, Open-Access  Misophonia  Stimuli.  The  FOAMS  database seeks to 1) increase the quantity of current, usable stimuli in the misophonia research field, 2) standardize the stimuli used in experimental research, and ultimately 3) establish a free and open-access platform to aid in reproducibility of  existing  and  future  studies.  This  paper  first  presents the development of the database, including how specific categories of trigger stimuli were collected and labeled. This process provides detailed information regarding the name,  duration,  salience,  and  category  of  each  trigger sound. Additionally, this paper presents pilot aversiveness ratings  from  a  subset  of  categories  in  the  database  as part of a larger cognitive experiment, demonstrating the flexibility and utility of the database for specific research questions. Importantly, while standardized aversiveness ratings  (e.g.,  valence,  arousal)  for  all  the  sounds  would make FOAMS maximally useful, these ratings data and the  FOAMS  sound  bank  function  as  a  proof  of  concept, exemplifying  how  open-access  sound  stimuli  may  be utilized in future experimental research of misophonia.
+
+## (2) METHODS
+
+## 2.1 MATERIALS
+
+## 2.1.1 FOAMS creation
+
+To  create  the  initial  release  of  the  FOAMS  database, sound  search terms were  compiled  using previous
+
+research and prioritized based on how well discomfort to the sound correlated with misophonia severity (Hansen et al., 2021). Specifically, we used the sound list provided by Figure S8-B of Hansen et al. (2021), which presents a Misophonia Sensitivity Index depicting the correlation between participant discomfort ratings for each sound and  participant  misophonia  levels.  Higher  correlations indicate sounds  that  better discriminate individuals with misophonia from controls. Thus, sounds that were significantly  correlated  with  misophonia  severity  after correcting  for multiple  comparisons  were  prioritized for  the  FOAMS  sound  bank.  Although  37  sounds  met this criterion and were considered, 10 unique low-level classes of sounds were chosen for the initial release of FOAMS given the effort required to manually annotate them  (see below), as done  by the UrbanSound8K database (see Salamon et al., 2014).
+
+Sound stimuli were then compiled from existing files via freesound.org, with up to 1000 results for each search term.  Stimuli  were  further  prioritized  if  the  following criteria  were  met:  the  sound  lasted  from  four  to  150 seconds, was released under a creative commons zero license, had a sampling frequency of at least 44100 Hz, and was the first submission from a unique Freesound user  after  sorting  by  priority.  For  sounds  in  which  the label  from  Hansen  et  al.  (2021)  did  not  return  five usable  instances  from  freesound.org  (e.g.,  fewer  than five instances in search results, or at least five instances in search  results  but  fewer  than  five  that  met  preestablished criteria), the term was removed. Of the search results,  each  sound  was  further  categorized  following priority order: Each sound was listened to by a member of  our  research  team,  who  determined  if  1)  either  the desired  sound  (or  another  relevant  sound)  was  indeed present in the audio file for at least four seconds, and 2) if  the audio file contained interfering background noise. This process continued until five sounds from ten unique categories were found to have the desired search term present  without  background  noise.  The  ten  categories presented in the initial release of FOAMS include chewing gum,  flipping  newspaper,  typing,  basketball  dribbling, knife cutting, human breathing, plastic crumpling, water drops, clearing throat, and swallowing.
+
+Each  sound  event  for  the  audio  file  was  annotated using  Audacity®  (v3.1.3).  The  entire  audio  file  was manually  labeled,  marking  every  occurrence  of  the desired primary sound as well as any additional secondary sounds, aiming to annotate the onset and offset of each sound event within 50 ms precision. Labels also denoted salience,  with  'C1_sound'  and  'C2_sound'  indicating foreground  or  background  sounds,  respectively.  These techniques were modeled after those used to construct the  existing  UrbanSound8K  database  (Salamon  et  al., 2014).  Then,  representative  four-second  instances  of each sound were selected by a member of the research team.  During  this  process,  the  labeled  audio  file  was listened  to  again  and  all  previously-labeled  instances of  the  target  sound  were  considered  for  the  segment creation. Instances with minimal background noise and the  most  isolated  target  sound  were  selected,  aiming for about four seconds long, with slight variation so as to not cut the sound off abruptly. A four second duration was  chosen  because  of  its  use  in  the  UrbanSound8K database,  based  on  four  seconds  being  sufficient  for participants to identify the sound (Salamon et al., 2014, Chu  et  al.,  2009);  previous  misophonia  literature  has shown  the  critical  role  of  sound  identification  (Savard et  al.,  2022,  Heller  &amp;  Smith,  2022).  One  segment  was chosen for each of the 50 stimulus files. The initial labels and final segmentation were both exported to TXT files from Audacity and are publicly available on Zenodo.
+
+Finally, a taxonomy was created based on the search terms and updated throughout the annotation process. As with annotation, we modeled our taxonomy method on UrbanSound8K, given a misophonia taxonomy does not  yet  exist  and  UrbanSound8K's  categorization  of environmental sounds is similar in content to misophonia triggers.  We  started  with  the  parent  categories  used in their taxonomy  of  urban  sounds  (e.g.,  'Human', 'Nature', and 'Mechanical') then modified the taxonomy using  our  search  terms  to  adapt  it  for  misophoniarelevant sound categories (e.g., adding 'oral/nasal' as a subheading under 'Human'). Each of the search terms we considered as categories in the initial release of FOAMS (see description above, Hansen et al., 2021) was added to the taxonomy under the appropriate subheading. The taxonomy was updated during the annotation process so that each label present in an audio file was included; for example, 'exhaling' was not a prioritized search term, but was present in the audio files, so it was added to the taxonomy. Each label was categorized under at least one parent sound that described the type of sound present in the label; researcher discretion was used to determine relevant parent categories. While this taxonomy  is far  from  exhaustive  and  may  be  rearranged  as  more sounds are added, we find this structure useful in further categorizing  sounds  that  have  relatively  broad  labels. For example, a parent term called 'oral/nasal' might be relevant to researchers who are studying the effects of oral/nasal sounds more generally, but the parent term could be further subdivided into more specific labels like 'lip smacking,' 'chewing,' or 'swallowing' for researchers who have a narrower focus. In this sense, the taxonomy and label files provided in FOAMS are useful for a plethora of research questions. We have supplied the taxonomy in JSON format on GitHub to facilitate use, extension, and reorganization by future research.
+
+## 2.1.2 Pilot stimuli
+
+Pilot discomfort  ratings  were  derived  from  a  larger experiment studying the cognitive and social effects of misophonia via a face memory task (see Hansen et al., n.d.).
+
+For  the  purposes  of  that  experiment,  eight  humanproduced  classes  from  FOAMS  were  used  (breathing, chewing gum, clearing throat, swallowing, knife cutting, basketball dribbling, flipping newspaper, and typing). To approximately equate sound durations between classes, four instances from each class were chosen by removing the shortest or longest instance from the available five. To  control  for  sound  exposure,  these  32  sound  stimuli from FOAMS were supplemented with four instances of pink noise and four trials with no sound, resulting in 10 total classes with four instances each.
+
+The FOAMS stimuli do not have sound level normalized, both to give researchers flexibility and maintain variability when sound level is a factor of interest. However, for this cognitive  experiment,  sound  level  variability  was  not  a factor of interest. As such, sound levels were normalized using Adobe Audition (v.14.4) by matching Total RMS to the  first  chewing  gum  file;  chewing  gum  was  chosen for  its  quieter  starting  volume  and  role  as  a  classic misophonia  trigger.  Total  RMS  was  -50.03dB  for  each sound used in the pilot.
+
+## 2.2 SAMPLE
+
+21 participants (Mean Age = 18.5; 11 female, 8 male) were recruited for the pilot. Participants were undergraduate students who  were  enrolled  in an Introduction to Psychology  course  at  The  Ohio  State  University  and received course credit for their participation.
+
+Participants  were  assessed  for  misophonia  using the  Duke  Misophonia  Questionnaire  (DMQ;  Rosenthal et al., 2021) and Selective Sound Sensitivity Syndrome Scale (S5; Vitoratou et al., 2021), of which misophonia is  suggested  to  be  present  above  scores  of  87  out  of 250. Our 21 participants had a mean S5 score of 44.8 (range:  0-134);  four  participants  scored  above  the  87 criterion, matching prevalence estimates of misophonia in  undergraduate  samples  (Wu  et  al.,  2014;  Zhou  et al.,  2017) and the general population (Vitoratou et al., 2023).
+
+## 2.3 STUDY DESIGN
+
+The experiment was run in a dimly lit, sound-attenuated testing  room  using  a  Mac  Mini  computer  with  a  24in.  LCD  monitor.  Stimuli  were  presented  using  Python 3.8  and  PsychoPy  (v2021.2.3).  Before  beginning  the experiment, participants were informed that they would be presented faces and asked to make judgments about the  faces.  Participants  were  made  aware  that  sounds would play concurrently with the faces, and that some sounds may feel unpleasant to them.
+
+The  experiment  was  broken  down  into  two  parts: Phase 1 (Learning)  and  Phase  2  (Memory).  In  Phase  1, participants  were  shown  40  faces  one  at  a  time  while completing an incidental encoding task. During presentation  of  the  face,  a  stimulus  from  one  of  10  sound classes played aloud through speakers. Afterwards, participants were shown a response screen on which they were given two additional tasks: 1) judge the identity of the  sound  they  just  heard  by  choosing  one  of  the  10 available class names, and 2) rate their discomfort during the sound on a scale from 0 (no discomfort) to 5 (max discomfort).  After  clicking  responses  to  both  questions, a 'Continue' button appeared, after which participants started the next trial. Participants were given two practice trials  (one  male  face,  one  female  face)  accompanied by  pink  noise  (labeled  'white  noise'  on  the  screen  for familiarity), then completed 80 experimental trials split into  4  blocks,  between  which  they  were  offered  short breaks. In Phase 2, participants made trait and memory judgments about the faces from Phase 1; results from this phase are outside the scope of the present paper.
+
+## 2.4 ETHICAL ISSUES
+
+All  research  was  approved  by  the  Institutional  Review Board at The Ohio State University. Participants provided informed  written  consent  prior  to  data  collection  and were assigned an anonymous ID number for data storage.
+
+## 2.5 EXISTING USE OF DATA
+
+The FOAMS database was used in a dissertation experiment conducted by a member of the research team, currently under review for publication (Hansen et al., n.d.).
+
+## (3) DATASET DESCRIPTION AND ACCESS
+
+## 3.1 REPOSITORY LOCATIONS
+
+FOAMS DOI: 10.5281/zenodo.8170225 Pilot DOI: 10.5281/zenodo.8170180
+
+## 3.2 FILE NAMES
+
+3.2.1 FOAMS
+
+- -FOAMS_documentation.pdf: details of audio labeling, segmentation, and taxonomy creation
+- -FOAMS_processed_audio.zip: all labeled stimuli available in the database, in WAV format
+- -FOAMS_processed_audio_flac.zip: all labeled stimuli available in the database, in FLAC format
+- -segmentation_info.csv: details of stimulus segments
+
+## 3.2.2 Pilot
+
+- -Sub01.csv - Sub21.csv: raw experimental output of discomfort ratings and sound identifications for all 21 participants
+- -MisoAssessments.csv: DMQ and S5 assessment scores for all 21 participants
+- -Stim_reference_table.csv: reference table of the sound stimuli with their corresponding FOAMS IDs
+- -FOAMS_analysis.m: analysis script for compiling raw data and generating a summary table
+
+- -discomfort_summary.csv: summary table of discomfort ratings for the 32 FOAMs sounds used in the pilot
+- -README.txt: explanation of the raw experimental output files
+- -Pilot_sound_stimuli.zip: all 33 sound stimuli used (32 from FOAMS + pink noise), in WAV format
+- -Pilot_sound_stimuli_flac.zip: all 33 sound stimuli used (32 from FOAMS + pink noise), in FLAC format
+
+## 3.3 DATA TYPE
+
+Primary data, processed data
+
+## 3.4 FORMAT NAMES
+
+Sound  files  are  available  in  both  WAV  and  FLAC  audio formats.  Pilot  data  is  available  in  CSV  format.  Analysis scripts  of  the  pilot  data  are  available  for  use  in  Matlab (version R2021a).
+
+## 3.5 LANGUAGE
+
+American English
+
+## 3.6 LICENSE
+
+Creative  Commons  Attribution  4.0  International  Public License
+
+## 3.7 PUBLICATION DATE
+
+September 25, 2022
+
+## (4) REUSE POTENTIAL
+
+The  FOAMS  database  and  pilot  discomfort  ratings provide numerous interdisciplinary benefits. Firstly, since  the  FOAMS  database  has  multiple  exemplars of  each  sound  with  varied  acoustic  properties,  this database can enable more nuanced research questions. For example, auditory researchers may use  the  differential  discomfort  ratings  assigned  to the  four  piloted  chewing  sounds  to  explore  which acoustic properties (e.g., frequency,  intensity) best explain  why  some  instances  of  the  trigger  sound  are more  aversive  than  others.  Furthermore,  the  FOAMS database's diverse collection of sound exemplars with varying acoustic properties presents an opportunity for machine learning research. With its diverse collection of  sound  exemplars,  researchers  could  leverage  this sound bank to develop robust machine learning models for automatic detection of misophonic triggers, opening  avenues  for  personalized  interventions  and advancements in managing misophonia (Benesch et al., 2021). By modeling the FOAMS format to match that of UrbanSound8K, a popular dataset used in sound event classification research, we hope to encourage the use of FOAMS in the machine learning community.
+
+More generally, an open-access database will bridge gaps in misophonia literature and make results more interpretable. For instance, if neuropsychological studies  from  different  research  groups  present  these sounds to participants and observe conflicting results, researchers can be more  confident the disparate findings  are  not  merely  confounded  by  the  particular stimuli each group presented. Additionally, given the  individual  differences  in  misophonic  experiences, researchers  could  benefit  from  individually  tailoring their  experiments  to  each  individual's  trigger  sounds, an ideal put forth by Schröder et al. (2019). Importantly, all files used to create the final processed dataset have been  made  publicly  available,  including  the  sound search results,  the  original  audio  files,  the  annotation files,  and  the  taxonomy,  which  provides  transparency and facilitates replication. This information offers much potential  for  expansion  or  modification  of  the  FOAMS database if  researchers  need  to  include  more  sounds or  tailor  the  preprocessing  to  their  own  specifications. This  is  relevant  given  that  the  initial  release  of  the FOAMS  database  contains  10  sound  categories,  and misophonic individuals report a plethora of triggers; as such, not all trigger sounds are presently represented in the database, and further expansion would make it maximally useful.
+
+Aside from  research purposes, sounds  from  this database  can  be  used  in  diagnosis,  therapy,  and  a broadened  awareness  of  misophonia  in  the  medical community. Enzler et al. (2021) demonstrated an ability to assess misophonia by analyzing ratings of pre-selected sounds  (see  also  Hansen  et  al.,  2021).  With  a  larger and more diverse sound bank, the success in capturing different  variations  of  misophonia  improves.  Moreover, although about 20% of undergraduate samples (Wu et al., 2014; Zhou et al., 2017) and the general population (Vitoratou  et  al.,  2023)  experience  misophonia,  not  all treatment providers are comfortable with the term; in a study of audiologists in India, only about 15% of them reported confidence in handling the condition (Aryal &amp; Prabhu, 2023). Often a multidisciplinary treatment team is  preferred  (Aryal  &amp;  Prabhu,  2023),  with  psychologists using therapies that may incorporate stimulus presentation  (see  Mattson  et  al.,  2023  for  a  review  of treatments). Freely accessible sound stimuli can thus be incorporated into training seminars or individual therapy plans to familiarize treatment providers with the disorder and improve treatment outcomes.
+
+The  FOAMS  database  is  a  compilation  of  existing sound  files and  is therefore  intrinsically limited in its  scope.  That  is,  all  categorized  sounds  come  from existing,  user-uploaded  audio  files  on  freesound.org; no  sounds  were  recorded  by  the  research  team.  This reliance  on  previously  existing  sound  files  presented logistical challenges  when  analyzing  certain  sound
+
+categories, since not all desired categories (e.g., 'sipping hot liquid') had search results on freesound.org, or search results contained multiple categories besides the desired sound (e.g., 'slurping' containing lip smacks and  swallowing  sounds,  or  'lip  smacks'  containing audio  indistinguishable  from  chewing  gum).  Further, acoustic  properties  (e.g.,  due  to  the  recording  device, background noise) could not be controlled. The reliance on freesound.org also necessitated the use of researcher discretion  when  annotating  sounds  to  verify  that  the content  matched  the  user-uploaded  description  and to  choose representative segments of each audio clip. Finally,  while  offering  five  exemplars  of  each  sound category  is  more  ecologically  valid  than  presenting just  one  sound,  doing  so  cannot  fully  account  for  the idiosyncrasies of the misophonic experience, especially for sufferers who are mainly bothered by sounds from select  individuals  (e.g.,  family/friends,  Edelstein  et  al., 2013).
+
+Despite these limitations, this intrinsic structure of the  FOAMS  database  fosters  both  flexibility  and reproducibility  in  research;  because  FOAMS  relies  on existing  sound  databases,  the  potential  for  expansion remains feasible via the aforementioned methods. Further,  the  acoustic  variations  in  sounds-though  at first apparently  confounding-enables  researchers  to examine  more  specific  issues  and  is  not  necessarily  a limitation of the FOAMS database. For example, a study using  only  'swallowing'  sounds  could  examine  what specific characteristics of each swallowing sound make it  triggering;  is  it  variation  in  background  noise?  Does the  sound  quality  affect  trigger  response?  The  reuse potential is wide, and more open-access resources like the  FOAMS  database  will  benefit  the  misophonia  field as a whole. This proof of concept lays the framework for such broad, reproducible, and collaborative future efforts in misophonia research.
+
+## ACKNOWLEDGEMENTS
+
+We thank soQuiet for financially supporting this research project, as well as the many users on freesound.org who uploaded  sounds  we  could  use  in  this  database.  We would also like to thank our collaborators on the project, Marie-Anick  Savard,  Emily  Coffey,  and  Mickael  Deroche, for  their  helpful  suggestions.  Lastly,  we  thank  Andrew Leber and Zeynep Saygin for supervising data collection of the pilot.
+
+## FUNDING INFORMATION
+
+Funding for the creation of this sound bank was provided by a 2022 soQuiet Misophonia Student Research Grant awarded to DB and HAH.
+
+## COMPETING INTERESTS
+
+The authors have no competing interests to declare.
+
+## AUTHOR CONTRIBUTIONS
+
+DO  curated  the FOAMS  database  (including  sound search,  sound  labeling,  and  sound  segmentation)  and drafted the manuscript.  DB  developed  software  to automatically segment and process the FOAMS stimuli. HAH collected pilot discomfort ratings. Both DB and HAH conceptualized  and  supervised  the  project  and  edited the manuscript.
+
+## AUTHOR AFFILIATIONS
+
+## Dean M. Orloff
+
+Department of Psychology, The Ohio State University, Columbus, OH, USA
+
+Danielle Benesch orcid.org/0000-0002-2002-2325 ÉTS-EERS Industrial Research Chair in In-Ear Technologies, Montreal, QC, CA
+
+Heather A. Hansen orcid.org/0000-0002-8917-2516 Department of Psychology, The Ohio State University, Columbus, OH, USA
+
+## REFERENCES
+
+Aryal, S., &amp; Prabhu, P. (2023). Awareness and perspectives of audiologists on assessment and management of misophonia in India. Journal of Otology , 18 (2), 104-110. DOI: https://doi.org/10.1016/j.joto.2023.02.003
+
+Benesch, D., Raj, K. N., Bouserhal, R., &amp; Voix, J. (2021). Interfacing the Tympan open-source hearing aid with an external computer for research on decreased sound tolerance. 181st Meeting of the Acoustical Society of America 45 , . DOI: https://doi.org/10.1121/2.0001616
+
+Cavanna, A. E., &amp; Seri, S. (2015). Misophonia: current perspectives. Neuropsychiatric Disease and Treatment , 11 , 2117-2123. DOI: https://doi.org/10.2147/NDT.S81438
+
+Chu, S., Narayanan, S., &amp; Kuo, C.-C. J. (2009). Environmental Sound Recognition With Time - Frequency Audio Features. IEEE Transactions on Audio, Speech, and Language Processing , 17 (6), 1142-1158. http://ieeexplore.ieee.org/ xpls/abs_all.jsp?arnumber=5109766. DOI: https://doi. org/10.2147/NDT.S81438
+
+Daniels, E. C., Rodriguez, A., &amp; Zabelina, D. L. (2020).
+
+Severity of misophonia symptoms is associated with worse cognitive control when exposed to misophonia trigger sounds. PLoS ONE 15 , (1), 1-12. DOI: https://doi. org/10.1371/journal.pone.0227118
+
+## Edelstein, M., Brang, D., Rouw, R., &amp; Ramachandran, V. S.
+
+(2013). Misophonia: physiological investigations and case descriptions. Frontiers in Human Neuroscience , 7 (296), 1-11. DOI: https://doi.org/10.3389/fnhum.2013.00296
+
+## Edelstein, M., Monk, B., Ramachandran, V. S., &amp; Rouw,
+
+- R. (2020). Context influences how individuals with misophonia respond to sounds. BioRxiv . DOI: https://doi. org/10.1101/2020.09.12.292391
+- Enzler, F., Loriot, C., Fournier, P., &amp; Noreña, A. J. (2021). A psychoacoustic test for misophonia assessment. Scientific Reports , 11 (1), 1-14. DOI: https://doi.org/10.1038/s41598021-90355-8
+
+Grossini, E., Stecco, A., Gramaglia, C., De Zanet, D., Cantello,
+
+R., Gori, B., Negroni, D., Azzolina, D., Ferrante, D., Feggi,
+
+- A., Carriero, A., &amp; Zeppegno, P. (2022). Misophonia: Analysis of the neuroanatomic patterns at the basis of psychiatric symptoms and changes of the orthosympathetic/ parasympathetic balance. Frontiers in Neuroscience , 16 (827998), 1-21. DOI: https://doi. org/10.3389/fnins.2022.827998
+- Hansen, H. A., Leber, A. B., &amp; Saygin, Z. M. (2021). What sound sources trigger misophonia? Not just chewing and breathing. Journal of Clinical Psychology , 77 (11), 26092625. DOI: https://doi.org/10.1002/jclp.23196
+- Hansen, H. A., Leber, A. B., &amp; Saygin, Z. M. (n.d.). misophonia on cognitive and social processing .
+- Heller, L. M., &amp; Smith, J. M. (2022). Identification of Everyday Sounds Affects Their Pleasantness. Frontiers in Psychology 13 (894034), 1-16. DOI: https://doi.org/10.3389/ fpsyg.2022.894034
+- Effect of ,
+- Jager, I., de Koning, P., Bost, T., Denys, D., &amp; Vulink, N. (2020). Misophonia: Phenomenology, comorbidity and demographics in a large sample. PLoS ONE 15 , (4), 1-16. DOI: https://doi.org/10.1371/journal.pone.0231390
+- Jakubovski, E., Müller, A., Kley, H., de Zwaan, M., &amp; MüllerVahl, K. (2022). Prevalence and clinical correlates of misophonia symptoms in the general population of Germany. Frontiers in Psychiatry , 13 . DOI: https://doi. org/10.3389/fpsyt.2022.1012424
+- Kaernbach, C., Hoeldtke, K., &amp; Pfitzinger, H. R. (2011). Emotional responses to sounds depend mainly on sound level. Proceedings of Forum Acusticum , c , 1097-1102.
+- Kılıç, C., Öz, G., Avano /uni011F lu, K. B., &amp; Aksoy, S. (2021). The prevalence and characteristics of misophonia in Ankara, Turkey: population-based study. BJPsych Open 7 , (5), 1-6. DOI: https://doi.org/10.1192/bjo.2021.978
+- Kumar, S., Dheerendra, P., Erfanian, M., Benzaquén, E., Sedley, W., Gander, P. E., Lad, M., Bamiou, D. E., &amp; Griffiths, T. D. (2021). The motor basis for misophonia. Journal of Neuroscience , 41 (26). DOI: https://doi.org/10.1523/ JNEUROSCI.0261-21.2021
+- Kumar, S., Tansley-Hancock, O., Sedley, W., Winston, J. S., Callaghan, M. F., Allen, M., Cope, T. E., Gander, P. E., Bamiou, D. E., &amp; Griffiths, T. D. (2017). The Brain Basis for Misophonia. Current Biology , 27 (4), 527-533. DOI: https:// doi.org/10.1016/j.cub.2016.12.048
+
+Mattson, S. A., D'Souza, J., Wojcik, K. D., Guzick, A. G., Goodman, W. K., &amp; Storch, E. A. (2023). A systematic review of treatments for misophonia. Personalized
+
+Medicine in Psychiatry , 39 40 -(May), 100104. DOI: https:// doi.org/10.1016/j.pmip.2023.100104
+
+- Rosenthal, M. Z., Anand, D., Cassiello-Robbins, C., Williams, Z. J., Guetta, R. E., Trumbull, J., &amp; Kelley, L. D. (2021). Development and Initial Validation of the Duke Misophonia Questionnaire. Frontiers in Psychology , 12 (709928), 1-21. DOI: https://doi.org/10.3389/fpsyg.2021.709928
+- Rouw, R., &amp; Erfanian, M. (2017). A Large-Scale Study of Misophonia. Journal of Clinical Psychology , 0 (0), 1-27. DOI: https://doi.org/10.1002/jclp.22500
+- Salamon, J., Jacoby, C., &amp; Bello, J. P. (2014). A Dataset and Taxonomy for Urban Sound Research. MM '14 Proceedings of the 22nd ACM International Conference on Multimedia , 3 , 1041-1044. DOI: https://doi. org/10.1145/2647868.2655045
+- Savard, M. A., Sares, A. G., Coffey, E. B. J., &amp; Deroche, M. L. D. (2022). Specificity of Affective Responses in Misophonia Depends on Trigger Identification. Frontiers in Neuroscience , 16 (879583), 1-17. DOI: https://doi. org/10.3389/fnins.2022.879583
+- Schröder, A., van Wingen, G., Eijsker, N., San, R., Vulink, N. C., Turbyne, C., &amp; Denys, D. (2019). Misophonia is associated with altered brain activity in the auditory cortex and salience network. Scientific Reports , 9 (7542), 1-9. DOI: https://doi.org/10.1038/s41598-019-44084-8
+- Schröder, A., Vulink, N., &amp; Denys, D. (2013). Misophonia Diagnostic Criteria for a New Psychiatric Disorder. PLoS ONE , 8 (1). DOI: https://doi.org/10.1371/journal.pone.0054706
+- Seaborne, A., &amp; Fiorella, L. (2018). Effects of background chewing sounds on learning: The role of misophonia sensitivity. Applied Cognitive Psychology , 32 (2), 264-269. DOI: https://doi.org/10.1002/acp.3387
+- Siepsiak, M., Vrana, S. R., Rynkiewicz, A., Rosenthal, M. Z., &amp; Dragan, W. Ł. (2023). Does context matter in misophonia? A multi-method experimental investigation. Frontiers in Neuroscience , 16 (880853), 1-16. DOI: https://doi. org/10.3389/fnins.2022.880853
+- Silva, F. E., &amp; Sanchez, T. G. (2018). Evaluation of selective attention in patients with misophonia. Brazilian Journal of Otorhinolaryngology , 1-7. DOI: https://doi.org/10.1016/j. bjorl.2018.02.005
+- Skagerstrand, Å., Köbler, S., &amp; Stenfelt, S. (2017). Loudness and annoyance of disturbing sounds-perception by normal hearing subjects. International Journal of Audiology , 56 (10), 775-783. DOI: https://doi.org/10.1080/1 4992027.2017.1321790
+- Swedo, S. E., Baguley, D. M., Denys, D., Dixon, L. J., Erfanian, M., Fioretti, A., Jastreboff, P. J., Kumar, S., Rosenthal, M. Z., Rouw, R., Schiller, D., Simner, J., Storch, E. A., Taylor, S., Werff, K. R. V., Altimus, C. M., &amp; Raver, S. M. (2022). Consensus Definition of Misophonia: A Delphi Study. Frontiers in Neuroscience , 16 (March), 1-16. DOI: https://doi. org/10.3389/fnins.2022.841816
+
+Vitoratou, S., Hayes, C., Uglik-Marucha, N., Pearson, O., Graham, T., &amp; Gregory, J. (2023). Misophonia in the
+
+UK: Prevalence and norms from the S-Five in a UK representative sample. PLoS ONE 18 , (3 March), 1-18. DOI: https://doi.org/10.1371/journal.pone.0282777
+
+Vitoratou, S., Uglik-Marucha, N., Hayes, C., Erfanian, M., Pearson, O., &amp; Gregory, J. (2021). Item Response Theory Investigation of Misophonia Auditory Triggers. Audiology Research 11 , (4), 567-581. DOI: https://doi.org/10.3390/ audiolres11040051
+
+Vitoratou, S., Uglik-Marucha, N., Hayes, C., &amp; Gregory, J. (2021). Listening to People with Misophonia: Exploring the Multiple Dimensions of Sound Intolerance Using a New Psychometric Tool, the S-Five, in a Large Sample of Individuals Identifying with the Condition. Psych 3 , (4), 639-662. DOI: https://doi.org/10.3390/psych3040041
+
+Wu, M. S., Lewin, A. B., Murphy, T. K., &amp; Storch, E. A. (2014). Misophonia: Incidence, phenomenology, and clinical correlates in an undergraduate student sample. Journal of Clinical Psychology , 70 (10), 994-1007. DOI: https://doi. org/10.1002/jclp.22098
+
+Zhou, X., Wu, M. S., &amp; Storch, E. A. (2017). Misophonia symptoms among Chinese university students: Incidence, associated impairment, and clinical correlates. Journal of Obsessive-Compulsive and Related Disorders , 14 , 7-12. DOI: https://doi.org/10.1016/j.jocrd.2017.05.001
+
+## PEER REVIEW COMMENTS
+
+Journal  of  Open  Psychology  Data has  blind  peer  review, which is unblinded upon article acceptance. The editorial history of this article can be downloaded here:
+
+- · PR File 1. Peer Review History. DOI: https://doi.org/10. 5334/jopd.94.pr1
+
+## TO CITE THIS ARTICLE:
+
+Orloff, D. M., Benesch, D., &amp; Hansen, H. A. (2023). Curation of FOAMS: a Free Open-Access Misophonia Stimuli Database. Journal of Open Psychology Data, 11: 15, pp. 1-8. DOI: https://doi.org/10.5334/jopd.94
+
+Submitted:
+
+24 May 2023
+
+Accepted: 26 July 2023
+
+Published:
+
+29 August 2023
+
+## COPYRIGHT:
+
+© 2023 The Author(s). This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See http://creativecommons.org/licenses/by/4.0/.
+
+Journal of Open Psychology Data is a peer-reviewed open access journal published by Ubiquity Press.
