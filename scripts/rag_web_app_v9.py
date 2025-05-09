@@ -93,18 +93,18 @@ def embed_cached(text):
 
 
 # Add regex patterns for bibliography detection
-_DOI_RE   = re.compile(r'\b10\.\d{4,9}/[-._;()/:A-Z0-9]+', re.I)
-_YEAR_RE  = re.compile(r'\((19|20)\d{2}\)')
+_DOI_RE   = re.compile(r'\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b', re.I)
+_YEAR_RE  = re.compile(r'\b(19|20)\d{2}\b')
 
 def looks_like_refs(text: str) -> bool:
-    """Return True if chunk is probably a bibliography list."""
-    doi_count   = len(_DOI_RE.findall(text))
-    year_count  = len(_YEAR_RE.findall(text))
-    comma_count = text.count(',')           # refs are comma‑dense
-    return (
-        doi_count >= 18 or
-        year_count >= 20
-    )
+    """
+    Return True if this chunk is likely just a bibliography list:
+      • more than 12 DOIs, or
+      • more than 15 year mentions.
+    """
+    doi_count  = len(_DOI_RE.findall(text))
+    year_count = len(_YEAR_RE.findall(text))
+    return doi_count > 12 or year_count > 15
 
 
 def semantic_search(
