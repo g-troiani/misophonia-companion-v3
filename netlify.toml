@@ -10,6 +10,7 @@
 
 [functions]
   directory = "netlify/functions"
+  external_node_modules = ["openai", "@supabase/supabase-js"]
 
 # Redirect all requests to index.html for SPA routing
 [[redirects]]
@@ -31,3 +32,7 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+[functions."rag"]   # file rag.js
+  node_bundler = "esbuild"
+  deno_import_map = "netlify/import_map.json" # only if you jump to Deno/Edge
