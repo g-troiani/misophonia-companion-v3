@@ -47,5 +47,15 @@ export default defineConfig({
         changeOrigin: true,
       }
     }
-  }
+  },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+      },
+    },
+  },
+  define: {
+    __APP_BUILD_TIME__: JSON.stringify(Date.now()),
+  },
 })
