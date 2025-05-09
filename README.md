@@ -6,6 +6,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <img src="public/vite.svg" alt="Logo" width="120" height="120">
+
 </p>
 
 <h1 align="center">Misophonia Companion</h1>
@@ -14,7 +15,7 @@
   <b>The modern, AI-powered guide and support tool for those living with misophonia.</b><br>
   <i>Built with React, Vite, Node.js, and OpenAI</i>
   <br><br>
-  <a href="https://misophonia-companion.windsurf.build"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://flourishing-sprite-c819cb.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
   <a href="https://github.com/mannino49/Misophonia-companion-v2"><img src="https://img.shields.io/github/stars/mannino49/Misophonia-companion-v2?style=for-the-badge" alt="GitHub Stars"></a>
 </p>
 
@@ -66,8 +67,8 @@ Misophonia Guide/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mannino49/Misophonia-companion-v2.git
-cd Misophonia-companion-v2
+git clone https://github.com/g-troiani/misophonia-companion-v3
+cd Misophonia-companion-v3
 ```
 
 ### 2. Install dependencies
@@ -100,7 +101,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-- Deployed on Netlify: [Live Demo](https://misophonia-companion.windsurf.build)
+- Deployed on Netlify: [Live Demo](https://flourishing-sprite-c819cb.netlify.app/)
 - Backend runs as a separate Node.js server (see `server/`)
 - All secrets are stored in environment variables and never exposed to the frontend.
 
