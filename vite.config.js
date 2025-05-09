@@ -13,7 +13,6 @@ export default defineConfig({
         runtimeCaching: [
           {
             urlPattern: /^\/api\/(chat|gemini|rag).*$/,
-            method: 'POST',
             handler: 'NetworkOnly',
             options: {
               backgroundSync: {
