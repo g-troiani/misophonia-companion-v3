@@ -61,8 +61,9 @@ async function groqHandler(messages, topic) {
   const completion = await groq.chat.completions.create({
     model                 : "qwen-qwq-32b", //'llama-3.3-70b-versatile',
     messages              : gMessages,
-    max_completion_tokens : 1024,
-    temperature           : 0.7,
+    max_completion_tokens : 4096,
+    temperature           : 0,
+    stream                : true,
   });
 
   return {
@@ -98,7 +99,7 @@ async function openaiHandler(messages, topic) {
     model: 'gpt-4o',
     messages: oaMessages,
     max_tokens: 1024,
-    temperature: 0.7,
+    temperature: 0,
   });
 
   return {

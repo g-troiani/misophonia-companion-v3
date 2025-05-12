@@ -276,8 +276,9 @@ export async function handler(event) {
     const chat = await groq.chat.completions.create({
       model: "qwen-qwq-32b", //'llama-3.3-70b-versatile',
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.3,
-      max_completion_tokens: 512,
+      temperature: 0,
+      max_completion_tokens: 4096,
+      stream: true,
     });
 
     const answerText = chat.choices[0].message.content.trim();
