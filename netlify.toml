@@ -1,22 +1,11 @@
 # File: netlify.toml
 
-# 1️⃣  Pin the Node runtime Netlify should use
+[build]
+  command = "npm run build"
+  publish = "dist"
+
 [build.environment]
   NODE_VERSION = "20"
-
-# 2️⃣  Standard build settings
-[build]
-  command = "npm run build"
-  publish = "dist"
-
-[dev]
-  command = "npm run dev"
-  targetPort = 5173
-
-# Netlify configuration for Misophonia Companion
-[build]
-  command = "npm run build"
-  publish = "dist"
 
 [dev]
   command = "npm run dev"
