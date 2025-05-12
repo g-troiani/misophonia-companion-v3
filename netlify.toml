@@ -1,4 +1,7 @@
 # File: netlify.toml
+
+[build.environment] NODE_VERSION = "20"
+
 # Netlify configuration for Misophonia Companion
 [build]
   command = "npm run build"
