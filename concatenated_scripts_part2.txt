@@ -1,5 +1,5 @@
 # Concatenated Project Code - Part 2 of 3
-# Generated: 2025-05-09 15:45:06
+# Generated: 2025-05-12 16:05:28
 # Root Directory: /Users/gianmariatroiani/Documents/misophonia-companion-v3
 ================================================================================
 
@@ -574,10 +574,10 @@ document.addEventListener("DOMContentLoaded",()=>{
 
 
 ################################################################################
-# File: scripts/rag_web_app_v9.py
+# File: scripts/rag_web_app_v10.py
 ################################################################################
 
-# File: scripts/rag_web_app_v9.py
+# File: scripts/rag_web_app_v10.py
 
 #!/usr/bin/env python3
 ################################################################################
@@ -831,7 +831,9 @@ def build_prompt(question: str, chunks: List[Dict]) -> str:
         )
 
     prompt_parts = [
-        "You are an expert assistant specialised in misophonia.",
+        "You are Misophonia Companion, a highly knowledgeable and empathetic AI assistant built to support clinicians, researchers, and individuals managing misophonia.",
+        "You draw on evidence from peer-reviewed literature, clinical guidelines, and behavioral science.",
+        "Your responses are clear, thoughtful, and grounded in the provided context.",
         "====",
         "QUESTION:",
         question,
@@ -840,22 +842,23 @@ def build_prompt(question: str, chunks: List[Dict]) -> str:
         *snippet_lines,
         "====",
         "INSTRUCTIONS:",
-        "• Write the answer in **Markdown**:",
-        "    – A one‑sentence overview",
-        "    – Then a numbered list of key findings (each ≤ 2 lines)",
-        "    – End with a short concluding sentence",
-        "• Cite sources inline like [1], [2] …",
-        "• After the answer, reproduce a section titled 'BIBLIOGRAPHY:'",
-        "  listing each source exactly as provided below (title included).",
-        "• If none of the chunks answer the question, reply:",
-        '  "I\'m sorry, I don\'t have sufficient information to answer that."',
+        "• Write your answer in **Markdown**.",
+        "• Begin with a concise summary (2–3 sentences).",
+        "• Then elaborate on key points using well-structured paragraphs.",
+        "• Provide relevant insights or suggestions (e.g., clinical, behavioral, emotional, or research-related).",
+        "• If helpful, use lists, subheadings, or analogies to enhance understanding.",
+        "• Use a professional and empathetic tone.",
+        "• Cite sources inline like [1], [2] etc.",
+        "• After the answer, include a 'BIBLIOGRAPHY:' section that lists each source exactly as provided below.",
+        "• If none of the context answers the question, reply: \"I'm sorry, I don't have sufficient information to answer that.\"",
         "====",
         "BEGIN OUTPUT",
         "ANSWER:",
-        "",                       # <- model writes here
+        "",  # where the model writes the main response
         "BIBLIOGRAPHY:",
         *biblio_lines,
     ]
+
 
     return '\n'.join(prompt_parts)
 
@@ -1307,462 +1310,281 @@ if __name__ == "__main__":
 
 
 ################################################################################
-# File: scripts/resilient_batch_embedding_generator_gian_v1.1.py
+# File: scripts/process_research_metadata.py
 ################################################################################
 
-# File: scripts/resilient_batch_embedding_generator_gian_v1.1.py
-
 #!/usr/bin/env python3
-###############################################################################
-###############################################################################
+################################################################################
+################################################################################
 """
-Resilient Batch Embedding Generator — Supabase edition (token‑safe v3‑fix)
-==========================================================================
+Research Metadata Processor
 
-• Pulls rows from `research_chunks` whose `embedding` is NULL
-  **and** `chunking_strategy = 'token_window'`.
-• Uses the *actual* token count stored in each row, so even weird
-  `/C111/C102/…` glyph dumps are handled correctly.
-• Sends slices that respect both:
-      – a *row* cutoff (`--commit`, default 100) and
-      – the model's 8 192‑token limit (we stop at ≤ 8 000).
-• UPSERTs vectors back to Supabase and writes a JSON run‑report.
+This script:
+1. Iterates over text files in documents/research/txt
+2. For each file:
+   - Takes first 3000 words from the text
+   - Makes an OpenAI API call with a specific prompt
+   - Updates the corresponding JSON file in documents/research/json
+   - Records processed files to avoid reprocessing on subsequent runs
 
-Environment
------------
-SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, OPENAI_API_KEY  must be set.
+Required environment variables:
+------------------------------
+OPENAI_API_KEY
+
+Usage:
+-----
+python process_research_metadata.py [--batch-size N] [--force] [--model MODEL]
 """
-
-from __future__ import annotations
 
 import argparse
 import json
 import logging
 import os
+import re
 import sys
-import time
 from datetime import datetime
-from typing import Any, Dict, List
+from pathlib import Path
+from typing import Dict, List, Any, Optional, Set
 
 from dotenv import load_dotenv
 from openai import OpenAI
-from supabase import create_client
 from tqdm import tqdm
 
-# ───────────────────────────── configuration ────────────────────────────── #
+# ─────────────────────────── Configuration ─────────────────────────────── #
 
 load_dotenv()
 
-SUPABASE_URL  = os.getenv("SUPABASE_URL")
-SUPABASE_KEY  = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY: Optional[str] = os.environ.get("OPENAI_API_KEY")
+DEFAULT_MODEL = "gpt-4.1-mini-2025-04-14"
 
-EMBEDDING_MODEL  = "text-embedding-ada-002"
+# Paths
+SCRIPT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = SCRIPT_DIR.parent
+TXT_DIR = ROOT_DIR / "documents" / "research" / "txt"
+JSON_DIR = ROOT_DIR / "documents" / "research" / "json"
+PROCESSED_FILE = ROOT_DIR / "scripts" / "processed_files.json"
 
-MODEL_TOKEN_LIMIT = 8_192         # model hard limit
-TOKEN_GUARD       = 200           # safety margin
-MAX_TOTAL_TOKENS  = MODEL_TOKEN_LIMIT - TOKEN_GUARD   # 8 000
-
-DEFAULT_BATCH_ROWS  = 5_000       # rows fetched from Supabase per outer loop
-DEFAULT_COMMIT_ROWS = 100         # max rows per single OpenAI request
-
-MAX_RETRIES = 5
-RETRY_DELAY = 2                   # seconds between retries
-
-openai_client = OpenAI(api_key=OPENAI_API_KEY)
-
+# Initialize logging
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s — %(levelname)s — %(message)s",
 )
 log = logging.getLogger(__name__)
 
-# ───────────────────────────── Supabase helpers ─────────────────────────── #
+# ─────────────────────────────── Helpers ────────────────────────────────── #
 
-def init_supabase():
-    if not SUPABASE_URL or not SUPABASE_KEY:
-        log.error("SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY not set.")
-        sys.exit(1)
-    return create_client(SUPABASE_URL, SUPABASE_KEY)
-
-
-def count_processed_chunks(sb) -> int:
-    res = (
-        sb.table("research_chunks")
-        .select("id", count="exact")
-        .not_.is_("embedding", "null")
-        .execute()
-    )
-    return res.count or 0
-
-
-def fetch_unprocessed_chunks(
-    sb, *, limit: int, offset: int = 0
-) -> List[Dict[str, Any]]:
-    """
-    Grab up to *limit* rows whose embedding IS NULL.
-    We also fetch token_start/end so we can trust the real token length.
-    """
-    first, last = offset, offset + limit - 1          # PostgREST uses inclusive range
-    res = (
-        sb.table("research_chunks")
-        .select("id,text,token_start,token_end")
-        .eq("chunking_strategy", "token_window")
-        .is_("embedding", "null")
-        .range(first, last)
-        .execute()
-    )
-    return res.data or []
-
-# ───────────────────────────  OpenAI interaction  ───────────────────────── #
-
-def generate_embedding_batch(texts: List[str]) -> List[List[float]]:
-    attempt = 0
-    while attempt < MAX_RETRIES:
-        try:
-            resp = openai_client.embeddings.create(
-                model=EMBEDDING_MODEL,
-                input=texts,
-            )
-            return [d.embedding for d in resp.data]
-        except Exception as exc:
-            attempt += 1
-            log.warning("Embedding batch %s/%s failed: %s",
-                        attempt, MAX_RETRIES, exc)
-            time.sleep(RETRY_DELAY)
-    raise RuntimeError("OpenAI embedding batch failed after retries")
-
-# ───────────────────────── token‑safe slicing helpers ────────────────────── #
-
-def chunk_tokens(row: Dict[str, Any]) -> int:
-    """
-    Return the best‑guess token length for a chunk.
-
-    Priority:
-    1.  Use token_end – token_start + 1  *if present and plausible*.
-        (Some PDFs have token_end values that balloon into 80‑90 k range;
-         we treat anything 0 < t ≤ 16 384 as plausible.)
-    2.  Fallback: estimate by words × 0.75, which is roughly the OpenAI
-        tokenizer ratio for English prose.  Cap to the model limit so we
-        never falsely mark a chunk as oversize.
-    """
-    try:
-        t = int(row["token_end"]) - int(row["token_start"]) + 1
-        if 0 < t <= 16_384:        # sane bound (2× GPT‑4o context)
-            return t
-    except Exception:
-        pass
-
-    txt = row.get("text", "") or ""
-    approx = int(len(txt.split()) * 0.75) + 1
-    return min(max(1, approx), MODEL_TOKEN_LIMIT)   # never exceed limit
-
-
-def safe_slices(
-    rows: List[Dict[str, Any]],
-    max_rows: int,
-) -> List[List[Dict[str, Any]]]:
-    """
-    Break *rows* into slices obeying BOTH limits:
-        • len(slice) ≤ max_rows
-        • Σ tokens(slice) ≤ MAX_TOTAL_TOKENS
-    """
-    slices: List[List[Dict[str, Any]]] = []
-    current: List[Dict[str, Any]] = []
-    cur_tokens = 0
-
-    for r in rows:
-        txt = (r.get("text") or "").replace("\x00", "")
-        if not txt.strip():
-            continue
-
-        t = chunk_tokens(r)
-
-        if t > MAX_TOTAL_TOKENS:
-            log.warning("Chunk %s is > %s tokens — skipping.", r["id"], MAX_TOTAL_TOKENS)
-            continue
-
-        need_new_slice = (
-            len(current) >= max_rows or
-            cur_tokens + t > MAX_TOTAL_TOKENS
-        )
-        if need_new_slice and current:
-            slices.append(current)
-            current = []
-            cur_tokens = 0
-
-        current.append({"id": r["id"], "text": txt})
-        cur_tokens += t
-
-    if current:
-        slices.append(current)
-    return slices
-
-
-def embed_slice(sb, slice_rows: List[Dict[str, Any]]) -> int:
-    """Generate embeddings for *slice_rows* and UPSERT them back. Returns #rows updated."""
-    embeds = generate_embedding_batch([r["text"] for r in slice_rows])
-    ok = 0
-    for row, emb in zip(slice_rows, embeds):
-        attempt = 0
-        while attempt < MAX_RETRIES:
-            res = (
-                sb.table("research_chunks")
-                .update({"embedding": emb})
-                .eq("id", row["id"])
-                .execute()
-            )
-            if getattr(res, "error", None):
-                attempt += 1
-                log.warning("Update %s failed (%s/%s): %s",
-                            row["id"], attempt, MAX_RETRIES, res.error)
-                time.sleep(RETRY_DELAY)
-            else:
-                ok += 1
-                break
-    return ok
-
-# ────────────────────────────────── main ────────────────────────────────── #
-
-def main() -> None:
-    ap = argparse.ArgumentParser(
-        description="Embed research_chunks where embedding IS NULL (token‑safe)"
-    )
-    ap.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_ROWS,
-                    help="rows fetched from Supabase per outer loop (default 5000)")
-    ap.add_argument("--commit", type=int, default=DEFAULT_COMMIT_ROWS,
-                    help="row‑cutoff per single OpenAI request (default 100)")
-    ap.add_argument("--skip", type=int, default=0,
-                    help="row offset for pagination / parallel runs")
-    ap.add_argument("--model", default=EMBEDDING_MODEL,
-                    help="override embedding model name")
-    ap.add_argument("--model-limit", type=int, default=MODEL_TOKEN_LIMIT,
-                    help="override model token limit (hard max context)")
-    args = ap.parse_args()
-
-    # allow quick overrides without editing the file
-    global EMBEDDING_MODEL, MODEL_TOKEN_LIMIT, MAX_TOTAL_TOKENS
-    EMBEDDING_MODEL   = args.model
-    MODEL_TOKEN_LIMIT = args.model_limit
-    MAX_TOTAL_TOKENS  = MODEL_TOKEN_LIMIT - TOKEN_GUARD
-
-    if not OPENAI_API_KEY:
-        log.error("OPENAI_API_KEY not set.")
-        sys.exit(1)
-
-    sb = init_supabase()
-    log.info("Rows already embedded: %s", count_processed_chunks(sb))
-
-    loop = 0
-    total_embedded = 0
-    while True:
-        loop += 1
-        rows = fetch_unprocessed_chunks(sb, limit=args.batch_size, offset=args.skip)
-        if not rows:
-            log.info("✨  Done — no more rows needing embeddings.")
-            break
-
-        log.info("Loop %s — fetched %s rows needing embeddings.", loop, len(rows))
-        slices = safe_slices(rows, args.commit)
-        log.info("Created %s token‑safe OpenAI requests.", len(slices))
-
-        for sl in tqdm(slices, desc=f"Embedding loop {loop}", unit="batch"):
+def load_processed_files() -> Set[str]:
+    """Load the set of already processed files."""
+    if PROCESSED_FILE.exists():
+        with open(PROCESSED_FILE, "r") as f:
             try:
-                total_embedded += embed_slice(sb, sl)
-            except Exception as exc:
-                log.error("Slice failed: %s", exc)
+                return set(json.load(f))
+            except json.JSONDecodeError:
+                log.warning("Error decoding processed files list, starting fresh")
+    return set()
 
-        log.info("Loop %s complete – total embedded so far: %s", loop, total_embedded)
+def save_processed_files(processed: Set[str]) -> None:
+    """Save the set of processed files."""
+    with open(PROCESSED_FILE, "w") as f:
+        json.dump(list(processed), f, indent=2)
 
-    # -------------  JSON report  ------------- #
-    ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-    report = {
-        "timestamp": ts,
-        "batch_size": args.batch_size,
-        "commit": args.commit,
-        "skip": args.skip,
-        "total_embedded": total_embedded,
-        "total_with_embeddings": count_processed_chunks(sb),
-    }
-    fname = f"supabase_embedding_report_{ts}.json"
-    with open(fname, "w") as fp:
-        json.dump(report, fp, indent=2)
-    log.info("Report saved to %s", fname)
+def extract_first_n_words(text: str, n: int = 3000) -> str:
+    """Extract first n words from text."""
+    words = text.split()
+    return " ".join(words[:n])
 
+def get_corresponding_json_path(txt_path: Path) -> Path:
+    """Get the path to the corresponding JSON file."""
+    return JSON_DIR / f"{txt_path.stem}.json"
 
-if __name__ == "__main__":        # pragma: no cover
-    main()
+def generate_metadata(client: OpenAI, text: str, model: str) -> Dict[str, Any]:
+    """Call OpenAI API to generate metadata from text."""
+    prompt = f"""
+Extract the following metadata from this scientific paper and return exactly one JSON object with keys:
+  • doc_type (e.g. "scientific paper")
+  • title
+  • authors (array of strings)
+  • year (integer)
+  • journal (string or null)
+  • DOI (string or null)
+  • abstract (string or null)
+  • keywords (array of strings)
+  • research_topics (array of strings)
 
+If a field is not present, set it to null or an empty array. Here is the paper's full text:
 
-================================================================================
-
-
-################################################################################
-# File: scripts/test_vector_search.py
-################################################################################
-
-#!/usr/bin/env python3
-################################################################################
-################################################################################
-"""
-Vector‑search smoke‑test (Supabase edition)
-==========================================
-
-• Firebase/Firestore has been removed — every data call now goes through
-  Supabase's PostgREST API.
-
-• The script calls a SQL helper function that must exist on your database:
-    public.search_research_chunks(query_text TEXT,
-                                  match_count INT DEFAULT 10,
-                                  similarity_threshold REAL DEFAULT 0.6)
-  which should:
-    1. embed the incoming `query_text`
-    2. invoke your `match_documents` similarity function
-    3. return the top‑`match_count` rows as
-       (id UUID, text TEXT, metadata JSONB, similarity REAL)
-
-  See README / earlier instructions for a ready‑made implementation.
-
-Environment variables required
-------------------------------
-SUPABASE_URL                 – e.g. https://xxxx.supabase.co
-SUPABASE_SERVICE_ROLE_KEY    – or an anon key if RLS permits the RPC
-OPENAI_API_KEY               – only if your SQL helper embeds via an HTTP call
+{text}
 """
 
-from __future__ import annotations
-
-import os
-import sys
-import time
-from typing import Any, Dict, List
-
-from dotenv import load_dotenv
-from supabase import create_client
-from openai import OpenAI
-
-# ──────────────────────── configuration & sanity checks ───────────────────── #
-
-load_dotenv()
-
-# ---------- Supabase config ----------
-SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")   # or anon if RLS permits
-sb = create_client(SUPABASE_URL, SUPABASE_KEY)
-
-if not SUPABASE_URL or not SUPABASE_KEY:
-    sys.exit(
-        "❌  SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY env vars are missing.\n"
-        "    export them and rerun."
-    )
-
-# Sample questions to probe the index
-SAMPLE_QUERIES: List[str] = [
-    "What are the symptoms of misophonia?",
-    "How prevalent is misophonia in university students?",
-    "What is the relationship between misophonia and hyperacusis?",
-    "What treatments are effective for misophonia?",
-    "How does misophonia affect quality of life?",
-]
-
-# Add this after other configuration
-openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-def embed(text: str) -> List[float]:
-    """Return OpenAI ada‑002 embedding (1536‑dim list of floats)."""
-    resp = openai_client.embeddings.create(
-        model="text-embedding-ada-002",
-        input=text,
-    )
-    return resp.data[0].embedding
-
-# ─────────────────────────── helper functions ─────────────────────────────── #
-
-
-def perform_vector_search(query_vec, top_k=5, thresh=0.6):
-    """
-    Call the SQL RPC we just created.
-    `query_vec` is a list[float] length 1536 coming from OpenAI.
-    """
     try:
-        resp = sb.rpc(
-            "search_research_chunks",
-            {
-                "query_embedding": query_vec,
-                "match_count": top_k,
-                "similarity_threshold": thresh,
-            },
-        ).execute()
-        if getattr(resp, "error", None):
-            raise RuntimeError(resp.error)
-        return resp.data or []
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": "You are an assistant that extracts structured metadata from scientific papers."},
+                {"role": "user", "content": prompt}
+            ]
+        )
+        
+        content = response.choices[0].message.content
+        
+        # Extract JSON from response (in case there's additional text)
+        json_match = re.search(r'({[\s\S]*})', content)
+        if json_match:
+            content = json_match.group(1)
+            
+        return json.loads(content)
     except Exception as e:
-        print(f"   ⚠  RPC failed: {e}")
-        return []
+        log.error(f"Error calling OpenAI API: {e}")
+        raise
 
+def update_json_file(json_path: Path, metadata: Dict[str, Any]) -> None:
+    """Update JSON file with metadata from API response."""
+    try:
+        # Create if not exists
+        if not json_path.exists():
+            json_data = {
+                "doc_type": "scientific paper",
+                "title": "",
+                "authors": [],
+                "year": None,
+                "journal": None,
+                "doi": None,
+                "abstract": None,
+                "keywords": [],
+                "research_topics": [],
+                "created_at": datetime.utcnow().isoformat() + "Z",
+                "source_pdf": "",
+                "sections": []
+            }
+        else:
+            # Read existing JSON file
+            with open(json_path, "r", encoding="utf-8") as f:
+                json_data = json.load(f)
 
-def print_results(rows: List[Dict[str, Any]]) -> None:
-    """
-    Nicely format the search results.
-    """
-    if not rows:
-        print("   (no matches)\n")
-        return
+        # Update with new metadata
+        for key, value in metadata.items():
+            if key in json_data and value not in (None, [], ""):
+                json_data[key] = value
 
-    for idx, row in enumerate(rows, 1):
-        meta = row.get("metadata", {}) or {}
-        title = meta.get("title", "Unknown title")
-        year = meta.get("year", "????")
-        author = meta.get("primary_author", "Unknown author")
-        sim = row.get("similarity", 0.0)
+        # Write updated JSON file
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(json_data, f, indent=2, ensure_ascii=False)
+            
+        return True
+    except Exception as e:
+        log.error(f"Error updating JSON file {json_path}: {e}")
+        return False
 
-        snippet = (row.get("text", "") or "").replace("\n", " ")[:280] + "…"
+# ────────────────────────────── Main Process ────────────────────────────── #
 
-        print(f"\nResult {idx}  •  sim={sim:.3f}")
-        print(f"  {title} — {author} ({year})")
-        print(f"  {snippet}")
-
-
-# ────────────────────────────────── main ──────────────────────────────────── #
-
+def process_files(client: OpenAI, batch_size: int, force: bool, model: str) -> Dict[str, Any]:
+    """Process text files and update JSON files with metadata."""
+    results = {
+        "processed": 0,
+        "skipped": 0,
+        "errors": 0,
+        "file_results": []
+    }
+    
+    # Get all text files
+    txt_files = list(TXT_DIR.glob("*.txt"))
+    log.info(f"Found {len(txt_files)} text files in {TXT_DIR}")
+    
+    # Load set of processed files
+    processed_files = set() if force else load_processed_files()
+    
+    # Filter unprocessed files or limit to batch size
+    if not force:
+        txt_files = [f for f in txt_files if f.name not in processed_files]
+    
+    log.info(f"Found {len(txt_files)} unprocessed files")
+    if batch_size > 0:
+        txt_files = txt_files[:batch_size]
+        log.info(f"Processing batch of {len(txt_files)} files")
+    
+    # Process each file
+    for txt_path in tqdm(txt_files, desc="Processing files"):
+        # Log the current file being processed
+        log.info(f"Processing file: {txt_path.name}")
+        
+        file_result = {
+            "file": txt_path.name,
+            "success": False,
+            "error": None
+        }
+        
+        try:
+            # Read text file
+            with open(txt_path, "r", encoding="utf-8") as f:
+                text = f.read()
+            
+            # Extract first 3000 words
+            truncated_text = extract_first_n_words(text)
+            
+            # Generate metadata - log that we're calling the API
+            log.info(f"Calling OpenAI API for: {txt_path.name}")
+            metadata = generate_metadata(client, truncated_text, model)
+            
+            # Get corresponding JSON path
+            json_path = get_corresponding_json_path(txt_path)
+            
+            # Update JSON file
+            log.info(f"Updating JSON file for: {txt_path.name}")
+            if update_json_file(json_path, metadata):
+                file_result["success"] = True
+                processed_files.add(txt_path.name)
+                results["processed"] += 1
+                log.info(f"Successfully processed: {txt_path.name}")
+            else:
+                file_result["error"] = "Failed to update JSON file"
+                results["errors"] += 1
+                log.error(f"Failed to update JSON for: {txt_path.name}")
+                
+        except Exception as e:
+            file_result["error"] = str(e)
+            results["errors"] += 1
+            log.error(f"Error processing {txt_path.name}: {e}")
+            
+        results["file_results"].append(file_result)
+    
+    # Save processed files
+    save_processed_files(processed_files)
+    
+    return results
 
 def main() -> None:
-    print("\n🔍  Supabase vector search smoke‑test\n" + "—" * 60)
-    for i, q in enumerate(SAMPLE_QUERIES, 1):
-        print(f'\nQuery {i + 1}/{len(SAMPLE_QUERIES)}: "{q}"')
-
-
-        # 1. get the vector
-        print("Generating embedding...")
-        query_vec = embed(q)  # Python list[float]
-
-        # 2. PostgREST / Postgres expects a *string* like: [0.1,0.2,…]
-        vec_literal = "[" + ",".join(f"{x:.6f}" for x in query_vec) + "]"
-
-        # 3. call the RPC
-        print("Performing vector search...")
-        resp = sb.rpc(
-            "search_research_chunks",
-            {
-                "query_embedding": vec_literal,  # <- NOT the raw text
-                "match_count": 5,
-                "similarity_threshold": 0.6,
-            },
-        ).execute()
-        
-        if getattr(resp, "error", None):
-            print(f"   ⚠  RPC failed: {resp.error}\n")
-            continue
-            
-        results = resp.data or []
-        print_results(results)
-
-        if i < len(SAMPLE_QUERIES):
-            print("\nPausing 2 s before the next query …")
-            time.sleep(2)
-
-    print("\n✔  Done")
-
+    """Main entry point."""
+    parser = argparse.ArgumentParser(description="Process research files and extract metadata using OpenAI API")
+    parser.add_argument("--batch-size", type=int, default=0, help="Number of files to process (0 = all)")
+    parser.add_argument("--force", action="store_true", help="Process all files even if previously processed")
+    parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help="OpenAI model to use")
+    args = parser.parse_args()
+    
+    # Check for OpenAI API key
+    if not OPENAI_API_KEY:
+        log.error("OPENAI_API_KEY not set. Please set it in your environment variables.")
+        sys.exit(1)
+    
+    # Initialize OpenAI client
+    client = OpenAI(api_key=OPENAI_API_KEY)
+    
+    # Create directories if they don't exist
+    TXT_DIR.mkdir(parents=True, exist_ok=True)
+    JSON_DIR.mkdir(parents=True, exist_ok=True)
+    
+    # Process files
+    log.info(f"Starting metadata extraction with model: {args.model}")
+    results = process_files(client, args.batch_size, args.force, args.model)
+    
+    # Output results
+    log.info(f"Processing complete: {results['processed']} processed, {results['skipped']} skipped, {results['errors']} errors")
+    
+    # Save report
+    ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    report_path = ROOT_DIR / f"metadata_extraction_report_{ts}.json"
+    with open(report_path, "w") as f:
+        json.dump(results, f, indent=2)
+    log.info(f"Report saved to {report_path}")
 
 if __name__ == "__main__":
     main()
@@ -1772,139 +1594,452 @@ if __name__ == "__main__":
 
 
 ################################################################################
-# File: README.md
+# File: scripts/templates/index.html
 ################################################################################
 
+<!-- 
+File: scripts/templates/index.html
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Misophonia Research RAG Interface</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body{padding:20px;background:#f8f9fa}
+    .container{max-width:1000px;margin:0 auto}
+    .header{text-align:center;margin-bottom:30px}
+    .search-box{margin-bottom:20px}
+    .results-container{margin-top:20px}
+    .result-card{margin-bottom:15px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,.1)}
+    .result-card .card-header{font-weight:bold;display:flex;justify-content:space-between}
+    .loading{text-align:center;padding:20px;display:none}
+    .response-container{margin-top:30px;padding:20px;background:#fff;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,.1)}
+    pre { background:#f8f9fa;border:0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Misophonia Research RAG Interface</h1>
+      <p class="text-muted">Search across research documents with semantic retrieval</p>
+    </div>
+
+    <div class="search-box">
+      <div class="input-group mb-3">
+        <input type="text" id="search-input" class="form-control form-control-lg"
+               placeholder="Ask a question about misophonia…" aria-label="Search query">
+        <button class="btn btn-primary" type="button" id="search-button">Search</button>
+      </div>
+      <div class="form-text">Try questions about treatments, neurological basis, symptoms, or coping strategies</div>
+    </div>
+
+    <div class="loading" id="loading">
+      <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Loading…</span>
+      </div>
+      <p>Searching research documents and generating response…</p>
+    </div>
+
+    <div id="response-area" style="display:none">
+      <div class="response-container">
+        <h3>Research‑Based Answer</h3>
+        <div id="response-content"></div>
+      </div>
+
+      <div class="results-container">
+        <h3>Source Documents</h3>
+        <div id="results-list"></div>
+      </div>
+    </div>
+  </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded",()=>{
+  const $q      = document.getElementById("search-input");
+  const $btn    = document.getElementById("search-button");
+  const $load   = document.getElementById("loading");
+  const $resp   = document.getElementById("response-area");
+  const $respCt = document.getElementById("response-content");
+  const $list   = document.getElementById("results-list");
+
+  async function doSearch(){
+    const query=$q.value.trim();
+    if(!query) return;
+
+    $load.style.display="block";
+    $resp.style.display="none";
+
+    try{
+      const res=await fetch("/search",{
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({query,limit:5})
+      });
+      if(!res.ok){
+        let msg=`Server error (${res.status})`;
+        try{msg=(await res.json()).error||msg;}catch{}
+        throw new Error(msg);
+      }
+      const data=await res.json();
+
+      $respCt.innerHTML=`<p>${String(data.response||"").replace(/\n/g,"<br>")}</p>`;
+      $list.innerHTML="";
+
+      (data.results||[]).forEach((r,i)=>{
+        const m = r.metadata;
+        const card=document.createElement("div");
+        card.className="card result-card";
+        card.innerHTML=`
+          <div class="card-header bg-light d-flex justify-content-between align-items-center"
+               data-bs-toggle="collapse" data-bs-target="#chunk-${i}">
+            <span>${r.source}</span>
+            <span class="badge bg-primary opacity-75">${r.match_type}</span>
+          </div>
+          <div id="chunk-${i}" class="collapse show">
+            <div class="card-body">
+              <div class="d-flex justify-content-between align-items-baseline">
+                <strong>
+                  ${m.journal} (${m.year})
+                </strong>
+                ${m.doi ? `<a href="https://doi.org/${m.doi}" target="_blank" class="badge bg-primary">DOI</a>` : ''}
+              </div>
+
+              <h4 class="card-title">${m.title}</h4>
+              <small class="text-muted">${m.section}</small>
+
+              <p class="mb-0">
+                <em>${m.authors}</em><br>
+                ${m.volume ? `${m.journal} ${m.volume}${m.issue ? \`(\${m.issue})\` : ''}:` : ''}
+                ${m.page_range}
+              </p>
+
+              <div class="mb-2 small text-muted">Similarity: ${(r.similarity??0).toFixed(4)}</div>
+              <pre class="small text-muted mb-0" style="white-space:pre-wrap;">${r.chunk||""}</pre>
+            </div>
+          </div>`;
+        $list.appendChild(card);
+      });
+
+    }catch(err){
+      $respCt.innerHTML=`<div class="alert alert-warning">${err.message}</div>`;
+      $list.innerHTML="";
+    }finally{
+      $load.style.display="none";
+      $resp.style.display="block";
+    }
+  }
+
+  $btn.addEventListener("click",doSearch);
+  $q.addEventListener("keypress",e=>{if(e.key==="Enter")doSearch();});
+});
+</script>
+</body>
+</html>
+
+
+================================================================================
+
+
 ################################################################################
+# File: netlify/functions/research.js
 ################################################################################
 
-<!-- PROJECT LOGO -->
-<p align="center">
-  <img src="public/vite.svg" alt="Logo" width="120" height="120">
+// File: netlify/functions/research.js
 
-</p>
+/**
+ * Topic-aware “Research Assistant”
+ * Supports OpenAI **or** Gemini depending on AI_PROVIDER env var.
+ *
+ * POST /.netlify/functions/research
+ * Body: { messages:[…], topic?:string }
+ *
+ * ENV:
+ *   AI_PROVIDER          openai | gemini      (default openai)
+ *   OPENAI_API_KEY       required if provider=openai
+ *   GEMINI_API_KEY       required if provider=gemini
+ */
 
-<h1 align="center">Misophonia Companion</h1>
+import 'dotenv/config';
+import { OpenAI } from 'openai';
 
-<p align="center">
-  <b>The modern, AI-powered guide and support tool for those living with misophonia.</b><br>
-  <i>Built with React, Vite, Node.js, and OpenAI</i>
-  <br><br>
-  <a href="https://flourishing-sprite-c819cb.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
-  <a href="https://github.com/mannino49/Misophonia-companion-v2"><img src="https://img.shields.io/github/stars/mannino49/Misophonia-companion-v2?style=for-the-badge" alt="GitHub Stars"></a>
-</p>
+// ─────────────────────────────────────────────────────────────
+const AI_PROVIDER = (process.env.AI_PROVIDER ?? 'openai').toLowerCase();
+// ─────────────────────────────────────────────────────────────
 
----
+/* -----------------------------------------------------------
+ * Common helpers
+ * --------------------------------------------------------- */
+function badRequest(msg) {
+  return {
+    statusCode: 400,
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ error: msg }),
+  };
+}
 
-## 🚀 Features
+function serverError(msg, details) {
+  if (details) console.error(details);
+  return {
+    statusCode: 500,
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ error: msg }),
+  };
+}
 
-- **Conversational AI Chatbot:** Powered by OpenAI, get real-time support and information.
-- **Soundscape Player:** Customizable soundscapes to help manage triggers.
-- **Modern UI:** Responsive, accessible, and visually appealing interface.
-- **Progressive Web App:** Installable and works offline.
-- **Secure Backend:** All API keys and secrets are kept on the server, never exposed to the client.
+/* ===========================================================
+ *  OpenAI branch
+ * ========================================================= */
+async function openaiHandler(messages, topic) {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) return serverError('OPENAI_API_KEY missing');
 
----
+  const openai = new OpenAI({ apiKey });
 
-## 🖥️ Tech Stack
+  const systemPrompt = topic
+    ? `You are a knowledgeable research assistant focusing on “${topic}”. Provide accurate, concise information about misophonia research.`
+    : 'You are a knowledgeable research assistant on misophonia research.';
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</div>
+  const oaMessages = [
+    { role: 'system', content: systemPrompt },
+    ...messages,
+  ];
 
----
+  const completion = await openai.chat.completions.create({
+    model: 'gpt-4o',
+    messages: oaMessages,
+    max_tokens: 1024,
+    temperature: 0.7,
+  });
 
-## 📦 Project Structure
+  return {
+    statusCode: 200,
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({
+      reply: completion.choices?.[0]?.message?.content ?? '',
+      structured: null,
+      provider: 'openai',
+    }),
+  };
+}
 
-```shell
-Misophonia Guide/
-├── public/                # Static assets (icons, manifest)
-├── src/                   # React frontend source
-│   ├── App.jsx            # Main app logic
-│   ├── main.jsx           # React entry point
-│   └── ...
-├── server/                # Node.js/Express backend
-│   ├── index.js           # API server entry
-│   └── ...
-├── netlify.toml           # Netlify deployment config
-├── package.json           # Frontend config
-└── ...
-```
+/* ===========================================================
+ *  Gemini branch
+ * ========================================================= */
+async function geminiHandler(messages, topic) {
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey) return serverError('GEMINI_API_KEY missing');
 
----
+  // Build user prompt
+  let userPrompt = '';
+  if (topic) userPrompt += `Topic: ${topic}\n`;
+  userPrompt += messages
+    .map(
+      (m) => `${m.role === 'user' ? 'User' : 'Assistant'}: ${m.content}`
+    )
+    .join('\n');
 
-## ⚡ Getting Started
+  const resp = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro-preview-03-25:generateContent?key=${apiKey}`,
+    {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ role: 'user', parts: [{ text: userPrompt }] }],
+        generationConfig: { temperature: 0.7, maxOutputTokens: 1024 },
+        tools: [
+          {
+            function_declarations: [
+              {
+                name: 'structured_output',
+                description:
+                  'Return information in a structured JSON format for chat display, with sections, bullet points, and highlights.',
+              },
+            ],
+          },
+        ],
+      }),
+    }
+  );
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/g-troiani/misophonia-companion-v3
-cd Misophonia-companion-v3
-```
+  if (!resp.ok) {
+    const errText = await resp.text().catch(() => '');
+    return serverError('Error from Gemini API', errText);
+  }
 
-### 2. Install dependencies
-```bash
-npm install
-cd server && npm install
-```
+  const data = await resp.json();
 
-### 3. Set up environment variables
-- Copy `.env.example` to `.env` in the `server/` directory and add your OpenAI API key:
-```
-OPENAI_API_KEY=your_openai_key_here
-```
+  let structured = null;
+  try {
+    const part = data.candidates?.[0]?.content?.parts?.[0];
+    if (part?.functionCall?.name === 'structured_output') {
+      structured = JSON.parse(part.functionCall.args.json || '{}');
+    }
+  } catch {
+    // swallow JSON parse errors – keep structured=null
+  }
 
-### 4. Run the backend server
-```bash
-cd server
-npm start
-```
+  const reply =
+    data.candidates?.[0]?.content?.parts?.[0]?.text ?? '';
 
-### 5. Run the frontend (in a new terminal)
-```bash
-npm run dev
-```
+  return {
+    statusCode: 200,
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ reply, structured, provider: 'gemini' }),
+  };
+}
 
-- Frontend: [http://localhost:5173](http://localhost:5173)
-- Backend API: [http://localhost:3001](http://localhost:3001)
+/* ===========================================================
+ *  Netlify Function entry-point
+ * ========================================================= */
+export async function handler(event /* , context */) {
+  if (event.httpMethod !== 'POST') {
+    return { statusCode: 405, body: 'Method Not Allowed' };
+  }
 
----
+  // ─── parse body ──────────────────────────────────────────
+  let body;
+  try {
+    body = JSON.parse(event.body ?? '{}');
+  } catch {
+    return badRequest('Invalid JSON');
+  }
 
-## 🌐 Deployment
+  const { messages, topic } = body;
+  if (!Array.isArray(messages) || messages.length === 0) {
+    return badRequest('messages array required');
+  }
 
-- Deployed on Netlify: [Live Demo](https://flourishing-sprite-c819cb.netlify.app/)
-- Backend runs as a separate Node.js server (see `server/`)
-- All secrets are stored in environment variables and never exposed to the frontend.
+  try {
+    if (AI_PROVIDER === 'gemini') {
+      return await geminiHandler(messages, topic);
+    }
+    // default → openai
+    return await openaiHandler(messages, topic);
+  } catch (err) {
+    return serverError(
+      `Unexpected ${AI_PROVIDER} handler failure`,
+      err
+    );
+  }
+}
 
----
 
-## 🛡️ Security & Best Practices
+================================================================================
 
-- **No secrets or API keys are stored in the frontend.**
-- **.env files and private keys are gitignored.**
-- **Backend validates API key presence and never exposes it to the client.**
 
----
+################################################################################
+# File: netlify/functions/rag_before_copying_python_logic.js
+################################################################################
 
-## 🤝 Contributing
+// File: netlify/functions/rag_before_copying_python_logic.js
 
-Contributions are welcome! Please open issues or submit pull requests.
+// netlify/functions/rag.js
+import 'dotenv/config';
+import { createClient } from '@supabase/supabase-js';
+import OpenAI from 'openai';
 
----
+// ─── clients ──────────────────────────────────────────
+const sb = createClient(
+  process.env.SUPABASE_URL,
+  process.env.SUPABASE_SERVICE_ROLE_KEY
+);
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-## 📄 License
+// ─── tiny cosine helper ───────────────────────────────
+function cosine(a, b) {
+  let dot = 0, na = 0, nb = 0;
+  for (let i = 0; i < a.length; i++) {
+    dot += a[i] * b[i];
+    na  += a[i] * a[i];
+    nb  += b[i] * b[i];
+  }
+  return dot / (Math.sqrt(na) * Math.sqrt(nb) + 1e-9);
+}
 
-MIT License. See [LICENSE](LICENSE) for details.
+// ─── Netlify Lambda entry-point ───────────────────────
+export async function handler(event) {
+  if (event.httpMethod !== 'POST') {
+    return { statusCode: 405, body: 'Method Not Allowed' };
+  }
 
----
+  let body;
+  try { body = JSON.parse(event.body ?? '{}'); }
+  catch { return { statusCode: 400, body: 'Bad JSON' }; }
 
-<p align="center">
-  <b>Made with ❤️ by Mannino49</b>
-</p>
+  const query = (body.query || '').trim();
+  const limit = body.limit || 8;
+  if (!query) {
+    return { statusCode: 400, body: 'Query required' };
+  }
+
+  try {
+    /* 1. Embed the query */
+    const emb = await openai.embeddings.create({
+      model: 'text-embedding-ada-002',
+      input: query,
+    });
+    const qVec = emb.data[0].embedding;
+
+    /* 2. RPC match (over-fetch 4×, then rerank) */
+    const { data: rows } = await sb.rpc('match_research_chunks', {
+      query_embedding: qVec,
+      match_threshold: 0,
+      match_count: limit * 4,
+    });
+
+    if (!rows?.length) {
+      return {
+        statusCode: 200,
+        body: JSON.stringify({ answer: 'No relevant documents found.', results: [] })
+      };
+    }
+
+    const ranked = rows
+      .map(r => ({ ...r, similarity: cosine(qVec, r.embedding) }))
+      .sort((a, b) => b.similarity - a.similarity)
+      .slice(0, limit);
+
+    /* 3. Build prompt */
+    const ctx = ranked.map((r, i) =>
+      `[${i + 1}] ${r.text.replace(/\s+/g, ' ').slice(0, 800)}`
+    ).join('\n');
+
+    const prompt = `
+Answer strictly from the sources below; cite like [1], [2] …
+
+QUESTION: "${query}"
+
+SOURCES:
+${ctx}`.trim();
+
+    /* 4. GPT-4o */
+    const chat = await openai.chat.completions.create({
+      model: 'gpt-4o',
+      messages: [
+        { role: 'system', content: 'You are a misophonia research assistant.' },
+        { role: 'user', content: prompt }
+      ],
+      max_tokens: 700,
+      temperature: 0.2,
+    });
+
+    ranked.forEach(r => delete r.embedding);   // strip big vectors
+
+    return {
+      statusCode: 200,
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ answer: chat.choices[0].message.content, results: ranked })
+    };
+  } catch (err) {
+    console.error(err);
+    return { statusCode: 500, body: JSON.stringify({ error: String(err) }) };
+  }
+}
 
 
 ================================================================================
@@ -1919,8 +2054,9 @@ MIT License. See [LICENSE](LICENSE) for details.
 import React, { useState } from 'react';
 import { marked } from 'marked';
 
-// ⬇️  NEW DEFAULT:  falls back to “/api/rag” in production/PWA
-const API = import.meta.env.VITE_RAG_ENDPOINT || '/api/rag';
+// ⬇️  NEW DEFAULT:  falls back to " /api/rag" in production/PWA
+//const API = import.meta.env.VITE_RAG_ENDPOINT || '/api/rag';
+const API = import.meta.env.VITE_RAG_ENDPOINT || '/.netlify/functions/rag';
 
 export default function RagAssistant() {
   const [q, setQ] = useState('');
@@ -1933,16 +2069,22 @@ export default function RagAssistant() {
     if (!q.trim()) return;
     setLoading(true);
 
-    const r = await fetch(API, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ query: q, limit: 8 })
-    });
-
-    const d = await r.json();
-    setAnswer(d.answer ? marked.parse(d.answer) : 'No answer.');
-    setResults(d.results || []);
-    setLoading(false);
+    try {
+      const r = await fetch(API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query: q, limit: 8 })
+      });
+      if (!r.ok) throw new Error(`Server responded ${r.status}`);
+      const d = await r.json();
+      setAnswer(d.answer ? marked.parse(d.answer) : 'No answer.');
+      setResults(d.results || []);
+    } catch (err) {
+      setAnswer(`<p style="color:red;">${err.message}</p>`);
+      setResults([]);
+    } finally {
+      setLoading(false);    // always clear spinner
+    }
   };
 
   return (
@@ -2068,53 +2210,74 @@ export async function handler(event, context) {
 
 
 ################################################################################
-# File: netlify/functions/rag.js
+# File: src/index.css
 ################################################################################
 
-// File: netlify/functions/rag.js
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
 
-/**
- * Proxy to the Python RAG service (Flask) OR any upstream REST endpoint.
- * POST /.netlify/functions/rag    →  { query, limit? }
- *
- * Required ENV:
- *   RAG_HOST               e.g. https://misophonia-rag.fly.dev  (no trailing /)
- *
- * Optional:
- *   RAG_TIMEOUT_MS         default 30000
- */
-import 'dotenv/config';
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
 
-const RAG_HOST = process.env.RAG_HOST ?? 'http://localhost:8080';
-const TIMEOUT  = Number(process.env.RAG_TIMEOUT_MS ?? 30_000);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-export async function handler(event /* , context */) {
-  if (event.httpMethod !== 'POST') {
-    return { statusCode: 405, body: 'Method Not Allowed' };
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
   }
-
-  try {
-    const upstream = await fetch(`${RAG_HOST}/search`, {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body:     event.body,
-      signal:   AbortSignal.timeout(TIMEOUT),
-    });
-
-    const text = await upstream.text();     // pass through raw
-
-    return {
-      statusCode: upstream.status,
-      headers: { 'content-type': 'application/json' },
-      body: text,
-    };
-  } catch (err) {
-    console.error('RAG proxy error →', err);
-    return {
-      statusCode: 500,
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ error: 'Error contacting RAG service' }),
-    };
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
   }
 }
 
@@ -2123,107 +2286,87 @@ export async function handler(event /* , context */) {
 
 
 ################################################################################
-# File: eslint.config.js
+# File: netlify.toml
 ################################################################################
 
-import js from '@eslint/js'
-import globals from 'globals'
-import reactHooks from 'eslint-plugin-react-hooks'
-import reactRefresh from 'eslint-plugin-react-refresh'
+# Netlify configuration for Misophonia Companion
+[build]
+  command = "npm run build"
+  publish = "dist"
 
-export default [
-  { ignores: ['dist'] },
-  {
-    files: ['**/*.{js,jsx}'],
-    languageOptions: {
-      ecmaVersion: 2020,
-      globals: globals.browser,
-      parserOptions: {
-        ecmaVersion: 'latest',
-        ecmaFeatures: { jsx: true },
-        sourceType: 'module',
-      },
-    },
-    plugins: {
-      'react-hooks': reactHooks,
-      'react-refresh': reactRefresh,
-    },
-    rules: {
-      ...js.configs.recommended.rules,
-      ...reactHooks.configs.recommended.rules,
-      'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
-      'react-refresh/only-export-components': [
-        'warn',
-        { allowConstantExport: true },
-      ],
-    },
-  },
-]
+[dev]
+  command = "npm run dev"
+  targetPort = 5173
+
+[functions]
+  directory = "netlify/functions"
+  external_node_modules = ["openai", "@supabase/supabase-js"]
+
+# Redirect all requests to index.html for SPA routing
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat" 
+  status = 200
+
+[[redirects]]
+  from = "/api/gemini"
+  to = "/.netlify/functions/research"
+  status = 200
+
+[[redirects]]
+  from = "/api/rag"
+  to = "/.netlify/functions/rag"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[functions."rag"]   # file rag.js
+  node_bundler = "esbuild"
+  deno_import_map = "netlify/import_map.json" # only if you jump to Deno/Edge
 
 
 ================================================================================
 
 
 ################################################################################
-# File: requirements.txt
+# File: index.html
 ################################################################################
 
-################################################################################
-################################################################################
-# Python dependencies for Misophonia Research RAG System
-
-# Core dependencies
-firebase-admin>=6.2.0
-openai>=1.0.0
-numpy>=1.24.0
-python-dotenv>=1.0.0
-flask>=2.0.0
-requests>=2.28.0
-
-# PDF processing
-PyPDF2>=3.0.0
-unstructured>=0.10.0
-pdfminer.six>=20221105
-
-# Utilities
-tqdm>=4.65.0
-tabulate>=0.9.0
-colorama>=0.4.6
-argparse>=1.4.0
-
-# Firebase/Google Cloud
-google-cloud-firestore>=2.11.0
-
-# For concurrent processing
-concurrent-log-handler>=0.9.20
-
-# Supabase integration
-supabase~=2.0.0
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
 
 
 ================================================================================
 
 
 ################################################################################
-# File: server/package.json
+# File: src/main.jsx
 ################################################################################
 
-{
-  "name": "misophonia-companion-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
-    "openai": "^4.27.0",
-    "@supabase/supabase-js": "^2.39.0"
-  }
-}
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import './index.css'
+import App from './App.jsx'
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
 
 
 ================================================================================

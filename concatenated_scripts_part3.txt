@@ -1,5 +1,5 @@
 # Concatenated Project Code - Part 3 of 3
-# Generated: 2025-05-09 15:45:06
+# Generated: 2025-05-12 16:05:28
 # Root Directory: /Users/gianmariatroiani/Documents/misophonia-companion-v3
 ================================================================================
 
@@ -1287,281 +1287,303 @@ h2 {
 
 
 ################################################################################
-# File: scripts/process_research_metadata.py
+# File: scripts/optimized_batch_process_gian_v1.py
 ################################################################################
+
+# File: scripts/optimized_batch_process_gian_v1.py
 
 #!/usr/bin/env python3
-################################################################################
-################################################################################
+# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 """
-Research Metadata Processor
+Batch‑upload pre‑parsed research papers into Supabase
+using a fixed‑token sliding window (768 tokens, 20 % overlap).
 
-This script:
-1. Iterates over text files in documents/research/txt
-2. For each file:
-   - Takes first 3000 words from the text
-   - Makes an OpenAI API call with a specific prompt
-   - Updates the corresponding JSON file in documents/research/json
-   - Records processed files to avoid reprocessing on subsequent runs
+INPUT  directories
+──────────────────
+documents/research/json   one JSON per paper (metadata + per‑page text)
+documents/research/txt    flat .txt version (kept for future re‑chunking)
 
-Required environment variables:
-------------------------------
-OPENAI_API_KEY
+DB schema expected
+──────────────────
+  research_documents  (one row per paper)
+  research_chunks     (token_window strategy)
 
-Usage:
------
-python process_research_metadata.py [--batch-size N] [--force] [--model MODEL]
+Chunking parameters
+───────────────────
+  • window      768 tokens
+  • overlap     154 tokens   (20 %)
+  • step        614 tokens   (window − overlap)
+
+Sentence‑friendly rule
+──────────────────────
+After *window* tokens are gathered we keep adding UNTIL the next token
+ends with `.`, `!`, or `?` —or the file ends, or we exceed
+window + 256 tokens.  This avoids mid‑sentence splits whenever possible.
 """
+from __future__ import annotations
 
 import argparse
 import json
-import logging
 import os
+import random
 import re
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Any, Optional, Set
+from typing import Any, Dict, List, Sequence
 
 from dotenv import load_dotenv
-from openai import OpenAI
+from supabase import create_client
 from tqdm import tqdm
 
-# ─────────────────────────── Configuration ─────────────────────────────── #
+# ───────────────────────────── env / constants ────────────────────────────── #
 
 load_dotenv()
 
-OPENAI_API_KEY: Optional[str] = os.environ.get("OPENAI_API_KEY")
-DEFAULT_MODEL = "gpt-4.1-mini-2025-04-14"
+REPO_ROOT      = Path(__file__).resolve().parent.parent
+JSON_DIR       = REPO_ROOT / "documents" / "research" / "json"
+TXT_DIR        = REPO_ROOT / "documents" / "research" / "txt"   # kept but unused here
 
-# Paths
-SCRIPT_DIR = Path(__file__).resolve().parent
-ROOT_DIR = SCRIPT_DIR.parent
-TXT_DIR = ROOT_DIR / "documents" / "research" / "txt"
-JSON_DIR = ROOT_DIR / "documents" / "research" / "json"
-PROCESSED_FILE = ROOT_DIR / "scripts" / "processed_files.json"
+SUPABASE_URL   = os.getenv("SUPABASE_URL")
+SUPABASE_KEY   = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
-# Initialize logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s — %(levelname)s — %(message)s",
-)
-log = logging.getLogger(__name__)
+DEFAULT_WINDOW   = 768
+DEFAULT_OVERLAP  = int(DEFAULT_WINDOW * 0.20)     # 154
+DEFAULT_STEP     = DEFAULT_WINDOW - DEFAULT_OVERLAP
+SENT_END_RE      = re.compile(r"[.!?]$")
 
-# ─────────────────────────────── Helpers ────────────────────────────────── #
+# ─────────────────────────── NUL‑byte scrubber ───────────────────────────── #
 
-def load_processed_files() -> Set[str]:
-    """Load the set of already processed files."""
-    if PROCESSED_FILE.exists():
-        with open(PROCESSED_FILE, "r") as f:
-            try:
-                return set(json.load(f))
-            except json.JSONDecodeError:
-                log.warning("Error decoding processed files list, starting fresh")
-    return set()
+def scrub_nuls(obj: Any) -> Any:
+    """Recursively remove ASCII‑NUL characters from any str inside *obj*."""
+    if isinstance(obj, str):
+        return obj.replace("\x00", "")
+    if isinstance(obj, list):
+        return [scrub_nuls(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: scrub_nuls(v) for k, v in obj.items()}
+    return obj
 
-def save_processed_files(processed: Set[str]) -> None:
-    """Save the set of processed files."""
-    with open(PROCESSED_FILE, "w") as f:
-        json.dump(list(processed), f, indent=2)
+# ───────────────────────────────── helpers ────────────────────────────────── #
 
-def extract_first_n_words(text: str, n: int = 3000) -> str:
-    """Extract first n words from text."""
-    words = text.split()
-    return " ".join(words[:n])
+def discover_json_files() -> List[Path]:
+    return sorted(JSON_DIR.rglob("*.json"))
 
-def get_corresponding_json_path(txt_path: Path) -> Path:
-    """Get the path to the corresponding JSON file."""
-    return JSON_DIR / f"{txt_path.stem}.json"
+def load_paper(json_path: Path) -> Dict[str, Any]:
+    return json.loads(json_path.read_text(encoding="utf‑8"))
 
-def generate_metadata(client: OpenAI, text: str, model: str) -> Dict[str, Any]:
-    """Call OpenAI API to generate metadata from text."""
-    prompt = f"""
-Extract the following metadata from this scientific paper and return exactly one JSON object with keys:
-  • doc_type (e.g. "scientific paper")
-  • title
-  • authors (array of strings)
-  • year (integer)
-  • journal (string or null)
-  • DOI (string or null)
-  • abstract (string or null)
-  • keywords (array of strings)
-  • research_topics (array of strings)
+def concat_sections(sections: Sequence[Dict[str, Any]]) -> tuple[list[str], list[int]]:
+    """
+    Return (tokens, token_to_page)  ↦  token_to_page[i] = 1‑based page number.
+    """
+    tokens: list[str] = []
+    page_map: list[int] = []
+    for sec in sections:
+        page = sec.get("page_number") or 1
+        sec_tokens = sec.get("text", "").split()
+        tokens.extend(sec_tokens)
+        page_map.extend([page] * len(sec_tokens))
+    return tokens, page_map
 
-If a field is not present, set it to null or an empty array. Here is the paper's full text:
+def sliding_window_chunks(
+    tokens: List[str],
+    page_map: List[int],
+    *,
+    window: int = DEFAULT_WINDOW,
+    overlap: int = DEFAULT_OVERLAP,
+) -> List[Dict[str, Any]]:
+    """Fixed‑token windows with overlap, but avoid cutting sentences."""
+    step = max(1, window - overlap)
+    chunks: list[dict[str, Any]] = []
+    i = 0
+    safety_extra = 256
 
-{text}
-"""
+    while i < len(tokens):
+        start = i
+        end   = min(len(tokens), start + window)
 
-    try:
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": "You are an assistant that extracts structured metadata from scientific papers."},
-                {"role": "user", "content": prompt}
-            ]
-        )
-        
-        content = response.choices[0].message.content
-        
-        # Extract JSON from response (in case there's additional text)
-        json_match = re.search(r'({[\s\S]*})', content)
-        if json_match:
-            content = json_match.group(1)
-            
-        return json.loads(content)
-    except Exception as e:
-        log.error(f"Error calling OpenAI API: {e}")
-        raise
+        # extend to sentence boundary if possible
+        while (
+            end < len(tokens)
+            and not SENT_END_RE.search(tokens[end - 1])
+            and (end - start) < window + safety_extra
+        ):
+            end += 1
 
-def update_json_file(json_path: Path, metadata: Dict[str, Any]) -> None:
-    """Update JSON file with metadata from API response."""
-    try:
-        # Create if not exists
-        if not json_path.exists():
-            json_data = {
-                "doc_type": "scientific paper",
-                "title": "",
-                "authors": [],
-                "year": None,
-                "journal": None,
-                "doi": None,
-                "abstract": None,
-                "keywords": [],
-                "research_topics": [],
-                "created_at": datetime.utcnow().isoformat() + "Z",
-                "source_pdf": "",
-                "sections": []
+        text_slice  = " ".join(tokens[start:end])
+        page_start  = page_map[start]
+        page_end    = page_map[end - 1]
+        chunk_idx   = len(chunks)
+
+        chunks.append(
+            {
+                "chunk_index":  chunk_idx,
+                "token_start":  start,
+                "token_end":    end - 1,
+                "page_start":   page_start,
+                "page_end":     page_end,
+                "text":         scrub_nuls(text_slice),
             }
-        else:
-            # Read existing JSON file
-            with open(json_path, "r", encoding="utf-8") as f:
-                json_data = json.load(f)
+        )
+        if end == len(tokens):
+            break
+        i += step
 
-        # Update with new metadata
-        for key, value in metadata.items():
-            if key in json_data and value not in (None, [], ""):
-                json_data[key] = value
+    return chunks
 
-        # Write updated JSON file
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(json_data, f, indent=2, ensure_ascii=False)
-            
-        return True
+# ────────────────────────────── Supabase I/O ─────────────────────────────── #
+
+def get_processed_pdfs(sb) -> set[str]:
+    """
+    Return the set of source_pdf paths already present in research_documents.
+    """
+    try:
+        rows = sb.table("research_documents").select("source_pdf").execute().data or []
+        return {row["source_pdf"] for row in rows}
     except Exception as e:
-        log.error(f"Error updating JSON file {json_path}: {e}")
-        return False
+        print(f"[get_processed_pdfs] {e}")
+        return set()
 
-# ────────────────────────────── Main Process ────────────────────────────── #
+BIB_KEYS = {
+    "doc_type", "title", "authors", "year",
+    "journal", "doi", "abstract", "keywords",
+    "research_topics", "source_pdf",
+}
 
-def process_files(client: OpenAI, batch_size: int, force: bool, model: str) -> Dict[str, Any]:
-    """Process text files and update JSON files with metadata."""
-    results = {
-        "processed": 0,
-        "skipped": 0,
-        "errors": 0,
-        "file_results": []
+def insert_document(sb, raw_meta: Dict[str, Any]) -> str:
+    """
+    Insert into research_documents; returns UUID.  Re‑use row if DOI matches.
+    """
+    raw_meta = scrub_nuls(raw_meta)
+    doi = raw_meta.get("doi")
+
+    # ── 1.  reuse if DOI already there
+    if doi:
+        q = (
+            sb.table("research_documents")
+            .select("id")
+            .eq("doi", doi)
+            .limit(1)
+            .execute()
+        )
+        if q.data:
+            return q.data[0]["id"]
+
+    # ── 2.  trim to bibliographic subset
+    meta_small = {k: raw_meta.get(k) for k in BIB_KEYS}
+
+    payload = {
+        **meta_small,
+        # defaults / housekeeping
+        "doc_type":   meta_small.get("doc_type", "scientific paper"),
+        "authors":    meta_small.get("authors") or [],
+        "keywords":   meta_small.get("keywords") or [],
+        "research_topics": meta_small.get("research_topics") or [],
+        "metadata":   meta_small,                 # stored as jsonb
+        "created_at": datetime.utcnow().isoformat(),
     }
-    
-    # Get all text files
-    txt_files = list(TXT_DIR.glob("*.txt"))
-    log.info(f"Found {len(txt_files)} text files in {TXT_DIR}")
-    
-    # Load set of processed files
-    processed_files = set() if force else load_processed_files()
-    
-    # Filter unprocessed files or limit to batch size
-    if not force:
-        txt_files = [f for f in txt_files if f.name not in processed_files]
-    
-    log.info(f"Found {len(txt_files)} unprocessed files")
-    if batch_size > 0:
-        txt_files = txt_files[:batch_size]
-        log.info(f"Processing batch of {len(txt_files)} files")
-    
-    # Process each file
-    for txt_path in tqdm(txt_files, desc="Processing files"):
-        # Log the current file being processed
-        log.info(f"Processing file: {txt_path.name}")
-        
-        file_result = {
-            "file": txt_path.name,
-            "success": False,
-            "error": None
+    res = sb.table("research_documents").insert(payload).execute()
+    if getattr(res, "error", None):
+        raise RuntimeError(res.error)
+    return res.data[0]["id"]
+
+def insert_chunks(sb, doc_id: str, json_path: Path, chunks: Sequence[Dict[str, Any]]):
+    max_batch = 500
+    rows = [
+        {
+            "document_id":       doc_id,
+            "chunk_index":       ch["chunk_index"],
+            "token_start":       ch["token_start"],
+            "token_end":         ch["token_end"],
+            "page_start":        ch["page_start"],
+            "page_end":          ch["page_end"],
+            "text":              ch["text"],
+            "metadata":          json.loads(json.dumps({}).replace('\u0000', '')),  # extra per‑chunk data (now clean)
+            "chunking_strategy": "token_window",
+            "source_file":       json_path.as_posix(),  # ← renamed column
+            "created_at":        datetime.utcnow().isoformat(),
         }
-        
-        try:
-            # Read text file
-            with open(txt_path, "r", encoding="utf-8") as f:
-                text = f.read()
-            
-            # Extract first 3000 words
-            truncated_text = extract_first_n_words(text)
-            
-            # Generate metadata - log that we're calling the API
-            log.info(f"Calling OpenAI API for: {txt_path.name}")
-            metadata = generate_metadata(client, truncated_text, model)
-            
-            # Get corresponding JSON path
-            json_path = get_corresponding_json_path(txt_path)
-            
-            # Update JSON file
-            log.info(f"Updating JSON file for: {txt_path.name}")
-            if update_json_file(json_path, metadata):
-                file_result["success"] = True
-                processed_files.add(txt_path.name)
-                results["processed"] += 1
-                log.info(f"Successfully processed: {txt_path.name}")
-            else:
-                file_result["error"] = "Failed to update JSON file"
-                results["errors"] += 1
-                log.error(f"Failed to update JSON for: {txt_path.name}")
-                
-        except Exception as e:
-            file_result["error"] = str(e)
-            results["errors"] += 1
-            log.error(f"Error processing {txt_path.name}: {e}")
-            
-        results["file_results"].append(file_result)
-    
-    # Save processed files
-    save_processed_files(processed_files)
-    
-    return results
+        for ch in chunks
+    ]
+    for i in range(0, len(rows), max_batch):
+        sb.table("research_chunks").insert(rows[i : i + max_batch]).execute()
+
+# ─────────────────────────────── main process ────────────────────────────── #
+
+def process_one_paper(
+    sb,
+    json_path: Path,
+    *,
+    window: int,
+    overlap: int,
+) -> tuple[bool, str]:
+    try:
+        paper = load_paper(json_path)
+        sections = paper.get("sections") or []
+        if not sections:
+            return False, "No sections/text found."
+
+        tokens, page_map = concat_sections(sections)
+        if not tokens:
+            return False, "Empty token list."
+
+        chunks = sliding_window_chunks(tokens, page_map, window=window, overlap=overlap)
+        doc_id = insert_document(sb, paper)
+        insert_chunks(sb, doc_id, json_path, chunks)
+        return True, f"{len(chunks)} chunks"
+    except Exception as e:
+        return False, str(e)
+
+# ─────────────────────────────────── CLI ─────────────────────────────────── #
 
 def main() -> None:
-    """Main entry point."""
-    parser = argparse.ArgumentParser(description="Process research files and extract metadata using OpenAI API")
-    parser.add_argument("--batch-size", type=int, default=0, help="Number of files to process (0 = all)")
-    parser.add_argument("--force", action="store_true", help="Process all files even if previously processed")
-    parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help="OpenAI model to use")
-    args = parser.parse_args()
-    
-    # Check for OpenAI API key
-    if not OPENAI_API_KEY:
-        log.error("OPENAI_API_KEY not set. Please set it in your environment variables.")
-        sys.exit(1)
-    
-    # Initialize OpenAI client
-    client = OpenAI(api_key=OPENAI_API_KEY)
-    
-    # Create directories if they don't exist
-    TXT_DIR.mkdir(parents=True, exist_ok=True)
-    JSON_DIR.mkdir(parents=True, exist_ok=True)
-    
-    # Process files
-    log.info(f"Starting metadata extraction with model: {args.model}")
-    results = process_files(client, args.batch_size, args.force, args.model)
-    
-    # Output results
-    log.info(f"Processing complete: {results['processed']} processed, {results['skipped']} skipped, {results['errors']} errors")
-    
-    # Save report
-    ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-    report_path = ROOT_DIR / f"metadata_extraction_report_{ts}.json"
-    with open(report_path, "w") as f:
-        json.dump(results, f, indent=2)
-    log.info(f"Report saved to {report_path}")
+    p = argparse.ArgumentParser(description="Upload 768‑token window chunks to Supabase")
+    p.add_argument("--batch-size", type=int, default=20, help="papers per run (0 = all)")
+    p.add_argument("--window",     type=int, default=DEFAULT_WINDOW, help="tokens per chunk")
+    p.add_argument("--overlap",    type=int, default=DEFAULT_OVERLAP, help="token overlap")
+    p.add_argument("--selection",  choices=["sequential", "random"], default="sequential")
+    args = p.parse_args()
+
+    if not (SUPABASE_URL and SUPABASE_KEY):
+        sys.exit("❌  Missing SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY")
+
+    sb = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+    all_json = discover_json_files()
+    processed_pdfs = get_processed_pdfs(sb)
+    remaining = [
+        p for p in all_json
+        if scrub_nuls(load_paper(p)).get("source_pdf") not in processed_pdfs
+    ]
+
+    if args.selection == "random" and args.batch_size and len(remaining) > args.batch_size:
+        remaining = random.sample(remaining, args.batch_size)
+    elif args.batch_size:
+        remaining = remaining[: args.batch_size]
+
+    if not remaining:
+        print("✨  Nothing new to process.")
+        return
+
+    step = args.window - args.overlap
+    print(f"Uploading {len(remaining)} papers …  (window={args.window}, overlap={args.overlap}, step={step})")
+    ok = fail = 0
+    for jp in tqdm(remaining, desc="Papers"):
+        success, msg = process_one_paper(
+            sb,
+            jp,
+            window=args.window,
+            overlap=args.overlap,
+        )
+        if success:
+            ok += 1
+        else:
+            fail += 1
+            print(f"  ! {jp.name} → {msg}")
+
+    print(f"\nDone ✔   success={ok}   failed={fail}")
 
 if __name__ == "__main__":
     main()
@@ -1571,319 +1593,375 @@ if __name__ == "__main__":
 
 
 ################################################################################
-# File: scripts/templates/index.html
+# File: src/TermsModal.jsx
 ################################################################################
 
-<!-- 
-File: scripts/templates/index.html
- -->
+import React, { useState } from 'react';
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Misophonia Research RAG Interface</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body{padding:20px;background:#f8f9fa}
-    .container{max-width:1000px;margin:0 auto}
-    .header{text-align:center;margin-bottom:30px}
-    .search-box{margin-bottom:20px}
-    .results-container{margin-top:20px}
-    .result-card{margin-bottom:15px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,.1)}
-    .result-card .card-header{font-weight:bold;display:flex;justify-content:space-between}
-    .loading{text-align:center;padding:20px;display:none}
-    .response-container{margin-top:30px;padding:20px;background:#fff;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,.1)}
-    pre { background:#f8f9fa;border:0; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <h1>Misophonia Research RAG Interface</h1>
-      <p class="text-muted">Search across research documents with semantic retrieval</p>
-    </div>
-
-    <div class="search-box">
-      <div class="input-group mb-3">
-        <input type="text" id="search-input" class="form-control form-control-lg"
-               placeholder="Ask a question about misophonia…" aria-label="Search query">
-        <button class="btn btn-primary" type="button" id="search-button">Search</button>
-      </div>
-      <div class="form-text">Try questions about treatments, neurological basis, symptoms, or coping strategies</div>
-    </div>
-
-    <div class="loading" id="loading">
-      <div class="spinner-border text-primary" role="status">
-        <span class="visually-hidden">Loading…</span>
-      </div>
-      <p>Searching research documents and generating response…</p>
-    </div>
-
-    <div id="response-area" style="display:none">
-      <div class="response-container">
-        <h3>Research‑Based Answer</h3>
-        <div id="response-content"></div>
-      </div>
-
-      <div class="results-container">
-        <h3>Source Documents</h3>
-        <div id="results-list"></div>
+export default function TermsModal({ onAccept }) {
+  const [checked, setChecked] = useState(false);
+  return (
+    <div style={{ position:'fixed', top:0, left:0, right:0, bottom:0, backgroundColor:'rgba(0,0,0,0.7)', zIndex:1000, display:'flex', alignItems:'center', justifyContent:'center', border:'4px dashed red' }}>
+      <div style={{ background:'#fff', padding:'2rem', maxWidth:'600px', width:'80%', boxSizing:'border-box', maxHeight:'80vh', overflowY:'auto', borderRadius:'8px', display:'flex', flexDirection:'column', alignItems:'center', border:'4px solid blue' }}>
+        <h2>Terms and Conditions</h2>
+        <div style={{ overflowY:'auto', maxHeight:'50vh', textAlign:'left', width:'100%' }}>
+          <p><strong>Effective Date:</strong> [Insert Date]</p>
+          <p><strong>1. Acceptance of Terms</strong> By accessing or using the Misophonia Companion application ('App'), you agree to be bound by these Terms and Conditions ('Terms'). If you do not agree to these Terms, do not use the App.</p>
+          <p><strong>2. Nature of the App</strong> Misophonia Companion is a digital wellness and research guide. It is intended for informational, educational, and personal support purposes only. The App does not provide medical advice, diagnosis, or treatment. It is not a licensed healthcare service and is not intended to replace professional consultation.</p>
+          <p><strong>3. Eligibility</strong> You must be at least 16 years old to use the App. If you are under 18, you confirm that you have received parental or guardian consent.</p>
+          <p><strong>4. Privacy and Data</strong> We respect your privacy. Our Privacy Policy explains how we collect, use, and protect your information. By using the App, you agree to the terms of our Privacy Policy.</p>
+          <p>No health information (as defined under HIPAA) is collected without explicit consent.</p>
+          <p>Conversations may be stored anonymously for product improvement unless you opt out.</p>
+          <p>We do not sell or share your data with third parties for advertising purposes.</p>
+          <p><strong>5. User Conduct</strong> You agree to use the App responsibly and not to misuse the services, including but not limited to:</p>
+          <ul>
+            <li>Attempting to reverse-engineer, copy, or modify the App</li>
+            <li>Submitting harmful, abusive, or misleading content</li>
+            <li>Interfering with the operation or integrity of the App</li>
+          </ul>
+          <p><strong>6. Limitation of Liability</strong> To the fullest extent permitted by law, Misophonia Companion and its creators are not liable for any direct, indirect, incidental, or consequential damages resulting from the use—or inability to use—the App. This includes, but is not limited to, psychological distress, loss of data, or misinterpretation of information.</p>
+          <p><strong>7. Modifications to the Terms</strong> We reserve the right to modify these Terms at any time. Continued use of the App after changes means you accept the new Terms.</p>
+          <p><strong>8. Termination</strong> We may suspend or terminate access to the App at our discretion, without notice, for conduct that violates these Terms.</p>
+          <p><strong>9. Governing Law</strong> These Terms are governed by the laws of the state of [Your State], without regard to conflict of laws principles.</p>
+          <p><strong>10. Contact</strong> For questions or concerns about these Terms, please email: [Your Contact Email]</p>
+        </div>
+        <h2>Privacy Policy</h2>
+        <div style={{ overflowY:'auto', maxHeight:'30vh', textAlign:'left', width:'100%' }}>
+          <p><strong>Effective Date:</strong> [Insert Date]</p>
+          <p><strong>1. Introduction</strong> This Privacy Policy describes how Misophonia Companion ('we', 'us', 'our') collects, uses, and protects your personal information when you use our web and mobile application ('App').</p>
+          <p><strong>2. Information We Collect</strong></p>
+          <p><strong>•</strong> <em>User-Provided Information</em>: When you create an account or interact with the App, you may provide personal information such as your email address and preferences.</p>
+          <p><strong>•</strong> <em>Anonymous Usage Data</em>: We may collect anonymized data on app usage, interactions, and conversation content to improve the experience.</p>
+          <p><strong>•</strong> <em>Optional Personal Logs</em>: Users may opt in to mood tracking, journaling, or trigger tagging. This data is stored securely and only accessible to the user unless explicitly shared.</p>
+          <p><strong>3. How We Use Your Information</strong> To provide and improve our services; to personalize your user experience; for anonymized research and development; to comply with legal obligations if required.</p>
+          <p><strong>4. Data Storage and Security</strong> We use secure, encrypted servers and industry-standard protocols to store your data. Sensitive data is never shared with third parties without consent. You may request deletion of your account and data at any time.</p>
+          <p><strong>5. Sharing and Disclosure</strong> We do not sell or rent your personal information. We may share anonymized data with research collaborators or analytics partners. We may disclose information if legally compelled (e.g., court order).</p>
+          <p><strong>6. Your Rights and Choices</strong> You may update or delete your personal information from your profile. You may opt out of data collection for research purposes. You may contact us for a copy of any personal data we’ve stored.</p>
+          <p><strong>7. Children’s Privacy</strong> Our App is not intended for children under 16. We do not knowingly collect data from individuals under this age without parental consent.</p>
+          <p><strong>8. Changes to This Policy</strong> We may revise this policy from time to time. Users will be notified of significant changes. Continued use of the App indicates acceptance of the updated policy.</p>
+          <p><strong>9. Contact Us</strong> If you have questions or requests related to this Privacy Policy, please contact us at: [Your Contact Email]</p>
+        </div>
+        <label style={{ display:'block', margin:'1rem 0', textAlign:'center', width:'100%' }}>
+          <input type='checkbox' checked={checked} onChange={e => setChecked(e.target.checked)} /> I have read and agree to the Terms and Conditions and Privacy Policy
+        </label>
+        <button disabled={!checked} onClick={() => { localStorage.setItem('termsAccepted','true'); onAccept(); }} style={{ marginTop:'1.5rem', padding:'0.5rem 1rem' }}>Continue</button>
       </div>
     </div>
-  </div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded",()=>{
-  const $q      = document.getElementById("search-input");
-  const $btn    = document.getElementById("search-button");
-  const $load   = document.getElementById("loading");
-  const $resp   = document.getElementById("response-area");
-  const $respCt = document.getElementById("response-content");
-  const $list   = document.getElementById("results-list");
-
-  async function doSearch(){
-    const query=$q.value.trim();
-    if(!query) return;
-
-    $load.style.display="block";
-    $resp.style.display="none";
-
-    try{
-      const res=await fetch("/search",{
-        method:"POST",
-        headers:{"Content-Type":"application/json"},
-        body:JSON.stringify({query,limit:5})
-      });
-      if(!res.ok){
-        let msg=`Server error (${res.status})`;
-        try{msg=(await res.json()).error||msg;}catch{}
-        throw new Error(msg);
-      }
-      const data=await res.json();
-
-      $respCt.innerHTML=`<p>${String(data.response||"").replace(/\n/g,"<br>")}</p>`;
-      $list.innerHTML="";
-
-      (data.results||[]).forEach((r,i)=>{
-        const m = r.metadata;
-        const card=document.createElement("div");
-        card.className="card result-card";
-        card.innerHTML=`
-          <div class="card-header bg-light d-flex justify-content-between align-items-center"
-               data-bs-toggle="collapse" data-bs-target="#chunk-${i}">
-            <span>${r.source}</span>
-            <span class="badge bg-primary opacity-75">${r.match_type}</span>
-          </div>
-          <div id="chunk-${i}" class="collapse show">
-            <div class="card-body">
-              <div class="d-flex justify-content-between align-items-baseline">
-                <strong>
-                  ${m.journal} (${m.year})
-                </strong>
-                ${m.doi ? `<a href="https://doi.org/${m.doi}" target="_blank" class="badge bg-primary">DOI</a>` : ''}
-              </div>
-
-              <h4 class="card-title">${m.title}</h4>
-              <small class="text-muted">${m.section}</small>
-
-              <p class="mb-0">
-                <em>${m.authors}</em><br>
-                ${m.volume ? `${m.journal} ${m.volume}${m.issue ? \`(\${m.issue})\` : ''}:` : ''}
-                ${m.page_range}
-              </p>
-
-              <div class="mb-2 small text-muted">Similarity: ${(r.similarity??0).toFixed(4)}</div>
-              <pre class="small text-muted mb-0" style="white-space:pre-wrap;">${r.chunk||""}</pre>
-            </div>
-          </div>`;
-        $list.appendChild(card);
-      });
-
-    }catch(err){
-      $respCt.innerHTML=`<div class="alert alert-warning">${err.message}</div>`;
-      $list.innerHTML="";
-    }finally{
-      $load.style.display="none";
-      $resp.style.display="block";
-    }
-  }
-
-  $btn.addEventListener("click",doSearch);
-  $q.addEventListener("keypress",e=>{if(e.key==="Enter")doSearch();});
-});
-</script>
-</body>
-</html>
+  );
+}
 
 
 ================================================================================
 
 
 ################################################################################
-# File: server/index.js
+# File: scripts/test_vector_search.py
 ################################################################################
 
-import express from 'express';
-import cors from 'cors';
-import dotenv from 'dotenv';
-import { OpenAI } from 'openai';
-import fetch from 'node-fetch';
-import httpProxy from 'http-proxy';
+#!/usr/bin/env python3
+################################################################################
+################################################################################
+"""
+Vector‑search smoke‑test (Supabase edition)
+==========================================
 
-dotenv.config();
+• Firebase/Firestore has been removed — every data call now goes through
+  Supabase's PostgREST API.
 
-// Set AI provider here - "openai" or "gemini"
-const AI_PROVIDER = process.env.AI_PROVIDER || "openai";
+• The script calls a SQL helper function that must exist on your database:
+    public.search_research_chunks(query_text TEXT,
+                                  match_count INT DEFAULT 10,
+                                  similarity_threshold REAL DEFAULT 0.6)
+  which should:
+    1. embed the incoming `query_text`
+    2. invoke your `match_documents` similarity function
+    3. return the top‑`match_count` rows as
+       (id UUID, text TEXT, metadata JSONB, similarity REAL)
 
-const app = express();
+  See README / earlier instructions for a ready‑made implementation.
 
-//app.use(cors());  --> This is the default behavior
-app.use(cors({
-  origin: [
-    '[https://misophonia-guide.netlify.app](https://misophonia-guide.netlify.app)',
-    'http://localhost:5173'
-  ]
-}));
-app.use(express.json());
+Environment variables required
+------------------------------
+SUPABASE_URL                 – e.g. https://xxxx.supabase.co
+SUPABASE_SERVICE_ROLE_KEY    – or an anon key if RLS permits the RPC
+OPENAI_API_KEY               – only if your SQL helper embeds via an HTTP call
+"""
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+from __future__ import annotations
 
-// Research Assistant endpoint (handles both Gemini and OpenAI)
-app.post('/api/gemini', async (req, res) => {
-  try {
-    const { messages, topic } = req.body;
-    
-    if (!messages || !Array.isArray(messages)) {
-      return res.status(400).json({ error: 'Messages array required.' });
-    }
-    
-    // Using OpenAI
-    if (AI_PROVIDER === "openai") {
-      // Format messages for OpenAI
-      const systemPrompt = topic 
-        ? `You are a knowledgeable research assistant focusing on the topic: ${topic}. Provide information about misophonia research.`
-        : "You are a knowledgeable research assistant on misophonia research.";
-      
-      const openaiMessages = [
-        { role: 'system', content: systemPrompt },
-        ...messages
-      ];
-      
-      const completion = await openai.chat.completions.create({
-        model: 'gpt-4o',
-        messages: openaiMessages,
-        max_tokens: 1024,
-        temperature: 0.7
-      });
-      
-      return res.json({
-        reply: completion.choices[0]?.message?.content || '',
-        structured: null,
-        provider: 'openai'
-      });
-    }
-    
-    // Using Gemini
-    else {
-      const apiKey = process.env.GEMINI_API_KEY;
-      if (!apiKey) {
-        return res.status(500).json({ error: 'GEMINI_API_KEY not set in server/.env.' });
-      }
-      
-      // Compose prompt for Gemini
-      let userPrompt = '';
-      if (topic && typeof topic === 'string') {
-        userPrompt += `Topic: ${topic}\n`;
-      }
-      userPrompt += messages.map(m => `${m.role === 'user' ? 'User' : 'Assistant'}: ${m.content}`).join('\n');
-      
-      // Gemini API call
-      const geminiRes = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro-preview-03-25:generateContent?key=' + apiKey, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ role: 'user', parts: [{ text: userPrompt }] }],
-          generationConfig: {
-            temperature: 0.7,
-            maxOutputTokens: 1024,
-          },
-          tools: [
-            { "function_declarations": [
-              { "name": "structured_output", "description": "Return information in a structured JSON format for chat display, with sections, bullet points, and highlights." }
-            ]}
-          ]
-        })
-      });
-      
-      if (!geminiRes.ok) {
-        const err = await geminiRes.text();
-        return res.status(500).json({ error: 'Error from Gemini API', details: err });
-      }
-      
-      const geminiData = await geminiRes.json();
-      // Parse structured output if present
-      let structured = null;
-      if (geminiData.candidates && geminiData.candidates[0]?.content?.parts) {
-        const part = geminiData.candidates[0].content.parts[0];
-        if (part.functionCall && part.functionCall.name === 'structured_output') {
-          try {
-            structured = JSON.parse(part.functionCall.args.json || '{}');
-          } catch {
-            structured = part.functionCall.args;
-          }
-        }
-      }
-      
-      return res.json({
-        reply: geminiData.candidates?.[0]?.content?.parts?.[0]?.text || '',
-        structured,
-        provider: 'gemini'
-      });
-    }
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: `Error from ${AI_PROVIDER === "openai" ? "OpenAI" : "Gemini"} API.` });
-  }
-});
+import os
+import sys
+import time
+from typing import Any, Dict, List
 
-// Keep existing OpenAI chat endpoint
-app.post('/api/chat', async (req, res) => {
-  try {
-    const { messages } = req.body;
-    if (!messages || !Array.isArray(messages)) {
-      return res.status(400).json({ error: 'Messages array required.' });
-    }
-    const completion = await openai.chat.completions.create({
-      model: 'gpt-4o',
-      messages,
-      max_tokens: 512,
-      temperature: 0.7
-    });
-    const reply = completion.choices[0]?.message?.content || '';
-    res.json({ reply });
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: 'Error from OpenAI API.' });
-  }
-});
+from dotenv import load_dotenv
+from supabase import create_client
+from openai import OpenAI
 
-// ───────────────────────── RAG proxy ─────────────────────────
-const proxy = httpProxy.createProxyServer({ changeOrigin: true });
+# ──────────────────────── configuration & sanity checks ───────────────────── #
 
-app.post('/api/rag', (req, res) => {
-  proxy.web(req, res, { target: 'http://localhost:8080/search' }, err => {
-    console.error(err);
-    res.status(502).json({ error: 'RAG service unreachable' });
-  });
-});
+load_dotenv()
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => {
-  console.log(`Server running with ${AI_PROVIDER.toUpperCase()} on port ${PORT}`);
-});
+# ---------- Supabase config ----------
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")   # or anon if RLS permits
+sb = create_client(SUPABASE_URL, SUPABASE_KEY)
+
+if not SUPABASE_URL or not SUPABASE_KEY:
+    sys.exit(
+        "❌  SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY env vars are missing.\n"
+        "    export them and rerun."
+    )
+
+# Sample questions to probe the index
+SAMPLE_QUERIES: List[str] = [
+    "What are the symptoms of misophonia?",
+    "How prevalent is misophonia in university students?",
+    "What is the relationship between misophonia and hyperacusis?",
+    "What treatments are effective for misophonia?",
+    "How does misophonia affect quality of life?",
+]
+
+# Add this after other configuration
+openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+def embed(text: str) -> List[float]:
+    """Return OpenAI ada‑002 embedding (1536‑dim list of floats)."""
+    resp = openai_client.embeddings.create(
+        model="text-embedding-ada-002",
+        input=text,
+    )
+    return resp.data[0].embedding
+
+# ─────────────────────────── helper functions ─────────────────────────────── #
+
+
+def perform_vector_search(query_vec, top_k=5, thresh=0.6):
+    """
+    Call the SQL RPC we just created.
+    `query_vec` is a list[float] length 1536 coming from OpenAI.
+    """
+    try:
+        resp = sb.rpc(
+            "search_research_chunks",
+            {
+                "query_embedding": query_vec,
+                "match_count": top_k,
+                "similarity_threshold": thresh,
+            },
+        ).execute()
+        if getattr(resp, "error", None):
+            raise RuntimeError(resp.error)
+        return resp.data or []
+    except Exception as e:
+        print(f"   ⚠  RPC failed: {e}")
+        return []
+
+
+def print_results(rows: List[Dict[str, Any]]) -> None:
+    """
+    Nicely format the search results.
+    """
+    if not rows:
+        print("   (no matches)\n")
+        return
+
+    for idx, row in enumerate(rows, 1):
+        meta = row.get("metadata", {}) or {}
+        title = meta.get("title", "Unknown title")
+        year = meta.get("year", "????")
+        author = meta.get("primary_author", "Unknown author")
+        sim = row.get("similarity", 0.0)
+
+        snippet = (row.get("text", "") or "").replace("\n", " ")[:280] + "…"
+
+        print(f"\nResult {idx}  •  sim={sim:.3f}")
+        print(f"  {title} — {author} ({year})")
+        print(f"  {snippet}")
+
+
+# ────────────────────────────────── main ──────────────────────────────────── #
+
+
+def main() -> None:
+    print("\n🔍  Supabase vector search smoke‑test\n" + "—" * 60)
+    for i, q in enumerate(SAMPLE_QUERIES, 1):
+        print(f'\nQuery {i + 1}/{len(SAMPLE_QUERIES)}: "{q}"')
+
+
+        # 1. get the vector
+        print("Generating embedding...")
+        query_vec = embed(q)  # Python list[float]
+
+        # 2. PostgREST / Postgres expects a *string* like: [0.1,0.2,…]
+        vec_literal = "[" + ",".join(f"{x:.6f}" for x in query_vec) + "]"
+
+        # 3. call the RPC
+        print("Performing vector search...")
+        resp = sb.rpc(
+            "search_research_chunks",
+            {
+                "query_embedding": vec_literal,  # <- NOT the raw text
+                "match_count": 5,
+                "similarity_threshold": 0.6,
+            },
+        ).execute()
+        
+        if getattr(resp, "error", None):
+            print(f"   ⚠  RPC failed: {resp.error}\n")
+            continue
+            
+        results = resp.data or []
+        print_results(results)
+
+        if i < len(SAMPLE_QUERIES):
+            print("\nPausing 2 s before the next query …")
+            time.sleep(2)
+
+    print("\n✔  Done")
+
+
+if __name__ == "__main__":
+    main()
+
+
+================================================================================
+
+
+################################################################################
+# File: README.md
+################################################################################
+
+################################################################################
+################################################################################
+
+<!-- PROJECT LOGO -->
+<p align="center">
+  <img src="public/vite.svg" alt="Logo" width="120" height="120">
+
+</p>
+
+<h1 align="center">Misophonia Companion</h1>
+
+<p align="center">
+  <b>The modern, AI-powered guide and support tool for those living with misophonia.</b><br>
+  <i>Built with React, Vite, Node.js, and OpenAI</i>
+  <br><br>
+  <a href="https://flourishing-sprite-c819cb.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://github.com/mannino49/Misophonia-companion-v2"><img src="https://img.shields.io/github/stars/mannino49/Misophonia-companion-v2?style=for-the-badge" alt="GitHub Stars"></a>
+</p>
+
+---
+
+## 🚀 Features
+
+- **Conversational AI Chatbot:** Powered by OpenAI, get real-time support and information.
+- **Soundscape Player:** Customizable soundscapes to help manage triggers.
+- **Modern UI:** Responsive, accessible, and visually appealing interface.
+- **Progressive Web App:** Installable and works offline.
+- **Secure Backend:** All API keys and secrets are kept on the server, never exposed to the client.
+
+---
+
+## 🖥️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</div>
+
+---
+
+## 📦 Project Structure
+
+```shell
+Misophonia Guide/
+├── public/                # Static assets (icons, manifest)
+├── src/                   # React frontend source
+│   ├── App.jsx            # Main app logic
+│   ├── main.jsx           # React entry point
+│   └── ...
+├── server/                # Node.js/Express backend
+│   ├── index.js           # API server entry
+│   └── ...
+├── netlify.toml           # Netlify deployment config
+├── package.json           # Frontend config
+└── ...
+```
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/g-troiani/misophonia-companion-v3
+cd Misophonia-companion-v3
+```
+
+### 2. Install dependencies
+```bash
+npm install
+cd server && npm install
+```
+
+### 3. Set up environment variables
+- Copy `.env.example` to `.env` in the `server/` directory and add your OpenAI API key:
+```
+OPENAI_API_KEY=your_openai_key_here
+```
+
+### 4. Run the backend server
+```bash
+cd server
+npm start
+```
+
+### 5. Run the frontend (in a new terminal)
+```bash
+npm run dev
+```
+
+- Frontend: [http://localhost:5173](http://localhost:5173)
+- Backend API: [http://localhost:3001](http://localhost:3001)
+
+---
+
+## 🌐 Deployment
+
+- Deployed on Netlify: [Live Demo](https://flourishing-sprite-c819cb.netlify.app/)
+- Backend runs as a separate Node.js server (see `server/`)
+- All secrets are stored in environment variables and never exposed to the frontend.
+
+---
+
+## 🛡️ Security & Best Practices
+
+- **No secrets or API keys are stored in the frontend.**
+- **.env files and private keys are gitignored.**
+- **Backend validates API key presence and never exposes it to the client.**
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open issues or submit pull requests.
+
+---
+
+## 📄 License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by Mannino49</b>
+</p>
 
 
 ================================================================================
@@ -1979,220 +2057,151 @@ main().catch(err => {
 
 
 ################################################################################
-# File: js-requirements.md
+# File: netlify/functions/chat.js
 ################################################################################
 
-################################################################################
-################################################################################
-# JavaScript Dependencies for Misophonia Research RAG System
+// File: netlify/functions/chat.js
 
-## Core Dependencies
+/**
+ * Generic OpenAI chat endpoint
+ * POST /.netlify/functions/chat
+ * Body: { messages: [ { role:"user"|"assistant"|"system", content:"…" }, … ] }
+ */
+import 'dotenv/config';
+import { OpenAI } from 'openai';
 
-```json
-{
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "fast-glob": "^3.3.3",
-    "firebase": "^10.0.0",
-    "firebase-admin": "^11.8.0",
-    "mammoth": "^1.9.0",
-    "node-fetch": "^3.3.1",
-    "openai": "^4.9.0",
-    "pdfjs-dist": "^3.7.107",
-    "express": "^4.18.2",
-    "cors": "^2.8.5",
-    "axios": "^1.4.0",
-    "body-parser": "^1.20.2"
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+export async function handler(event /* , context */) {
+  // ───────── guard HTTP method ──────────
+  if (event.httpMethod !== 'POST') {
+    return { statusCode: 405, body: 'Method Not Allowed' };
+  }
+
+  // ───────── parse body ──────────
+  let body;
+  try {
+    body = JSON.parse(event.body ?? '{}');
+  } catch {
+    return { statusCode: 400, body: JSON.stringify({ error: 'Invalid JSON' }) };
+  }
+
+  const { messages } = body;
+  if (!Array.isArray(messages) || messages.length === 0) {
+    return {
+      statusCode: 400,
+      body: JSON.stringify({ error: 'messages array required' }),
+    };
+  }
+
+  // ───────── OpenAI call ──────────
+  try {
+    const completion = await openai.chat.completions.create({
+      model: 'gpt-4o',
+      messages,
+      max_tokens: 512,
+      temperature: 0.7,
+    });
+
+    const reply =
+      completion.choices?.[0]?.message?.content ?? '⚠️ no response';
+
+    return {
+      statusCode: 200,
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ reply }),
+    };
+  } catch (err) {
+    console.error('OpenAI error →', err);
+    return {
+      statusCode: 500,
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ error: 'Error from OpenAI API' }),
+    };
   }
 }
-```
-
-## Development Dependencies
-
-```json
-{
-  "devDependencies": {
-    "@eslint/js": "^9.22.0",
-    "@types/react": "^19.0.10",
-    "@types/react-dom": "^19.0.4",
-    "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "^9.22.0",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.19",
-    "globals": "^16.0.0",
-    "netlify-cli": "^13.2.2",
-    "vite": "^6.3.1",
-    "vite-plugin-pwa": "^1.0.0"
-  }
-}
-```
-
-## Firebase-specific Dependencies
-
-```json
-{
-  "dependencies": {
-    "firebase/app": "included in firebase package",
-    "firebase/firestore": "included in firebase package",
-    "firebase/functions": "included in firebase package",
-    "firebase-admin/app": "included in firebase-admin package",
-    "firebase-admin/firestore": "included in firebase-admin package",
-    "firebase-functions": "^4.3.0"
-  }
-}
-```
-
-## Installation Instructions
-
-1. These dependencies are already defined in your project's `package.json` file.
-2. To install all dependencies, run:
-   ```
-   npm install
-   ```
-3. For Firebase Cloud Functions, navigate to the functions directory and run:
-   ```
-   cd functions
-   npm install
-   ```
-
-## Notes
-
-- The Firebase client and admin SDKs are separate packages with different use cases:
-  - `firebase` is for client-side applications
-  - `firebase-admin` is for server-side applications and has elevated privileges
-
-- For the RAG system, the key dependencies are:
-  - `openai`: For generating embeddings and AI responses
-  - `firebase-admin`: For accessing Firestore vector database
-  - `pdfjs-dist`: For processing PDF documents
-  - `express`: For the web server interface
 
 
 ================================================================================
 
 
 ################################################################################
-# File: vite.config.js
+# File: eslint.config.js
 ################################################################################
 
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import { VitePWA } from 'vite-plugin-pwa'
+import js from '@eslint/js'
+import globals from 'globals'
+import reactHooks from 'eslint-plugin-react-hooks'
+import reactRefresh from 'eslint-plugin-react-refresh'
 
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [
-    react(),
-    VitePWA({
-      registerType: 'autoUpdate',
-      workbox: {
-        runtimeCaching: [
-          {
-            urlPattern: /^\/api\/(chat|gemini|rag).*$/,
-            handler: 'NetworkOnly',
-          },
-        ],
+export default [
+  { ignores: ['dist'] },
+  {
+    files: ['**/*.{js,jsx}'],
+    languageOptions: {
+      ecmaVersion: 2020,
+      globals: globals.browser,
+      parserOptions: {
+        ecmaVersion: 'latest',
+        ecmaFeatures: { jsx: true },
+        sourceType: 'module',
       },
-      manifest: {
-        name: 'Misophonia Companion',
-        short_name: 'Companion',
-        description: 'A therapeutic and research PWA for misophonia.',
-        start_url: '.',
-        display: 'standalone',
-        background_color: '#f8f6ff',
-        theme_color: '#b2d8d8',
-        icons: [
-          {
-            src: 'icon-192.png',
-            sizes: '192x192',
-            type: 'image/png'
-          },
-          {
-            src: 'icon-512.png',
-            sizes: '512x512',
-            type: 'image/png'
-          }
-        ]
-      }
-    })
-  ],
-  server: {
-    proxy: {
-      '/api': {
-        target: 'http://localhost:3001',
-        changeOrigin: true,
-      }
-    }
-  }
-})
+    },
+    plugins: {
+      'react-hooks': reactHooks,
+      'react-refresh': reactRefresh,
+    },
+    rules: {
+      ...js.configs.recommended.rules,
+      ...reactHooks.configs.recommended.rules,
+      'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
+      'react-refresh/only-export-components': [
+        'warn',
+        { allowConstantExport: true },
+      ],
+    },
+  },
+]
 
 
 ================================================================================
 
 
 ################################################################################
-# File: netlify.toml
+# File: requirements.txt
 ################################################################################
 
-# Netlify configuration for Misophonia Companion
-[build]
-  command = "npm run build"
-  publish = "dist"
-
-[dev]
-  command = "npm run dev"
-  targetPort = 5173
-
-[functions]
-  directory = "netlify/functions"
-  external_node_modules = ["openai", "@supabase/supabase-js"]
-
-# Redirect all requests to index.html for SPA routing
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/api/gemini"
-  to = "/.netlify/functions/research"
-  status = 200
-
-[[redirects]]
-  from = "/api/rag"
-  to = "/.netlify/functions/rag"
-  status = 200
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[functions."rag"]   # file rag.js
-  node_bundler = "esbuild"
-  deno_import_map = "netlify/import_map.json" # only if you jump to Deno/Edge
-
-
-================================================================================
-
-
 ################################################################################
-# File: index.html
 ################################################################################
+# Python dependencies for Misophonia Research RAG System
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
-</html>
+# Core dependencies
+firebase-admin>=6.2.0
+openai>=1.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+flask>=2.0.0
+requests>=2.28.0
+
+# PDF processing
+PyPDF2>=3.0.0
+unstructured>=0.10.0
+pdfminer.six>=20221105
+
+# Utilities
+tqdm>=4.65.0
+tabulate>=0.9.0
+colorama>=0.4.6
+argparse>=1.4.0
+
+# Firebase/Google Cloud
+google-cloud-firestore>=2.11.0
+
+# For concurrent processing
+concurrent-log-handler>=0.9.20
+
+# Supabase integration
+supabase~=2.0.0
 
 
 ================================================================================
@@ -2207,8 +2216,11 @@ export default defineConfig({
 // Which LLM powers the Research Assistant ("openai" | "gemini") – defaults to "openai"
 export const AI_PROVIDER = process.env.AI_PROVIDER || 'openai';
 
-// Location of the running RAG service (rag_web_app_v8.py)
-export const RAG_HOST = process.env.RAG_HOST || 'http://localhost:8080';
+// Location of the running RAG service (rag_web_app_v9.py)
+// Hard-wire the production URL so the function works even
+// when the env var is missing.
+export const RAG_HOST =
+  process.env.RAG_HOST || 'https://misophonia-rag.fly.dev';   // ← your URL
 
 
 ================================================================================
