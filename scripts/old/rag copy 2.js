@@ -7,7 +7,7 @@
 //  •  Client-side cosine re-rank (-100…+100  %)
 //  •  Bibliography-only chunks are discarded
 //  •  Prompt budget guard (≤ 24 000 chars)
-//  •  Llama-3.3-70B via Groq generates Markdown answer + Bibliography section
+//  •  GPT-4.1-mini-2025-04-14 writes a Markdown answer + Bibliography section
 //  •  GET  /stats   → return total number of indexed chunks
 //  •  POST /search  → return { answer, citations, results }
 // -----------------------------------------------------------------------------
@@ -16,7 +16,6 @@
 //      SUPABASE_URL                 (e.g. https://xyz.supabase.co)
 //      SUPABASE_SERVICE_ROLE_KEY    (or anon key if RLS permits the RPC)
 //      OPENAI_API_KEY               (to embed + generate)
-//      GROQ_API_KEY                 (to generate responses)
 // -----------------------------------------------------------------------------
 //  This file is a line-for-line port of rag_web_app_v9.py, rewritten in Node so
 //  it can run natively as a Netlify Function (no external Flask server needed).
@@ -24,29 +23,26 @@
 import 'dotenv/config';
 import { createClient } from '@supabase/supabase-js';
 import OpenAI from 'openai';
-import { Groq } from 'groq-sdk';
 
 // ──────────────────────────── configuration ─────────────────────────────── //
 const {
   SUPABASE_URL,
   SUPABASE_SERVICE_ROLE_KEY,
   OPENAI_API_KEY,
-  GROQ_API_KEY,
 } = process.env;
 
-if (!SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY || !OPENAI_API_KEY || !GROQ_API_KEY) {
+if (!SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY || !OPENAI_API_KEY) {
   throw new Error(
-    '❌  Missing env vars: SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, OPENAI_API_KEY, GROQ_API_KEY'
+    '❌  Missing env vars: SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, OPENAI_API_KEY'
   );
 }
 
 const sb     = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
-const groq   = new Groq({ apiKey: GROQ_API_KEY });
 
 // ────────────────────────── embedding & similarity ───────────────────────── //
 // In-memory LRU-ish cache (Map) so repeated identical queries in the same
-// container instance don't double-embed and waste tokens.
+// container instance don’t double-embed and waste tokens.
 const embCache = new Map();
 
 /** Return ada-002 embedding for *text* (1536-D float array) */
@@ -272,12 +268,11 @@ export async function handler(event) {
     const chunks = trimChunks(rawMatches);
     const prompt = buildPrompt(query, chunks);
 
-    /* 3. LLM generation via Groq */
-    const chat = await groq.chat.completions.create({
-      model: 'llama-3.3-70b-versatile',
+    /* 3. GPT-4 generation */
+    const chat = await openai.chat.completions.create({
+      model: 'gpt-4.1-mini-2025-04-14',
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.3,
-      max_completion_tokens: 512,
+      temperature: 0,
     });
 
     const answerText = chat.choices[0].message.content.trim();

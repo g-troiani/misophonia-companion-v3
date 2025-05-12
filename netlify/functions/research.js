@@ -1,21 +1,23 @@
 /**
- * Topic-aware “Research Assistant”
- * Supports OpenAI **or** Gemini depending on AI_PROVIDER env var.
+ * Topic-aware "Research Assistant"
+ * Supports OpenAI, Gemini, or Groq depending on AI_PROVIDER env var.
  *
  * POST /.netlify/functions/research
  * Body: { messages:[…], topic?:string }
  *
  * ENV:
- *   AI_PROVIDER          openai | gemini      (default openai)
+ *   AI_PROVIDER          openai | gemini | groq   (default groq)
  *   OPENAI_API_KEY       required if provider=openai
  *   GEMINI_API_KEY       required if provider=gemini
+ *   GROQ_API_KEY         required if provider=groq
  */
 
 import 'dotenv/config';
+import { Groq } from 'groq-sdk';
 import { OpenAI } from 'openai';
 
 // ─────────────────────────────────────────────────────────────
-const AI_PROVIDER = (process.env.AI_PROVIDER ?? 'openai').toLowerCase();
+const AI_PROVIDER = (process.env.AI_PROVIDER ?? 'groq').toLowerCase();
 // ─────────────────────────────────────────────────────────────
 
 /* -----------------------------------------------------------
@@ -38,6 +40,42 @@ function serverError(msg, details) {
   };
 }
 
+/* ─────────────────────────────────────────────── */
+/*  GROQ branch                                    */
+/* ─────────────────────────────────────────────── */
+async function groqHandler(messages, topic) {
+  const apiKey = process.env.GROQ_API_KEY;
+  if (!apiKey) return serverError('GROQ_API_KEY missing');
+
+  const groq = new Groq({ apiKey });
+
+  const systemPrompt = topic
+    ? `You are a knowledgeable research assistant focusing on "${topic}". Provide accurate, concise information about misophonia research.`
+    : 'You are a knowledgeable research assistant on misophonia research.';
+
+  const gMessages = [
+    { role: 'system', content: systemPrompt },
+    ...messages,
+  ];
+
+  const completion = await groq.chat.completions.create({
+    model                 : 'llama-3.3-70b-versatile',
+    messages              : gMessages,
+    max_completion_tokens : 1024,
+    temperature           : 0.7,
+  });
+
+  return {
+    statusCode: 200,
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({
+      reply      : completion.choices?.[0]?.message?.content ?? '',
+      structured : null,
+      provider   : 'groq',
+    }),
+  };
+}
+
 /* ===========================================================
  *  OpenAI branch
  * ========================================================= */
@@ -48,7 +86,7 @@ async function openaiHandler(messages, topic) {
   const openai = new OpenAI({ apiKey });
 
   const systemPrompt = topic
-    ? `You are a knowledgeable research assistant focusing on “${topic}”. Provide accurate, concise information about misophonia research.`
+    ? `You are a knowledgeable research assistant focusing on "${topic}". Provide accurate, concise information about misophonia research.`
     : 'You are a knowledgeable research assistant on misophonia research.';
 
   const oaMessages = [
@@ -165,8 +203,10 @@ export async function handler(event /* , context */) {
     if (AI_PROVIDER === 'gemini') {
       return await geminiHandler(messages, topic);
     }
-    // default → openai
-    return await openaiHandler(messages, topic);
+    if (AI_PROVIDER === 'openai') {
+      return await openaiHandler(messages, topic);
+    }
+    return await groqHandler(messages, topic);
   } catch (err) {
     return serverError(
       `Unexpected ${AI_PROVIDER} handler failure`,

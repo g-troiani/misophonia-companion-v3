@@ -4,9 +4,9 @@
  * Body: { messages: [ { role:"user"|"assistant"|"system", content:"…" }, … ] }
  */
 import 'dotenv/config';
-import { OpenAI } from 'openai';
+import { Groq } from 'groq-sdk';
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
 export async function handler(event /* , context */) {
   // ───────── guard HTTP method ──────────
@@ -30,12 +30,12 @@ export async function handler(event /* , context */) {
     };
   }
 
-  // ───────── OpenAI call ──────────
+  // ───────── Groq call ──────────
   try {
-    const completion = await openai.chat.completions.create({
-      model: 'gpt-4o',
+    const completion = await groq.chat.completions.create({
+      model: 'llama-3.3-70b-versatile',
       messages,
-      max_tokens: 512,
+      max_completion_tokens: 512,
       temperature: 0.7,
     });
 
@@ -48,11 +48,11 @@ export async function handler(event /* , context */) {
       body: JSON.stringify({ reply }),
     };
   } catch (err) {
-    console.error('OpenAI error →', err);
+    console.error('Groq error →', err);
     return {
       statusCode: 500,
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ error: 'Error from OpenAI API' }),
+      body: JSON.stringify({ error: 'Error from Groq API' }),
     };
   }
 }
