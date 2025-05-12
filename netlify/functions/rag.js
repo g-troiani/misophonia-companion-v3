@@ -274,7 +274,7 @@ export async function handler(event) {
 
     /* 3. LLM generation via Groq */
     const chat = await groq.chat.completions.create({
-      model: 'llama-3.3-70b-versatile',
+      model: "qwen-qwq-32b", //'llama-3.3-70b-versatile',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
       max_completion_tokens: 512,
