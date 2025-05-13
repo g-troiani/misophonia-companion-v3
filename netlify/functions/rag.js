@@ -284,7 +284,7 @@ RULES:
         { role: 'user', content: prompt }
       ],
       temperature: 0,
-      max_tokens: 3072, //4096, =2048/2=1024*3=
+      max_tokens: 2800, //4096, =2048/2=1024*3=
       stream: false
       // stream: true,
     });
