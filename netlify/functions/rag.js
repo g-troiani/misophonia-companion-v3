@@ -278,7 +278,7 @@ export async function handler(event) {
       messages: [{ role: 'user', content: prompt }],
       temperature: 0,
       max_tokens: 4096,
-      stream: true,
+      // stream: true,
     });
 
     const answerText = chat.choices[0].message.content.trim();

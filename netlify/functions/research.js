@@ -63,7 +63,7 @@ async function groqHandler(messages, topic) {
     messages              : gMessages,
     max__tokens : 4096,
     temperature           : 0,
-    stream                : true,
+    //stream                : true,
   });
 
   return {

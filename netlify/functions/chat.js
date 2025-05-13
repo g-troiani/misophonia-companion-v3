@@ -37,7 +37,7 @@ export async function handler(event /* , context */) {
       messages,
       max_tokens: 4096,
       temperature: 0,
-      stream: true,
+      // stream: true,
     });
 
     const reply =
