@@ -34,14 +34,25 @@ export async function handler(event /* , context */) {
   try {
     const completion = await groq.chat.completions.create({
       model: "qwen-qwq-32b", //'llama-3.3-70b-versatile',
-      messages,
+      messages: [
+        { role: 'system',
+          content: `You are a supportive misophonia companion.
+RULES:
+• Do not expose chain-of-thought or meta reasoning.
+• Do not emit <think> tags.` },
+        ...messages,
+      ],
       max_tokens: 4096,
       temperature: 0,
       // stream: true,
     });
 
-    const reply =
+    let reply =
       completion.choices?.[0]?.message?.content ?? '⚠️ no response';
+    
+    reply = reply
+      .replace(/<think>[\s\S]*?<\/think>/gi, '')
+      .replace(/^[\s\S]*?\n\s*?(?=#+ |\S)/, '');
 
     return {
       statusCode: 200,

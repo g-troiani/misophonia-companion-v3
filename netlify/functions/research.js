@@ -96,7 +96,7 @@ async function openaiHandler(messages, topic) {
   ];
 
   const completion = await openai.chat.completions.create({
-    model: 'gpt-4o',
+    model: 'gpt-4.1-mini-2025-04-14',
     messages: oaMessages,
     max_tokens: 1024,
     temperature: 0,

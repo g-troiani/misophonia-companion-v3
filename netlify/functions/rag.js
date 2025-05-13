@@ -275,14 +275,28 @@ export async function handler(event) {
     /* 3. LLM generation via Groq */
     const chat = await groq.chat.completions.create({
       model: "qwen-qwq-32b", //'llama-3.3-70b-versatile',
-      messages: [{ role: 'user', content: prompt }],
+      messages: [
+        { role: 'system',
+          content: `You are a supportive misophonia companion.
+RULES:
+• Do not expose chain-of-thought or meta reasoning.
+• Do not emit <think> tags.` },
+        { role: 'user', content: prompt }
+      ],
       temperature: 0,
       max_tokens: 4096,
       // stream: true,
     });
 
-    const answerText = chat.choices[0].message.content.trim();
-    const citations  = extractCitations(answerText);
+    let answerText = chat.choices[0].message.content.trim();
+
+    /* ─ Post-filters ─────────────────────────────────────── */
+    // 1. Remove <think> … </think> blocks (multiline, greedy)
+    answerText = answerText.replace(/<think>[\s\S]*?<\/think>/gi, '');
+    // 2. Strip any pre-answer rambling up to the first Markdown heading / paragraph
+    answerText = answerText.replace(/^[\s\S]*?\n\s*?(?=#+ |\S)/, '');
+
+    const citations = extractCitations(answerText);
 
     /* 4. Remove heavy embedding vectors before returning to client */
     rawMatches.forEach(m => delete m.embedding);
