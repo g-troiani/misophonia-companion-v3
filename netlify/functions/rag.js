@@ -285,6 +285,7 @@ RULES:
       ],
       temperature: 0,
       max_tokens: 4096,
+      stream: false
       // stream: true,
     });
 

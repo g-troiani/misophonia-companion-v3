@@ -54,7 +54,10 @@ async function groqHandler(messages, topic) {
     : 'You are a knowledgeable research assistant on misophonia research.';
 
   const gMessages = [
-    { role: 'system', content: systemPrompt },
+    { role: 'system', content: `${systemPrompt}
+RULES:
+• Do not reveal chain-of-thought.
+• Never output <think> … </think> segments.` },
     ...messages,
   ];
 
@@ -66,11 +69,16 @@ async function groqHandler(messages, topic) {
     //stream                : true,
   });
 
+  let reply = completion.choices?.[0]?.message?.content ?? '';
+  reply = reply
+    .replace(/<think>[\s\S]*?<\/think>/gi, '')
+    .replace(/^[\s\S]*?\n\s*?(?=#+ |\S)/, '');
+
   return {
     statusCode: 200,
     headers: { 'content-type': 'application/json' },
     body: JSON.stringify({
-      reply      : completion.choices?.[0]?.message?.content ?? '',
+      reply      : reply,
       structured : null,
       provider   : 'groq',
     }),
