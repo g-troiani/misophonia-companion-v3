@@ -149,7 +149,7 @@ async function semanticSearch(query, limit = 8, threshold = 0) {
 }
 
 // ────────────────────────── prompt-budget helper ─────────────────────────── //
-const MAX_PROMPT_CHARS = 24_000; // 6 k tokens ≈ GPT-4o safety window
+const MAX_PROMPT_CHARS = 19_000; //24_000; // 6 k tokens ≈ GPT-4o safety window
 
 /** Drop low-similarity chunks until sum(text.length) ≤ MAX_PROMPT_CHARS */
 function trimChunks(chunks) {
@@ -284,7 +284,7 @@ RULES:
         { role: 'user', content: prompt }
       ],
       temperature: 0,
-      max_tokens: 4096,
+      max_tokens: 2048, //4096,
       stream: false
       // stream: true,
     });
