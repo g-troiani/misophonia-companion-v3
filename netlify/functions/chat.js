@@ -35,7 +35,7 @@ export async function handler(event /* , context */) {
     const completion = await groq.chat.completions.create({
       model: "qwen-qwq-32b", //'llama-3.3-70b-versatile',
       messages,
-      max_completion_tokens: 4096,
+      max_tokens: 4096,
       temperature: 0,
       stream: true,
     });

@@ -61,7 +61,7 @@ async function groqHandler(messages, topic) {
   const completion = await groq.chat.completions.create({
     model                 : "qwen-qwq-32b", //'llama-3.3-70b-versatile',
     messages              : gMessages,
-    max_completion_tokens : 4096,
+    max__tokens : 4096,
     temperature           : 0,
     stream                : true,
   });
