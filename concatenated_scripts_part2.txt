@@ -1,0 +1,1633 @@
+# Concatenated Project Code - Part 2 of 3
+# Generated: 2025-05-22 18:55:46
+# Root Directory: /Users/gianmariatroiani/Documents/misophonia-companion-v3
+================================================================================
+
+################################################################################
+# File: src/App.jsx
+################################################################################
+
+import './App.css'
+import React, { useState, useEffect, useRef } from 'react';
+import botAvatar from './assets/bot-avatar.png';
+import userAvatar from './assets/user-avatar.png';
+import TermsModal from './TermsModal';
+import RagAssistant from './RagAssistant.jsx';
+
+
+function NavBar({ setSection, section }) {
+  return (
+    <nav className="navbar">
+      <button className={section === 'home' ? 'active' : ''} onClick={() => setSection('home')}>
+        <span role="img" aria-label="home" style={{marginRight: 6}}>🏠</span> Home
+      </button>
+      <button className={section === 'chatbot' ? 'active' : ''} onClick={() => setSection('chatbot')}>
+        <span role="img" aria-label="chat" style={{marginRight: 6}}>💬</span> Let's Talk
+      </button>
+      <button className={section === 'tools' ? 'active' : ''} onClick={() => setSection('tools')}>
+        <span role="img" aria-label="tools" style={{marginRight: 6}}>🧰</span> Therapeutic Tools
+      </button>
+      <button className={section === 'research' ? 'active' : ''} onClick={() => setSection('research')}>
+        <span role="img" aria-label="research" style={{marginRight: 6}}>🔬</span> Research Assistant
+      </button>
+    </nav>
+  );
+}
+
+const AFFIRMATIONS = [
+  "You are safe here.",
+  "It's okay to take a break.",
+  "Your feelings are valid.",
+  "Breathe in calm, breathe out stress.",
+  "You are not alone."
+];
+const SOUNDS = [
+  { label: 'Rain', src: 'https://cdn.pixabay.com/audio/2022/07/26/audio_124bfae45e.mp3' },
+  { label: 'Forest', src: 'https://cdn.pixabay.com/audio/2022/03/15/audio_115b9d7bfa.mp3' },
+  { label: 'White Noise', src: 'https://cdn.pixabay.com/audio/2022/03/15/audio_115b9d7bfa.mp3' }
+];
+
+function AffirmationBanner() {
+  const [idx] = useState(() => Math.floor(Math.random() * AFFIRMATIONS.length));
+  return (
+    <div style={{
+      background: 'linear-gradient(90deg, #e0e7ef 60%, #f8f6ff 100%)',
+      color: '#4b6073',
+      borderRadius: '16px',
+      margin: '0 0 1.1rem 0',
+      padding: '0.7rem 1.2rem',
+      fontSize: '1.12rem',
+      fontWeight: 500,
+      textAlign: 'center',
+      boxShadow: '0 1px 6px 0 rgba(31, 38, 135, 0.04)',
+      letterSpacing: '0.01em',
+      opacity: 0.97
+    }}>
+      {AFFIRMATIONS[idx]}
+    </div>
+  );
+}
+
+function SoundscapePlayer() {
+  const [playing, setPlaying] = useState(false);
+  const [muted, setMuted] = useState(false);
+  const [soundIdx, setSoundIdx] = useState(0);
+  const audioRef = useRef(null);
+
+  const handlePlayPause = () => {
+    setPlaying(p => !p);
+  };
+  const handleMute = () => {
+    setMuted(m => !m);
+  };
+  const handleSoundChange = (e) => {
+    setSoundIdx(Number(e.target.value));
+    setPlaying(false);
+    setTimeout(() => setPlaying(true), 50);
+  };
+
+  useEffect(() => {
+    if (!audioRef.current) return;
+    audioRef.current.muted = muted;
+    if (playing) {
+      audioRef.current.play();
+    } else {
+      audioRef.current.pause();
+    }
+  }, [playing, muted, soundIdx]);
+
+  return (
+    <div style={{
+      display: 'flex', alignItems: 'center', gap: '0.7rem',
+      background: 'rgba(255,255,255,0.88)',
+      borderRadius: '13px',
+      padding: '0.25rem 0.8rem',
+      marginBottom: '1.1rem',
+      boxShadow: '0 1px 4px 0 rgba(31, 38, 135, 0.03)',
+      fontSize: '1.01rem',
+      maxWidth: 320
+    }}>
+      <span style={{color: '#b2d8d8', fontWeight: 700, fontSize: '1.1rem'}}>Soundscape:</span>
+      <select value={soundIdx} onChange={handleSoundChange} style={{borderRadius: 7, border: '1px solid #e0e7ef', background: '#f8f6ff', color: '#4b6073', padding: '0.2rem 0.5rem'}}>
+        {SOUNDS.map((s, i) => <option value={i} key={s.label}>{s.label}</option>)}
+      </select>
+      <button onClick={handlePlayPause} style={{border: 'none', background: 'none', cursor: 'pointer', color: playing ? '#81b0b0' : '#aaa', fontWeight: 700, fontSize: '1.05rem'}}>{playing ? 'Pause' : 'Play'}</button>
+      <button onClick={handleMute} style={{border: 'none', background: 'none', cursor: 'pointer', color: muted ? '#aaa' : '#b2d8d8', fontWeight: 700, fontSize: '1.05rem'}}>{muted ? 'Unmute' : 'Mute'}</button>
+      <audio ref={audioRef} src={SOUNDS[soundIdx].src} loop preload="auto" style={{display: 'none'}} />
+    </div>
+  );
+}
+
+function App() {
+  const [section, setSection] = useState('home');
+  const [termsAccepted, setTermsAccepted] = useState(localStorage.getItem('termsAccepted') === 'true');
+  if (!termsAccepted) return <TermsModal onAccept={() => setTermsAccepted(true)} />;
+
+  return (
+    <>
+      <div className="animated-bg">
+        <div className="bubble bubble1"></div>
+        <div className="bubble bubble2"></div>
+        <div className="bubble bubble3"></div>
+        <div className="bubble bubble4"></div>
+        <div className="bubble bubble5"></div>
+        <div className="bubble bubble6"></div>
+        <div className="bubble bubble7"></div>
+        <div className="bubble bubble8"></div>
+      </div>
+
+      {/* MAIN CONTENT BOX */}
+      <div className="container">
+        <AffirmationBanner />
+        <SoundscapePlayer />
+        <NavBar setSection={setSection} section={section} />
+        {section === 'home' && (
+          <div className="card">
+            <main>
+              <h1 className="title">Welcome to Misophonia Companion</h1>
+              <p className="subtitle">A soothing space to manage triggers, support healing, and explore research—built for both sufferers and professionals.</p>
+            </main>
+          </div>
+        )}
+        {section === 'chatbot' && <Chatbot />}
+        {section === 'tools' && (
+          <div className="card">
+            <main>
+              <h2>Therapeutic Tools</h2>
+              <p>Coming soon: Sound therapy, coping strategies, and relaxation exercises.</p>
+            </main>
+          </div>
+        )}
+        {section === 'research' && <RagAssistant />}
+      </div>
+
+      {/* NEW: footer lives here, outside .container */}
+      <div className="disclaimer-footer">
+        Misophonia Companion is not a clinical tool or a substitute for
+        professional psychological or medical treatment. It does not provide
+        diagnosis, therapy, or crisis intervention. If you are experiencing a
+        mental-health emergency, please contact a licensed provider or
+        emergency services immediately.
+      </div>
+    </>
+  );
+}
+
+
+function Chatbot() {
+  const [messages, setMessages] = useState([
+    { sender: 'bot', text: 'Hello! I am your Misophonia Companion. How can I support you today?' }
+  ]);
+  const [input, setInput] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
+  async function handleSend(e) {
+    e.preventDefault();
+    if (!input.trim()) return;
+    const userMsg = { sender: 'user', text: input };
+    setMessages((msgs) => [...msgs, userMsg]);
+    setLoading(true);
+    setError(null);
+    setInput('');
+    try {
+      const res = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          messages: [
+            { role: 'system', content: 'You are a calm, supportive misophonia companion and research assistant.' },
+            ...messages.map(m => ({ role: m.sender === 'user' ? 'user' : 'assistant', content: m.text })),
+            { role: 'user', content: input }
+          ]
+        })
+      });
+      if (!res.ok) throw new Error('API error');
+      const data = await res.json();
+      setMessages((msgs) => [...msgs, { sender: 'bot', text: data.reply }]);
+    } catch (err) {
+      setMessages((msgs) => [...msgs, { sender: 'bot', text: 'Sorry, I could not connect to the assistant. Make sure the backend server and your API key are set up.' }]);
+      setError('API error');
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <main>
+      <h2>Let's Talk</h2>
+      <div className="chatbot-box">
+        <div className="chat-messages">
+          {messages.map((msg, idx) => (
+            <div key={idx} className={msg.sender === 'bot' ? 'msg bot' : 'msg user'} style={{display: 'flex', alignItems: 'flex-end', justifyContent: msg.sender === 'user' ? 'flex-end' : 'flex-start'}}>
+              {msg.sender === 'bot' && (
+                <img
+                  src={botAvatar}
+                  alt="Bot"
+                  className="chat-avatar"
+                  onError={e => { e.target.onerror = null; e.target.src = 'https://ui-avatars.com/api/?name=Bot&background=b2d8d8&color=fff&rounded=true&size=64'; }}
+                />
+              )}
+              <span className="bubble-content">{msg.text}</span>
+              {msg.sender === 'user' && (
+                <img
+                  src={userAvatar}
+                  alt="You"
+                  className="chat-avatar"
+                  onError={e => { e.target.onerror = null; e.target.src = 'https://ui-avatars.com/api/?name=You&background=ffdac1&color=3a3a3a&rounded=true&size=64'; }}
+                />
+              )}
+            </div>
+          ))}
+          {loading && <div className="msg bot" style={{display: 'flex', alignItems: 'flex-end'}}><img src={botAvatar} alt="Bot" className="chat-avatar" /><span className="bubble-content">Thinking…</span></div>}
+        </div>
+        <form className="chat-input-row" onSubmit={handleSend}>
+          <input
+            type="text"
+            value={input}
+            onChange={e => setInput(e.target.value)}
+            placeholder="Type your message..."
+            className="chat-input"
+            autoFocus
+            aria-label="Type your message"
+            disabled={loading}
+          />
+          <button type="submit" className="chat-send" disabled={loading || !input.trim()}>Send</button>
+        </form>
+        {error && <div style={{ color: '#b22222', marginTop: '0.5rem' }}>
+          Make sure your backend server is running and your OpenAI API key is set in <code>server/.env</code>.
+        </div>}
+      </div>
+    </main>
+  );
+}
+
+
+
+// GeminiChatbot: Gemini 2.5 Pro chat with topics and structured output
+function GeminiChatbot() {
+  const TOPICS = [
+    { label: 'Neuroscience', value: 'Neuroscience' },
+    { label: 'Genetics', value: 'Genetics' },
+    { label: 'Therapy', value: 'Therapy' },
+    { label: 'Advocacy', value: 'Advocacy' },
+    { label: 'News', value: 'Latest News' },
+    { label: 'Free Text', value: '' }
+  ];
+  const [messages, setMessages] = useState([
+    { sender: 'bot', text: 'Hi! I am your Gemini-powered Research Assistant. Select a topic or ask anything about misophonia research.' }
+  ]);
+  const [input, setInput] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const [selectedTopic, setSelectedTopic] = useState(null);
+  const [mode, setMode] = useState('gemini'); // future: allow OpenAI fallback
+
+  async function handleGeminiSend(e, topicOverride) {
+    if (e) e.preventDefault();
+    const topicVal = topicOverride !== undefined ? topicOverride : selectedTopic;
+    const userText = topicVal && topicVal !== '' && topicVal !== 'Free Text' ? topicVal : input;
+    if (!userText.trim()) return;
+    const userMsg = { sender: 'user', text: userText };
+    setMessages((msgs) => [...msgs, userMsg]);
+    setLoading(true);
+    setError(null);
+    setInput('');
+    setSelectedTopic(null);
+    try {
+      const res = await fetch('/api/gemini', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          messages: messages.map(m => ({ role: m.sender === 'user' ? 'user' : 'assistant', content: m.text })).concat([{ role: 'user', content: userText }]),
+          topic: topicVal && topicVal !== 'Free Text' ? topicVal : undefined
+        })
+      });
+      if (!res.ok) throw new Error('API error');
+      const data = await res.json();
+      setMessages((msgs) => [...msgs, { sender: 'bot', text: data.reply, structured: data.structured }]);
+    } catch (err) {
+      setMessages((msgs) => [...msgs, { sender: 'bot', text: 'Sorry, Gemini API error. Check your backend and API key.' }]);
+      setError('API error');
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  function renderStructured(structured) {
+    if (!structured) return null;
+    // Example structure: { sections: [{ title, bullets, highlights, ... }], ... }
+    return (
+      <div className="gemini-structured">
+        {structured.sections && structured.sections.map((sec, i) => (
+          <div key={i} className="g-section">
+            {sec.title && <div className="g-title">{sec.title}</div>}
+            {sec.highlights && Array.isArray(sec.highlights) && (
+              <ul className="g-highlights">{sec.highlights.map((h, j) => <li key={j} className="g-highlight">{h}</li>)}</ul>
+            )}
+            {sec.bullets && Array.isArray(sec.bullets) && (
+              <ul className="g-bullets">{sec.bullets.map((b, j) => <li key={j}>{b}</li>)}</ul>
+            )}
+            {sec.text && <div className="g-text">{sec.text}</div>}
+          </div>
+        ))}
+        {structured.extra && <div className="g-extra">{structured.extra}</div>}
+      </div>
+    );
+  }
+
+  return (
+    <div className="gemini-chatbot">
+      <div className="gemini-toggle-row">
+        <button
+          className={mode === 'gemini' ? 'toggle-active' : ''}
+          onClick={() => setMode('gemini')}
+        >Gemini 2.5 Pro</button>
+        {/* <button
+          className={mode === 'openai' ? 'toggle-active' : ''}
+          onClick={() => setMode('openai')}
+        >OpenAI</button> */}
+      </div>
+      <div className="gemini-topic-row">
+        {TOPICS.map(t => (
+          <button
+            key={t.label}
+            className={selectedTopic === t.value ? 'topic-btn selected' : 'topic-btn'}
+            onClick={() => {
+              setSelectedTopic(t.value);
+              if (t.value && t.value !== 'Free Text') handleGeminiSend(null, t.value);
+            }}
+            disabled={loading}
+          >{t.label}</button>
+        ))}
+      </div>
+      <div className="chat-messages">
+        {messages.map((msg, idx) => (
+          <div key={idx} className={msg.sender === 'bot' ? 'msg bot' : 'msg user'} style={{display: 'flex', alignItems: 'flex-end', justifyContent: msg.sender === 'user' ? 'flex-end' : 'flex-start'}}>
+            {msg.sender === 'bot' && (
+              <img
+                src={botAvatar}
+                alt="Bot"
+                className="chat-avatar"
+                onError={e => { e.target.onerror = null; e.target.src = 'https://ui-avatars.com/api/?name=Bot&background=b2d8d8&color=fff&rounded=true&size=64'; }}
+              />
+            )}
+            <span className="bubble-content">
+              {msg.structured ? renderStructured(msg.structured) : msg.text}
+            </span>
+            {msg.sender === 'user' && (
+              <img
+                src={userAvatar}
+                alt="You"
+                className="chat-avatar"
+                onError={e => { e.target.onerror = null; e.target.src = 'https://ui-avatars.com/api/?name=You&background=ffdac1&color=3a3a3a&rounded=true&size=64'; }}
+              />
+            )}
+          </div>
+        ))}
+        {loading && <div className="msg bot" style={{display: 'flex', alignItems: 'flex-end'}}><img src={botAvatar} alt="Bot" className="chat-avatar" /><span className="bubble-content">Thinking…</span></div>}
+      </div>
+      <form className="chat-input-row" onSubmit={e => handleGeminiSend(e)}>
+        <input
+          type="text"
+          value={input}
+          onChange={e => setInput(e.target.value)}
+          placeholder="Type your question or pick a topic..."
+          className="chat-input"
+          autoFocus
+          aria-label="Type your message"
+          disabled={loading}
+        />
+        <button type="submit" className="chat-send" disabled={loading || !input.trim()}>Send</button>
+      </form>
+      {error && <div style={{ color: '#b22222', marginTop: '0.5rem' }}>
+        Gemini backend error. Check your server and API key in <code>server/.env</code>.
+      </div>}
+    </div>
+  );
+}
+
+export default App
+
+
+================================================================================
+
+
+################################################################################
+# File: src/App.css
+################################################################################
+
+/* ───────────────────────────────────────────── */
+/* GLOBAL RESET                                 */
+html, body {
+  margin: 0 !important;      /* kill the 8 px UA margin */
+  padding: 0;
+  height: 100%;              /* body fills the viewport vertically */
+}
+
+/* optional – keeps sizing predictable everywhere */
+*, *::before, *::after { box-sizing: border-box; }
+/* ───────────────────────────────────────────── */
+
+/* ----- BODY --------------------------------------------- */
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Nunito', 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+  color: #3a3a3a;
+  background: linear-gradient(120deg, #f8f6ff 0%, #b2d8d8 100%);
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.animated-bg {
+  position: fixed;
+  z-index: 0;
+  width: 100vw;
+  height: 100vh;
+  top: 0; left: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.bubble {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.3;
+  animation: float 18s infinite linear;
+  background: #b2d8d8;
+}
+.bubble1 { width: 120px; height: 120px; left: 10vw; top: 80vh; animation-delay: 0s; background: #b2d8d8; }
+.bubble2 { width: 80px; height: 80px; left: 70vw; top: 70vh; animation-delay: 4s; background: #f8f6ff; }
+.bubble3 { width: 90px; height: 90px; left: 50vw; top: 90vh; animation-delay: 8s; background: #e0e7ef; }
+.bubble4 { width: 60px; height: 60px; left: 20vw; top: 85vh; animation-delay: 2s; background: #f7cac9; }
+.bubble5 { width: 100px; height: 100px; left: 80vw; top: 95vh; animation-delay: 6s; background: #b5ead7; }
+.bubble6 { width: 70px; height: 70px; left: 30vw; top: 92vh; animation-delay: 10s; background: #ffdac1; }
+.bubble7 { width: 110px; height: 110px; left: 60vw; top: 85vh; animation-delay: 12s; background: #c7ceea; }
+.bubble8 { width: 50px; height: 50px; left: 40vw; top: 98vh; animation-delay: 14s; background: #f6dfeb; }
+@keyframes float {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-90vh); }
+}
+
+/* ----- LAYOUT WRAPPER ----------------------------------- */
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  z-index: 1;
+  position: relative;
+  min-width: 340px;
+  background: none;
+  box-shadow: none;
+}
+
+/* ----- CARD --------------------------------------------- */
+.card {
+  background: rgba(255,255,255,0.96);
+  border-radius: 22px;
+  box-shadow: 0 6px 32px rgba(31,38,135,.13);
+  padding: 2rem 1.2rem;
+  margin: 2.5rem 0;
+  max-width: 520px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: box-shadow 0.18s;
+}
+
+/* mobile tweaks – ONE block */
+@media (max-width: 700px) {
+  .container { 
+    max-width: 98vw; 
+    padding: 1rem; 
+  }
+  .card { 
+    padding: 1.2rem 0.5rem; 
+    border-radius: 16px; 
+    max-width: 99vw;
+  }
+  .navbar {
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.97rem;
+  }
+  .chatbot-box {
+    padding: 1rem 0.3rem;
+    border-radius: 16px;
+  }
+  .msg {
+    font-size: 0.99rem;
+  }
+  .chat-avatar {
+    width: 30px; height: 30px;
+  }
+}
+
+/* ----- NAVBAR ------------------------------------------- */
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.navbar button {
+  background: #e6e6fa;
+  color: #3a3a3a;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 18px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  box-shadow: 0 2px 8px rgba(178, 216, 216, 0.09);
+}
+
+.navbar button.active, .navbar button:hover {
+  background: #b2d8d8;
+  color: #234e52;
+}
+
+.title {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+  color: #234e52;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #6d7b8d;
+  margin-bottom: 2rem;
+}
+
+main {
+  padding: 1.5rem 0;
+}
+
+h2 {
+  color: #234e52;
+  margin-bottom: 1rem;
+}
+
+/* Chatbot styles (always apply) */
+.chatbot-box {
+  background: linear-gradient(135deg, rgba(248,246,255,0.93) 60%, rgba(178,216,216,0.10) 100%);
+  border-radius: 26px;
+  box-shadow: 0 4px 28px 0 rgba(31, 38, 135, 0.11), 0 1.5px 5px 0 rgba(178,216,216,0.08);
+  padding: 2.2rem 1.2rem 1.5rem 1.2rem;
+  margin: 0.5rem 0 0.5rem 0;
+  min-height: 350px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: 1.5px solid #e0e7ef;
+  backdrop-filter: blur(3px);
+  position: relative;
+  transition: box-shadow 0.2s;
+}
+
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  padding-bottom: 0.5rem;
+  border-radius: 18px 18px 8px 8px;
+  animation: fadeIn 0.7s;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.msg {
+  max-width: 80%;
+  display: flex;
+  align-items: flex-end;
+  gap: 0.6rem;
+  font-size: 1.08rem;
+  word-break: break-word;
+  box-shadow: 0 1px 6px 0 rgba(31, 38, 135, 0.03);
+  margin-bottom: 0.1rem;
+}
+
+.msg.user {
+  align-self: flex-end;
+  flex-direction: row-reverse;
+}
+
+.msg.bot {
+  align-self: flex-start;
+}
+
+.bubble-content {
+  padding: 0.7rem 1.1rem;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #b2d8d8 60%, #e0e7ef 100%);
+  color: #2a3d3d;
+  font-size: 1.08rem;
+  box-shadow: 0 1px 6px 0 rgba(31, 38, 135, 0.03);
+}
+
+.msg.bot .bubble-content {
+  background: linear-gradient(90deg, #f8f6ff 60%, #e9f7f7 100%);
+  color: #5b3a6b;
+}
+
+.chat-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  margin: 0 0.2rem;
+  box-shadow: 0 2px 8px 0 rgba(31, 38, 135, 0.05);
+  background: #fff;
+  object-fit: cover;
+}
+
+.chat-input-row {
+  display: flex;
+  gap: 0.6rem;
+  border-top: 1.5px solid #e0e7ef;
+  padding-top: 1rem;
+  margin-top: 0.3rem;
+  align-items: center;
+}
+
+.chat-input {
+  flex: 1;
+  height: 48px;
+  padding: 0 1rem;
+  border-radius: 12px;
+  border: 1.5px solid #c6e2e2;
+  font-size: 1.08rem;
+  outline: none;
+  background: #f4fafd;
+  color: #2a3d3d;
+  box-sizing: border-box;
+  transition: border-color 0.18s;
+}
+
+.chat-input:focus {
+  border-color: #b2d8d8;
+}
+
+.chat-send {
+  height: 48px;
+  min-width: 90px;
+  padding: 0 1.2rem;
+  border-radius: 12px;
+  border: none;
+  background: #b2d8d8;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.08rem;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.18s;
+  box-shadow: 0 1.5px 6px 0 rgba(31, 38, 135, 0.07);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-send:hover:not(:disabled) {
+  background: #81b0b0;
+  box-shadow: 0 4px 16px 0 rgba(31, 38, 135, 0.13);
+}
+
+.chat-send:disabled {
+  background: #f4fafd;
+  color: #b2d8d8;
+  cursor: not-allowed;
+  border: 1.5px solid #e0e7ef;
+  box-shadow: none;
+}
+
+/* More forceful styling for avatar labels */
+.chat-avatar, [class*="avatar"], [class*="circle"] {
+  font-size: 10px !important;
+  width: 45px !important;
+  height: 45px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* ----- RESEARCH-ASSISTANT POP-UP ------------------------ */
+.ra-wrapper {
+  position: fixed;            /* stick to viewport */
+  bottom: 84px;               /* enough to clear the floating disclaimer */
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(1100px, 96vw);    /* A little wider on desktop, still fully responsive on phones */
+  max-height: 70vh;           /* room for long answers w/ scroll */
+  overflow-y: auto;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 8px 22px rgba(0,0,0,.07);
+  padding: 2rem 2.25rem;
+}
+
+/* ─── research-assistant sticky search bar ───────────────────── */
+.rag-form{
+  position: sticky;
+  bottom: 0;                  /* hugs the card's bottom edge            */
+  z-index: 2;
+  padding: 1rem 0 0.5rem;     /* little breathing room                  */
+  background: rgba(255,255,255,.96);   /* white backdrop while it floats */
+  backdrop-filter: blur(3px);
+}
+
+.ra-input-row {
+  display: flex;
+  gap: 0.6rem;
+  margin-bottom: 1.25rem;
+}
+
+.ra-input {
+  flex: 1 1 auto;
+  font-size: 1.05rem;
+  padding: 0.65rem 0.9rem;
+  border: 2px solid #d0e4e4;
+  border-radius: 10px;
+}
+
+.ra-btn {
+  background: #669c99;
+  color: #fff;
+  border: 0;
+  padding: 0 1.25rem;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ----- DISCLAIMER (single source of truth) --------------- */
+.disclaimer-footer {
+  position: fixed;
+  bottom: 0;            /* 0 means literally the last pixel */
+  left: 0;
+  width: 100%;
+  font-size: 0.75rem;
+  color: #666;
+  text-align: center;
+  padding: 0;       /* adjust or set to 0 for no inner gap */
+  background: transparent;      /* or rgba(255,255,255,.85) if you want a strip */
+  z-index: 30;          /* higher than bubbles / page cards */
+}
+
+/* ─── RAG assistant layout tweak ─────────────────────────────── */
+.rag-card {
+  max-height: 75vh;               /* card never taller than viewport */
+  overflow-y: auto;               /* inner scroll, NOT page scroll   */
+  display: flex;
+  flex-direction: column;         /* children stack top→bottom       */
+}
+
+/* scrolling area for answer + sources */
+.rag-body {
+  flex: 1 1 auto;                 /* fill remaining height           */
+  overflow-y: auto;
+}
+
+/* search row always visible inside the scrolling card */
+.rag-input-row {
+  flex-shrink: 0;                 /* never shrinks                   */
+  position: sticky;
+  bottom: 0;                      /* sticks to card's bottom         */
+  background: #fff;               /* white strip over scrolled text  */
+  padding-top: 1rem;              /* add gap so it doesn't hug text  */
+}
+
+/* ─── RAG card: same width as before, inner scroll, sticky input ───────── */
+.ra-card {
+  width: 100%;                 /* full width of the central container    */
+  max-width: 1000px;           /* equals the old Bootstrap template      */
+  margin: 0 auto;              /* keep it centred                        */
+
+  /* original "card" visual style (copied, not changed) */
+  background: rgba(255,255,255,0.96);
+  border-radius: 22px;
+  box-shadow: 0 6px 32px rgba(31,38,135,.13);
+  padding: 2rem 1.2rem;
+
+  /* NEW: make the inside scroll but freeze the input row */
+  display: flex;
+  flex-direction: column;
+  max-height: 75vh;            /* never taller than the viewport         */
+  overflow-y: auto;
+}
+
+/* scrolling part (answer + citations) */
+.ra-body {
+  flex: 1 1 auto;
+  overflow-y: auto;
+}
+
+/* sticky search row – always visible */
+.ra-input-row {
+  flex-shrink: 0;
+  position: sticky;
+  bottom: 0;
+  background: #fff;            /* white strip so text doesn't peek under */
+  padding-top: 1rem;           /* gap between content & bar              */
+}
+
+/* RAG research card & footer separation ---------------- */
+.ra-card, .rag-card {
+  /* just ~1 em gap – enough to clear the footer without a chasm */
+  margin-bottom: 1.3rem;
+}
+
+/* keep the search bar fixed just above the footer text (≈24 px) */
+.ra-input-row {
+  position: sticky;
+  bottom: 1.5rem;
+}
+
+
+================================================================================
+
+
+################################################################################
+# File: scripts/find_duplicates.py
+################################################################################
+
+# File: scripts/find_duplicates.py
+
+import os
+import hashlib
+import argparse
+from pathlib import Path
+from collections import defaultdict
+
+def calculate_file_hash(filepath, algorithm='sha256', buffer_size=65536):
+    """Calculate a hash for a file to identify duplicates."""
+    hash_obj = hashlib.new(algorithm)
+    
+    with open(filepath, 'rb') as f:
+        # Read the file in chunks to handle large files efficiently
+        buffer = f.read(buffer_size)
+        while buffer:
+            hash_obj.update(buffer)
+            buffer = f.read(buffer_size)
+    
+    return hash_obj.hexdigest()
+
+def find_duplicates(directory):
+    """Find duplicate files in the specified directory."""
+    files_by_hash = defaultdict(list)
+    duplicate_sets = []
+    
+    # Get all files in the directory
+    target_dir = Path(directory)
+    if not target_dir.exists() or not target_dir.is_dir():
+        print(f"Error: '{directory}' is not a valid directory")
+        return duplicate_sets
+    
+    print(f"Scanning directory: {directory}")
+    
+    # Calculate hashes for all files
+    all_files = list(target_dir.glob('*'))
+    total_files = len(all_files)
+    
+    for i, file_path in enumerate(all_files):
+        if file_path.is_file():
+            try:
+                file_hash = calculate_file_hash(file_path)
+                files_by_hash[file_hash].append(file_path)
+                print(f"Processed file {i+1}/{total_files}: {file_path.name}")
+            except Exception as e:
+                print(f"Error processing {file_path}: {e}")
+    
+    # Identify duplicate sets (files with the same hash)
+    for file_hash, paths in files_by_hash.items():
+        if len(paths) > 1:
+            duplicate_sets.append(paths)
+    
+    return duplicate_sets
+
+def delete_duplicates(duplicate_sets, interactive=True):
+    """Delete duplicate files, keeping only one copy of each."""
+    total_deleted = 0
+    total_size_saved = 0
+    
+    for duplicate_set in duplicate_sets:
+        # Sort by name for consistent results
+        duplicate_set.sort(key=lambda p: str(p))
+        
+        # Keep the first file, show options for the rest
+        keep_file = duplicate_set[0]
+        print(f"\nDuplicate set ({len(duplicate_set)} files):")
+        print(f"  Keeping: {keep_file}")
+        
+        for i, dup_file in enumerate(duplicate_set[1:], 1):
+            size = dup_file.stat().st_size
+            
+            if interactive:
+                response = input(f"  Delete duplicate #{i}: {dup_file}? (y/n/a=all/q=quit): ").lower()
+                
+                if response == 'q':
+                    print("Operation aborted.")
+                    return total_deleted, total_size_saved
+                    
+                if response == 'a':
+                    interactive = False
+                    response = 'y'
+            else:
+                response = 'y'
+                print(f"  Deleting duplicate #{i}: {dup_file}")
+            
+            if response == 'y':
+                try:
+                    dup_file.unlink()
+                    total_deleted += 1
+                    total_size_saved += size
+                    print(f"  Deleted: {dup_file}")
+                except Exception as e:
+                    print(f"  Error deleting {dup_file}: {e}")
+    
+    return total_deleted, total_size_saved
+
+def format_size(size_bytes):
+    """Format file size in human-readable format."""
+    if size_bytes < 1024:
+        return f"{size_bytes} bytes"
+    elif size_bytes < 1024 * 1024:
+        return f"{size_bytes/1024:.2f} KB"
+    elif size_bytes < 1024 * 1024 * 1024:
+        return f"{size_bytes/(1024*1024):.2f} MB"
+    else:
+        return f"{size_bytes/(1024*1024*1024):.2f} GB"
+
+def main():
+    parser = argparse.ArgumentParser(description="Find and remove duplicate files")
+    parser.add_argument('--directory', '-d', default='documents/research/Global',
+                        help="Directory to scan for duplicates (default: documents/research/Global)")
+    parser.add_argument('--delete', '-r', action='store_true',
+                        help="Delete duplicate files")
+    parser.add_argument('--auto', '-a', action='store_true',
+                        help="Automatically delete all duplicates without prompting")
+    
+    args = parser.parse_args()
+    
+    # Find duplicates
+    duplicate_sets = find_duplicates(args.directory)
+    
+    # Print summary of duplicates found
+    if not duplicate_sets:
+        print("\nNo duplicate files found.")
+        return
+    
+    total_duplicates = sum(len(dups) - 1 for dups in duplicate_sets)
+    print(f"\nFound {len(duplicate_sets)} sets of duplicate files ({total_duplicates} redundant files)")
+    
+    # Display details about each duplicate set
+    for i, dups in enumerate(duplicate_sets, 1):
+        size = dups[0].stat().st_size
+        size_str = format_size(size)
+        print(f"\nDuplicate Set #{i} - {len(dups)} files, {size_str} each:")
+        for path in dups:
+            print(f"  {path}")
+    
+    # Delete duplicates if requested
+    if args.delete or args.auto:
+        deleted, size_saved = delete_duplicates(duplicate_sets, not args.auto)
+        print(f"\nSummary: Deleted {deleted} duplicate files, saving {format_size(size_saved)}")
+    else:
+        print("\nTo delete duplicates, run again with --delete or --auto flag")
+
+if __name__ == "__main__":
+    main()
+
+
+================================================================================
+
+
+################################################################################
+# File: scripts/topic_filter_and_title.py
+################################################################################
+
+#!/usr/bin/env python3
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+"""
+Loop over every TXT file in **documents/research/txt/**, send a fixed-length
+excerpt (~MAX_WORDS words ≈ two paragraphs) to OpenAI and ask:
+
+    • Is the paper about *TOPIC*?
+    • What’s the paper title?
+
+The script writes **two helper files in the same */scripts/* folder** (the
+“script library”, as requested):
+
+  1.  not_about_<topic>.txt    — one TXT filename per line (safe to delete)
+  2.  rename_map_<topic>.tsv   — “current_filename<TAB>inferred_title”
+
+Change *TOPIC*, *MAX_WORDS* or *MODEL* below as needed.
+"""
+from __future__ import annotations
+
+import json
+import logging
+import os
+import time
+from pathlib import Path
+from typing import Any, Dict, List
+
+from dotenv import load_dotenv
+from openai import OpenAI
+
+# ────────────────────────── user-tunable settings ───────────────────────────
+
+TOPIC: str = "Misophonia"            # ← change for other topics
+MAX_WORDS: int = 300                 # ≈ two paragraphs
+MODEL: str = "gpt-4.1-mini-2025-04-14"
+RATE_LIMIT_SLEEP: float = 1.2        # s between API calls to stay polite
+
+# ───────────────────────────── paths & client ───────────────────────────────
+
+SCRIPT_DIR = Path(__file__).resolve().parent            # /scripts/
+REPO_ROOT  = SCRIPT_DIR.parent                          # project root
+TXT_DIR    = REPO_ROOT / "documents" / "research" / "txt"
+
+OUT_NO_TOPIC = SCRIPT_DIR / f"not_about_{TOPIC.lower()}.txt"
+OUT_RENAME   = SCRIPT_DIR / f"rename_map_{TOPIC.lower()}.tsv"
+
+load_dotenv()  # picks up OPENAI_API_KEY from .env or environment
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# ─────────────────────────── helper functions ──────────────────────────────
+
+def read_excerpt(txt_path: Path, max_words: int = MAX_WORDS) -> str:
+    """
+    Return the first *max_words* words of the TXT file.
+    """
+    text = txt_path.read_text(encoding="utf-8", errors="ignore")
+    words = text.split()
+    return " ".join(words[:max_words])
+
+def query_llm(content: str) -> Dict[str, Any]:
+    """
+    Ask GPT-4 whether the paper is about *TOPIC* and get its title.
+    Returns a dict like:  { "relevant": true/false, "title": "…" }
+    """
+    system_msg = (
+        "You are a scholarly assistant. You will receive an excerpt from a "
+        f"scientific paper. Decide whether the paper is about the topic "
+        f"'{TOPIC}'. Respond **ONLY** with valid JSON containing two keys:\n"
+        '  "relevant": true or false\n'
+        '  "title":    full paper title if present, else ""'
+    )
+    user_msg = f"Excerpt:\n\"\"\"\n{content}\n\"\"\""
+
+    chat = client.chat.completions.create(
+        model=MODEL,
+        temperature=0,            # deterministic
+        top_p=1,
+        max_tokens=256,
+        stream=False,
+        messages=[
+            {"role": "system", "content": system_msg},
+            {"role": "user",   "content": user_msg},
+        ],
+        response_format={"type": "json_object"},
+    )
+    return json.loads(chat.choices[0].message.content)
+
+# ──────────────────────────────── main loop ─────────────────────────────────
+
+def main() -> None:
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
+
+    if not TXT_DIR.exists():
+        logging.error(f"TXT source folder not found: {TXT_DIR}")
+        return
+
+    txt_files = sorted(TXT_DIR.glob("*.txt"))
+    if not txt_files:
+        logging.error(f"No TXT files in {TXT_DIR}")
+        return
+
+    not_about: List[str] = []
+    rename_rows: List[str] = []
+
+    for fp in txt_files:
+        logging.info(f"→ {fp.name}")
+        excerpt = read_excerpt(fp)
+
+        # default values in case of any exception
+        relevant = False
+        title = ""
+
+        try:
+            resp = query_llm(excerpt)
+            relevant = bool(resp.get("relevant"))
+            title    = (resp.get("title") or "").strip()
+        except Exception as e:
+            logging.warning(f"  ⚠️  LLM error ({e}); treating as NOT relevant")
+
+        if not relevant:
+            not_about.append(fp.name)
+        else:
+            rename_rows.append(f"{fp.name}\t{title}")
+
+        time.sleep(RATE_LIMIT_SLEEP)   # simple client-side rate-limit
+
+    # ───────────────────────────── write outputs ────────────────────────────
+    if not_about:
+        OUT_NO_TOPIC.write_text("\n".join(not_about) + "\n", encoding="utf-8")
+        logging.info(f"✍️  {len(not_about)} non-topic files → {OUT_NO_TOPIC.name}")
+
+    if rename_rows:
+        OUT_RENAME.write_text("\n".join(rename_rows) + "\n", encoding="utf-8")
+        logging.info(f"✍️  {len(rename_rows)} rename rows → {OUT_RENAME.name}")
+
+    if not not_about and not rename_rows:
+        logging.info("✅ No files processed (empty dataset?).")
+    else:
+        logging.info("✅ Finished.")
+
+# ───────────────────────── entry point ──────────────────────────────────────
+
+if __name__ == "__main__":
+    main()
+
+
+================================================================================
+
+
+################################################################################
+# File: README.md
+################################################################################
+
+################################################################################
+################################################################################
+
+<!-- PROJECT LOGO -->
+<p align="center">
+  <img src="public/vite.svg" alt="Logo" width="120" height="120">
+
+</p>
+
+<h1 align="center">Misophonia Companion</h1>
+
+<p align="center">
+  <b>The modern, AI-powered guide and support tool for those living with misophonia.</b><br>
+  <i>Built with React, Vite, Node.js, and OpenAI</i>
+  <br><br>
+  <a href="https://flourishing-sprite-c819cb.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://github.com/mannino49/Misophonia-companion-v2"><img src="https://img.shields.io/github/stars/mannino49/Misophonia-companion-v2?style=for-the-badge" alt="GitHub Stars"></a>
+</p>
+
+---
+
+## 🚀 Features
+
+- **Conversational AI Chatbot:** Powered by OpenAI, get real-time support and information.
+- **Soundscape Player:** Customizable soundscapes to help manage triggers.
+- **Modern UI:** Responsive, accessible, and visually appealing interface.
+- **Progressive Web App:** Installable and works offline.
+- **Secure Backend:** All API keys and secrets are kept on the server, never exposed to the client.
+
+---
+
+## 🖥️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</div>
+
+---
+
+## 📦 Project Structure
+
+```shell
+Misophonia Guide/
+├── public/                # Static assets (icons, manifest)
+├── src/                   # React frontend source
+│   ├── App.jsx            # Main app logic
+│   ├── main.jsx           # React entry point
+│   └── ...
+├── server/                # Node.js/Express backend
+│   ├── index.js           # API server entry
+│   └── ...
+├── netlify.toml           # Netlify deployment config
+├── package.json           # Frontend config
+└── ...
+```
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/g-troiani/misophonia-companion-v3
+cd Misophonia-companion-v3
+```
+
+### 2. Install dependencies
+```bash
+npm install
+cd server && npm install
+```
+
+### 3. Set up environment variables
+- Copy `.env.example` to `.env` in the `server/` directory and add your OpenAI API key:
+```
+OPENAI_API_KEY=your_openai_key_here
+```
+
+### 4. Run the backend server
+```bash
+cd server
+npm start
+```
+
+### 5. Run the frontend (in a new terminal)
+```bash
+npm run dev
+```
+
+- Frontend: [http://localhost:5173](http://localhost:5173)
+- Backend API: [http://localhost:3001](http://localhost:3001)
+
+---
+
+## 🌐 Deployment
+
+- Deployed on Netlify: [Live Demo](https://flourishing-sprite-c819cb.netlify.app/)
+- Backend runs as a separate Node.js server (see `server/`)
+- All secrets are stored in environment variables and never exposed to the frontend.
+
+---
+
+## 🛡️ Security & Best Practices
+
+- **No secrets or API keys are stored in the frontend.**
+- **.env files and private keys are gitignored.**
+- **Backend validates API key presence and never exposes it to the client.**
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open issues or submit pull requests.
+
+---
+
+## 📄 License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by Mannino49</b>
+</p>
+
+
+================================================================================
+
+
+################################################################################
+# File: src/RagAssistant.jsx
+################################################################################
+
+// File: src/RagAssistant.jsx
+
+import React, { useState } from 'react';
+import { marked } from 'marked';
+
+// ⬇️  NEW DEFAULT:  falls back to " /api/rag" in production/PWA
+//const API = import.meta.env.VITE_RAG_ENDPOINT || '/api/rag';
+//const API = import.meta.env.VITE_RAG_ENDPOINT || '/.netlify/functions/rag';
+const API = '/.netlify/functions/rag';
+
+export default function RagAssistant() {
+  const [q, setQ] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [answer, setAnswer] = useState('');
+  const [results, setResults] = useState([]);
+
+  const ask = async e => {
+    e.preventDefault();
+    if (!q.trim()) return;
+    setLoading(true);
+
+    try {
+      const r = await fetch(API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query: q, limit: 8 })
+      });
+      if (!r.ok) throw new Error(`Server responded ${r.status}`);
+      const d = await r.json();
+      setAnswer(d.answer ? marked.parse(d.answer) : 'No answer.');
+      setResults(d.results || []);
+    } catch (err) {
+      setAnswer(`<p style="color:red;">${err.message}</p>`);
+      setResults([]);
+    } finally {
+      setLoading(false);    // always clear spinner
+    }
+  };
+
+  return (
+    <div className="ra-card">
+      <h2 style={{marginBottom: '1rem'}}>Research Assistant</h2>
+      
+      <div className="ra-body">
+        {answer && (
+          <div
+            dangerouslySetInnerHTML={{ __html: answer }}
+            style={{ marginBottom: '1.5rem' }}
+          />
+        )}
+
+        {loading && <p>Searching…</p>}
+
+        {results.map((r, i) => (
+          <details key={i} style={{marginBottom: '1rem'}}>
+            <summary>
+              <strong>[{i + 1}] {r.doc?.title || 'Untitled'}</strong>
+              <span style={{float: 'right', fontSize: '.85rem', opacity: .7}}>
+                {r.similarity.toFixed(1)} %
+              </span>
+            </summary>
+            <blockquote style={{margin: '.75rem 0'}}>{r.text}</blockquote>
+            <p style={{fontSize: '.85rem', opacity: .8}}>
+              {(r.doc?.authors || []).join(', ') || 'Unknown authors'} · {r.doc?.journal || ''} ({r.doc?.year || 'n.d.'}) · pp. {r.page_start}-{r.page_end}
+            </p>
+            {r.doc?.doi && (
+              <a href={`https://doi.org/${r.doc.doi}`} target="_blank" rel="noreferrer">doi:{r.doc.doi}</a>
+            )}
+          </details>
+        ))}
+      </div>
+
+      <form className="ra-input-row" onSubmit={ask}>
+        <input
+          className="ra-input"
+          value={q}
+          onChange={e => setQ(e.target.value)}
+          placeholder="Ask a research question…"
+        />
+        <button className="ra-btn" disabled={loading}>Search</button>
+      </form>
+    </div>
+  );
+}
+
+
+================================================================================
+
+
+################################################################################
+# File: netlify/functions/chat.js
+################################################################################
+
+// File: netlify/functions/chat.js
+
+/**
+ * Generic OpenAI chat endpoint
+ * POST /.netlify/functions/chat
+ * Body: { messages: [ { role:"user"|"assistant"|"system", content:"…" }, … ] }
+ */
+import 'dotenv/config';
+import { Groq } from 'groq-sdk';
+
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+
+export async function handler(event /* , context */) {
+  // ───────── guard HTTP method ──────────
+  if (event.httpMethod !== 'POST') {
+    return { statusCode: 405, body: 'Method Not Allowed' };
+  }
+
+  // ───────── parse body ──────────
+  let body;
+  try {
+    body = JSON.parse(event.body ?? '{}');
+  } catch {
+    return { statusCode: 400, body: JSON.stringify({ error: 'Invalid JSON' }) };
+  }
+
+  const { messages } = body;
+  if (!Array.isArray(messages) || messages.length === 0) {
+    return {
+      statusCode: 400,
+      body: JSON.stringify({ error: 'messages array required' }),
+    };
+  }
+
+  // ───────── Groq call ──────────
+  try {
+    const completion = await groq.chat.completions.create({
+      model: "qwen-qwq-32b", //'llama-3.3-70b-versatile',
+      messages: [
+        { role: 'system',
+          content: `You are a supportive misophonia companion.
+RULES:
+• Do not expose chain-of-thought or meta reasoning.
+• Do not emit <think> tags.` },
+        ...messages,
+      ],
+      max_tokens: 4096,
+      temperature: 0,
+      // stream: true,
+    });
+
+    let reply =
+      completion.choices?.[0]?.message?.content ?? '⚠️ no response';
+    
+    reply = reply
+      .replace(/<think>[\s\S]*?<\/think>/gi, '')
+      .replace(/^[\s\S]*?\n\s*?(?=#+ |\S)/, '');
+
+    return {
+      statusCode: 200,
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ reply }),
+    };
+  } catch (err) {
+    console.error('Groq error →', err);
+    return {
+      statusCode: 500,
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ error: 'Error from Groq API' }),
+    };
+  }
+}
+
+
+================================================================================
+
+
+################################################################################
+# File: package.json
+################################################################################
+
+{
+  "name": "misophonia-companion",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "link": "npx netlify link",
+    "env:import": "npx netlify env:import server/.env",
+    "deploy": "npx netlify deploy --prod --dir=dist",
+    "ingest": "node scripts/ingest.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.8.0",
+    "groq-sdk": "^0.21.0",
+    "http-proxy": "^1.18.1",
+    "marked": "^15.0.11",
+    "node-fetch": "^3.3.1",
+    "openai": "^4.9.0",
+    "pdfjs-dist": "^3.7.107",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "vite-plugin-pwa": "^1.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "esbuild": "^0.19.12",
+    "eslint": "^9.22.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "netlify-cli": "^13.2.2",
+    "rollup": "^4.13.0",
+    "vite": "^6.3.1"
+  }
+}
+
+
+================================================================================
+
+
+################################################################################
+# File: netlify.toml
+################################################################################
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[dev]
+  command = "npm run dev"
+  targetPort = 5173
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  external_node_modules = ["openai", "@supabase/supabase-js"]
+
+# Redirect all requests to index.html for SPA routing
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api/gemini"
+  to = "/.netlify/functions/research"
+  status = 200
+
+[[redirects]]
+  from = "/api/rag"
+  to = "/.netlify/functions/rag"
+  status = 200
+
+[[redirects]]
+  from = "/api/chat"
+  to = "/.netlify/functions/chat"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+
+================================================================================
+
+
+################################################################################
+# File: netlify/functions/_utils.js
+################################################################################
+
+// Shared constants for Netlify functions
+
+// Which LLM powers the Research Assistant ("openai" | "gemini") – defaults to "openai"
+export const AI_PROVIDER = process.env.AI_PROVIDER || 'openai';
+
+// Location of the running RAG service (rag_web_app_v9.py)
+// Hard-wire the production URL so the function works even
+// when the env var is missing.
+export const RAG_HOST =
+  process.env.RAG_HOST || 'https://misophonia-rag.fly.dev';   // ← your URL
+
+
+================================================================================
+
+
+################################################################################
+# File: server/package.json
+################################################################################
+
+{
+  "name": "misophonia-companion-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^4.27.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
+
+
+================================================================================
+

@@ -27,7 +27,13 @@ EXCLUDED_FILES = [
     'concatenated_scripts_part2.txt',
     'concatenated_scripts_part3.txt',
     SCRIPT_FILENAME, # Exclude the script file itself
-    '.env' # Exclude environment variable files
+    '.env', # Exclude environment variable files
+    'rename_map_misophonia.tsv', # Data mapping file
+    'not_about_misophonia.txt', # Content filtering data file
+    '.DS_Store', # macOS system file
+    # Supabase embedding reports - these are logs/reports, not code
+    'supabase_embedding_report_20250522_222601.json',
+    'supabase_embedding_report_20250522_224217.json'
 ]
 
 # Expanded list of exclusions for virtual environments and node modules
@@ -49,11 +55,21 @@ EXCLUDED_DIRS = [
     'docs',               # Alternative name for documents
     'documents_library',  # Alternative naming
     'document_library',   # Alternative naming
+    'cache',              # Cache directories (scripts/cache)
+    'artefacts',          # Generated artifacts (scripts/artefacts)
+    'artifacts',          # Alternative spelling
 ]
 
 # Path-based exclusions - these are specific paths we want to exclude
 EXCLUDED_PATHS = [
-    # 'scripts/old' has been removed to include scripts/old directory in concatenation
+    'scripts/old',        # Version history and deprecated files - not used by current pipeline stages
+    'scripts/old/templates', # Old template files
+    'scripts/old/scripts_merged_into_pipeline', # Files that have been integrated elsewhere
+]
+
+# Essential documentation files that contain architectural information
+ESSENTIAL_DOCS = [
+    'documents/development/technical-architecture.md',  # System architecture overview
 ]
 
 # Additional patterns to identify virtual environments
@@ -138,6 +154,11 @@ def should_process_file(file_path, filename):
     if is_venv_or_node_modules(file_path):
         print(f"[DEBUG] Skipping file in node_modules or venv: {file_path}")
         return False
+    
+    # Include essential documentation files regardless of other exclusions
+    relative_path = os.path.relpath(file_path, os.getcwd()).replace('\\', '/')
+    if any(relative_path == doc_path or relative_path.endswith(doc_path) for doc_path in ESSENTIAL_DOCS):
+        return True
     
     # Always include files in the Stages directory
     if 'stages' in file_path.lower().split(os.sep):
