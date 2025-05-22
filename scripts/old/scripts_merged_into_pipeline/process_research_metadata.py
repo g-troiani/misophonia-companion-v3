@@ -87,7 +87,7 @@ def generate_metadata(client: OpenAI, text: str, model: str) -> Dict[str, Any]:
     """Call OpenAI API to generate metadata from text."""
     prompt = f"""
 Extract the following metadata from this scientific paper and return exactly one JSON object with keys:
-  • doc_type (e.g. "scientific paper")
+  • doc_type (e.g. "Scientific Paper, Blog Article, Interview, etc.")
   • title
   • authors (array of strings)
   • year (integer)

@@ -53,7 +53,7 @@ EXCLUDED_DIRS = [
 
 # Path-based exclusions - these are specific paths we want to exclude
 EXCLUDED_PATHS = [
-    'scripts/old',        # Exclude the scripta/old directory
+    # 'scripts/old' has been removed to include scripts/old directory in concatenation
 ]
 
 # Additional patterns to identify virtual environments
@@ -138,6 +138,12 @@ def should_process_file(file_path, filename):
     if is_venv_or_node_modules(file_path):
         print(f"[DEBUG] Skipping file in node_modules or venv: {file_path}")
         return False
+    
+    # Always include files in the Stages directory
+    if 'stages' in file_path.lower().split(os.sep):
+        _, ext = os.path.splitext(filename)
+        if ext.lower() in ALLOWED_EXTENSIONS:
+            return True
     
     # Check absolute exclusions first
     if filename in EXCLUDED_FILES:

@@ -251,7 +251,9 @@ def build_prompt(question: str, chunks: List[Dict]) -> str:
         )
 
     prompt_parts = [
-        "You are an expert assistant specialised in misophonia.",
+        "You are Misophonia Companion, a highly knowledgeable and empathetic AI assistant built to support clinicians, researchers, and individuals managing misophonia.",
+        "You draw on evidence from peer-reviewed literature, clinical guidelines, and behavioral science.",
+        "Your responses are clear, thoughtful, and grounded in the provided context.",
         "====",
         "QUESTION:",
         question,
@@ -260,22 +262,23 @@ def build_prompt(question: str, chunks: List[Dict]) -> str:
         *snippet_lines,
         "====",
         "INSTRUCTIONS:",
-        "• Write the answer in **Markdown**:",
-        "    – A one‑sentence overview",
-        "    – Then a numbered list of key findings (each ≤ 2 lines)",
-        "    – End with a short concluding sentence",
-        "• Cite sources inline like [1], [2] …",
-        "• After the answer, reproduce a section titled 'BIBLIOGRAPHY:'",
-        "  listing each source exactly as provided below (title included).",
-        "• If none of the chunks answer the question, reply:",
-        '  "I\'m sorry, I don\'t have sufficient information to answer that."',
+        "• Write your answer in **Markdown**.",
+        "• Begin with a concise summary (2–3 sentences).",
+        "• Then elaborate on key points using well-structured paragraphs.",
+        "• Provide relevant insights or suggestions (e.g., clinical, behavioral, emotional, or research-related).",
+        "• If helpful, use lists, subheadings, or analogies to enhance understanding.",
+        "• Use a professional and empathetic tone.",
+        "• Cite sources inline like [1], [2] etc.",
+        "• After the answer, include a 'BIBLIOGRAPHY:' section that lists each source exactly as provided below.",
+        "• If none of the context answers the question, reply: \"I'm sorry, I don't have sufficient information to answer that.\"",
         "====",
         "BEGIN OUTPUT",
         "ANSWER:",
-        "",                       # <- model writes here
+        "",  # where the model writes the main response
         "BIBLIOGRAPHY:",
         *biblio_lines,
     ]
+
 
     return '\n'.join(prompt_parts)
 
