@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Stage 4 — read an existing JSON, make **one** GPT-4 call that fills every
-bibliographic field, and merge it back.
+Stage 4 — LLM metadata enrichment with concurrent API calls.
 """
 from __future__ import annotations
 import json, logging, pathlib, re, os
 from textwrap import dedent
 from typing import Any, Dict, List
+import asyncio
+from concurrent.futures import ThreadPoolExecutor
+import aiofiles
 
 # ─── minimal shared helpers ────────────────────────────────────────
 def _authors(val:Any)->List[str]:
@@ -62,16 +64,64 @@ def _gpt(text:str)->Dict[str,Any]:
     m=re.search(r"{[\s\S]*}",raw)
     return json.loads(m.group(0) if m else "{}")
 
-# ─── public function ───────────────────────────────────────────────────────
-def enrich(json_path:pathlib.Path)->None:
-    data=json.loads(json_path.read_text())
-    # reconstruct the body text from the new structure
-    full=" ".join(
-        el.get("text","") for sec in data["sections"] for el in sec.get("elements",[])
+# Async version of GPT call
+async def _gpt_async(text: str, semaphore: asyncio.Semaphore) -> Dict[str, Any]:
+    """Async GPT call with rate limiting."""
+    if not OPENAI_API_KEY:
+        return {}
+    
+    async with semaphore:  # Rate limiting
+        loop = asyncio.get_event_loop()
+        # Run synchronous OpenAI call in thread pool
+        return await loop.run_in_executor(None, _gpt, text)
+
+async def enrich_async(json_path: pathlib.Path, semaphore: asyncio.Semaphore) -> None:
+    """Async version of enrich."""
+    # Read file asynchronously
+    async with aiofiles.open(json_path, 'r') as f:
+        content = await f.read()
+        data = json.loads(content)
+    
+    # Reconstruct body text
+    full = " ".join(
+        el.get("text", "") for sec in data["sections"] 
+        for el in sec.get("elements", [])
     )
-    new_meta=_gpt(_first_words(full))
-    # ✅ merge – keep everything that was already there
-    data.update(new_meta)                 # <- adds/overwrites meta fields
+    
+    # Make async GPT call
+    new_meta = await _gpt_async(_first_words(full), semaphore)
+    
+    # Merge metadata
+    data.update(new_meta)
+    
+    # Write back asynchronously
+    async with aiofiles.open(json_path, 'w') as f:
+        await f.write(json.dumps(data, indent=2, ensure_ascii=False))
+    
+    log.info("✓ metadata enriched → %s", json_path.name)
+
+async def enrich_batch_async(
+    json_paths: List[pathlib.Path],
+    max_concurrent: int = 10
+) -> None:
+    """Enrich multiple documents concurrently with rate limiting."""
+    semaphore = asyncio.Semaphore(max_concurrent)
+    
+    tasks = [enrich_async(path, semaphore) for path in json_paths]
+    
+    from tqdm.asyncio import tqdm_asyncio
+    await tqdm_asyncio.gather(*tasks, desc="Enriching metadata")
+
+# Keep original interface for compatibility
+def enrich(json_path: pathlib.Path) -> None:
+    """Original synchronous interface."""
+    data = json.loads(json_path.read_text())
+    full = " ".join(
+        el.get("text", "") for sec in data["sections"] 
+        for el in sec.get("elements", [])
+    )
+    new_meta = _gpt(_first_words(full))
+    data.update(new_meta)
     json_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), 'utf-8')
     log.info("✓ metadata enriched → %s", json_path.name)
 

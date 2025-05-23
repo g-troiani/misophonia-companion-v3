@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Stage 1-2 — *Extract PDF → clean text → logical sections*  
+Optimized version with concurrent processing support.
 Outputs `<n>.json` (+ a pretty `.txt`) in `documents/research/{json,txt}/`.
 This file is **fully self-contained** – no import from `stages.common`.
 """
@@ -10,7 +11,10 @@ import json, logging, os, pathlib, re, sys
 from collections import Counter
 from datetime import datetime
 from textwrap import dedent
-from typing import Any, Dict, List, Sequence
+from typing import Any, Dict, List, Sequence, Optional
+import asyncio
+from concurrent.futures import ProcessPoolExecutor, as_completed
+import multiprocessing as mp
 
 # ─── helpers formerly in common.py ──────────────────────────────────
 _LATIN1_REPLACEMENTS = {  # windows-1252 fallback
@@ -396,6 +400,99 @@ def extract_pdf(
         stats["processed"] += 1
 
     return json_path
+
+# New: Thread-safe converter pool
+class ConverterPool:
+    """Thread-safe pool of DocumentConverter instances."""
+    def __init__(self, size: int = None):
+        self.size = size or mp.cpu_count()
+        self._converters = []
+        self._lock = mp.Lock()
+        self._initialized = False
+    
+    def get(self):
+        """Get a converter from the pool."""
+        with self._lock:
+            if not self._initialized:
+                self._initialize()
+            return self._converters[mp.current_process()._identity[0] % self.size]
+    
+    def _initialize(self):
+        """Lazy initialize converters."""
+        for _ in range(self.size):
+            self._converters.append(_make_converter())
+        self._initialized = True
+
+# Global converter pool
+_converter_pool = ConverterPool()
+
+def extract_pdf_concurrent(
+    pdf: pathlib.Path,
+    txt_dir: pathlib.Path,
+    json_dir: pathlib.Path,
+    *,
+    overwrite: bool = False,
+    ocr_lang: str = "eng",
+    keep_markup: bool = True,
+    docling_only: bool = False,
+    stats: Counter | None = None,
+    enrich_llm: bool = True,
+) -> pathlib.Path:
+    """Thread-safe version of extract_pdf that uses converter pool."""
+    conv = _converter_pool.get()
+    return extract_pdf(
+        pdf, txt_dir, json_dir, conv,
+        overwrite=overwrite,
+        ocr_lang=ocr_lang,
+        keep_markup=keep_markup,
+        docling_only=docling_only,
+        stats=stats,
+        enrich_llm=enrich_llm
+    )
+
+async def extract_batch_async(
+    pdfs: List[pathlib.Path],
+    *,
+    overwrite: bool = False,
+    keep_markup: bool = True,
+    ocr_lang: str = "eng",
+    enrich_llm: bool = True,
+    max_workers: Optional[int] = None,
+) -> List[pathlib.Path]:
+    """Extract multiple PDFs concurrently."""
+    from .acceleration_utils import hardware
+    
+    stats = Counter()
+    results = []
+    
+    # Use process pool for CPU-bound extraction
+    with hardware.get_process_pool(max_workers) as executor:
+        # Submit all tasks
+        future_to_pdf = {
+            executor.submit(
+                extract_pdf_concurrent,
+                pdf, TXT_DIR, JSON_DIR,
+                overwrite=overwrite,
+                ocr_lang=ocr_lang,
+                keep_markup=keep_markup,
+                enrich_llm=enrich_llm,
+                stats=stats
+            ): pdf
+            for pdf in pdfs
+        }
+        
+        # Process completed tasks
+        from tqdm import tqdm
+        for future in tqdm(as_completed(future_to_pdf), total=len(pdfs), desc="Extracting PDFs"):
+            pdf = future_to_pdf[future]
+            try:
+                json_path = future.result()
+                results.append(json_path)
+            except Exception as exc:
+                log.error(f"Failed to extract {pdf.name}: {exc}")
+                
+    log.info(f"Extraction complete: {stats['processed']} processed, {stats['ocr_pages']} OCR pages")
+    return results
 
 # ╔══════════════════════════════════════════════════════════════════════════╗
 # ║                          public entry-point                             ║

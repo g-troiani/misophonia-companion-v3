@@ -34,7 +34,7 @@ RUN_EMBED      = True      # ← requires OpenAI + Supabase creds
 log = logging.getLogger("pipeline-modular")
 Console().rule("[bold cyan]Misophonia PDF → Vector pipeline (modular)")
 
-def main(src:pathlib.Path, selection:str="sequential", cap:int=0) -> None:
+def main(src:pathlib.Path, selection:str="sequential", cap:int=0, stage:int=0, overwrite:bool=False) -> None:
     pdfs = [src] if src.is_file() else sorted(src.rglob("*.pdf"))
     if cap:
         pdfs = random.sample(pdfs, cap) if selection == "random" else pdfs[:cap]
@@ -44,7 +44,7 @@ def main(src:pathlib.Path, selection:str="sequential", cap:int=0) -> None:
     for pdf in tqdm(pdfs, desc="Papers"):
         try:
             # ─── Stage 1-2  Extract + Clean ────────────────────────────────
-            json_doc = extract_clean.run_one(pdf, conv=conv) if RUN_EXTRACT else \
+            json_doc = extract_clean.run_one(pdf, conv=conv, overwrite=overwrite) if RUN_EXTRACT else \
                        extract_clean.json_path_for(pdf)
             # ─── Stage 4  LLM metadata enrich ─────────────────────────────
             if RUN_LLM_ENRICH:
@@ -53,7 +53,7 @@ def main(src:pathlib.Path, selection:str="sequential", cap:int=0) -> None:
             chunks = chunk_text.chunk(json_doc) if RUN_CHUNK else None
             # ─── Stage 6  DB upsert + (optional) Stage 7 embed  ───────────────
             if RUN_DB:
-                db_upsert.upsert(json_doc, chunks, do_embed=RUN_EMBED)
+                db_upsert.upsert(json_doc, chunks, do_embed=RUN_EMBED, overwrite=overwrite)
             stats["ok"] += 1
         except Exception as exc:          # noqa: BLE001
             log.exception("✖ %s failed → %s", pdf.name, exc)
@@ -72,5 +72,7 @@ if __name__ == "__main__":
     p.add_argument("--selection", choices=["sequential", "random"],
                    default="sequential")
     p.add_argument("--cap", type=int, default=0)
+    p.add_argument("--stage", type=int, default=0)
+    p.add_argument("--overwrite", action="store_true")
     args = p.parse_args()
-    main(args.src, args.selection, args.cap) 
+    main(args.src, args.selection, args.cap, args.stage, args.overwrite) 

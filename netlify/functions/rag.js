@@ -44,23 +44,166 @@ const sb     = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 const groq   = new Groq({ apiKey: GROQ_API_KEY });
 
+// ────────────────────────── Enhanced caching with TTL ───────────────────────── //
+class LRUCacheWithTTL {
+  constructor(maxSize = 100, ttl = 3600000) { // 1 hour TTL by default
+    this.maxSize = maxSize;
+    this.ttl = ttl;
+    this.cache = new Map();
+    this.accessOrder = [];
+    this.stats = { hits: 0, misses: 0, evictions: 0 };
+  }
+
+  get(key) {
+    const item = this.cache.get(key);
+    if (!item) {
+      this.stats.misses++;
+      return null;
+    }
+
+    // Check if item has expired
+    if (Date.now() - item.timestamp > this.ttl) {
+      this.cache.delete(key);
+      this.removeFromAccessOrder(key);
+      this.stats.misses++;
+      return null;
+    }
+
+    // Move to end (most recently used)
+    this.removeFromAccessOrder(key);
+    this.accessOrder.push(key);
+    this.stats.hits++;
+    
+    console.log(`Cache hit for key: ${key.substring(0, 50)}...`);
+    console.log(`Cache stats - Hits: ${this.stats.hits}, Misses: ${this.stats.misses}, Hit rate: ${(this.stats.hits / (this.stats.hits + this.stats.misses) * 100).toFixed(1)}%`);
+    
+    return item.value;
+  }
+
+  set(key, value) {
+    // Remove if already exists
+    if (this.cache.has(key)) {
+      this.removeFromAccessOrder(key);
+    }
+
+    // Evict LRU items if at capacity
+    while (this.cache.size >= this.maxSize) {
+      const lruKey = this.accessOrder.shift();
+      this.cache.delete(lruKey);
+      this.stats.evictions++;
+    }
+
+    // Add new item
+    this.cache.set(key, {
+      value: value,
+      timestamp: Date.now()
+    });
+    this.accessOrder.push(key);
+    
+    console.log(`Cached new embedding for key: ${key.substring(0, 50)}...`);
+  }
+
+  removeFromAccessOrder(key) {
+    const index = this.accessOrder.indexOf(key);
+    if (index > -1) {
+      this.accessOrder.splice(index, 1);
+    }
+  }
+
+  // Clean up expired items
+  cleanup() {
+    const now = Date.now();
+    for (const [key, item] of this.cache.entries()) {
+      if (now - item.timestamp > this.ttl) {
+        this.cache.delete(key);
+        this.removeFromAccessOrder(key);
+      }
+    }
+  }
+
+  getStats() {
+    return {
+      ...this.stats,
+      size: this.cache.size,
+      hitRate: this.stats.hits + this.stats.misses > 0 
+        ? (this.stats.hits / (this.stats.hits + this.stats.misses) * 100).toFixed(1) + '%'
+        : '0%'
+    };
+  }
+}
+
+// Enhanced cache with TTL and LRU eviction
+const embCache = new LRUCacheWithTTL(100, 3600000); // 100 items, 1 hour TTL
+
+// Rate limiting for embedding calls
+let lastEmbedCall = 0;
+const EMBED_RATE_LIMIT_MS = 100; // Minimum 100ms between embed calls
+
+// Periodic cleanup of expired cache entries (every 10 minutes)
+setInterval(() => {
+  embCache.cleanup();
+  console.log('Cache cleanup completed. Current stats:', embCache.getStats());
+}, 600000);
+
 // ────────────────────────── embedding & similarity ───────────────────────── //
-// In-memory LRU-ish cache (Map) so repeated identical queries in the same
-// container instance don't double-embed and waste tokens.
-const embCache = new Map();
-
-/** Return ada-002 embedding for *text* (1536-D float array) */
+/** Return ada-002 embedding for *text* (1536-D float array) with enhanced caching */
 async function embed(text) {
-  if (embCache.has(text)) return embCache.get(text);
+  // Normalize text for cache key consistency
+  const normalizedText = text.trim().toLowerCase().slice(0, 8192);
+  const cacheKey = normalizedText;
+  
+  // Check cache first
+  const cached = embCache.get(cacheKey);
+  if (cached) {
+    return cached;
+  }
 
-  const { data } = await openai.embeddings.create({
-    model: 'text-embedding-ada-002',
-    input: text.slice(0, 8192), // hard limit: ada-002 max input tokens
-  });
+  // Rate limiting
+  const now = Date.now();
+  const timeSinceLastCall = now - lastEmbedCall;
+  if (timeSinceLastCall < EMBED_RATE_LIMIT_MS) {
+    await new Promise(resolve => setTimeout(resolve, EMBED_RATE_LIMIT_MS - timeSinceLastCall));
+  }
 
-  const vec = data[0].embedding;
-  embCache.set(text, vec);
-  return vec;
+  try {
+    console.log(`Making OpenAI embedding call for text: ${text.substring(0, 100)}...`);
+    
+    const { data } = await openai.embeddings.create({
+      model: 'text-embedding-ada-002',
+      input: text.slice(0, 8192), // hard limit: ada-002 max input tokens
+    });
+
+    const vec = data[0].embedding;
+    lastEmbedCall = Date.now();
+    
+    // Cache the result
+    embCache.set(cacheKey, vec);
+    
+    console.log('Embedding generated and cached successfully');
+    console.log('Current cache stats:', embCache.getStats());
+    
+    return vec;
+  } catch (error) {
+    console.error('OpenAI embedding failed:', error);
+    
+    // If rate limited, wait and retry once
+    if (error.status === 429) {
+      console.log('Rate limited, waiting 2 seconds and retrying...');
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      
+      const { data } = await openai.embeddings.create({
+        model: 'text-embedding-ada-002',
+        input: text.slice(0, 8192),
+      });
+      
+      const vec = data[0].embedding;
+      lastEmbedCall = Date.now();
+      embCache.set(cacheKey, vec);
+      return vec;
+    }
+    
+    throw error;
+  }
 }
 
 /** Plain cosine similarity (no scaling) */
@@ -95,6 +238,8 @@ const looksLikeRefs = (txt) =>
  * 6. Return top *limit* rows
  */
 async function semanticSearch(query, limit = 8, threshold = 0) {
+  console.log(`Starting semantic search for query: "${query}" (limit: ${limit})`);
+  
   const qVec = await embed(query);
 
   const { data: rows = [] } = await sb.rpc('match_research_chunks', {
@@ -103,7 +248,11 @@ async function semanticSearch(query, limit = 8, threshold = 0) {
     match_count: limit * 4,      // over-fetch (will re-rank)
   });
 
+  console.log(`Retrieved ${rows.length} initial matches from vector search`);
+
   const filtered = rows.filter(r => !looksLikeRefs(r.text));
+  console.log(`After filtering bibliography chunks: ${filtered.length} matches remain`);
+  
   if (!filtered.length) return [];
 
   // Bulk-fetch embeddings + document rows in 2 round-trips
@@ -143,9 +292,13 @@ async function semanticSearch(query, limit = 8, threshold = 0) {
     r.doc        = docMap.get(r.document_id) || {};
   });
 
-  return filtered
+  const finalResults = filtered
     .sort((a, b) => b.similarity - a.similarity)
     .slice(0, limit);
+
+  console.log(`Returning ${finalResults.length} final results after re-ranking`);
+  
+  return finalResults;
 }
 
 // ────────────────────────── prompt-budget helper ─────────────────────────── //
@@ -161,6 +314,8 @@ function trimChunks(chunks) {
     out.push(c);
     acc += len;
   }
+  
+  console.log(`Trimmed chunks: ${out.length}/${chunks.length} chunks fit in ${acc}/${MAX_PROMPT_CHARS} chars`);
   return out;
 }
 
@@ -233,10 +388,16 @@ export async function handler(event) {
         .select('id', { count: 'exact' })
         .limit(1);
 
+      // Include cache stats in response
+      const cacheStats = embCache.getStats();
+
       return {
         statusCode: 200,
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ total_chunks: count }),
+        body: JSON.stringify({ 
+          total_chunks: count,
+          cache_stats: cacheStats
+        }),
       };
     }
 
@@ -253,9 +414,12 @@ export async function handler(event) {
       return { statusCode: 400, body: 'Missing "query"' };
     }
 
+    console.log(`Processing RAG request for query: "${query}"`);
+
     /* 1. Semantic retrieval */
     const rawMatches = await semanticSearch(query, limit);
     if (!rawMatches.length) {
+      console.log('No matches found for query');
       return {
         statusCode: 200,
         headers: { 'content-type': 'application/json' },
@@ -271,6 +435,8 @@ export async function handler(event) {
     /* 2. Prompt construction */
     const chunks = trimChunks(rawMatches);
     const prompt = buildPrompt(query, chunks);
+
+    console.log(`Generated prompt with ${chunks.length} chunks`);
 
     /* 3. LLM generation via Groq */
     const chat = await groq.chat.completions.create({
@@ -301,6 +467,8 @@ RULES:
 
     /* 4. Remove heavy embedding vectors before returning to client */
     rawMatches.forEach(m => delete m.embedding);
+
+    console.log(`RAG request completed successfully. Cache stats:`, embCache.getStats());
 
     return {
       statusCode: 200,

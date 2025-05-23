@@ -31,9 +31,6 @@ EXCLUDED_FILES = [
     'rename_map_misophonia.tsv', # Data mapping file
     'not_about_misophonia.txt', # Content filtering data file
     '.DS_Store', # macOS system file
-    # Supabase embedding reports - these are logs/reports, not code
-    'supabase_embedding_report_20250522_222601.json',
-    'supabase_embedding_report_20250522_224217.json'
 ]
 
 # Expanded list of exclusions for virtual environments and node modules
@@ -58,6 +55,7 @@ EXCLUDED_DIRS = [
     'cache',              # Cache directories (scripts/cache)
     'artefacts',          # Generated artifacts (scripts/artefacts)
     'artifacts',          # Alternative spelling
+    'reports',            # Report files (embedding reports, etc.)
 ]
 
 # Path-based exclusions - these are specific paths we want to exclude

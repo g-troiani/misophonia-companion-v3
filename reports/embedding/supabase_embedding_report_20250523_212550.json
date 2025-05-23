@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250523_212550",
+  "batch_size": 200,
+  "commit": 10,
+  "max_concurrent": 3,
+  "total_embedded": 14,
+  "total_with_embeddings": 4769,
+  "total_tokens_used": 40164,
+  "api_calls_made": 8
+}
