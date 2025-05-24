@@ -6,8 +6,7 @@
 Vector‑search smoke‑test (Supabase edition)
 ==========================================
 
-• Firebase/Firestore has been removed — every data call now goes through
-  Supabase's PostgREST API.
+• This script tests vector search functionality using Supabase's PostgREST API.
 
 • The script calls a SQL helper function that must exist on your database:
     public.search_research_chunks(query_text TEXT,

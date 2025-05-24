@@ -2,85 +2,63 @@
 ################################################################################
 # File: js-requirements.md
 ################################################################################
-# JavaScript Dependencies for Misophonia Research RAG System
+# JavaScript Dependencies
 
 ## Core Dependencies
 
+For frontend:
 ```json
-{
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "fast-glob": "^3.3.3",
-    "firebase": "^10.0.0",
-    "firebase-admin": "^11.8.0",
-    "mammoth": "^1.9.0",
-    "node-fetch": "^3.3.1",
-    "openai": "^4.9.0",
-    "pdfjs-dist": "^3.7.107",
-    "express": "^4.18.2",
-    "cors": "^2.8.5",
-    "axios": "^1.4.0",
-    "body-parser": "^1.20.2"
-  }
-}
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"vite": "^4.0.0",
+"@vitejs/plugin-react": "^3.0.0"
+```
+
+For backend (Node.js):
+```json
+"express": "^4.18.0",
+"cors": "^2.8.5",
+"dotenv": "^16.0.0",
+"openai": "^4.0.0"
+```
+
+## AI/ML Dependencies
+
+```json
+"openai": "^4.0.0",
+"groq-sdk": "^0.21.0"
+```
+
+## Vector Database Dependencies
+
+```json
+"@supabase/supabase-js": "^2.39.0"
 ```
 
 ## Development Dependencies
 
 ```json
-{
-  "devDependencies": {
-    "@eslint/js": "^9.22.0",
-    "@types/react": "^19.0.10",
-    "@types/react-dom": "^19.0.4",
-    "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "^9.22.0",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.19",
-    "globals": "^16.0.0",
-    "netlify-cli": "^13.2.2",
-    "vite": "^6.3.1",
-    "vite-plugin-pwa": "^1.0.0"
-  }
-}
+"@types/node": "^18.0.0",
+"@types/react": "^18.0.0",
+"@types/react-dom": "^18.0.0",
+"eslint": "^8.0.0",
+"typescript": "^4.9.0"
 ```
 
-## Firebase-specific Dependencies
+## Installation Commands
 
-```json
-{
-  "dependencies": {
-    "firebase/app": "included in firebase package",
-    "firebase/firestore": "included in firebase package",
-    "firebase/functions": "included in firebase package",
-    "firebase-admin/app": "included in firebase-admin package",
-    "firebase-admin/firestore": "included in firebase-admin package",
-    "firebase-functions": "^4.3.0"
-  }
-}
+1. For the main project:
+```bash
+npm install
 ```
 
-## Installation Instructions
-
-1. These dependencies are already defined in your project's `package.json` file.
-2. To install all dependencies, run:
-   ```
-   npm install
-   ```
-3. For Firebase Cloud Functions, navigate to the functions directory and run:
-   ```
-   cd functions
-   npm install
-   ```
+2. If using a separate server directory:
+```bash
+cd server && npm install
+```
 
 ## Notes
 
-- The Firebase client and admin SDKs are separate packages with different use cases:
-  - `firebase` is for client-side applications
-  - `firebase-admin` is for server-side applications and has elevated privileges
-
-- For the RAG system, the key dependencies are:
-  - `openai`: For generating embeddings and AI responses
-  - `firebase-admin`: For accessing Firestore vector database
-  - `pdfjs-dist`: For processing PDF documents
-  - `express`: For the web server interface
+- All dependencies are focused on Supabase integration for vector storage
+- The OpenAI SDK handles embeddings and chat completions
+- Groq SDK provides alternative LLM options

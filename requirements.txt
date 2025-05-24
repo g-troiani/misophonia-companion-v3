@@ -5,7 +5,6 @@
 # Python dependencies for Misophonia Research RAG System
 
 # Core dependencies
-firebase-admin>=6.2.0
 openai>=1.0.0
 numpy>=1.24.0
 python-dotenv>=1.0.0
@@ -22,9 +21,6 @@ tqdm>=4.65.0
 tabulate>=0.9.0
 colorama>=0.4.6
 argparse>=1.4.0
-
-# Firebase/Google Cloud
-google-cloud-firestore>=2.11.0
 
 # For concurrent processing
 concurrent-log-handler>=0.9.20
